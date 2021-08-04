@@ -1,0 +1,3584 @@
+# format: search string>replace string>word meanings>replace only if hebrew matches this
+# alternate format (deprecated): search string>cs>replace string>... # cs means case sensitive, standard is case insensitive matching
+
+.elohims>elohim
+.god>elohim
+.gods>elohim
+#.the LORD>cs>jhvh
+#.LORD>cs>jhvh
+
+# tense playground. he creates waere jebara, nicht bara? ist das hebraeisch past tense?>
+# saw > sees 
+# created > creates 
+# were > are 
+# said > sais 
+# made > makes 
+# was > is 
+#ed >s 
+
+# phrases
+replenish the earth, and subdue it: and have dominion>fill the earth, and shepherd-preserve it: and go down on
+and thou shalt bruise his heel>and thou shalt bruise his jacob-heel
+hath appointed me another seed>hath set me up with another seed
+the sons of elohim saw the daughters of men>the he children of elohim saw the she children of men
+shall enlarge japheth>shall beautify japheth
+i will thank jhvh>i will vaporize jhvh
+# and slime had they for mortar>hamar had they for mortar-hamar-and clay
+which they have imagined to do>which they have initiated to do
+and there confound their language>and there wear-out their language
+that they may not understand one another's speech>that they may not hear one another's speech
+confound the language of all the earth>wear out the language of all the earth
+and leah said, a troop cometh>and leah said, luck comet
+happy am i, for the daughters will call me blessed>blissful am i, for the daughters will call me blessed
+elohim hath given me my hire>elohim hath given me my wage
+hath made me forget all my toil>hath let me sleep over my toil
+tree of the knowledge of good and evil>tree of the knowledge of good and evil
+an help meet for him>a helping counter-touch for him>neged against, counter
+#i have two daughters which have not known man>i have two female children-bin which have not known man
+sons in law>sons-in-law
+and jacob heard that he had defiled dinah>and jacob heard that he had tama dinah
+because he had defiled dinah their sister>because he had tama dinah their sister
+#for as a prince hast thou power with elohim and with men, and hast prevailed>for you are immersed in elohim and in men, and you can do it
+for as a prince hast thou power with elohim and with men, and hast prevailed>for you are fluent in elohim and in men, and you can do it
+when pharaoh had let the people go>when pharaoh had sent the people
+and i will get me honor upon pharaoh>and i will get heavy upon pharaoh
+and made the sea dry land, and the waters were branched-off>and made the sea dry land, and the waters were split>baqa split
+by these were the isles of the gentiles divided in their lands>by these were the isles of the gentiles branched-off in their lands>parad branch-off
+and when they came to marah>and when they came to maratah
+#according to the number of your persons>according to the number of your rolling-heads
+and i will send hornets>and i will send the hornet
+cleanse the altar>miss the altar
+to minister to me in the priest's office>to priest to me
+that there be no plague among them, when thou numberest them>that there be no obstacle-nagaf among them, when thou numberest them
+and she conceived, and bare cain>and she climaxed-tahar, and bare cain
+and the lord talked with moses>and talked with moses
+the tabernacle of the tent of the congregation>the dwelling of the tent of the congregation>mishkhan house, dwelling
+on the head day of the month>on the first# the month
+and balak offered oxen and sheep>and balak butchered oxen and flock>jizbakh, zon
+and prepare me here seven oxen and seven rams>and prepare me here seven bulls and seven rams>par bull
+#peradventure jhvh will come to meet me>peradventure jhvh will happen to call me>kara
+in their due season>in his moed
+but if ye will not do so, behold, ye have sinned against jhvh>but if ye will not do so, behold, ye have missed jhvh>khata
+desert of sin>desert of bush-sin#
+and the prince of the tribe of>and the tribe of
+and show thee mercy, and have compassion upon thee>and show thee womb-mercies, and have womb-compassion on thee>rkhm rkhm
+
+they came near unto the altar>they inwarded unto the altar
+and thou shalt bring aaron and his sons unto the door>and thou shalt qrb#bring aaron and his sons unto the door
+whose heart stirred him up>whose heart inwarded him up
+i pray thee, go among us>i pray thee, qrb#go among us
+among which thou art shall see the work of>inward which thou art shall see the work of
+i will come up into the midst of thee>i will come up into the qrb#midst of thee
+for i will not go up in the midst of thee>for i will not go up in the qrb of thee
+nigh unto the camp>qrb the camp
+of you bring>of you qrb
+ye shall bring your>ye shall qrb your
+shall bring it>shall qrb it
+or a kid of the goats>or a hairy goat
+about with his finger, and purified the>about with his finger, and missed the
+
+cut off from among his people>cut off from his people
+there thou shalt offer thy burnt offerings>there thou shalt up-to thy burnt offerings>alah
+the house-daughter of bondage>the house of works>abadim
+all that were able to go forth to war>all that came out in zabas
+
+and, behold, i purpose to build an house unto the name>and, behold, i purpose to build an alphabethouse unto the name
+that thine eyes may be open toward this house night and day>that thine eyes may be open toward this alphabethouse night and day
+
+# bms bookmark sentences
+
+
+# bmw, bookmark words: some word replacements that would mess up names further down
+gate>hair#-gate
+hair>gate-hair
+skin>light-skin
+white>to#-build-white
+reddish>earthy-man-reddish
+son in law>soninlaw
+father in law>fatherinlaw
+mother in law>motherinlaw
+#waters>from-waters
+#water >from-water
+teb#abhor>crave-abhor>ta'ab crave yearn, ta'ab abhor, despise
+
+# start letters-gospel-apocalypse
+# bmw
+#.theos>theory-theos
+#.jesus#>jesus-save-joshua
+#resurrection>up-stand
+#apostleship>out-send
+#gospel>announcement
+#unrighteousness>not being right
+#righteousness>being right
+#power>dynamic
+#.rome>force-rome
+#chresto#goodness>usefulness
+#oracles of theos>logic of theos
+#doeth good>doeth something handy
+#justification>being right>dikaiosin
+#justified>right>dikaio
+
+# continue ἀλλὰ ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ μέχρι Μωϋσέως καὶ ἐπὶ τοὺς μὴ ἁμαρτήσαντας ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως Ἀδάμ, ὅς ἐστιν τύπος τοῦ μέλλοντος. >
+
+# bmw bookmark words
+
+# up and onwards with the bereshit
+#heavens>namespaces=heavens
+#heaven >namespace=heavens>or namespaces
+heavens>namespaces
+heaven >namespaces
+the spirit>ruakh
+spirit>ruakh
+ghost>ruakh
+#ruakh>breath-spirit>or breath-esprit>breath
+!ruakh>breath
+house of elohim>alphabethouse of elohim
+house of yhvh>alphabethouse of yhvh
+house for the name of>alphabethouse for the name 
+.#elohim>theohries-elohim
+.#elohim>to-not-ees-elohim
+.#elohim>those
+.#elohim>ontops
+.#elohim>top-not-ees
+.#elohim>atheist-elohim>a not, theos el, lo not
+#.elohim>towards-these-elohim>or towards-not-elohim
+#.elohim>to=no=these>it's a working title...
+#.elohim>theohries=towards=these
+#elohim>towards=these=theohries
+#elohim>towards=allah=theohries
+#elohim>towards=not=those
+#elohim>theories\/\/don't\/\/towards
+#elohim>theohries=towards=against
+#elohim>theohries=allah=towards=against
+#elohim>theohries-allah-unto-elohim
+#elohim>theohries-unto-elohim
+#elohim>unto=these
+#elohim>these=unto
+#elohim>these=unto=theos
+#elohim>unto=these=theohry
+#elohim>theme
+# unto-these-theory ende der datei
+#against yhvh>to yhvh>lyhvh
+the yhvh>yhvh
+o yhvh>yhvh
+the word of yhvh>yhvh word
+.jehovah>yhvh
+#.yhvh>io\/\/aeiou\/\/ohyeah>or oh=aeiou=yeah, ohyeah-aeiou, yhwh-aeiou-ohyeah, yeahoh-yhwh-aeiou, aeiou-yeahoh
+#.yhvh>ohyeah=aeiou=io
+#.yhvh>ohyeah=aeiou=ihoh
+#.yhvh>ohyeah=vowels=io
+.yhvh>yeah=vowels=lord
+#good and evil>go(o)d and bad
+.eden>eon-eden
+.pison>mouth-old-pison
+.havilah>sick-havilah
+.gihon>emerged-gihon>giakh emerged
+.cush >spindle-cush
+.ethiopia>cush-spindle-ethiopia
+.hiddekel>trunk-palm-hiddekel>khadak trunk, dakhal palm
+.assyria >beech-tree-assyria
+.assyrian>beech-tree-assyrian
+.euphrates>cow-euphrates>parah cow
+.adam >earth-blood-man-adam
+and he took one of his ribs>zolea-ribs-and he took one of his side
+#between>bin-between
+.eve >biosphere-eve 
+.cherubims>multi-intern-cherubims>rab multi, qrb intern
+#conceived>conceived-high>tahar conceive, har mount, thar midday sun
+#bare>conceived=of
+.cain>cell-cain>qin nest, cell
+.abel >vapor-abel
+manakhat#offering>relax-absorber>absorber>>מנחת
+.nod>nomadic-nodi
+.enoch>teach-enoch
+sons>between-boys>or bins-mediums, he-between-bins (updated to he-between-children)
+the son of>child of>"a child of sacrifice, a child of war, another son who never had, a father after leningrad"
+the daughter of>child of
+son >between-boy>or child-medium, he-between-child
+children>children>or bins-mediums, bins-betweens
+.irad>descend-bronze-irad>arad bronze
+.mehujael>from-live-theory
+.methusael>weakening-theory
+.lamech>fool-lamech
+.adah>witness-adah
+.zillah>shadow-zillah
+.jabal>spend-time-jabal
+.jubal>river-jubal
+.tubalcain>seasoned-cell-tubalcain
+.naamah>pleasant-naamah
+.seth >set-seth
+daughters>between-daughters#>bnwt>or children-medias, she-between-children, bin between, middle, medium, compate latin liber child and book
+daughter >house-daughter>or daughter-child daughter-bat#-child
+household>daughter-household>byt
+house >daughter-house>or bayt-alphabet-daughter, daughter-house, or house-daughter
+she-bat-child>house-child-daughter>or she-house-child
+.enos>man-enos
+.cainan>mourned-cainan
+.mahalaleel>praise-theory-mahalaleel
+.maleleel>praise-theory-mahalaleel
+.jared>come-down-jared
+.methuselah>death-brings-methuselah
+.mathusala>death-brings-methuselah>lgaa
+#.noah>relax-noah
+#.noe>relax-noah>lgaa
+.noah>rest-noah
+.noe>rest-noah>lgaa
+this same shall comfort us>this same shall rest us
+.shem >name-shem
+.sem >name-shem>lgaa
+#.ham >hot-tempered-ham
+#.ham >hot-ham
+.canaanite>trader-canaanite>mobile-merchant-cannanites, mobile-barrel-cannanites
+.canaan >trade-canaan>mobile-barrel-canaan
+.chanaan>trade-canaan>lgaa
+.cana>trade-cana>lgaa
+.japheth>beautiful-japheth
+#giants>stillbirths>nafal stillbirth, wobei, sind die bnei anak heroes or stillbirths?>נפלים
+servant>worker>abad
+.ararat>appeal-ararat
+faces>turnings-faces
+face >face-turnings>panah
+altar>kitchen-butcher>or kill-kitchen zabakh
+.gomer>final-gomer
+.magog>from-roof-magog
+.madai>every-madai
+.javan>mud-greece-javan
+.tubal>world-tubal
+.meshech>duration-meshech
+.tiras>corn-tiras
+.ashkenaz>fire-conference-ashkenaz>canas conference
+.riphath>cowshed-riphath>refet cowshet
+.togarmah>produced-togarmah>garam to cause, produce, result in
+.elishah>theory-kneading-elishah>lishah kneading
+.tarshish>cypress-cedar-tarshish>or aquamarine-tarshish
+.tarsus>cypress-cedar-tarsus>lgaa
+.kittim>stains-kittim
+.dodanim>nipple-dudes-dodanim
+gentiles>nations
+.mizraim>egypt
+.egypt>narrows-create-mizraim>or narrows-mizraim, narrow-mizraim-egypt
+.puth>open-puth
+.seba>grandpa-seba
+.sabtah>grandma-sabta>sabat grandmother
+.raamah>thunder-mane-raamah>raamah mane, raam to thunder
+.sabtechah>sabtecha
+.sheba>coming-sheba
+.dedan>breast-discuss-dedan
+.nimrod>rebellious-nimrod
+.babel>old-babel
+.erech>lasting-uruk-erech
+.accad>jug-accad>cad jug
+.calneh>all-lodgings-calneh>lanah lodging
+.shinar>youth-shinar>na'ar youth
+.asshur>beech-asshur
+.nineveh>house-pasture-nineveh>navah house, hostel
+.ninevites>house-pasture-ninevites>lgaa
+.rehoboth>wide-area-rehoboth>rikhaba square, plaza, yard
+.calah>out-of-date-calah>calakh obdolescence
+.resen>bridle-resen
+.ludim>birth-ludim>ladah birth
+.anamim>grapes-anamim
+.lehabim>blades-lehabim
+.naphtuhim>open-naphtuhim
+.pathrusim>solutions-pathrusim
+.casluhim>as-forgiveness-casluhim
+.philistim>invaders-philistim
+.caphtorim>buttons-caphtorim
+.sidon>side-by-side-sidon
+.heth>bold-heth
+.jebusite>trampler-jebusite
+.amorite>talker-amorite
+.girgasite>emotional-girgasite
+.hivite>experience-hivite>chivah to express
+.arkite>ground-araktie>arak earth, ground
+.sinite>bush-sinite>seneh bush
+.arvadite>bronze-arvadite>arad bronze
+.zemarite>wool-zemarite
+.hamathite>heat-hamathite
+.gerar>tow-gerar
+.gaza>courage-goat-gaza
+.sodom>splint-blood-sodom>sad splint, dam blood
+.gomorrah>sheaves-gomorrah>omer sheaf, im with, mar bitter, hitamar to abuse
+.gomorrha>sheaves-gomorrha>lgaa
+.admah>earth-admah
+.zeboim>swollen-zeboim
+.lasha>watch-lasha>shaan watch
+.eber>pass-eber
+.elam>youth-elam>alam youth
+.arphaxad>breast-arpakhshad>shad breast
+.lud>frozen-hail-lud>or birth-lud, jalad to give birth
+.lydda>frozen-hail-lydda>lgaa
+.syria >high-aram>arm
+.aram>high-aram>rum be high
+.uz >goose-uz
+.hul >sand-hul>khol sand
+.gether>loosened-winepress-gether>get winepress; hatir allow, untie, loosen
+.mash>draw-mash>mashah to draw
+.salah>send-salah
+.sala>send-salah>lgaa
+.peleg>divided-peleg
+.phalec>divided-peleg>lgaa
+.joktan>little-joktan
+.almodad>measured-mute-almodad>alam muteness; madad measure
+.sheleph>stubble-sheleph
+.hazarmaveth>yard-death-hazarmaveth>hazar yard
+.jerah >moon-jerah
+.hadoram>their-generation-hadoram
+.uzal>used-up-uzal
+.diklah>her-palm-diklah>dekel palm tree
+.obal>worn-out>balah to wear out
+.abimael>my-father-from-theory-abimaiel
+.ophir>ash-ophir>aphar ash
+.jobab>crying-jobab#>jabab to cry
+.mesha>load-mesha
+.sephar >book-sephar
+#divided>off-branched>>פרד
+#divide>off-branch>>פרד
+brick>l-medium-brick
+stone >father-child#-stone
+build>between-build#
+builded>between-build
+built>between-built
+.reu >buddy-reu
+.ragau >buddy-reu>lgaa
+.serug>immersed-moment-serug>lisharot immerse, soak, saturate, drench; raga' moment
+.saruch>immersed-moment-saruch>lgaa
+.nahor>snore-nahor
+.terah>effort-terah
+.thara>effort-thara>lgaa
+.haran>conceived-gladness-haran
+.charran>conceived-gladness-haran>lgaa
+.lot >cover-lot
+.jordan>its-going-down-jordan
+.ur >light-ur
+.chaldees>as-genies-kasidim
+.chaldaeans>as-genies-kasidim
+#.abram>boner-abram>or erection-abram, abr organ, member, penis, rm high
+.abram>organ-boner-abram
+.sarai>my-immersedness-sarai>or my-soakedness-sarai, princess-body-sarai? or my-immersion-sarai? my-princess-sarai? my-leaving-crown-sarai? sar minister, sar to leave, move away from
+.milcah>queen-milcah
+.iscah>anoint-sum-iscah
+.moreh>teacher-moreh
+.sichem>shoulder-sichem
+.sychem>shoulder-sychem>lgaa
+.bethel>house-theory-bethel
+.#hai>
+.pharaoh >big-house-pharaoh>plunder-pay-pharaoh?
+.perizzite>unwalled-perizzite>paraz demilitarized, unwalled, village
+.zoar>grief-zoar
+.sinners>fauters
+.amraphel>falling-mother-shelf-amraphel>am mother; raf shelf; nafal fall
+.arioch>lion-smell-arioch>ari lion, riokh smell
+.ellasar>hazel-ellasar
+.chedorlaomer>pot-sheave-chedorlaomer>kadr pot; lamer sheave
+.tidal>throw-tidal>jadah to throw
+.bera >in-the-bad-bera
+.birsha>in-the-evil-birscha
+.shinab>changing-dad-shinab
+.shemeber>name-dick-shemeber
+.zeboiim>gazelles-zeboiim
+.bela>swallow-bela
+.siddim>demons-siddim
+#served>worked for
+serve>work>ebd
+.rephaim>ghosts-rephaim
+.ashteroth>you-gave-fire-ashteroth
+.karnaim>horns-karnaim
+.zuzims>moves-zuzim
+.emins>horrors-emim
+.shaveh>equal-shaveh
+.kiriathaim>cold-cities-kiriathaim
+.horites>mountain-horites
+.seir>hair-style-seir
+.enmishpat>eye-well-of-referee-enmishpat
+.kadesh >dedicated-kadesh
+.amalek>labour-king-amalek>amal labour
+#.amalekites>labour-king-amalekites
+.hazezontamar>gravel-date-hazezontamar
+.hebrew>cross#-over-hebrew
+.eshcol>fire-all-eshcol
+.aner>candle-aner>nar candle
+.hobah>obligation-hobah
+.damascus>blood-bag-damascus>dam blood; saq sack, bag (biblical)
+.melchizedek>right-king-melchizedek>or just-king-melchizedek
+.melchisedec>right-king-melchizedek>or just-king-melchisedec>lgaa
+minister unto me in the priest's office>priest unto me
+to minister in the priest's office>to priest
+priests>darkener-server#>or priests-server
+priest >darkener-server#
+server>darkener-server#>hikhah, to dull, to darken, to make faint, to make dim
+.salem>peace-complete-salem>or peace-salem
+.eliezer>my-theory-helps-eliezer
+#believed in>trained-believed in>was coached by
+believed in>stuck with
+righteousness>being right>justice
+to give thee this land to inherit it>to give thee this land to network it
+whereby shall i know that i shall inherit it>whereby shall i know that i shall network it>rashat
+serve >work for
+.kenites>nest-kenites
+.kenite >nest-kenite
+.#kenizzites>
+.kadmonites>anterior-kadmonites
+.hittites>tusk-hittites>khat tusk
+.girgashites>emotional-girgashites
+.hagar>migrate-hagar
+.agar >migrate-hagar>lgaa
+.shur>wall-shur
+.ishmael>theory-hears-ishmael
+.beerlahairoi>well-cheek-see-beerlahai-roi
+.bered>hail-bered
+.abraham>their-organ-dick-abraham>or orgahn-abraham, or their-limbs-and-dicks-abraham, abraham-their-dick, their-penis-abraham>penis-the-am#-abraham?
+people>with-mum-people>or mum-with-people, mum-people, am
+# am#>people>(from abraham)
+.sarah>her-immersedness-sarah>or her-soakedness-sarah? or princess-body-sarah? or immersion-sarah? or princess-sarah
+.sara >her-immersedness-sara>lgaa
+circumcise>write-circumcise
+circumcision>write-circumcision
+#betwixt>bin-betwixt
+.isaac>laughter-isaac
+#know >know-hand>know-fuck, דע
+#known>known-hand>known-fucked
+#knew>knew-hand>fucked, דע
+.moab>from-father-moab
+.benammi>between-with-me
+.ammon>with-ammon
+.achimelech>abimelech
+.abimelech>my-dad-king-abimelech
+righteous>right>or just
+menservants>workers
+before >before-turnings
+maidservants>mothers-maid
+.beersheba>well-of-satiated-seven-beersheba>well-of-seven-swear-beersheba
+.phichol>mouth-of-all-phichol
+.philistine>invade-grieve-philistine>plStym, plSt to invade, palash to grieve
+.moriah>bitter-teacher-moriah
+.jehovahjireh>fear-yeahoh-jireh
+
+because thou hast obeyed my voice>because thou hast heard my voice
+.huz>advice-huz
+.buz>scorn-buz
+.kemuel>get-up-theory-kemuel
+.chesed>as-a-demon-chesed
+.hazo >predict-hazo
+.pildash>fiery-iron-pildash>pelada iron, steel
+.jidlaph>leak-jidlaph
+.bethuel>his-house-theory-bethuel
+.rebekah>stall-rebekah
+.rebecca>stall-rebecca>lgaa
+.tebah>slaughter-tebah
+.gaham>whim-gaham
+.thahash>hurry-tahash
+.maachah>sqeeze-maachah>or from-acre?
+.kirjatharba>city-of-four-kirjatharba
+.ephron>pencil-ephron
+.zohar>bleach-zohar
+.machpelah>copy-product-machpelah
+.hittite>cut-hittite
+.mesopotamia>high-rivers-aramnaharim
+.keturah>complain-keturah
+.zimran>their-singer-zimran
+.jokshan>straw-jokshan>kash straw
+.medan>place-of-discussion-medan
+.midian>discussed-law-midian>or midian-place-of-discussed-law
+.madian>discussed-law-midian>lgaa
+.ishbak>kiss-ishbak
+.shuah>talk-shuah
+.letushim>glitter-letushim
+.leummim>to-mums-leummim
+.ephah>tired-ephah
+.epher>dust-epher
+.hanoch>educated-hanoch
+.abidah>my-dad-knowledge-abidah
+.eldaah>theory-knows-eldaah
+.lahairoi>i-see-to-my-life-lahairoi
+.nebajoth>lets-house-nebajoth
+.kedar>pottery-kedar
+.adbeel>slander-theory>dabah slander, libel
+.mibsam>fragrance-mibsam
+.mishma>from-hearing-mishma
+.dumah>similar-dumah
+.massa>load-massa
+.hadar>sharpen-hadad
+.tema >right-tema>jamin right
+.jetur>column-jetur>tur column
+.naphish>mental-naphish
+.kedemah>progress-kedemah
+.syrian>high-aram>arami-high
+.laban>white-laban
+.esau>do-esau
+.jacob>backstreet-boy-jacob>or backstreet-heeljacob, rear-jacob
+.edom>man-red-edom>red-edom
+abraham obeyed my voice>abraham listened to my voice
+???#charge>maintainance>>משמרת
+.ahuzzath>held-on-ahuzzath
+.judith>handy-know-judith>jad hand; jada' to know
+.beeri>my-well-beeri
+.bashemath>perfumery-bashemath
+.elon >tree-elon
+a ladder set up on the earth>helix set up on the earth-a dabble
+poured oil upon the top of it>poured oil upon the head of it
+.luz>hazel-luz
+.rachel>ewe-rachel
+.leah>tired-leah
+.reuben>see-child-reuben
+.simeon>hear-home-simeon
+#.levite>borrow-join-levite
+.levite>join-levite
+.levi >join-levi>or borrow-join-levi
+.bethlehemjudah>bethlehem judah
+.judah>know-hand-judah
+.juda >know-hand-juda>lgaa
+.bilhah>good-times-bilhah
+.dan >discuss-dan
+.naphtali>cunning-twist-naphtali
+.nephthalim>cunning-twist-naphtali
+.zilpah>sprinkle-zilpah
+.gad >tell-luck-gad
+.asher>bliss-confirm-asher
+.aser>bliss-confirm-asher
+.issachar>hire-wage-issachar
+.zebulun>garbage-fertile-zebulun
+.zabulon>garbage-fertile-zebulun>lgaa
+.dinah>discuss-dinah
+#.joseph>add-increase-joseph
+.joseph>add-joseph
+.padanaram>redeemed-stack-padanaram
+.mamre>see-bitter-mamre
+.arba>ambush-arba
+.hebron>friend-joy-hebron>hbr friend, ron joy
+gathered>added>>אספ
+.gilead>roller-until-gilead>or gilead-roll-until-heap
+.jegarsahadutha>awe-of-data-jegarsahadutha
+.galeed>roll-until-heap-galeed
+.mizpah>watch-mizpah>zapah to watch
+offered sacrifice>butchered butch>or killed killing
+.mahanaim>camping-mahanaim
+womenservants>familiars
+#.israelites>princess#-juicy-theory-israelites
+#.israelites>immersed-in-embodying-unto-israelites
+#.israelite>immersed-in-theory#-israelite
+.israelite>unto-immersed-israelite
+#.israel >immersed-in-theory\/\/allah-israel>or israel-princes#s-juicy-theory, or israel-saturated-theory, wet-for-theory-israel, princess-body-israel? or princess-body-theory-israel, or body-of-theory? immersed-in-theory-israel? immersion-israel
+#.israel >immersed-in-theory-israel
+#.israel >immersed-in-theory-allah-israel
+#.israel >immersed-in-embodying-unto-israel
+#.israel >immersed-in-unto-israel
+#.israel >immersed-in-theory#-israel
+.israel >unto-immersed-israel
+.peniel>face-turnings-of-theory
+he halted upon his thigh>zoleah-he halted upon his side>zoleah side
+#handmaid>familiar>>שפחת
+.succoth >booths-succoth
+.shalem>whole-shalem
+.shechem>shoulder-shechem
+.eleloheisrael>theohries-of-immersion-eleloheisrael
+and lay with her, and defiled her>and lay with her, and answered her
+#cleanse>climax=brighten=clean>or climax=brighten
+cleanse>brighten
+#clean>bright=climaxing=clean>or bright=climaxing>or bright-high, tahar
+clean>bright
+#pure>bright-high-pure-tahor>or bright-climax-tahor-pure
+pure>bright
+purification>brightening>bright-highness
+
+.elbethel>theory-house-theory
+.allonbachuth>tree-of-crying-alonbachut
+.ephrath>wishy-washy-ephrath
+.benoni>he-between-of-my-sexual-potency-benoni
+.benjamite>between-boy-righthand-benjamite
+.benjamin>between-boy-righthand-benjamin
+.bethlehem>bread#-house-bethlehem>or house-of-bread-bethlehem
+.edar>herd-edar
+.aholibamah>my-tent-in-what-aholibamah
+.anah>answer-anah#
+.zibeon>crayon-zibeon
+.eliphaz>my-theory-gold-eliphaz
+.jeush>wain-moth-jeush
+.jaalam>disappear-jaalam
+.korah>bald-ice-korah
+.omar>speech-omar
+.zepho>expect-float-zepho
+.gatam>arrive-gatam
+.kenaz>like-a-hawk-kenaz>naz hawk
+.timna >prevent-timna
+.nahath>landed-nahat
+.zerah>shine-zerah
+.shammah>her-name-shamah
+.mizzah>from-this-mizah
+.horite>hole-horite
+.shobal>trail-shobal
+.dishon >fertilize-dishon>dash to trample corn, tread upon; dashan fertilize
+.ezer>constrained-ezer
+.dishan>fertilize-dishan
+.beor>burn-beor>or in-the-skin-beor
+.dinhabah>lets-discuss-dinhabah
+.bozrah>in-trouble-bozrah
+.husham>rain-husham
+.hadad >thunder-hadad
+.bedad>alone-bedad
+.avith>convulsion-avith
+.samlah>dress-samlah>simlah dress
+.masrekah>from-her-whistle-masrekah
+.saul>ask-saul>Sawl
+.baalhanan>owner-deals-kindly-baalhanan
+.achbor>mouse-achbor
+.pau >groan-pau
+.mehetabel>from-proper-theory
+.matred>nuisance-matred
+.mezahab>from-gold-mezahab
+.alvah>foliage-alvah
+.yetet>you-will-yetet
+.elah>terebinth+towards-elah
+.pinon>clear-off-pinon
+.mibzar>fortress-mibzar
+.magdiel>sweetness-unto-magdiel>or from-kid-theory-magdiel>gedi kid
+.iram>their-city#-iram
+a coat of many colors>a coat of technicolor-stripes
+.dothan>decree-dothan>dat degree, well
+.potiphar>given-by-ra-potiphar>put, to give
+.adullamite>just-fleeing-adullamite>adal to flee, to be just
+.hirah>freedom-hirah
+.er >awake-er
+.onan>trouble-vigor-onan
+.shelah>pulled-out-shelah
+.chezib>in-a-lie-chezib
+.tamar>date-palm-tamar
+.thamar>date-palm-thamar
+.pharez>break-pharez>or breach-parez
+.phares>break-phares>lgaa
+.zarah>shine-zarah
+.zaphnathpaaneah>
+.asenath>thorn-bush-asenath
+.potipherah>given-by-ra-potipherah
+on >on
+.manasseh>sleep-forget-manasseh>mnSh, nSh can also mean creditor or giver of usury
+.manasses>sleep-forget-manasseh>lgaa
+sinew which shrank>sinew which shrank-manassed
+sinew that shrank>sinew that shrank-manassed
+.manassites>place-of-sleep-manassites
+.ephraim>gray-fruitful-ephraim>aprym
+.goshen>rain-goshen
+.phallu>his-fall-phallu
+.hezron>courtyard-hezron
+.ezron>courtyard-ezron
+.carmi>my-wineyard-carmi
+.jemuel>his-sea-theory
+.jamin>righthand-jamin
+.ohad>one-ohad
+.jachin>prepare-jachin
+.shaul>lent-shaul
+.gershon>stranger-gershon>or drive-out-gershon
+.kohath>obedient-hope-kohath>yaqa to obey, qava to gather into strength, hope
+.merari>bitter-merari
+.tola>red-worm-tola
+.phuvah>mouth-puah>
+.iob#job>bring-job
+.shimron>name-joy-shimron>ron joy, gladness
+.sered>survive-sered
+.sardites>survive-sardites
+.jahleel>begin-theory-jahleel
+.ziphion>north-ziphion
+.haggi>my-holiday-haggi
+.shuni>my-difference-shuni
+.ezbon>finger-ezbon
+.arodi>my-bronze-arodi
+.areli>my-light-up-theory>ar light up, explain
+.jimnah>appoint-jimnah
+.ishuah>save-ishuah
+.isui>my-save-ishui
+.beriah>grazing-beriah
+.beriites>grazing-beriites
+.serah>street-serah
+.heber>friend-heber
+.malchiel>my-king-theory-malchiel
+.becher>young-male#-camel-becher
+.ashbel>fire-not-ashbel
+.gera>stranger-gera
+.naaman>with-them-naaman
+.ehi>my-brother-ehi
+.rosh>head-rosh
+.muppim>from-mouths-mupim
+.huppim>innocent-shores-khupim>khof shore
+.ard>descending-bronze-ard
+.hushim>feeling-hushim
+.jahzeel>press-theory-jakhzel
+.guni>my-tint-guni
+.jezer>my-creative-instinct-jezer
+.shillem>whole-peace-shilem
+.rameses>born-by-ra-ramses
+.shiloh>calm-shiloh
+.zidon>side-by-side-zidon
+dan shall judge his>dan shall discuss his
+.machir>recognize#-machir
+.shiphrah>book-cow-shiphrah
+.puah>cry-puah
+.moses>extracted-mose>or draw-out-extract
+.zipporah>bird-zipporah
+.gershom>stranger-gershom
+#leprous>speckled-waspish
+leprous>narrow-waspish
+#leprosy>waspishness-vexing>zarar to vex
+leprosy>narrow-waspishness
+leper>narrow-waspish
+#word>dbr
+#bee >dbrh
+#dbr>bee-word
+#dbrh>word-bee
+word>bee-word
+bee >word-bee
+believed>stuck with>was coached by
+believe>stick with>be coached by
+.aaron>cabinet-aaron
+#rod >pen
+tribe>branch>SbT, or pen?
+.jethro>look-jethro
+worshipped>partook>shatakh, or shared-shatakh, shatakh share
+worship>partake>shatakh
+burnt sacrifice>olah
+sacrifice>butcher
+zbH#offer>butcher
+zbkh#offer>butcher
+desert>mdbar
+wilderness>mdbar
+!mdbar>place#-of-word-desert
+lest he fall upon us with pestilence>lest he fall upon us with word-bee
+#straw>t-medium-straw
+lord>base-lord>adon
+.jehovahnisi>my-miracle-yeah
+judgements>lip=decision=crises
+judgment >lip=decision=crisis>or language-crisis, or decision-grammar, shafat to set (a pot on fire)
+.pallu>wonder-pallu
+.libni>to-build#-my-white#-libni
+.shimi>my-hearing-shimi
+.amram>people-high-amram
+.izhar>aperture-izhar
+.mahali>my-pardon-makhali
+.mushi>my-draw-mushi
+.jochebed>made-heavy-jochebed
+.nepheg>expired-nepheg
+.zichri>my-male-zichri
+.zithri>my-secret-zithri
+.elisheba>my-theory-seven-elisheba
+.amminadab>my-people-contribute-aminadab
+.aminadab>my-people-contribute-aminadab>lgaa
+.naashon>guess-snake-naashon
+.naasson>guess-snake-naasson
+.assir>prisoner-assir
+.elkanah>theory-buy-elkanah
+.abiasaph>my-father-collects-abiasaph
+.korhites>bald-ice-korhites
+.korathites>bald-ice-korathites
+.mishael>theory-poll-mishael>or the-poll-mishael
+.elzaphan>theory-cipher-elzaphan> or the-cipher-elzaphan
+.uzziel>my-courage-theory-uzziel
+.ithamar>with-palm-itamar
+.eleazar>theory-stop-eleazar>or the-stop-eleazar
+.putiel>my-open-theory-putiel
+.phinehas>mouth-attempt-pinehas>nakhas attempt
+uncircumcised>foreskinned
+.red sea>end sea
+the beginning of months>the head of months
+#first >head
+armies>troops
+host>troop
+zaba#war>troop>war would be milkhama?
+.sabaoth>troops-sabaoth>lgaa
+service>work
+bless>knee-fluffy-bless>or knee-fluffy-bless
+shall keep it>shall do it
+and then let him come near and keep it>and then let him come near and do it
+sanctify>dedicate
+.abib>spring-abib
+that thou shalt keep this work in this month>that thou shalt work this work in this month
+unleavened bread>mazat-lit
+leavened bread>leaven
+neither shall there be leaven seen with thee>neither shall there be rests seen with thee
+let go>send>shalakh
+.etham>you-etam
+pillar of>stand of-column>or page-column-erection of
+cloudy pillar>column-cloudy stand>or cloudy page-column-erection
+.pihahiroth>mouth-of-the-choice-pihahirot
+.migdol>tower-migdol
+.baalzephon>owner-of-cipher-baalzephon
+salvation>saving
+angel>messanger-angel
+.palestina>break-into-grief-pelashet
+.miriam>bitter-sweet-miriam>or bitter-merry-miriam>or rebel-bitter-miriam
+.maratah >bitter-mercy-maratah
+.marah >bitter-marah
+.elim >bind-elim>alam to sheaf, to bind
+.manna>whats-that-manna
+.omer>say-omer
+testimony>witness>adot, or until-witness
+smiteth>hits
+smite>hit
+smotest>hit>katah class, grade
+.horeb>sword-horeb
+.massah>essay-massah
+.meribah>jam-meribah>riba
+.rephidim>upholstery-rephidim
+#.joshua>sure-joshua=jesus>or secure-joshua-jesus or save-joshua-jesus, or joshua-save-jesus
+#.joshua>secure-joshua=jesus>homeland security, etc
+.joshua>secure-joshua
+.hur >small-place-prince-hur
+judge>lip=decide>shapat, krinoo greek? 
+sanctified>dedicated
+trumpet >mouthpiece-trumpet
+top of the mount>head of the mount
+manservant>worker
+#maidservant>maid-truth>emet truth, real
+thou shalt not>no
+.sinai>bush-sinai>or bush-proto-sinatic-script-sinai
+.sina>bush-sinai>lgaa
+surely put to death>deadly put to death
+restitution>wholeness
+hornet>wasp
+.cherubim>inward-cherubim
+.cherub>inward-cherub
+.qrb#cherub>inward-cherub
+.qrb#cherubim>inward-cherubim
+showbread>turns-bread-within
+sinful>missing
+sin offering>miss
+sins>misses>khata
+sinned>missed>khata
+sinning>missing>khata
+sin >miss>or miss-sin, khata
+offered burnt offerings>rose olahs
+burnt offering>olah
+olah>rise=up>or on=up, olah
+wave offering>sieve>pana
+wave>sieve-pana
+an offering made by fire>a feminine-firy
+offering made by fire>feminine-firy
+heave offering>raise-rum
+heave >raise>rum
+meat offering>absorber>minkhah
+drink offering>pouring>nesekh
+horn>ray-horn
+#meet>witness-until>3d, used in 'jael came out to qrat#meet him'
+rm#offer>contribute-plateau
+rm#offering>contribution-plateau
+.shekel>light-shekel
+shulkhan#table>ovary-send-table>or send-table
+tabernacle of the congregation>proto=sinaitic=script=ever=meeting=tent>or proto=sinaitic=scipt=pussy=meeting=tent>or tent of forever=due-in>or tent of until-conception
+tent of the congregation>proto=sinaitic=script=ever=meeting=tent>or tent of forever=due-in>tent of until-conception
+congregation>ever-witness>or witness-until
+qhl#assembly>crowd
+qhl#congregation>crowd
+moed>forever-witness>or witness-until
+principal spices>head spices
+spices>scents
+.bezaleel>onion-theory-bezaleel
+.uri >small-place-prince-hur
+workmanship>craft-message>maleakh
+.aholiab>my-tent-dad-aholiab
+.ahisamach>my-brother-support-ahisamakh
+furniture>all-tool>keli
+candlestick>stream-candle-light>menorah; nahar river, stream, current; nar candle, lamp, light; min from, of, out of
+minister>immerse>Sr
+zbH#peace offering>butchered
+peace offering>complete>or whole>shalam
+commandment>directive>Zwh>or order-prescription
+commanded>directed>or order-prescribed
+command>direct>order-prescribe>zavah
+#spoken>bee-spoken>or bee-spoken, kann auch amr sein
+.nun>fish-nun
+grace>attractiveness=grace>or attractiveness>khen
+be gracious>be gracious=attracted
+#will show mercy on whom i will show mercy>will cream on whom i will cream
+???#mercy>womb
+and proclaimed the name of>and called the name of
+matrix>matrix-womb
+thrice in the year shall all your men>thrice in the year shall all your rememberers
+male>rememberer>or masculine-rememberer
+staves>canvas>bad
+the vail of the covering>screen-breaker>parokhet-hamasakh
+vessel>tool
+brazen grate>brazen place-of-already-mikhbar
+the laver and his foot>the laver and his base>kan base
+laver>bulging>kar pillow, fattened sheep, something bulging
+pillar>stand-column>amad
+nf#offer>sieve
+every man that offered, offered an offering of gold>every man that sieved a sieve of gold
+snuffers>scissors
+snuffdishes>shutters
+crown of gold round about>frame of gold round about
+bekah>split-bekah
+filleted them.|>filleted them.
+diamond>shock-diamond
+sardius>red-column-sardius
+carbuncle>temple#-carbuncle>rakhah temple
+sapphire>countable-saphire
+ligure>put-there-opal
+agate>sit-agate
+.amethyst>dream-amethyst
+.beryl>chrysolite-aquamarine-tarshish
+.onyx>that-they-onyx
+.jasper>smooth-jasper
+breastplate>bronze-tooth-khashan>nakhash bronze; tooth shan
+curious girdle>accounting
+bell >nurture-bell
+pomegranate>high-pomegranate
+a mitre of fine linen>six mitres>shesh six
+mitre>branch-bonnet>zanaf branch
+man clothed with linen>clothed man
+of fine linen>sixlinen
+coats sixlinen>sixlinen coats
+goodly bonnets sixlinen>sixlinen goodly bonnets
+sixlinen>six-linen
+goodly bonnets>adorned hats
+and linen breeches of fine twined linen>and six cloth pants, twined
+a girdle of fine twined linen>six girdles, twined
+of fine twined linen>six-linen
+scarlet>two caterpillars
+dyed red>earth-adam-from red
+ram >voiceless-ram
+.badgers'>feel-takhash>khash to feel
+vail>breaker>parakh to crush, be refuted
+tabernacle>dwelling
+nega#plague>touch
+nega#sore>touch
+
+freewill offering>volunteer
+trespass offering>name-fire>asham
+jealousy offering>jealousy mnkht#absorber>minkhat qenaot
+offering of memorial>mnkht#offering of remembering>minkhat hazakharon
+mnkht#offering>absorber-rest
+offering>inward
+el#offer>rise
+ndb#offered willingly>volunteered>ndb
+ndb#offer so willingly>volunteer>ndb
+ndb#willingly offer>volunteer>ndb
+ndb#offer willingly>volunteer>ndb
+offered willingly>volunteered>ndb
+offer so willingly>volunteer>ndb
+willingly offer>volunteer>ndb
+offer willingly>volunteer>ndb
+offer>inward>qrb
+obulation>inward
+oblation>inward
+qrb#go>inward
+qrb#bring>inward
+cattle >in-them-animal>behema
+herd >visit-cattle>baqar
+flock>flock>zo'on
+young bullock>bull child of visit-cattle>par ben baqar
+bullock>bull>par
+flay>skin-simplify
+cut it into his pieces>chunk it into its chunks>natakh
+shall lay the parts>shall lay the chunks>natakh
+in order upon the wood that is on the fire which is upon the>on the wood on the fire on the
+lay the wood in order upon>arrange the wood on
+???#sheep>comeback-sheep
+goat>intense-goat
+he shall bring>he shall inward
+without blemish>simple
+north>hide-north
+frankincense>white-frankincense
+kidney>eliminate-kidney
+female>pierced>or female-pierced, nakav
+kshb#lamb>comeback-lamb>lamb kshab about twenty occurences; lamb kbsh about hundred forty occurences
+it is the food of the>it is the bread of the
+sweet savor>smell fragrancepp
+sweet incense>smoke drug>qetoret hasamim
+caul>remainder>yitaret
+guilty>name-fire
+#bad >toiling-bad-rah>or bad-rah
+#bad >eye-in-the-sky-bad-rah>or rah-authoritarian-evil, rah-sunny-authoritarian, eye in the sky?
+bad >toilsome-bad
+evil >toilsome-bad>ra, maybe force hints at the concept of ra, the top creation force in ancient egypt, he sends his eye, the sun, to control humans
+his trespass, which he hath committed>fire, which he hath missed-his name
+turtledoves>rises>torim
+young pigeons>mediums of pigeons-child
+pigoen>dove>jonah
+commit a trespass>goes over the top
+trespass>name-fire>asham
+and he shall make amends for the harm that he hath done>and he shall peacify that which he had missed>khata
+#khata>miss>or fail-sin
+iniquity>torment
+breeches>trousers
+???#consume>eat
+???#cut off>menstruated>not qazotah, cut off (hand)?
+???#abominable>period>sheqez
+and he put upon him the coat>and he gave him the coat
+#coat>you-wrote-coat
+unholy>starting>khol
+raw flesh>live-raw flesh
+boil>grace-boil
+but >and
+if the bright spot stay in his place, and spread not>if below stand-up the bright not spread a burning swimmer it and climaxe him the server
+
+make an atonement>out=of=town
+atonement>out=of=town=ment>or out=of=town=ment=atonement
+.ephod>cash-in-ephod
+.urim>fires-urim
+.thummim>simple-finished-thumim>or naively-finished-thummim
+#christ>impregnated>or lubed
+christ>practified=anointed
+anointed>practified=anointed>or impregnated-anointed>or impregnated>or lube
+anoint>practify=anoint>or impregnate-anoint>or anoint>or lube
+consecrate>fill
+consecration>fullness
+holiness>dedication
+holy>dedicated
+sanctuary>dedicated
+sanctuaries>finishes
+sacred>dedicated
+hallow>dedicate
+saint>dedicated
+!dedicated>holy=dedicated>or dedicated=finished
+!dedicate >holy=dedicate>or dedicate=finify
+ordination>fullness
+glorified>given weight>or heavied
+glory>weight>or heaviness
+liver>weight-liver>or heavy-liver
+shall pronounce him unclean>shall unclean him
+#unclean>cease=stained=unclean>or ceased=stained=unclean, ceased=stained>Tma, or stained, tam to be completed, to be finished, to run out of something, to cease to exist
+unclean>stained
+.abihu>he-my-pa-abihu
+.nadab>volunteer-nadab
+common>upstarting
+running water>living water
+waspish>waspish-speckled>seedy-waspish
+pronounce him bright-climaxing>bright-climaxe him
+bald head>baldness
+bald forehead>thigh
+oil>name-sex-oil>shemen
+defile>cease>tame
+door>opening
+.molech>king-molech
+hin >here-hin
+from among>from inward-among>meqereb
+#feast>conception-until
+ye must eat>ye eat
+jubilee>river-jubilee
+bow down unto>partake in>shatakh
+bondmen>workers
+heathen>nations
+zeder>zeder-packing
+hyssop>discharging-hyssop
+law>torah>twrt, mTr rain, shower
+#torah>drops=of=teaching
+#torah>drops-of-teaching-torah
+!torah>drops=of=teaching=law
+ark>cabinet>aron, tebah bei noah uebersetzt kjv auch mit ark, also mach das replacement nur, wenn der hebraeische text aron ist? future feature?>ארון
+tbt#ark>ark
+#.scapegoat>out-outof-azazel
+scapegoat>scapegoat-azazel
+mercy seat>out=of=townment>kprt
+reconciling>out-of-towning
+iniquities>seasons
+transgression>crime
+a land not inhabited>cut=off land>gezera
+afflict your souls>pauper your souls
+soul>being>nefesh, psyche?
+.sabbath>seven-sabbath
+prophet>bringer
+.zimri>my-songster-zimri
+.salu >basket-salu>sal basket
+.abarim>crossings-over-abarim
+.elizur>my-theory-flint-elizur
+.shedeur>my-breast-light-shediur
+.shelumiel>my-whole-theory
+.zurishaddai>my-flint-my-breast-zurishaddai
+.nahshon>pioneer-nahshon
+.nethaneel>given-theory-nethaneel
+.zuar>junior-zuar
+.helon>success-sick-helon>kholan sick
+.ammihud>with-my-glory-amihud
+.gamaliel>my-detox-camel-theory-gamaliel
+.pedahzur>cash-in-flint-pedahzur
+.abidan>my-father-deals-with-abidan>dn
+.gideoni>my-cut-down-gideoni
+.ahiezer>my-brother-help-ahiezer
+.ammishaddai>my-with-my-breast-amishadai
+.pagiel>my-injury-theory-pagiel
+.ocran>disturb-ocran
+.deuel>know-theory-deuel
+.ahira>my-brother-ra-ahira
+.enan>torture-eye-enan
+#five>five-arm>khamash
+#fifty>fifty-arms>khamash
+#four >four-ambush
+#forty>forty-ambushs
+#hundred>hundred-sign>ot omen, sign, indication
+#nine>nine-suspend>hisha' to suspend from office
+#three>three-deposit>shilash deposit
+#thirty>thirty-deposits
+#six>six-rejoice>leshosh rejoice, be glad
+.eliasaph>my-theory-adds-eliasaph
+#twenty>ten-twenty-double
+those that were numbered of them>numbered of them-those that were order>pakad
+#seven>seven-swear
+#two >tooths-two-year
+#ten >ten-enrich
+#twelve>ten-twelve-two
+#prince>bearer>nasa to bear, marry
+barley>gates-barley
+that causeth the curse>of the curse
+to make thy nurture-belly to swell, and thy thigh to rot>to plow thy gut, and to fall thy thigh
+nurture-belly swell>gut plow
+thigh rot>thigh fall
+#to swell>to plow>lazbot
+#nurture-belly>gut>baten
+#to rot>to fall>nafal
+.amen >oh-mama-amen>or nurture-amen
+write these curses in a book>write these tops in a book>alot
+be a curse among her>be a ontop among her
+she shall be free>she shall be cleaned
+conceive seed>be sown with seed
+if any man's wife go aside, and goes over the top against him>man man that fools his woman and brings up at him over
+.nazarite>seperate-nazarite
+.taberah>conflagration-taberah
+prophesied>brought>or brought-prophesied
+prophesy>bring>or bring-prophesy
+.eldad>on-chest-eldad
+.medad>from-chest-medad
+.kibrothhattaavah>graveyard-of-craving-kibrot-hatavah
+lusted>craved
+.hazeroth>gardens-hazerot
+.paran>magnificence-paran
+.shammua>hear-shamua
+.zaccur>remember-zakur
+.shaphat>lip-judge-shaphat
+.hori>my-hole-hori
+.caleb>dog-as-heart-caleb
+.jephunneh>turn-jephuneh
+.igal>free-igal
+.oshea>save-esus
+.palti>emit-palti
+.raphu>medicine-raphu
+.sodi>secret-sodi
+.susi>my-horse
+.ammiel>theory-my-with-ammiel
+.gemalli>my-camel
+.sethur>unkempt-contradict-sethur
+.michael>who-like-unto-michael
+.nahbi>relax-owe-nahbi>nakh rest; khb to owe
+.vophsi>stripe-vophsi
+.geuel>rise-theory-geuel
+.machi >of-beat-machi>hikah beat, hit, strike
+#.jehoshua>save-jesus
+.jehoshua>save-joshua
+.zin>briar-zin
+.rehob >wide-rehob
+.south>dry-south
+.ahiman>my-brother-from-ahiman
+.sheshai>my-six-sheshai
+.talmai>furrow-talmai
+jld#children>natives>jalid born, native, indigenous
+.zoan>ten-zoan
+.anakims>giants-anakim
+.anak>giant-anak
+.hormah>fishing-net-hormah
+forgiven>released>nislakh; shalakh send
+.dathan>their-faith-dathan
+.abiram>my-father-high-abiram
+.peleth>fallen-peleth
+.hormah>boycott-hormah
+.hor >mount-hor
+.oboth>thick-oboth
+.ijeabarim>heaps-crossings-ijeabarim
+.zared>twig-zared
+.arnon>pine-arnon>oren pine
+.ar >awake-ar
+.beer >well-beer
+.mattanah>data-gift-matenah>
+.nahaliel>theory-my-stream
+.bamoth>death-stage-bamot>bamah stage, mot death
+.pisgah>summit-pisgah
+.jeshimon>will-apply-jeshimon
+.sihon>curly-sihon
+.jahaz>stress-jahaz
+.jabbok>boxwood-jaboq>boq boxwood, pine, moron, stupid
+.heshbon>score-supposition-heshbon>hsbn arabic supposition, surmise, esteem
+and in all the villages thereof>and in all the villages-daughters thereof
+.dibon>slander-dibon>dabah slander
+.nophah>volume-nophah
+.medeba>medeba>?
+.jaazer>help-jaazer
+.bashan >at-tooth-bashan
+.og>mock-og>la'ag to mock, i am in derision daily everyone mocketh la'ag me
+.edrei>live-prohibit-edrei>dar to live dwell; lehadir to prohibit, cut off, disinherit
+.jericho>moon-smell-jericho
+.balak>beat-balak>lelakot be beaten, flogged, scourged
+.balac>beat-balak>lgaa
+.zippor>bird-zipor
+.balaam>swallow-baalam>bala' to swallow, to engulf, to restrain oneself
+for an adversary against him>for an adversary-satan against him
+i went out to withstand thee>i went out to withstand-satan thee
+if it displease thee>if it is bad in you eyes
+.kirjathhuzoth>district-of-midnight-kirjathuzot
+.zophim>floats-zophim>zaf to float, arise, appear
+adam#man>man
+great lion>young lion>labia
+as a young lion>as a ari>ari
+lion>gather-lion
+#ari >gather-lion
+it pleased>it was good in the eyes of
+gbr#man>man
+.agag>roof-agag>gag roof
+.sheth >drink-put-sheth
+.chittim>stains-chitim
+be perished>be lost>obed
+.shittim>sailing-shitim
+commit whoredom>prostitute
+.baalpeor>own-wide-open-baalpeor
+brought unto his brethren>inwarded unto his brethren
+nsi#prince>leader
+.cozbi>false-cozbi
+.zur>flint-zur
+.ozni>my-balance-ozni>azan to balance
+.eri>cities-eri
+.arod>bronze-arod
+.shelanites>pulled-out-shelanites
+.pharzites>breach-pharzites
+.zarhites>shine-zarhites
+.pua>beauty-pua
+.punites>face-punites
+.jashub>return-jashub
+.jeezer>help-jeezer
+.helek>part-helek
+.asriel>theory-my-happy-asriel
+.shemida>know-my-name-shemida
+.hepher>dig-spy-hepher
+.zelophehad>whip-sharp-zelophehad>zalaf whip, sniper; khad sharp
+.mahlah>illness-mahlah
+.hoglah>partridge-hoglah
+.tirzah>want-placate-solve-tirzah>razah to want to, to intend to, to placate, to satisfy; taraz to make an excuse, to solve a problem
+.shuthelah>damp-fresh-shuthelah>lakh damp, fresh
+.tahan>plead-station-tahan
+.eran>active-eran>ar awake, active
+.shuham>granite-shuham
+.jimna>count-appoint-jimna
+.jimnites>count-appoint-jimnites
+.jesui>save-jesui
+.mahlites>disease-forgive-mahlites
+be obedient>be hearing>shama'
+#flour>flour-basket
+ontop-saves-elishama>hears-theory>elishama
+.eliab>my-theory-dad-eliab
+.evi >my-desire-evi
+.rekem>weave-rekem
+.reba>one-fourth-great-grandson-reba
+zkr#man>man-remember
+nefeshadam#persons>beings of man>nefesh adam
+.sar#captain>immersed-prince
+enemies>fathers-enemies>or adversaries-fathers>ojab
+enemy>father-enemy
+the land be subdued>lambed-the land be subdued>kabash
+khlz#armed>pioneering
+city>light#-city
+.ataroth>decorate-crown-atarot#
+.aroer>juniper-object-aroer
+.atroth>decorate-crown-atrot
+.shophan>rabbit-shophan
+.jogbehah>rise-jogbehah
+.bethnimrah>house-of-leopardess-betnimrah
+.bethharan>house-of-sing-betharan
+.elealeh>top-to-no-eleale.
+kirjathaim>towns-kirjatim
+.nebo>at-him-nebo
+.baalmeon>proprietory-residence-baal#=meon
+.shibmah>stage-shibmah>bamah stage, platform
+disposess>inherit-disposess>joresh
+.jair>glow-jair
+.havothjair>farm-of-glow-havotjair>khot farm
+.nobah>bark-abuse-nobah
+.kenath>elegy-kenat
+.dophkah>knock-dophkah
+.alush>knead-alush>lash to knead
+.rithmah>harness-ritmah
+.rimmonparez>pomegranate-breach-rimonparez
+.libnah>white-build-libnah
+.rissah>her-eyelash-risah>ris eyelash
+.kehelathah>her-congregation-kelelatah
+.shapher>boost-bull-shapher
+.haradah>anxiety-haradah>kharadah fear, anxiety
+.makheloth>of-community-makheloth
+.tahath>under-tahat
+.tarah>effort-tarah>tarah to take pains, to take trouble
+.mithcah>sweetening-mitcah
+.hashmonah>eight-rain-hashmonah>khasham rain, shemona eight
+.moseroth>deliveries-moseroth
+.benejaakan>between-children-of-corner-benejaakan
+.horhagidgad>the-tickle>gigad tickle
+.jotbathah>her-fourth-month-jotbatah>tebet fourth month
+.ebronah>pass-traverse-ebronah
+.eziongaber>wood-strong-man-eziongaber
+.arad>bronze-arad
+.zalmonah>image-idol-zalmonah>zalam-image
+.punon>found-punon
+.iim>islands-iim
+.almondiblathaim>the-hidden-fig-cakes-almon-diblataim>alam to be hidden, debela fig cake
+.bethjesimoth>desolate-house-betjesimot>jasham to be desolate
+molten images>images>zalam
+.akrabbim>scorpions-akrabim
+.kadeshbarnea>finished-desert-staggering-kadeshbarnea>bar desert, nua' to stagger, shake
+.hazaraddar>garden-maple-hazar-adar>adar maple
+.azmon>skeleton-azmon
+west>sea-west>jom
+.zedad>flank-zedad>zad side, flank
+.ziphron>sweet-smell-ziphron>arabic verb to diffuse a sweet smell
+.hazarenan>garden-eye-hazarenan
+.shepham>moustache-shepham
+.riblah>fight-riblah>rib fight
+.ain>eye-ain
+.chinnereth>like-candle-kineret>nrt candle
+.elidad>my-theory-breast-elidad
+.chislon>fool-basket-chislon>kisel foolishness, sal basket
+.bukki>skilled-buki>baki skilled, proficient, shooled, hep
+.jogli>my-roll-jogli>galal to roll
+.hanniel>grace-theory-haniel
+.shiphtan>lip-shiphtan
+.parnach>bull-parnach>par bull
+.azzan>goat-courage-azan>az goat, oz courage daring strength
+.shelomi>my-completion-sheolmi>or my-peace-shelomi
+.pedahel>redemption-theory-pedahel
+suburbs>plots-suburbs>migrash
+.tophel>bland-tophel
+.dizahab>enough-gold-dizahab
+.astaroth>you-gave-fire-astarot>tarat you gave
+.lebanon>build+white-lebanon
+.zered>twig-zered
+.zamzummims>buzzers-zamzumim
+.avims>awful-avims
+.hazerim>premises-hazerim
+.azzah>goat-courage-azah
+.caphtor>button-solved-caphtor
+.argob>lump-argob>ragab lump old cloth
+.hermon>fishing-net-hermon>khrm fishing net
+.sirion>armor-plate-sirion>shirion armor plate
+.shenir>tooth-meadow>shenir>nir meadow
+.salchah>poor-salchah
+.rabbath>much-rabat
+.bashanhavothjair>at-tooth-ranches-shine-bashan-havot-jair
+.ashdothpisgah>fire-justice-peak>esh fire, doth religion law justice, pisgah summit peak
+giveth thee, for ever>giveth thee, all days
+.bezer>ore-bezer
+.golan>wave-reveal-golan>galah to reveal
+.bethpeor>house-gaping-betpeor
+.sion>zenith-sion>si'a zenith, ultimate, peak
+honor thy father and thy mother>give weight to thy father and thy mother
+.gudelohimah>tickling-gudelohimah>gadgadah tickling
+.jotbath>good-daughter-jotbat>tob good, beit house
+.gerizim>grasses-gerizim
+.ebal>mourning-ebal>abal mourning, sadness
+.gilgal>roll-gilgal
+.belial>in-good-time-wear-out-belial
+hoof>part-hoof
+ox>wall-ox>shur
+hart>to-hart>aleph-el to
+roebuck>swollen-gazelle>zabah swollen, distended
+fallow deer>grave-donkey>khamor
+wild goat>goat-follow-wild>3aqo follow
+pygarg>fertilize-pygarg>dishan
+wild ox>ox-cell-wild>t'a
+chamois>singer-chamois>zamar
+camel>ripen-camel
+hare>hare-pine-house>aran pine, bet house
+coney>turn-coney>pan side, aspect, characteristic
+swine>return-swine>hkazar to return
+eagle>drop-eagle
+ossifrage>slize-spread-ossifrage
+ospray>daring-ospray
+glede>view-glede>raah
+kite>where-buzzard>aya
+vulture>enough-kite>diah
+raven>evening-raven>ereb
+little owl>cup-owl>kos
+great owl>blow-owl>jinashof; nashaf blow, exhale
+#swan>dead-barn-owl-give-that
+owl>daughter-of-dove>or daughter-of-ostrich-dove>bat hayaana
+night hawk>rob-night-hawk>khamas rob, oppress
+cuckoo>sprocket-seagull>khaf sprocket, tooth, stud (of a machine)
+hawk>go-out-hawk>naza' go out, depart, leave
+pelican>now-pelican>qa'at
+gier eagle>womb-gier-eagle>rakhamah
+cormorant>send-cormorant>shalakh
+stork>charity-stork>khasidah
+heron>sift-heron>anafah to sift
+lapwing>pushing-lapwing>dokipat pushing
+bat >hoof-bat>atalaf
+bondman>worker>abad
+maidservant>true-mum-maid>emetah
+keep a solemn feast>celebrate>takhag
+corn >swimming-corn>dagen corn, dag fish
+#wine>wine-inherit>tirash
+an observer of times>a cloud-whisperer
+an enchanter>sneaker>nakhash
+witch>spell-caster>mekhasaf
+or a wizard, >>wo waere das im hebraeischen?
+oath>unto-oath>alah
+shkz#abomination>thorny-abomination>shequz
+gll#idol>heap-idol
+my doctrine>my take-lessons>lakakh
+mqm#place>place-stand-up>makom
+.jeshurun>soaked-jeshurun
+faith>sticking=with>or training-faith
+hell>question-hell
+#.hoshea>save-hoshea-jesus
+.hoshea>save-hoshea-joshua
+.gezer>cut-carrot-gezer
+.geder>wall-compound-geder
+.adullam>until-why-adullam>edlm, ed until, lmh why
+
+.rahab>wide-rahab
+.rachab>wide-rachab>lgaa
+utterly destroyed>fishing-net-destroyed>Hrm fishing net, embargo, Hr hole
+.achan>snake-achan>8kn snake
+.zabdi>zabdi
+anger>nose-anger>1p
+accursed thing>fishing net>Hrm
+.ai >island-ai>ey, ay island
+.achor>muddy-cloudy-achor>8kwr
+.gibeon>small-hill-gibeon>gb8
+.chephirah>heresy-chephirah>hkpyrh
+.kirjathjearim>forests-city-kirjath=jearim
+.adonizedec>my-right-foundation-adonizedec>or just-foundation-anonizedec
+.piram>savage-piram>pr1
+.jarmuth>high-death-jarmuth
+.japhia>fie-japhia>ypy8
+.lachish>strike-lachish>lhkyS strike, beat, knock
+.debir>word-holy-of-holies-debir
+.eglon>driver-eglon>8glwn carter, wagon-driver, hackman
+.bethhoron>house-of-wrath-bethhoron>Hrwn
+.azekah>azekah
+.makkedah>target-makkedah>mqd
+.ajalon>ram-chief>1yl
+book of jasher>book of the straight hajasher>ySr
+king >moloch-king
+.chinneroth>fiddler-candles-chinneroth>knrwt
+.madon>strife-madon
+.achshaph>enchant-achshaph>kSp
+.dor >generation-whorl-dor>dwr
+.mizpeh>expect-cover-mizpeh>mZp
+.merom>height-merom>mrwm
+.misrephothmaim>from-fires-waters-misrephothmaim>mSrpwt
+.halak>part-halak>Hlq
+.baalgad>fortune-own-baalgad
+.gath >winepress-gath
+destroyed them utterly>destroyed them-fishnet
+.ashdod>fire-plunder-ashdod>aSdwd, aS fire, Sdd to rob, to burglarize, to plunder
+.bethjeshimoth>house-of-names-bethjeshimoth
+.ashtaroth>star-sex'n'war-ahstaroth>or ashtaroth-moth-spies>eS moth, tar to explore, to seek, to spy
+.salcah>poor-salcah>slkh, slk poor
+.geshuri>bridge-geshuri>gSwry
+.maachathites>crush-sqeeze-maachathites>mekty, mekt sqeeze
+.tappuah>apple-tappuah
+.aphekah>horizon-aphekah>apqh
+.aphek>horizon-aphek>apq
+.taanach>cloud-taanach>tenk, enn cloud
+.kedesh>dedicate-kadesh>qdS, or -devote
+.carmel>damp-unripe-grain-carmel>krml
+.sihor>seek-clarify-sihor>Syxwr
+.ekron>essence-futile-ekron>eqrn, eqr uproot, essence, "iqar" gist
+.eshkalonites>fire-easy-eshkalonites>haSqlwny
+.gittites>wine-press-gittites>gty
+.avites>twist-distort-avites>ewym, ewh to twist, distort
+.mearah>cave-involved-in-mearah>merh
+.giblites>border-giblites>gbly
+.medeba>bear-come-medeba>mydba, db bear, ba come
+.bethbaalmeon>residence-ownership-house-beth=baal#=meon>mewn residence
+.kedemoth>advancement-old-days-kedemoth>qdmt
+.mephaath>from-the-mouth-mephaath>mpet
+.sibmah>stage-sibmah>Sbmh
+.zarethshahar>shahar-narrow-dawn-zareth>Sxr
+.jazer>help-jazer>jecr
+.betonim>abdomen-betonim>bTnym
+.betharam>lift-house-betharam>byt hrmg
+.zaphon>north-hidden-zaphon>wzpwn
+.kenezite>as-hawk-kenezite>qncy, nz hawk
+.maalehacrabbim>from-up-scorpion-maalehcrabbim>melah eqrbym
+.adar>maple-promise-adar>adr
+.karkaa>earth-ground-karkaa>qrqe
+.bethhogla>house-wave-ripple-bethhogla>byt Hglh
+.betharabah>house-willow-pleasant-betharabah
+.bohan>big-toe-bohan>bhn
+.adummim>men-adummim>admym
+.enshemesh>eye-well-sun-beadle-enshemesh>eyn SmS
+.enrogel>eye-well-foot-spy-enrogel>eyn rgl
+.nephtoah>open-up-nephtoah>nptwH
+.baalah>ownership-her-husband-baalah>belh
+.jearim>cities-awake-jearim>yerym
+.chesalon>chair-overnight-stay-chesalon>cslwn, cs throne, chair, llwn to stay overnight
+.bethshemesh>house-sun-beadle-bethshemesh
+.shicron>hire-shicron>Skrwn, Skr hire
+.jabneel>build-child-towards-jabneel>ybnal
+.kirjathsepher>sepher-city-book-kirjath>qryt spr
+.achsah>attitude-achsah>aksh, aHsh attitude
+.kabzeel>group-to-kabzeel>qbzal, qbz group
+.eder>herd-eder>edr herd
+.jagur>dwell-fear-jagur>ygwr
+.kinah>lament-nest-kinah>qynh, qynh lament, qn nest
+.dimonah>imagine-dung-dimonah>dymwnh, dmh to imagine, conceptualize, dmn dung, excrement
+.adadah>until-eternity-adadah>ededh
+.ithnan>give-allow-ithnan>ytnn
+.ziph>bristle-ziph>cyp
+.telem>furrow-hang-telem>Tlm
+.bealoth>ownership-up-bealoth>belwt
+.hadattah>sharpened-hadattah>Hdth
+.hazor>yard-hazor>Hzwr
+.amam>mother-if-amam>amm
+.shema >hear-shema>Sme
+.moladah>born-moladah>mwldh
+.hazargaddah>yard-bank-rim-hazargaddah>Hzr gdh
+.heshmon>feel-rain-heshmon>HSmwn, HSm rain, HS run, feel
+.bethpalet>emit-bethpalet>plT
+.hazarshual>yard-fox-hazarshual>Hzr Swel
+.bizjothjah>in-her-hallucinations-bizjothjah>bcywtyh
+.azem>closed-azem>ezm
+.eltolad>to-born-eltolad>altwld
+.chesil>orion-like-a-fool-chesil>ksyl
+.ziklag>sketch-ziklag>zqlg
+.madmannah>bloodshed-madmannah>mdmnh
+.sansannah>base-of-palm-frond-sansannah>snsnh
+.lebaoth>to-come-lebaoth>lbawt
+.shilhim>sendings-shilhim>SlHym
+.rimmon>pomegranate-rimmon>rmwn
+.eshtaol>woman-of-burden-eshtaol>aStawl, aSt women, ewl burden, injustice
+.zoreah>wasp-zoreah>zreh
+.ashnah>fire-change-ashnah>aSnh, aS fire, Snh change
+.zanoah>abandoned-zanoah>cnwH
+.engannim>eye-gardens-engannim>eyn gnym
+.enam>their-eye-enam>eynm
+.socoh>hut-socoh>Swkh
+.azekah>her-goat-azekah>acqh, ack goat
+.sharaim>gates-sharaim>Serym
+.adithaim>witnesses-adithaim>edytym
+.gederah>wall-compound-gederah>gdrh
+.gederothaim>fences-gederothaim>gdrtym
+.zenan>briar-zenan>znn, zn briar
+.hadashah>new-hadashah>HdSh
+.migdalgad>tower-great-tell-migdalgad>mgdl gd
+.dilean>host-load-dilean>dlen, dl host, en load
+.joktheel>handle-to-joktheel>yqtal, qt handle
+.lachish>to-beat-lachish>lkyS, lhkyS to strike, beat, knock
+.bozkath>pour-bozkath>bzqt, zqt to pour, cast
+.cabbon>intent-cabbon>kbwn
+.lahmam>bread-melt-lahmas>lHms, lHm bread, hwms to melt, dissolve
+.kithlish>as-thorn-kithlish>ktlyS
+.bethdagon>house-of-grain-bethdagon>dgwn, dgn grain
+.ether>petition-ether>etr
+.ashan>smoke-ashan>eSn
+.jiphtah>open-nurture-jiphtah>yptH
+.jephthae>open-nurture-jephthae>lgaa
+.ashnah>fire-year-ashnah>aSnh
+.nezib>place-pillar-nezib>nzyb
+.keilah>community-keilah>qeylh, qhel community
+.achzib>disappoint-achzib>akcyb
+.mareshah>from-her-head-mareshah>mraSh
+.shamir>dill-emery-shamir>Smyr
+.jattir>loosen-jattir>ytyr
+.dannah>discuss-judge-dannah>dnh
+.kirjathsannah>city-bush-kirjathsannah>qryt snh
+.anab>grape-anab>enb
+.eshtemoh>fire-honesty-eshtemoh>aStmh, tmh honesty, tm to complete
+.anim >answer-anim>anym
+.holon>apply-holon>Hln
+.giloh>discovered-giloh>glh
+.arabia>evening-pleasant-arabia>erb
+.arabah>evening-pleasant-arabah>erb
+.arb#arab >ambush-arab>arb
+.eshean>wash-eshean>aSen
+.janum>wines-janum>ynym
+.bethtappuah>house-apple-beth=tappuah>byt tpwH
+.humtah>hot-rod-humtah>HmTh, Hm hot, mtH rod
+.zior>sorrow-zior>zyer
+.maon>residence-maon>mewn
+#.ziph>bristle-ziph>cyp
+.juttah>divert-juttah>ywTh, hTh to divert
+.jezreel>sow-to-jezreel>ycreal
+.jokdeam>nod-together-jokdeam>yqdem, qd nod, em together
+.gibeah>hill-gibeah>gbeh
+.halhul>trickling-halhul>HlHwl, HlHl seepage, percolation, trickling
+.bethzur>house-flint-create-bethzur>byt zwr
+.gedor>fenced-restrain-gedor>gdwr
+.maarath>cave-maarath>mert
+.bethanoth>house-answer-suffering-bethanoth>byt anwt
+.eltekon>repair-eltekon>altqn
+.kirjathbaal>city-of-ownership-kirjathbaal>qyrt bel
+.rabbah>much-rabbah>hrbh
+.middin>place-of-consideration-middin>mdyn, dn deal with, considerate, judge
+.secacah>shed-secacah>skkh
+.nibshan>the-bearer-nibshan>hnbSn
+.engedi>eye-well-of-my-garden-engedi>eyn gdy
+.archi>long-archi>arky, ark long, uruk
+.japhleti>emit-japhleti>yplTy
+.atarotaddar>adar-crown-maple-hide-atarot>eTrwt adr
+.michmethah>quantifier-michmethah>mkmtt
+.taanathshiloh>shiloh-fig-pull-out-taanath>tant Slh, tanh fig
+.janohah>relax-janohah>ynwHh
+.naarath>her-girl-naarath
+.kanah>barrel-buy-kanah
+.entappuah>eye-apple-entappuah>
+.bethshean>house-where-to-bethshean
+.ibleam>mouthful-ebleam>ble mouthful, swallow
+.endor>eye-well-generation-en=dor
+.megiddo>precious-thing-megiddo
+.bethaven>house-strength-beth=aven
+.jebusi >defeated-jebusi>hwbs to be defeated, routed, beaten up
+.geliloth>rollings-geliloth
+.zemaraim>wool-zemaraim
+.avim>distortions-avim
+.pharah>break-cow-fertilize-pharah
+.ophrah>ash-ore-ophrah
+.chepharhaammonai>village-people-chephar=haammonai
+.ophni>open-ophni
+.gaba>small-hill-gaba
+.ramah>high-region-ramah
+.rama>high-region-ramah>lgaa
+.mozah>strife-mozah
+.irpeel>feeble-to-irpeel
+.taralah>explore-to-taralah>tra explore
+.zelah>side-zelah
+.eleph>alef-eleph
+.gibeath>hill-gibeath
+.kirjath >city-kirjath
+.balah>ownership-balah
+.bethul>virgin-bethul
+.bethmarcaboth>house-carriage-made-up-of-beth=marcaboth
+.hazarsusah>courtyard-mare-hazar=susah
+.bethlebaoth>house-for-the-coming-beth=lebaoth
+.sharuhen>ten-sharuhen
+.ain>eye-well-ain
+.remmon>pomegranate-high-remmon
+.baalathbeer>beer-owner-well-baalath
+.ramath >see-ramath>rah to see
+.sarid>survivor-remnant-sarid
+.maralah>poison-maralah
+.dabbasheth>camelhump-honeylotus-dabbasheth
+.jokneam>envy-jokneam>qna jealous, envy
+.chislothtabor>fail-tell-chisloth=tabor>cSlt you failed, tbry tell me
+.daberath>say-daberath
+.gittahhepher>winepress-dug-gittah=hepher
+.ittahkazin>now-leader-itah=kazin
+.remmonmethoar>pomegranate-outline-remmon=methoar
+.neah>moving-neah
+.hannathon>grace-placed-hannathon>Hn grace, ntwn given, placed
+.jiphthahel>el-open-to-jiphthah
+.kattath>faction-kattath>kt sect, group, faction
+.nahallal>exalt-nahallal
+.idalah>poor-idalah>dl poor
+.chesulloth>waste-chesulloth
+.shunem>different-shunem
+.haphraim>diggers-haphraim
+.shihon>peak-shihon
+.anaharath>another-anaharath
+.rabbith>interest-rabbith
+.kishion>cation-kishion>quatsch?
+.abez>zinc-abez
+.remeth>high-loud-remeth
+.enhaddah>haddah-eye-sharp-en
+.bethpazzez>house-spread-beth=pazzez
+.tabor>tell-tabor
+.shahazimah>cut-shahazimah
+.helkath>smooth-plot-helkath
+.hali >disease-secular-weekday-hali
+.beten>belly-peanut-beten
+.alammelech>to-king-alammelech
+.amad>with-until-amad
+.misheal>referendum-misheal
+.shihorlibnath>blackening-whitening-shihor=libnath
+.bethemek>house-valley-beth=emek
+.neiel>moving-neiel>ne moving, dynamic, mobile, sliding
+.cabul>bound-cabul
+.tyre>narrow-flint-create-tyre
+.hosah>lettuce-hosah
+.ummah>with-her-ummah
+.heleph>interchange-heleph
+.allon>oak-allon
+.zaanannim>the-cold-zaanannim
+.adammani>my-earth-adamani
+.nekeb>hole-puncture-female-nekeb
+.lakum>getting-up-lakum
+.aznothtabor>tabor-listening-tell-aznoth>we need a new tabor translation
+.hukkok>enact-engrave-hukkok
+.ziddim>hunters-zidim
+.zer >narrow-besiege-zer
+.hammath>gourd-vessel-hamath
+.rakkath>temple-rakkath
+.enhazor>eye-courtyard-enhazor
+.yrawn#iron>see-iron>yrawn
+.migdalel>tower-to-migdalel
+.horem>emgargo-horem
+.bethanath>house-of-reply-beth=anath
+.zorah>wasp-zorah
+.irshemesh>city-of-sun-irshemesh
+.shaalabbin>ask-between-shaalabbin
+.jethlah>hung-up-jethlah
+.thimnathah>appointed-thimnathah
+.eltekeh>to-hit-eltekeh>tkh hit, strike
+.gibbethon>bunting-gibethon
+.baalath>ownership-baalath
+.jehud >throw-jehud>ydh to throw
+.beneberak>between-boys-lightening-salvia-beneberak
+.gathrimmon>high-winepress-gath=rimon
+.mejarkon>greenfinch-water-me=jarkon
+.rakkon>bent-rakkon>rkwn
+.japho>beautify-japho
+.leshem>opal-knead-name-leshem>lS knead, lSm opal
+.timnathserah>serah-promise-excess-timnath
+.galilee>rolling-galilee
+.eshtemoa>i-will-listen-eshtemoa
+.geba>small-hill-geba
+.anathoth>replies-anathoth
+.almon>youth-almon>alm youth
+.kibzaim>collection-kibzaim
+.tanach>thank-you-tanach
+.kishon>rigidity-kishon
+.dabareh>speak-bee-dabareh
+.abdon>worked-them-abdon
+.helkath>plot-helkath
+.hammothdor>hot-mail-hammothdor
+.kartan>creator-kartan
+.dimnah>excrement-dimnah
+.nahalal>praise-nahalal
+. ed >witness- ed
+.nachor>snoring-nachor
+.gaash>stormy-gaash
+.hamor>donkey-serious-hamor
+.emmor>donkey-serious-hamor>lgaa
+
+
+# judges
+.adonibezek>my-lord-sprinkle-lightening-adonibezek
+.bezek>sprinkle-lightening-bezek
+.askelon>fire-shame-askelon
+.kitron>smoke-kitron
+.nahalol>praise-nahalol
+.accho>acre-accho
+.ahlab>milk-ahlab
+.helbah>animalfat-milk-helbah
+.aphik>river-bed-aphik
+.aijalon>ram-male-sheep-aijalon
+.shaalbim>leaves-shaalbim
+.bochim>crying-bochim
+.timnathheres>promise-clay-timnath=heres
+.baalim>proprietory-baalim
+stubborn>hard-stubborn>qSh
+StH#corrupt >lowered>hStHwt, or subscribe, underneath
+.baalhermon>proprietory-fishing-net-baal=hermon
+.chushanrishathaim>asleep-evil-chushan=rishathaim
+.othniel>contemporary-to-othniel
+.ehud>cherished-ehud
+.shamgar>name-dweller-shamgar
+.jabin>understand-between-jabin
+.sisera>kaiser-sisera>caesar, zar, ssr?
+.harosheth>deafness-harosheth
+.lapidoth>trouble-torches-lapidoth
+.barak>lightning-sparkle-barak
+.abinoam>my-pleasant-dad-abinoam
+.kadeshnaphtali>naphtali-dedicated-complicated-kadesh
+.hobab>like-hobab
+.zaanaim>cold-zaanaim
+.jael>efficient-jael
+.anath >answer-anath
+.meroz>vigor-meroz>mrwc, mrz vigor, energy, strength
+.joash>give-up-joash
+.abiezrite>ezrite-my-father-the-aid-abi
+.gideon>cut-off-gideon
+.yeahshalom>shalom-peace-yeah
+.grove>prosperity-fortuna-asherah>aSrh, aSr happy, blissfull
+.jerubbaal>cut-down-owner-jerub=baal
+.abiezer>my-father-help-abiezer
+.phurah>cow-phurah
+.bethshittah>house-floating-beth=shittah
+.zererath>bundle-hostile-zererath
+.abelmeholah>mourning-sick-dance-abelmeholah
+.tabbath>fourth-month-tabbath
+.bethbarah>house-eat-beth=barah
+.oreb>crow-oreb
+.zeeb>wolf-zeeb
+.zebah>kill-zebah
+.zalmunna>image-zalmunna
+.penuel>turnings-to-penuel
+.karkor>cold-cold-karkor
+even in>in
+whoring>feeding-whoring>cnh
+.baalberith>own-aliance-baalberith
+covenant>alignment>or allience, bryt
+.millo>full-millo
+.jotham>yeah-perfect-jotham>or tooth-jotham
+.joatham>yeah-perfect-jotham
+.ebed >worker-ebed
+.gaal>yellow-gaal
+.zebul >garbage-zebul
+.meonenim>cloudy-meonenim
+.arumah>be-deceived-arumah>arwmh, rmh to be deceived
+.zalmon>image-zalmon
+.thebez>emerge-thebez
+#wickedness>eye-in-the-sky-evilness-rah>rah-authoritarian-sunnyness
+wickedness>badness-rah
+.dodo>uncle-dodo
+strange >strange-substantial-gentile>nkr; or strange-substantial
+.jephthah>open-jephthah
+of a strange woman>of another woman
+.tob>good-tob
+.chemosh>withered-chemosh
+.minnith>count-minnith
+.shibboleth>ear-of-corn-shibboleth
+.sibboleth>stamina-sibboleth
+.ibzan>father-briar-ibzan>abzn, zn briar
+.pirathon >pay-off-pirathon
+.pirathonite>pay-off-pirathonite>pretwny, preh pay off
+.hillel>exalt-hillel
+.danites>discuss-judge-danites
+.manoah>from-relaxation-manoah
+.samson>sunny-boy-samson
+.timnath>appointed-timnath
+.ashkelon>fire-light-ashkelon
+.lehi>cheek-lehi
+.enhakkore>well-of-the-reader-en=hakore
+.sorek>whistled-sorek
+.delilah>diluted-delilah
+.dagon>fish-dagon
+.micah>who's-coward-micah>mykyhw, my who, cah coward, to be disheartened
+.teraphim>healing-teraphim>trpym, trpa to heal
+.laish>kneading-laish
+.mahanehdan>campsite-discuss-mahaneh=dan
+.bethrehob>house-street-beth=rehob
+.jebus>defeated-jebus>ybws, bs defeated
+.baaltamar>own-palm-baaltamar
+.jabeshgilead>drying-roller-until-jabeshgilead
+
+
+# samuel
+.ramath-seeaimzophim>viewer-hights-ramath=seeaimzophim>zwpym viewers
+.jeroham>mercy-womb-jeroham
+.elihu>he-my-towards-elihu
+.zuph>nectar-zuph
+.peninnah>turnings-peninnah
+.eli >my-towards-eli
+.heli>my-towards-eli>lgaa
+.hophni>handful-shore-hophni>Hpny, Hpn handful, Hp coast
+temple>possibility=hall>hycl, hycl hall, ycl to be able, to be
+allowed, it may, possibly>
+.hannah>gift-hannah
+.samuel>towards-hearing-samuel
+.ebenezer>the-father-child-stone-help-eben=ezer
+.ichabod>island-of-respect-ichabod>ay kbwd, ay island, kbwd honor, respect
+.bethshemite>house-of-sun-bethshemite
+.abinadab>my-dad-contribute-abinadab
+.bethcar>house-of-pillow-bethcar
+.shen>tooth-shen
+.joel>yo-towards-joel
+.abiah>my-dad-yeah-abiah
+.kish>ring-tinkle-kish
+.cis>ring-tinkle-kish>lgaa
+.zeror>bundle-zeror
+.bechorath>firstborn-bechorath
+.aphiah>bake-aphiah>apyH, apwHh baked
+.abiel>my-father-towards-abiel
+.shalisha>trio-shalisha
+.shalim>leaves-shalim
+.nahash>snake-guess-nahash
+.jabesh >dry-jabesh
+.bedan>in-discuss-bedan
+.michmash>withered-michmash>mkmS, kmS withered
+.jonathan>yo-given-jonathan
+.shual>fox-shual
+.migron>throat-migron
+.ahiah>my-bro-yeah-ahiah
+.ahitub>my-bro-good-ahitub
+.bozez>mud-finelinen-bozez
+.seneh>bush-seneh
+.ishui>save-ishui
+.melchishua>my-noble-moloch-king-melchishua
+.merab>maximum-merab
+.michal>who-can-michal
+.ahinoam>my-brother-pleasant-ahinoam
+.ahimaaz>my-brother-of-wood-ahimaaz
+.abner>my-dad-candle-abner
+.telaim>patches-lamb-telaim
+.jesse>save-jesse
+.shochoh>in-this-way-shochoh
+.ephesdammim>nothing-bloods-ephesdammim
+.goliath>wave-reveal-goliath
+.shaaraim>gates-shaaraim
+.adriel>my-herd-towards-adriel
+.meholathite>disease-meholathite
+.naioth>ornamental-naioth>bnywt/bnwyt, nwyt ornamental, bnh build, construct
+.sechu>his-pocket-sechu
+.nob >grow-nob>nbh, nb to grow, flourish
+.ahimelech>my-bro-moloch-king-ahimelech
+.doeg>worried-doeg
+.achish>when-achish>akS, kS when
+.abiathar>father-remainder-abiathar
+.hachilah>blue-hachilah
+.selahammahlekoth>rock-departments-selahammahlekoth
+.nabal>black-sheep-nabal
+.abigail>father-age-joy-abigail
+.phalti>my-output-phalti
+.gallim>waves-roll-gallim
+.zeruiah>his-shape-yeah-zeruiah
+.joab>yo-dad-joab
+.abishai>dad-save-abishai
+.ner >candle-ner
+.gezrites>cuttings-gezrites
+.besor>bull-besor
+.ramoth >highs-ramoth
+.siphmoth>mustaches-siphmoth
+.rachal>gossip-rachal
+.jerahmeelites>moon-mercy-towards-jerahmeelites
+.chorashan>pit-smoke-chorashan
+.athach>your-time-athach
+.gilboa>quarter-gilboa
+.bethshan>house-of-tooth-bethshan
+.ishbosheth>man-in-the-urine-ishbosheth
+.ashurites>okay-ashurites
+.helkathazzurim>plot-of-confines-helkathazzurim
+.asahel>do-towards-asahel
+.ammah>maid-ammah
+.giah>emerged-giah
+.chileab>all-calibrate-father-chileab>klab, kyl calibrate
+.maacah>acre-maacah
+.geshur>bridge-geshur
+.adonijah>my-lord+base-yeah-adonijah
+.rizpah>floor-rizpah
+.aiah>buzzard-aiah
+.bahurim>select-bahurim
+.sirah>removal-sirah
+.baanah>in-anwser-baanah
+.rechab>vehicle-rechab
+.beerothite>wells-beerothite
+.beeroth>wells-beeroth
+.gittaim>gagging-gittaim
+.mephibosheth>from-mouth-in-urine-mephibosheth
+.zion#Sion>zion>lgaa
+.zion>mark-zion
+.shobab>naughty-mischief-shobab
+.nathan>given-natan
+.solomon>complete-solomon
+.ibhar>choose-ibhar
+.elishua>my-towards-cry-out-save-elishua
+.elishama>my-towards-hear-elishama
+.elitoda>towards-me-thanks-elitoda
+.eliphalet>towards-me-emits-eliphalet
+.baalperazim>proprietory-breaks-baalperazim
+.baale>my-husband-own-baale
+.ahio>his-brother-ahio
+.nachon>correct-nachon
+.uzah>goat-daring-uzah
+.perezuzzah>goat-breach-perezuzzah
+.obededom>red-worker-obed=edom
+.gittite>winepress-gittite
+ruler>governor>ngyd
+.methegammah>switch-maid-methegammah
+.hadadezer>thunder-helps-hadadezer
+.zobah>engorged-zobah>zwbh, zbh engorged
+.betah>safe-haven-betah
+.berothai>break-berothai
+.toi >get-lost-toi
+.hamath>gourd-vessel-hamath
+.joram>yo-high-joram
+.jehoshaphat>oh-yeah-decide-jehoshaphat>or oh-yeah-is-judge
+.zadok>be-right-zadok>or to-be-right-zadok
+.sadoc>be-right-zadok>lgaa
+.seraiah>minister-immersed-yeah-seraiah>or minister-soaked-yeah-seraiah
+.benaiah>between-yeah-benaiah
+.jehoiada>yeah-knows-jehoiada
+.cherethites>conscious-cherethites
+.ziba>military-ziba
+.lodebar>speak-to-him-lodebar
+.micha >who-here-micha>mykh, my who, ykh here
+.hanun>compassionate-hanun
+.zoba >army-zoba
+.ishtob>man-good-ishtob
+.helam>their-force-helam
+.shobach>dovecote-shobach
+.bathsheba>seven-satiated-bathsheba
+.uriah>fire-blaze-yeah-uriah
+.jerubbesheth>shot-in-urine-jerubbesheth>yrbSt, yrw shot, St urine
+.jedidiah>friend-yeah-jedidiah
+.absalom>father-complete-absalom>or father-peace-absalom
+.amnon>amen-artist-amnon
+.jonadab>yo-contribute-jonadab
+.shimeah>hear-shimeah
+.baalhazor>ownership-garden-yard-baalhazor
+.tekoah>embedded-stuck-tekoah
+.ahithophel>my-bro-bland-fall-ahithophel
+.gilonite>my-age-gilonite
+.ittai>spade-ittai
+.kidron>potter-kidron>qdrwn, qdr potter
+.hushai>sensory-hushai
+.shimei>hear-listen-shimei
+#curse>gaslight-curse>qll, ql light, qll burnished metal, bronze, burnished: polished by rubbing
+.amasa>with-burden-amasa
+.ithra>look-ithra
+.barzillai>iron-barzillai
+.rogelim>legs-rogelim
+.cushy>spindle-cushy
+princes>immersed-princes>Srym
+.chimham>like-them-chimham
+.bichri>young-male-camel+pillow+meadow-bichri
+.bethmaachah>house-of-squeeze-bethmaachah
+.berites>pure-berites
+.adoram>vapour-high-adoram
+.armoni>palace-armoni>armny, armwn palace
+.ishbibenob>sat-down-in-flourishing-ishbibenob>ySbny bnb, nb to grow, to flourish
+.gob>den-gob
+.sibbechai>entanglement+warbler-sibbechai
+.hushathite>feel-hushathite>HSty, HS feel, sense
+.saph>threshold-saph
+.giant>let-to+weak-giant>rph
+.elhanan>towards-pardon+endow-elhanan
+.jaareoregim>forest-woven-jaareoregim>arg fabric, arwgym woven
+unelohimly>bloody>blyel
+.tachmonite>be-smart-tachmonite
+.adino>still-adino
+.eznite>runner-eznite>ezny, azn run
+.ahohite>dude-ahohite
+.hararite>mountainous-hararite
+.harodite>afraid-harodite
+.elika>towards-vomit-elika>alyqa, qa vomit
+.helez>extract-helez
+.ikkesh>stubborn-ikkesh
+.tekoite>stuck-tekoite
+.anethothite>answer-anethothite
+.mebunnai>from-boy-mebunnai
+.hushathite>hurry+feel-hushathite
+.maharai>hasten-maharai
+.netophathite>dripped-netophathite
+.ribai>quarrel-ribai
+#.benaiah>between-yeah-benaiah
+.hiddai>echo-hiddai
+.abialbon>my-pa-insult-abialbon
+.azmaveth>laziness-azmaveth
+.barhumite>mercy-womb-barhumite
+.eliahba>towards-hide-eliahba
+.shaalbonite>step-my-boy-shaalbonite
+.jashen>old-jashen
+.eliphelet>towards-emit-eliphelet
+.maachathite>crush-maachathite
+.bani>between-me-bani
+.zelek>scar-zelek
+.nahari>snoring-nahari
+.ira>town-ira
+.ithrite>permit-ithrite
+.tahtimhodshi>underpants-monthly-tahtimhodshi
+.danjaan>discuss-because-danjaan
+.araunah>closet-araunah
+
+
+# kings
+.rei >thought+herd+wrong-rei
+.zoheleth>creep-zoheleth
+.abishag>father-achievement-abishag
+.jether>remainder-jether
+.azariah>help-yeah-azariah
+.elihoreph>towards-in-spite-of+winter-elihoreph
+.ahilud>newborn-bro-ahilud
+.zabud>honor-zabud>cbwd, zbwd honor
+.ahishar>my-bro-prince-immersed-ahishar>my-bro-prince+soaked-ahishar
+.adoniram>my-lord-high-adoniram
+.abda>worker-abda
+.dekar>prick-dekar
+.makaz>in-the-end-makaz
+.elonbethhanan>tree-house-of-mercy-elonbethhanan
+.hesed>loving-kindness-hesed
+.aruboth>locusts-aruboth
+.sochoh>shoots-sochoh>Skh, Skwh shoots
+.taphath>drop-taphath>Tph
+.baana>answer-baana
+.ahilud>my-brother-newborn-ahilud
+.zartanah>she-was-in-need-zartanah
+.geber>man-geber
+.ahinadab>my-brother-volunteer-ahinadab
+.iddo>up-to-iddo
+.basmath>balsam-basmath
+.aloth>ons-aloth
+.paruah>flower-paruah
+.tiphsah>skip-tiphsah
+.ethan >strong-ethan
+.ezrahite>civil-ezrahite
+.heman>trusted-heman
+.chalcol>contail-chalcol
+.darda>dreaded-darda
+.mahol>dance-mahol
+.hiram>fishing-net+boycott-hiram
+.zif>brightness-zif
+.bul >block-bul
+.boaz>in-goat-strength-boaz
+.booz>in-goat-strength-boaz>lgaa
+.zarthan>narrow-zarthan
+.ethanim>strongs-ethanim>atnym, aytn strong
+sheep>going-out-sheep>zan, yza go out
+oracle>speak-oracle>dbyr
+.tadmor>love-tadmor>tdmr, from hurrian tad, to love?
+.eziongeber>wood-man-eziongeber
+.eloth>towards-eloth
+.ashtoreth>star-sex'n'war-ashtoreth
+.milcom>king-milcom
+#abomination>end-abomination>Sqz, also twebwtykm
+.tahpenes>catch-up-tahpenes
+.genubath>thieves-genubath
+.rezon>thinness-rezon
+.eliadah>towards-knowing-eliadah
+.jeroboam>much-people-jeroboam>or much-with-jeroboam
+.nebat>germ-nebat
+.zeruah>wasp-zeruah
+.ahijah>my-bro-yeah-ahijah
+.shilonite>pull-out-shilonite>Sylny, Slh pull out
+.shishak>kiss-shishak
+.rehoboam>wide-people-rehoboam>or their-street-rehoboam
+.roboam>wide-people-rehoboam>lgaa
+.shemaiah>hear-yeah-shemaiah
+.josiah>despair-yeah-josiah
+.josias>despair-yeah-josiah>lgaa
+.abijah>father-yeah-abijah
+.abia>father-yeah-abijah
+.abijam>father-day-abijam
+.abishalom>my-dad-complete-abishalom
+.asa >ride-asa>asa, nsa to go, travel, ride
+.benhadad>child-of-echo-benhadad
+.tabrimon>good-pomegranate-tabrimon
+.hezion>vision-hezion
+.baasha>in-moth-baasha>beSa, eS moth
+.ijon>consideration-ijon
+.abelbethmaachah>mourning-house-of-sqeeze-abelbethmaachah
+.cinneroth>candles-cinneroth
+.hanani >graceful-hanani
+.arza>land-arza
+.jehu >yeah-he-jehu
+.omri>sheaf-omri
+.tibni>build-tibni
+.ginath>garden-ginath
+.samaria>keep-guard-samaria>or name-joy-samaria
+.samaritan>keep-guard-samaritan
+.shemer>guard-shemer
+.ahab>bro-dad-ahab
+.jezebel>now-wear-out+have-fun-jezebel>aycbl, ayz now
+.ethbaal>you-own-ethbaal
+.segub>in-error+greatness-segub
+.elijah>towards-yeah-elijah
+.tishbite>sit-tishbite
+.cherith>sink+pillow-cherith
+flesh>immersed-flesh>or immersed-in-flesh
+.zarephath>refine-zarephath
+.sarepta>refine-zarephath>lgaa
+cake>slang-cake>egh
+.obadiah>work-the-yeah-obadiah
+bull >break-off-bear-fruit-bull>pr
+juniper>recruit-juniper
+.hazael>chest-look-at-towards-hazael
+.nimshi>freckles-nimshi
+ministered>was immersed>Sr
+.naboth>grow-naboth
+.micaiah>blow-yeah-micaiah>mykyhw, mkh blow
+.imlah>word-imlah
+.zedekiah>that's-right-yeah-zedekiah
+.chenaanah>merch-chenaanah
+.amon >mum-training-amon
+.ahaziah>grip-yeah-ahaziah
+.azubah>neglect-azubah
+.shilhi>send-shilhi
+.tharshish>explore-marble-tharshish
+.jehoram>yeah-oh-is-high-jehoram
+.baalzebub>possessor-of-the-flies-baalzebub
+captain>immersed-captain
+.kirharaseth>wall-deaf-plow-kirharaseth> or HrS craftsman
+.gehazi>squeeze-gehazi>gHc, gHz squeeze
+.shunammite>create-shunammite>Swnmyt, Swn to give, create
+.zair>young-zair
+.athaliah>time-athaliah>etlyhw, et time
+.ramothgilead>highs-roll-until-ramothgilead
+.gur>cub-dwell-gur
+.jehonadab>yeahoh-donate-jehonadab
+.jehosheba>yeahoh-seven-satiated-jehosheba
+.sur >turn-aside-sur
+byt#temple>house
+.jehoash>yeahoh-fire-jehoash
+.zibiah>gazelle-zibiah
+.high places>high=places+death=stages
+.silla>basket-silla>sla, sl basket
+.jozachar>jozachar>hebrew and latin name differ
+.shimeath>hear-shimeath
+.jehozabad>drip-cloth-jehozabad
+.jehoahaz>oh-yeah-grip-jehoahaz
+.amaziah>adopt-yeah-amaziah
+.jehoaddan>oh-yeah-gentle-jehoaddan
+.selah>rock-selah
+.elath>deer-to-elath
+.amittai>true-amittai
+.gathhepher>winepress-dig-gathhepher
+.zachariah>male-remember-yeah-zachariah
+.jecholiah>be-able-yeah-jecholiah
+.uzziah>goat-strong-yeah-uzziah
+.ozias>goat-strong-yeah-uzziah>lgaa
+.menahem>comfort-menahem
+.willum>complete-willum>Slm
+.pul >bean+fall-pul
+.pekahiah>open+inspect-yeah-pekahiah
+.pekah>inspector-pekah
+.remaliah>circumcise-remaliah>rml, ml to circumscise
+.arieh>lion+collect-arieh
+.tiglathpileser>find-out-fall-ban-tiglathpileser>tglt plasr, tglt find out, npl fall, asr ban
+.janoah>relax-janoah
+.jerusha>inheritance-jerusha
+.rezin>run+seriously-rezin
+.ahaz>grip-ahaz
+.achaz>grip-achaz
+.urijah>light-yeah-urijah
+.urias>light-yeah-urijah
+.hezekiah>strong-oh-yeah-hezekiah
+.ezekias>strong-yeah-hezekiah
+.shalmaneser>complete-arrested-shalmaneser
+.halah>moist-halah
+.habor>splice-habor
+.gozan>fleece+pass-by-gozan>gwzn, gz fleece; pass by
+.medes>each-and-every-medes
+.babylon>wear-out-babylon
+.cuthah>beaten-cuthah
+.ava>twist-ava>ewh to twist, distort
+.sepharvaim>tellings-sepharvaim
+.aris >lions+gather-aris
+.succothbenoth>booths-daughters-succothbenoth
+.cuth>hatch-cuth
+.nergal >spy-training-nergal
+.ashima>fire-hundred-ashima>aSyma, aS fire, mah hundred
+.nibhaz>looted-nibhaz
+.tartak>catch-up-tartak
+.adrammelech>glorify-the-king-adrammelech
+.anammelech>answer+load-king-anammelech>anmlk, an load, anh answer
+.abi >my-father-abi
+.nehushtan>snake-bronze-nehushtan
+.sennacherib>scorching-sennacherib>snHryb, Hryb scorching
+.tartan>explore-tartan>tr explore, seek
+.rabsaris>many-eunuch-rabsaris
+.rabshakeh>many-silent-rabshakeh
+.eliakim>towards-realization-eliakim>qym to fulfill, realize, perform
+.hilkiah>part-yeah-hilkiah
+.shebna>sit-build-shebna
+.joah>yo-brother-joah
+.arpad>light-redeem-arpad
+.hena>movement-hena
+.ivah>twist-ivah
+.sepharvaim>countings-sepharvaim
+.isaiah>secure-ohyeah-isaiah>or save-ohyeah-isaiah
+.amoz>adoption-amoz
+prayer>fall-prayer>tpl
+.tirhakah>stay-away-tirhakah
+.rezeph>sequence-rezeph
+.thelasar>approve-thelasar
+.nisroch>miracle-soft-nisroch
+.sharezer>immersed-prince-collect-sharezer
+.armenia>appeal+armenia-ararat
+.esarhaddon>banned-sharp-esarhaddon
+.berodachbaladan>baladan-grain-vapour-wear-out-windowsill-berodach>br grain, ad vapour, bl wear out, wither, adan windowsill
+.baladan>wear-out-window-sill-baladan
+book of the chronicles>the book of the days
+.hephziba>bah-my-belongings-in-her-hephzi
+.uzza>goat-uzza
+.meshullemeth>completed-meshullemeth
+.haruz>diligent-haruz
+.jotbah>good-jotbah
+idols>ideal-bullshit-idols>gllym dung, animal droppings
+.jedidah>her-friend-jedidah
+.boscath>pour-boscath
+.shaphan>cony-shaphan
+.azaliah>yeah's-delegate-azaliah
+.meshullam>complete-meshullam
+.ahikam>my-brother-got-up-ahikam
+.asaiah>ride-yeah-asaiah
+.huldah>universe-mole-huldah
+.tikvah>hope-tikvah
+.harhas>after-pity-harhas
+.topheth>bait-topheth
+.natanmelech>given-king-moloch-natanmelech
+.pharaohnechoh>nechoh-big-house-beat-pharaoh
+.euphrates>cow-euphrates-parat
+.hamutal>hot-dew-hamutal
+.jeremias>jeremiah
+.jeremiah>high-ohyeah-jeremiah
+.jeremy>yeah-high-jeremiah>lgaa
+.jehoiakim>yeah-oh-get-up-jehoiakim
+.zebudah>cream-gift-zebudah
+.pedaiah>redemption-pedaiah
+.rumah>height-rumah
+.nebuchadnezzar>bring-jug-and-guard-it-nebuchadnezzar
+.jehoiachin>will-prepare-jehoiachin
+.jechonias>yeah-prepare-jehoiachin>lgaa
+.nehushta>bronze-nehushta
+.elnathan>towards-given-elnathan
+.nebuzaradan>bring-foreign-base-nebuzaradan
+rb#captain>master
+.zephaniah>observe-cover-yeah-zephaniah
+.gedaliah>great-yeah-gedaliah
+.nethaniah>given-yeah-nethaniah
+.johanan>yeah-attractive-johanan
+.careah>ice+bald-careah
+.tanhumeth>comforted-tanhumeth
+.jaazaniah>ear-yeahoh-jaazaniah
+.evilmerodach>rebellion-evil=merodach+simpleton>avyl silly, simpleton, mrd rebellion
+
+
+
+
+# jeremiah
+
+.noph>view-noph
+.tahapanes>you'll-be-caught-tahapanes
+harlot>feed-harlot
+.tekoa>stuck-tekoa
+.bethhaccerem>wineyard-house-beth=haccerem
+.tophet>bait-tophet
+.hinnom>doze-hinnom
+.uphaz>golden-uphaz
+pastor>evil-pasture
+.pashur>break-pashur>pSHh she broke
+.immer >saying-immer
+.magormissabib>terror-all-around-magormissabib
+shepherds>watchers-shepherds
+.nebuchadrezzar>bring-jug-collect-nebuchadrezzar>nbwkdrzr, azr collect
+.jeconiah>beat-io-jeconiah>or jeconiah-beat.io
+.chaldea>as-genies-chaldea-kasdim
+.sheshach>six-rejoice-sheshach
+.pasture>look-after-pasture
+.morasthite>legacy-morasthite
+#.shemaiah>hear-i-o-shemaiah
+.jeconiah>ready-yeah-jeconiah
+.azur>help-azur
+.hananiah>graceful-yeah-hananiah
+rebellion>dejection>srh
+.elasah>towards-action-elasah
+.gemariah>finished-yeah-gemariah
+.kolaiah>voice-yeah-kolaiah
+.nehelamite>dreamer-nehelamite
+.maaseiah>action-yeah-maaseiah
+.hanameel>gratis-towards-hanameel
+.baruch>blessed-failure-baruch
+.neriah>candle-yeah-neriah
+.habaziniah>beggar-pudding-yeah-habaziniah
+.hanan >attractiveness-camp-hanan
+.igdaliah>grow-up-i-o-igdaliah
+#.willum>shalom-full-willum>Slm
+.michaiah>who-i-o-michaiah
+.jehudi>know-jehudi
+.delaiah>weak-i-o-delaiah
+.jerahmeel>womb-mercy-unto-jerahmeel
+.hammelech>the-king-hammelech
+.azriel>help-theory-azriel
+.shelemiah>complete-yeah-shelemiah>or shelemiah-complete-i-o
+.abdeel>work-theory-abdeel
+.coniah>pad-i-o-coniah
+.jehucal>i-o-all-jehucal
+.irijah>fear-awe-yeah-irijah
+.shephatiah>judge-yeah-shephatiah
+.mattan>giving-mattan
+.malchiah>my-king-moloch-malchiah
+.ebedmelech>work-king-ebedmelech
+.nergalsharezer>shar-ezer-spy-prince-collection-nergal
+.samgarnebo>drug-live-yield-samgar=nebo>sm drug, gr live, nbw yield
+.sarsechim>prince-immerse-agreed-sar=sechim
+.rabmag>many-mega-rab=mag
+.nebushasban>bring-drip-nebu=shasban>cbn salesman
+.jezaniah>listen-i-o-jezaniah
+.jew>hand-know-jew
+#.jew>hand-io-jew-splendid
+.kareah>bald-ice-kareah
+.baalis>owner-baalis
+.hoshaiah>save-yeah-hoshaiah
+.tahpanhes>praise-be-to-god-tahpanhes
+.pathros>father-pathros
+.pharaohhophra>big-house-dig-pharaoh=hophra
+.misgab>fortress-misgab
+.bethdiblathaim>house-of-dumplings-beth=diblathaim
+.bethgamul>house-of-camel-reward-beth=gamul
+.bethmeon>house-of-residence-beth=meon
+.kerioth>towns-kerioth
+.horonaim>holes-horonaim
+.nimrim>leopards-nimrim
+.kirheres>town-craftsmen-kir-heres>or town-of-deafness-kir=heres
+.teman>south-teman
+.bel >fun-wither-bel
+.merodach>bitter-lowly-merodach
+.merathaim>bitter-merathaim
+.minni>count-minni
+.ashchenaz>fire-as-hawk-ashchenaz>nZ hawk
+
+# isaiah
+.seraphims>resins-serpents-seraphims
+.shearjashub>jashub-rest-settlement-shear
+.tabeal>good-towards-tabeal
+.mahershalalhashbaz>fast-loot-hurry-booty-maher=shalal=hash=baz
+.zechariah>remember-yeah-zechariah>or zechariah-remember-i-o
+.jeberechiah>knee-bless-i-o-jeberechiah
+.madmenah>cursed-madmenah
+.gebim>backs-gebim
+ezb#wicked>sorrow
+mzm#wicked>confutingly
+re#wicked>bad
+hoot#very wickedness>present-evil
+and elohim is angry with the wicked every day>and unto-el is angry every day.
+wicked>evil>or evil
+.bajith>house-bajith
+.eglaim>beading-eglaim
+.beerelim>well-of-rams-beerelim
+.kirhareseth>city-deaf-plow-kir=hareseth
+.kir >wall-kir
+.perazim>breaks-perazim
+
+.idumea>red-idumea
+.arphad>envelop-arphad>rpd uphosterer, surround, envelop
+.asaph>add-collect-asaph
+.telassar>mound-sing-minister-tel=assar
+.jesurun>song-joy-jesurun
+.sabeans>grandparents-sabeans
+.nebaioth>prophecies-nebaioth
+.beulah>owned-married-beulah
+.sharon>sing-watch-sharon
+.saron>sing-watch-saron>lgaa
+
+
+# ezekiel
+.chebar>already-grain-chebar
+.telabib>hill-spring-tel=abib
+.diblath>bear-diblath>db bear
+.pelatiah>output-io-pelatiah
+.daniel>my-discuss-towards-daniel
+.bamah>in-what-bamah
+.aholah>her-tent-aholah
+.aholibah>tent-core-aholibah>lbh core
+whoredom>feed-whoredom>or nutrition-whoredom
+they committed adultery>they committed=adultery=were=baked
+lewed>invoice-lewed
+adulteress>baked-adulteress
+rebellious>embittered-rebellious
+filthiness>stained-ceasedness>Tma
+purge>bright-climax-purge>Thr
+.ezechiel>ezekiel
+.ezekiel>strenghten-towards-ezekiel
+.cherethims>cut-off-cherethims
+.tyrus>narrow-zur-tyrus
+.senir>meadow-senir>nyr meadow
+.persia>split-spread-persia>or cut-spread-persia
+.phut>bread-female-genitalia-phut>pwT, pt bread, female genitalia
+.gammadims>dwarf-gammadims
+.chilmad>as-taught-chilmad
+.syene>bush-syene
+.na#no>partially-cooked-no>na
+.libya>libya-open-put
+.lydia>hail-birth-lydia>
+.chub>thorn-chub
+.syn#sin>bush-sin
+.aven >potency-aven
+.pibeseth>mouth-of-enticing-pibeseth
+.tehaphnehes>tehaphnehes-praise-be-to-god
+.gog>roof-maximum-gog
+.hamongog>crowd-roof-hamon=gog
+.hamonah>counter-crowd-hamonah
+.bath>aged-daughter-bath
+.homer>clay-homer
+.maneh>portion-maneh
+.eneglaim>eye-well-of-calves-eneglaim
+.berothah>eat-berothah>brh to eat
+.sibraim>explanations-sibraim
+.hazarhatticon>garden-of-the-middle-hazar=hatticon
+.hauran>hole-hauran
+#there >name-there>Smh
+
+# hosea
+.hosea>save-hosea
+.diblaim>dryed-figs-diblaim
+.loruhamah>no-womb-mercy-lo=ruhamah
+.loammi>not-my-people-lo=ammi
+.ammi >my-people-ammi
+.ruhamah>womb-mercy-ruhamah
+.ishi>my-man-ishi
+.baali >my-property-baali
+.jareb>much-jareb
+.shalman>full-complete-shalman
+.betharbel>house-of-ambush-towards-beth=arbel
+
+
+# joel
+.pethuel>seduce-towards-pethuel
+.grecia>mud-dove-javan-greece
+nqt#cleanse>cleanse
+
+
+# amos
+.amos>loaded-amos
+.chiun>because-when-chiun
+.hemath>hot-hemath
+c|alleth>calleth
+
+
+# obadiah
+.sepharad>edge-book-sepharad
+
+
+# jonah
+.joppa>beauty-joppa
+
+# micah
+.zaanan>sheep-zaanan
+.bethezel>house-of-nobility-beth=ezel
+.maroth>bitter-authority-maroth
+.moreshethgath>heritage-winepress-moresheth=gath
+.ephratah>gray-fruitful-ephratah
+
+
+# nahum
+.nahum>console-nahum>condolence-nahum
+.naum>console-naum
+.elkoshite>towards-difficulty-elkoshite
+.pot#put>open-put
+.lubim>heart-lubim-lybians
+
+
+# habakkuk
+.habakkuk>fragrant-plant-embrace-habakkuk
+
+
+# zephaniah
+.cushi>my-african-spindle-stick-cushi
+.amariah>say-yeah-amariah
+.hizkiah>strong-yeah-hizkiah
+.malcham>your-king-moloch-malcham
+brorh#pure>clear
+
+
+# haggai
+.darius>demand-darius
+.haggai>festival-haggai
+#.zerubbabel>seed\/\/pressed-out\/\/of-babel\/\/zerubbabel>crh stranger
+.zerubbabel>seed-pressed-out-of-babel-zerubbabel>crh stranger
+.zorobabel>seed-pressed-out-of-babel-zerubbabel>lgaa
+.shealtiel>ask-towards-shealtiel
+.josedech>i-o-is-right-josedech
+
+
+# zechariah
+.berechiah>knee-bless-berechiah
+.satan>accuse-satan
+Thr#fair>bright=climaxing
+.heldai>universe-rust-heldai
+.jedaiah>hand-knowledge-jedaiah
+.helem>dream-helem
+.hen >attractive-charme-hen
+.chisleu>loin-of-foolishness-chisleu
+.sherezer>minister-restrict-collect-sher=ezer
+.regemmelech>mortarman-king-regemmelech
+.hadrach>your-room-hadrach
+shepherd>watcher=shepherd
+.hadadrimmon>high-thunder-hadad=rimmon
+.azal >delegate-next-to-azal
+.hananeel>towards-grace-attractive-hananeel
+ass >serious-strict-donkey
+mule>seperate-mule
+to keep the feast>to feast the feast
+
+
+# malachi
+malachi>angel-messenger-malachi
+mgS#offer>submit
+Hrm#curse>boycott-fishing-net
+
+
+# psalms
+rSe#unelohimly>rashayim
+higgaion>common-sense-higgaion
+.mizar>regretful-sad-mizar
+.sobal>place-sobal
+.philistia>invade-philistia
+unto the end>to the conductor
+.idithun>hands-idithun
+psalm>cut-psalm>cmor (agriculture) pruning, clipping, trimming
+.assur >beech-tree-assur
+.kison>straw-difficult-kison
+.mesech>drag-duration-mesech
+.chusi>spindle-chusi
+.jemini>right-jemini
+.core>bald-ice-core
+
+
+# proverbs
+.lemuel>why-unto-lemuel
+
+# job
+.job>father-enemy-job
+.bildad>fun-friend-bildad
+.shuhite>swimmer-shuhite
+.zophar>honk-zophar
+.naamathite>delight-naamathite
+
+
+# song of songs
+.amana>agreement-amana
+.shulamite>payed-up-shulamite
+.baalhamon>husband-plenty-baalhamon
+
+
+# ruth
+.elimelech>unto-my-king-moloch-elimelech
+.naomi>pleasant-naomi
+.mahlon>sickness-mahlon
+.chilion>annihilation-chilion
+.orpah>drip-orpah
+.ruth>foresight-ruth>raot view, vision
+.mara >bitter-merry-mara
+.rm#ram>high-ram
+.salmon>complete-salmon>or whole-salmon
+.obed >worker-obed
+
+
+# lamentations
+
+# ecclesiastes
+#evil>rasha'
+vanity>wear-out-vanity
+fool>kasil-fool>ksil
+
+
+# esther
+.ahasuerus>king-and-male-ahasuerus
+.india>echo-hodu-india
+.shushan>lily-shushan
+.mehuman>faithful-mehuman
+.biztha>despise-biztha
+.harbona>after-maker-harbona>Hr after, bona creator
+.bigtha>fortune-bigtha>perhaps from sanscrit baga, fortune
+.abagtha>fortune-abagtha
+.zethar>hide-zethar
+.carcas >ridge-carcas
+.vashti>drinking-beauty-vashti>drink Sth, or persian/arabic word for beautiful one
+.carshena>pillow-hate-carshena
+.shethar >explore-shethar
+.admatha>land-admatha
+.meres>from-eyelash-meres>ris eyelash
+.marsena>bitter-bush-marsena
+.memucan>ready-memucan
+.mordecai>bitter-crush-mordecai
+.hadassah>myrtle-hadassah
+.esther>star-myrtle-esther
+.hegai>circle-hegai>circle, fly around Hg
+.shaashgaz>amusement-fleeze-shaashgaz>SeS, gc
+.abihail>my-father-force-abihail
+.tebeth>sink-tebeth>sink, go down Tbe;
+.teresh>feared-desired-teresh>persian tirshatha
+.hammedatha>measure-hammedatha
+.haman>solitary-illustrious-haman>persian
+.nisan>try-out-nisan
+.hatach>melt-hatach
+.zeresh>golden-zeresh>golden, zaris (persian)
+.sivan>bush-storage-sivan
+.parshandatha>cut-expound-parshandatha>prS, dt
+.dalphon>dripper-dalphon
+.aspatha>storage-room-aspatha>asp, ta
+.poratha>quite-a-bit-poratha
+.adalia>strong-hang-adalia>be strong 'add; to hang dlh
+.aridatha>lion-decree-aridatha
+.parmashta>yearling-bull-parmashta
+.arisai>tenant-farmer-arisai
+.aridai>bronze-aridai
+.vajezatha>white-atmosphere-vajezatha
+.purim>luck-purim
+.pur >luck-pur
+
+# daniel
+.ashpenaz>fire-turn-hawk-ashpenaz>aS, pn, nZ
+.belteshazzar>secret-treasure-belteshazzar
+.shadrach>nipple-shadrach
+.melzar>circumcise-narrow-melzar
+.cyrus>belly-cyrus>krS. belly krs
+.syriack>high-aram-syriack
+.abednego>work-against-abednego
+.dura>generation-dura
+.belshazzar>lord-protect-the-zar-belshazzar
+.ulai>fool-strength-ulai
+
+# question: turn off word annotations? maybe namespaces-heavens is still useful, maybe immersed#prince not so?
+
+# ezra
+.sheshbazzar>alabaster-joy-fortify-sheshbazzar
+#.jeshua>save-jeshua-jesus
+.jeshua>save-jeshua-joshua
+.nehemiah>comfort-yeah-nehemiah
+.reelaiah>poison-yeah-reelaiah
+.bilshan>on-tongue-language-bilshan
+.mizpar>number-cut-hair-mizpar
+.bigvai>in-torso-bigvai
+.rehum>mercyful-rehum
+.parosh>wild-head-parosh>pra wild, raS head
+.arah>host-arah
+.pahathmoab>loss-from-father-pahathmoab
+.zattu>olive-tree-zattu
+.zaccai>pure-provide-zaccai
+.bebai>empty-bebai
+.azgad>goat-tell-azgad
+.adonikam>my-lord-get-up-adonikam
+.bigvai>in-my-body-bigvai
+.adin>adorned-dainty-adin
+.ater>left-hand-shut-ater
+.bezai>eggs-bezai
+.jorah>showing-jorah
+.hashum>silence-hasting-hashum
+.gibbar>manly-gibbar
+.netophah>dripped-netophah
+.michmas>covers-michmas
+.magbish>excelling-height-magbish
+.harim>destroyed-dedicated-harim
+.lod >nativity-lod
+.hadid>rejoicing-sharp-hadid
+.ono>grief-strength-ono
+.senaah>bramble-enemy-senaah
+.kadmiel>antiquity-rising-unto-kadmiel
+.hodaviah>glory-yeah-hodaviah
+#.willum>complete-willum
+.ater>site-ater
+.talmon>furrow-talmon>tlm furrow
+.akkub>foot-print-lewedness-akkub
+.hatita>bending-of-sin-hatita
+.shobai>captivity-shobai
+.nethinims>givens-nethinims
+.ziha>brightness-drought-ziha
+.hasupha>exposed-hasupha
+.tabbaoth>rings-tabbaoth
+.keros>crooked-keros
+.siaha>drive-siaha>sieha, seh drive
+.padon>redeem-padon
+.lebanah>brick-white-lebanah
+.hagabah>grasshopper-hagabah
+.hagab>grasshopper-hagab
+.shalmai>my-garment-shalmai
+.giddel>great-giddel
+.gahar>bend-over-gahar
+.reaiah>see-yeah-reaiah
+.nekoda>painted-inconstant-nekoda
+.gazzam>cutting-fleece-gazzam
+.paseah>pass-over-halt-paseah
+.besai>despising-dirty-besai
+.asnah>eat-asnah>esn eat
+.mehunim>springs-mehunim
+.nephusim>occupied-nephusim
+.bakbuk>bottle-bakbuk
+.hakupha>girth-hakupha>girth, surrounding hqp
+.harhur>instigation-harhur
+.bazluth>onions-bazluth
+.mehida>riddle-on-the-contrary-mehida
+.harsha>workmanship-wood-harsha
+.barkos>capable-glass-barkos
+.thamah>blot-out-supress-thamah
+.neziah>eternal-neziah
+.hatipha>kidnapped-hatipha
+.sotai>conclusion-in-pleading-sotai
+.sophereth>scribe-recount-sophereth
+.peruda>seperation-peruda
+.jaalah>rise-jaalah
+.darkon>generation-posession-darkon
+.hattil>eggplant-hattil
+.pochereth>cut-mouth-pochereth
+.zebaim>deer-zebaim
+.ami >my-mother-ami
+.telmelah>hill-of-salt-telmelah
+.telharsa>hill-of-deaf-telharsa
+.addan>base-lord-addan
+.habaiah>debt-yeah-habaiah
+.koz>thorn-koz
+.tirshatha>resigned-tirshatha
+.jozadak>right-io-jozadak>just-io-jozadak
+.artaxerxes>silence-light-fervent-spoil-artaxerxes
+.bishlam>in-peace-complete-bishlam
+.mithredath>going-down-mithredath
+.tabeel>good-unto-tabeel
+.shimshai>sun-shimshai
+.dinaites>dispute-law-dinaites
+.apharsathchites>divide-rend-apharsathchites
+.tarpelites>ravish-tarpelites
+.apharsites>divide-rend-apharsites
+.archevites>long-archevites
+.susanchites>lily-susanchites
+.dehavites>that's-it-dehavites
+.asnapper>anger-increase-asnapper
+.tatnai>give-tatnai
+.shetharboznai>explore-falcon-despise-shethar=boznai
+.apharsachites>slice-spread-apharsachites
+.judea>aeiou-glory-judea
+.achmetha>brother-of-death-achmetha
+.meraioth>spatula-meraioth
+.uzzi >goat-uzzi
+.abishua>my-father-is-lord-abishua
+.ezra>help-ezra
+dta#law>law
+.hattush>forsaking-sin-hattush
+.shechaniah>neighbors-shechaniah
+.pharosh>bull-noise-pharosh>bull pr, reS noise
+.elihoenai>unto-aeiou-my-eyes-elihoenai
+.jeshaiah>save-yeah-jeshaiah
+.zebadiah>portion-yeah-zebadiah
+.jehiel>live-unto-jehiel
+.josiphiah>add-yeah-josiphiah
+.hakkatan>the-little-hakkatan
+.jeiel>yey-towards-jeiel
+.uthai>my-twist-uthai
+.zabbud>honor-zabbud>zbod honor
+.ahava>being-generation-ahava
+.ariel>lion-unto-ariel
+.casiphia>money-casiphia
+.mahli>forgive-sick-mahli
+.sherebiah>heat-wave-yeah-sherebiah
+.hashabiah>account-hashabiah
+.jozabad>io-dowry-jozabad
+.noadiah>intended-noadiah
+.binnui>built-binnui
+.eliashib>unto-answer-eliashib
+.jarib>rival-jarib
+.kelaiah>easy-roasting-kelaiah
+.kelita>easy-kelita
+.ramiah>level-yeah-ramiah
+.jeziah>sprinkling-jeziah
+.miamin>sign-miamin
+.malchijah>moloch-king-yeah-malchijah
+.abdi>my-worker-abdi
+.jeremoth>high-level-jeremoth
+.eliah>unto-yeah-eliah
+.elioenai>unto-io-my-eyes-elioenai
+.zabad>dowry-zabad
+.aziza>goat-aziza
+.jehohanan>aeiou-io-attractive-graceful-jehohanan
+.zabbai>my-dripping-zabbai
+.athlai>my-time-athlai
+.malluch>moloch-king-malluch
+.adaiah>until-yeah-adaiah
+.sheal>ask-sheal
+.adna>soften-era-adna
+.chelal>all-of-chelal
+.shimeon>hear-shimeon
+.shemariah>keep-yeah-shemariah
+.mattenai>waist-give-mattenai
+.mattathah>died-mattathah
+.jeremai>level-jeremai
+.maadai>meet-maadai
+.uel>or-unto-uel
+.bedeiah>fiction-lie-material-bedeiah
+.chelluh>his-bride-chelluh
+.vaniah>nourishment-weapon-yeah-vaniah
+.meremoth>place-of-highs-meremoth
+.jaasau>do-jaasau
+.machnadebai>volunteer-machnadebai
+.shashai>sixth-shashai
+.sharai>sing-sharai
+.azareel>help-unto-azareel
+.mattithiah>gift-of-yeah-mattithiah
+.zebina>flowing-selling-buying-zebina
+.jadau>his-hand-jadau
+
+
+# nehemiah
+.hachaliah>everything-yeah-hachaliah
+.sanballat>bramble-bush-sanballat
+.horonite>anger-liberty-horonite
+.imri>say-imri
+.hassenaah>hatred-hassenaah
+.meshezabeel>stable-unto-meshezabeel>mSicb, izb stable
+.besodeiah>in-secret-yeah-besodeiah
+.melatiah>cement-yeah-melatiah
+.jadon>discuss-jadon
+.meronothite>sing-master-meronothite
+.harhaiah>anger-yeah-harhaiah
+.rephaiah>weak-yeah-rephaiah
+.harumaph>crunch-harumaph
+.hashabniah>account-yeah-hashabniah
+.hashub>important-hashub
+.halohesh>whisper-halohesh
+.willun>pull-out-sleep-willun>Slh, ln
+.colhozeh>all-chest-col=hozeh
+.siloah>send-siloah
+.azbuk>left-azbuk
+.bavai>in-tick-bavai
+.ananiah>load-yeah-ananiah
+.palal>discern-delouse-palal
+.uzai>my-gooze-uzai
+.ophel>tower-darkness-small-white-cloud-ophel
+.zalaph>caper-snipe-zalaph
+.miphkad>commander-miphkad
+.geshem>rain-geshem
+.gashmu>rain-gashmu
+.mehetabeel>from-best-unto-mehetabeel
+.elul>likely-elul>elol likable, likely
+.raamiah>thunder-yeah-raamiah
+.nahamani>consolation-nahamani
+.mispereth>from-telling-mispereth
+.nehum>consolation-nehum
+.bethazmaveth>house-of-lazyness-beth=azmaveth
+.hodevah>acknowledge-india-thank-hodevah
+.hashupha>exposed-hashupha
+.sia>moving-help-sia
+.lebana>brick-lebana
+.phaseah>passover-phaseah
+.meunim>tortured-meunim
+.nephishesim>diminished-torn-in-pieces-nephishesim
+.bazlith>grilling-bazlith
+.tamah>smite-tamah
+.perida>seperation-perida
+.jaala>up-jaala
+.telharesha>hill-of-deaf-tel=haresha
+.addon>sir-addon
+.anaiah>poor-yeah-anaiah
+.hashbadana>suspicion-hashbadana
+.shabbethai>return-shabbethai
+.hodijah>thanks-yeah-hodijah
+.pelaiah>wonder-yeah-pelaiah
+.bunni>between-me-bunni
+.chenani>my-pillar-chenani
+.pethahiah>opening-yeah-pethahiah
+.zidkijah>be-right-yeah-zidkijah
+.ginnethon>garden-ginnethon
+.mijamin>skilled-mijamin
+.maaziah>stronghold-yeah-maaziah
+.bilgai>in-my-log-bilgai
+.azaniah>ear-yeah-azaniah
+.beninu>we-build-beninu
+.zatthu>this-is-zatthu
+.hizkijah>strong-yeah-hizkijah
+.azzur>help-azzur
+.azor>help-azzur>lgaa
+.hariph>sharp-hariph
+.nebai>grow-nebai
+.magpiash>body-thrust-together-magpiash
+.hezir>pig-hezir
+.jaddua>know-jaddua
+.hallohesh>the-whisper-hallohesh
+.pileha>segment-pileha
+.shobek>die-shobek
+.hashabnah>she-thought-hashabnah
+.anan >load-anan
+Hrm#harim>fishing-net-harim
+.helkai>partial-helkai
+.ginnethon>garden-given-ginnethon
+.miniamin>from-right-hand-miniamin
+.moadiah>until-yeah-moadiah
+.piltai>emit-piltai
+.bilgah>in-her-log-bilgah
+.jehonathan>yeahoh-given-jehonathan
+.joiarib>io-fight-joiarib
+.sallai>my-basket-sallai
+.kallai>my-lightweight-kallai
+.amok>deep-amok
+.joiada>know-joiada
+.jaddua>know-jaddua
+.joiakim>setup-io-joiakim
+scribe>story=writer>author sopr, story spor
+.azarael>help-unto-azarael
+.milalai>wording-milalai
+.gilalai>roll-gilalai
+.meah>hundred-meah
+
+
+
+# chronicles a
+.kenan>nest-kenan
+.jered>go-down-jered
+.henoch>teach-henoch
+.sabta>grandmother-sabta
+.sabtecha>grandmother-sabtecha
+.caphthorim>knot-caphthorim
+.girgashite>mud-drag-girgashite>grr drag
+.abida>father-hand-know-abida
+.reuel>herd-thought-unto-reuel
+.zephi>watch-zephi
+.lotan>covering-lotan
+.ezar>constrain-collect-ezar
+.homam>they-homam
+.alian>on-alian
+.manahath>absorber-manahath
+.shephi>smooth-mouth-shephi
+.onam>potency-onam
+.eshban>buttocks-eshban
+.cheran>anger-cheran
+.bilhan>wear-out-bilhan
+.zavan>vast-zavan
+.jakan>snake-jakan>ieqn; ekn snake, ringed snake; eqn corner
+.aran>pine-aran
+.timnah>prevent-timnah
+.aliah>on-up-aliah
+.jetheth>give-jetheth
+.shua>cry-out-shua
+.hamul>compassion-hamul
+.calcol>provide-for-calcol
+.dara>generation-dara
+.achar>trouble-achar
+who transgressed in the thing accursed>who misappropriated the fishernet-boycott
+.salma>complete-salma
+.shimma>hear-shimma
+.raddai>rule-come-down-raddai
+.ozem>fast-eagerness-ozem
+.ishmeelite>hear-unto-ishmeelite
+.jerioth>sheets-jerioth
+.jesher>straight-jesher
+.bunah>builder-bunah
+.oren>pine-oren
+.atarah>crown-atarah
+.maaz>of-wood-maaz
+.eker>futile-eker
+.shammai>my-name-shammai
+.jada>know-hand-jada
+.abishur>father-align-abishur
+.ahban>brother-between-ahban
+.molid>beget-molid
+.seled>shy-away-from-seled
+.appaim>noses-appaim
+.sheshan>tooth-sheshan
+.ahlai>my-tent-ahlai
+.zaza>get-out-zaza
+.jarha>shed-jarha
+.attai >time-attai
+.ephlal>dark-ephlal
+.eleasah>unto-do-eleasah
+.sisamai>horse-fragrant-spice-sisamai>ssm; sos, sm
+.raham>womb-raham
+.jorkoam>flatten-jorkoam
+.moza>exit-moza
+.gazez>trimmed-gazez
+.jahdai>jewish-jahdai
+.regem>mortarman-regem
+.gesham>approach-gesham
+.pelet>output-pelet
+.shaaph>flew-shaaph
+.sheber>fraction-sheber
+.tirhanah>grace-tirhanah
+.machbenah>hairpin-machbenah
+.gibea>hill-gibea
+.achsa>adorned-achsa
+.bethgader>fence-house-beth=gader
+.haroeh>view-haroeh
+.manahethites>gift-guide-manahethites
+.puhites>pussy-puhites
+.shumathites>put-shumathites
+.mishraites>spectrum-mishraites
+.zareathites>wasp-zareathites
+.eshtaulites>wife-unto-eshtaulites
+.manahethites>rest-manahethites
+.zorites>wasp-zorites
+.jabez>mud-falcoon-jabez>mud bZ, falcoon bc
+.tirathites>warning-tirathites
+.suchathites>falling-suchathites
+.abital>father-dew-abital>Tl dew
+.ithream>angry-ithream
+.eglah>carriage-eglah
+.shimea>hear-shimea
+.nogah>shine-venus-nogah
+.eliada>unto-know-eliada
+.salathiel>ask-unto-salathiel
+.malchiram>king-high-malchiram
+.jecamiah>get-up-yeah-jecamiah
+.hoshama>hear-hoshama
+.nedabiah>contribute-yeah-nedabiah
+.ohel>tent-ohel
+.hasadiah>kindness-yeah-hasadiah
+.jushabhesed>return-kindness-jushabhesed
+.jesaiah>save-yeah-jesaiah
+.esaias>save-yeah-esaias>lgaa
+.arnan>pine-sing-arnan
+.igeal>free-igeal
+.bariah>in-smell-bariah
+.neariah>boy-yeah-neariah
+.azrikam>get-up-help-azrikam
+.hodaiah>echo-acknowledge-yeah-hodaiah
+.dalaiah>raise-yeah-dalaiah
+.jahath>come-on-jahath
+.ahumai>brother-ahumai
+.lahad>echo-lahad
+.zorathites>wasp-striped-zorathites
+.etam>sea-eagle-etam
+.ishma >name-perhaps-ishma
+.idbash>honey-idbash
+.hazelelponi>shadow-face-hazelelponi
+.hushah>sense-hut-hushah
+.ashur>fire-hole-ashur
+.helah>sick-helah
+.naarah>girl-naarah
+.ahuzam>grip-ahuzam
+.temeni>count-belong-temeni
+.haahashtari>explore-brother-haahashtari
+.zereth>trouble-zereth
+.jezoar>bleach-jezoar
+.ethnan>give-shovel-ethnan
+.coz>thorn-coz
+.anub>grape-anub
+.zobebah>turtle-zobebah
+.aharhel>occur-other-aharhel>aHr, Hl
+.harum>mountain-high-harum
+.chelub>cage-chelub
+.mehir>price-mehir
+.eshton>fire-give-eshton
+.bethrapha>weak-house-beth=rapha
+.tehinnah>station-tehinnah
+.irnahash>city-snake-guess-ir=nahash
+these are the men of rechah>these are rechah men
+.rechah>soft-rechah
+.hathath>cut-hathath
+.meonothai>my-residence-meonothai
+.charashim>craftsmen-deaf-charashim
+.iru>his-city-iru
+.naam>please-sing-naam
+.jehaleleel>praise-unto-jehaleleel
+.tiria>thrist-tiria
+.asareel>confirm-bliss-unto-asareel
+.mered>rebel-mered
+.jalon>borrow-lend-jalon
+.ishbah>praise-improve-ishbah
+.socho>shut-down-socho
+.jekuthiel>butt-unto-jekuthiel
+.bithiah>her-daughter-bithiah
+.hodiah>acknoledge-yeah-hodiah
+.naham>comfort-naham
+.garmite>bone-cause-garmite
+.shimon>greasing-shimon
+.rinnah>sing-joy-rinnah
+.benhanan>between-grace-ben=hanan
+.tilon>hanging-tilon
+.zoheth>seperate-zoheth
+.benzoheth>child-seperate-benzoheth
+.lecah>go-lecah
+.laadah>to-witness-laadah
+.ashbea>satiate-swear-ashbea
+.jokim>get-up-jokim
+.chozeba>as-wolf-chozeba
+.saraph>resin-saraph
+.nemuel>sleep-unto-nemuel
+.hamuel>heat-unto-hamuel
+.zacchur>remember-sow-zacchur
+.ezem>wood-bone-ezem
+.hazarsusim>horse-yard-hazar=susim
+.bethbirei>create-house-beth=birei
+.tochen>design-beat-tochen
+.meshobab>playful-meshobab
+.jamlech>king-jamlech
+.joshah>save-joshah
+.josibiah>return-yeah-josibiah
+.asiel>do-unto-asiel
+.jaakobah>heel-back-jaakobah
+.jeshohaiah>stroll-yeah-jeshohaiah>iSoHih, stroll lSoH
+.adiel>until-unto-adiel
+.jesimiel>put-unto-jesimiel
+.ziza>ledge-ziza>cica, ledge cic
+.shimri>guard-shimri
+.ham>hot-ham
+.reaia>see-yeah-reaia
+.beerah>her-well-beerah
+.tilgathpilneser>fallen-fall-ban-tilgath=pilneser
+.azaz>goat-strong-azaz
+.jaanai>answer-jaanai
+.jorai>shoot-jorai
+.jachan>snake-jachan
+.zia>see-listen-learn-zia
+.huri>hole-huri
+.jaroah>moon-jaroah
+.jeshishai>six-jeshishai
+.jahdo>together-jahdo
+.nephish>nephish
+.eliel>to-don't-unto-eliel
+.jahdiel>together-unto-jahdiel
+.hara>show-hara
+.jehozadak>io-is-right-jehozadak
+.zimmah>lewdness-zimmah
+.jeaterai>site-jeaterai
+.ebiasaph>father-add-ebiasaph
+.uriel>light-unto-uriel
+.ahimoth>brother-dead-ahimoth
+.zophai>viewer-nectar-zophai
+.vashni>tooth-two-vashni
+.shemuel>name-unto-shemuel
+.toah>weapon-toah
+.mahath>protest-mahath
+.baaseiah>doing-yeah-baaseiah
+.ethni>give-ethni
+.amzi>courage-adopt-amzi
+.shamer>guard-shamer
+.hilen>troops-hilez
+.alemeth>maiden-death-alemeth
+.jokmeam>get-up-people-jokmeam
+.bileam>swallow-bileam
+.anem>load-anem>enm, load en
+.hukok>legislate-engrave-hukok
+.jahzah>rush-jahzah
+.shimrom>joy-song-shimrom
+.jeriel>shot-unto-jeriel
+.jahmai>my-life-jahmai
+.jibsam>in-name-jibsam
+.izrahiah>shine-yeah-izrahiah
+.jediael>know-unto-jediael
+.jerimoth>highs-jerimoth
+.iri>my-city-iri
+.zemira>trimming-zemira
+.alameth>maiden-alameth
+.zethan>olive-zethan
+.ahishahar>brother-dawn-ahishahar
+.shuppim>moustache-shuppim
+.ir >city-ir
+.aher>other-aher
+.jahziel>half-unto-jahziel
+.ashriel>bliss-approve-unto-ashriel
+.peresh>horseman-peresh
+.sheresh>root-sheresh
+.ulam>hall-to-ulam
+.rakem>weave-rakem
+.ishod>man-feedback-ishod
+.mahalah>disease-mahalah
+.ahian>brother-ahian
+.likhi>take-likhi
+.aniam>i-people-aniam
+.eladah>unto-until-eladah
+.elead>unto-until-elead
+.sherah>survivor-sherah
+.uzzensherah>ear-survivor-uzzen=sherah
+.rephah>weak-rephah
+.resheph>spark-resheph
+.telah>salt-telah
+.laadan>refine-laadan
+.naaran>youth-naaran
+.imnah>summon-imnah
+.isuah>give-equal-isuah
+.ishuai>value-equal-ishuai
+.birzavith>fountain-birzavith
+.japhlet>output-japhlet
+.shomer>keep-shomer
+.hotham>seal-hotham
+.pasach>passover-pasach
+.bimhal>in-thin-bimhal
+.ashvath>do-ashvath
+.ahi >my-brother-ahi
+.rohgah>talk-filled-rohgah
+.jehubbah>fondness-jehubbah
+.zophah>shouts-zophah
+.imna>prevent-imna
+.shelesh>three-shelesh
+.amal>labor-amal
+.suah>divert-tell-suah
+.harnepher>hole-break-harnepher
+.beri>eat-clear-beri
+.imrah>pretension-gall-imrah
+.hod>feedback-hod>glory?
+.shamma>name-perhaps-shamma
+.shilshah>three-shilshah
+.beera>well-done-beera
+.pispah>missed-pispah
+.ara >see-curse-ara
+.ulla>on-no-ulla
+.haniel>attractive-unto-haniel
+.rezia>want-rezia
+.aharah>other-aharah
+.nohah>rest-nohah
+.rapha>shelf-rapha>rp
+.addar>vow-hide-addar
+.ahoah>brother-thistle-ahoah>HoH thistle
+.shephuphan>rabbit-shephuphan>Spn
+.huram>fishing-net-huram
+.shaharaim>dawn-shaharaim
+.baara>fool-burn-baara
+.hodesh>month-new-hodesh
+.zibia>deer-zibia
+.jeuz>advice-jeuz
+.shachia>ornament-shachia
+.mirma>fraud-high-region-mirma
+.abitub>father-good-abitub
+.elpaal>unto-act-elpaal
+.misham>boring-misham
+.shamed>destroy-shamed
+.shashak>kiss-shashak>SSq, kiss nSq
+.ader>herd-ader
+.ispah>compensate-ispah
+.joha>brother-joha
+.hezeki>strong-hezeki
+.ishmerai>keep-ishmerai
+.jezliah>donkey-jezliah
+.elpaal>unto-act-elpaal
+.jakim>fulfill-jakim
+.zabdi>my-gift-zabdi
+.elienai>unto-answer-elienai
+.zilthai>shade-zilthai
+.beraiah>create-yeah-beraiah
+.shimrath>keep-shimrath
+.shimhi>hear-shimhi
+.ishpan>rabbit-ishpan
+.antothijah>answer-yeah-antothijah
+.iphedeiah>redeem-yeah-iphedeiah
+.shamsherai>name-immerse-shamsherai
+.shehariah>dawn-yeah-shehariah
+.jaresiah>cradle-yeah-jaresiah>cradle erS
+.zacher>remember-sow-zacher
+.mikloth>sticks-ease-mikloth
+.malchishua>my-king-cry-out-malchi=shua
+.eshbaal>proprietory-fire-eshbaal
+.meribbaal>quarrel-proprietory-meribbaal
+.pithon>open-pithon
+.melech>king-melech
+.tarea>happen-tarea
+.jehoadah>io-until-know-jehoadah
+.binea>between-binea
+.azel>shade-near-azel
+.bocheru>firstborn-bocheru
+.sheariah>gate-yeah-sheariah
+.eshek>exploit-eshek
+.jehush>keep-council-jehush
+crime>misappropriation>mel
+.jeuel>take-away-unto-jeuel
+.sallu>exaltation-basket-sallu
+.hasenuah>hatred-hasenuah
+.ibneiah>between-ibneiah
+.michri>sale-michri
+.shephathiah>decide-yeah-shephathiah
+.ibnijah>child-yeah-ibnijah
+.jehoiarib>io-fight-jehoiarib
+.maasiai>defense-strength-maasiai
+.jahzerah>return-jahzerah
+.meshillemith>complete-meshillemith
+.hasshub>important-hasshub
+.bakbakkar>in-the-cattle-bakbakkar
+.heresh>craftsman-deaf-heresh
+.galal>roll-galal
+.jeduthun>hand-jeduthun
+.kore>read-kore
+.meshelemiah>complete-yeah-meshelemiah
+shewbread>bread system>lHm hmerkt
+.tahrea>compete-tahrea
+.jarah>honeycomb-jarah
+bit#temple>house
+.jashobeam>satiation-jashobeam
+.hachmonite>smart-hachmonite
+.pasdammim>stripe-value-pas=dammim
+.shammoth>names-shammoth
+.harorite>mountain-drool-harorite
+.pelonite>anybody-pelonite
+.antothite>answer-antothite
+.sibbecai>warbler-entangle-sibbecai
+.ilai>on-for-ilai
+.heled>universe-rust-heled
+.ithai>spell-ithai
+.hurai>holes-hurai
+.baharumite>in-holes-fishernet-baharumite
+.hashem>the-name-hashem
+.gizonite>lawn-gizonite
+.eliphal>unto-fall-eliphal
+.mecherathite>sale-mecherathite
+.pelonite>fall-pelonite
+.hezro>courtyard-hezro
+.naarai>youth-naarai
+.ezbai>drip-ezbai
+.mibhar>selection-mibhar
+.haggeri>foreigner-haggeri
+.naharai>nostrils-anger-naharai
+.berothite>cypress-wells-berothite
+.gareb>scab-gareb
+.shiza>gift-shiza
+.joshaphat>io-decide-joshaphat
+.josaphat>io-decide-joshaphat>lgaa
+.mithnite>loin-gift-mithnite
+.uzzia >strength-kid-uzzia
+.ashterathite>star-ashterathite
+.shama>hear-shama
+.hothan>seal-hotham
+.tizite>go-out-tizite
+.mahavite>indicate-marrow-mahavite
+.jeribai>fighting-multiplying-jeribai
+.joshaviah>seat-alteration-yeah-joshaviah
+.elnaam>unto-fairness-elnaam
+.ithmah>orphan-ithmah
+.jasiel>strength-unto-jasiel
+.mesobaite>little-doe-standing-place-mesobaite
+.shemaah>hear-shemaah
+.jeziel>sprinkle-unto-jeziel
+.berachah>bless-bend-knee-berachah
+.ismaiah>hear-yeah-ismaiah
+.josabad>having-dowry-josabad
+.eluzai>unto-my-strength-eluzai
+.bealiah>husband-yeah-bealiah
+.haruphite>slender-sharp-haruphite
+.jesiah>be-yeah-jesiah
+.joezer>io-help-joezer
+.elzabad>unto-dowry-elzabad
+.machbanai>poverty-smite-between-machbanai
+.shihor>dawn-blackness-shihor
+.perezuzza>breach-goat-perez=uzza
+.elpalet>unto-deliverance-elpalet
+.beeliada>husband-know-beeliada
+.elizaphan>unto-bring-elizaphan
+.kushaiah>hardness-offence-yeah-kushaiah
+.ben >child-ben
+.jaaziel>strength-unto-jaaziel
+.shemiramoth>keep-highs-shemiramoth
+.unni>poor-answer-unni
+.elipheleh>unto-delouse-fall-elipheleh
+.mikneiah>from-buy-yeah-mikneiah
+.aziel>my-goat-unto-aziel
+.sheminith>eight-sheminith
+.jehiah>live-yeah-jehiah
+.syriadamascus>dwell-farm-damascus
+.tibhath>cook-tibhath
+.chun>make-ready-chun
+.shavsha>licorice-shavsha
+.syriamaachah>high-sqeeze-fasten-aram=maachah
+.shophach>pour-out-shophach
+.sippai>threshold-sippai
+.lahmi>my-bread-war-lahmi
+.ornan>pine-ornan
+.zetham>olive-idiot-zetham
+.haziel>chest-unto-haziel>chest Hch
+.shebuel>seat-return-unto-shebuel
+.rehabiah>extent-yeah-rehabiah
+.jeriah>fear-yeah-jeriah
+.jekameam>fulfill-people-jekameam
+.seorim>gates-hairs-seorim
+.hakkoz>thorn-summer-end-hakkoz
+.shecaniah>habitation-yeah-shecaniah
+.huppah>cover-free-huppah
+.jeshebeab>captivity-sitting-father-jeshebeab
+.aphses>distribute-aphses
+.jehezekel>strength-unto-jehezekel
+.gamul>reward-gamul
+.shubael>return-unto-shubael
+.jehdeiah>together-iho-jehdeiah
+.isshiah>female-lamb-isshiah>female lamb Sih "seyah"
+.shelomoth>complete-shelomoth
+.jekameam>fulfill-people-jekameam
+.michah>who's-like-yeah-michah
+.jaaziah>goat-strength-yeah-jaaziah
+.shoham>keep-back-shoham
+.ibri>pass-over-ibri
+.asarelah>confirm-bliss-unto-asarelah
+.zeri>narrow-create-zeri
+.eliathah>unto-you-shovel-eliathah
+.giddalti>great-giddalti
+.romamtiezer>high-help-romamti=ezer
+.joshbekashah>ask-joshbekashah
+.mallothi>my-words-mallothi
+.hothir>excelling-remaining-hothir
+.mahazioth>see-letter-mahazioth
+scholar>learn-scholar
+.izri>instinct-narrow-izri
+.jesharelah>honest-unto-jesharelah
+.jathniel>gift-unto-jathniel
+.peulthai>my-words-peulthai
+.othni>my-time-othni
+.rephael>medicine-unto-rephael
+.semachiah>depend-on-yeah-semachiah
+.simri>keep-simri
+.tebaliah>dipped-good-yeah-tebaliah
+.asuppim>add-collect-asuppim
+.willecheth>autumn-shillecheth
+.parbar>suburb-parbar
+.jerijah>throw-down-fear-yeah-jerijah
+.perez>break-perez
+.ammizabad>my-people-dowry-ammizabad
+.izrahite>shine-izrahite
+.anetothite>answers-anetothite
+.jaasiel>work-unto-jaasiel
+.ezri>my-help-ezri
+.ramathite>high-raised-ramathite
+.shiphmite>moustache-mouth-shiphmite
+.obil>weep-obil
+.jaziz>bright-depart-jaziz
+.hachmoni>wise-hachmoni
+chamber>bureau-chamber>lSkot
+treasuries>stores>azr
+submitted themselves unto>gave hand under
+reign>king>mlk
+
+# chronicles b
+
+qtr#burn sacrifice>steam-engineer
+sgr#pure>sealed
+alphabet#house of>daughter-alphabet-house
+alphabet#house>daughter-alphabet-house
+alphabethouse>daugher-alphabet-house
+servitude>work>ebd
+.shoco>shut-down-shoco
+.adoraim>sea-strength-adoraim
+.mahalath>sick-harp-mahalath
+.zaham>crime-zaham
+.sukkiims>pinch-sukkiims>skh pinch
+.jeshanah>sleep-jeshanah
+.zephathah>her-float-zephathah
+.oded>ever-encourage-oded
+.abelmaim>mourning-waters-abel=maim
+.amasiah>load-yeah-amasiah
+.hazazontamar>arrow-palm-hazazon=tamar
+.ziz>peek-ziz
+.jeruel>come-down-unto-jeruel
+.dodavah>love-dodavah
+.jehoshabeath>yeahoh-seven-jehoshabeath
+.elishaphat>unto-my-decide-elishaphat
+.zabaages>intervention-zabaages
+.jecoliah>perfect-yeah-jecoliah
+.jabneh>understand-building-jabneh
+.meshillemoth>complete-meshillemoth
+.jehizkiah>strong-yeah-jehizkiah
+.hadlai>loiter-hinder-hadlai
+.shocho>defense-shocho
+.cononiah>honest-yeah-cononiah>ken yes, honest
+.ismachiah>trust-yeahoh-ismachiah
+.tikvath>bag-tikvath>bag tiq
+.hasrah>missing-hasrah
+.charchemish>lamb-withdraw-charchemish
+.necho>lame-beaten-necho
+
+
+
+
+
+
+# coming up
+.jerusalem>project-complete-jerusalem>or jerusalem-throw-complete, or jerusalem-throw-full
+.deborah>bee-deborah
+.david>dude-david>or dude
+.baal >goods-baal>or possessor-husband#-baal>or baal-owner
+.elia >my-theory-elia
+.elias >my-unto-elias>lgaa
+.elisha >theory-saves-elisha
+.eliseus>unto-secure-elisha>lgaa
+.jonah>dove-jonah
+.jonas>dove-jonah
+
+# end
+shall>will>or nothing?
+shalt>will>or nothing?
+#man >man-burning>burner # dont do because of adam, also man
+#woman>woman-burning>burness
+wives>women>nashim
+wife>woman>isha
+husband>man>ish
+the child>child
+
+
+# redo
+#theory>ontop
+#theory>to>or towards
+medium>between
+media>betweeness
+
+# einpflegen
+observe>observe-guard>shamar
+useful>useful-handsome
+justice>being right
+
+
+
+
+# back 
+-to->-unto->or -towards-
+to->unto->or towards-
+-to >-unto>or -towards
+
+soninlaw>son in law
+fatherinlaw>father in law
+motherinlaw>mother in law
+
+-until>-ever
+
+-save>-secure
+-save->-secure-
+save->secure-
+
+!theory>unto>or towards
+
+
+#immersed-in-unto-allah>immersed-in-theory-allah
+immersed-in-unto-allah>immersed-in-theory
+immersed-in-towards\/\/allah>immerse\/\/theory\/\/allah
+\/\/>#
+
+!elohim>unto=these=theory
