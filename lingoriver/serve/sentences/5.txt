@@ -1,0 +1,27 @@
+ja	NETFLIX オリジナル映画 | 
+ja	立派なお屋敷だな | 
+el	ΜΙΑ ΠΡΩΤΟΤΥΠΗ ΤΑΙΝΙΑ ΤΟΥ NETFLIX 
+pl	NETFLIX — FILM ORYGINALNY 
+sv	EN ORIGINALFILM FRÅN NETFLIX 
+nl	EEN NETFLIX ORIGINAL-FILM 
+ru	ОРИГИНАЛЬНЫЙ ФИЛЬМ NETFLIX 
+ar	&rlm;‏"فيلم أصلي من NETFLIX"‏ | 
+he	&rlm;‏- סרט מקורי של NETFLIX -‏ | 
+it	UN FILM ORIGINALE NETFLIX 
+ko	“NETFLIX 오리지널 영화” | 
+no	EN ORIGINALFILM FRA NETFLIX 
+pr-br	UM FILME ORIGINAL NETFLIX 
+pr	UM FILME ORIGINAL NETFLIX 
+ro	UN FILM ORIGINAL NETFLIX 
+sp-eu	UNA PELÍCULA ORIGINAL DE NETFLIX 
+tr	NETFLIX ORİJİNAL FİLMİ 
+vi	PHIM BẢN GỐC NETFLIX | 
+zh-long	NETFLIX 原創電影 
+zh-short	NETFLIX 原创电影 
+th	(ผลงานภาพยนตร์ของ NETFLIX) | 
+sp	UNA PELÍCULA ORIGINAL DE NETFLIX 
+fi	NETFLIX-ALKUPERÄISELOKUVA 
+fr	UN FILM ORIGINAL NETFLIX 
+id	FILM ASLI NETFLIX 
+ja	NETFLIX オリジナル映画 | 
+

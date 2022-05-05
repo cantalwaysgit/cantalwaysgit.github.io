@@ -1,0 +1,27 @@
+id	- Bicara kepadamu atau lensa itu? - Terserah. 
+ar	&rlm;‏‏- أتحدث إليك أم إلى الكاميرا؟ | &rlm;‏- لا بأس بكليهما.‏ | 
+el	-Να μιλήσω σ' εσένα ή στο φακό; -Το ίδιο είναι. 
+en	-Talk to you, or talk to the lens? | -[man] Either way. | 
+fi	-Puhunko sinulle vai kameralle? -Ihan miten vain. 
+fr	- Je regarde la caméra ou vers toi ? - Peu importe. 
+he	&rlm;‏‏לדבר אליך, או לדבר למצלמה? | &rlm;‏-לא משנה.‏ | 
+it	- Parlo a te o alla videocamera? - È lo stesso. 
+nl	Praat ik tegen jou of tegen de camera? -Mag allebei. 
+pl	- Do ciebie czy do kamery? - Bez różnicy. 
+pr-br	-Olho para você ou para a câmera? -Tanto faz. 
+pr	- Falo para ti ou para a câmara? - Tanto faz. 
+ro	- Vorbesc cu tine sau spre cameră? - E bine oricum. 
+sp-eu	- ¿Te hablo a ti o a la cámara? - Lo que prefieras. 
+sp	- ¿Te hablo a ti o a la cámara? - Como quieras. 
+th	- ให้ผมพูดกับคุณหรือกับกล้อง | - ยังไงก็ได้ | 
+tr	-Size mi objektife mi konuşayım? -İkisi de olur. 
+vi	- Nhìn anh, hay ống kính? | - Thế nào cũng được. | 
+zh-long	-對著你還是對著鏡頭講？ -都可以 
+zh-short	-对你说还是对着镜头说？ -都行 
+ru	-Смотреть на вас или в камеру? -Как хотите. 
+sv	-Prata med dig eller kameran? -Båda funkar. 
+da	-Taler jeg til dig eller til linsen? -Det er ligegyldigt. 
+no	-Snakke til deg eller kamera? -Det er det samme. 
+ko	- 어딜 보고 말하면 되죠? | - 상관없습니다 | 
+ja	カメラ目線で？ | 
+

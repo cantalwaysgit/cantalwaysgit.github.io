@@ -1,0 +1,48 @@
+id	Kalau pernah bekerja di Los Angeles pada sekitar tahun '90-an, 
+ru	Если вы работали в Лос-Анджелесе в девяностых, 
+ar	&rlm;‏‏إن كنت تعمل في "لوس أنجلوس" | &rlm;‏في أي وقت في التسعينيات،‏ | 
+el	Αν εργαζόσουν στο Λος Άντζελες κατά τη δεκαετία του '90, 
+en	If you were working in Los Angeles | in the '90s, any time in there, | 
+fi	Kaikki Los Angelesissa 90-luvulla työskennelleet - 
+fr	Si tu bossais à Los Angeles dans les années 90, 
+he	&rlm;‏אם עבדת בלוס אנג'לס בכל זמן בשנות ה-90,‏ | 
+it	Chiunque lavorasse a Los Angeles negli anni '90 
+ko	1990년대에 | LA에서 일했다면 | 
+pl	Gdybyś w latach 90. pracował w Los Angeles, 
+pr-br	Se você trabalhasse em Los Angeles nos anos 90, 
+pr	Se trabalhassem em Los Angeles em qualquer altura dos anos 90, 
+ro	Dacă lucrai în Los Angeles, oricând în anii '90, 
+sp-eu	Si trabajaste en Los Ángeles durante los años 90, 
+sp	Si trabajabas en Los Ángeles en los años noventa, 
+th	หากคุณทำงานในลอสแอนเจลิสในยุค 1990 | 
+tr	1990'larda Los Angeles'ta çalıştıysanız 
+vi	Nếu anh làm việc ở Los Angeles | vào thập kỷ 90, | 
+zh-long	如果1990年代你在洛杉磯工作 
+zh-short	要是你九十年代在洛杉矶工作 
+da	Arbejdede man i Los Angeles i 90'erne, så stødte man på ham. 
+nl	Als je in de jaren 90 in LA werkte, kwam je hem zeker tegen. 
+no	Hvis du jobbet i Los Angeles på 90-tallet, var det uunngåelig å møte ham. 
+sv	Om man jobbade i Los Angeles på 90-talet, så sprang man på Sandy Wexler. 
+ja	90年代にロスで働いてたら | 絶対 彼に遭遇してる | 
+id	pasti pernah bertemu Sandy Wexler. 
+ru	вы точно с ним встречались. 
+ar	&rlm;‏فستلتقيه مصادفة.‏ | 
+el	σίγουρα θα τον συναντούσες. 
+en	you'd run into Sandy Wexler at some point. | 
+fi	ovat törmänneet häneen. 
+fr	obligé, tu le croisais. 
+he	&rlm;‏נתקלת בו.‏ | 
+it	prima o poi si imbatteva in lui. 
+ko	분명히 마주쳤을 거예요 | 
+pl	tobyś go spotkał. 
+pr-br	cruzaria com ele. 
+pr	davam de caras com ele. 
+ro	te ciocneai de el. 
+sp-eu	te cruzaste con él en algún momento. 
+sp	lo conocías. 
+th	คุณจะต้องเจอเขา | 
+tr	ona rastlamışsınızdır. 
+vi	anh sẽ gặp anh ta. | 
+zh-long	一定會碰到他 
+zh-short	你会碰到他 
+

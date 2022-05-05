@@ -1,0 +1,30 @@
+ja	NETFLIX オリジナル映画 | 
+ja	所有者のグロスター公に | にらまれたよ | 
+en	So I realize that was the guy who kept | angrily staring at me the whole time. | 
+ar	&rlm;‏كان هو الرجل الذي استمر بالتحديق بي بغضب.‏ | 
+da	Det var ham, der stirrede vredt på mig. 
+he	&rlm;‏הבנתי שזה הבחור שבהה בי בכעס כל הזמן.‏ | 
+it	Era il tizio che mi fissava con rabbia. 
+nl	Dat was de man die zo boos naar me keek. 
+no	Det var fyren som glodde sint på meg. 
+pl	To on się ciągle na mnie gapił. 
+pr-br	Foi esse cara que ficou me olhando bravo. 
+pr	Era o tipo a olhar para mim com um ar furioso. 
+ro	Era tipul care se holba furios la mine. 
+sp-eu	Era el que me miraba con cara de cabreo. 
+sv	Det var han som hade stirrat argt på mig. 
+tr	Öfkeyle beni süzüp duran adamdı bu. 
+vi	Đó chính là gã đã hằm hè nhìn tôi. | 
+zh-long	原來一直惡狠狠瞪著我的就是他 
+zh-short	他就是那个一直愤怒地盯着我的人 
+ko	화난 표정으로 날 노려보던 | 바로 그 사람이었어요 | 
+th	เขาคือคนที่คอยมองผมตาเขียวปั๊ด | 
+id	Aku sadar dia orang 
+ru	...И я понял, что это он на меня все время пялился. 
+ja	所有者のグロスター公に | にらまれたよ | 
+sp	Y me di cuenta de que era el tipo que me miraba enojado. 
+fi	Miehen, joka tuijotti minua vihaisesti. 
+fr	Précisément le type qui me fusillait du regard. 
+el	Ήταν ο τύπος που με κοιτούσε με θυμό. 
+id	yang terus menatap marah kepadaku. 
+

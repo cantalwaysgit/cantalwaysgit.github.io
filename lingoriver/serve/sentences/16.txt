@@ -1,0 +1,29 @@
+id	Sandy adalah salah satu manajer Hollywood Perancis 
+ru	Он был одним из голливудских менеджеров, что вечно крутились поблизости. 
+en	Sandy was one of those | fringe Hollywood managers | 
+ar	&rlm;‏‏كان أحد مدراء "هوليوود" | &rlm;‏الذين تراهم متواجدين دوماً.‏ | 
+da	Han var en af de Hollywood-agenter, man så alle vegne. 
+el	Ήταν ένας από τους μάνατζερ του Χόλιγουντ που έβλεπες παντού. 
+fi	Hän oli niitä Hollywoodin managereja, joita näki joka paikassa. 
+fr	C'était un de ces imprésarios d'Hollywood qu'on croisait tout le temps. 
+he	&rlm;‏‏הוא היה אחד המנהלים האלה של הוליווד | &rlm;‏שראית תמיד.‏ | 
+it	Era uno di quei manager minori di Hollywood che incontravi ovunque. 
+ko	주변에서 흔히 보던 | 할리우드 매니저였어요 | 
+nl	Hij was zo'n Hollywood-manager die je overal zag. 
+no	Han var en av de Hollywood-managerne som alltid var til stede. 
+pl	Sandy był typem menedżera, którego widuje się bardzo często. 
+pr-br	Ele era um daqueles empresários de Hollywood que você via por aí. 
+pr	Era um daqueles empresários de Hollywood que víamos constantemente. 
+ro	Era unul dintre impresarii de la Hollywood prezenți peste tot. 
+sp	Era uno de esos agentes que siempre veías. 
+sp-eu	Era uno de esos mánagers marginales de Hollywood que siempre andaban por ahí. 
+sv	Han var en Hollywoodmanager som man alltid såg ute. 
+th	เขาเป็นผู้จัดการฮอลลีวูด | ชนิดที่เราเห็นอยู่บ่อยๆ | 
+tr	Hep ortalıkta gördüğünüz Hollywood menajerlerinden biriydi. 
+vi	Anh ta là một trong số nhà quản lý | ở Hollywood mà bạn dễ gặp ở đâu đó. | 
+zh-long	山迪是那種你常常會看到 非主流的好萊塢經紀人 
+zh-short	他是那种好莱坞常见的经纪人 
+ja	ハリウッドでは | パッとしないマネジャー | 
+en	that you always sort of saw around. | 
+id	yang selalu kita lihat. 
+

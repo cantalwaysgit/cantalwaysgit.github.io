@@ -1,0 +1,20 @@
+ar	&rlm;‏هذه قلعة دوق "غلوستر".‏ | 
+he	&rlm;‏זו הטירה של הדוכס של גלוסטר.‏ | 
+it	Il castello del duca di Gloucester. 
+ko	여긴 글로스터 공작의 | 성입니다 | 
+no	Hertugen av Gloucesters borg. 
+pr-br	É o castelo do Duque de Gloucester. 
+pr	O castelo é do Duque de Gloucester. 
+ro	Ăsta e castelul ducelui de Gloucester. 
+sp-eu	Era del duque de Gloucester. 
+th	นี่ปราสาทดยุคแห่งกลอสเตอร์ | 
+tr	Burası Gloucester Dükü'nün şatosu. 
+vi	Nó của Công tước Gloucester. | 
+zh-long	這是格洛斯特公爵城堡 
+zh-short	是格洛斯特公爵的城堡 
+en	[Kevin Nealon] This castle belongs | to the Duke of Gloucester. | 
+nl	De hertog van Gloucester. 
+fr	On est chez le duc de Gloucester. 
+da	EN ORIGINAL FILM FRA NETFLIX 
+ja	立派なお屋敷だな | 
+

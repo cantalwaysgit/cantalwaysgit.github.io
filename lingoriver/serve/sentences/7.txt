@@ -1,0 +1,29 @@
+en	-[laughs] | -[man] Hey, Kevin. Hey, Lorne. | 
+id	- Hei, Kevin, Laurent, kalian siap? - Ya, ada apa? 
+ru	-Кевин, Лорн, вы готовы? -К чему? 
+ar	&rlm;‏‏- هل أنتما مستعدان لهذا؟ | &rlm;‏- لماذا؟‏ | 
+da	-Er I klar? -Hvad? 
+el	-Είστε έτοιμοι; -Για ποιο πράγμα; 
+fi	-Oletteko valmiita? -Mitä? 
+fr	- Prêts, les gars ? - Pardon ? 
+he	&rlm;‏‏היי, הגיע הזמן, חבר'ה. | &rlm;‏-מה זה?‏ | 
+it	- Siete pronti? - Cosa c'è? 
+nl	Ben je er klaar voor? -Wat? 
+no	-Er dere klare? -Hva er det? 
+pl	- Gotowi? - Słucham? 
+pr-br	-Ei, Kevin, Lorne. Prontos? -O que é isso? 
+pr	- Estão preparados? - O quê? 
+ro	- Sunteți gata? - Poftim? 
+sp	- ¿Están listos? - ¿Qué es eso? 
+sp-eu	- ¿Estáis listos? - ¿Qué? 
+sv	-Hörni, är ni redo? -Vadå? 
+th	- นี่ คุณพร้อมไหม | - นั่นอะไร | 
+tr	-Kevin? Lorne? Hazır mısınız? -Efendim? 
+vi	- Các anh sẵn sàng chưa? | - Gì thế? | 
+zh-long	-兩位準備好了嗎？ -幹嘛？ 
+zh-short	-嘿 你可以开始了吗？ -怎么了？ 
+ko	- 준비됐어요? | - 뭐라고요? | 
+ja	ケヴィン　ローン | 
+de	&lrm;如果他出現，請告訴我們 | 
+en	-You ready for this? | -Yeah, what's that? | 
+

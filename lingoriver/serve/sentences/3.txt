@@ -1,0 +1,77 @@
+id	Dia akan keluar dalam dua pekan 
+th	ว่ากันว่าสองอาทิตย์เขาก็ออก | 
+en	[man 1] They said he was | out the door in two weeks. | 
+fi	Hän lähti kahden viikon päästä. Sopimusta jatkettiinkin viidellä vuodella. 
+ru	Он смылся. А договор-то на пять лет. 
+ar	&rlm;‏قالوا إنه غادر بعد أسبوعين.‏ | 
+da	Han var ude på to uger. 
+el	Είπαν ότι εξαφανίστηκε. 
+fr	Il devait se faire virer. 
+it	Doveva sparire in due settimane. 
+nl	Nog geen twee weken. 
+pr	Disseram que se ia embora ao fim de duas semanas. 
+ro	A apărut la ușă în două săptămâni. 
+sp-eu	Le iban a echar a las dos semanas, 
+tr	İki haftada kapı dışarı etmişler. 
+vi	Họ bảo chỉ hai tuần là đuổi. | 
+zh-long	他們說他兩週後就出來 
+zh-short	他们说他两星期后出来 
+ja	５年間の再契約だってさ | 
+no	Han var ute etter to uker. Så hører jeg at han vervet seg igjen. 
+ko	2주면 나온댔어요 | 5년 재계약했고요 | 
+he	&rlm;‏אמרו שיעוף תוך שבועיים.‏ | &rlm;‏אח"כ שמעתי שהוא חתם לחמש שנים.‏ | 
+pl	Mieli go wywalić, a podpisał kontrakt na pięć lat. 
+pr-br	Ele estaria fora em duas semanas, mas renovou por mais cinco anos. 
+sp	Lo echaron a las dos semanas. Luego lo recontrataron por cinco años. 
+sv	Han drog efter två veckor, men skrev på igen för fem år. 
+th	แล้วก็กลับมาอยู่ใหม่ห้าปี | 
+ar	&rlm;‏ثم سمعت إنه وافق على البقاء لمدة 5 سنوات.‏ | 
+el	Μετά, ανανέωσε για πέντε ακόμη χρόνια. 
+en	Then I hear the guy's re-upped | for five years. | 
+fr	En fait, il est renouvelé pour 5 ans. 
+it	Poi l'ha rinnovato per cinque anni. 
+pr	Depois ouço dizer que ia ficar mais cinco anos. 
+ro	Apoi tipul s-a reinventat cinci ani. 
+sp-eu	pero le renovaron por cinco años. 
+tr	Sonra sözleşmeyi beş yıllığına uzatmış. 
+vi	Rồi nghe nói hợp đồng gia hạn năm năm. | 
+zh-long	然後我聽說 那傢伙在裡面待了五年 
+zh-short	接着我听说他第二次服役要五年时间 
+id	dan aku harus mengontrak dia lima tahun. 
+da	-Så arbejdede han for dem i fem år. -Pladeselskabet var sure. 
+nl	En hij had vijf jaar bijgetekend. -Het label vond het niks. 
+ja	５年間の再契約だってさ | 
+ja	NETFLIX プレゼンツ | 
+ko	"NETFLIX 제공" | 
+ru	NETFLIX ПРЕДСТАВЛЯЕТ 
+th	(NETFLIX ขอเสนอ) | 
+fi	NETFLIX ESITTÄÄ 
+de	&lrm;（改編自哈蘭科本原著小說） | 
+ar	&rlm;‏كرهته شركة التسجيلات.‏ | 
+en	[man 2] The label hated it. | 
+fr	Le label a tiqué. 
+he	&rlm;‏חברת התקליטים שנאה את זה.‏ | 
+it	L'etichetta era contraria. 
+ko	음반사는 싫어했죠 | 
+no	Plateselskapet hatet det. 
+pr	A editora detestou. 
+pr-br	A gravadora odiou. 
+ro	N-a avut succes. 
+sp-eu	La discográfica lo odió. 
+tr	Plak şirketi nefret etti. 
+vi	Hãng thu âm rất ghét. | 
+zh-long	那家唱片公司不喜歡 
+zh-short	唱片公司不喜欢 
+el	Η εταιρεία το μισούσε. 
+pl	Wytwórni się nie podobało. 
+sp	- Al sello no le gustó. - El castillo de Gloucester. 
+ru	-Студия взбесилась. -Это замок Глостера... 
+ja	NETFLIX プレゼンツ | 
+th	บริษัทไม่ชอบเลย | 
+ja	NETFLIX プレゼンツ | 
+ja	意外だ | 
+id	-  Label membencinya. -  Ini kastel Adipati Gloucester. 
+fi	-Levy-yhtiö ei tykännyt. -Gloucesterin herttuan linna. 
+sv	Bolaget hatade det. 
+ja	意外だ | 
+
