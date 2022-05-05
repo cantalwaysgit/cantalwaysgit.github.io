@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>lingoriver</title>
+  </head>
+  <body>
+    <style>
+      body {
+	  font-family: arial;
+	  font-size: 20pt;
+	  padding: 34pt;
+      }
+      select {
+	  font-size: 20pt;
+	  border: none;
+	  color: gray;
+	  background: white;
+      }
+      button {
+	  font-size: 20pt;
+	  border: none;
+	  background: none;
+      }
+      
+      input {
+	  font-size: 20pt;
+      }
+
+      input:focus { outline: none } 
+
+      .inputcontainer {
+	  position: relative;
+	  left: -2px;
+      }
+      
+      .language-input {
+	  border: none;
+	  position: relative;
+	  top: -1px;
+      }
+
+      .flex-wrap {
+	  display:flex;
+      }
+
+      #tt-input-done {
+	  vertical-align: top;
+	  display:inline-block;
+	  white-space:pre;
+      }
+      
+    </style>
+        <!--    <div style="position: fixed; bottom: 0px">-->
+      <div style="color:gray">
+      your language
+      <select id="langB">
+      </select>
+      learn language
+      <select id="langA">
+	<option value="any">any</option>
+      </select>
+<!--      <button id="go-button">go</button>-->
+      </div>
+      <br/>
+
+      <div id="container" style="position:relative">
+
+	<!--  <div class="a88hkc" style="float:right; margin-top: 20pt" id="tt-help">help</div>-->
+	<div id="texttrain">
+	  <!-- <div style="font-size:8pt; color:gray; position relative; top:-60px" id="tt-help">help</div>-->
+	  <div id="tt-lang-b">
+	  </div>
+	  
+	  <div id="tt-lang-a">
+	  </div>
+
+	  <div class="flex-wrap"> <!-- flex wrap -->
+	    <span id="tt-input-done">
+	    </span>
+	    <div class="tt-move-with-input" style="display:inline-block; flex-grow:1"> 
+	      <div class="inputcontainer">
+		<input id="tt-input2" type="text" value="" class="language-input"/>
+	      </div>
+	      <!--<input id="tt-input" oninput="this.style.width=this.value.length+'ch'" style="border: 1px solid red; font-size:14pt" autofocus> -->
+	      <div id="tt-suggestions" style="margin-left:1px; display:inline-block">
+	      </div>
+	    </div> <!-- move-with-input -->
+	  </div> <!-- flex wrap --> 
+	</div>
+      </div>
+
+      <script src="tlit/kanjidict.js"></script>
+      <script src="tlit/unicode-tlit-array.js"></script>
+      <script src="tlit/translit.js"></script>
+      <script src="dict-03-04.js"></script>
+      <script src="text-train.js"></script>
+      <script src="main.js"></script>
+
+  </body>
+</html>

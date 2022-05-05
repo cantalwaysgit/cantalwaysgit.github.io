@@ -1,0 +1,112 @@
+function WordPair(langA, langB) {
+    this.langA = langA
+    this.langB = langB
+}
+
+var langB = document.getElementById("langB").value // the language the user knows
+var langA = document.getElementById("langA").value // tne new language
+
+var goButton = document.getElementById("go-button")
+
+// sentence ids in each language
+var langAIds = new Set
+var langBIds = new Set
+
+    var langAFetchDone = false
+    var langBFetchDone = false
+
+goButton.addEventListener("click", function() {
+
+    fetch('https://phrase-to-phrase.github.io/lingoriver/serve/in-language/' + langA + ".txt")
+	.then(response => response.text())
+	.then(text => {
+	    var a = text.split("\n")
+	    for (var l of a) {
+		if (l.match(/[0-9]+/)) {
+		    langAIds.add(l)
+		}
+	    }
+	    langAFetchDone = true
+	    ifLangFetchesDoneContinue()
+	})
+    fetch('https://phrase-to-phrase.github.io/lingoriver/serve/in-language/' + langB + ".txt")
+	.then(response => response.text())
+	.then(text => {
+	    var a = text.split("\n")
+	    for (var l of a) {
+
+		
+		if (l.match(/[0-9]+/)) {
+		    langBIds.add(l)
+		}
+	    }
+	    langBFetchDone = true
+	    ifLangFetchesDoneContinue()
+	})
+})
+
+// ifLangFetchesDoneContinue is executed after langa and langb fetched
+function ifLangFetchesDoneContinue() {
+    // if not both fetches done exit
+    if (!(langAFetchDone && langBFetchDone )) {
+	return
+    }
+    
+    // sentences both in lang a and lang b
+    var intersectionIds = []
+    for (var e of langAIds) {
+	if (langBIds.has(e)) {
+	    console.log("in intersection: " + e)
+	    intersectionIds.push(e)
+	}
+    }
+
+    // fetch x random sentences of intersection
+    //    var fetch = []
+    var textTrain = null
+    for (var i = 0; i < 2; i++) {
+	var r = Math.floor(Math.random() * intersectionIds.length)
+	var id = intersectionIds[r]
+	console.log("id: " + id)
+	fetch('https://phrase-to-phrase.github.io/lingoriver/serve/sentences/' + id + ".txt")
+	    .then(response => response.text())
+	    .then(text => {
+		// get sentences
+		var a = text.split("\n")
+		var langASentence, langBSentence
+		
+		for (var l of a) {
+		    // skip empty line
+		    if (l.match(/^\s*$/)) { continue; }
+		    console.log("line: " + l)
+		    var b = l.split("\t")
+		    if (b[0] == langA) langASentence = b[1]
+		    if (b[0] == langB) langBSentence = b[1]
+		}
+		
+		var wp = []
+		//  /([^\p{L}\p{M}]* +[^\p{L}\p{M}]*)/gu
+		var words = langASentence.split(/[^\p{L}\p{M}]* +[^\p{L}\p{M}]*/u)
+		console.log("words: " + words)
+		for (var s of words) {
+		    var lb = ""
+		    if (jsonDict.dict[s]) {
+			lb = jsonDict.dict[s][langA]
+		    }
+		    wp.push(new WordPair(s, (lb ? lb : "")))
+		}
+		var sentence = {
+		    langA: langASentence,
+		    langB: langBSentence,
+		    wordPairs: wp
+		}
+		if (textTrain == null) {
+		    textTrain = new TextTrain([sentence])
+		} else {
+		    textTrain.pushSentence(sentence)
+		}
+	    })		 
+    }
+}
+
+

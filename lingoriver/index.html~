@@ -1,0 +1,93 @@
+<html>
+  <head>
+    <title>lingoriver</title>
+    <script src="tlit/kanjidict.js" defer></script>
+    <script src="tlit/unicode-tlit-array.js" defer></script>
+    <script src="tlit/translit.js" defer></script>
+    <script src="dict-03-04.js" defer></script>
+    <script src="text-train.js" defer></script>
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <div>
+      your language
+      <select id="langB">
+	<option value="de">de</option>
+	<option value="en">en</option>
+	<option value="he">he</option> 
+      </select>
+      learn language
+      <select id="langA">
+	<option value="de">de</option>
+	<option value="en">en</option>
+	<option value="he" selected>he</option> 
+      </select>
+      <button id="go-button">go</button>
+    </div>
+    <div id="container">
+      <style> input:focus { outline: none } 
+ body {
+     font-family: arial
+ }
+ .inputcontainer {
+     display: block;
+     position: relative;
+     width:100%;
+     height: 36px;
+     left: -1px;
+     background-color: white;
+ }
+ #persistent-placeholder {
+     width:100%;
+     color: grey;
+     z-index: 0;
+     top: 0px; bottom: 0;
+     left: 0; right: 0;
+     background-color: transparent;
+     border: none;
+     font-size: 14pt;
+     line-height: 34px; /* whyever two px less than free-typing */ 
+ }
+ .free-typing {
+     z-index: 1;
+     width: 100%;
+     background-color: transparent;
+     position: absolute;
+     top: 0px;  bottom: 0;
+     left: 0;  right: 0;
+     border: none;
+     font-size: 14pt;
+     line-height: 36px; 
+ }
+      </style>
+      <div class="a88hkc" style="float:right; margin-top: 18pt" id="tt-help">help</div>
+      <br/>
+      <div id="texttrain" style="float:left; display: inline; width: 80%; margin-top: 24px; margin-left: 24pt; padding: 24pt; background: white;">
+	<!-- <div style="font-size:8pt; color:gray; position relative; top:-60px" id="tt-help">help</div>-->
+	<!-- <span id="tt-close" style="margin-left:auto; margin-right:0" class="material-icons-outlined" >close</span> --> 
+	<div id="tt-lang-b">
+	</div>
+	<div id="tt-lang-a">
+	</div>
+
+	<div style="display:flex"> <!-- flex wrap -->
+	  <span id="tt-input-done" style="vertical-align: top; line-height: 36px; display:inline-block; white-space:pre">
+	  </span>
+	  <div class="tt-move-with-input" style="display:inline-block; flex-grow:1"> 
+	    <div class="inputcontainer">
+	      <input id="tt-input2" type="text" value="" class="free-typing"></input>
+	      <input autocomplete="off" value="" id="persistent-placeholder"/>
+	    </div> <!-- inputcontainer -->
+	    <!--<input id="tt-input" oninput="this.style.width=this.value.length+'ch'" style="border: 1px solid red; font-size:14pt" autofocus> -->
+</input>
+<div id="tt-suggestions" style="margin-left:1px; display:inline-block">
+</div>
+	  </div> <!-- move-with-input -->
+	</div> <!-- flex wrap --> 
+      </div>
+    </div>
+    
+    
+</div>
+</body>
+</html>
