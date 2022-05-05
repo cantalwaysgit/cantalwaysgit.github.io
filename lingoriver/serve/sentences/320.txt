@@ -1,0 +1,26 @@
+en	Um, yes, I did come up here | to talk to you about that. | 
+ja	その件でお話があって | 来ました | 
+id	Ya, aku memang kemari untuk membicarakannya. 
+el	Γι' αυτό ήρθα μέχρι εδώ, για να σας μιλήσω γι' αυτό. 
+ro	Da. Am venit să vorbim despre asta. 
+ru	Да. Я приехал, чтобы обсудить это с вами. 
+ar	&rlm;‏أجل. أتيت إلى هنا لأتحدث إليك عن الأمر.‏ | 
+da	Ja, det kom jeg for at tale med Dem om. 
+fi	Niin. Tulin puhumaan siitä. 
+fr	Oui, je suis venu vous parler de ça. 
+he	&rlm;‏כן. באתי לכאן לדבר איתך על זה.‏ | 
+it	Sì, sono venuto qui per parlarle di questo. 
+nl	Ja. Ik kwam hierheen om dat met je te bespreken. 
+pl	Właśnie dlatego tu przyjechałem. 
+pr-br	Sim. Eu vim até aqui para falar disso. 
+pr	Sim. Eu vim cá falar consigo sobre isso. 
+sp-eu	Sí. He venido aquí para hablarle de eso. 
+sp	Sí. Vine hasta aquí para hablarle de eso. 
+sv	Ja, jag ville prata med dig om det. 
+th	ครับ ที่ผมมานี่ก็จะมาคุยเรื่องนั้น | 
+tr	Evet. Sizinle bu konuda konuşmaya geldim. 
+vi	Vâng. Tôi đến đây | để nói chuyện với ông về việc đó. | 
+zh-long	是的，我來就是想跟你談這件事 
+zh-short	是的 我的确是来跟你商量这件事的 
+ko	네, 사실 그 일로 | 함께 온 거예요 | 
+

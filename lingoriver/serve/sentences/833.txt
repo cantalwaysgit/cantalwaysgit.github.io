@@ -1,0 +1,28 @@
+en	Maybe tomorrow. Maybe tomorrow, okay? | 
+ar	&rlm;‏ربما غداً، مفهوم؟ قد أرتديك غداً.‏ | 
+da	Måske i morgen, ikke? Måske tager jeg dig på i morgen. 
+el	Ίσως αύριο, εντάξει; Ίσως σας φορέσω αύριο. 
+fi	Ehkä huomenna. Pukeudun sinuun huomenna. 
+fr	Demain, peut-être. Je te mettrai demain. 
+he	&rlm;‏אולי מחר, בסדר? אולי אלבש אותך מחר.‏ | 
+it	Magari domani, ok? Forse domani vi indosserò. 
+ko	내일 보자 | 내일 입어주든가 할게 | 
+nl	Misschien morgen, oké? Misschien draag ik je morgen. 
+pl	Może jutro. Może jutro cię założę. 
+pr-br	Talvez eu use você amanhã, está bem? 
+pr	Talvez amanhã, está bem? Talvez te use amanhã. 
+ro	Poate mâine, da? Cred că te voi purta mâine. 
+sp-eu	A lo mejor mañana, ¿vale? A lo mejor te pongo mañana. 
+sp	Quizá mañana. Quizá te use mañana. 
+sv	Kanske imorgon, okej. Jag kanske bär dig imorgon. 
+th	บางทีพรุ่งนี้ โอเคไหม | บางทีพรุ่งนี้จะใส่ | 
+tr	Belki yarın, tamam mı? Sizi yarın giyerim belki. 
+vi	Có lẽ là ngày mai, được chứ? | Để ngày mai tao mặc. | 
+zh-long	明天吧，好嗎？我明天穿你 
+zh-short	也许明天 行吗？ 也许我明天会穿你 
+ja	明日 着てあげられるかも | 
+no	Kanskje i morgen, ok? Kanskje jeg bruker deg i morgen. 
+id	Mungkin besok, paham? Mungkin aku akan mengenakanmu besok. 
+ru	Завтра, ладно? Может, я надену тебя завтра. 
+en	Maybe I'll wear you tomorrow. | 
+

@@ -1,0 +1,27 @@
+id	Ini dia. 
+ja	はい どうぞ | 
+ru	Держи. 
+th	นี่เลย | 
+ar	&rlm;‏تفضلي.‏ | 
+da	Værsgo. 
+el	Ορίστε. 
+en	Here you go. | 
+fi	Tässä. 
+fr	Tiens. 
+he	&rlm;‏הנה.‏ | 
+it	Ecco qua. 
+ko	여기 있어 | 
+nl	Alsjeblieft. 
+no	Her. 
+pl	Proszę. 
+pr	Aí tens. 
+pr-br	Prontinho. 
+ro	Poftim! 
+sp-eu	Aquí tienes. 
+sp	Toma. 
+sv	Varsågod. 
+tr	Al bakalım. 
+vi	Đây. | 
+zh-long	拿去 
+zh-short	给 
+

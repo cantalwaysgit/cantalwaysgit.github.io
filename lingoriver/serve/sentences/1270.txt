@@ -1,0 +1,51 @@
+id	Tidak semua orang punya tangisan bagus, 
+ar	&rlm;‏لا أحد يبكي بشكل جيد،‏ | 
+el	Κανείς δεν κλαίει ωραία, 
+en	I mean, not that anybody has a good cry, | 
+fi	Kenenkään itkuääni ei ole kaunis, 
+fr	Pleurer, c'est jamais sexy, 
+he	&rlm;‏לא שלמישהו יש בכי טוב,‏ | 
+it	Il suono del pianto non è mai piacevole, 
+ko	울음소리는 원래 | 듣기 좋진 않지만 | 
+nl	Je mag best eens goed huilen. 
+pl	Ludzie różnie płaczą, 
+pr-br	Não que o choro das pessoas seja bonito, 
+pr	Não é que alguém chore bem, 
+ro	Nu că n-am plânge serios cu toții, 
+sp-eu	Todo el mundo llora a veces. 
+sp	Nadie llora bien, 
+th	ไม่มีใครร้องไห้น่าฟังหรอก | 
+tr	Kimse hoş bir şekilde ağlamaz 
+vi	Không phải ai cũng giỏi khóc, | 
+zh-long	其實沒什麼人哭聲會好聽 
+zh-short	不是要说哭得好不好听 
+ru	Нет, все иногда плачут, но его плач... 
+da	Ikke fordi nogen græder godt, men hans gråd lød lidt som en ensom elg. 
+no	Ingen høres bra ut når de gråter, men han hørtes ut som en ensom elg. 
+sv	Inte för att nån gråter bra, men det här lät som en ensam älg. 
+ja	サンディの泣き声は | ひどいもんだった | 
+id	tapi tangisannya terdengar seperti rusa yang kesepian. 
+en	but his cry sounded | like some kind of, like, | 
+ar	&rlm;‏لكن كان صوت بكائه أشبه بموظ وحيد.‏ | 
+el	αλλά το κλάμα του έμοιαζε με μοναχική άλκη. 
+fi	mutta hänen itkunsa kuulosti yksinäiseltä hirveltä. 
+fr	mais lui, on aurait dit la plainte d'un élan solitaire. 
+he	&rlm;‏אבל הבכי שלו נשמע כמו מוס בודד.‏ | 
+it	ma il suo ricordava il verso di un alce solitario. 
+nl	Maar dat van hem klonk als een eenzame eland. 
+pl	ale on brzmiał jak samotny łoś. 
+pr-br	mas o choro dele parecia um alce solitário. 
+pr	mas o choro dele parecia o de um alce abandonado. 
+ro	dar plânsul lui se auzea ca și cum ar fi urlat un elan singuratic. 
+sp-eu	Pero este llanto era... Como una especie de alce solitario. 
+sp	pero su llanto sonaba como un alce solitario. 
+th	แต่เสียงร้องของเขา | มันเหมือนกวางที่หงอยเหงา | 
+tr	ama o ağlarken yalnız bir geyik gibi sesler çıkarıyormuş. 
+vi	nhưng tiếng khóc của anh ấy, | nghe như con nai sừng tấm cô đơn. | 
+zh-long	但他的哭聲聽起來… 像隻寂寞的麋鹿 
+zh-short	可他哭得就像是只孤独的驼鹿 
+ko	샌디 울음소리는 마치 | 외로운 무스 같았어요 | 
+ru	Он ревел как одинокий лось. 
+en	lonesome moose. | [imitates moose calling] | 
+ja	まるでヘラジカだ | 
+

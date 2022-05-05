@@ -1,0 +1,57 @@
+id	Buddy Hackett seorang pencuci piring di Catskills sampai usia 60 tahun. 
+ru	Бадди Хэкетт до 60 лет мыл посуду в Аппалачах. 
+ja	Ｂ･ハケットは | 60歳まで皿洗いをしてた | 
+ar	&rlm;‏‏كان "بادي هاكيت" منظف صحون | &rlm;‏في نادي "كاتسكيلز" حتى بلغ الـ60 عاماً.‏ | 
+da	Buddy Hackett var opvasker i Catskills, til han var 60. 
+el	Ο Μπάντι Χάκετ έπλενε πιάτα στο Κάτσκιλς μέχρι τα 60 του. 
+en	Buddy Hackett was a dishwasher | in the Catskills till he was 60. | 
+fi	Buddy Hackett oli tiskaajana Catskillsissä 60-vuotiaaksi asti. 
+fr	Buddy Hackett a fait la plonge dans les Catskills jusqu'à 60 piges. 
+he	&rlm;‏‏באדי האקט היה רוחץ כלים בהרי הקטסקיל | &rlm;‏עד גיל 60.‏ | 
+it	Buddy Hackett ha fatto il lavapiatti sui monti Catskill fino a 60 anni. 
+ko	버디 해킷은 60살 때까지 | 캐츠킬에서 설거지를 했어요 | 
+nl	Buddy Hackett was tot zijn 60e afwasser in de Catskills. 
+no	Buddy Hackett var oppvasker i Catskills til han var 60. 
+pl	Buddy Hackett do 60. roku życia był pomywaczem w Catskills. 
+pr-br	Buddy Hackett era um lava-pratos em Catskills até os 60 anos. 
+pr	O Buddy Hackett lavou pratos nas Catskills até aos 60 anos. 
+ro	Buddy Hackett a spălat vase în Catskills până la 60 de ani. 
+sp	Buddy Hackett lavó platos en el Catskills hasta los 60 años. 
+sp-eu	Buddy Hackett fue lavaplatos en las Catskills hasta los 60. 
+sv	Buddy Hackett var diskare på Catskills tills han fyllde 60. 
+th	บัดดี้ แฮคเกตต์เป็นคนล้างจาน | ที่แคตสกิลส์จนอายุ 60 | 
+tr	Buddy Hackett 60 yaşına kadar Catskills'te bulaşıkçıydı. 
+vi	Buddy Hackett từng đi rửa bát | ở Catskills đến tận năm 60 tuổi. | 
+zh-long	巴迪哈克特六十歲成名前 在卡茲奇山當洗碗工 
+zh-short	巴迪哈克特60岁前 一直在卡茨基尔餐厅洗盘子 
+
+cs	Ta ženská si snad fotila každou vteřinu svýho života. 
+da	Det ser ud til, | hun dokumenterede hele sit liv. | 
+el	Φαίνεται ότι κατέγραφε κάθε δευτερόλεπτο της ζωής της. 
+en	It seems the woman liked to document every second of her life. 
+es-eu	Esa mujer documentaba cada segundo de su vida. 
+es	Parece que esta mujer documentaba cada segundo de su vida. 
+fi	Tämä nainen ikuisti | elämänsä jokaisen hetken. | 
+fr	Cette femme documentait chaque seconde de sa vie. 
+he	‫נראה שהאישה הזו תיעדה כל שנייה בחיים שלה.‬ | 
+hr	Čini se da je ona dokumentirala svaki trenutak svog života. 
+hu	Úgy tűnik, a nő az életének minden másodpercét dokumentálta. 
+id	Tampaknya wanita itu mendokumentasikan setiap detik hidupnya. 
+it	Sembra che la donna fotografasse ogni secondo della sua vita. 
+ja	&lrm;彼女は生活の一部始終を | &lrm;記録してました | 
+ko	&lrm;여자는 매 순간을 사진에 담았어요 | 
+ms	Nampaknya wanita itu mendokumenkan setiap detik hidupnya. 
+nl	Die vrouw documenteerde elke seconde van haar leven. 
+no	Det virker som om kvinnen dokumenterte hvert sekund i livet. 
+pt-br	Parece que ela estava documentando cada segundo da vida dela. 
+pt	Parece que a mulher tirava fotos da vida toda. 
+ro	Se pare că femeia documenta fiecare secundă din viața ei. 
+ru	Похоже, она фотографировала каждую секунду своей жизни. 
+sv	Det verkar som att hon dokumenterade precis allt i sitt liv. 
+th	&lrm;ดูเหมือนผู้หญิงคนนั้น | &lrm;บันทึกทุกวินาทีในชีวิตเธอไว้ | 
+tr	Kadın hayatının her anının fotoğrafını çekiyormuş. 
+uk	Жінка фотографувала чи не кожну секунду свого життя. 
+vi	&lrm;Có vẻ như người phụ nữ đó ghi lại | &lrm;từng giây trong cuộc sống của  mình. | 
+zh-long	那位女士似乎把每一秒都記錄了下來 
+zh-short	这个女人在用照片 记录她生活的每个时刻 
+

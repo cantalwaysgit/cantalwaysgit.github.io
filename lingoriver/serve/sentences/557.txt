@@ -1,0 +1,27 @@
+id	- Ya. - Kau yakin? Karena akan kutelepon. 
+ja	分かった　かけるよ | 
+pl	Jesteś pewny? Naprawdę zadzwonię. 
+ar	&rlm;‏أعني، هل أنت متأكد؟ لأنني سأتصل.‏ | 
+da	Er du sikker? For jeg ringer altså. 
+el	Είσαι σίγουρος; Γιατί θα τηλεφωνήσω. 
+en	I mean, you sure? 'Cause I will call. | 
+fi	Sopiiko se? Soitan varmasti. 
+fr	T'es sûr de toi ? Je vais t'appeler. 
+he	&rlm;‏כלומר, אתה בטוח? כי אני אתקשר.‏ | 
+it	Sei sicuro? Guarda che ti chiamo. 
+ko	정말 괜찮겠어? | 진짜 전화할 거야 | 
+nl	Zeker weten? Want ik bel echt. 
+pr-br	Tem certeza? Porque eu vou ligar. 
+pr	Tens a certeza? Porque eu ligo mesmo. 
+ro	Ești sigur? Chiar te voi suna. 
+sp-eu	¿Estás seguro? Porque te voy a llamar. 
+sp	¿Seguro? Porque llamaré. 
+sv	Är du säker? Så klart jag ringer. 
+th	แน่ใจหรือเปล่า เพราะผมจะโทรไปหา | 
+tr	Emin misin? Ararım yani. 
+vi	Cậu chắc chứ? Tôi sẽ gọi. | 
+zh-long	你確定嗎？我真的會打喔 
+zh-short	你肯定吗？因为我可是会真打的 
+no	-Er du sikker? For jeg kommer til å ringe. -Jeg vet det. 
+ru	Серьезно? Я правда позвоню. 
+

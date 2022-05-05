@@ -1,0 +1,27 @@
+ja	こんなのがお望みか？ | 勘弁してくれ | 
+pl	Coś takiego? Chyba sobie jaja robicie. 
+ru	Нет, ты серьезно? Да брось ты. 
+en	Oh, jeez, you're going for this? | Give me a break here. | 
+id	Astaga, kau menginginkan ini? Yang benar saja. 
+ar	&rlm;‏يا إلهي، هل تقومين بهذا؟ امنحيني فرصة.‏ | 
+da	Jøsses, satser du på det? Gider du lige? 
+el	Καλά, δέχτηκες αυτό το πράγμα; Έλεος. 
+fi	Tällaistako? Ei voi olla totta. 
+fr	T'es sérieuse ? C'est n'importe quoi. 
+he	&rlm;‏אלוהים, את באמת הולכת עם זה? תעשי לי טובה.‏ | 
+it	Adesso anche questo? Ma fammi il favore. 
+nl	Ga je hiervoor? Doe me een lol. 
+no	Skal du virkelig gjøre det? Gi deg. 
+pr-br	Nossa, vai mesmo fazer isso? Qual é? 
+pr	Caraças, vais fazer isto? Poupa-me. 
+ro	Doamne! Chiar o crezi? Mai scutește-mă! 
+sp	¡Dios! Vas a hacer esto. Pero por favor. 
+sp-eu	¿En serio te crees eso? No me fastidies. 
+sv	Ska det låta så här? Låt mig slippa. 
+th	ให้ตาย เลือกแบบนี้ได้ไง | เชื่อเลยเนี่ย | 
+tr	Vay canına, bunu da mı yapacaksın? Rahat bıraksana beni. 
+vi	Trời, em sẽ làm thế này? Làm ơn thôi đi. | 
+zh-long	天啊，還來？饒了我吧 
+zh-short	天啊 要这样吗？饶了我吧 
+ko	정말 그렇게 할 거야? 나 참 | 
+

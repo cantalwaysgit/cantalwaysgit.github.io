@@ -1,0 +1,25 @@
+ja	“ヘラジカバーガー　無料” | 
+ko	“무료 무스 버거” | 
+ar	&rlm;‏"شطائر لحم الموظ مجانية"‏ | 
+da	GRATIS ELGBURGERE 
+el	ΔΩΡΕΑΝ ΧΑΜΠΟΥΡΓΚΕΡ ΜΕ ΑΛΚΗ 
+fi	ILMAISIA HIRVIPURILAISIA 
+fr	BURGERS D'ÉLAN GRATUITS 
+he	&rlm;‏- המבורגר מוס חינם -‏ | 
+it	HAMBURGER DI ALCE GRATIS 
+nl	GRATIS ELANDBURGERS 
+pl	DARMOWE BURGERY Z ŁOSIA 
+pr-br	HAMBÚRGUERES DE ALCE GRÁTIS 
+pr	HAMBÚRGUERES DE ALCE GRÁTIS 
+ro	HAMBURGERI DE ELAN GRATIS 
+sp-eu	HAMBURGUESAS DE ALCE GRATIS 
+sp	HAMBURGUESAS DE ALCE GRATIS 
+sv	GRATIS ÄLGHAMBURGARE 
+th	(เบอร์เกอร์กวางฟรี) | 
+tr	BEDAVA GEYİK ETLİ HAMBURGERLER 
+vi	BÁNH BURGER NAI SỪNG TẤM MIỄN PHÍ | 
+zh-long	（免費麋鹿肉漢堡） 
+zh-short	（免费驼鹿肉汉堡） 
+id	HAMBURGER RUSA GRATIS 
+ru	БЕСПЛАТНЫЕ БУРГЕРЫ ИЗ ЛОСЯ 
+

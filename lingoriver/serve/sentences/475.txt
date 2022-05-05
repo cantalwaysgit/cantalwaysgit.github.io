@@ -1,0 +1,72 @@
+ja	いいや | 
+ar	&rlm;‏لا أظن ذلك.‏ | 
+da	Det tror jeg ikke. 
+el	Δε νομίζω. 
+en	I don't think so. | 
+fr	Je crois pas. 
+he	&rlm;‏אני לא חושב.‏ | 
+id	Kurasa tidak. 
+it	Non credo. 
+ko	아닐걸 | 
+nl	Ik geloof het niet. 
+pl	Chyba nie. 
+pr	Acho que não. 
+pr-br	Acho que não. 
+ro	Nu cred. 
+sp-eu	Creo que no. 
+sp	No creo. 
+sv	Det tror jag inte. 
+th	คิดว่าไม่นะ | 
+tr	Sanmıyorum. 
+vi	Tôi không nghĩ vậy. | 
+zh-long	沒有吧 
+zh-short	没有 
+no	-Tror ikke det. -Kanskje det er hjernesvulst. 
+ar	&rlm;‏ربما لديك ورم بالدماغ.‏ | 
+da	Måske er det en hjernesvulst. 
+el	Ίσως έχεις όγκο στον εγκέφαλο. 
+en	Maybe it's a brain tumor. | 
+fr	Peut-être une tumeur au cerveau. 
+he	&rlm;‏אולי זה גידול במוח.‏ | 
+it	Forse hai un tumore al cervello. 
+ko	뇌종양인가 봐요 | 
+pl	Może masz raka mózgu. 
+pr-br	Talvez seja um tumor cerebral. 
+pr	Talvez seja um tumor cerebral. 
+ro	Poate ai o tumoră pe creier. 
+sp-eu	A lo mejor es un tumor cerebral. 
+sp	Quizá sea un tumor cerebral. 
+sv	Det kanske är en hjärntumör. 
+vi	Có lẽ là do u não. | 
+zh-long	會不會是得了腦癌？ 
+zh-short	也许是脑瘤 
+id	- Mungkin tumor otak. - Mungkin. 
+fi	-Ehkä sinulla on aivokasvain. -Ehkäpä. 
+nl	Misschien is het een hersentumor. -Misschien. 
+ja	脳腫瘍(しゅよう)とか？ | 
+tr	Belki beyin tümörüdür. 
+th	อาจเป็นเนื้องอกในสมอง | 
+ru	-Может, опухоль мозга? -Может быть. 
+ar	&rlm;‏قد يكون ذلك.‏ | 
+da	Måske. 
+el	Ίσως. 
+en	Maybe it is. | 
+fr	Qui sait ? 
+he	&rlm;‏אולי.‏ | 
+it	Può darsi. 
+ko	그런지도 몰라 | 
+no	Kanskje det er det. 
+pl	Może. 
+pr-br	Talvez seja. 
+pr	Talvez seja. 
+ro	Poate că da. 
+sp-eu	A lo mejor. 
+sp	Puede ser. 
+sv	Kanske det. 
+th	อาจจะใช่ | 
+tr	Belki de. 
+vi	Có lẽ vậy. | 
+zh-long	說不定喔 
+zh-short	也许吧 
+ja	かもね | 
+

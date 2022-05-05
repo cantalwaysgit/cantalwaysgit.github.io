@@ -1,0 +1,49 @@
+ar	&rlm;‏التعريف البديهي هو‏ | 
+el	Ο ορισμός ενός δεδομένου είναι 
+en	The definition of, like, a given | 
+fi	On aivan selviö, 
+fr	La redondance, c'est quoi ? 
+he	&rlm;‏ההגדרה של, כאילו, עובדה היא‏ | 
+it	La definizione di un dato di fatto sono i ragazzini 
+nl	De definitie van een gegeven is... 
+pl	W dzisiejszych czasach 
+pr-br	Por definição, a questão é 
+pr	Um dado adquirido 
+ro	Iată un fapt de necontestat, 
+sp-eu	La definición de algo cantado 
+sp	La definición de "dar algo por hecho" 
+th	คำนิยามของเรื่องที่เป็นของตายอย่าง | 
+tr	Malumun ilamı şudur, 
+vi	Định nghĩa về một thứ tự nhiên có là | 
+zh-long	意思是這樣 
+zh-short	一个给定的定义是 比方说 
+id	Definisi yang diberikan 
+ko	기정사실이란 말의 뜻은 | 
+ru	Просто по определению 
+da	Definitionen på en forudsætning er, når børn vågner og tænker: "Mig så liderlig". 
+sv	Definitionen på nåt som är givet är att ungarna vaknar och tänker: "Jag så kåt." 
+ja	ガキが起きてまず思うのは | “ヤりてえな”ってことだ | 
+no	Det er jo selvsagt at ungdommer våkner og tenker: "Jeg er så kåt." 
+ar	&rlm;‏‏أن الأولاد يستيقظون ويفكرون، | &rlm;‏"أنا شبق جداً."‏ | 
+en	is that kids wake up | and they think, "Me so horny." | 
+fi	että nuoriso herää ja toteaa: "Meitsiä panettaa." 
+he	&rlm;‏שילדים מתעוררים וחושבים, "אני כל כך חרמן".‏ | 
+it	che si svegliano e pensano: "Come sono arrapato". 
+nl	...dat jongens wakker worden en denken: ik ben geil. 
+pl	dzieciaki budzą się z ochotą na seks. 
+pr-br	que os jovens acordam e pensam: "Estou com tesão." 
+pr	é quando os miúdos acordam e pensam: "Estou cheio de tusa." 
+ro	copiii se trezesc și se gândesc: "Ce excitat sunt!" 
+sp	es cuando los chicos despiertan calientes. 
+sp-eu	son los críos que se despiertan pensando: "Estoy salido". 
+th	เด็กตื่นขึ้นมาแล้วคิดว่า | "เงี่ยนจังวุ้ย" | 
+vi	trẻ con thức dậy và nghĩ, | "Mình thật có hứng." | 
+zh-long	小孩早上醒來覺得“我好色” 
+zh-short	孩子们起床时会说 “我好饥渴” 
+tr	gençler "çok azgınım" diye uyanırlar. 
+el	ότι τα παιδιά ξυπνούν και σκέφτονται ότι είναι ερεθισμένα. 
+fr	C'est un ado qui se réveille en écoutant "I want your sex". 
+id	adalah anak-anak bangun dan berpikir, "Aku bergairah," kemudian... 
+ko	애들이 아침에 일어나서 | ‘나 흥분했어’를 떠올리는데 | 
+ru	парень просыпается и думает: «Хочу!». 
+

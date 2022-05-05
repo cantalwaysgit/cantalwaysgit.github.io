@@ -1,0 +1,27 @@
+id	dan sang juara Martin Lawrence empat bintang! 
+ru	а Мартину Лоренсу - четыре звезды! 
+ja	チャンピオンの | マーティンは星４つ！ | 
+en	and the champion, | Martin Lawrence, four stars! | 
+no	og Martin Lawrence fire stjerner! 
+th	และมาร์ติน ลอว์เรนซ์สี่ดาว | 
+ro	iar lui Martin Lawrence patru stele! 
+sv	och Martin Lawrence får fyra stjärnor! 
+ar	&rlm;‏و"مارتن لورنس" 4 نجوم!‏ | 
+da	og Martin Lawrence fire stjerner! 
+el	και τέσσερα αστέρια στον Μάρτιν Λόρενς! 
+fi	ja Martin Lawrencelle neljä tähteä! 
+fr	et Martin Lawrence, quatre ! 
+he	&rlm;‏ולמרטין לורנס ארבעה כוכבים!‏ | 
+it	E Martin Lawrence quattro stelle! 
+nl	...en Martin Lawrence vier sterren. 
+pl	a Martin Lawrence po cztery! 
+pr-br	e quatro estrelas para Martin Lawrence! 
+pr	e ao Martin Lawrence, quatro estrelas! 
+sp-eu	¡y cuatro a Martin Lawrence! 
+sp	y a Martin Lawrence, ¡cuatro estrellas! 
+tr	Martin Lawrence'a ise dört yıldız! 
+vi	và Martin Lawrence bốn ngôi sao! | 
+zh-long	給了馬汀勞倫斯四顆星！ 
+zh-short	马丁劳伦斯四星！ 
+ko	마틴 로런스에게는 | 별 4점을 줬군요! | 
+

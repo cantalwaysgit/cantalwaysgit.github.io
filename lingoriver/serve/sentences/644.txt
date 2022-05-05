@@ -1,0 +1,27 @@
+id	Aku mungkin lupa menekan tombol rekam. 
+ar	&rlm;‏‏هناك احتمال أنني نسيت الضغط | &rlm;‏على زر التسجيل.‏ | 
+da	Jeg glemte muligvis at trykke på optag. 
+el	Υπάρχει πιθανότητα να ξέχασα να πατήσω "εγγραφή". 
+en	There's a chance I forgot to hit record. | 
+fi	Saatoin unohtaa painaa äänitysnappia. 
+fr	Il se peut que j'aie oublié de lancer l'enregistrement. 
+he	&rlm;‏יש סיכוי ששכחתי ללחוץ על כפתור ההקלטה.‏ | 
+it	Forse mi sono scordato di registrare. 
+ko	깜빡하고 녹음 버튼을 | 안 눌렀을 수도 있어요 | 
+nl	Misschien vergat ik op de recordknop te drukken. 
+no	Jeg kan ha glemt å trykke på record. 
+pl	Możliwe, że zapomniałem włączyć nagrywanie. 
+pr-br	Posso ter esquecido de apertar o botão para gravar. 
+pr	É possível que me tenha esquecido de pôr a gravar. 
+ro	Probabil am uitat să apăs pe butonul de înregistrare. 
+ru	Я мог забыть включить запись. 
+sp-eu	Es posible que no haya dado a grabar. 
+sp	Quizá haya olvidado presionar el botón para grabar. 
+sv	Det finns en risk att jag glömde trycka på "spela in". 
+th	มีโอกาสที่ผมลืมกดปุ่มบันทึกเสียง | 
+tr	Kayda basmayı unutmuş olma ihtimalim var. 
+vi	Có thể tôi quên ấn nút thu âm. | 
+zh-long	我可能忘了按下錄音鍵 
+zh-short	我可能忘了按录音键了 
+ja	録(と)り忘れたかもしれない | 
+

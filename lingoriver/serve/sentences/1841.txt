@@ -1,0 +1,27 @@
+ar	&rlm;‏أظنها بداية منطقية يا "ساندي".‏ | 
+da	Jeg synes, det er et rimeligt sted at starte. 
+el	Νομίζω ότι είναι μια λογική εναρκτήρια αμοιβή. 
+en	I think it's a reasonable | starting place, Sandy. | 
+fi	Minusta tarjous on kohtuullinen. 
+fr	C'est une offre honnête pour commencer. 
+he	&rlm;‏אני חושב שזו התחלה סבירה.‏ | 
+id	Kurasa itu awal mula yang layak, Sandy. 
+it	È un punto di partenza ragionevole. 
+ko	처음 치고 그 정도면 괜찮잖아 | 
+nl	Ik vind het een redelijk begin. 
+pl	To rozsądna suma na początek. 
+pr	Acho que é um valor inicial razoável. 
+pr-br	Acho que é razoável para iniciar. 
+ro	Mie mi se pare că e un punct rezonabil de plecare. 
+ru	Думаю, для начала это неплохие деньги. 
+sp	Creo que es razonable para comenzar. 
+sp-eu	Me parece un punto de partida razonable. 
+sv	Det är en rimlig början. 
+th	ผมว่าเป็นการเริ่มต้นที่สมน้ำสมเนื้อ | 
+tr	Bence makul bir başlangıç noktası bu. 
+vi	Tôi nghĩ mức giá khởi điểm đó là hợp lý. | 
+zh-long	我覺得這個起價滿合理的 
+zh-short	我觉得这个起点很公平 
+ja	妥当な条件だと思うが | 
+no	Jeg synes det er et rimelig utgangspunkt. 
+

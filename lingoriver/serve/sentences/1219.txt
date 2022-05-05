@@ -1,0 +1,29 @@
+id	Sandy, dia bisa punya manajer yang dia mau. 
+en	Sandy, she could have | any manager she wants. | 
+ar	&rlm;‏‏- يمكنها نيل أي مدير أعمال تريده. | &rlm;‏- لكنها تريدني!‏ | 
+da	-Hun kan få hvilken som helst manager. -Hun vil have mig! 
+el	-Μπορεί να έχει όποιον μάνατζερ θέλει. -Θέλει εμένα! 
+fi	-Hän saisi kenet tahansa managerin. -Hän tahtoo minut. 
+fr	- Tous les imprésarios la veulent. - C'est moi qu'elle veut ! 
+he	&rlm;‏‏היא יכולה להשיג כל מנהל שהיא רוצה. | &rlm;‏-היא רוצה אותי!‏ | 
+it	- Potrebbe avere qualsiasi manager. - Lei vuole me! 
+ko	- 매니저를 고를 수도 있어요 | - 날 원한대! | 
+nl	Ze kan elke manager krijgen die ze wil. -Ze wil mij. 
+no	-Hun kan velge og vrake managere. -Hun vil ha meg! 
+pl	- Może mieć każdego menedżera. - Ale chce mnie! 
+pr-br	-Ela pode ter o empresário que quiser. -Ela me quer! 
+pr	- Ela pode ter o empresário que quiser. - Ela quer-me a mim! 
+ro	- Poate avea orice impresar voia. - Mă vrea pe mine! 
+ru	-Она может иметь любого менеджера. -Она хочет меня! 
+sp-eu	- Podría tener cualquier mánager. - ¡Me quiere a mí! 
+sp	- Puede tener el representante que quiera. - ¡Me quiere a mí! 
+sv	-Hon kan få vilken manager hon vill. -Hon vill ha mig! 
+th	- เธอจะเลือกผู้จัดการคนไหนก็ได้ | - เธอต้องการผม | 
+tr	-İstediği menajeri tutabilir. -O beni istiyor! 
+vi	- Cô ấy có thể có bất kỳ nhà quản lý nào. | - Cô ấy muốn tôi! | 
+zh-long	-她要什麼經紀人都沒問題 -她要我！ 
+zh-short	-她可以想请谁当经纪人就请谁 -她想请的人是我！ 
+en	She wants me! | 
+ja	僕でいい！ | 
+id	Dia menginginkanku! 
+

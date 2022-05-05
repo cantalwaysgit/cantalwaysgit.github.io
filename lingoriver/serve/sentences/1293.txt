@@ -1,0 +1,26 @@
+ar	&rlm;‏"أعلم أنه القدر‏ | 
+el	Ξέρω ότι είναι το πεπρωμένο μου 
+en	♪ I know it is destiny ♪ | 
+fi	Se kohtaloo on 
+fr	Je sais que c'est le destin 
+he	&rlm;‏אני יודע שזה הגורל‏ | 
+it	So che era destino 
+nl	ik weet dat het voorbestemd is 
+pl	To nasze przeznaczenie 
+pr-br	Sei que é destino 
+pr	Sei que é o destino 
+ro	Știu că e destinul 
+sp-eu	Sé que es el destino 
+sp	Sé que es el destino 
+sv	Jag vet att det är ödet 
+th	ฉันรู้ว่ามันคือพรหมลิขิต | 
+tr	Kader bu, biliyorum 
+vi	Tôi biết đó là định mệnh | 
+zh-long	我知道一切命中註定 
+zh-short	我知道这是命运 
+ko	운명인 거 알아요 | 
+da	Jeg ved, det er skæbnen 
+ru	Я знаю: это судьба 
+ja	これが運命だと分かった | 
+id	Aku tahu ini takdir 
+

@@ -1,0 +1,36 @@
+ko	샌디? | 
+ru	Сэнди! 
+en	-[Amy] Sandy? | -Ahh! | 
+id	Sandy? 
+ja	サンディ | 
+
+hu	- Kártyával fizetett. 150 zlotyt. - Az az akciós ár. 
+ja	&lrm;150ズウォティ払ってる | 
+zh-short	她用信用卡付的款 150块 
+sv	Hon betalade 150 zloty med kort. 
+cs	- Platila kartou. 150 zlotých. - To je cena za komplet. 
+da	-Hun betalte 150 zloty med kort. | -Det er vores tilbud. | 
+el	-Πλήρωσε με κάρτα 150 ζλότι. -Αυτή είναι η προσφορά. 
+en	-She paid with a card. 150 zlotys. -That's our promo. 
+es-eu	- Pagó con tarjeta. 150 eslotis. - Es la oferta. 
+es	- Pagó 150 eslotis con tarjeta. - Es nuestra promoción. 
+fr	- Elle a payé par carte. 150 zlotys. - C'est la promo. 
+he	‫היא שילמה בכרטיס אשראי. 150 זלוטי.‬ | ‫-זה המבצע שלנו.‬ | 
+hr	-Platila je karticom. 150 zlota. -To je naša akcija. 
+id	- Dia gunakan kartu kredit, 150 zloty. - Itu promo kami. 
+it	- Ha pagato con carta. 150 zloty. - La nostra offerta. 
+ko	&lrm;- 카드로 계산했어요, 150즐로티 | &lrm;- 콤보 스페셜이군요 | 
+ms	- Dia bayar guna kad. 150 zloty. - Itu promosi kami. 
+nl	Ze pinde 150 zloty. -Dat is onze aanbieding. 
+no	-Hun betalte med kort. 150 zloty. -Det er vår kampanje. 
+pt-br	- Ela pagou com cartão. 150 zlotys. - É a promoção. 
+pt	- Ela pagou com cartão. 150 zloty. - É a promoção. 
+ro	- A plătit 150 de zloți. - Aia e promoția noastră. 
+ru	- Она расплатилась картой. 150 злотых. - Наше промо. 
+th	&lrm;- เธอใช้บัตรเครดิตจ่าย 150 ซวอตือ | &lrm;- นั่นราคาโปรโมชั่นของเรา | 
+tr	-Kartla 150 zloti ödemiş. -Öyle kampanyamız var. 
+uk	-Вона заплатила карткою 150 злотих. -Це акційний пакет. 
+vi	&lrm;- Cô ấy trả bằng thẻ. 150 zloty. | &lrm;- Đó là giá ưu đãi. | 
+zh-long	-她用信用卡支付150茲羅提 -那是我們的優惠價格 
+fi	Hän maksoi kortilla 150 zlotya. | 
+

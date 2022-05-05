@@ -1,0 +1,27 @@
+ar	&rlm;‏لا أحتاج إلى بعض الوقت.‏ | 
+da	Det behøver jeg ikke. 
+el	Δε χρειάζεται. 
+en	I don't need a minute. | 
+fr	C'est tout réfléchi. 
+it	Non mi serve del tempo. 
+pr-br	Não preciso de tempo. 
+pr	Não preciso de um minuto. 
+ro	N-am nevoie de o clipă. 
+sp-eu	No necesito un momento. 
+sp	No necesito un minuto. 
+sv	Jag behöver inte fundera. 
+vi	Tôi không cần một phút. | 
+zh-long	我不需要緩一緩 
+zh-short	我不用考虑 
+ko	시간은 필요 없어 | 
+nl	Heb ik niet nodig. Ik heb je vader beloofd het beste voor je te doen. 
+ja	お父さんに約束した | 君のことを一番に考えると | 
+he	&rlm;‏אני לא צריך רגע.‏ | 
+no	Det trengs ikke. 
+fi	En tarvitse miettimisaikaa. 
+ru	Мне не нужна минутка. 
+pl	Nie muszę. 
+th	ผมไม่ต้องรอหรอก | 
+id	Aku tak perlu menunggu lagi. 
+tr	Bir dakikaya ihtiyacım yok. 
+

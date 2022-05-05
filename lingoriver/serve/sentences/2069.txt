@@ -1,0 +1,27 @@
+ru	И теперь, 20 лет спустя, они сделали все как положено. 
+ar	&rlm;‏ولهذا بعد 20 سنة، سيجعلانه حقيقياً أخيراً.‏ | 
+da	Derfor gør de det endelig rigtigt  20 år senere. 
+el	Γι' αυτό, είκοσι χρόνια μετά, κάνουν, επιτέλους, και τον πραγματικό. 
+en	Which is why, 20 years later, | they're finally making it real. | 
+fi	Siksi nyt, 20 vuotta myöhemmin, he virallistavat sen. 
+fr	C'est pourquoi, 20 ans plus tard, ils remettent ça pour de vrai. 
+he	&rlm;‏‏לכן, לאחר 20 שנה, | &rlm;‏הם סוף סוף נותנים לזה תוקף חוקי.‏ | 
+it	Per cui, 20 anni più tardi, hanno deciso di regolarizzarlo. 
+ko	그래서 20년이 지나서야 | 법적으로 식을 올리는 거예요 | 
+nl	Daarom maken ze het 20 jaar later eindelijk officieel. 
+no	Så derfor, 20 år senere, skal de endelig gjøre det på ordentlig. 
+pl	Dlatego 20 lat później biorą go jeszcze raz. 
+pr-br	É por isso que, 20 anos depois, eles estão oficializando. 
+pr	E é por isso que, 20 anos depois, vamos finalmente oficializá-lo. 
+ro	De aceea, după 20 de ani, o fac așa cum trebuie. 
+sp-eu	Por eso, 20 años más tarde por fin lo hacen de verdad. 
+sp	Por eso, 20 años después se casan de verdad. 
+sv	Det är därför som de 20 år senare gör det på riktigt. 
+th	นั่นคือเหตุผลที่ 20 ปีให้หลัง | ในที่สุดพวกเขาก็แต่งกันจริงๆ | 
+tr	O yüzden 20 yıl sonra nihayet gerçekten evleniyorlar. 
+vi	Vì vậy, 20 năm sau, | cuối cùng họ đã tổ chức thật. | 
+zh-long	所以呢，二十年後 他們終於真的結婚了 
+zh-short	所以二十年后他们才办了真正的婚礼 
+id	Karena itulah, 20 tahun kemudian, mereka mewujudkannya. 
+ja	それで20年後の今 | 改めて結婚式を | 
+

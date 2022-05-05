@@ -1,0 +1,58 @@
+id	etiket makannya seperti kuda, tapi dia manajer hebat. 
+ja	食事の仕方は汚いが | すばらしいマネジャーだ | 
+ru	он ел как свинья, 
+ar	&rlm;‏‏وكانت تصرفاته على المائدة حيوانية، | &rlm;‏لكنه كان مديراً رائعاً.‏ | 
+da	han spiste som en hest, men han var en god manager. 
+el	και δεν είχε καθόλου τρόπους, αλλά ήταν σπουδαίος μάνατζερ. 
+en	he had the table manners of a horse, | but he was a great manager. | 
+fi	ja hänellä oli hevosen pöytätavat, mutta hän oli loistava manageri. 
+fr	et mangeait comme un cochon, mais c'était un super imprésario. 
+he	&rlm;‏‏היו לו נימוסי שולחן של סוס, | &rlm;‏אבל הוא היה מנהל נהדר.‏ | 
+it	a tavola aveva i modi di un cavallo, ma era un gran manager. 
+ko	식사 예절은 말 같았지만 | 훌륭한 매니저였어요 | 
+nl	...had de tafelmanieren van een paard, maar hij was een geweldige manager. 
+no	hadde bordskikken til en hest, men han var en flott manager. 
+pl	jadł jak świnia, ale był wspaniałym menedżerem. 
+pr	à mesa portava-se como um cavalo, mas era um excelente empresário. 
+pr-br	tinha modos de um cavalo, mas era um grande empresário. 
+ro	la masă avea manierele unui cal, dar era un impresar grozav. 
+sp-eu	tenía modales de caballo, pero era un buen mánager. 
+sp	y tenía los modales de un caballo, pero era un gran representante. 
+sv	hans bordsskick var som en hästs, men han var en bra manager. 
+th	มารยาทบนโต๊ะอาหารแบบม้า | แต่เขาเป็นผู้จัดการที่สุดยอด | 
+tr	onda sofra adabı diye bir şey yoktu, ama harika bir menajerdi. 
+vi	nết ăn uống như một con ngựa, | nhưng lại là một nhà quản lý giỏi. | 
+zh-long	上了餐桌根本是隻馬 但他是個超棒的經紀人 
+zh-short	吃相不文雅 但他是位优秀的经纪人 
+ru	но он был прекрасным менеджером. 
+
+es	Algo que condujo a que Igor 
+id	Sesuatu yang memengaruhi Igor 
+cs	Něco, co mělo vliv na Igora a… 
+da	Noget, som påvirkede Igor og… | 
+el	Κάτι που επηρέασε τον Ίγκορ 
+en	Something that affected Igor and… 
+es-eu	Algo que afectó a Igor… 
+fi	Jotain, mikä vaikutti Igoriin - | 
+fr	Quelque chose qui a affecté Igor et… 
+he	‫משהו שהשפיע על איגור ו…‬ | 
+hr	Nešto što je utjecalo na Igora i… 
+hu	Valami, ami befolyásolta Igort és… 
+it	Qualcosa che ha influenzato Igor e… 
+ja	&lrm;イゴールにショックを与え― | 
+ko	&lrm;그 일이 이고르의 결정에 | 
+ms	Sesuatu yang mempengaruhi Igor dan 
+nl	Iets wat Igor en z'n beslissing… 
+no	Noe som påvirket Igor og… 
+pt	Algo que influenciou o Igor e… 
+pt-br	Algo que abalou Igor e… 
+ro	Ceva ce l-a afectat pe Igor încât a luat… 
+ru	После чего Игорь принял 
+sv	Nåt som påverkade Igor och… 
+th	&lrm;สิ่งที่กระทบจิตใจอิกอร์และ… | 
+tr	Igor'u ve karar verme yetisini etkileyen… 
+uk	Щось таке, що вплинуло на Ігоря і… 
+vi	&lrm;Thứ gì đó tác động đến Igor và… | 
+zh-long	某件事影響了伊格爾… 
+zh-short	这件事影响了伊戈尔和… 
+

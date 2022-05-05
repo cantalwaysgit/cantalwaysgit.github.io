@@ -1,0 +1,27 @@
+id	Karena itulah sulit bagiku untuk mengatakan ini, 
+ja	とても言いにくいんだが… | 
+th	เพราะงั้นมันถึงยากสำหรับผม | ที่จะพูดนี่ | 
+ar	&rlm;‏لهذا يصعب علي أن أخبرك هذا.‏ | 
+da	Derfor er det svært for mig at sige det her. 
+el	Γι' αυτό μου είναι δύσκολο να σου το πω αυτό, 
+en	That's why it's difficult | for me to tell you this. | 
+fi	Siksi minun on vaikea sanoa tätä. 
+fr	Et c'est difficile pour moi de te dire ça, 
+he	&rlm;‏לכן קשה לי לומר את זה.‏ | 
+it	Infatti per me è molto difficile da dire, 
+nl	Daarom is het moeilijk om dit te zeggen. 
+no	Derfor er det vanskelig for meg å si dette, 
+pr-br	É por isso que é difícil dizer isso, 
+pr	É por isso que me custa dizer-te isto. 
+ro	De asta îmi vine greu să-ți zic, 
+sp-eu	Por eso me cuesta tanto decirte esto. 
+sp	Por eso es difícil para mí decirte esto. 
+sv	Därför är det svårt för mig att säga det här, 
+tr	Bu yüzden bunu söylemek benim için çok zor. 
+vi	Vì vậy mà tôi rất khó nói điều này. | 
+zh-long	所以我實在很難啟齒 
+zh-short	所以我才难以启齿 
+ru	Вот почему мне так трудно это сказать, 
+ko	그래서 이런 말을 | 하기가 힘들지만 | 
+pl	Dlatego ciężko mi to powiedzieć. 
+

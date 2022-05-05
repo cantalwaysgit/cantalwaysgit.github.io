@@ -1,0 +1,27 @@
+ar	&rlm;‏يجب أن أذهب إلى "نيويورك" غداً‏ | 
+da	Jeg skal til New York i morgen 
+el	Πρέπει να πάω στη Νέα Υόρκη, 
+en	I'm supposed to go to New York tomorrow | 
+fr	Je dois être à New York demain 
+it	Domani dovrei andare a New York 
+pl	Jutro lecę do Nowego Jorku. 
+pr	Amanhã tenho de ir para Nova Iorque 
+pr-br	Preciso ir para Nova York amanhã 
+sp	Debo ir a Nueva York mañana 
+sp-eu	Tengo que ir a Nueva York mañana 
+vi	Ngày mai tôi phải đi New York | 
+zh-long	我明天得去紐約 
+zh-short	我明天要去纽约 
+ko	내일 뉴욕으로 가서 | 
+fi	Minun pitää lähteä huomenna New Yorkiin VH1:n kuvauksiin Lenny Kravitzin kanssa. 
+nl	Ik moet morgen naar New York om 'n video met Lenny Kravitz op te nemen. 
+sv	Jag måste åka till New York imorgon och spela in med Lenny Kravitz. 
+ja	明日 ニューヨークで | Ｌ･クラヴィッツと収録なの | 
+he	&rlm;‏אני אמורה לנסוע לניו יורק מחר‏ | 
+no	Jeg må til New York i morgen 
+ro	Trebuie să plec la New York mâine, 
+th	พรุ่งนี้ฉันต้องไปนิวยอร์ก | 
+tr	Yarın New York'a gitmeliyim. 
+id	Aku harus pergi ke New York besok 
+ru	Я завтра лечу в Нью-Йорк 
+

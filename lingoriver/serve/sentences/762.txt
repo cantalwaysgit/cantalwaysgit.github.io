@@ -1,0 +1,25 @@
+ar	&rlm;‏عندما كان عمري 17 عاماً‏ | 
+da	Da jeg var sytten 
+el	Όταν ήμουν δεκαεπτά 
+en	♪ When I was 17 ♪ | 
+fi	Oli 17 ikää vain 
+fr	Quand j'avais 17 ans 
+he	&rlm;‏כשהייתי בת 17‏ | 
+id	Saat aku 17 tahun 
+it	Avevo 17 anni 
+ko	내가 17살 때 | 
+nl	ik was 17 
+pl	Miałam 17 lat 
+pr-br	Quando eu tinha 17 anos 
+pr	Quando tinha 17 
+ro	Când aveam 17 ani 
+ru	Мне было 17 
+sp-eu	A los 17 
+sp	Que tenía 17 años 
+sv	När jag var 17 
+th	ตอนฉันอายุ 17 | 
+tr	17 yaşındaydım 
+vi	Khi em 17 tuổi | 
+zh-long	回到那年17歲 
+zh-short	梦到17岁时 
+

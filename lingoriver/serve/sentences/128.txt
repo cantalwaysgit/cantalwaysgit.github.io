@@ -1,0 +1,56 @@
+en	[breathes heavily] Let's go. | 
+id	Ayo. 
+ja	やるぞ | 
+ru	Поехали. 
+th	ลุย | 
+ar	&rlm;‏هيا بنا.‏ | 
+da	Så er det nu. 
+el	Πάμε. 
+fi	Nyt mennään. 
+fr	C'est parti. 
+he	&rlm;‏קדימה.‏ | 
+it	Andiamo. 
+ko	출발하자 | 
+no	Kom igjen. 
+pl	No to ziu. 
+pr-br	Vamos. 
+pr	Vamos lá. 
+ro	Să începem! 
+sp-eu	Vamos. 
+sp	Vamos. 
+sv	Nu kör vi. 
+tr	Hadi bakalım. 
+vi	Bắt đầu nào. | 
+zh-long	來吧 
+zh-short	来吧 
+
+hu	Hé, megőrültél, baszki? 
+cs	Hej, přeskočilo ti? 
+da	Er du åndssvag? | 
+el	Είσαι τρελή; 
+en	Hey, are you fucking crazy? 
+es-eu	Oye, ¿estás loca? 
+es	Oye, ¿estás loca? 
+fi	Oletko hullu? | 
+fr	Vous êtes folle ? 
+he	‫היי, את בסדר בראש?‬ | 
+hr	Jesi ti normalna? 
+id	Hei, apa kau gila? 
+it	Ehi, sei pazza? 
+ja	&lrm;何する気だ | 
+ko	&lrm;미친년이잖아? | 
+ms	Hei, kau dah gila? 
+nl	Ben je gek geworden? 
+no	Er du gal? 
+pt-br	Ei, você pirou, porra? 
+pt	Olhe lá, está maluca? 
+ro	Ești nebună? 
+th	&lrm;เฮ้ย เป็นบ้าหรือไง | 
+tr	Manyak mısın sen be? 
+uk	Гей, ти збожеволіла? 
+vi	&lrm;Này, cô bị điên à? | 
+zh-long	妳瘋了嗎？ 
+zh-short	喂 你他妈的疯了吗？ 
+sv	-Är du sjuk i huvudet, eller? -Lägg av. 
+ru	А ты не охренела? 
+

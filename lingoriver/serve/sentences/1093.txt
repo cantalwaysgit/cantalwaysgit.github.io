@@ -1,0 +1,25 @@
+ar	&rlm;‏أخشى أنه غريب أطوار كان يتصل بي.‏ | 
+da	Jeg er bange for, det er ham tossen, der har ringet. 
+el	Φοβάμαι ότι είναι ο ανώμαλος που μου τηλεφωνεί. 
+en	I'm scared it's one of those freaks | that's been calling me or something. | 
+fr	Peut-être un des cinglés qui m'appellent. 
+it	Credo che sia il maniaco che mi telefona. 
+ko	저한테 전화하던 | 그 변태일까 봐 겁나요 | 
+pr-br	Tenho medo de que seja um louco que anda me ligando. 
+pr	Tenho medo que seja um dos malucos que me têm ligado. 
+sp-eu	Tengo miedo de que sea un loco que me ha estado llamando. 
+sp	Temo que sea el loco que me ha estado llamando. 
+sv	Det kanske är en av galningarna  som ringt. 
+vi	Tôi sợ đó là tên khùng | đã gọi liên tục cho tôi. | 
+zh-long	我怕會不會是那個 一直狂打來的變態 
+zh-short	我怕是一直打电话来的那个变态 
+ja	電話してくる奴かも | 
+he	&rlm;‏אני מפחדת שזה המוזר שהתקשר.‏ | 
+fi	Pelkään, että se on se kaheli, joka on soitellut. 
+ru	Вдруг это тот маньяк, который мне звонит. 
+th	ฉันกลัวว่าจะเป็นไอ้บ้าที่คอยโทรมา | 
+tr	Arayıp duran sapıklardan biri diye korktum. 
+pl	Może to ten świr, który wydzwaniał. 
+id	Aku takut itu orang gila yang menghubungiku. 
+ro	Mi-e teamă să nu fie ciudatul care mă sună. 
+

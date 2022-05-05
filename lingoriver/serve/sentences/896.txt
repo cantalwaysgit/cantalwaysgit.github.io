@@ -1,0 +1,49 @@
+ja	好きなだけ話して | 僕に怒鳴ればいい | 
+ru	Можешь сорваться на мне. 
+ar	&rlm;‏يمكنك أن تدع... نفس عن غضبك علي.‏ | 
+da	Du kan... Bare angrib mig. 
+el	Βγάλε την οργή σου πάνω μου. 
+fi	Pura kiukkusi minuun. 
+fr	Tu peux... Vas-y, lâche-toi. 
+he	&rlm;‏אתה יכול... להתפוצץ עליי.‏ | 
+it	Sfogati pure con me. 
+ko	나한테 다 분출해 | 
+no	Du kan la... Ta det ut på meg. 
+pl	Dobra, wyżyj się. 
+pr-br	Você pode... Pode descontar em mim. 
+pr	Podes... Desabafa comigo. 
+ro	Poți să lași... Descarcă-te pe mine! 
+sp-eu	Puedes... Despotrica conmigo. 
+sp	Mejor... Desquítate conmigo. 
+th	นายจะปลดปล่อย ใส่ฉันได้นะ | 
+tr	Hıncını benden çıkarabilirsin. 
+vi	Anh có thể... Bỏ qua tôi. | 
+zh-long	你可以…別管我 
+zh-short	你可以吼我 
+en	You can let... Blast off on me. Go ahead. | Yell at me as much as you want. | 
+nl	Je mag tegen me tekeer gaan. Schreeuw maar zoveel je wilt. 
+id	Lampiaskan kepadaku. 
+sv	Du kan bombardera mig med allt. Skrik så mycket du vill. 
+id	- Kau tahu... - Ayo. Teriaki diriku sesukamu. 
+ru	Давай. Ори сколько хочешь. 
+ar	&rlm;‏هيا. اصرخ بقدر ما تشاء.‏ | 
+da	Fint. Råb så meget du vil. 
+el	Φώναξέ μου όσο θέλεις. 
+fi	Huuda niin paljon kuin haluat. 
+fr	Crie-moi dessus. 
+he	&rlm;‏קדימה. צעק עליי כמה שאתה רוצה.‏ | 
+it	Dai. Urlami in faccia, se vuoi. 
+ko	원하는 만큼 소리 질러도 돼 | 
+no	Kom igjen. Skrik så mye du vil. 
+pl	Nakrzycz na mnie. 
+pr-br	Pode gritar o quanto quiser. 
+pr	Vamos. Grita quanto quiseres. 
+ro	Hai! Poți să țipi la mine cât vrei. 
+sp-eu	Vamos, grita todo lo que quieras. 
+sp	Vamos. Grita todo lo que quieras. 
+th	เอาเลย ตะโกนได้ตามใจชอบ | 
+tr	Hadi. İstediğin kadar bağır. 
+vi	Cứ làm đi. Cứ quát tháo nếu muốn. | 
+zh-long	來吧，盡情大吼吧 
+zh-short	来吧 想怎么喊就怎么喊 
+

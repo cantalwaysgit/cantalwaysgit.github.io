@@ -1,0 +1,27 @@
+ar	&rlm;‏‏دعني أسألك سؤالاً. | &rlm;‏فكرة من الجنونية كانت تلك؟‏ | 
+da	Lad mig lige spørge. Hvis vanvittige idé var det? 
+el	Να ρωτήσω κάτι; Ποιος είχε αυτή την τρελή ιδέα; 
+en	Let me ask you something, man. | Whose insane idea was that, anyway? | 
+fi	Kenen älytön idea se oikein oli? 
+fr	J'ai une question. Qui a proposé cette idée débile ? 
+he	&rlm;‏‏תרשו לי לשאול אתכם, | &rlm;‏של מי היה הרעיון המטורף הזה?‏ | 
+id	Aku ingin bertanya. Ide gila siapa itu? 
+it	Fatemi capire. Chi ha avuto quell'idea assurda? 
+ko	하나만 여쭤볼게요 | 대체 누가 생각한 거예요? | 
+nl	Van wie was dat krankzinnige idee? 
+pl	Muszę zapytać. Kto wpadł na ten szalony pomysł? 
+pr-br	Vou fazer uma pergunta. De quem foi a ideia maluca? 
+pr	Deixa-me perguntar-te: quem teve essa ideia idiota? 
+ro	Sunt curios. Cine a avut ideea asta tâmpită? 
+ru	Можно спросить? Чья эта дикая идея? 
+sp	Déjame preguntarte algo. ¿Quién tuvo la mala idea? 
+sp-eu	Dime una cosa. ¿A quién se le ocurrió esa locura? 
+sv	Får jag fråga en sak? Vems galna idé var det? 
+th	ขอถามอะไรหน่อย | นั่นเป็นความคิดบ้าของใคร | 
+tr	Bir şey sorayım. Kimin çılgınca fikriydi o? 
+vi	Cho tôi hỏi một câu. | Ý tưởng điên khùng này của ai thế? | 
+zh-long	我問一下 是誰想到這瞎到爆的主意？ 
+zh-short	我问问看那是谁想出来的？ 
+ja	誰のアイデアで入れたんだ？ | 
+no	La meg spørre. Hvem sin gærne idé var det? 
+

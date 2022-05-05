@@ -1,0 +1,27 @@
+ar	&rlm;‏إنه وقت عصيب.‏ | 
+da	Det var en svær tid. 
+el	Ήταν δύσκολη εποχή. 
+en	That was a tough time... | 
+fi	Se oli rankkaa aikaa. 
+fr	Ça a été dur pour lui. 
+he	&rlm;‏זו תקופה קשה.‏ | 
+id	Itu masa-masa sulit. 
+it	Fu un momento difficile. 
+ko	힘든 시기였어요 | 
+nl	Een zware tijd. 
+no	En vanskelig tid. 
+pl	Dramat. 
+pr-br	Foi uma fase difícil. 
+pr	Foi um momento difícil. 
+ro	Vremuri grele! 
+ru	Ему было тяжело. 
+sp-eu	Fue una época dura. 
+sp	Fue un momento difícil. 
+sv	Det var en svår tid. 
+th	เป็นช่วงที่ลำบากมาก | 
+tr	Zor bir dönemdi. 
+vi	Một giai đoạn khó khăn. | 
+zh-long	真的很煎熬 
+zh-short	这很不好受 
+ja	つらいな | 
+

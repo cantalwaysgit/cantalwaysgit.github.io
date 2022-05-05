@@ -1,0 +1,27 @@
+ar	&rlm;‏عظيم. أمور ذكية.‏ | 
+da	Bare flot. Godt gået. 
+el	Υπέροχα. Έξυπνο υλικό. 
+en	Just great. Clever stuff. | 
+fi	Tosi hienoa. Nokkelia juttuja. 
+fr	C'est du tout bon. Bravo. 
+he	&rlm;‏פשוט נהדר. חומר טוב.‏ | 
+it	Fantastico. Roba notevole. 
+nl	Geweldig. Goed materiaal. 
+no	Flott. Fine greier. 
+pl	Super piosenki. 
+pr-br	Incrível. Muito inteligente. 
+pr	Muito bem. Coisas muito inteligentes. 
+ro	Minunat! Chestii deștepte. 
+sp	Es genial. Muy buen material. 
+sp-eu	Es genial. Muy inteligente. 
+sv	Bra. Smarta grejer. 
+th	เยี่ยมมาก หลักแหลม | 
+tr	Harika. Akıllıca şeyler. 
+vi	Tuyệt. Rất thông minh. | 
+zh-long	太棒了，了不起 
+zh-short	非常棒 好歌 
+ru	Отличные песни. Остроумные. 
+ja	すばらしいよ | 
+id	Hebat. Sungguh cerdik. 
+ko	정말 훌륭했어 | 
+

@@ -1,0 +1,27 @@
+id	Dengar, Sandy, kau melakukan tugasmu. 
+ja	君はよくやった | 
+ar	&rlm;‏اسمع يا "ساندي"، قمت بعملك.‏ | 
+el	Κοίτα, Σάντι, έκανες το καθήκον σου. 
+en	Look, Sandy, you did your job. | 
+fi	Olet tehnyt tehtäväsi. 
+fr	Sandy, t'as fait ton boulot. 
+it	Ascolta, Sandy, hai fatto il tuo lavoro. 
+nl	Jij hebt je werk gedaan. 
+no	Du har gjort jobben din. 
+pl	Zrobiłeś już swoje, Sandy. 
+pr-br	Sandy, você fez o seu trabalho. 
+pr	Sandy, fizeste o que te competia. 
+ro	Sandy, ți-ai făcut treaba. 
+sp-eu	Sandy, has hecho tu trabajo. 
+sp	Sandy, hiciste tu trabajo. 
+sv	Du gjorde ditt jobb. 
+tr	Bak Sandy, sen işini yaptın. 
+vi	Sandy, anh đã làm việc của anh. | 
+zh-long	聽著，山迪，你做了你該做的 
+zh-short	听着 桑迪 你该做的都已经做了 
+ko	샌디, 할 일은 하셨어요 | 
+ru	Сэнди, ты свое дело сделал. 
+da	Sandy, du har gjort dit arbejde. 
+he	&rlm;‏תראה, סנדי, עשית את העבודה שלך.‏ | 
+th	ฟังนะ แซนดี้ | คุณได้ทำหน้าที่ของคุณแล้ว | 
+

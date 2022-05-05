@@ -1,0 +1,25 @@
+id	Ini dari orang yang harus kuhubungi. 
+ru	Мне надо перезвонить. 
+ar	&rlm;‏إنه شخص يجب أن أتصل به في الواقع.‏ | 
+da	Det er en, jeg bliver nødt til at ringe til. 
+el	Είναι κάποιος που πρέπει όντως να καλέσω. 
+en	This is someone I actually have to call. | 
+fi	Täytyy käydä soittamassa. 
+fr	C'est quelqu'un d'important. 
+he	&rlm;‏למעשה זה מישהו שאני באמת חייב להתקשר אליו.‏ | 
+it	È una persona che devo chiamare. 
+ko	전화해야 하는 사람이야 | 
+no	Dette er en jeg må ringe. 
+pl	Muszę zadzwonić. 
+pr-br	Preciso fazer uma ligação. 
+pr	É alguém a quem tenho mesmo de ligar. 
+ro	E cineva pe care chiar trebuie să sun. 
+sp	Es alguien a quien debo llamar. 
+sp-eu	A este tengo que llamarlo de verdad. 
+sv	Det här är nån jag måste ringa. 
+th	นี่เป็นคนที่ผมต้องโทรกลับ | 
+tr	Aramam gereken biri bu. 
+vi	Đúng người tôi cần phải gọi. | 
+zh-long	這通電話我得回一下 
+zh-short	我有个电话必须要回 
+

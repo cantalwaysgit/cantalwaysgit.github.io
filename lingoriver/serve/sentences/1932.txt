@@ -1,0 +1,25 @@
+id	Di sini dan dari radio. 
+ar	&rlm;‏من هنا ومن الإذاعة.‏ | 
+da	Her og radioen. 
+el	Κι από το ραδιόφωνο. 
+en	Well, here and the radio. | 
+fi	Täältä ja radiosta. 
+fr	Et à la radio, aussi. 
+he	&rlm;‏כאן וברדיו.‏ | 
+it	Qui e alla radio. 
+ko	여기랑 라디오에서 | 
+no	Her og på radio. 
+pl	Stąd i z radia. 
+pr	Aqui e na rádio. 
+pr-br	Aqui e na rádio. 
+ro	Aici și la radio. 
+sp	Aquí y en la radio. 
+sp-eu	Aquí y en la radio. 
+sv	Här och i radion. 
+th	ที่นี่และวิทยุ | 
+tr	Burada ve radyoda. 
+vi	Ở đây và cái đài. | 
+zh-long	或是聽收音機 
+zh-short	这里和收音机 
+ru	Здесь и на радио. 
+

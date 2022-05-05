@@ -1,0 +1,27 @@
+ar	&rlm;‏بالنسبة إلى ذوقي.‏ | 
+da	Efter min smag. 
+el	Για το γούστο μου. 
+en	For my taste. | 
+fr	Pour mon palais. 
+he	&rlm;‏לטעמי.‏ | 
+it	Per il mio gusto. 
+ko	제 입맛에는요 | 
+nl	Naar mijn smaak. 
+pr-br	Para o meu gosto. 
+pr	Para o meu gosto. 
+sp-eu	Para mi gusto. 
+sp	Para mi gusto. 
+sv	För min smak. 
+vi	Tôi thấy vậy. | 
+zh-long	我覺得啦 
+zh-short	我喝是的 
+id	Bagi lidahku. 
+ja	そう感じる | 
+no	For min smak. 
+fi	Minun makuuni. 
+tr	Benim zevkime göre. 
+pl	Jak dla mnie. 
+ro	Pentru gustul meu. 
+ru	На мой вкус. 
+th	สำหรับปากผม | 
+

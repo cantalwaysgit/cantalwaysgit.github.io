@@ -1,0 +1,27 @@
+id	Orang ini yang mau menjadi manajermu? 
+ru	Он хочет быть твоим менеджером? 
+pl	Ten głąb chce cię reprezentować? 
+no	-Vil denne dusten bli manageren din? -Ja. Jeg kom hit for å snakke om det. 
+ar	&rlm;‏أيريد هذا الغبي أن يغدو مدير أعمالك؟‏ | 
+da	Vil det fjols være din manager? 
+el	Αυτός θέλει να γίνει ο μάνατζέρ σου; 
+en	Is this the fool that want to manage you? | 
+fi	Tämä hölmökö haluaa manageriksesi? 
+fr	Ce mariole veut être ton imprésario ? 
+he	&rlm;‏האידיוט הזה רוצה להיות המנהל שלך?‏ | 
+it	Il matto che vuole farti da manager? 
+ko	이 멍청이가 | 네 매니저 하겠대? | 
+nl	Wil deze idioot je manager zijn? 
+pr-br	Este idiota quer ser seu empresário? 
+pr	É o idiota que quer ser teu empresário? 
+ro	Fraierul ăsta vrea să-ți fie impresar? 
+sp	¿Este tonto quiere representarte? 
+sp-eu	¿Este idiota quiere representarte? 
+sv	Är det dåren som vill företräda dig? 
+th	ไอ้โง่นี่เหรอที่อยากเป็นผู้จัดการลูก | 
+tr	Menajerin olmak isteyen bu salak mı? 
+vi	Gã ngốc này muốn quản lý con? | 
+zh-long	就是這白痴想當妳經紀人？ 
+zh-short	这个蠢蛋想当你的经纪人吗？ 
+ja	例のマネジャーか？ | 
+

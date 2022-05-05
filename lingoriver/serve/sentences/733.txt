@@ -1,0 +1,27 @@
+id	Kuberi tahu saja, studio ini yang terbaik 
+ja	このスタジオから | スターが生まれる | 
+ar	&rlm;‏كان هذا الأستديو كل ذلك،‏ | 
+da	Jeg siger jer, det studie har det hele... 
+el	Σας λέω, το στούντιο αυτό ήταν όλα αυτά 
+en	I'm telling you, | this studio is all that... | 
+fi	Tämä studio oli kuulkaas huippu - 
+fr	Ce studio, c'est de la balle. 
+he	&rlm;‏אני אומר לכם, האולפן הזה הוא כל זה...‏ | 
+it	Vi assicuro, questo studio è tutto ciò 
+no	Dette studioet var alt det... 
+pl	Coś wam powiem, to studio 
+pr-br	Acreditem, este estúdio era além... 
+pr	Digo-vos, este estúdio não é só bom, 
+ro	Sincer, studioul ăsta a însemnat asta 
+sp-eu	En serio, este estudio fue todo eso 
+sp	Les diré algo: este estudio era todo eso... 
+tr	İnanın bana, bu stüdyoda hepsi 
+vi	Nói cho anh biết, phòng thu này... | 
+zh-long	告訴你，這間錄音室得天獨厚… 
+nl	Deze studio was dat allemaal en nog meer. 
+sv	Jag ska säga er, den här studion har allt och mer än det. 
+zh-short	告诉你 这间录音棚 
+th	ขอบอกเลยนะ สตูดิโอนี้ | 
+ru	Я вам скажу, эта студия - это нечто... 
+ko	정말 끝내주는 스튜디오였는데 | 
+

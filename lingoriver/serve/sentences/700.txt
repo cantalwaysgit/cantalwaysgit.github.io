@@ -1,0 +1,11 @@
+ar	&rlm;‏"(كابيتول ريكوردز)"‏ | 
+el	CAPITOL RECORDS 
+he	&rlm;‏- קפיטול רקורדס -‏ | 
+ko	“캐피톨 레코드” | 
+ru	КЭПИТОЛ РЕКОРДС 
+th	(แคปิตอล เรกคอร์ดส์) | 
+vi	HÃNG THU ÂM CAPITOL RECORDS | 
+zh-long	（國會唱片） 
+zh-short	（国会唱片） 
+ja	“キャピトル･レコード” | 
+

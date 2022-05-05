@@ -1,0 +1,26 @@
+ja	オーロラと | 私の新しい友 サンディ | 
+id	Aurora dan teman baruku, Sandy. 
+zh-short	极光还有我的新朋友 桑迪 
+pl	Zorza polarna i mój nowy przyjaciel Sandy. 
+el	Το Βόρειο Σέλας κι ο καινούριος μου φίλος, ο Σάντι. 
+th	แสงเหนือ และเพื่อนใหม่ของฉัน แซนดี้ | 
+ar	&rlm;‏‏الشفق القطبي الشمالي | &rlm;‏وصديقي الجديد "ساندي".‏ | 
+da	Nordlys og min nye ven, Sandy. 
+en	The northern lights | and my new friend Sandy. | 
+fi	Revontulet ja uusi ystäväni Sandy. 
+fr	Une aurore boréale avec mon nouveau pote, Sandy. 
+he	&rlm;‏אורות הצפון והחבר החדש שלי, סנדי.‏ | 
+it	L'aurora boreale e il mio nuovo amico, Sandy. 
+nl	Het noorderlicht en mijn nieuwe vriend, Sandy. 
+pr	A aurora boreal e o meu novo amigo, Sandy. 
+pr-br	A aurora boreal e meu novo amigo Sandy. 
+ro	Aurora boreală și noul meu prieten, Sandy. 
+sp-eu	La aurora boreal y mi nuevo amigo, Sandy. 
+sp	La aurora boreal y mi nuevo amigo, Sandy. 
+sv	Norrsken och min nya vän, Sandy. 
+tr	Kuzey ışıkları ve yeni arkadaşım Sandy. 
+vi	Ánh sáng phương bắc | và người bạn mới, Sandy. | 
+zh-long	北極光和新朋友山迪 
+no	Nordlyset og min nye venn, Sandy. Det blir ikke bedre enn dette. 
+ko	오로라와 새 친구 샌디 | 
+

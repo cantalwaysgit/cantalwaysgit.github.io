@@ -1,0 +1,31 @@
+en	Ah, Sandy likes it. No one knows why. | 
+ja	サンディ好み　 | けど わからない | 
+ar	&rlm;‏‏"ساندي" يحب هذا. ولا أحد يعرف السبب. | &rlm;‏ضعي يدك على ذقنك.‏ | 
+da	Sandy kan lide det. Ingen ved hvorfor. Hånden på hagen. 
+el	Κανείς δεν ξέρει γιατί αρέσει στον Σάντι. Βάλε το χέρι σου στο πιγούνι. 
+fi	Sandy tykkää. En käsitä miksi. Käsi leualle. 
+fr	Ça plaît à Sandy. Pourquoi ? Mystère. Mets ta main sur ton menton. 
+he	&rlm;‏‏סנדי אוהב את זה. אף אחד לא יודע למה. | &rlm;‏שימי את היד על הסנטר.‏ | 
+it	A Sandy piacciono. Nessuno sa il perché. Metti una mano sul mento. 
+nl	Sandy vindt ze lekker. Niemand weet waarom. Hand op je kin. 
+pl	Jakimś cudem Sandy'emu się podoba. Ręka na brodę. 
+pr-br	Sandy gosta. Ninguém sabe por quê. Ponha a mão no queixo. 
+pr	O Sandy gosta. Ninguém sabe porquê. Põe a mão no queixo. 
+ro	Lui Sandy îi place. Nu știe nimeni de ce. Pune-ți mâna pe bărbie. 
+sp	A Sandy le gusta. Nadie sabe por qué. Pon tu mano en el mentón. 
+sp-eu	A Sandy le gusta. Nadie sabe por qué. Pon la mano en la barbilla. 
+sv	Sandy gillar det. Ingen vet varför. Lägg handen på hakan. 
+th	แซนดี้ชอบ ไม่มีใครรู้ว่าทำไม | เอามือจับคาง | 
+tr	Sandy beğeniyor. Kimse sebebini bilmiyor. Elini çenene koy. 
+vi	Sandy thích nó. Không ai biết vì sao. | Đặt tay lên cằm đi. | 
+zh-long	山迪喜歡，天曉得為什麼 手放下巴 
+zh-short	桑迪很喜欢 没人知道为什么 把手放在下巴上 
+id	Sandy menyukainya. Tidak ada yang tahu alasannya. 
+ru	Сэнди нравится, непонятно почему. 
+no	Sandy liker det. Ingen vet hvorfor. Legg hånden på haken. 
+ko	왠지 모르게 샌디가 좋아하네요 | 턱에 손 올려봐요 | 
+id	Letakkan tanganmu di dagu. 
+ru	Руку на подбородок. 
+en	Put your hand on your chin. | 
+ja	手をアゴに | 
+

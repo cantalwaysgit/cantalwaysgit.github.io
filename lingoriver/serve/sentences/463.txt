@@ -1,0 +1,28 @@
+ja	彼って？ | 
+ar	&rlm;‏‏- ماذا قال من؟ | &rlm;‏- الرجل الذي اتصلت به.‏ | 
+da	-Hvad sagde hvem? -Ham du ringede til. 
+el	-Ποιος; -Αυτός που τηλεφώνησες. 
+en	-What'd who say? | -The guy you called. | 
+fi	-Kuka? -Tyyppi, jolle soitit. 
+fr	- Qui donc ? - Le mec que t'as appelé. 
+he	&rlm;‏‏מה מי אמר? | &rlm;‏-הבחור שהתקשרת אליו.‏ | 
+id	- Apa kata siapa? - Orang yang kau telepon. 
+it	- Che ha detto chi? - Quello che hai chiamato. 
+ko	- 누가? | - 네가 전화한 사람 | 
+nl	Wie? -De man die je belde. 
+no	-Hva sa hvem da? -Han du ringte. 
+pl	- Kto? - Ten, do kogo dzwoniłeś. 
+pr-br	-Quem disse o quê? -O cara para quem ligou. 
+pr	- Quem? - O tipo a quem ligaste. 
+ro	- Cine să zică? - Tipul pe care l-ai sunat. 
+sp-eu	- ¿Qué ha dicho quién? - El tío al que has llamado. 
+sp	- ¿Qué dijo quién? - El tipo al que llamaste. 
+sv	-Vad sa vem då? -Snubben du ringde. 
+th	- ใครว่าอะไร | - คนที่โทรไปหาไง | 
+tr	-Kim ne dedi? -Aradığın adam. 
+vi	- Ai bảo gì cơ? | - Gã anh gọi điện ấy. | 
+zh-long	-誰怎麼說？ -你聯絡的那個人？ 
+zh-short	-谁怎么说？ -你给他打电话的那人 
+ru	-Кто «он»? -Тот, кому ты звонил. 
+ja	電話の相手 | 
+

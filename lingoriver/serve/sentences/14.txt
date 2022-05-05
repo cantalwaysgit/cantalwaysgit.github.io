@@ -1,27 +1,57 @@
-id	Mungkin dia orang terunik yang pernah kutemui. 
-ru	Пожалуй, самая незаурядная личность. 
-ar	&rlm;‏قد يكون أكثر شخص أعرفه ندرة.‏ | 
-da	Han er den mest unikke fyr, jeg har mødt. 
-el	Ίσως ο πιο ξεχωριστός τύπος που γνώρισα ποτέ. 
-en	He may be the most unique guy I ever met. | 
-fi	Hän on ehkä omaperäisin tapaamani mies. 
-fr	J'en connais pas deux comme lui. 
-he	&rlm;‏ייתכן שהוא הבחור הכי מיוחד שאני מכיר.‏ | 
-it	Credo sia una persona unica. 
-ko	아마 제가 아는 | 가장 독특한 사람일 거예요 | 
-nl	Hij is misschien de meest unieke man die ik ken. 
-no	Han er kanskje den mest unike mannen jeg kjenner. 
-pl	Nie znam nikogo tak oryginalnego. 
-pr-br	Ele deve ser o cara mais característico que conheço. 
-pr	Deve ser o tipo mais invulgar que já conheci. 
-ro	Cred că e cel mai deosebit tip pe care-l știu. 
-sp	Debe ser el tipo más excéntrico que conozco. 
-sp-eu	Quizá sea el tío más singular que conozco. 
-sv	Han är nog den mest unika killen jag känner. 
-th	เขาอาจเป็นคนพิเศษที่สุดที่ผมรู้จัก | 
-tr	Tanıdığım en benzersiz adam olabilir. 
-vi	Có lẽ anh ta là | kẻ độc đáo nhất tôi từng gặp. | 
-zh-long	他應該是我認識過最特別的人了 
-zh-short	他可能是我所认识的最独特的人 
-ja	彼はとてもユニークだ | 
+ar	&rlm;‏أين أبدأ؟‏ | 
+da	Hvor skal jeg begynde? 
+el	Από πού να αρχίσω; 
+en	[smacks lips] Where do I begin? | 
+it	Da dove posso iniziare? 
+ko	어디서부터 시작할까요? | 
+nl	Waar zal ik beginnen? 
+pl	Od czego zacząć? 
+pr-br	Por onde começo? 
+pr	Por onde começo? 
+sp-eu	¿Por dónde empiezo? 
+sp	¿Por dónde comenzar? 
+sv	Var ska jag börja? 
+zh-long	該從何說起呢？ 
+zh-short	我从哪开始呢？ 
+he	&rlm;‏איפה להתחיל?‏ | 
+fr	Par où commencer ? 
+id	Dari mana aku mulai? 
+no	Hvor starter jeg? 
+vi	Tôi bắt đầu từ đâu nhỉ? | 
+ja	何 話そう | 
+fi	Mistä aloittaisin? 
+ru	С чего начать? 
+th	เริ่มตรงไหนดี | 
+tr	Nereden başlasam? 
+ro	Cu ce să încep? 
+
+es	Está bien. Enseguida vamos. 
+pt-br	Certo. Já estamos indo. 
+uk	Гаразд. Ми негайно приїдемо. 
+fi	Selvä. Tulemme heti. | 
+cs	Dobře. Hned tam jedeme. 
+da	Okay. Vi kommer med det samme. | 
+el	Εντάξει. Ερχόμαστε αμέσως. 
+en	All right. We'll come right away. 
+es-eu	Vale, enseguida vamos. 
+fr	D'accord. On arrive tout de suite. 
+he	‫בסדר. אני כבר מגיע.‬ | 
+hr	Dobro. Odmah ćemo doći. 
+hu	Rendben. Máris megyünk. 
+id	Baiklah. Kami akan segera datang. 
+it	Va bene, veniamo subito. 
+ko	&lrm;알겠습니다, 바로 갈게요 | 
+ms	Baiklah. Kami datang sekarang. 
+nl	Oké, we komen meteen. 
+no	Greit. Vi kommer straks. 
+pt	Muito bem. Vamos já. 
+ro	Bine. Venim acum. 
+ru	Хорошо. Мы сейчас приедем. 
+sv	Okej, vi kommer på en gång. 
+th	&lrm;ได้ เราจะไปเดี๋ยวนี้ | 
+tr	Tamam, hemen geliyoruz. 
+vi	&lrm;Được rồi. Chúng tôi sẽ đến ngay. | 
+zh-long	好，我們馬上過去 
+zh-short	好的 我们马上就来 
+ja	&lrm;分かりました　すぐ行きます | 
 

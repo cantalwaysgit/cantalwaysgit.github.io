@@ -1,0 +1,27 @@
+en	[sighs] This place is incredible! | 
+id	Rumah ini luar biasa! 
+ru	Вот это дом! 
+ar	&rlm;‏هذا المكان رائع!‏ | 
+da	Det her sted er fantastisk! 
+el	Απίστευτο σπίτι! 
+fi	Uskomaton paikka. 
+fr	C'est incroyable, ici ! 
+he	&rlm;‏המקום הזה מדהים!‏ | 
+it	Questa casa è incredibile! 
+no	Dette stedet er utrolig! 
+pl	Niesamowity dom! 
+pr-br	Este lugar é incrível! 
+pr	Esta casa é incrível! 
+ro	Locul ăsta e incredibil! 
+sp	¡Este lugar es increíble! 
+sp-eu	¡Este sitio es increíble! 
+sv	Det här huset är otroligt! 
+th	บ้านนี้ช่างมหัศจรรย์ | 
+tr	Burası müthiş! 
+vi	Nơi này thật tuyệt! | 
+zh-long	這地方也太美了吧！ 
+zh-short	这里太棒了！ 
+nl	Wat een ongelooflijk huis. -Ja, het is leuk. 
+ja	ステキなお屋敷ね | 
+ko	여기 정말 멋지네요! | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏دعنا نجتمع عما قريب. عدني بذلك.‏ | 
+da	Lad os mødes snart. Lov mig det. 
+el	Να βρεθούμε σύντομα, Σάντι. Υποσχέσου μου. 
+en	Let's get together real soon, Sandy. | Promise me. | 
+fi	Tavataan pian. Lupaathan. 
+fr	Faut qu'on se prévoie un truc. Promets-moi. 
+he	&rlm;‏בוא ניפגש ממש בקרוב. תבטיח לי.‏ | 
+it	Promettimi che ci vedremo presto. 
+nl	We moeten snel iets afspreken. Beloof het me. 
+no	La oss finne på noe snart. Lov meg det. 
+pl	Musimy się spotkać. Obiecaj mi. 
+pr-br	Prometa que vamos nos encontrar em breve. 
+pr	Sandy, promete-me que nos encontramos em breve. 
+ro	Să ne mai vedem curând! Promite-mi. 
+sp-eu	Vamos a quedar muy pronto. Prométemelo. 
+sp	Veámonos pronto. Prométemelo. 
+sv	Vi måste träffas snart. Lova det. 
+th	แล้วมาเจอกันเร็วๆ นี้นะ สัญญากับฉัน | 
+tr	Yakında buluşalım. Söz ver bana. 
+vi	Ta sẽ sớm gặp lại nhé. Hãy hứa với tôi. | 
+zh-long	我們最近找時間聚聚，答應我 
+zh-short	我们赶快找时间聚聚 答应我 
+id	Berjanjilah kepadaku kita akan segera bertemu lagi, Sandy. 
+ja	近いうちに会いましょ | 
+ru	Надо встретиться поскорее. Обещай. 
+ko	조만간 한번 만나요 | 약속해 주세요 | 
+

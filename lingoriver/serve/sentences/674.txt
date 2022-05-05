@@ -1,0 +1,26 @@
+id	Kau pun tidak ingat mengancingkan pakaianmu! 
+ru	Ты бы и у себя на штанах забыл её нажать! 
+ar	&rlm;‏لم تتذكر أن تضع الزر على مشملك!‏ | 
+da	Du glemte også knappen i dine bukser! 
+el	Ακόμη και το κουμπί από το εσώρουχο θα ξεχνούσες! 
+en	You didn't remember to put the button | on your goddamn overalls! | 
+fi	Et muistanut nappia! 
+fr	T'es même pas foutu de boutonner ta salopette ! 
+he	&rlm;‏לא זכרת לשים את הכפתור על הסרבל שלך!‏ | 
+it	Devi solo premere il bottone! 
+ko	바지 위에 | 버튼 두는 걸 잊었잖아! | 
+nl	Je vergat die knop erop te doen. 
+no	Du husket ikke engang knappen på buksa di! 
+pl	Zapominasz nawet o guzikach na koszuli! 
+pr-br	Nem se lembrou de abotoar o seu macacão! 
+pr	Não te lembraste de meter o botão na porra do macacão! 
+ro	Nu ți-ai amintit că cel mai important e butonul! 
+sp-eu	¡Ni siquiera te has abrochado el botón del puñetero peto! 
+sp	¡No recordaste abrocharte los botones de tu mono! 
+sv	Du kan inte ens knäppa dina byxknappar. 
+th	คุณลืมที่จะใส่ปุ่มไปบนชุดเนี่ย | 
+tr	Bir düğmeye basmayı hatırlayamadın! 
+vi	Anh không chịu nhớ ấn nút gì cả! | 
+zh-long	你連衣服的扣子都忘了扣 
+zh-short	你连裤子开口的纽扣都没系！ 
+

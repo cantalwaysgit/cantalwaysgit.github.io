@@ -1,0 +1,57 @@
+no	Se på deg selv i sjøen. Så ser du. 
+ru	Посмотри на свое отражение в озере. 
+ar	&rlm;‏انظري إلى نفسك في البحيرة. وسترين.‏ | 
+da	Spejl dig i søen. Så ser du. 
+el	Κοίταξε τον εαυτό σου στη λίμνη και θα το δεις. 
+en	Take a look at yourself in the lake. | You'll see. | 
+fi	Katso kuvastustasi järvestä, niin näet itsekin. 
+fr	Regarde ton reflet dans le lac. Tu verras. 
+he	&rlm;‏תסתכל על עצמך באגם. אתה תראה.‏ | 
+id	Lihatlah dirimu di danau. Kau akan tahu. 
+it	Specchiati nel lago. E vedrai. 
+ko	호수에 비춰보세요 | 보면 아실 거예요 | 
+nl	Bekijk jezelf in het meer. Dan zie je het. 
+pl	Spójrz na swoje odbicie w wodzie. 
+pr-br	Olhe-se no lago. Você verá. 
+pr	Olha o teu reflexo no lago. Vais ver. 
+ro	Privește-te în apa lacului! O să vezi. 
+sp-eu	Mírate en el lago. Ya verás. 
+sp	Mírate en el lago. Y verás. 
+sv	Se själv på din spegelbild i sjön. 
+th	มองตัวเองในทะเลสาบสิ เจ้าจะได้เห็น | 
+tr	Gölde kendine bak. Göreceksin. 
+vi	Hãy nhìn vào chính mình trong hồ. | Bạn sẽ thấy. | 
+zh-long	看看湖面的倒影，你就知道 
+zh-short	看看湖面你就知道了 
+ja	水面(みなも)に映してごらん | 
+
+it	- Lei come lo sa? - È così che lavoriamo qui. 
+es	- ¿Cómo lo sabe? - Así trabajamos aquí. Hablamos. 
+ru	- Откуда вы знаете? - У нас так заведено. 
+uk	-Звідки ви знаєте? -Так ми тут працюємо. 
+cs	- Jak to víte? - My tady tak pracujeme. 
+da	-Hvor ved De det fra? | -Det er sådan vi arbejder. | 
+el	-Πώς το ξέρετε αυτό; -Έτσι λειτουργούμε εδώ. 
+en	-How do you know that? -That's how we work here. 
+es-eu	- ¿Cómo lo sabe? - Eso hacemos aquí. 
+fi	Mistä sinä sen tiedät? | -Siten täällä toimitaan. | 
+fr	- Comment vous le savez ? - On bosse comme ça. 
+he	‫מאיפה את יודעת?‬ | ‫-ככה אנחנו עובדים כאן.‬ | 
+hr	-Kako znate? -Ovdje to tako ide. 
+hu	- Ezt honnan tudja? - Ez így működik itt. 
+id	- Bagaimana kau tahu? - Itu yang kami lakukan di sini. 
+ko	&lrm;- 그걸 어떻게 알죠? | &lrm;- 우리가 일하는 방식이니까요 | 
+nl	Hoe weet u dat? -Zo werkt dat hier. 
+no	-Hvordan vet du det? -Det er sånn vi jobber her. 
+pt-br	- Como você sabe? - É isso que fazemos por aqui. 
+pt	- Como sabe disso? - É assim que trabalhamos cá. 
+ro	- De unde știi? - Așa procedăm aici. 
+sv	-Hur vet ni det? -Vi jobbar så här. 
+th	&lrm;- คุณรู้ได้ยังไง | &lrm;- มันเป็นงานของเรา | 
+tr	-Nereden biliyorsunuz? -Burası böyledir. 
+vi	&lrm;- Sao cô biết? | &lrm;- Ở đây là vậy đó. | 
+zh-long	-妳怎麼知道的？ -這就是我們的運作方式 
+zh-short	-你怎么知道？ -这是我们的工作方式 
+ms	- Bagaimana awak tahu? - Begitulah cara kami kerja. 
+ja	&lrm;なぜそれを？ | 
+

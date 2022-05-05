@@ -1,0 +1,28 @@
+ja	たくさんさ　星印の話を？ | 
+id	- Bisa bahas bintang ini sejenak? - Ya, silakan. 
+ru	-Поговорим о звезде? -Давай. 
+ar	&rlm;‏‏- أيمكننا التحدث عن هذه النجمة؟ | &rlm;‏- تفضل.‏ | 
+da	-Kan vi snakke om stjernen? -Værsgo. 
+el	-Να μιλήσουμε για το αστέρι; -Φυσικά. 
+en	-Can we talk about this star for a second? | -Yeah, go ahead. | 
+fi	-Puhutaanko tähdestä? -Ole hyvä vain. 
+fr	- Je peux parler de l'étoile ? - Vas-y. 
+he	&rlm;‏‏אנחנו יכולים לדבר על הכוכב הזה? | &rlm;‏-קדימה.‏ | 
+it	- Ci lasci parlare della stella? - Prego. 
+nl	Kunnen we even over deze ster praten? -Toe maar. 
+no	-Kan vi snakke om stjernen? -Vær så god. 
+pl	- Możemy pogadać o gwieździe? - Śmiało. 
+pr-br	-Podemos falar desta estrela? -Pode falar. 
+pr	- Podemos falar sobre a estrela? - Força. 
+ro	- Vrei să vorbim puțin despre stea? - Continuă. 
+sp-eu	- ¿Podemos hablar de esta estrella? - Adelante. 
+sp	- ¿Podemos hablar de esta estrella? - Claro. 
+sv	-Kan vi prata om stjärnan? -Fortsätt. 
+th	- มาคุยเรื่องดาวนี้ได้ไหม | - เชิญเลย | 
+tr	-Şu yıldızdan söz edebilir miyiz? -Tabii. 
+vi	- Ta nói về ngôi sao này được chứ? | - Cứ nói đi. | 
+zh-long	-我們可以聊一下星星嗎？ -請聊 
+zh-short	-能让我们把这颗星的事说完吗？ -请便 
+ko	- 별 이야기 좀 할까요? | - 그래 | 
+ja	どうぞ | 
+

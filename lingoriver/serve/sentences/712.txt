@@ -1,0 +1,25 @@
+id	Terima kasih. 
+pl	Dziękuję. 
+ru	Спасибо. 
+ar	&rlm;‏شكراً لك.‏ | 
+da	Tak skal du have. 
+el	Ευχαριστώ. 
+en	Thank you. | 
+fi	Kiitos. 
+fr	Merci. 
+he	&rlm;‏תודה.‏ | 
+it	Grazie. 
+ko	고맙습니다 | 
+pr-br	Obrigada. 
+pr	Obrigada. 
+ro	Mulțumesc. 
+sp-eu	Gracias. 
+sp	Gracias. 
+sv	Tack. 
+th	ขอบคุณ | 
+tr	Teşekkürler. 
+vi	Cảm ơn. | 
+zh-long	謝謝 
+zh-short	谢谢 
+no	Takk. 
+

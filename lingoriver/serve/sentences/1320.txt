@@ -1,0 +1,76 @@
+ar	&rlm;‏‏- مرحباً. | &rlm;‏- ماذا تريد أن تشرب؟‏ | 
+en	-Hey. | -What would you like to drink? | 
+he	&rlm;‏‏היי. | &rlm;‏-מה תרצה לשתות?‏ | 
+it	- Ehi. - Cosa bevi? 
+ko	- 그래요 | - 뭐 마실래요? | 
+pr-br	-Ei. -O que gostaria de beber? 
+pr	- Pronto. - O que queres beber? 
+sp	- Bien. - ¿Qué quieres beber? 
+sp-eu	- Vaya. - ¿Qué quieres beber? 
+sv	-Du. -Vad vill du ha att dricka? 
+th	- เฮ่ | - อยากดื่มอะไร | 
+tr	-Hey. -Ne içmek istersin? 
+vi	- Này. | - Anh muốn uống gì nào? | 
+zh-long	-嘿 -你想喝什麼？ 
+zh-short	-嘿 -要喝什么？ 
+id	- Hei. - Kau mau minum apa? 
+ru	-Ага. -Что будешь пить? 
+fi	Mitä juotavaa otat? 
+pl	Czego się napijesz? 
+ro	Ce-ai vrea să bei? 
+da	Hvad vil du have at drikke? 
+nl	Wat wil je drinken? 
+fr	Je te sers quoi ? 
+ja	何を飲む？ | 
+el	Τι θα ήθελες να πιεις; 
+no	-Hva vil du ha å drikke? -Jeg har litt magetrøbbel. 
+ar	&rlm;‏معدتي تؤلمني قليلاً.‏ | 
+da	Jeg har lidt for meget mavesyre. 
+el	Έχω λίγη καούρα στο στομάχι, 
+en	You know, I got a bit of a sour stomach. | 
+fi	Vatsaani polttelee. 
+fr	J'ai des aigreurs d'estomac, 
+he	&rlm;‏יש לי קצת כאב בטן.‏ | 
+id	Perutku agak tidak enak, 
+it	Ho un po' di acidità, 
+pl	Brzuch mnie trochę boli. 
+pr-br	Estou com um pouco de azia. 
+pr	Estou com indigestão. 
+ro	Mă cam supără burta. 
+sp-eu	Tengo un poco de acidez. 
+sp	Tengo un poco de acidez. 
+sv	Jag är lite sur i magen. 
+th	ท้องผมเป็นกรดหน่อยๆ | 
+tr	Midemde ekşime var. 
+vi	Tôi hơi bị đầy bụng. | 
+zh-long	我的胃有點不舒服 
+zh-short	我的胃不太好 
+ko	위산과다라서 | 
+ru	Живот побаливает, 
+nl	Ik heb wat maagzuur. Als je Dr. Brown's diet hebt, zou dat fijn zijn. 
+ja	ちょっと胸焼けがするんだ | ダイエットソーダをもらうよ | 
+id	kalau ada Dr. Brown diet ceri hitam, itu sempurna. 
+ar	&rlm;‏‏إن كان لديك شراب الكرز الأسود | &rlm;‏من "دكتور براونز"، فسيكون ذلك رائعاً.‏ | 
+da	Så, hvis du har Dr. Brown's diætdrik, så ville det være perfekt. 
+el	οπότε ένα αναψυκτικό διαίτης θα ήταν μια χαρά. 
+en	If you got Dr. Brown's black cherry diet, | that would be perfect. | 
+fi	Dr. Brown's -kevytkirsikkajuoma maistuisi. 
+fr	donc, un soda à la cerise sans sucre, ça m'irait très bien. 
+he	&rlm;‏‏אם יש לך דיאט בלאק צ'רי של ד"ר בראון | &rlm;‏זה יהיה מושלם.‏ | 
+it	della Dr. Brown dietetica alla ciliegia sarebbe perfetta. 
+no	Flott hvis du har en Dr. Brown's black cherry light. 
+pl	Chętnie bym się napił wiśniowego doktora browna. 
+pr-br	Se tiver Dr. Brown de cereja diet seria perfeito. 
+pr	Se tiveres Dr. Brown de cereja, seria ótimo. 
+ro	Dacă ai avea vreun suc dietetic de cireșe negre, ar fi perfect. 
+sp-eu	Si tienes Dr. Brown de cereza light, sería perfecto. 
+sp	Si tienes gaseosa dietética de cereza Dr. Brown sería genial. 
+sv	Om du har Dr Browns black cherry-light, så blir det perfekt. 
+th	ถ้าคุณมีแบลคเชอร์รี่ไดเอต | ยี่ห้อดร.บราวน์ส จะเยี่ยมมาก | 
+tr	Dr. Brown'ın diyet vişnesi varsa harika olur. 
+vi	Nếu chị có đồ uống Dr. Brown | anh đào đen loại ăn kiêng, thì tuyệt. | 
+zh-long	如果有布朗博士的 零卡黑櫻桃汁就太好了 
+zh-short	有黑莓无糖汽水就再好不过了 
+ru	так что если есть, то диетический «Доктор Браун». 
+ko	닥터 브라운 블랙 체리 | 다이어트면 좋겠네요 | 
+

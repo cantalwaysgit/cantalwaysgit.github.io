@@ -1,0 +1,29 @@
+en	You want me to do the jokes | he's telling right now | 
+id	Kau mau aku menceritakan lelucon yang dia ceritakan sekarang 
+ar	&rlm;‏‏أتريدني أن ألقي هذه النكات | &rlm;‏في حفل توزيع جوائز "غرامي" السنة القادمة؟‏ | 
+da	Skal jeg fortælle de vittigheder til næste års Grammy? 
+el	Θες να πω τα αστεία που λέει τώρα στην τελετή της επόμενης χρονιάς; 
+fi	Haluatko, että kerron nuo samat vitsit ensi vuoden Grammyissä? 
+fr	Tu veux que je fasse ces blagues aux Grammy, l'an prochain ? 
+he	&rlm;‏‏אתה רוצה שאספר את הבדיחות האלה | &rlm;‏בגראמי בשנה הבאה?‏ | 
+it	Dovrei dire quelle battute ai Grammy del prossimo anno? 
+nl	Wil je dat ik deze grappen doe tijdens de Grammy's van volgend jaar? 
+pl	Mam za rok opowiedzieć te same dowcipy? 
+pr-br	Quer que eu conte essas piadas no Grammy do ano que vem? 
+pr	Queres que eu conte as mesmas piadas nos Grammy do ano que vem? 
+ro	Vrei să spun bancurile pe care le zice el, la ceremonia de anul viitor? 
+ru	Ты хочешь, чтобы я рассказывал это на будущем «Грэмми»? 
+sp-eu	¿Quieres que cuente esos chistes en los Grammy del año que viene? 
+sp	¿Quieres que haga los mismos chistes en los Grammys del año que viene? 
+sv	Vill du att jag ska köra de här skämten på nästa års Grammy-gala? 
+th	นายอยากให้ฉันเป็นคนปล่อยมุกพวกนี้ | ในงานแกรมมี่ปีหน้าเหรอ | 
+tr	Gelecek yılki Grammy'lerde aynı esprileri mi yapayım yani? 
+vi	Anh muốn tôi làm những trò đó | trong giải Grammy năm sau? | 
+zh-long	你要我在明年的葛萊美舞臺 講同樣的笑話？ 
+zh-short	你想让我在明年的 格莱美颁奖晚会上讲这些笑话？ 
+ko	내년 그래미에서 | 같은 농담을 하라고? | 
+ja	彼が今やってるジョークを | 来年 俺が？ | 
+no	Vil du jeg skal fortelle de vitsene på neste års Grammy? 
+en	on next year's Grammys? | 
+id	di Grammy tahun depan? 
+

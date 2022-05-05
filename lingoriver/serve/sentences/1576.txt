@@ -1,0 +1,27 @@
+id	- Boleh kucoba? - Kau mau coba? 
+ar	&rlm;‏‏- أيمكنني أن أجرب؟ | &rlm;‏- أتريدين أن تجربي؟ حسناً.‏ | 
+da	-Må jeg prøve? -Vil du prøve? Okay. 
+el	-Μπορώ να δοκιμάσω; -Θέλεις; Εντάξει. 
+en	-Can I try it? | -You wanna try? Okay. | 
+fi	-Saanko kokeilla? -Siitä vain. 
+fr	- Je peux essayer ? - Tu veux ? 
+he	&rlm;‏‏אני יכולה לנסות? | &rlm;‏-את רוצה לנסות? בסדר.‏ | 
+it	- Posso provare? - Vuoi provare? Certo. 
+ko	- 해봐도 돼요? | - 쳐볼래? 좋아 | 
+nl	Mag ik het proberen? -Wil je dat? Goed. 
+no	-Kan jeg prøve? -Vil du prøve? Ok. 
+pl	- Mogę ja? - Chcesz? 
+pr-br	-Posso tentar? -Quer tentar? Está bem. 
+pr	- Posso tentar? - Queres tentar? Está bem. 
+ro	- Pot să încerc și eu? - Vrei să încerci? Bine. 
+ru	-А можно я? -Хочешь попробовать? Да. 
+sp-eu	- ¿Puedo probar? - ¿Quieres probar? Vale. 
+sp	- ¿Puedo probar? - ¿Quieres intentarlo? Bien. 
+sv	-Får jag försöka? -Vill du försöka? 
+th	- ขอลองได้ไหม | - อยากลองเหรอ โอเค | 
+tr	-Deneyebilir miyim? -Denemek mi? Peki. 
+vi	- Tôi thử được không? | - Cô muốn thử à? Được. | 
+zh-long	-我可以試試嗎？ -妳想試？好呀 
+zh-short	-能让我试试吗？ -你想试试吗？好的 
+ja	やらせて | 
+

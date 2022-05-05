@@ -1,0 +1,56 @@
+id	Dulu, Frank Gorshin suka memintaku mencuci kostum Riddler dengan tangan 
+ru	Он заставлял меня стирать вручную костюм Загадочника, 
+ja	僕がリドラーの衣装を | 手洗いしてあげてた | 
+ko	프랭크는 자기 의상을 | 세탁기에 돌렸다가 | 
+ar	&rlm;‏وكان يجعلني أغسل زي "ريدلر" يدوياً‏ | 
+da	Og jeg håndvaskede Frank Gorshins Riddler-kostume, 
+el	Ο Γκόρσιν με έβαζε να πλένω τη στολή του Γρίφου στο χέρι, 
+en	And Frank Gorshin used to have me | hand-wash the Riddler costume, | 
+fi	Frank Gorshin pani minut pesemään Arvuuttaja-asun käsin, 
+fr	Il me faisait laver à la main le costume du Sphinx, 
+he	&rlm;‏‏ופרנק גורשין הכריח אותי לכבס ביד | &rlm;‏את התלבושת של איש החידות‏ | 
+it	Frank Gorshin mi faceva lavare a mano il costume dell'Enigmista, 
+nl	Ik moest van Frank Gorshin het Riddler-kostuum op de hand wassen. 
+no	Og Frank Gorshin pleide å be meg håndvaske Riddler-kostymet 
+pl	Frank Gorshin kazał mi ręcznie prać jego kostium Riddlera, 
+pr-br	E Frank Gorshin me fazia lavar à mão o figurino do Charada 
+pr	O Frank Gorshin costumava mandar-me lavar à mão o fato do Enigma 
+ro	Iar Frank Gorshin mă punea să-i spăl de mână costumul de Riddler, 
+sp-eu	Frank Gorshin solía obligarme a lavar a mano el traje de Enigma 
+sp	Frank Gorshin me hacía lavar a mano el disfraz del Acertijo 
+sv	Och hos Frank Gorshin fick jag handtvätta Riddler-kostymen, 
+th	แฟรงก์ กอร์ชินเคยใช้ให้ฉันซักมือ | ชุดของริดด์เลอร์ | 
+tr	Frank Gorshin, Bilmececi kostümünü elde yıkamamı isterdi, 
+vi	Và Frank Gorshin thường giao cho chú | giặt trang phục Riddler bằng tay | 
+zh-long	法蘭克喬辛要我手洗 謎天大聖的服裝 
+zh-short	弗兰克格申让我手洗谜语人的服装 
+ko	소재가 늘어날까 봐 걱정하며 | 
+
+cs	Adam mi řekl i některé důvěrné věci. 
+da	Han fortalte mig ting i fortrolighed. | 
+el	Μου είπε κάποια πράγματα εμπιστευτικά. 
+en	Adam told me certain things in confidence. 
+es-eu	Me contó ciertas cosas en confianza. 
+es	Me dijo algunas cosas en privado. 
+fi	Adam puhui minulle luottamuksellisesti. | 
+fr	Il s'est confié en toute confidentialité. 
+he	‫הוא אמר לי דברים תחת הבטחה של סודיות.‬ | 
+hr	Neke mi je stvari rekao u povjerenju. 
+hu	Bizalmasan elárult bizonyos dolgokat. 
+id	Dia memberitahuku hal-hal rahasia. 
+it	Mi ha detto certe cose in confidenza. 
+ja	&lrm;内緒で話してくれました | 
+ko	&lrm;절 믿고 | &lrm;비밀로 한 얘기도 있어서요 | 
+ms	Adam beritahu saya perkara tertentu secara rahsia. 
+no	Han fortalte meg noe konfidensielt. 
+pt-br	Ele me contou certas coisas em sigilo. 
+pt	O Adam confidenciou-me algumas coisas. 
+ro	Mi-a cerut să nu divulg anumite lucruri. 
+ru	Адам говорил мне кое-что конфиденциальное. 
+th	&lrm;บางเรื่องเขาบอกฉันเป็นความลับ | 
+tr	Bazı şeyleri sır olarak anlattı. 
+uk	Адам дещо розповів мені під секретом. 
+vi	&lrm;Cậu ấy tâm sự với tôi một vài điều. | 
+zh-long	他對我說了一些要保密的內容 
+zh-short	他私下跟我说过一些事 
+

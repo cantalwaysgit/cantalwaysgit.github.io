@@ -1,0 +1,27 @@
+ar	&rlm;‏وتحصل الدمى على غرف تبديل ملابس خاصة بها.‏ | 
+da	Dukkerne får deres egen garderobe. 
+el	Οι μαριονέτες θα έχουν δικά τους καμαρίνια. 
+en	And the puppets get | their own dressing rooms. | 
+fi	Omat pukuhuoneet nukeille. 
+fr	Et les marionnettes auront chacune leur loge. 
+he	&rlm;‏הבובות מקבלות חדרי הלבשה משלהן.‏ | 
+it	E ogni pupazzo avrà il suo camerino. 
+nl	De poppen krijgen een eigen kleedkamer. 
+no	Dukkene får sine egne garderober. 
+pl	A lalki mają własne garderoby. 
+pr-br	Camarim exclusivo para as marionetes. 
+pr	E os fantoches têm camarins próprios. 
+ro	Păpușile vor avea cabinele lor. 
+sp-eu	Las marionetas tendrán sus propios camerinos. 
+sp	Los muñecos tienen su propio camarín. 
+sv	Dockorna ska ha egna loger. 
+th	หุ่นต้องได้ห้องแต่งตัวของตัวเอง | 
+tr	Kuklaların ayrı soyunma odaları da olacak. 
+vi	Và đám con rối có phòng thay đồ riêng. | 
+zh-long	木偶要有專屬休息室 
+zh-short	木偶们要有自己的更衣室 
+ru	И отдельные гримерки для кукол. 
+ko	꼭두각시에게는 | 각자 분장실도 마련해 주세요 | 
+id	Lalu bonekanya dapat ruang ganti sendiri. 
+ja	パペット専用の楽屋もだ | 
+

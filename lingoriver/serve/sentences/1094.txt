@@ -1,0 +1,27 @@
+ar	&rlm;‏ماذا؟ من يتصل بك؟‏ | 
+da	Hvad? Hvem ringer til dig? 
+el	Τι; Ποιος σου τηλεφωνεί; 
+en	What? Who's calling you? | 
+fr	Quoi ? Qui t'appelle ? 
+it	Cosa? Chi ti telefona? 
+ko	뭐? 누가 전화를 했는데? | 
+pr-br	Quê? Quem anda ligando para você? 
+pr	O quê? Quem é que te tem ligado? 
+sp-eu	¿Qué? ¿Quién te está llamando? 
+sp	¿Qué? ¿Quién te ha estado llamando? 
+sv	Vadå? Vem har ringt dig? 
+vi	Gì cơ? Ai gọi cô? | 
+zh-long	什麼？誰一直狂打給妳？ 
+zh-short	什么？谁给你打电话？ 
+nl	Wat? Wie belt je? -Ik weet het niet. 
+ja	誰が電話を？ | 
+he	&rlm;‏מה? מי מתקשר אלייך?‏ | 
+no	Hva? Hvem ringer deg? 
+fi	Kuka sinulle on soitellut? 
+tr	Ne? Kim telefon ediyor? 
+pl	Kto do ciebie dzwonił? 
+ro	Poftim? Cine te sună? 
+ru	Что? Кто тебе звонит? 
+th	อะไร ใครกันที่โทรมาหาคุณ | 
+id	Apa? Siapa yang menghubungimu? 
+

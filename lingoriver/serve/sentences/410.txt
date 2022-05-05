@@ -1,0 +1,26 @@
+ja	続けて | シアトル！ シアトル！ | 
+id	Seattle. 
+ru	Сиэтл!  
+ar	&rlm;‏"سياتل".‏ | 
+da	Seattle. 
+el	Σιάτλ. 
+en	Seattle. Seattle. | 
+fi	Seattle. 
+fr	Seattle. 
+he	&rlm;‏סיאטל.‏ | 
+it	Seattle. 
+ko	시애틀 | 
+no	Seattle. 
+pl	Seattle. 
+pr-br	Seattle. 
+pr	Seattle. 
+ro	Seattle. 
+sp-eu	Seattle. 
+sp	Seattle. 
+sv	Seattle. 
+th	ซีแอตเทิลๆ | 
+tr	Seattle. 
+vi	Seattle. | 
+zh-long	西雅圖… 
+zh-short	西雅图 
+

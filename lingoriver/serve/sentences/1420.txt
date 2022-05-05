@@ -1,0 +1,26 @@
+tr	-Aman Tanrım. -Kendine nereden geldiğini hatırlat. 
+ru	Вспомни, с чего начинала. 
+ja	昔を思い出して | 
+id	dan ingatkan dirimu sendiri asalmu. 
+ar	&rlm;‏وذكري نفسك ببداياتك.‏ | 
+da	Husk dig selv på, hvor du kommer fra. 
+el	Να θυμηθείς από πού ξεκίνησες. 
+en	...and you remind yourself | where you came from. | 
+fi	Muistuta itsellesi, mistä tulit. 
+fr	Pour te rappeler d'où tu viens. 
+he	&rlm;‏ותזכירי לעצמך מאיפה הגעת.‏ | 
+it	Per ricordarti da dove vieni. 
+ko	예전 생활을 떠올려 봐 | 
+nl	Dan weet je weer waar je vandaan kwam. 
+no	Husk hvor du kommer fra. 
+pl	Wspomnisz swoje początki. 
+pr-br	E lembre-se de suas origens. 
+pr	... e lembra-te de onde vieste. 
+ro	Și amintește-ți de unde ai plecat. 
+sp-eu	Para recordarte de dónde vienes. 
+sp	Recuerda de dónde vienes. 
+th	เพื่อเตือนใจว่าคุณมาจากไหน | 
+vi	Nó nhắc cô nhớ về xuất thân của mình. | 
+zh-long	提醒自己妳從哪裡來 
+zh-short	提醒自己你是哪来的 
+

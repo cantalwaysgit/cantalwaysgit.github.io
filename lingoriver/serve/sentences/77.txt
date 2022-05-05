@@ -1,0 +1,58 @@
+id	Kau harus pergi. 
+pl	Idź stąd. 
+ru	Выйдите. 
+ko	가주셔야겠어요 | 
+ar	&rlm;‏يجب أن تذهب.‏ | 
+da	Du skal gå. 
+el	Πρέπει να φύγεις. 
+en	You gotta go. | 
+fi	Lähde. 
+fr	Allez-vous-en. 
+he	&rlm;‏אתה צריך ללכת.‏ | 
+it	Deve andarsene. 
+no	Du må gå. 
+pr-br	Tem que ir embora. 
+pr	Tens de sair. 
+ro	Trebuie să pleci. 
+sp	Debe irse. 
+sp-eu	Tienes que irte. 
+th	คุณต้องออกไป | 
+tr	Gidin artık. 
+vi	Anh phải ra ngoài. | 
+zh-long	請離開 
+zh-short	请你离开 
+nl	Je moet gaan. -Is Mary Jo Slater de castingagent? 
+sv	-Du måste gå. -Är det Mary Jo Slater som rollbesätter? 
+ja	帰れ | 
+
+ja	&lrm;無理よ | 
+ru	- Шутишь? - Пожалуйста. Поспи хоть чуть-чуть. 
+da	-Hold nu op. | -Bare et øjeblik. | 
+el	-Θα αστειεύεσαι. -Σε παρακαλώ. Ξάπλωσε λίγο. 
+en	-You can't be serious. -Please. Lie down for a bit. 
+es	- ¿Bromeas? - Por favor, un rato nada más. 
+es-eu	- Ni hablar. - Por favor, túmbate un rato. 
+fi	Miten voisin levätä? | -Ole kiltti. Mene makuulle. | 
+fr	- Tu plaisantes. - Allonge-toi un peu. 
+he	‫אתה צוחק עליי.‬ | ‫-בבקשה. לכי לנוח קצת.‬ | 
+hr	-Sigurno se šališ. -Molim te. Prilegni malo. 
+id	- Kau bercanda. - Kumohon. Berbaringlah sebentar. 
+it	- Stai scherzando. - Per favore, sdraiati un attimo. 
+ko	&lrm;- 쉬다니 | &lrm;- 제발, 잠깐이라도 | 
+ms	- Tak nak. - Tolonglah. Baringlah sekejap. 
+nl	Dat meen je niet. -Alsjeblieft. Ga even liggen. 
+no	-Du tuller. -Vær så snill. Legg deg ned litt. 
+pt-br	- Está brincando. - Por favor, deite-se um pouco. 
+pt	- Estás a brincar. - Por favor. Deita-te um pouco. 
+ro	- Cred că glumești. - Te rog. Întinde-te puțin! 
+sv	-Du måste skämta. -Bara en liten stund. 
+th	&lrm;- จะพักได้ไง | &lrm;- เอาน่า นอนพักสักหน่อย | 
+tr	-Şaka yapıyorsun. -Lütfen, birazcık olsun uzan. 
+uk	-Ти жартуєш. -Будь ласка, іди приляж хоч ненадовго. 
+vi	&lrm;- Anh đùa chắc. | &lrm;- Làm ơn đi. Nằm nghỉ một chút. | 
+zh-long	-你在說笑吧 -拜託，回家躺一下 
+zh-short	-别开玩笑了 -求你了 去躺会儿吧 
+cs	- Neblázni. - Jdi si na chvilku lehnout. 
+hu	- Viccelsz? - Kérlek! Feküdj le egy kicsit. 
+ja	&lrm;頼む　少し休んで | 
+

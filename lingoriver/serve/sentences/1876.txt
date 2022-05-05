@@ -1,0 +1,27 @@
+id	- Aku pakai pispot saat tidur? - Terima kasih. 
+ja	いつの間に そんなものを… | 
+ru	-Я пользовался судном во сне? -Спасибо. 
+ar	&rlm;‏‏- هل استخدمت المبولة بينما كنت نائماً؟ | &rlm;‏- شكراً.‏ | 
+da	-Brugte jeg bækkenet, da jeg sov? -Tak. 
+el	-Τη χρησιμοποίησα ενώ κοιμόμουν; -Ευχαριστώ. 
+en	-I used the bedpan while I was sleeping? | -Thanks. | 
+fi	-Käytinkö alusastiaa nukkuessani? -Kiitos. 
+fr	J'ai utilisé un bassin dans mon sommeil ? 
+he	&rlm;‏‏השתמשתי בסיר לילה כשישנתי? | &rlm;‏-תודה.‏ | 
+it	- L'ho usata mentre dormivo? - Grazie. 
+ko	- 자면서 실례했나? | - 고마워요 | 
+nl	Had ik een steek terwijl ik sliep? 
+no	-Brukte jeg det mens jeg sov? -Takk. 
+pl	- Załatwiłem się? - Dzięki. 
+pr-br	-Usei o urinol enquanto dormia? -Obrigada. 
+pr	- Usei a arrastadeira enquanto dormia? - Obrigada. 
+ro	- Am folosit plosca cât am dormit? - Mersi. 
+sp-eu	- ¿He usado la cuña mientras dormía? - Gracias. 
+sp	- ¿Usé el orinal mientras dormía? - Gracias. 
+sv	-Använde jag bäckenet när jag sov? -Tack. 
+th	- ตอนที่หลับอยู่ใช้กระโถนเหรอ | - ขอบคุณ | 
+tr	-Uyurken altımı mı doldurmuşum? -Teşekkürler. 
+vi	- Tôi dùng bô khi ngủ à? | - Cảm ơn. | 
+zh-long	-我昏睡的時候尿在尿壺裡？ -謝謝 
+zh-short	-我前面睡觉时用了尿壶吗？ -谢谢 
+

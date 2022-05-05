@@ -1,0 +1,25 @@
+ar	&rlm;‏‏ألا يمكنني أن أمزح أيضاً؟ | &rlm;‏ألا يمكنني أن أمزح...‏ | 
+da	Jeg kan vel også lave sjov. 
+el	Δεν μπορώ να κάνω κι εγώ πλάκα; 
+en	I... I can't joke, too? | 
+fi	Kai minäkin saan vitsailla? 
+fr	On peut plus blaguer ? 
+he	&rlm;‏אני לא יכול גם להתלוצץ? אני לא יכול...‏ | 
+it	Io non posso scherzare? Non posso... 
+ko	농담도 못 해? | 
+nl	Mag ik geen grappen maken? 
+pl	Żartowałem sobie. 
+pr-br	Não posso brincar também? 
+pr	Não posso brincar? Não posso... 
+ro	N-am voie să glumesc și eu? N-am voie... 
+sp-eu	¿No puedo bromear yo también? 
+sp	¿Yo no puedo hacer bromas? No puedo... 
+sv	Jag kan väl också få skämta lite. 
+th	ผมปล่อยมุกไม่ได้เหรอ ตลกไม่ได้... | 
+tr	Ben de şaka yapamaz mıyım? Yapamaz mıyım... 
+vi	Tôi không đùa được à? | 
+zh-long	我不能開個玩笑嗎？我不能… 
+zh-short	我就不能开玩笑了吗？我不能开玩笑 
+ru	Мне что, пошутить нельзя? 
+id	- Aku tidak bisa bercanda juga? - Benarkah? 
+

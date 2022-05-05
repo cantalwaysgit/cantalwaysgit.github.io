@@ -1,0 +1,26 @@
+ar	&rlm;‏اسمع يا "ساندي".‏ | 
+da	Hør, Sandy. 
+el	Κοίταξε, Σάντι. 
+en	Look, Sandy... | 
+fi	Kuule, Sandy. 
+fr	Écoute, Sandy. 
+he	&rlm;‏תראה, סנדי.‏ | 
+it	Ascolta, Sandy. 
+ko	저기, 샌디 | 
+no	Hør her, Sandy. 
+pl	Posłuchaj, Sandy. 
+pr-br	Olhe, Sandy. 
+pr	Ouve, Sandy. 
+ro	Ascultă, Sandy. 
+sp-eu	Mira, Sandy. 
+sp	Mira, Sandy. 
+sv	Du, Sandy. 
+th	ฟังนะ แซนดี้ | 
+tr	Bak Sandy. 
+vi	Nghe này, Sandy. | 
+zh-long	山迪 
+zh-short	听着 桑迪 
+ja	サンディ | 
+ru	Слушай, Сэнди. 
+id	Dengar, Sandy. 
+

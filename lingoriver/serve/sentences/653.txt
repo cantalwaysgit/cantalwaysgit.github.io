@@ -1,0 +1,27 @@
+fr	Pas trop le choix. 
+id	- Itulah situasi kita sekarang. - Baiklah. 
+ar	&rlm;‏‏- هذا هو الوضع الآن. | &rlm;‏- حسناً.‏ | 
+da	-Det er dér, vi er lige nu. -Okay. 
+el	-Σ' αυτό το σημείο έχουμε φτάσει. -Εντάξει. 
+en	-That's where we are right now, huh? | -Okay. | 
+fi	Tilanne on nyt tämä. 
+he	&rlm;‏‏זה המצב שלנו עכשיו. | &rlm;‏-בסדר.‏ | 
+it	- La situazione è questa. - D'accordo. 
+ko	- 그럴 수밖에 없잖아 | - 알았어요 | 
+pl	- Tak wygląda sytuacja. - Dobra. 
+pr-br	-Essa é a situação agora. -Certo. 
+pr	- É isso que temos de fazer. - Está bem. 
+ro	- Asta e singura opțiune acum. - Bine. 
+sp	- Es la única opción. - De acuerdo. 
+sp-eu	- En ese punto estamos. - Vale. 
+sv	-Då bestämmer vi det nu. -Okej. 
+th	- นั่นแหละที่เราต้องทำ | - โอเค | 
+tr	-Şu anda durum bu. -Tamam. 
+vi	- Giờ phải làm thế thôi. | - Vâng. | 
+zh-long	-那就這樣吧 -好 
+zh-short	-目前就是这么个情况 -好吧 
+nl	Dat moeten we nu doen. We doen het nog een keer. 
+no	Det er sånn det er nå. La oss bare gjøre det igjen. 
+ja	仕方ない | 
+ru	-Вариантов у нас нет. -Да. 
+

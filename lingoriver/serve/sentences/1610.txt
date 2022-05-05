@@ -1,0 +1,27 @@
+ja	アラスカ生まれよ | プロレスは日常 | 
+ar	&rlm;‏‏أنا من "ألاسكا". كنت إما أن أشاهد المصارعة | &rlm;‏أو أن أصطاد السمك.‏ | 
+da	Jeg er fra Alaska. Vi så enten wrestling eller fiskede. 
+el	Είμαι από την Αλάσκα. 'Η πάλη θα βλέπαμε ή τα ψάρια. 
+en	I'm from Alaska. | It was either watch wrestling or fish. | 
+fi	Olen Alaskasta. Siellä katsottiin painia tai kalastettiin. 
+fr	Je viens d'Alaska. Le choix est limité : catch ou pêche. 
+he	&rlm;‏‏אני מאלסקה. | &rlm;‏הבחירה הייתה לצפות בהיאבקות או לדוג.‏ | 
+nl	Ik kom uit Alaska. Je kon worstelen kijken of gaan vissen. 
+no	Jeg er fra Alaska. Det var enten det eller fisking. 
+pl	Na Alasce albo ogląda się wrestling, albo łowi ryby. 
+pr-br	Eu sou do Alasca. Ou via luta livre ou pescava. 
+pr	Sou do Alasca Ou via luta livre ou pescava. 
+ro	Sunt din Alaska. Acolo ne uitam la wrestling sau pescuiam. 
+sp-eu	Soy de Alaska. Había que elegir entre ver lucha libre o pesca. 
+sp	Soy de Alaska. Era mirar lucha o pescar. 
+sv	Jag är från Alaska. Det var wrestling eller fiske. 
+tr	Ben Alaskalıyım. Orada ya güreş izlersin ya balığa gidersin. 
+vi	Tôi là người Alaska. | Hoặc là xem đấu vật, hoặc xem cá. | 
+zh-long	我在阿拉斯加長大 不看摔角只能看魚 
+zh-short	我是阿拉斯加人 要么看摔角要么会钓鱼 
+id	Aku dari Alaska. Pilihanku hanya melihat gulat atau ikan. 
+it	Sono dell'Alaska. Lì o guardi il wrestling o vai a pescare. 
+ru	Я с Аляски. Там только рестлинг и рыбалка. 
+th	ฉันมาจากอะแลสกา ไม่ดูมวยปล้ำก็ตกปลา | 
+ko	알래스카 출신이니까요 | 거긴 낚시 아니면 레슬링이죠 | 
+

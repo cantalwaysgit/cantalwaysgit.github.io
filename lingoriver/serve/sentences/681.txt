@@ -1,0 +1,27 @@
+ja	さあ 頼むよ | 
+id	- Baiklah, mari kita lakukan. - Baiklah. 
+ru	-Давай им покажем. -Хорошо. 
+fi	Anna mennä. 
+fr	Allez, envoie la sauce. 
+nl	Oké, meid. Begin maar. 
+ar	&rlm;‏‏- حسناً يا طفلة، لنذهلهم. | &rlm;‏- حسناً.‏ | 
+da	-Gå bare i gang. -Okay. 
+el	-Πάμε, μικρή. -Εντάξει. 
+en	-Okay, kiddo, let's hit 'em. | -Okay. | 
+he	&rlm;‏‏בסדר, ילדונת, בואי נעשה את זה. | &rlm;‏-בסדר.‏ | 
+it	- Dai piccola, dacci dentro. - Bene. 
+ko	- 좋아, 시작하자 | - 네 | 
+no	-Kom igjen. -Ok. 
+pl	- Dajesz, mała. - OK. 
+pr-br	-Vamos mandar ver, garota. -Está bem. 
+pr	- Muito bem, vamos a isso. - Está bem. 
+ro	- Bine, puștoaico, să-i dăm gata! - Bine. 
+sp	- Bien, señorita. Vamos. - De acuerdo. 
+sp-eu	- Vale, chavalita, a por ellos. - Vale. 
+sv	-Okej, vännen, ge järnet. -Okej. 
+th	- โอเค เด็กน้อย เริ่มได้เลย | - โอเค | 
+tr	-Pekâlâ, evlat, hadi bakalım. -Peki. 
+vi	- Được rồi, bắt đầu đi. | - Vâng. | 
+zh-long	-好，小鬼，上吧 -好 
+zh-short	-好了 孩子 好好唱吧 -好吧 
+

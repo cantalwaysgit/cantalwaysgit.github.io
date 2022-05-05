@@ -1,0 +1,27 @@
+id	Bung, klienmu melejit. Dia sangat populer. 
+ja	ビッグになったな | おめでとう サンディ | 
+ru	Твоя девочка взлетела. Она везде. 
+ar	&rlm;‏لقد اشتهرت فتاتك. إنها الأفضل الآن.‏ | 
+da	Din pige blev stor. Hun er den bedste nu. 
+el	Το κορίτσι σου εκτοξεύτηκε. Κοίτα τι γίνεται. 
+en	Yo, man, your girl blew up. | She the shit now. | 
+fr	Elle cartonne, ta nana. C'est une star. 
+he	&rlm;‏הילדה שלך גדולה. היא הכי טובה עכשיו.‏ | 
+it	La tua ragazza è esplosa. È il massimo. 
+no	Jenta di er blitt dritpopulær. 
+pl	Twoja klientka jest gwiazdą. 
+pr	A tua miúda é um sucesso. Agora é a maior. 
+pr-br	Sua garota detonou. Ela é a melhor. 
+ro	Fetița ta a dat lovitura. E pe val acum. 
+sp-eu	Tu chica ha dado el bombazo. Ahora es la leche. 
+sp	Tu chica despegó. Es la mejor. 
+th	สาวของคุณดังระเบิด สุดยอดเลยตอนนี้ | 
+tr	Senin kız patladı. Acayip tuttu. 
+vi	Cô gái của anh tỏa sáng. | Giờ cô ấy đỉnh nhất. | 
+zh-long	你家藝人紅翻天 她現在不得了了 
+zh-short	你的姑娘火了 她是当下最红的 
+fi	Tytöstäsi tuli huipputähti. Onneksi olkoon. 
+sv	Din tjej klarade det. Hon är störst nu. Grattis, Sandy. 
+nl	Jouw meisje is groot geworden. De beste. Gefeliciteerd. 
+ko	코트니가 해냈어요 | 정말 거물이 됐네요 | 
+

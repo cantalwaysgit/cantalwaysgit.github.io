@@ -1,0 +1,52 @@
+ja	今のは わざとやったんだ | 
+id	Aku sengaja melakukannya tadi. Aku bercanda. 
+ru	А я нарочно. В шутку. 
+ar	&rlm;‏تعمدت القيام بذلك هذه المرة. إنها دعابة.‏ | 
+da	Jeg gjorde det med vilje. For sjov. 
+el	Αυτή τη φορά, το έκανα επίτηδες. Για πλάκα. 
+en	[Sandy] I did it on purpose that time. | A joke. | 
+fi	Tein sen tällä kertaa tahallani. Vitsi. 
+fr	Je l'ai fait exprès, cette fois. Pour la blague. 
+he	&rlm;‏עשיתי את זה בכוונה הפעם. בדיחה.‏ | 
+it	L'ho fatto apposta per fare uno scherzo. 
+ko	이번엔 일부러 한 거야 | 장난이라고 | 
+no	Den gangen var med vilje. En spøk. 
+pl	Teraz było specjalnie. Taki żarcik. 
+pr-br	Dessa vez eu fiz de propósito. Para brincar. 
+pr	Desta vez foi de propósito. Era uma piada. 
+ro	Am făcut-o intenționat de data asta. Am glumit. 
+sp	Esta vez lo hice a propósito. Fue una broma. 
+sp-eu	Esta vez lo he hecho a propósito. Era una broma. 
+sv	Nu gjorde jag det med flit. Ett skämt. 
+th	ครั้งนี้ตั้งใจทำ ล้อเล่นน่ะ | 
+tr	Bu sefer kasten yaptım. Şaka. 
+vi	Lần này tôi cố tình đấy. Đùa chút. | 
+zh-long	我這次是故意的，開個玩笑嘛 
+zh-short	这次我是故意的 开个玩笑 
+nl	Nu deed ik het expres. Grapje. Mag ik geen grappen maken? 
+id	Aku tidak boleh bercanda? Ayolah. 
+ja	ジョークだよ　笑えって | 
+ru	Пошутить нельзя? Да ладно вам. 
+ar	&rlm;‏ألا يمكنني أن أمزح يا قوم؟ بربكم.‏ | 
+da	Kan jeg ikke lave sjov? Hold nu op. 
+el	Δεν μπορώ να κάνω πλάκα; Ελάτε τώρα. 
+en	I can't make jokes, guys? | Come on. | 
+fi	Saahan sitä vitsailla. 
+fr	On n'a plus le droit de blaguer ? Sérieux ? 
+he	&rlm;‏אני לא יכול לצחוק, חבר'ה? בחייכם.‏ | 
+it	Non posso fare uno scherzo, ragazzi? Dai. 
+no	Får jeg ikke lov til å spøke? Kom igjen. 
+pl	No co? Żartować już nie wolno? 
+pr-br	Não posso brincar, pessoal? Qual é? 
+pr	Não posso fazer piadas? Vá lá. 
+ro	Nu pot glumi și eu? Să fim serioși! 
+sp-eu	¿No puedo bromear, chicos? Vamos. 
+sp	¿No puedo hacer bromas, muchachos? Vamos. 
+sv	Får jag inte skämta? Kom igen. 
+th	ล้อเล่นไม่ได้เหรอ ไม่เอาน่า | 
+tr	Şaka yapamaz mıyım yahu? Hadi ama. 
+vi	Tôi không đùa được à? Thôi nào. | 
+zh-long	不能開個玩笑嗎？拜託 
+zh-short	我不能开玩笑吗 各位？拜托 
+ko	장난도 못 쳐? 왜 이래 | 
+

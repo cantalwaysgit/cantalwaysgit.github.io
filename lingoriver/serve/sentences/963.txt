@@ -1,0 +1,26 @@
+id	Apa? Tidak, dia yang bilang. 
+ru	Что? Это она сказала... 
+ar	&rlm;‏ماذا؟ لا، قالت إنه كان يعيش هناك.‏ | 
+da	Hvad? Det sagde hun. 
+el	Αυτή το είπε. 
+en	What? No, she said he did. | 
+fi	Hän sanoi niin. 
+fr	Quoi ? C'est elle qui a dit ça. 
+he	&rlm;‏מה? לא, היא אמרה שהוא גר שם.‏ | 
+it	Cosa? No, l'ha detto lei. 
+ko	뭐라고? 코트니한테 들은 건데 | 
+nl	Wat? Nee, dat zei zij. 
+pl	Ona tak powiedziała. 
+pr-br	Quê? Não, ela disse que ele morava. 
+pr	O quê? Não, ela é que disse. 
+ro	Poftim? Nu, ea a zis asta. 
+sp-eu	¿Qué? No, lo ha dicho ella. 
+sp	¿Qué? No, ella dijo eso. 
+sv	Vadå? Nej, hon sa det. 
+th	อะไร เปล่า เธอบอกว่าเขาเคยอยู่ | 
+tr	Ne? Hayır, oturduğunu o söyledi. 
+vi	Gì cơ? Không, cô ấy bảo thế. | 
+zh-long	沒有啦，她說他住過 
+zh-short	什么？不 她说他住过 
+ja	彼女が言った | 
+

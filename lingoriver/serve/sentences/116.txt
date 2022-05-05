@@ -1,0 +1,57 @@
+ja	実力を見せつけてやれ | 
+id	Naik dan tunjukkan kepada mereka dirimu yang sebenarnya. 
+ru	Иди и покажи им, кто ты такой. 
+ar	&rlm;‏اصعد وأرهم من أنت.‏ | 
+da	Op med dig og vis dem, hvem du er. 
+el	Ανέβα εκεί πάνω και δείξε τους ποιος είσαι. 
+en	You get up there | and you show these people who you are. | 
+fi	Näytä, mihin pystyt. 
+fr	Montre-leur ce que tu sais faire. 
+he	&rlm;‏תעלה לשם ותראה להם מי אתה.‏ | 
+it	Vai lassù e fai vedere chi sei. 
+ko	올라가서 관중에게 | 네가 누군지를 보여줘 | 
+nl	Ga naar boven en laat zien wie je bent. 
+no	Kom deg opp dit og vis dem hvem du er. 
+pl	Pokaż im, kim naprawdę jesteś. 
+pr-br	Vá até lá e mostre quem você é. 
+pr	Sobe lá acima e mostra a esta gente quem tu és. 
+ro	Urcă-te acolo și arată-le ăstora cine ești. 
+sp-eu	Súbete ahí y demuéstrales quién eres. 
+sp	Sube allá y muéstrales quién eres. 
+sv	Upp med dig och visa dem vem du är. 
+th	นายขึ้นไปบนนั้น | แล้วแสดงให้เห็นว่าไผเป็นไผ | 
+tr	Sen oraya çık ve herkese kim olduğunu göster. 
+vi	Hãy lên đó và | cho họ biết bản lĩnh của cậu đi. | 
+zh-long	上去讓大家瞧瞧你的真本事 
+zh-short	你上去让他们见识见识你的本事 
+
+hu	Munkára! 
+es	A trabajar. 
+pt-br	Ao trabalho. 
+da	Kom i gang. | 
+el	Πήγαινε. 
+en	Get to work. 
+es-eu	A trabajar. 
+fr	Au travail. 
+he	‫גשי לעבודה.‬ | 
+hr	Na posao! 
+id	Bekerjalah. 
+it	Al lavoro. 
+ko	&lrm;일해야지? | 
+ms	Pergi buat kerja. 
+nl	Aan het werk. 
+no	Start jobben. 
+pt	Mãos à obra. 
+ro	Treci la treabă! 
+sv	Sätt fart. 
+th	&lrm;ไปทำงานได้ | 
+uk	До роботи. 
+vi	&lrm;Làm việc đi. | 
+zh-long	去工作吧 
+zh-short	去干活 
+tr	İşe koyul bakalım. 
+ja	&lrm;行ってこい | 
+fi	Töihin siitä. | 
+ru	Чего расселась? 
+cs	Do práce. 
+

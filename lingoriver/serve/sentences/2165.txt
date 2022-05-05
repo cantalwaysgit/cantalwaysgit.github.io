@@ -1,0 +1,26 @@
+en	[Butt-Head] Uh... Sandy Wexler? | 
+ja	サンディ･ | ウェクスラー？ | 
+id	Sandy Wexler? 
+ar	&rlm;‏"ساندي ويكسلر"؟‏ | 
+da	Sandy Wexler? 
+el	Ο Σάντι Γουέξλερ; 
+fi	Sandy Wexler? 
+fr	Sandy Wexler ? 
+he	&rlm;‏סנדי וקסלר?‏ | 
+it	Sandy Wexler? 
+no	Sandy Wexler? 
+pl	Sandy Wexler? 
+pr-br	Sandy Wexler? 
+pr	Sandy Wexler? 
+ro	Sandy Wexler? 
+sp-eu	¿Sandy Wexler? 
+sp	¿Sandy Wexler? 
+sv	Sandy Wexler? 
+th	แซนดี้ เวกซ์เลอร์ใช่ไหม | 
+tr	Sandy Wexler mı? 
+vi	Sandy Wexler? | 
+zh-long	山迪韋克斯勒？ 
+zh-short	桑迪韦克斯勒？ 
+ko	샌디 웩슬러? | 
+ru	Сэнди Уэкслер? 
+

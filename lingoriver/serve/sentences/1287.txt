@@ -1,0 +1,25 @@
+id	Kami tidak bekerja sama lagi. 
+ru	Но я больше с ней не работаю. 
+ar	&rlm;إلا أننا ‏لم نعد نعمل معاً بعد الآن.‏ | 
+da	Vi arbejder ikke sammen længere. 
+el	Δε συνεργαζόμαστε πια. 
+en	We're not working together | anymore, though. | 
+fi	Emme tee enää yhteistyötä. 
+fr	Mais on ne travaille plus ensemble. 
+he	&rlm;‏אנחנו כבר לא עובדים יחד.‏ | 
+it	Ma non lavoriamo più insieme. 
+no	Vi jobber ikke sammen mer. 
+pl	Już razem nie pracujemy. 
+pr-br	Não estamos mais trabalhando juntos. 
+pr	Já não estamos a trabalhar juntos. 
+ro	Însă nu mai lucrăm împreună. 
+sp-eu	Pero ya no trabajamos juntos. 
+sp	Ya no trabajamos juntos. 
+sv	Vi jobbar inte tillsammans längre. 
+th	เราไม่ได้ร่วมงานกันอีกแล้ว | 
+tr	Artık birlikte çalışmıyoruz ama. 
+vi	Chúng tôi không hợp tác với nhau nữa. | 
+zh-long	我們沒有合作了 
+zh-short	我们的合作停止了 
+ko	더는 같이 일 안 하거든 | 
+

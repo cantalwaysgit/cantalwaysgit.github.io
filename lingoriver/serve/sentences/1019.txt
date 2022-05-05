@@ -1,0 +1,27 @@
+id	Jadi, bagaimana? Kita telah berpesta, bersenang-senang. 
+ru	Ну что? Сходили на вечеринку, развлеклись. 
+ar	&rlm;‏ما رأيك إذاً؟ ذهبنا إلى الحفلة واستمتعنا.‏ | 
+da	Hvad synes du? Vi har været til fest. Det var sjovt. 
+el	Τι λες; Ήρθαμε στο πάρτι και διασκεδάσαμε. 
+en	So, uh, what do you think? | We've been to the party. We had fun. | 
+fi	Mitä arvelet? Nämä juhlat on nähty. 
+fr	Alors, dis-moi. On est venus, on s'est amusés. 
+he	&rlm;‏אז מה את אומרת? היינו במסיבה, עשינו חיים.‏ | 
+it	Che ne dici? Siamo venuti alla festa, ci siamo divertiti. 
+nl	Wat denk je? We zijn op het feest geweest, het was leuk. 
+pl	To jak? Przyszliśmy, pobawiliśmy się. 
+pr-br	Então, o que acha? Viemos a uma festa, nos divertimos. 
+pr	O que achas? Viemos à festa, divertimo-nos. 
+ro	Ce zici? Am fost la petrecere, ne-am distrat. 
+sp-eu	¿Qué te parece? Hemos venido, nos hemos divertido. 
+sp	¿Qué opinas? Vinimos a la fiesta, nos divertimos. 
+sv	Vad säger du? Vi har varit på festen, haft kul. 
+th	คุณคิดว่าไง | เรามางานปาร์ตี้แล้ว สนุกกันแล้ว | 
+tr	Ne diyorsun? Partiye geldik, eğlendik. 
+vi	Cô thấy thế nào? Ta đã dự tiệc, đã vui vẻ. | 
+zh-long	怎麼樣？來過了，也玩過了 
+zh-short	你觉得怎么样？我们来了派对 玩得很开心 
+ko	어떻게 생각해? | 파티에 와서 즐겼으니 | 
+ja	十分 楽しんだし | そろそろ帰ろうか | 
+no	Hva synes du? Vi har vært på festen, vi hadde det gøy. 
+

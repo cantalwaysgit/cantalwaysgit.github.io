@@ -1,0 +1,27 @@
+id	Kau ingat? Kita bertemu di rumah pantai Bernie. 
+ja	バーニーの別荘で会ったね | 
+ru	Помнишь? Мы встречались у Берни. 
+ar	&rlm;‏أتتذكر؟ تقابلنا في منزل "برني" على الشاطئ.‏ | 
+da	Husker du det? Vi mødtes hos Bernie i strandhuset. 
+el	Με θυμάσαι; Είχαμε γνωριστεί στο εξοχικό του Μπέρνι. 
+en	You remember? We met at, uh... | at Bernie's beach house. | 
+fi	Muistatko? Tapasimme Bernien rantatalolla. 
+fr	Tu me remets ? On s'est croisés chez Bernie. 
+he	&rlm;‏אתה זוכר? נפגשו בבית החוף של ברני.‏ | 
+it	Ricordi? Ci siamo conosciuti al mare da Bernie. 
+nl	Weet je nog? We ontmoetten elkaar in Bernies strandhuis. 
+no	Husker du? Vi traff hverandre hos Bernie. 
+pl	Spotkaliśmy się w domku Berniego na plaży. 
+pr-br	Lembra? Nos conhecemos na casa de praia de Bernie. 
+pr	Conhecemo-nos na casa de praia do Bernie, lembras-te? 
+ro	Mai știi? Ne-am văzut la casa de vacanță a lui Bernie. 
+sp-eu	¿Recuerdas que nos conocimos en la casa de la playa de Bernie? 
+sp	¿Recuerdas? Nos conocimos en la casa de la playa de Bernie. 
+sv	Minns du? Vi träffades hemma hos Bernie. 
+th	จำได้ไหม เราเคยเจอกัน | ที่บ้านริมหาดของเบอร์นี่ | 
+tr	Hatırladın mı? Bernie'nin sahil evinde tanışmıştık. 
+vi	Còn nhớ không? | Ta gặp nhau ở nhà nghỉ của Bernie. | 
+zh-long	記得嗎？ 我們在伯尼的海灘別墅見過 
+zh-short	记得吗？我们在伯尼的海滩别墅见过 
+ko	버니네 해변 별장에서 | 만났던 거 기억해? | 
+

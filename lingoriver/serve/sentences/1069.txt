@@ -1,0 +1,25 @@
+id	- Aku... Dengarlah. - Keluar! 
+en	-[stammers] Listen. | -Out! | 
+ru	-Послушай! -Вон! 
+ar	&rlm;‏‏- اسمع. | &rlm;‏- اخرج!‏ | 
+da	-Hør her. -Ud! 
+el	-Άκουσε. -Έξω! 
+fr	- Écoute. - Dehors ! 
+he	&rlm;‏‏תקשיב. | &rlm;‏-החוצה!‏ | 
+it	- Senti. - Fuori! 
+ko	- 들어봐요 | - 나가라고! | 
+no	-Hør her. -Ut! 
+pl	- Słuchaj. - Won! 
+pr-br	-Ouça. -Fora! 
+pr	- Escuta. - Fora! 
+ro	- Ascultă! - Afară! 
+sp-eu	- Escucha. - ¡Fuera! 
+sp	- Oye. - ¡Vete! 
+sv	-Hör på... -Ut! 
+th	- ฟังนะ | - ไป! | 
+tr	-Dinle. -Dışarı! 
+vi	- Nghe này. | - Đi mau! | 
+zh-long	-那個 -出去！ 
+zh-short	-听着 -出去！ 
+ja	失せろ | 
+

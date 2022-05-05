@@ -1,0 +1,3 @@
+id	Kau bercanda? 
+en	[exclaims] | 
+

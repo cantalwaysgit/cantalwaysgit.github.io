@@ -1,0 +1,52 @@
+id	Terima kasih banyak. 
+ja	ありがとう | 
+ru	Большое спасибо. 
+th	ขอบคุณมาก | 
+el	Σ' ευχαριστώ πολύ. 
+ar	&rlm;‏شكراً جزيلاً لك.‏ | 
+da	Mange tak. 
+fi	Kiitoksia. 
+fr	Merci beaucoup. 
+he	&rlm;‏תודה רבה.‏ | 
+it	Grazie di cuore. 
+no	Tusen takk. 
+pl	Bardzo dziękujemy. 
+pr-br	Muito obrigado. 
+pr	Muito obrigado. 
+ro	Îți mulțumesc mult! 
+sp-eu	Muchísimas gracias. 
+sp	Muchas gracias. 
+sv	Tack så mycket. 
+tr	Çok teşekkür ederim. 
+vi	Cảm ơn rất nhiều. | 
+zh-long	謝謝妳 
+zh-short	太谢谢了 
+en	Thank you so much. | 
+ko	정말 고마워 | 
+nl	Hartelijk dank. Ik speel dit terug. 
+ja	テープを確認するよ | 
+id	Aku akan memutarnya lagi di sini. 
+ru	Прослушаю еще раз. 
+fi	Soitan sen. 
+zh-short	我这就回放听听 
+vi	Tôi sẽ mở lại ở đây. | 
+no	Jeg spiller det her inne. 
+tr	Bunu burada tekrar dinleyeceğim. 
+pl	Puścimy to sobie tutaj. 
+th	ผมจะเปิดฟังในนี้ | 
+el	Θα το βάλω να παίξει εδώ. 
+en	[muffled] I'm gonna | play this back in here. | 
+ro	O să redau piesa aici. 
+ar	&rlm;‏سأعيد سماع المقطع هنا.‏ | 
+da	Jeg afspiller det herinde. 
+fr	Je vais réécouter. 
+he	&rlm;‏אני הולך לנגן את זה פה שוב.‏ | 
+it	La riascoltiamo di qua. 
+pr-br	Vou tocar isso aqui. 
+pr	Eu vou reproduzir isto aqui atrás. 
+sp-eu	Voy a reproducirlo. 
+sp	Voy a reproducirlo. 
+sv	Jag ska spela den här inne. 
+zh-long	我放一次給妳聽 
+ko	여기서 다시 들어볼게 | 
+

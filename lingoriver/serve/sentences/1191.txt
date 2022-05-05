@@ -1,0 +1,27 @@
+ar	&rlm;‏ملكتك؟‏ | 
+da	Din dronning? 
+el	Βασίλισσά σου; 
+fi	Kuningattaresi? 
+it	Tua regina? 
+nl	Je koningin? 
+pr-br	Sua rainha? 
+pr	Tua rainha? 
+sp-eu	¿Tu reina? 
+sp	¿Tu reina? 
+sv	Din drottning? 
+vi	Nữ hoàng của anh? | 
+zh-long	你的皇后？ 
+zh-short	你的女王？ 
+en	Your queen? | 
+ko	여왕님? | 
+th	ราชินีของคุณเหรอ | 
+id	Ratumu? 
+he	&rlm;‏המלכה שלך?‏ | 
+ja	女王様？ | 
+fr	Ta reine ? 
+ru	Твоя королева? 
+ro	Regina ta? 
+pl	Królowo? 
+no	Dronning? 
+tr	Kraliçen mi? 
+

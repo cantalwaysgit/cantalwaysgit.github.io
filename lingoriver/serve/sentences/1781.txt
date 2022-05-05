@@ -1,0 +1,27 @@
+en	[laughs] No! He hung himself! | 
+ar	&rlm;‏لا! لقد شنق نفسه!‏ | 
+da	Nej! Han hængte sig! 
+el	Όχι! Κρεμάστηκε. 
+fi	Hän hirttäytyi. 
+fr	Non ! Il s'est pendu ! 
+he	&rlm;‏לא! הוא תלה את עצמו!‏ | 
+id	Tidak, dia gantung diri. 
+it	No, si è impiccato. 
+nl	Nee. Hij heeft zichzelf opgehangen. 
+no	Nei! Han hang seg! 
+pl	Nie! Powiesił się! 
+pr-br	Não! Ele se enforcou! 
+pr	Não! Ele enforcou-se! 
+ro	Nu! S-a spânzurat singur! 
+sp-eu	¡No! Se ha ahorcado. 
+sp	¡No! ¡Se ahorcó! 
+sv	Nej! Han hängde sig! 
+th	เปล่า เขาแขวนคอตาย | 
+tr	Hayır! Kendini astı! 
+vi	Không! Ông ấy treo cổ! | 
+zh-long	沒有啦！他上吊自殺 
+zh-short	不！他上吊自杀了 
+ja	違う　自殺したんだ | 
+ru	Нет! Он повесился! 
+ko	아니, 목매달아 자살했어 | 
+

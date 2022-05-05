@@ -1,0 +1,52 @@
+ja	彼女だろ？ | 
+id	Dia bagus, bukan? 
+ru	Она такая, да. 
+ko	그런 여자 같지? | 
+th	เธอเลยใช่ไหมล่ะ | 
+el	Είναι απίστευτη. 
+pl	Jest niezła. 
+ar	&rlm;‏أليست كذلك؟‏ | 
+da	Ja, er hun ikke? 
+en	Isn't she? | 
+fi	Tyttö on tosiaan paras. 
+fr	Elle est géniale, hein ? 
+he	&rlm;‏נכון שהיא טובה?‏ | 
+it	Lei, vero? 
+no	Ja, er hun ikke? 
+pr-br	Ela não é mesmo? 
+pr	Ela é mesmo assim, não é? 
+ro	Nu-i grozavă? 
+sp	Ella es genial. 
+sp-eu	Ella lo es. 
+sv	Visst är hon? 
+tr	Kız çok iyi, değil mi? 
+vi	Cô ấy giỏi thế à? | 
+zh-long	她很棒吧？ 
+zh-short	她可不是吗？ 
+nl	Dat is ze, hè? -Ze? Wie is ze? 
+ja	彼女って？ | 
+id	Dia? Siapa? 
+ru	Она? Кто «она»? 
+ar	&rlm;‏هي؟ من هي؟‏ | 
+da	Hun? Hvem er hun? 
+el	Για ποια μιλάς; 
+en	She? Who's she? | 
+fi	Kuka tyttö? 
+fr	Elle ? Qui c'est, elle ? 
+he	&rlm;‏היא? מי זו היא?‏ | 
+it	Lei? Lei chi? 
+no	Hun? Hvem er hun? 
+pl	Ona? Czyli kto? 
+pr-br	Ela? Ela quem? 
+pr	Ela? Quem? 
+sp	¿Ella? ¿Quién es ella? 
+sp-eu	¿Ella? ¿Quién es ella? 
+sv	Hon? Vem är hon? 
+th	เธอ เธอที่ไหนกัน | 
+tr	Kız mı? Hangi kız? 
+vi	Cô ấy? Cô ấy nào? | 
+zh-long	她？哪個她？ 
+zh-short	她？是谁？ 
+ko	여자라니? 누구 말이야? | 
+ro	Grozavă? La cine te referi? 
+

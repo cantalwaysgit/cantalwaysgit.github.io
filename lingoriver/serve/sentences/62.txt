@@ -1,0 +1,32 @@
+ja	あるのか？ | 
+
+pt-br	Filho da puta. 
+cs	Zkurvysyn. 
+da	Store idiot. | 
+el	Τον μαλάκα. 
+en	Motherfucker. 
+es-eu	Hijo de puta. 
+fi	Paskiainen. | 
+fr	L'enfoiré. 
+he	‫בן זונה.‬ | 
+hr	Kurvin sin! 
+hu	A kurva anyád! 
+id	Berengsek. 
+it	Figlio di puttana. 
+ja	&lrm;クソ野郎 | 
+ko	&lrm;개자식 | 
+ms	Celaka. 
+nl	Vuile klootzak. 
+no	Jævel. 
+pt	Grande cabrão. 
+ro	Nenorocitul! 
+ru	Вот же сволочь… 
+sv	Den jäveln. 
+th	&lrm;ไอ้เวรนี่ | 
+tr	Orospu çocuğu. 
+vi	&lrm;Mẹ kiếp. | 
+zh-long	王八蛋 
+zh-short	混蛋 
+es	Hijo de puta. 
+uk	Покидьок. 
+

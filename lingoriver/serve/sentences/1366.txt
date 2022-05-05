@@ -1,0 +1,20 @@
+ar	&rlm;‏"ماليسا"!‏ | 
+da	Melissa! 
+el	Μελίσα! 
+en	[man 4] Melissa! | 
+fi	Melissa! 
+he	&rlm;‏מליסה!‏ | 
+nl	Melissa. 
+no	Melissa! 
+pl	Melissa! 
+pr-br	Melissa! 
+pr	Melissa! 
+ro	Melissa! 
+sp-eu	¡Melissa! 
+sv	Melissa! 
+th	เมลิสซ่า | 
+tr	Melissa! 
+vi	Melissa! | 
+zh-long	瑪麗莎！ 
+zh-short	梅丽萨！ 
+

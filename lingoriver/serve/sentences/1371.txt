@@ -1,0 +1,49 @@
+id	Itu barang seharga 12 dolar. 
+el	Κοστίζει δώδεκα δολάρια. 
+da	De koster 12 dollars stykket. 
+ja	たった12ドルの商品を | 宝石みたいに… | 
+ru	Они стоят 12 долларов. 
+ar	&rlm;‏إنه غرض سعره 12 دولاراً.‏ | 
+en	It's a $12 item. | 
+fr	Ça coûte 12 $. 
+he	&rlm;‏זה מוצר שעולה שניים עשר דולר.‏ | 
+it	Costano 12 dollari. 
+no	Den koster 12 dollar. 
+pr-br	Custa US$ 12. 
+pr	É um artigo de 12 dólares 
+ro	Costă doar 12 dolari. 
+sp-eu	Solo cuesta 12 dólares. 
+sp	Solo cuestan $12. 
+sv	De kostar 12 dollar. 
+th	มันแค่ 12 เหรียญ | 
+tr	12 dolarlık bir şey. 
+vi	Món đồ giá 12 đô la. | 
+zh-long	12元的東西 
+zh-short	售价才12美元 
+ko	12달러짜리를 | 
+fi	CD maksaa 12 dollaria. Ne pakataan kuin Hope-timantti. 
+pl	Płyta kosztuje 12 dolców, a zawijają ją jak diament Hope. 
+nl	Het is een artikel van $12. Ze pakken het in als de Hopediamant. 
+ru	Их упаковывают, как алмаз Хоупа. 
+el	Το τυλίγουν λες και είναι το Διαμάντι της Ελπίδας. 
+id	Mereka membungkusnya seolah-olah itu Hope Diamond. 
+no	De pakker den inn som om det er Hope-diamanten. 
+en	They got it wrapped up | like the Hope Diamond. | 
+ar	&rlm;‏يلفونه كما لو أنه "ماسة الأمل".‏ | 
+da	De pakker dem ind som Hope-diamanten. 
+fr	Et c'est emballé comme un diamant. 
+he	&rlm;‏הם עוטפים את זה כאילו שזה יהלום התקווה.‏ | 
+it	Li impacchettano come se contenessero il diamante Hope. 
+pr-br	Eles o embalaram como o Diamante Hope. 
+pr	e embrulham-no como se fosse o diamante Hope. 
+ro	Îl împachetează de parcă ar fi Diamantul Hope. 
+sp-eu	Pero lo envuelven como el diamante Hope. 
+sp	Los envuelven como si fueran el diamante Hope. 
+sv	De har dem inlåsta som Hope-diamanten. 
+th	ห่อมันอย่างกับเพชรโฮป | 
+tr	Pırlantaymış gibi paketliyorlar. 
+vi	Họ đóng gói nó như | viên kim cương Hope vậy. | 
+zh-long	包得像希望鑽石一樣 
+zh-short	他们把它包得跟希望之星似的 
+ko	무슨 호프 다이아몬드처럼 | 포장해두죠 | 
+

@@ -1,0 +1,27 @@
+id	Aku agak terlalu bersemangat saat membungkusnya. 
+ja	あんなふうに | 包む必要がある？ | 
+ar	&rlm;أعتقد أنهم يفرطون في لفها. | 
+da	Lidt for fanatisk med indpakningen er min fornemmelse. 
+el	Ίσως επέδειξα υπερβάλλοντα ζήλο κατά τη συσκευασία. 
+en	Just... a little bit overzealous | with the wrapping is my feeling. | 
+fi	Pakkaukset ovat mielestäni liioiteltuja. 
+fr	Ils font de l'excès de zèle. 
+he	&rlm;‏אני מרגיש שהם קצת נלהבים מדי עם העטיפה.‏ | 
+it	Secondo me sono troppo zelanti con quei pacchetti. 
+pl	Robi ją jakiś nawiedzony fanatyk. 
+pr	Acho que há excesso de zelo no invólucro. 
+pr-br	Acho que entusiasta demais com a embalagem. 
+ro	Se ambalează cu prea mult entuziasm, cred. 
+sp-eu	Creo que se pasan con el envoltorio. 
+sp	Siento que son demasiado exagerados con la envoltura. 
+sv	Det är lite överambitiöst att låsa in dem. 
+tr	Paket işini biraz abartıyoruz bence. 
+vi	Hăng hái với việc đóng gói | là cảm xúc của tôi. | 
+zh-long	我覺得有點過度包裝了 
+zh-short	我感觉有点包装过头了 
+nl	Iets te overijverig met dat inpakken. Wat is de beveiliging van dit ding? 
+ko	너무 열성적으로 포장한다 | 그런 느낌이에요 | 
+th	ตั้งใจห่อดีไปหน่อย คือความรู้สึกผม | 
+ru	Я считаю, перебарщивают с упаковкой. 
+no	Overdriver pakkingen, synes jeg. 
+

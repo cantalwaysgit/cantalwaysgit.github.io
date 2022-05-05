@@ -1,0 +1,29 @@
+ja	サンディ | 
+ru	Сэнди? 
+id	- Sandy? - Siapa itu? 
+ar	&rlm;‏‏- "ساندي"؟ | &rlm;‏- من أنت؟‏ | 
+da	-Sandy? -Hvem er det? 
+el	-Σάντι; -Ποιος είναι; 
+en	-[Firuz] Sandy? | -Who's that? | 
+fi	-Sandy? -Kuka siellä? 
+fr	- Sandy ? - Qui c'est ? 
+he	&rlm;‏‏סנדי? | &rlm;‏-מי זה?‏ | 
+it	- Sandy? - Chi è? 
+nl	Sandy? -Wie is dat? 
+no	-Sandy? -Hvem er det? 
+pl	- Sandy? - Kto to? 
+pr-br	-Sandy? -Quem é? 
+pr	- Sandy? - Quem é? 
+ro	- Sandy? - Cine e? 
+sp-eu	- ¿Sandy? - ¿Quién es? 
+sp	- ¿Sandy? - ¿Quién es? 
+sv	-Sandy? -Vem är det? 
+th	- แซนดี้ | - นั่นใคร | 
+tr	-Sandy? -Kim o? 
+vi	- Sandy? | - Ai vậy? | 
+zh-long	-山迪？ -誰？ 
+zh-short	-桑迪？ -是谁？ 
+ko	- 샌디? | - 누구세요? | 
+ja	誰？ | 
+ru	Кто это? 
+

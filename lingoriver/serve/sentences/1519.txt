@@ -1,0 +1,29 @@
+ja	昨日はごめん | 迷惑をかけたわ | 
+id	Aku berutang kepadamu soal semalam. 
+ru	Я у тебя в долгу за вчерашнее. 
+ar	&rlm;‏‏أنا مدينة لك بشأن ليلة البارحة. | &rlm;‏أشعر بالإحراج.‏ | 
+da	Jeg skylder dig for i går aftes. Jeg er flov. 
+el	Θα σου το χρωστάω για χθες. Νιώθω ντροπή. 
+en	I owe you for last night. | I'm embarrassed. | 
+fi	Olen palveluksen velkaa eilisestä. Minua nolottaa. 
+fr	Je te dois une fière chandelle. J'ai honte de moi. 
+he	&rlm;‏אני חייבת לך על אתמול בערב. אני מתביישת.‏ | 
+it	Ti devo un favore. Sono imbarazzata. 
+ko	어젯밤에는 빚졌어요 | 창피하네요 | 
+nl	Ik sta bij je in het krijt voor gisteravond. Wat gênant. 
+no	Jeg skylder deg for i går kveld. Det er flaut. 
+pl	Jestem twoją dłużniczką. Bardzo mi wstyd za wczoraj. 
+pr-br	Devo a você por ontem à noite. Estou envergonhada. 
+pr	Devo-te isso pela noite passada. Estou tão envergonhada. 
+ro	Îți sunt datoare pentru aseară. Sunt jenată. 
+sp	Estoy en deuda por lo de anoche. Qué vergüenza. 
+sp-eu	Te debo una por lo de anoche. Me da vergüenza. 
+sv	Jag är tacksam för igår kväll. Jag skäms. 
+th	เรื่องเมื่อคืนฉันเป็นหนี้คุณ | ฉันรู้สึกละอายใจ | 
+tr	Dün gece için sana borçluyum. Çok mahcubum. 
+vi	Tôi nợ anh chuyện tối quá. Tôi ngại quá. | 
+zh-long	昨晚欠你一次，我超丟臉的 
+zh-short	昨晚我欠你的 我觉得挺丢脸的 
+ru	Мне стыдно. 
+id	Aku malu. 
+

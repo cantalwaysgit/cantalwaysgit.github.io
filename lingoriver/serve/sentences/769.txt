@@ -1,0 +1,48 @@
+da	Og jeg vil leve i den drøm 
+en	♪ And when I wanna be | Is living in a dream ♪ | 
+id	Dan yang kuinginkan 
+th	และช่วงที่ฉันอยากอยู่ | 
+ru	И знаю, что хочу 
+ar	&rlm;‏وعندما أريد أن أكونه‏ | 
+el	Και αυτό που θέλω 
+fi	Mä tahdon nyt 
+fr	Et ce que je veux 
+he	&rlm;‏ומתי אני רוצה‏ | 
+it	E la parte che preferisco 
+ko	내가 원하는 건 | 
+nl	en het enige wat ik wil 
+pl	Tego chcę 
+pr-br	E quando quero estar 
+pr	E quando quero estar 
+ro	Și ceea ce vreau 
+sp-eu	Y cuando quiero estar 
+sp	Y lo que quiero hacer 
+sv	Och allt jag vill 
+tr	Benim istediğim 
+vi	Và khi em muốn | 
+zh-long	我只想待在 
+zh-short	并且我想 
+ja	夢のような | 　　幸せな現実があることを | 
+id	Adalah menghidupi mimpiku 
+ru	Жить в этом сне 
+ar	&rlm;‏هو العيش في حلم‏ | 
+el	Είναι να ζω σ' ένα όνειρο 
+fi	Elää unelmaa 
+fr	C'est vivre dans un rêve 
+he	&rlm;‏לחיות בתוך חלום‏ | 
+it	È vivere in un sogno 
+ko	꿈속에서 사는 것 | 
+nl	is leven in een droom 
+pl	Ten sen śnić 
+pr	A viver num sonho 
+pr-br	Vivendo em um sonho 
+ro	E să trăiesc un vis 
+sp	Es vivir un sueño 
+sp-eu	Viviendo en un sueño 
+sv	Är att leva i en dröm 
+th	คืออยู่ในความฝัน | 
+tr	Bir rüyada yaşamak 
+vi	Sống trong một giấc mơ | 
+zh-long	有你的夢裡 
+zh-short	活在梦里 
+

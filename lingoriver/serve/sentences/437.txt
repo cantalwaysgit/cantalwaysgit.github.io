@@ -1,0 +1,27 @@
+id	Tidak. Kau seorang penghibur. 
+ar	&rlm;‏‏- أنت المغنية. لا أشعر بالأمر. | &rlm;‏- هيا.‏ | 
+da	-Du er kunstneren. Jeg har det ikke. -Kom nu. 
+el	-Εσύ είσαι καλλιτέχνης. Δε μου βγαίνει. -Έλα. 
+en	-You're a performer. I don't do that. | -Come on, Sandy. | 
+fi	-Sinä se esiintyjä olet. -Tule vain. 
+fr	- C'est toi, l'artiste. Je le sens pas. - Allez. 
+he	&rlm;‏‏את אמנית. אני לא מרגיש את זה. | &rlm;‏-קדימה.‏ | 
+it	- Sei tu l'artista. Non me la sento. - Dai. 
+ko	- 난 예술인 느낌이 안 나 | - 어서 와 봐요 | 
+no	-Du er artist. Jeg kan ikke. -Kom igjen. 
+pl	- To ty jesteś piosenkarką. - No chodź. 
+pr-br	-Você é artista. Não tenho a manha. -Venha. 
+pr	- Tu és artista. Eu não tenho jeito. - Anda daí. 
+ro	- Tu ești artistă. Eu n-am simțul tău. - Hai! 
+sp-eu	- Tú eres artista. Yo no lo siento. - Vamos. 
+sp	- Tú eres la artista. Yo no hago eso. - Ven aquí. 
+sv	-Du är artist. Jag har inte känslan. -Kom igen. 
+th	- คุณเป็นนักแสดง ผมไม่รู้สึกแบบนั้น | - มาเถอะน่า | 
+tr	-Sanatçı olan sensin. Ben yapamam. -Hadi ama. 
+vi	- Cô là nghệ sĩ. Tôi không cảm được. | - Lên đi. | 
+zh-long	-妳才是藝人，我不需要拍照 -來嘛 
+zh-short	-你是表演者 我做不到 -来嘛 
+nl	Jij bent de performer. Ik voel dat niet. 
+ru	-Ты актриса. Я не умею. -Иди давай. 
+ja	タレントは君だ | 
+

@@ -1,0 +1,25 @@
+ja	出口はどこだ？ あっちか | 
+id	Aku tidak tahu... Pergi saja. Dia datang? 
+ar	&rlm;‏لا أدري. اذهبي. هل يأتي؟‏ | 
+da	Jeg ved ikke... Kommer han? 
+el	Δεν ξέρω πώς... Πάμε. Έρχεται; 
+en	I don't know where... | Go. Just go. Is he coming? | 
+fi	Äkkiä nyt. Tuleeko hän perässä? 
+fr	Je sais pas... Par là. Il arrive ? 
+he	&rlm;‏אני לא יודע... לכי. הוא בא?‏ | 
+it	Non so... Vai. Sta arrivando? 
+no	Jeg vet ikke... Gå. Kommer han? 
+pl	Którędy? Idzie za nami? 
+pr-br	Não sei... Vá. Ele está vindo? 
+pr	Não sei... Vai. Ele vem aí? 
+ro	Nu știu... Du-te! Vine după noi? 
+sp-eu	No sé... Vamos. ¿Viene? 
+sp	No lo sé. Vamos. ¿Nos sigue? 
+th	ไม่รู้สิ ไป เขามาหรือเปล่า | 
+tr	Bilmiyorum... Yürü. Geliyor mu? 
+vi	Tôi không biết... | Đi mau. Anh ta đang đến à? | 
+zh-long	我不知道怎麼…快走 他有跟來嗎？ 
+zh-short	我不知道 快走 他过来了吗？ 
+ko	어느 쪽이지? | 그냥 가, 따라오는 거야? | 
+ru	Пошли. Он не идет? 
+

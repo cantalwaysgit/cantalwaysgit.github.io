@@ -1,0 +1,26 @@
+id	Kau mau merasakannya? 
+en	You wanna... You wanna feel it? | 
+ru	Хочешь попробовать? 
+ja	ブン殴られたいか？ | 
+ar	&rlm;‏أتود أن تشعر بها؟‏ | 
+da	Vil du smage den? 
+el	Θες να το αισθανθείς; 
+fi	Haluatko maistaa tätä? 
+fr	Tu veux dérouiller ? 
+he	&rlm;‏אתה רוצה להרגיש את זה?‏ | 
+it	La vuoi sentire? 
+no	Vil du kjenne det? 
+pl	Chcesz go poczuć? 
+pr-br	Quer sentir? 
+pr	Queres senti-lo? 
+ro	Vrei s-o simți? 
+sp-eu	¿Quieres sentirlo? 
+sp	¿Quieres ver cómo se siente? 
+sv	Vill du känna på den? 
+th	อยากโดนมันไหม | 
+tr	Tadına bakmak ister misin? 
+vi	Muốn một đòn không? | 
+zh-long	想試試看嗎？ 
+zh-short	要感受一下吗？ 
+ko	한번 맞아볼래? | 
+

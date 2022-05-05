@@ -1,0 +1,27 @@
+id	Aku sedang berusaha. 
+ja	邪魔するな | 
+ru	Постараюсь. 
+th	พยายามอยู่ | 
+ar	&rlm;‏أنا أحاول.‏ | 
+da	Jeg prøver. 
+el	Προσπαθώ. 
+en	I'm trying. | 
+fi	Yritetään. 
+fr	C'est l'idée. 
+he	&rlm;‏אני מנסה.‏ | 
+it	Ci sto provando. 
+ko	노력해 볼게요 | 
+nl	Dat probeer ik. 
+no	Jeg prøver. 
+pl	Staram się. 
+pr-br	Estou tentando. 
+pr	Estou a tentar. 
+ro	Încerc. 
+sp	Eso intento. 
+sp-eu	Lo intentaré. 
+sv	Jag ska försöka. 
+tr	Denerim. 
+vi	Tôi đang cố. | 
+zh-long	我會的 
+zh-short	我会努力的 
+

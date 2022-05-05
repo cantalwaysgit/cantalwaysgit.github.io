@@ -1,0 +1,28 @@
+id	Tunggu dan pikirkan kembali. 
+ru	Давай минутку... 
+ja	時間をかけて よく考えて | 
+ar	&rlm;‏دعنا نفكر في الأمر قليلاً.‏ | 
+da	Lad os lige tænke over det. 
+el	Ας το σκεφτούμε για ένα λεπτό. 
+en	Let's take a minute and think it over. | 
+fi	Annetaan asian olla ja mietitään. 
+fr	Prenons le temps de réfléchir. 
+he	&rlm;‏בוא נמתין רגע ונחשוב על זה.‏ | 
+it	Prenditi un po' di tempo per pensarci. 
+ko	잠깐 시간을 갖고 생각해 봐요 | 
+nl	Neem de tijd om erover na te denken. 
+no	La oss tenke litt på det. 
+pr-br	Vamos dar um tempo para pensar melhor. 
+pr	Vamos esperar um minuto e pensar melhor. 
+ro	Să ne retragem o clipă și să ne gândim. 
+sp-eu	Vamos a tomarnos un momento para pensar. 
+sp	Tomémonos un minuto para pensarlo. 
+sv	Vi kan väl fundera på det. 
+th	รอแป๊บนึงแล้วค่อยทบทวนกัน | 
+tr	Bir dakika durup düşün. 
+vi	Hãy dành một phút suy nghĩ. | 
+zh-long	我們緩一緩，想一想 
+zh-short	我们花点时间好好考虑一下 
+pl	Przemyślmy to jeszcze. 
+ru	...подумаем. 
+

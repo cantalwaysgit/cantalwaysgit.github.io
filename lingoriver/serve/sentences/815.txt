@@ -1,0 +1,54 @@
+en	No, no, no, wait! | We are not permitted in the pool! Okay? | 
+id	Tunggu, kita tidak diizinkan berada di kolam. Paham? 
+ru	Нам нельзя в бассейн, слышите? Фируз запрещает. 
+ar	&rlm;‏‏مهلاً! لا يُسمح لنا | &rlm;‏باستخدام بركة السباحة! مفهوم؟‏ | 
+da	Vent. Vi må ikke bruge poolen. 
+el	Περιμένετε. Δεν επιτρέπεται να μπούμε στην πισίνα. 
+fi	Emme saa olla altaassa. 
+fr	On n'a pas le droit d'aller dans la piscine. 
+he	&rlm;‏חכו! אסור לנו להיכנס לבריכה. בסדר?‏ | 
+it	Non possiamo usare la piscina, chiaro? 
+ko	우린 수영장에 들어가면 안 돼 | 
+nl	We mogen het zwembad niet in. Oké? 
+no	Vi har ikke lov til å bruke bassenget. Ok? 
+pl	Nie możemy wchodzić do basenu! 
+pr-br	Esperem! Não podemos entrar na piscina. 
+pr	Esperem! Não podemos entrar na piscina. Está bem? 
+ro	N-avem voie să ne băgăm în piscină! Da? 
+sp	Espera. ¡No podemos meternos en la piscina! ¿De acuerdo? 
+sp-eu	Esperad, no podemos meternos en la piscina. ¿Vale? 
+sv	Vi har inte tillåtelse att vara i poolen. 
+th	เดี๋ยว เราไม่ได้รับอนุญาต | ให้ลงสระน้ำ ใช่ไหม | 
+tr	Durun! Havuza girmemize izin yok! Tamam mı? 
+vi	Khoan! Ta không được phép xuống bể bơi. | Được chứ? | 
+zh-long	慢著，游泳池禁止進入，好嗎？ 
+zh-short	等等 我们不能进泳池 好吗？ 
+ja	使用禁止なんだ！ | ファルースが禁じてる | 
+id	Firuz melarangnya. 
+ar	&rlm;‏‏- "فيروز" يمنع ذلك. | &rlm;‏- أنت لا تتبع طائفة، صحيح يا "ساندي"؟‏ | 
+da	-Firuz vil ikke have det. -Er du med i en kult, Sandy? 
+el	-Το απαγορεύει ο Φαρούζ. -Είσαι σε καμιά αίρεση; 
+en	-Firuz forbids it. | -You're not in a cult, are you, Sandy? | 
+fi	-Firuz kieltää. -Kuulutko johonkin lahkoon? 
+fr	- Firuz nous l'interdit. - C'est le gourou de ta secte ? 
+he	&rlm;‏‏פיירוז אוסר על זה. | &rlm;‏-אתה לא באיזו כת, נכון?‏ | 
+it	- Firuz ha messo il veto. - Non sarai in una setta? 
+ko	- 퍼루즈가 금지했어 | - 너 사이비 신자는 아니지? | 
+nl	Firuz verbiedt het. -Zit je bij een sekte? 
+no	-Firuz forbyr det. -Du er vel ikke med i en sekt? 
+pl	- Firuz zabrania. - To jakaś sekta? 
+pr-br	-Firuz proíbe. -Você não está em um culto, está? 
+pr	- O Firuz não permite. - Fazes parte de algum culto? 
+ro	- Firuz ne interzice. - Nu ești în vreo sectă, nu? 
+sp-eu	- Firuz lo prohíbe. - ¿Estás metido en una secta? 
+sp	- Firuz lo prohibió. - No eres parte de una secta, ¿no? 
+sv	-Firuz förbjuder det. -Du är väl inte med i nån sekt? 
+th	- ไฟรูซสั่งห้าม | - นายไม่ใช่พวกลัทธิเพี้ยนๆ ใช่ไหม | 
+tr	-Firuz yasak koydu. -Tarikata falan girmedin, değil mi? 
+vi	- Firuz cấm đấy. | - Anh không theo tôn giáo này à? | 
+zh-long	-菲魯茨不准 -你沒信什麼邪教吧？ 
+zh-short	-菲鲁兹禁止这么做 -你没参与什么邪教吧？ 
+id	Kau bukan anggota kultus, bukan, Sandy? 
+ja	カルト教団か？ | 
+ru	Ты что, входишь в секту? 
+

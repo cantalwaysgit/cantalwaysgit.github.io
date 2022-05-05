@@ -1,31 +1,4 @@
-ja	何だい？ コメントか | 
-id	Kita akan melakukan itu. Baiklah. 
-ru	А, уже пора. Вы начнете? 
-en	Oh, oh! We're gonna do the thing. Okay. | 
-ar	&rlm;هل ‏سنقوم بالأمر؟ حسناً. أتود أن تبدأ؟‏ | 
-da	Vi skal lave det der. Vil du begynde? 
-el	Να κάνουμε αυτό που λέγαμε; Θες να ξεκινήσεις; 
-fi	Ai, se juttu. Aloitatko? 
-fr	C'est maintenant. Tu commences ? 
-he	&rlm;‏אנחנו הולכים לעשות את זה. אתה רוצה להתחיל?‏ | 
-it	Dobbiamo fare quella cosa. Inizi tu? 
-nl	We gaan het doen. Wil jij beginnen? 
-no	Vi skal gjøre greia. Vil du begynne? 
-pl	Nagrywamy już. Zaczniesz? 
-pr-br	Vamos fazer aquilo. Quer começar? 
-pr	Vamos fazer aquilo. Queres começar? 
-ro	O să înregistrăm. Vrei să începi tu? 
-sp-eu	Vamos a hacer la cosa esa. ¿Quieres empezar? 
-sp	Vamos a hacerlo. ¿Quieres comenzar? 
-sv	Vi ska köra grejen. Vill du börja? 
-th	เราจะเริ่มแล้ว คุณอยากเริ่มไหม | 
-tr	Yapıyoruz, tamam. Başlamak ister misin? 
-vi	Chúng tôi sẽ làm. Anh muốn bắt đầu chưa? | 
-zh-long	要開始了，你先來吧？ 
-zh-short	我们要拍了 你要开始吗？ 
-ko	시작하는군요 | 먼저 하실래요? | 
-id	Baiklah. Kau mau memulainya? 
-en	All right, you want to start it off? | 
-ja	君から | 
-de	&lrm;再次抱歉吵醒你了 | 
+en	-You ready for this? | -Yeah, what's that? | 
+
+ja	&lrm;したわ | 
 

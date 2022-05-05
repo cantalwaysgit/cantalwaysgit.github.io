@@ -1,0 +1,27 @@
+ar	&rlm;‏إنه ليس محزناً، بل أمر جيد في الواقع.‏ | 
+da	Det er ikke trist. Det er faktisk godt. 
+el	Για την ακρίβεια, είναι καλό. 
+en	It's not sad. It's actually a good thing. | 
+fi	Se oli oikeastaan hyvä. 
+fr	Pas tant que ça. C'était une bonne chose. 
+he	&rlm;‏זה לא עצוב. למעשה זה דבר טוב.‏ | 
+id	Tidak, malah itu bagus. 
+it	Non c'è niente di triste. È stata una cosa positiva. 
+ko	슬픈 게 아니라 | 오히려 좋은 거야 | 
+nl	Nee. Dat is eigenlijk goed. 
+pl	Nie. Tak jest dobrze. 
+pr-br	Não é triste. Na verdade, é bom. 
+pr	Não é triste. Até é uma coisa boa. 
+ro	Nu e trist. De fapt, e bine. 
+ru	Не грустно. Это даже к лучшему. 
+sp-eu	No es triste. De hecho, es bueno. 
+sp	No es triste. En realidad, es algo bueno. 
+sv	Det är inte sorgligt. Det är en bra sak. 
+th	ไม่น่าเศร้าหรอก | จริงๆ แล้วมันเป็นเรื่องดี | 
+tr	Üzücü değil. Aslında iyi bir şey. 
+vi	Không buồn đâu. Tốt mà. | 
+zh-long	不感傷，這是好事 
+zh-short	不难过 这其实是件好事 
+ja	でも芸能界は最高だ | 
+no	Nei, det er faktisk veldig bra. 
+

@@ -1,0 +1,26 @@
+ar	&rlm;‏هذا صحيح يا ابن اللعينة!‏ | 
+da	Ja! Det er rigtigt, din skiderik! 
+el	Ακριβώς, κάθαρμα! 
+en	Yes! That's right, you son of a bitch! | 
+fi	Aivan, paskiainen! 
+fr	C'est bien vrai, petit enfoiré ! 
+he	&rlm;‏כן! בדיוק ככה, חתיכת בן זונה!‏ | 
+id	Ya! Benar, Berengsek! 
+it	Hai ragione, figlio di buona donna! 
+ko	그래, 들었다, 이 개자식아! | 
+no	Ja! Det stemmer, din drittsekk! 
+pl	Tak jest, sukinsynu! 
+pr-br	Sim! Exato, seu filho da puta! 
+pr	Sim! É verdade, seu filho da mãe! 
+ro	Da! Așa e, nenorocitule! 
+ru	Да, сукин ты сын! 
+sp-eu	¡Sí! ¡Es cierto, hijo de puta! 
+sp	¡Sí! Es cierto. ¡Hijo de puta! 
+sv	Det stämmer! Din jävel! 
+th	ใช่ ใช่แล้ว ไอ้เวรเอ๋ย | 
+tr	Evet! Bu doğru aşağılık herif! 
+vi	Phải! Đúng vậy, đồ khốn! | 
+zh-long	沒錯，你這王八蛋！ 
+zh-short	对！是的 你个混球！ 
+ja	そのとおりだぜ | クソったれ | 
+

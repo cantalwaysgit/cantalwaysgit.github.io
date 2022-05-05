@@ -1,0 +1,25 @@
+ru	Присаживайся, Сэнди. 
+fi	Käy istumaan. 
+ar	&rlm;‏لم لا تجلس يا "ساندي"؟‏ | 
+da	Sid ned, Sandy. 
+el	Γιατί δεν κάθεσαι, Σάντι; 
+en	Why don't you sit down, Sandy? [chuckles] | 
+fr	Assieds-toi donc. 
+he	&rlm;‏למה שלא תשב, סנדי?‏ | 
+id	Duduklah, Sandy. 
+it	Perché non ti siedi, Sandy? 
+ko	앉으세요, 샌디 | 
+pl	Usiądź sobie. 
+pr-br	Por que não se senta, Sandy? 
+pr	Porque não te sentas, Sandy? 
+ro	Ce-ar fi să stai jos, Sandy? 
+sp-eu	¿Por qué no te sientas, Sandy? 
+sp	¿Por qué no te sientas, Sandy? 
+sv	Sätt dig, Sandy. 
+th	ทำไมไม่นั่งลงล่ะ แซนดี้ | 
+tr	Otursana Sandy. 
+vi	Anh ngồi xuống đây nhé, Sandy? | 
+zh-long	先坐下吧，山迪 
+zh-short	坐吧 桑迪？ 
+no	Vil du ikke sette deg, Sandy? 
+

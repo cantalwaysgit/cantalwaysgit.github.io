@@ -1,0 +1,79 @@
+ru	Вы же видите! Король Голливуда! 
+ja	ハリウッドの王様だぞ | 分かったか？ | 
+id	Perhatikan wajah ini. Raja Hollywood. Paham? 
+ar	&rlm;‏شاهدا الوجه. أنا ملك "هوليوود".‏ | 
+da	Se ansigtet. Kongen af Hollywood. 
+el	Κοιτάξτε το πρόσωπό μου. Είμαι ο Βασιλιάς του Χόλιγουντ. 
+en	Get to see the face. | The king of Hollywood. | 
+fi	Nämä kasvot. Hollywoodin kuningas. 
+fr	Regardez-moi. Je suis le roi d'Hollywood. 
+he	&rlm;‏תסתכל על הפנים. המלך של הוליווד.‏ | 
+it	Guardatemi in faccia. Il re di Hollywood. 
+ko	얼굴 좀 봐 | 할리우드의 왕이라고 | 
+no	Se på ansiktet. Kongen av Hollywood. 
+pl	Spójrzcie. To twarz króla Hollywoodu. 
+pr-br	Vejam a minha cara. O rei de Hollywood. 
+pr	Fixem bem a cara. O rei de Hollywood. 
+ro	Uitați-vă bine la fața asta! Regele Hollywoodului. 
+sp-eu	Miradme a la cara. El rey de Hollywood. 
+sp	Mírenme el rostro. El rey de Hollywood. 
+sv	Lär er mitt ansikte. Kungen av Hollywood. 
+th	รู้จักหน้าตากัน ราชาฮอลลีวูด | 
+tr	Yüzümü görüyorsunuz. Hollywood'un kralı. 
+vi	Nhìn mặt tao này. Vua Hollywood đấy. | 
+zh-long	好好看看這張臉，好萊塢之王 
+zh-short	好好看看我的脸 好莱坞国王 
+nl	Kijk naar het gezicht. De koning van Hollywood. Begrepen? 
+en	Do you understand me? | 
+fr	Compris ? 
+ko	알았어? | 
+ar	&rlm;‏‏- أتفهمان؟ | &rlm;‏- "ساندي"؟‏ | 
+da	-Forstår I det? -Sandy? 
+el	-Καταλάβατε; -Σάντι; 
+fi	-Tajuatteko? -Sandy? 
+he	&rlm;‏‏אתה מבין? | &rlm;‏-סנדי?‏ | 
+it	- Avete capito? - Sandy? 
+no	-Forstått? -Sandy? 
+pl	- Rozumiecie? - Sandy? 
+pr-br	-Entenderam? -Sandy? 
+pr	- Compreendem? - Sandy? 
+ro	- Înțelegeți? - Sandy? 
+sp	- ¿Comprenden? - ¿Sandy? 
+sp-eu	- ¿Entendido? - ¿Sandy? 
+sv	-Hajar ni? -Sandy. 
+th	- เข้าใจไหม | - แซนดี้ | 
+tr	-Anlıyor musunuz? -Sandy? 
+vi	- Chúng mày hiểu không? | - Sandy? | 
+zh-long	-懂嗎？ -山迪？ 
+zh-short	-你们懂了吗？ -桑迪？ 
+ru	Вы поняли? 
+
+cs	Já si ksichty nepamatuju. Ani ten vlastní máti. 
+da	Jeg husker ikke ansigter, | ikke engang min mors. | 
+el	Δεν θυμάμαι πρόσωπα, ούτε καν τη μάνα μου. 
+en	I don't have an eye for faces. I can't even remember my mom's. 
+es-eu	No tengo buena memoria para las caras. 
+fi	Kasvomuistini on huono. | En muista omaa äitiäni. | 
+fr	Je ne suis pas physionomiste. Même avec ma mère. 
+he	‫אין לי זיכרון טוב לפרצופים.‬ | ‫לא זוכר גם את של אמא שלי.‬ | 
+hr	Ne pamtim baš lica. Ne sjećam se ni majčina. 
+hu	Nem jó az arcmemóriám. Anyámra sem emlékszem. 
+id	Aku tak pandai mengingat wajah, bahkan wajah ibuku. 
+it	Non ricordo le facce, neanche quella di mamma. 
+ja	&lrm;顔は覚えてない | &lrm;母親のも忘れた | 
+ko	&lrm;얼굴을 잘 못 알아봐서요 | &lrm;엄마 얼굴도 기억 안 나요 | 
+ms	Saya tak pandai cam muka. Muka mak sendiri pun tak ingat. 
+nl	Ik ben slecht met gezichten. Zelfs dat van m'n moeder. 
+no	Jeg er ikke så god med fjes. Husker ikke mammas. 
+pt-br	Não sou bom de guardar rostos, nem o da minha mãe eu lembro. 
+pt	Não sou bom com caras. Nem me lembro da da minha mãe. 
+ro	Nu țin minte fețele. Nici mama nu știu cum arată. 
+ru	Я плохо запоминаю лица. Маму-то свою не помню. 
+sv	Jag har uselt ansiktsminne. Jag minns knappt mammas. 
+th	&lrm;ผมจำหน้าคนไม่เก่ง หน้าแม่ยังจำไม่ได้เลย | 
+tr	Ben yüz hatırlayamam, anneminkini bile unuturum. 
+uk	У мене погана пам'ять на обличчя. Навіть маминого не пам'ятаю. 
+vi	&lrm;Tôi nhớ mặt kém lắm. | &lrm;Tôi còn chả nhớ mặt mẹ mình. | 
+zh-long	我不太會認人，連自己母親都認不得 
+zh-short	我是个脸盲 连我妈的长相都记不住 
+

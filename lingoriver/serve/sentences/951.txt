@@ -1,0 +1,28 @@
+ru	Класс. 
+ar	&rlm;‏حسناً، رائع. هل نذهب إلى الحفلة؟‏ | 
+da	Cool. Skal vi tage til fest? 
+el	Εντάξει. Ωραία. Να πάμε στο πάρτι τώρα; 
+en	Okay, cool. | So should we go to the party? | 
+fi	Selvä. Lähdetäänkö juhliin? 
+fr	D'accord, super. On y va ? 
+he	&rlm;‏בסדר, מגניב. אז שנלך למסיבה שלו?‏ | 
+id	Baiklah. Kita pergi ke pestanya? 
+it	Forte. Allora, andiamo alla festa? 
+ko	재밌네요, 이제 가볼까요? | 
+nl	Oké. Zullen we naar het feest gaan? 
+pl	Fajnie. To jak, jedziemy? 
+pr-br	Legal. Então vamos à festa? 
+pr	Está bem, porreiro. Vamos para a festa? 
+ro	Grozav! Mergem acum la petrecere? 
+sp	Bien. Genial. ¿Vamos a la fiesta? 
+sp-eu	Vale, guay. ¿Vamos a la fiesta? 
+sv	Coolt. Ska vi gå på festen? 
+th	โอเค เจ๋ง เราไปงานปาร์ตี้กันดีไหม | 
+tr	Peki, süper. Partiye gidelim mi o hâlde? 
+vi	Vâng, được rồi. Ta nên đến bữa tiệc chứ? | 
+zh-long	好的，那我們要去了嗎？ 
+zh-short	好吧 很好 那我们要去派对吗？ 
+ja	そう　パーティーへ行く？ | 
+no	Så skal vi dra på festen? 
+ru	Ну что, на вечеринку? 
+

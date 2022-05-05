@@ -1,0 +1,28 @@
+en	It was, uh, not a vacation. | My mother died. | 
+ar	&rlm;‏‏لم تكن إجازة. فقد توفيت والدتي | &rlm;‏وذهبت إلى "سينسيناتي" من أجل الجنازة.‏ | 
+da	Det var ikke ferie. Min mor døde. Jeg var til begravelse. 
+el	Δεν ήταν διακοπές. Πέθανε η μητέρα μου και πήγα στην κηδεία. 
+fi	Ei se loma ollut. Olin äitini hautajaisissa. 
+fr	Ma mère est morte. Je suis allé l'enterrer. 
+he	&rlm;‏‏זו לא הייתה חופשה. אימא שלי מתה. | &rlm;‏נסעתי להלוויה שלה.‏ | 
+it	Non era una vacanza. Mia madre è morta. Sono andato al suo funerale. 
+ko	휴가가 아니라 어머니가 | 돌아가셔서 장례식에 다녀왔어요 | 
+nl	Dat was geen vakantie. Ik ging naar de begrafenis van mijn moeder. 
+pl	Nie jechałem na wakacje, tylko na pogrzeb matki. 
+pr-br	Não eram férias. A minha mãe faleceu. Fui para o funeral. 
+pr	Não foram férias. A minha mãe morreu. Fui lá para o funeral. 
+ro	N-a fost vacanță. A murit mama. Am fost la înmormântare. 
+sp-eu	No fueron vacaciones. Se murió mi madre. Fui al funeral. 
+sp	No fueron vacaciones. Murió mi madre. Fui a su funeral. 
+sv	Det var ingen semester. Mamma dog. Jag var där för begravningen. 
+th	ไม่ใช่การพักผ่อน แม่ผมตาย | ผมไปงานศพ | 
+tr	Tatil değildi. Annem öldü. Cenazeye gittim. 
+vi	Không phải kỳ nghỉ. Mẹ tôi mất. | Tôi đi dự lễ tang. | 
+zh-long	我不是去度假的，我媽過世了 我是去辛辛那提參加葬禮 
+zh-short	不是度假 我妈去世了 我是去参加葬礼的 
+id	Itu bukan liburan. Ibuku meninggal. Aku ke Cincinnati untuk pemakaman. 
+ru	Я не отдыхал. Моя мама умерла. Я был на похоронах. 
+ja	休暇ではなく | 母の葬儀に行ったんです | 
+no	Det var ikke en ferie. Moren min døde. Jeg var i begravelsen. 
+en	I went to Cincinnati for the funeral. | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏لكنه ليس مضحكاً هكذا. يا لروعتك.‏ | 
+da	Ikke så sjov som det. Se lige dig. 
+el	Όχι όσο εσύ, όμως. Για δες. 
+fr	Pas autant que toi. Dites donc. 
+he	&rlm;‏לא מצחיק כמו זה. תראי אותך.‏ | 
+it	Ma non divertente quanto te. Guardati. 
+pr-br	Bem, não tão engraçado. Olha só para você. 
+pr	Não tão engraçado como isso. Vejam só. 
+ro	Dar nu așa de amuzant. Uită-te la tine! 
+sp-eu	Bueno, no tanto como eso. Fíjate. 
+sp	No tanto como tú. Mírate. 
+sv	Inte lika kul som detta. Se på dig. 
+th	อาจไม่ตลกเท่านั้น ดูคุณสิ | 
+tr	Ama bu kadar komik değildi. Şuna bak. 
+vi	Cũng không buồn cười bằng như thế. | Nhìn chị kìa. | 
+zh-long	也沒那麼好笑，看看妳 
+zh-short	也没那么搞笑 看看你 
+nl	Maar niet zo grappig als dat. Kijk jou eens. 
+en	Well, not as funny as that. | Look at you. [laughs] | 
+id	Tapi tidak selucu itu. Lihatlah dirimu. 
+ja	君も相当な問題児だね | 
+ru	Но не так, как это. Ну ты даешь! 
+fi	Ei ihan noin hauska. Kappas. 
+ko	이것만큼은 아니지만요 | 당신 좀 봐요 | 
+no	Ikke så morsom som deg. Se på deg. 
+pl	Ty jesteś zabawniejsza. Spójrz tylko. 
+

@@ -1,0 +1,25 @@
+ar	&rlm;‏صحيح.‏ | 
+da	Jep. 
+fr	Voilà. 
+he	&rlm;‏בדיוק.‏ | 
+it	Esatto. 
+ko	맞아 | 
+pr-br	Beleza. 
+pr	Certo. 
+ro	Sigur. 
+sp	Eso. 
+sp-eu	Exacto. 
+sv	Exakt. 
+th	ใช่แล้ว | 
+tr	Aynen. 
+vi	Phải rồi. | 
+zh-long	沒錯 
+zh-short	对 
+en	-Righto. | -[hangs up] | 
+el	Ακριβώς. 
+id	Benar. 
+no	Greit. 
+pl	Dobra. 
+ru	Точно. 
+ja	そうだ | 
+

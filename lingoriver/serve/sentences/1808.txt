@@ -1,0 +1,27 @@
+pl	To nie żarcie dla psów? 
+ru	«Бекон Битс»? Это же вроде собачий корм? 
+ar	&rlm;‏ما هي؟ أليست طعام كلاب؟‏ | 
+da	Baconstykker? Hvad er det? Er det ikke hundemad? 
+el	Κροκέτες μπέικον; Δεν είναι σκυλοτροφή αυτό; 
+en	Bacon Bits? What is that? | That's a dog food, no? | 
+fi	Mitä ne ovat? Koiranruokaa? 
+fr	C'est quoi, ça ? De la bouffe pour chiens ? 
+he	&rlm;‏"בייקון ביטס"? מה זה? זה אוכל לכלבים, לא?‏ | 
+it	Bacon Bits? Ma non è cibo per cani? 
+nl	Bacon Bits? Wat is dat? Dat is toch hondenvoer? 
+no	Bacon Bits? Hva er det? Er ikke det hundemat? 
+pr	Aparas de  bacon? O que é isso? Comida de cão? 
+pr-br	Bacon Bits? O que é isso? É comida de cachorro, não é? 
+ro	Boabe cu șuncă? Ce-s alea? E mâncare pentru câini, nu? 
+sp-eu	¿Bacon Bits? Eso es comida para perros, ¿no? 
+sp	¿Trocitos de tocino? ¿Qué es eso? ¿No es comida para perros? 
+th	เบคอนบิตส์เรอะ อะไรน่ะ | อาหารหมาหรือเปล่า | 
+tr	Bacon Bits mi? O ne? Köpek maması, değil mi? 
+vi	Thịt xông khói vụn? Là cái gì thế? | Đồ ăn cho chó, không phải chứ? | 
+zh-long	培根丁？什麼東西？ 那不是狗食嗎？ 
+zh-short	培根粒？那是什么？不是狗食吗？ 
+ko	베이컨 비츠? 그게 뭐야? | 개밥 아니야? | 
+sv	-Baconbitar? Det är ju hundmat. -Nej, så stod det inte på förpackningen. 
+id	Bacon Bits? Apa itu? Itu makanan anjing? 
+ja	そりゃ何だ　犬のエサか？ | 
+

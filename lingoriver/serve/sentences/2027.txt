@@ -1,0 +1,27 @@
+ja	頑張って鍛えたから | 太ももと尻が引き締まってる | 
+id	Dia memiliki otot paha yang kuat berkat ThighMaster. 
+ru	А еще у него мускулистые бедра благодаря «Тай-мастеру». 
+en	He has surprisingly muscular quads | due to the ThighMaster. | 
+ar	&rlm;‏‏لديه عضلات فخذين قوية | &rlm;‏بفضل جهاز تمرين الفخذين.‏ | 
+da	Han har overraskende mange muskler på grund af ThighMaster. 
+el	Έχει απρόσμενα γυμνασμένους τετρακέφαλους, που οφείλονται στο Thigh Master. 
+fi	Hänellä on yllättävän lihaksikkaat reidet ThighMasterin ansiosta. 
+fr	Il a des quadriceps de folie grâce à son ThighMaster. 
+he	&rlm;‏‏יש לו שרירי ירך חזקים באופן מפתיע | &rlm;‏הודות למחטב הירכיים.‏ | 
+it	Ha dei quadricipiti notevoli grazie al ThighMaster. 
+nl	Hij heeft gespierde dijen, dankzij de ThighMaster. 
+no	Han har overraskende store lårmuskler takket være ThighMaster. 
+pl	Dzięki thighmasterowi ma zaskakująco umięśnione uda. 
+pr-br	Ele tem quadríceps incríveis devido ao ThighMaster. 
+pr	Tem coxas surpreendentemente musculadas por causa do ThighMaster. 
+ro	Are un cvadriceps surprinzător de frumos datorită flexorului pentru picioare. 
+sp-eu	Tiene unos cuádriceps sorprendentemente musculados gracias al ThighMaster. 
+sp	Tiene cuádriceps muy musculosos gracias al ThighMaster. 
+sv	Han har fått fina muskler tack vare ThighMastern. 
+th	เขามีกล้ามเนื้อต้นขาที่น่าแปลกใจ | เพราะเครื่องกระชับต้นขา | 
+tr	ThighMaster sayesinde şaşırtıcı derecede güçlü kasları var. 
+vi	Anh ta có cơ đùi khỏe bất ngờ | nhờ máy ThighMaster. | 
+zh-long	那個人四肢發達，多虧了美腿器 
+zh-short	因为用了腿媚施 他的股四头肌出奇地结实 
+ko	허벅지 운동도 해서 | 다리가 놀랍도록 튼튼해 | 
+

@@ -1,0 +1,26 @@
+ar	&rlm;‏شكراً لك يا "ويلي".‏ | 
+da	Tak, Willy. 
+el	Ευχαριστώ, Γουίλι. 
+en	Yeah, thank you, Willy. | 
+fi	Kiitos, Willy. 
+fr	Merci, Willy. 
+he	&rlm;‏כן, תודה, וילי.‏ | 
+id	Ya, terima kasih, Willy. 
+it	Grazie, Willy. 
+ko	네, 고마워요, 윌리 | 
+pl	Dziękuję, Willy. 
+pr-br	Sim, obrigado, Willy. 
+pr	Sim, obrigado, Willy. 
+ro	Da, mulțumesc, Willy. 
+ru	Спасибо, Уилли. 
+sp-eu	Sí, gracias, Willy. 
+sp	Sí, gracias, Willy. 
+sv	Tack, Willy. 
+th	ครับ ขอบคุณ วิลลี่ | 
+tr	Evet, sağ ol Willy. 
+vi	Phải, cảm ơn, Willy. | 
+zh-long	謝啦，威利 
+zh-short	好的 谢谢 威利 
+ja	どうも ウィリー | 
+no	Ja, takk, Willy. 
+

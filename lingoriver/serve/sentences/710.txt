@@ -1,0 +1,52 @@
+ru	Так или иначе. 
+id	Karena basa-basinya sudah selesai, 
+fi	Nyt kun muodollisuudet on hoidettu... 
+ja	堅苦しい挨拶(あいさつ)は省こう | 皆 ジュースはもらったね？ | 
+ar	&rlm;‏بعد أن انتهينا من الرسميات،‏ | 
+da	Nu hvor vi har klaret formaliteterne... 
+el	Μιας και ολοκληρώσαμε τις τυπικότητες, 
+en	So anyway, now that we got | the formalities out of the way... | 
+fr	Les présentations sont faites. 
+he	&rlm;‏עכשיו שסיימנו עם העניינים הרשמיים...‏ | 
+it	Abbiamo sbrigato le formalità e... 
+nl	Nu de formaliteiten achter de rug zijn... 
+no	Nå som formalitetene er unnagjort... 
+pl	Formalności już za nami. 
+pr-br	Agora que estamos mais à vontade... 
+pr	Já tratámos das formalidades... 
+ro	Acum, trecând peste formalități, 
+sp	Ahora dejemos de lado las formalidades... 
+sp-eu	Una vez hechas las presentaciones... 
+th	ตอนนี้พิธีการจบไปแล้ว | 
+tr	Formaliteleri hallettiğimize göre... 
+vi	Chúng ta bỏ qua phần nghi thức... | 
+zh-long	我們就不拘泥形式了 
+zh-short	礼节寒暄到此结束 
+ko	정식 절차는 필요 없겠군요 | 
+sv	Nu när vi har klarat av formaliteterna... Har alla fått sin fruitopia? Bra. 
+ru	С формальностями покончили. У всех есть «Фрутопия»? Отлично. 
+id	kalian sudah dapat Fruitopia? 
+pl	Każdy ma swój napój? Dobrze. 
+el	πήραν όλοι αναψυκτικό; Ωραία. 
+th	ทุกคนได้ฟรุตโทเปียแล้วใช่ไหม ดีๆ | 
+ar	&rlm;هل حصل الجميع على الشراب بنكهة الفواكه؟  | &rlm;جيد.‏ | 
+da	Har alle fået en Fruitopia? Godt. 
+en	Everybody got their Fruitopia? | Good, good, good. | 
+fi	Onhan kaikilla Fruitopia? Hyvä. 
+fr	Tout le monde a son jus de fruit ? Nickel. 
+he	&rlm;‏כולם קיבלו את משקה הפירות שלהם? טוב.‏ | 
+it	Avete tutti la Fruitopia? Bene. 
+nl	Heeft iedereen zijn Fruitopia? Mooi. 
+pr-br	Todos têm seu Fruitopia? Ótimo. 
+pr	Já todos têm Fruitopia? Ótimo. 
+ro	v-ați primit sucurile? Bine. 
+sp-eu	¿Tenéis todos vuestra Fruitopia? Bien. 
+sp	¿Todos tienen su gaseosa? Bien. 
+tr	Herkes Fruitopia'sını aldı mı? Güzel. 
+vi	Mọi người có đồ uống cả chưa? Tốt lắm. | 
+zh-long	大家都拿到飲料了吧？很好 
+zh-short	大家拿到饮料了吗？ 好 很好 
+no	Har alle fått Fruitopia? Bra. Jeg snakket med Barry. 
+ko	다들 프루토피아 한 병씩 | 받으셨죠? | 
+id	Bagus. 
+

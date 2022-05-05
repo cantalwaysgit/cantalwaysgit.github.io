@@ -1,0 +1,28 @@
+ja	ヒゲをなでるんじゃなくて | エッチな想像をして | 
+id	Bukan seperti mengusap janggut, tapi memikirkan hal kotor. 
+en	Not like you're stroking a beard. | 
+ar	&rlm;‏‏ليس وكأنك تعبثين بلحية، | &rlm;‏بل كأنك تفكرين في أفكار قذرة.‏ | 
+da	Ikke som hvis du stryger dit skæg. Som hvis du har en beskidt tankegang. 
+el	Όχι σαν να χαϊδεύεις τη γενειάδα σου, αλλά σαν να κάνεις βρόμικες σκέψεις. 
+fi	Ei niin kuin sivelisit partaa, vaan kuin ajattelisit jotain rivoa. 
+fr	Pas comme si tu caressais une barbe. Comme si tu avais des pensées impures. 
+he	&rlm;‏‏לא כאילו שאת מלטפת זקן, | &rlm;‏כאילו שאת חושבת מחשבות מלוכלכות.‏ | 
+it	Non come se ti toccassi la barba, come se pensassi a qualcosa di sconcio. 
+nl	Niet alsof je je baard aait, maar alsof je aan stoute dingen denkt. 
+no	Ikke som om du stryker skjegget, men som om du tenker frekke tanker. 
+pl	Nie głaszcz zarostu, bo go nie masz. Myśl o sprośnościach. 
+pr-br	Não tipo mexendo na barba, finja que está com pensamentos safados. 
+pr	Não como se estivesses a coçar a barba. Como se tivesses pensamentos obscenos. 
+ro	Nu ca și cum ai scărmăna o barbă, ci ca și cum te-ai gândi la ceva obscen. 
+ru	С намеком не на бороду, а на грязные мыслишки. 
+sp-eu	No como si te acariciases la barba. Como si pensaras guarrerías. 
+sp	No como si te rascaras la barba, sino como si tuvieras ideas sucias. 
+sv	Inte som om du kliar dig i skägget, utan som om du tänker snuskiga tankar. 
+th	ไม่ใช่ลูบเครา | เอาแบบกำลังคิดอะไรลามก | 
+tr	Sakalını sıvazlar gibi değil, muzır şeyler düşünüyormuş gibi. 
+vi	Không phải giống như vuốt ria, | như cô đang có ý nghĩ tục tĩu. | 
+zh-long	不是叫妳摸鬍子 像在想什麼壞念頭 
+zh-short	别弄得像在揪胡子似的 是在想些下流的事情 
+ko	턱수염 쓰다듬듯이 하지 말고 | 더러운 생각 하듯 해 봐요 | 
+en	Like you're thinking, | thinking filthy thoughts. | 
+

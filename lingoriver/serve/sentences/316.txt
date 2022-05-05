@@ -1,0 +1,26 @@
+ar	&rlm;‏كيف حالك؟‏ | 
+da	Hvordan går det? 
+el	Πώς είσαι; 
+en	How you doing? | 
+fi	Mitä kuuluu? 
+fr	La forme ? 
+he	&rlm;‏מה שלומך?‏ | 
+it	Come stai? 
+ko	어떻게 지내세요? | 
+pl	Co u ciebie? 
+pr-br	Como vai? 
+pr	Como estás? 
+ro	Ce mai faci? 
+sp	¿Cómo estás? 
+sp-eu	¿Qué tal estás? 
+th	สบายดีไหมคะ | 
+tr	Nasılsın? 
+vi	Bố khỏe chứ? | 
+zh-long	你好嗎？ 
+zh-short	你好吗？ 
+id	Apa kabar? 
+ru	Как дела? 
+sv	-Hur mår du? -Det känns bra när jag träffar min dotter. 
+ja	元気？ | 
+no	Hvordan går det? 
+

@@ -1,0 +1,29 @@
+id	- Dia tidak punya mikrofon sendiri? - Tidak, lihatlah. 
+ja	彼専用のマイクは？ | 
+ru	-У него своего микрофона нет? -Слушай, слушай. 
+en	He doesn't have his own microphone? | 
+no	-Har han ikke sin egen mikrofon? -Nei, se nå. 
+th	- เขาไม่มีไมโครโฟนของตัวเองเหรอ | - ไม่ ดูสิ | 
+ar	&rlm;‏‏- أليس لديه مايكروفونه الخاص به؟ | &rlm;‏- لا، شاهد هذا.‏ | 
+da	-Har han ikke sin egen mikrofon? -Nej, prøv at se. 
+el	-Δεν έχει δικό του μικρόφωνο; -Όχι, δες. 
+fi	-Eikö hänellä ole omaa mikkiä? -Katso nyt. 
+fr	- Il n'a pas de micro ? - Non, regarde. 
+he	&rlm;‏‏אין לו מיקרופון משלו? | &rlm;‏-לא, תראה את זה.‏ | 
+it	- Non ha un microfono suo? - No, guarda. 
+ko	- 마이크 같이 써야 해? | - 계속 들으세요 | 
+nl	Heeft hij geen eigen microfoon? 
+pl	- Nie ma swojego mikrofonu? - Nie, tak jest dobrze. 
+pr-br	-Ele não tem o próprio microfone? -Não, veja só. 
+pr	- Ele não tem microfone próprio? - Não, topa só. 
+ro	- El n-are microfonul lui? - Nu. Uite! 
+sp-eu	- ¿No tiene micrófono él? - No. Fíjate. 
+sp	- ¿No tiene su propio micrófono? - No, mira. 
+sv	-Har han ingen egen mick? -Nej, kolla in det här. 
+tr	-Kendi mikrofonu yok mu? -Hayır, baksana. 
+vi	- Anh ta không có míc riêng à? | - Không, xem kìa. | 
+zh-long	-他沒有自己的麥克風嗎？ -沒有，你看 
+zh-short	-他自己没麦克风吗？ -没有 看好了 
+ja	一緒でいい | 
+en	No, no, check it out. | 
+

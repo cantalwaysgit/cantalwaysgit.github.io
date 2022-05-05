@@ -1,0 +1,28 @@
+id	Apa? Dia bisa kehabisan napas? Itukah maksudmu? 
+ru	Что? 
+ar	&rlm;‏ماذا؟ ستختنق؟ أهذا ما تقوله؟‏ | 
+da	Hvad? Hun bliver kvalt. Er det det, du vil sige? 
+el	Τι; Θα πάθει ασφυξία; Αυτό μου λες; 
+en	What? She'll suffocate? | Is that what you're saying? | 
+fi	Hän tukehtuu. Sitäkö tarkoitat? 
+fr	Quoi ? Elle va étouffer ? C'est ça ? 
+he	&rlm;‏מה? היא תיחנק? זה מה שאתה אומר?‏ | 
+it	Che c'è? Pensi che soffocherà? 
+ko	왜? 질식할 거라고? | 그 소리야? | 
+nl	Wat? Zal ze stikken? Bedoel je dat? 
+no	Hva? Blir hun kvalt? Er det det du sier? 
+pl	Co? Udusi się? 
+pr-br	Quê? Ela vai sufocar? É isso que está dizendo? 
+pr	O que foi? Ela sufoca? É isso que estás a dizer? 
+ro	Ce e? O să se sufoce? Asta zici? 
+sp-eu	¿Qué? ¿Se va a asfixiar? ¿Es eso? 
+sp	¿Qué? ¿Se asfixiará? ¿Eso crees? 
+sv	Vadå? Kan hon kvävas? Är det vad du menar? 
+th	อะไร เธอจะหายใจไม่ออกใช่ไหม | จะพูดอย่างนั้นใช่ไหม | 
+tr	Ne? Boğulur mu? Onu mu diyorsun? 
+vi	Sao? Cô ấy sẽ ngạt thở à? | Anh định nói thế hả? | 
+zh-long	怎樣？她會窒息而死？ 你是這個意思嗎？ 
+zh-short	什么？她会窒息？你是这个意思吗？ 
+ru	Она задохнется? Ты об этом? 
+ja	窒息するか？ | 
+

@@ -1,0 +1,27 @@
+ko	- 당장 나가라고! | - 갈게요 | 
+ja	早く出ていけ！ | 
+id	- Sekarang! Keluar! - Aku akan pergi. 
+ru	-Сейчас же! Вон! -Я уйду. 
+ar	&rlm;‏‏- الآن! اخرج! | &rlm;‏- سأغادر.‏ | 
+da	-Ud nu! -Jeg går nu. 
+el	-Τώρα! Έξω! -Θα φύγω τώρα. 
+en	-Now! Out! Out! | -[stammers] I'm gonna leave. | 
+fi	-Ulos nyt heti! -Lähdetään sitten. 
+fr	- Dehors ! Allez ! - Je m'en vais. 
+he	&rlm;‏‏עכשיו! החוצה! | &rlm;‏-אני הולך.‏ | 
+it	- Subito! Fuori! - Me ne vado. 
+nl	Wegwezen. -Ik ga. 
+no	-Nå! Ut! -Jeg skal gå. 
+pl	- Wynocha! - Idę. 
+pr-br	-Agora! Fora! -Vou embora. 
+pr	- Já! Fora! - Eu vou-me embora. 
+ro	- Acum! Afară! - O să plec. 
+sp	- ¡Ahora! ¡Fuera! - Me iré. 
+sp-eu	- ¡Ahora! ¡Fuera! - Me voy. 
+sv	-Nu! Ut! -Jag ska gå. 
+th	- เดี๋ยวนี้ ออกไป ไป! | - ผมจะไปแล้ว | 
+tr	-Hemen! Dışarı! -Gidiyorum. 
+vi	- Đi ngay! Cút! | - Tôi sẽ đi. | 
+zh-long	-馬上滾出去！ -我要出去了 
+zh-short	-立刻！滚出去！ -我这就走 
+

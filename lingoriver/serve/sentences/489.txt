@@ -1,0 +1,27 @@
+ar	&rlm;‏‏أبتسم على حقيقة أنك قد تغدو | &rlm;‏الكابتن "كانغرو" الجديد.‏ | 
+da	Jeg smiler bare, fordi du måske bliver den nye Captain Kangaroo. 
+el	Χαμογελάω γιατί μπορεί να γίνεις ο νέος Κάπτεν Καγκουρό. 
+en	I don't know, I'm just smiling at the fact | you might become the new Captain Kangaroo. | 
+fi	Siitä, että sinusta voi tulla uusi Captain Kangaroo. 
+fr	Je souris parce que tu vas devenir le nouveau Captain Kangaroo. 
+he	&rlm;‏‏אני מחייך כיוון שאתה עשוי להפוך | &rlm;‏ל"קפטן קנגורו" החדש.‏ | 
+it	Sorrido perché potresti diventare il nuovo Captain Kangaroo. 
+ko	새 캡틴 캥거루가 될 생각에 | 웃고 있는 거야 | 
+nl	Ik glimlach omdat jij misschien de nieuwe Captain Kangaroo wordt. 
+pl	Cieszę się, bo możesz zostać nowym Kapitanem Kangaroo. 
+pr-br	Só estou sorrindo porque você pode virar o novo Capitão Canguru. 
+pr	Estou a sorrir pelo facto de poderes vir a ser o novo Capitão Canguru. 
+ro	Zâmbesc gândindu-mă că ai putea deveni noul căpitan Kangaroo. 
+sp-eu	Sonrío porque quizá te conviertas en el nuevo Capitán Kangaroo. 
+sp	Solo sonrío al pensar que puedes ser el capitán Kangaroo. 
+sv	Jag ler åt det faktum att du kan bli nya Captain Kangaroo. 
+th	ก็ยิ้มเพราะความจริงที่ว่า | นายอาจเป็นกัปตันแคงการูคนใหม่ | 
+tr	Yeni Kaptan Kanguru olabilirsin de ona gülüyorum. 
+vi	Tôi chỉ cười chuyện | anh có thể thành Captain Kangaroo mới. | 
+zh-long	我在開心你說不定 會成為新的袋鼠隊長 
+zh-short	想到你可能会成为新袋鼠船长我高兴 
+id	Aku tersenyum pada fakta kau bisa jadi Captain Kangaroo yang baru. 
+ru	Я улыбаюсь, потому что ты можешь стать вторым Капитаном Кенгуру. 
+ja	君が子供たちの人気者に | なることがうれしい | 
+no	Jeg smiler fordi du kan bli den nye Captain Kangaroo. 
+

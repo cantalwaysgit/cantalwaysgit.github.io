@@ -1,0 +1,26 @@
+id	Ya, bagus. Baiklah. 
+ja	よし　大丈夫だ | 
+ru	Да, порядок. Ну вот. 
+ar	&rlm;‏أجل، ها هو. جيد.‏ | 
+da	Ja, sådan. Okay. 
+el	Ορίστε, να το. Εντάξει. 
+en	Yeah, there it is. Okay. | 
+fi	Kyllä hengität. 
+fr	Oui, c'est bon. 
+he	&rlm;‏כן, הנה זה. בסדר.‏ | 
+it	Sì. Bene. 
+ko	쉬고 있네, 됐다 | 
+no	Sånn, ja. 
+pr-br	Sim. Tudo bem. 
+pr	Sim, aí está. Pronto. 
+ro	Da. Iată! Bine. 
+sp-eu	Sí, ahí está. Vale. 
+sp	Sí, así es. De acuerdo. 
+sv	Ja, det är bra. 
+th	อ๋อ ยังหายใจ โอเค | 
+tr	Evet, işte bu. Tamam. 
+vi	Ừ, vẫn thở. Được rồi. | 
+zh-long	有，很好 
+zh-short	有 好的 
+pl	Tak. W porządku. 
+

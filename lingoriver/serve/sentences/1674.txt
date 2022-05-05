@@ -1,0 +1,25 @@
+id	Sungguh? 
+ja	そうか | 
+ru	Да? 
+el	Αλήθεια; 
+ar	&rlm;‏حقاً؟‏ | 
+da	Ja? 
+en	Yeah? | 
+fi	Niinkö? 
+he	&rlm;‏כן?‏ | 
+it	Ah, sì? 
+no	Jaså? 
+pl	Tak? 
+pr	A sério? 
+pr-br	É? 
+ro	Da? 
+sp-eu	¿Sí? 
+sp	¿Sí? 
+sv	Jaha? 
+th	เหรอ | 
+tr	Sahi mi? 
+vi	Thế à? | 
+zh-long	是喔 
+zh-short	是吗？ 
+ko	그래? | 
+

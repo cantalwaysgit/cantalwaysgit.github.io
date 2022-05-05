@@ -1,0 +1,27 @@
+id	Ayolah, di mana kau? 
+ru	Ну, где ты там? 
+ja	出てきやがれ | 
+ar	&rlm;‏هيا! أين أنت؟‏ | 
+da	Kom ud! Hvor er du? 
+el	Βγες έξω! Πού είσαι; 
+en	Come out! Where are you? | 
+fi	Missä olet? 
+fr	Allez, montre-toi. 
+he	&rlm;‏צא החוצה! איפה אתה?‏ | 
+it	Vieni fuori! Fatti vedere! 
+nl	Kom op. Waar ben je? 
+no	Kom ut! Hvor er du? 
+pl	Wyłaź! Gdzie jesteś? 
+pr	Aparece! Onde estás? 
+pr-br	Apareça! Onde você está? 
+ro	Arată-te! Unde ești? 
+sp-eu	Vamos, ¿dónde estás? 
+sp	Vamos, sal. ¿Dónde estás? 
+sv	Kom ut! Var är du? 
+th	มาสิ อยู่ไหนล่ะ | 
+tr	Hadi, çıksana! Neredesin? 
+vi	Ra đi! Mày đang ở đâu? | 
+zh-long	來呀，你在哪裡？ 
+zh-short	来啊！你在哪儿？ 
+ko	어서 나와 | 어디 있는 거야? | 
+

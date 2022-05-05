@@ -1,0 +1,75 @@
+ar	&rlm;‏‏تبدو وكأن "مايك تايسون" | &rlm;‏قد لكمك لكمة قاضية.‏ | 
+da	Du ligner en, Mike Tyson har banket. 
+el	Είσαι σαν να σ' έδειρε ο Μάικ Τάισον. 
+en	You look like Mike Tyson knocked you out. | 
+fi	Sinä näytät Mike Tysonin tyrmäämältä. 
+fr	Mike Tyson t'a dérouillé ou quoi ? 
+he	&rlm;‏אתה נראה כאילו מייק טייסון החטיף לך.‏ | 
+id	Kau terlihat seperti habis dipukul Mike Tyson. 
+it	Tu invece ti sei battuto con Mike Tyson? 
+ko	마이크 타이슨한테 | 한 대 얻어맞은 것 같네요 | 
+nl	Jij ziet eruit alsof Mike Tyson je heeft geslagen. 
+no	Du ser ut som om Mike Tyson slo deg ned. 
+pl	A ty, jakby cię znokautował Mike Tyson. 
+pr-br	Você parece nocauteado pelo Mike Tyson. 
+pr	Tu pareces ter levado uma tareia do Mike Tyson. 
+ro	Tu arăți de parcă te-ar fi doborât Mike Tyson! 
+ru	А ты - как жертва Майка Тайсона. 
+sp-eu	Y parece que a ti te ha noqueado Mike Tyson. 
+sp	Y tú pareces haber peleado con Mike Tyson. 
+sv	Du ser ut som Mike Tyson har knockat dig. 
+th	คุณดูเหมือนโดนไมค์ ไทสันน็อกเอาต์มา | 
+tr	Sen de Mike Tyson'dan dayak yemiş gibisin. 
+vi	Trông anh như bị Mike Tyson làm đo ván. | 
+zh-long	你看起來像被拳王泰森打爆 
+zh-short	你看着像是被迈克泰森胖揍了一顿 
+ja	あなたはマイク･タイソンに | 殴られたの？ | 
+ar	&rlm;‏ما الذي حدث؟‏ | 
+da	Hvad skete der? 
+el	Τι συνέβη; 
+en	What happened? | 
+fi	Mitä tapahtui? 
+fr	Il t'est arrivé quoi ? 
+he	&rlm;‏מה קרה?‏ | 
+it	Che ti è successo? 
+ko	무슨 일 있었어요? | 
+pr-br	O que aconteceu? 
+pr	O que aconteceu? 
+ro	Ce s-a întâmplat? 
+sp-eu	¿Qué ha pasado? 
+sp	¿Qué pasó? 
+sv	Vad hände? 
+tr	Ne oldu? 
+vi	Có chuyện gì vậy? | 
+zh-long	怎麼回事？ 
+zh-short	出什么事了？ 
+nl	Wat is er gebeurd? -Ik botste op een eland. 
+no	Hva skjedde? 
+pl	Co się stało? 
+th	เกิดอะไรขึ้น | 
+id	- Apa yang terjadi? - Aku menabrak rusa di Melrose. 
+ru	-Что случилось? -Наехал на лося на Мелроуз. 
+ja	メルローズで | ヘラジカと衝突した | 
+ar	&rlm;‏دهست موظاً في "ميلروز".‏ | 
+da	Jeg kørte ind i en elg på Melrose. 
+el	Συνάντησα μια άλκη στο Μέλροουζ. 
+en	Oh, I ran into a moose on Melrose. | 
+fi	Törmäsin hirveen Melrosella. 
+fr	J'ai percuté un élan sur Melrose Avenue. 
+he	&rlm;‏נתקלתי במוס במלרוז.‏ | 
+it	Mi sono scontrato con un alce sulla Melrose. 
+no	Jeg kjørte på en elg på Melrose. 
+pl	W Melrose wpadłem na łosia. 
+pr	Bati contra um alce na Melrose. 
+pr-br	Atropelei um alce em Melrose. 
+ro	M-am ciocnit de un elan pe bulevardul Melrose. 
+sp	Atropellé un alce en Melrose. 
+sp-eu	Choqué con un alce en Melrose. 
+sv	Jag sprang på en älg på Melrose. 
+tr	Melrose'da bir geyiğe çarptım. 
+vi	Tôi đâm phải con nai sừng tấm ở Melrose. | 
+zh-long	我在梅爾羅斯大街撞到一頭麋鹿 
+zh-short	我在去梅尔罗斯的路上撞了一头驼鹿 
+ko	멜로즈에서 무스랑 충돌했어 | 
+th	ผมวิ่งไปชนกวางที่เมลโรส | 
+

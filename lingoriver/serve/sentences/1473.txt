@@ -1,0 +1,23 @@
+ar	&rlm;‏أجل، طاردته 6 أو 7 أحياء.‏ | 
+da	Ja, jeg jagtede ham seks blokke. 
+el	Τον κυνήγησα για έξι επτά τετράγωνα. 
+en	[man] Yeah, I chased him | for six or seven blocks. | 
+fi	...kuusi tai seitsemän korttelia. 
+fr	Je l'ai poursuivi un moment. 
+he	&rlm;‏כן, רדפתי אחריו לאורך שישה או שבעה רחובות.‏ | 
+it	L'ho inseguito per diversi isolati. 
+nl	Ik ben 'm zeven straten lang gevolgd. 
+no	Jeg jaget ham seks-sju kvartaler. 
+pl	Goniłem go kilka przecznic. 
+pr-br	Sim, o persegui por seis ou sete quadras. 
+pr	Persegui-o durante seis ou sete quarteirões. 
+ro	Da, l-am urmărit pe șase sau șapte străzi. 
+sp-eu	Sí, le perseguí seis o siete manzanas. 
+sp	Sí, lo perseguí seis o siete calles. 
+sv	Jag jagade honom i sex kvarter. 
+th	ใช่ ฉันไล่กวดเขาอยู่หกเจ็ดช่วงถนน | 
+tr	Evet, altı yedi sokak boyunca kovaladım. 
+vi	Tôi đuổi theo anh ta sáu hay bảy tòa nhà. | 
+zh-long	我追了他六、七個街區 
+zh-short	对 我追了他六七个街区了 
+

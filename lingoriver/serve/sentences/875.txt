@@ -1,0 +1,52 @@
+ru	Поедем в «Джерри», или хочешь в «Карни»? 
+id	Kita pergi ke Jerry's atau kau mau ke Carney's? 
+ja	“ジェリーズ”でも | “カーニーズ”でもいい | 
+ar	&rlm;‏‏أتريد الذهاب إلى مطعم "جيريز"؟ | &rlm;‏أم "كارنيز"؟‏ | 
+da	Skal vi på Jerry's? Eller vil du hellere på Carney's? 
+el	Θέλεις να πάμε στο Τζέρις ή στο Κάρνις; 
+en	We going to Jerry's? | Or you want to go to Carney's? | 
+fi	Haluatko mennä Jerry'siin vai Carney'siin? 
+fr	Jerry's ou Carney's ? 
+he	&rlm;‏‏נלך ל"ג'רי'ס"? | &rlm;‏או אולי אתה רוצה ללכת ל"קרני'ס"?‏ | 
+it	Andiamo da Jerry's o da Carney's? 
+ko	제리로 갈까? | 아니면 카니가 더 좋아? | 
+no	Skal vi dra til Jerry's? Eller vil du til Carney's? 
+pl	Jedziemy do Jerry's, czy może Carney's? 
+pr-br	Vamos ao Jerry's ou você prefere Carney's? 
+pr	Vamos ao Jerry's? Ou queres ir ao Carney's? 
+ro	Mâncăm la Jerry's sau la Carney's? 
+sp-eu	¿Vamos a Jerry's, o prefieres Carney's? 
+sp	¿Iremos a Jerry's? ¿O quieres ir a Carney's? 
+sv	Ska vi åka till Jerry's,  eller till Carney's? 
+th	เราจะไปที่เจอร์รีส์หรือคาร์นีส์ | 
+tr	Jerry's'e mi gidelim, yoksa Carney's'e mi gitmek istersin? 
+vi	Ta đến nhà hàng Jerry's? | Hay anh muốn Carney's? | 
+zh-long	傑瑞小吃還是卡尼小吃？ 
+zh-short	我们去杰瑞餐厅还是你想去卡尼？ 
+nl	Gaan we naar Jerry's? Of wil je naar Carney's? Mij maakt het niet uit. 
+id	Aku bisa pergi ke manapun. 
+ja	どっちでもパンなしの | ホットドッグを頼めるし― | 
+ru	Мне все равно. 
+ar	&rlm;‏يمكنني الذهاب إلى أي منهما.‏ | 
+da	Det er lige meget. 
+el	Δεν έχω πρόβλημα. 
+en	I can go either one. | 
+fi	Minulle käy kumpi vain. 
+fr	Comme tu veux. 
+he	&rlm;‏שניהם בסדר מבחינתי.‏ | 
+it	Per me è lo stesso. 
+ko	둘 다 괜찮은데 | 
+no	Samme for meg. 
+pl	Dla mnie obojętnie. 
+pr-br	Tanto faz. 
+pr	Posso ir a qualquer um. 
+ro	Mie mi-e indiferent. 
+sp-eu	Me vale cualquiera. 
+sp	Me da lo mismo. 
+sv	Jag kan åka till båda. 
+th	ร้านไหนก็ได้ | 
+tr	Bana ikisi de uyar. 
+vi	Tôi thế nào cũng được. | 
+zh-long	我都可以 
+zh-short	我去哪个都行 
+

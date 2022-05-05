@@ -1,0 +1,27 @@
+id	Firuz! 
+ru	Фируз! 
+ja	ファルース | 
+ar	&rlm;‏‏- "فيروز"! | &rlm;‏- حسناً إذاً.‏ | 
+da	-Firuz! -Godt så. 
+el	-Φαρούζ! -Εντάξει, λοιπόν. 
+en	-Firuz! | -Oh, all right, then. | 
+fi	-Firuz! -Hyvä on. 
+fr	- Firuz ! - Bon, d'accord. 
+he	&rlm;‏‏פיירוז! | &rlm;‏-בסדר.‏ | 
+it	- Firuz! - E va bene. 
+ko	- 퍼루즈! | - 알았어 | 
+nl	Firuz. -Goed dan. 
+no	-Firuz! -Greit. 
+pl	- Firuz! - No dobra. 
+pr-br	-Firuz! -Está bem. 
+pr	- Firuz! - Está bem. 
+ro	- Firuz! - Bine. 
+sp-eu	- ¡Firuz! - Está bien. 
+sp	- ¡Firuz! - Está bien, entonces. 
+sv	-Firuz. -Okej. 
+th	- ไฟรูซ! | - เอาละ ก็ได้ | 
+tr	-Firuz! -Peki madem. 
+vi	- Firuz! | - Đúng rồi. | 
+zh-long	-菲魯茨！ -好啦 
+zh-short	-菲鲁兹！ -那好 
+

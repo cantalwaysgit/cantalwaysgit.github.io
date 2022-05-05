@@ -1,0 +1,27 @@
+ar	&rlm;البريد الإلكتروني؟ بالطبع ‏سمعت عنه.  | &rlm;عن أيها تتحدث؟‏ | 
+da	E-mail? Jeg har hørt om det. Hvilken en snakker du om? 
+el	Φυσικά και το γνωρίζω. Για ποιο απ' όλα μιλάς; 
+en	E-mail? Of course I heard of that. | Which one are you talking about? | 
+fi	Tietysti. Mitä niistä tarkoitat? 
+fr	Si, j'en ai entendu parler. Mais duquel tu parles exactement ? 
+he	&rlm;‏‏אימייל? שמעתי על זה. | &rlm;‏על איזה מהם אתה מדבר?‏ | 
+it	Email? Ne ho sentito parlare. Quale intendi? 
+nl	Daar heb ik van gehoord. Welke bedoel je? 
+no	Jeg har hørt om det. Hvilken mener du? 
+pl	Pewnie, że słyszałem. Ale o której konkretnie mówisz? 
+pr-br	E-mail? Já ouvi falar. De qual você está falando? 
+pr	E-mail?  Já ouvi falar. Estás a falar de qual? 
+ro	E-mail? Am auzit. La care te referi? 
+sp	¿ E-mail ? Oí hablar de eso. ¿A cuál te refieres? 
+sp-eu	¿E-mail? Me lo han mencionado. ¿A cuál te refieres? 
+sv	E-post? Så klart jag gör. Vilken pratar du om? 
+th	อีเมล เคยได้ยิน อันไหนที่พูดถึงล่ะ | 
+tr	E-posta mı? Duymuştum. Hangisinden söz ediyorsun? 
+vi	Email? Tôi có nghe nói. | Mà anh đang nói về loại nào? | 
+zh-long	電子郵件？我當然聽過 你說的是哪一種？ 
+zh-short	电子邮件？我听说过 你在说哪一个？ 
+ru	Электронная почта? Знаю. Ты о которой? 
+ja	イーメールか | あれのことだろ？ | 
+id	Surel? Tentu saja, aku pernah dengar. Yang mana yang kau bicarakan? 
+ko	이메일? 들어본 적은 있어 | 어떤 거 말이야? | 
+

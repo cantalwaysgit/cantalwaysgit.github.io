@@ -1,0 +1,125 @@
+ko	소리 내 읽어볼래? | 
+ar	&rlm;‏أتريدان قراءته بصوت مرتفع؟‏ | 
+da	Skal jeg læse det højt? 
+el	Θέλετε να το διαβάσουμε; 
+en	Do you wanna read that out loud? | 
+fi	Haluatteko lukea sitä ääneen? 
+fr	Ça vous dit de le lire à voix haute ? 
+he	&rlm;‏אתן רוצות לקרוא את זה בקול רם?‏ | 
+id	Kalian mau membacanya? 
+it	Volete leggerla a voce alta? 
+nl	Willen jullie dat hardop voorlezen? 
+no	Skal vi lese det høyt? 
+pl	Poczytamy na głos? 
+pr-br	Querem ler em voz alta? 
+pr	Querem lê-lo em voz alta? 
+ro	Vreți să-l citiți cu voce tare? 
+sp-eu	¿Queréis leerlo en voz alta? 
+sp	¿Quieren leerlo en voz alta? 
+sv	Vill ni läsa det högt? 
+th	อยากลองอ่านออกเสียงไหมล่ะ | 
+tr	Yüksek sesle okumak ister misiniz? 
+vi	Các cháu muốn đọc to không? | 
+zh-long	要來朗誦看看嗎？ 
+zh-short	你们想读读看吗？ 
+ru	Почитаем вслух? Нет? 
+ar	&rlm;‏لا؟‏ | 
+da	Nej? 
+el	Όχι; 
+en	No? | 
+fi	Ettekö? 
+he	&rlm;‏לא?‏ | 
+id	Tidak? 
+ko	싫어? | 
+no	Ikke? 
+pl	Nie? 
+pr-br	Não? 
+pr	Não? 
+ro	Nu? 
+sp-eu	¿No? 
+sp	¿No? 
+sv	Inte? 
+th	ไม่เอาเหรอ | 
+tr	Hayır mı? 
+vi	Không à? | 
+zh-long	不要？ 
+zh-short	不吗？ 
+ja	イヤ？ じゃ何をしたい？ | 
+ar	&rlm;‏ما الذي تريدان القيام به؟‏ | 
+da	Hvad vil I lave? 
+el	Τι θέλετε να κάνουμε; 
+en	What would you like to do? | 
+fi	Mitä te haluatte tehdä? 
+fr	Vous préférez faire quoi ? 
+he	&rlm;‏מה אתן רוצות לעשות?‏ | 
+it	Cosa volete fare? 
+ko	그럼 뭐 할래? | 
+pl	Co chcecie robić? 
+pr-br	O que querem fazer? 
+pr	O que gostavam de fazer? 
+ro	Ce vreți să facem? 
+sp-eu	¿Qué queréis hacer? 
+sp	¿Qué quieren hacer? 
+sv	Vad vill ni göra? 
+th	แล้วอยากทำอะไร | 
+tr	Ne yapmak istersiniz? 
+vi	Các cháu muốn làm gì? | 
+zh-long	那妳們想幹嘛？ 
+zh-short	你们想干什么？ 
+id	- Apa yang ingin kalian lakukan? - Berenang? 
+nl	Wat willen jullie doen? -Zwemmen? 
+no	-Hva vil dere gjøre? -Bade? 
+ru	-А что бы вы хотели? -Поплавать. 
+ar	&rlm;‏أن نسبح؟‏ | 
+da	Bade? 
+el	Να πάμε για κολύμπι; 
+en	Go swimming? | 
+fi	Mennäänkö uimaan? 
+fr	Aller dans la piscine ? 
+he	&rlm;‏ללכת לשחות?‏ | 
+it	Andare a nuotare? 
+ko	수영할까요? | 
+pl	Popływać? 
+pr-br	Tomar banho de piscina? 
+pr	Ir nadar? 
+ro	Să înotăm? 
+sp-eu	¿Nadar? 
+sp	¿Ir a nadar? 
+sv	Bada? 
+th	ไปว่ายน้ำได้ไหม | 
+tr	Yüzmeye gidelim mi? 
+vi	Đi bơi ạ? | 
+zh-long	游泳？ 
+zh-short	游泳？ 
+ja	プール | 
+
+cs	Kde to je? 
+da	Hvor ligger det? | 
+el	Πού είναι, λοιπόν; 
+en	Okay, where is it? 
+es	Bueno, ¿dónde queda? 
+es-eu	¿Dónde está? 
+fr	C'est où ? 
+he	‫טוב, איפה זה?‬ | 
+hr	Dobro, gdje je to? 
+hu	Oké, hol van? 
+id	Baiklah, di mana itu? 
+it	Ok, dov'è? 
+ko	&lrm;그게 어디 있죠? | 
+ms	Okey, di mana? 
+nl	Waar is dat? 
+no	Ok, hvor er det? 
+pt-br	E onde fica? 
+pt	Está bem, onde fica? 
+ro	Bine, dar unde e? 
+sv	Var ligger det? 
+th	&lrm;โอเค ที่ไหนล่ะ | 
+tr	Tamam, neresi? 
+vi	&lrm;Được rồi, nó ở đâu? | 
+zh-long	好，在哪裡？ 
+zh-short	好的 这地方在哪里？ 
+ja	&lrm;どこにある？ | 
+uk	Добре, де це? 
+fi	Missä se on? | 
+ru	Так. И где это? 
+

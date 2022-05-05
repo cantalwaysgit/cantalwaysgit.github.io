@@ -1,0 +1,55 @@
+ru	Я - не гадкий утенок 
+da	Jeg er slet ikke en grim ælling 
+ja	醜いアヒルじゃなかった | 
+ar	&rlm;‏"لست بطة قبيحة جداً‏ | 
+el	Δεν είμαι και τόσο ασχημόπαπο 
+en	♪ I'm not such an ugly duckling ♪ | 
+fi	Ruma ankanpoika en ookaan 
+fr	Je ne suis pas un vilain canard 
+he	&rlm;‏אני לא ברווזון כזה מכוער‏ | 
+it	Non sono un brutto anatroccolo 
+ko	난 미운 오리 새끼가 아니야 | 
+nl	ik ben geen lelijk eendje 
+pl	Nie jestem brzydkim kaczątkiem 
+pr-br	Não sou um patinho feio 
+pr	Não sou um patinho feio 
+ro	Nu sunt o rățușcă așa de urâtă 
+sp-eu	Ya no soy un patito feo 
+sp	No soy un patito feo 
+sv	Jag är ingen ful ankunge 
+th	ฉันไม่ใช่ลูกเป็ดขี้เหร่นัก | 
+tr	Çirkin ördek yavrusu değilim 
+vi	Tôi không phải là con vịt xấu xí | 
+zh-long	我不再是醜小鴨 
+zh-short	我不是只丑小鸭 
+id	Aku bukan itik buruk rupa 
+
+ja	&lrm;ここでは | &lrm;何でも話し合います | 
+it	Parliamo tra noi. 
+pt-br	Nós conversamos. 
+fi	Puhumme toisillemme. | 
+cs	Mluvíme spolu. 
+da	Vi taler sammen. | 
+el	Μιλάμε μεταξύ μας. 
+en	We talk to each other. 
+es-eu	Hablamos de las cosas. 
+fr	On se parle. 
+he	‫אנחנו מדברים זה עם זה.‬ | 
+hr	Razgovaramo. 
+hu	Beszélünk egymással. 
+id	Kami saling bicara. 
+ko	&lrm;대화를 하는 거죠 | 
+nl	We praten met elkaar. 
+no	Vi snakker med hverandre. 
+ro	Vorbim unii cu alții. 
+sv	Vi pratar med varandra. 
+th	&lrm;เราคุยเปิดอกกัน | 
+tr	Birbirimizle konuşuruz. 
+vi	&lrm;Chúng tôi nói chuyện với nhau. | 
+zh-long	我們互相交談 
+zh-short	我们互相交谈 
+pt	Falamos uns com os outros. 
+ru	Мы общаемся друг с другом. 
+uk	Розмовляємо одне з одним. 
+ms	Kami saling berbual. 
+

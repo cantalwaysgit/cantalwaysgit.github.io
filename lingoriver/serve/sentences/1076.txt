@@ -1,0 +1,27 @@
+id	Hei. Terima kasih, Qubert. Malam yang luar biasa. 
+en	Hey. Thank you, Q-bert. | It was a great night. | 
+ar	&rlm;‏شكراً يا "كيوبرت". كانت ليلة رائعة.‏ | 
+da	Tak, Q-bert. Det var en dejlig aften. 
+el	Ευχαριστούμε, Κιού-Μπερτ. Ήταν μια υπέροχη βραδιά. 
+fi	Kiitos, Q-bert. Oli kiva ilta. 
+he	&rlm;‏היי. תודה, קיוברט. זה היה ערב נהדר.‏ | 
+it	Grazie, Q-Bert. Splendida serata. 
+ko	고마워요, 큐버트 | 즐거운 밤이었어요 | 
+nl	Bedankt, Q-bert. Een geweldige avond. 
+no	Takk, Q-bert. Det var en flott kveld. 
+pr-br	Obrigado, Q-bert. Foi uma ótima noite. 
+pr	Obrigado, Q-bert. Foi uma ótima noite. 
+ro	Mulțumesc, Q-bert! A fost o seară grozavă. 
+sp-eu	Oye. Gracias, Q-bert. Ha sido una gran noche. 
+sp	Gracias, Q-bert. Fue una gran noche. 
+sv	Tack, Q-bert. Det var en kul kväll. 
+th	เฮ่ ขอบคุณ คิวเบิร์ต | เป็นคืนที่สุดยอด | 
+tr	Sağ ol Q-bert. Harika bir geceydi. 
+vi	Cảm ơn, Q-bert. Buổi tối vui lắm. | 
+zh-long	謝謝你，阿昆，今晚很愉快 
+zh-short	嘿 谢谢 昆博特 今晚很愉快 
+fr	Merci, Qubert. Super soirée. 
+ja	お邪魔したね　楽しかったよ | 
+ru	Спасибо, Кьюберт! Все было очень мило. 
+pl	Q-bert, dziękuję za uroczy wieczór. 
+

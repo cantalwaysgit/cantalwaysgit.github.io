@@ -1,0 +1,71 @@
+en	It was a... It was a little awkward, | the priest and the rabbi together. | 
+pl	Trochę dziwna – ksiądz z rabinem. 
+ar	&rlm;‏كانت محيرة، الكاهن والحاخام معاً.‏ | 
+da	Det var akavet, præsten og rabbineren sammen. 
+el	Ήταν παράξενο να βλέπεις τον ιερέα μαζί με το ραββίνο. 
+fi	Pappi ja rabbi olivat vähän kiusaantuneita. 
+fr	Un peu bizarre, le prêtre et le rabbin ensemble. 
+he	&rlm;‏זה היה מוזר, הכומר והרבי ביחד.‏ | 
+it	Anche se è strano avere un prete e un rabbino insieme. 
+no	Det var pinlig, presten og rabbien sammen. 
+pr-br	Foi estranho ver o padre e o rabino juntos. 
+pr	Foi estranho ver o padre e o rabino juntos. 
+ro	A fost puțin ciudat, preotul și rabinul laolaltă. 
+sp-eu	Un poco rara, con el cura y el rabino juntos. 
+sp	Fue raro, con el cura y el rabino juntos. 
+sv	Det var underligt med både en präst och rabbi tillsammans. 
+th	มันกระอักกระอ่วน | บาทหลวงกับแรบไบอยู่ด้วยกัน | 
+tr	Tuhaftı, hem rahip hem haham vardı. 
+vi	Thật kỳ quặc, | linh mục và giáo sĩ với nhau. | 
+zh-long	有點怪，基督教牧師 和猶太祭司共處一室 
+zh-short	有点尴尬 牧师和犹太拉比一块儿 
+id	Agak sedikit canggung, pendeta dan rabi bersama-sama. 
+ko	신부와 랍비가 함께 해서 | 조금 어색했거든요 | 
+ru	Как-то неудобно - и священник, и раввин! 
+ja	牧師とラビの２人体制で | ラビはキリストをググってた | 
+en	That's always a... | 
+pl	Rabin szukał w Google, kim jest Jezus Chrystus. 
+ru	Раввин гуглил, кто такой Иисус Христос. Но ничего. 
+ar	&rlm;‏‏كان الحاخام يبحث على "غوغل"، | &rlm;‏"من هو المسيح (عيسى)؟"‏ | 
+da	Rabbineren googlede: "Hvem er Jesus Kristus?" 
+el	Ο ραββίνος γκούγκλαρε "ποιος είναι ο Ιησούς Χριστός;". 
+en	The rabbi, he was, like, Googling, | "Who's Jesus Christ?" | 
+fi	Rabbi googlasi: "Kuka Jeesus Kristus on?" 
+fr	Le rabbin cherchait sur Google : "Qui est Jésus-Christ ?" 
+he	&rlm;‏הרבי חיפש בגוגל, "מי זה ישו הנוצרי"?‏ | 
+it	Il rabbino ha cercato su Google: "Chi è Gesù Cristo?" 
+ko	랍비는 구글로 예수 그리스도가 | 누군지 검색했죠 | 
+no	Rabbien googlet: "Hvem er Jesus Kristus?" 
+pr-br	O rabino estava no Google: "Quem é Jesus Cristo?" 
+pr	O rabino estava a pesquisar: "Quem é Jesus Cristo?" 
+ro	Rabinul căuta pe Google: "Cine e Iisus Hristos?" 
+sp	El rabino googleaba: "¿Quién es Jesucristo?". 
+sp-eu	El rabino buscaba en Google: "¿Quién es Jesucristo?". 
+th	แรบไบกูเกิลดูว่า "ใครคือพระเยซู" | 
+vi	Giáo sĩ tra google, "Chúa Jesus là ai?" | 
+zh-long	祭司可能要上網查一下 “耶穌基督是哪位？” 
+zh-short	犹太拉比在谷歌上搜 “耶稣基督是谁？” 
+nl	De rabbijn googelde: 'Wie is Jezus Christus?' 
+id	Rabi itu mencari di Google, "Siapa Yesus Kristus?" Tidak apa-apa. 
+tr	Haham "İsa Mesih kimdir?" diye Google'da arattı ama sorun değil. 
+sv	Rabbinen googlade: "Vem är Jesus Kristus?" Men det är lugnt. 
+ar	&rlm;‏لكن لا بأس بذلك.‏ | 
+da	Men det er okay. 
+el	Δεν πειράζει, όμως. 
+en	But that's okay. | 
+fi	Mutta ei se mitään. 
+fr	Mais c'est rien. 
+he	&rlm;‏אבל זה בסדר.‏ | 
+it	Ma va bene. 
+no	Men det er greit. 
+pr-br	Mas tudo bem. 
+pr	Mas não faz mal. 
+ro	Dar e în regulă. 
+sp-eu	Pero no pasa nada. 
+sp	Pero no importa. 
+vi	Nhưng không sao. | 
+zh-long	沒關係 
+zh-short	但没关系 
+ko	그래도 괜찮아요 | 
+th	แต่นั่นไม่เป็นไร | 
+

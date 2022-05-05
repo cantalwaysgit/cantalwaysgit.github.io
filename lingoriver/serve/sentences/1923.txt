@@ -1,0 +1,26 @@
+id	Pergi ke sana kemari 
+ar	&rlm;‏تجول قريبة وبعيدة‏ | 
+da	Vandrer rundt omkring 
+el	Περιπλανιόταν μακριά και κοντά 
+en	♪ ...went wandering far and near ♪ | 
+fi	Kaukana ja lähellä 
+fr	Qui s'aventurait çà et là 
+he	&rlm;‏משוטטים רחוק וקרוב‏ | 
+it	Vagava lontano e vicino 
+nl	ver afdwalend 
+pl	Po okolicy pałętało się 
+pr-br	Errante por aí 
+pr	Vagueiam longe e perto 
+ro	Rătăcind peste tot 
+sp	Errando por todos lados 
+sp-eu	Vagó cerca y lejos 
+sv	Vandrar hit och dit 
+th	เร่ร่อนไปไกลและใกล้ | 
+tr	Dere tepe dolaşmış 
+vi	Lang thang khắp chốn | 
+zh-long	晃來晃去 
+zh-short	踱来踱去 
+ru	Они близко и далеко 
+ko	멀리서, 가까이에서 | 떠돌고 있어 | 
+ja	あちこちで言われてた | 
+

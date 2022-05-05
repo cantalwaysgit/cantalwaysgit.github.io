@@ -1,0 +1,53 @@
+ar	&rlm;‏إذاً، تحدثت مع "باري".‏ | 
+da	Jeg snakkede med Barry. 
+el	Λοιπόν, μίλησα με τον Μπέρι. 
+en	So, spoke to Barry. | 
+fi	Puhuin Barryn kanssa. 
+fr	J'ai parlé à Barry. 
+he	&rlm;‏אז, דיברתי עם בארי.‏ | 
+it	Ho parlato con Barry. 
+nl	Ik sprak Barry. 
+pl	Rozmawiałem z Barrym. 
+pr-br	Então, eu falei com o Barry. 
+pr	Então, falei com o Barry. 
+ro	Am vorbit cu Barry. 
+sp-eu	He hablado con Barry. 
+sp	Hablé con Barry. 
+sv	Jag snackade med Barry. 
+th	คุยกับแบร์รี่แล้ว | 
+tr	Barry'yle konuştum. 
+vi	Tôi đã nói chuyện với Barry. | 
+zh-long	我們跟貝利談過 
+zh-short	所以 我跟巴里谈过了 
+ko	배리랑 얘기했어요 | 
+ru	Я говорил с Барри. 
+id	Aku sudah bicara kepada Barry. 
+ja	バリーに言われ | 君のデモを聴かせてもらった | 
+ru	Барри просил послушать ваше демо. Надо сказать, она неплоха. 
+en	And, uh, Barry wanted us | to listen to your demo, | 
+ar	&rlm;‏‏أرادنا أن نستمع إلى عينتك. | &rlm;‏ويجب أن أعترف أنه غناء جيد.‏ | 
+da	Barry syntes, vi skulle høre din demo. Og jeg må sige, det er gode sager. 
+el	Ήθελε να ακούσουμε το ντέμο σου. Οφείλω να πω ότι ήταν πολύ καλό. 
+fi	Hän halusi, että kuuntelemme demon. Täytyy sanoa, että se on hyvää kamaa. 
+fr	Il voulait qu'on écoute ta maquette. Et franchement, c'est intéressant. 
+he	&rlm;‏‏בארי רצה שנקשיב לדמו שלך. | &rlm;‏ואני מוכרח לומר, זה נשמע טוב.‏ | 
+it	Ha voluto che ascoltassimo il demo. Devo dire che non è niente male. 
+nl	Hij wilde dat we naar je demo luisterden. Ik moet zeggen, goed materiaal. 
+no	Barry ba oss høre på demoen din. Og jeg må si at den er bra. 
+pl	Kazał nam odsłuchać twoje demo. Muszę przyznać, że jest niezłe. 
+pr-br	Barry queria que escutássemos a sua demo. E confesso que é de qualidade. 
+pr	O Barry quis que ouvíssemos a demo. Tenho de admitir que é bom material. 
+ro	Barry a vrut să vă ascultăm piesa. Trebuie să recunosc, e bună. 
+sp	Barry quería que escucháramos tu demo. Debo decir que es muy bueno. 
+sp-eu	Barry quería que escuchásemos tu demo. Y debo decir que es buen material. 
+sv	Han ville att vi skulle lyssna på demon. Och det var en del bra grejer. 
+th	แบร์รี่อยากให้เราฟังเดโมของคุณ | และผมขอบอก มีของดีอยู่ | 
+tr	Barry demo parçanızı dinlememizi istedi. Şunu söyleyeyim ki iyiymiş. 
+vi	Barry muốn chúng tôi nghe bản demo. | Và tôi phải nói rằng, khá tốt. | 
+zh-long	他要我們聽聽妳的試聽帶 我必須說，還不賴 
+zh-short	巴里之前让我们听了你的样本唱片 我得说 很不错 
+ko	배리 때문에 데모를 들어봤는데 | 정말 훌륭하더군요 | 
+id	Barry ingin kami mendengarkan demomu dan menurutku bagus. 
+en	and I gotta say, some good stuff there. | 
+ja	なかなかだ | 
+

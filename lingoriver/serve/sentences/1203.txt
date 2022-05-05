@@ -1,0 +1,27 @@
+ar	&rlm;أنت أصلحته. ‏أنت قمت بكل شيء.  | &rlm;أنت اخترعت الموسيقى.‏ | 
+da	Du ordnede det. Du gjorde alt. Du opfandt musik. 
+el	Το διόρθωσες. Εσύ τα έκανες όλα. Εσύ εφηύρες τη μουσική. 
+en	You fixed it. You did everything. | You invented music. | 
+fi	Sinä korjasit. Teit kaiken. Keksit musiikin. 
+fr	Grâce à toi. C'est toi qui fais tout. T'as inventé la musique. 
+he	&rlm;‏‏אתה סידרת את זה. אתה עשית הכול. | &rlm;‏אתה המצאת את המוזיקה.‏ | 
+id	Kau perbaiki. Kau lakukan semua. Kau menciptakan musik. 
+it	Certo. Hai fatto tutto tu. Hai anche inventato la musica. 
+ko	네가 손도 쓰고 전부 다 했지 | 음악도 발명했겠군 | 
+nl	Jij loste het op. Jij deed alles. Jij hebt muziek uitgevonden. 
+no	Du fikset det. Du gjorde alt. Du oppfant musikk. 
+pl	Jasne! Wszystko ty. Muzykę też wynalazłeś. 
+pr-br	Você deu um jeito. Você fez tudo. Você inventou a música. 
+pr	Tu resolveste. Fizeste tudo. Inventaste a música. 
+ro	Tu ai aranjat. Tu ai făcut totul. Tu ai inventat muzica. 
+ru	Да. Всё благодаря тебе. Ты изобрел музыку. 
+sp-eu	Tú lo arreglaste. Lo hiciste todo. Tú inventaste la música. 
+sp	Tú lo solucionaste. Tú hiciste todo. Tú inventaste la música. 
+sv	Du fixade det. Du gjorde allt. Du uppfann musiken. 
+th	คุณจัดการ คุณทำทุกอย่าง | คุณสร้างดนตรี | 
+tr	Sen hallettin. Her şeyi sen yaptın. Müziği sen buldun. 
+vi	Anh can thiệp. Anh làm mọi thứ. | Anh sáng tạo ra âm nhạc. | 
+zh-long	你爭取來的，你最厲害 音樂根本就是你發明的 
+zh-short	是你挽救回来的 一切都是你做的 音乐是你发明的 
+ja	そうだな　すべて君の手柄だ | 
+

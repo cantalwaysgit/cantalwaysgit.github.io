@@ -1,0 +1,28 @@
+ar	&rlm;‏أنت مجنون يا "ساندي". اخلع سروالك.‏ | 
+da	Du er tosset, Sandy. Tag bukserne af. 
+el	Είσαι τρελός, Σάντι. Βγάλε το παντελόνι σου. 
+en	You're insane, Sandy. | Take off those pants. | 
+fi	Olet sekopää. Riisu housusi. 
+fr	T'es cinglé, Sandy. Retire ton pantalon. 
+he	&rlm;‏אתה מטורף, סנדי. תוריד את המכנסיים שלך.‏ | 
+it	Sei fuori di testa, Sandy. Togliti i pantaloni. 
+ko	제정신이 아니네요 | 그 바지도 벗으세요 | 
+nl	Je bent gestoord. Doe die broek uit. 
+pr-br	Você é louco, Sandy. Tire as calças. 
+pr	Tu és louco, Sandy. Tira essas calças. 
+sp	Estás loco, Sandy. Sácate los pantalones. 
+sp-eu	Estás mal de la cabeza, Sandy. Quítate los pantalones. 
+sv	Du är galen. Ta av dig byxorna. 
+tr	Sen delisin Sandy. Çıkar şu pantolonu. 
+vi	Anh thật điên, Sandy. Cởi quần ra. | 
+zh-long	你瘋了，山迪，褲子脫掉 
+zh-short	你疯了 桑迪 把裤子脱了 
+ja	よく言うわ　ズボンを脱いで | 
+no	Du er gal, Sandy. Ta av deg buksa. 
+ru	Ты ненормальный, Сэнди. 
+id	Kau gila, Sandy. Lepas celanamu. 
+pl	Wariat z ciebie. Zdejmij spodnie. 
+ro	Ești nebun, Sandy. Dă-ți pantalonii jos. 
+th	คุณบ้ามาก แซนดี้ ถอดกางเกงออก | 
+ru	Снимай штаны. 
+

@@ -1,0 +1,19 @@
+ar	&rlm;‏"مركز مؤتمرات (أنهايم) - 1996"‏ | 
+el	ΣΥΝΕΔΡΙΑΚΟ ΚΕΝΤΡΟ ΤΟΥ ΑΝΑΧΑΪΜ 1996 
+he	&rlm;‏‏- מרכז הכנסים אנהיים | &rlm;‏1996 -‏ | 
+ko	“애너하임 컨벤션 센터 | 1996년” | 
+pr-br	CENTRO DE CONVENÇÕES DE ANAHEIM 
+pr	CENTRO DE CONVENÇÕES DE ANAHEIM 
+ru	КОНФЕРЕНЦ-ЦЕНТР АНАХАЙМА, 1996 
+sp	CENTRO DE CONVENCIONES DE ANAHEIM 1996 
+th	(ศูนย์ประชุมอนาไฮม์ ปี 1996) | 
+tr	ANAHEIM KONGRE MERKEZİ 1996 
+vi	TRUNG TÂM HỘI NGHỊ ANAHEIM | NĂM 1996 | 
+zh-long	（安那翰會議中心 1996年） 
+zh-short	（阿纳海姆会议中心 1996年） 
+fi	ANAHEIMIN MESSUKESKUS 
+ro	CENTRUL DE CONVENȚII DIN ANAHEIM 1996 
+ja	アナハイム　1996年 | 
+id	PUSAT KONVENSI ANAHEIM 1996 
+sp-eu	CENTRO DE CONGRESOS DE ANAHEIM 1996 
+

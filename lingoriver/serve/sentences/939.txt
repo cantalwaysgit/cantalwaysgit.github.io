@@ -1,0 +1,27 @@
+en	[chuckles] Of course you do. It's from | your dirty magazine page, ya weirdo. | 
+ko	당연히 그렇겠죠 | 보시던 야한 잡지에 나왔잖아요 | 
+ru	Еще бы. Оно с твоей странички из журнала, чудик. 
+ja	ページを破くほど | 好きなんでしょ？ | 
+id	Tentu. Ini dari halaman majalah mesummu, Cabul. 
+pl	Nie wątpię. Jest z tej strony, którą wyrwałeś, dziwaku. 
+ar	&rlm;‏‏بالطبع. فهو من صفحة مجلتك البذيئة، | &rlm;‏يا غريب الأطوار.‏ | 
+da	Ja, selvfølgelig er du det. Den er fra dit frække blad. 
+el	Λογικό είναι. Είναι από τη σελίδα που είχες κόψει από το περιοδικό. 
+fi	Tietysti. Tämä on siitä likaisesta lehdestäsi, senkin hörhö. 
+fr	Évidemment. C'est celle de ton magazine cochon, dingo. 
+he	&rlm;‏‏בטח שאתה אוהב אותה. | &rlm;‏היא מהמגזין המלוכלך שלך, חתיכת מוזר.‏ | 
+it	È ovvio che ti piaccia. Era su quella pagina della rivista, scemo. 
+nl	Natuurlijk. Dezelfde als uit jouw vieze tijdschrift. 
+no	Selvsagt. Den er fra det frekke bildet ditt. 
+pr-br	Claro que sim.  É da página da sua revista suja, cabeção. 
+pr	Claro que adoras. É da tua revista porca, seu anormal. 
+ro	Normal că-ți place. E din pagina revistei tale deocheate, ciudatule! 
+sp	Claro. Es de tu sucia revista, degenerado. 
+sp-eu	Claro que sí, es de tu revista guarra, bicho raro. 
+sv	Så klart du gör. Den är från en sida ur din snusktidning. 
+th	แน่สิ ก็มันมาจาก | หน้านิตยสารโป๊ของคุณน่ะสิ คนบ้า | 
+tr	Bayılırsın tabii. Senin şu muzır dergi sayfandan. 
+vi	Tất nhiên rồi. Thiết kế trong trang | tạp chí bẩn của anh đấy, đồ kỳ cục. | 
+zh-long	那當然，就是你那張 破爛雜誌頁面上那件，怪咖 
+zh-short	那是当然了 是你看的杂志里的那条 变态 
+

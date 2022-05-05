@@ -1,0 +1,52 @@
+ar	&rlm;‏كان وداعاً قاسياً على "ساندي".‏ | 
+da	Det var hårdt for Sandy at sige farvel. 
+el	Άλλο ένα δύσκολο αντίο για εκείνον. 
+en	That was another tough goodbye for Sandy. | 
+fi	Ne olivat toiset rankat jäähyväiset. 
+fr	C'était dur pour Sandy. 
+he	&rlm;‏זו הייתה פרידה קשה לסנדי.‏ | 
+id	Itu perpisahan sedih lain bagi Sandy. 
+it	Un altro doloroso addio per Sandy. 
+nl	Dat was een zwaar afscheid. 
+no	Enda en tøff avskjed for Sandy. 
+pl	To było dla Sandy'ego trudne. 
+pr-br	Essa foi outra despedida difícil para o Sandy. 
+pr	Foi outra despedida dura para o Sandy. 
+ro	A fost altă despărțire dureroasă pentru Sandy. 
+sp-eu	Fue una despedida difícil para Sandy. 
+sp	Fue un adiós difícil para Sandy. 
+sv	Det var ett tufft avsked för Sandy. 
+th	มันเป็นการบอกลาที่ลำบากสำหรับแซนดี้ | 
+tr	Sandy için zor bir vedaydı. 
+vi	Cuộc chia tay thật khó với Sandy. | 
+zh-long	對山迪來說又是一次煎熬的道別 
+zh-short	对桑迪来说那是次痛苦的离别 
+ko	샌디로서는 힘겨운 작별이었죠 | 
+ru	Сэнди было трудно с ней прощаться. 
+ja	またしてもつらい別れね | 再会できる保証はない | 
+id	Dia tidak tahu apakah bisa bertemu atau bicara dengan Courtney lagi. 
+ar	&rlm;‏لم يعرف إن كان سيرى "كورتني" مجدداً.‏ | 
+da	Han vidste ikke, om han nogensinde ville se Courtney igen. 
+el	Δεν ήξερε αν θα την έβλεπε ή θα της μιλούσε ποτέ ξανά. 
+en	He... he didn't even know if he | would ever see or talk to Courtney again. | 
+fi	Hän ei tiennyt, näkisikö hän Courtneya enää koskaan. 
+fr	Il ne savait pas s'il reverrait Courtney un jour. 
+he	&rlm;‏הוא לא ידע אם הוא יראה את קורטני שוב.‏ | 
+it	Non sapeva se avrebbe mai rivisto Courtney. 
+nl	Hij wist niet of hij Courtney ooit nog zou zien. 
+no	Han visste ikke om han ville treffe Courtney igjen. 
+pl	Nie wiedział, czy jeszcze kiedyś zobaczy Courtney. 
+pr-br	Ele não sabia se iria ver Courtney de novo. 
+pr	Ele nem sequer sabia se voltaria a ver a Courtney. 
+ro	Nici nu știa dacă avea s-o mai vadă pe Courtney. 
+sp-eu	No sabía si volvería a ver a Courtney. 
+sp	No sabía si volvería a ver a Courtney. 
+sv	Han visste inte om han skulle få se Courtney igen. 
+th	ไม่รู้ว่าจะได้เจอคอร์ทนี่ย์อีกไหม | 
+tr	Courtney'yi bir daha görüp göremeyeceğini bilmiyordu. 
+vi	Anh ấy không biết | có được gặp lại Courtney không. | 
+zh-long	他不知道他倆會不會再見面 或說到話 
+zh-short	他不知道自己能不能再见到考特尼 
+ko	코트니를 다시 볼 줄은 | 꿈에도 몰랐으니까요 | 
+ru	Он не знал, увидится ли еще с Кортни. 
+

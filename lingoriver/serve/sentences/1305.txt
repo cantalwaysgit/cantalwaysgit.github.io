@@ -1,0 +1,26 @@
+ar	&rlm;‏والقلب مليء بالرغبة‏ | 
+fr	Le cœur plein de désir 
+he	&rlm;‏לבבות מלאים תשוקה‏ | 
+it	Con il cuore pieno di desiderio 
+ko	욕망으로 가득한 마음 | 
+nl	een hart vol verlangen 
+pr-br	Corações cheios de desejo 
+pr	Coração cheio de desejo 
+ro	Inima plină de dorință 
+sp	Corazones rebosantes de deseo 
+sp-eu	El corazón lleno de deseo 
+th	หัวใจเปี่ยมด้วยแรงปรารถนา | 
+tr	Yürekler dolmuş arzuyla 
+vi	Trái tim đầy đam mê | 
+zh-long	內心慾望滿溢 
+zh-short	心中充满欲望 
+pl	Serca pełne pożądania 
+da	Hjertet overstrømmer af lyst Jeg vil ha' dig, du vil ha' mig 
+el	Καρδιές γεμάτες επιθυμία Να σε θέλω, να με θέλεις 
+fi	Polte tää sydämen Sua haluan, mua haluathan 
+id	Hatiku penuh hasrat menginginkanmu 
+ru	Сердце полно страсти Хочу тебя 
+sv	Hjärtat sprängfyllt med begär Vill att du ska... 
+en	♪ Hearts on full with desire... ♪ | 
+ja	愛の欲望は止まらない | 
+

@@ -1,0 +1,57 @@
+ar	&rlm;‏يجب أن أذهب. لدينا عرض آخر كل 12 دقيقة. | 
+da	Jeg skal gå nu. Vi har et show mere. 
+el	Πρέπει να φύγω. Έχουμε κι άλλη παράσταση. 
+en	I kinda gotta go. | We have a show every 12 minutes. | 
+fi	Meillä on toinen esitys. 
+fr	Je suis pressée. On reprend dans 12 minutes. 
+he	&rlm;‏אני צריכה ללכת. יש לנו הופעה נוספת.‏ | 
+id	Tidak bisa. Ada pertunjukan setiap 12 menit. 
+it	Devo andare. Abbiamo un altro spettacolo. 
+ko	가봐야겠어요 | 다음 공연 준비해야 하거든요 | 
+nl	Ik moet gaan. We hebben nog een show. 
+pl	Muszę iść. Zaraz drugi występ. 
+pr-br	Preciso ir, me apresento a cada 12 minutos. 
+pr	Tenho de ir. Temos outro espetáculo. 
+ro	Trebuie să plec. Avem spectacol. 
+ru	Я спешу. У нас выступление. 
+sp	Debo irme. Actúo cada 12 minutos. 
+sp-eu	Tengo que irme. Tenemos otra representación. 
+sv	Jag måste gå. Vi har en till föreställning. 
+th	ฉันต้องไปแล้ว ต้องแสดงอีกโชว์ใน 12 นาที | 
+tr	Gitmem gerekiyor. Başka bir gösterimiz var. 
+vi	Tôi phải đi rồi. | Cứ 12 phút lại có buổi diễn. | 
+zh-long	我得走了，等一下還要表演 
+zh-short	我得走了 后面还有场表演 
+no	-Jeg må gå. Vi har en ny forestilling. -Fire minutter. Det er verdt det. 
+ja	まだショーが | 
+
+hu	Nincs is könyved. 
+it	Non hai un libro. 
+pt-br	Você não tem um livro. 
+ms	Ayah tiada buku. 
+da	Du har ingen bog. | 
+es-eu	¿Y el libro? 
+fr	Sans livre ? 
+he	‫אין לך ספר.‬ | 
+hr	Nemaš knjigu. 
+id	Ayah tak punya buku. 
+ja	&lrm;本がない | 
+ko	&lrm;책이 없잖아요 | 
+nl	Je hebt geen boek. 
+pt	Não tens livro. 
+ro	Nu ai carte. 
+th	&lrm;พ่อไม่มีหนังสือ | 
+tr	Kitabın yok. 
+vi	&lrm;Bố không có truyện. | 
+zh-long	你又沒有書 
+zh-short	你又没有书 
+el	Δεν έχεις βιβλίο. 
+es	No trajiste un libro. 
+fi	Ei sinulla ole kirjaa. | 
+no	Du har ingen bok. 
+sv	Du har ingen bok. 
+uk	Ти без книжки. 
+cs	Nemáš knížku. 
+ru	И где книга? 
+en	You don't have a book. 
+

@@ -1,0 +1,28 @@
+ar	&rlm;‏‏عندما يعود، أتحداك أن تقول | &rlm;‏إن النبيذ الآخر لم يعجبك أيضاً.‏ | 
+da	Når han kommer tilbage, tør du garanteret ikke sige, du også hader den. 
+el	Όταν γυρίσει, σε προκαλώ να του πεις ότι δε σου αρέσει ούτε αυτό. 
+en	When he comes back, | I dare you to say you hate that one, too. | 
+fi	Kun hän tuo toisen viinin, uskallatko sanoa inhoavasi sitäkin? 
+fr	À son retour, chiche, tu te plains de l'autre vin. 
+he	&rlm;‏‏כשהוא חוזר, | &rlm;‏נראה אותך אומר שאתה שונא גם את זה.‏ | 
+it	Quando torna, ti sfido a dire che non ti piace neanche quello. 
+ko	어디 한번 저 와인 맛도 | 별로라고 해보세요 | 
+nl	Als hij terugkomt, zeg je dat je die ook niks vindt. 
+no	Jeg utfordrer deg til å si at du hater den neste også. 
+pl	Założę się, że o drugim już nie powiesz, że ci nie smakuje. 
+pr-br	Quando ele voltar, duvido que diga que odiou esse também. 
+pr	Quando ele voltar, desafio-te a dizer mal também daquele. 
+ro	Când se întoarce, te provoc să-i spui că nu-ți place nici ăla. 
+sp	Cuando regrese te desafío a decirle que ese tampoco te gusta. 
+sp-eu	Cuando vuelva, a ver si te atreves a decir que ese tampoco te gusta. 
+sv	När han är tillbaka, utmanar jag dig att säga att du hatar det med. 
+th	พอเขากลับมา ฉันท้าให้คุณพูดว่า | ไม่ชอบนั่นอีกด้วย | 
+tr	Geri geldiğinde onu da beğenmediğini söyle de göreyim. 
+vi	Khi anh ta quay lại, | tôi thách anh nói là cũng ghét loại đó. | 
+zh-long	等他回來，我賭你不敢說 那瓶酒不好喝 
+zh-short	他回来时 我说你不敢说那瓶也不好 
+ru	Когда он вернется, 
+id	Saat dia kembali, aku menantangmu bilang kau benci itu juga. 
+ja	次のワインも | “まずい”って言って | 
+ru	скажи, что тебе и это не нравится. 
+

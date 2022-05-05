@@ -1,0 +1,26 @@
+ru	Нет, губы немного двигаются, но не это главное. 
+id	Tidak, kau lihat bibirnya bergerak sedikit, tapi itu tidak penting. 
+ar	&rlm;‏‏لا، ترين شفتيه تتحركان قليلاً، | &rlm;‏لكن ليس هذا هو المهم.‏ | 
+da	Hans læber bevæger sig lidt, men det er ikke vigtigt. 
+el	Όντως βλέπεις τα χείλη του να κινούνται, αλλά δεν έχει σημασία. 
+en	No, you see his lips move slightly, | but that's not the important thing. | 
+fi	Huulet liikkuvat hieman, mutta se ei ratkaise, 
+fr	Ses lèvres bougent un peu, mais c'est pas si grave. 
+he	&rlm;‏‏לא, אתה רואה את השפתיים שלו נעות קצת, | &rlm;‏אבל זה לא מה שחשוב.‏ | 
+it	No, le labbra si muovono appena, ma non è importante. 
+nl	Je ziet zijn lippen een beetje bewegen, maar dat is niet belangrijk. 
+no	Jo, man kan se leppene bevege seg, men det er ikke det viktige. 
+pl	Trochę widać, że rusza ustami, ale nie to jest ważne. 
+pr-br	Você vê que os lábios se mexem levemente, mas isso não é importante. 
+pr	Não, os lábios mexem ligeiramente, mas não é o mais importante. 
+ro	Nu, se vede puțin că-și mișcă buzele, dar nu asta contează. 
+sp-eu	Se le mueven un poco los labios, pero eso no es lo importante. 
+sp	No, mueve un poco los labios, pero eso no es lo importante. 
+sv	Man ser att hans läppar rör sig, men det är inte så viktigt. 
+th	ไม่เลย ริมฝีปากเขาขยับนิดเดียว | แต่นั่นไม่ใช่เรื่องสำคัญ | 
+tr	Hayır, dudakları hafifçe kıpırdıyor ama önemli olan o değil. 
+vi	Không, cô thấy môi anh ta mấp máy, | nhưng điều đó không quan trọng. | 
+zh-long	你會看到他嘴唇稍微動一下 但這不重要 
+zh-short	不 他嘴唇有小动作 但这不重要 
+ko	입술은 살짝 움직이는데 | 그게 문제가 아니에요 | 
+

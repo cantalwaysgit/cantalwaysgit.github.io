@@ -1,0 +1,27 @@
+en	-Really? "I know you won't." | -I can't joke, too. | 
+ar	&rlm;‏حقاً؟ "أعلم أنك لن تدخلي إليها."‏ | 
+da	Helt ærligt? "Det vidste jeg godt." 
+el	Αλήθεια; Αλλιώς έδειχνες. 
+fi	Niinkö? "Tiedän kyllä." 
+fr	Genre, tu le savais. 
+he	&rlm;‏באמת? "אני יודע שלא התכוונת."‏ | 
+it	Davvero? "So che non lo farai". 
+ko	‘그런 줄 알고 있었어’라니 | 
+nl	'Ik weet dat je het niet doet.' 
+pl	Brzmiało to inaczej. 
+pr	A sério? "Eu sei que não vais." 
+pr-br	Você disse: "Sei que não faria isso." 
+ro	Serios? "Știu că nu intenționai." 
+sp	¿De veras? "Sé que no lo harás". 
+sp-eu	¿Sí? "Sé que no lo harás". 
+sv	Verkligen? "Det visste jag väl." 
+th	ถึงตอนไหนนะ "ผมรู้ว่าคุณจะไม่" | 
+tr	Gerçekten mi? "Girmeyeceğini biliyordum." 
+vi	Thật sao? "Tôi biết cô sẽ không làm thế." | 
+zh-long	“我知道妳不會來真的” 
+zh-short	是吗？“我知道你不会的” 
+ru	Ну да, «знал, что не прыгнешь»! 
+ja	本当？ “解雇するぞ” | 
+no	"Jeg vet at du ikke vil gjøre det." 
+id	"Aku tahu kau tak berani." 
+

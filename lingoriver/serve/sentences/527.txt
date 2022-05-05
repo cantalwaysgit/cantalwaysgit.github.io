@@ -1,0 +1,27 @@
+ja	しゃっくり君か？ | 
+fr	M. Hoquet ? C'est toi ? 
+nl	Hikker? Ben jij dat? 
+id	- Ceguk? Itu kau? - Ya. 
+ru	-Икотка? Это ты? -Да. 
+ar	&rlm;‏‏- "الحازوق"؟ أهذا أنت؟ | &rlm;‏- أجل.‏ | 
+da	-Hikke? Er det dig? -Ja. 
+el	-"Λόξυγγα"; Εσύ είσαι; -Ναι. 
+en	-Hiccups? That's you? | -Yeah. | 
+fi	Hikkako se siinä? 
+he	&rlm;‏‏שיהוקי? זה אתה? | &rlm;‏-כן.‏ | 
+it	- Singhiozzo? Sei tu? - Sì. 
+no	-Hikke? Er det deg? -Ja. 
+pl	- Czkawka? To ty? - Tak. 
+pr-br	-Soluço? É você? -Sim. 
+pr	- Soluços? És tu? - Sim. 
+ro	- Sughiț! Tu ești? - Da. 
+sp-eu	- ¿Hipo? ¿Eres tú? - Sí. 
+sp	- ¿Hipo? ¿Eres tú? - Sí. 
+sv	-Hickaren? Är det du? -Just det. 
+th	- จอมสะอึก คุณเหรอนั่น | - ใช่ | 
+tr	-Hıçkırık! Sen misin? -Evet. 
+vi	- Nấc? Là cậu à? | - Phải. | 
+zh-long	-打嗝哥？是你？ -對 
+zh-short	-“嗝嗝”？是你吗？ -是的 
+ko	- 딸꾹질? 너야? | - 네 | 
+

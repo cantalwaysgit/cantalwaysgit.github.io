@@ -1,0 +1,27 @@
+id	Pitanya tidak berputar. 
+ja	回ってないぞ　見ろ | 
+ru	Не крутится. 
+ar	&rlm;‏الشريط لا يدور.‏ | 
+da	Den kører ikke. 
+el	Δε γυρίζει. 
+en	It's not rolling. It's not rolling. | 
+fi	Se ei pyöri. 
+fr	Ça n'enregistre pas. 
+he	&rlm;‏זה לא מקליט.‏ | 
+it	Non sta registrando. 
+ko	안 돌아가잖아 | 
+nl	Hij draait niet. 
+no	De snurrer ikke. 
+pl	Nie nagrywasz. 
+pr-br	Não está gravando. 
+pr	Não está a gravar. 
+ro	Nu se învârtește. 
+sp-eu	No está grabando. 
+sp	No está grabando. 
+sv	Den rullar inte. 
+th	เครื่องไม่เดิน มันไม่เดิน | 
+tr	Kaydetmiyor. 
+vi	Nó không quay. | 
+zh-long	沒在轉… 
+zh-short	音带没转 
+

@@ -1,0 +1,28 @@
+ar	&rlm;‏كان اليوم مثالياً، والليلة أفضل.‏ | 
+da	Dagen var perfekt, natten var bedre. 
+el	Η μέρα ήταν τέλεια και η νύχτα ακόμη καλύτερη. 
+en	[Courtney] | The day was perfect, the night was better. | 
+fi	Päivä oli täydellinen, yö vielä parempi. 
+fr	Une journée parfaite, une nuit encore meilleure. 
+it	La giornata è stata perfetta, la notte meglio ancora. 
+ko	'낮은 즐거웠고 | 밤은 더 좋았어요' | 
+nl	De dag was perfect en de nacht nog beter. 
+pr-br	O dia foi perfeito, a noite foi melhor. 
+pr	O dia foi perfeito e a noite foi ainda melhor. 
+ro	Ziua a fost perfectă, noaptea, și mai și. 
+sp	El día fue perfecto, la noche fue mejor. 
+sp-eu	El día fue perfecto, la noche fue aún mejor. 
+sv	Dan var perfekt, natten bättre. 
+tr	Gün mükemmeldi, gece daha da iyiydi. 
+vi	Một ngày hoàn hảo, một đêm hoàn hảo hơn. | 
+zh-long	昨天很美好，昨夜更完美 
+ja	“最高の一日と | ステキな夜をありがとう” | 
+no	Dagen var perfekt, natten var enda bedre. 
+zh-short	昨天白天很完美 晚上更棒 
+ru	День был прекрасен, 
+he	&rlm;‏היום היה מושלם, הלילה היה טוב יותר.‏ | 
+id	Hari itu sempurna, malamnya lebih baik. 
+pl	Dzień był cudowny, noc jeszcze lepsza. 
+th	กลางวันก็สุดยอด กลางคืนยิ่งดีกว่า | 
+ru	ночь - еще лучше. 
+

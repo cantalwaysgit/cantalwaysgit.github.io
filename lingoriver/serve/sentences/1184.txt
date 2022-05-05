@@ -1,0 +1,49 @@
+id	Aku biasanya ingin klienku mulai perlahan-lahan. 
+ru	Я люблю начинать потихоньку. 
+ar	&rlm;‏أحب أن يبدأ زبائني بشكل بطيء عادة.‏ | 
+da	Mine klienter skal starte langsomt. 
+el	Συνήθως, προτιμώ οι πελάτες μου να ξεκινούν χαλαρά. 
+en	Well, I usually like my clients | to start slow. | 
+fr	Je préfère démarrer doucement. 
+he	&rlm;‏‏אני בדרך כלל אוהב | &rlm;‏שהלקוחות שלי מתחילים לאט.‏ | 
+it	A me piace che i miei clienti partano piano. 
+ko	난 고객이 천천히 | 시작하는 편을 좋아해 | 
+nl	Meestal wil ik dat mijn cliënten rustig beginnen. 
+pl	Zwykle radzę klientom zaczynać powoli. 
+pr-br	Geralmente gosto que meus clientes comecem devagar. 
+pr	Gosto que os meus clientes comecem devagar. 
+ro	De obicei, prefer un debut mai lent pentru clienții mei. 
+sp-eu	Me gusta que mis clientes empiecen despacio. 
+sp	Me gusta que mis clientes comiencen despacio. 
+th	ปกติแล้วผมอยากให้คนของผมเริ่มช้าๆ | 
+tr	Genellikle sanatçılarım hızlı başlasınlar istemem. 
+vi	Tôi muốn khách hàng của tôi tiến từ từ. | 
+zh-long	我通常不會讓藝人衝太快 
+zh-short	我通常会让客户慢慢来 
+fi	Annan asiakkaideni aloittaa hitaasti. Pelkistetysti. Ei liikaa julkisuutta. 
+no	Jeg vil at klientene starter forsiktig. Gjør det enkelt. Ingen overeksponering. 
+sv	Mina klienter ska börja långsamt. Håll det enkelt. Inte överexponeras. 
+ja	スロースタートが肝心だ | 出すぎると失敗する | 
+id	Tetap sederhana. Jangan muncul berlebihan. 
+ru	Просто, спокойно. Без шума. 
+ar	&rlm;‏وأن نبقي الأمر بسيطاً، وألا نبالغ.‏ | 
+da	Holde det enkelt. Ikke overeksponere. 
+el	Να είναι απλοί και να μην υπερεκτίθενται. 
+en	Keep it simple. Don't overexpose. | 
+fr	Rester simple. Ne pas la surexposer. 
+he	&rlm;‏שומרים על פשטות. ללא חשיפת יתר.‏ | 
+it	Basso profilo e niente sovraesposizione. 
+ko	과도하게 노출하지 않고 | 단순하게 | 
+nl	Hou het simpel. Niet te veel laten zien. 
+pl	Prostota bez parcia. 
+pr-br	Manter a simplicidade. Sem superexposição. 
+pr	Manter as coisas simples. Sem se exporem demasiado. 
+ro	Să fie simplu. Fără expunere în exces. 
+sp	Algo simple. Que no se sobreexpongan. 
+sp-eu	De forma sencilla. Sin sobreexponerse. 
+th	ทำแบบง่ายๆ ไม่โฉ่งฉ่างเกินไป | 
+tr	Basit tut. Fazla sergileme. 
+vi	Thật đơn giản. Đừng thể hiện quá. | 
+zh-long	慢慢來，別曝光過度 
+zh-short	简单点 别过度曝光 
+

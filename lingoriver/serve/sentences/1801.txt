@@ -1,0 +1,31 @@
+id	Ada sesuatu di tenggorokanmu, Heather? 
+ru	У тебя что-то в горле застряло? 
+ja	何か つかえてる？ | 
+en	You have something | in your throat, Heather? | 
+ar	&rlm;‏‏- أيوجد شيء في حلقك يا "هيذر"؟ | &rlm;‏- أجل، يدك أيها الأحمق!‏ | 
+da	-Har du noget i halsen? -Ja, din hånd! 
+el	-Έχει τίποτα ο λαιμός σου; -Το χέρι σου! 
+fi	-Onko kurkussasi jotain? -Kätesi! 
+fr	- T'as un truc dans la gorge ? - Ta main ! 
+he	&rlm;‏‏יש לך משהו בגרון? | &rlm;‏-היד שלך!‏ | 
+it	- Hai qualcosa in gola? - La tua mano! 
+ko	- 목구멍에 뭐가 꼈어? | - 네 손이 있잖아! | 
+nl	Heb je iets in je keel? -Jouw hand. 
+no	-Har du noe i halsen? -Hånden din! 
+pl	- Coś ci utknęło w gardle? - Twoja ręka! 
+pr-br	-Tem algo na sua garganta? -A sua mão, idiota! 
+pr	- Tens alguma coisa na garganta? - A tua mão! 
+ro	- Ai ceva în gât? - Mâna ta! 
+sp-eu	- ¿Tienes algo metido en la garganta? - ¡Tu mano! 
+sp	- ¿Tienes algo en la garganta? - ¡Tu mano! 
+sv	-Har nåt fastnat i halsen, Heather? -Ja, din hand! 
+th	- มีอะไรติดคอเหรอ | - มือคุณน่ะ | 
+tr	-Boğazında bir şey mi var? -Elin var ya şapşal! 
+vi	- Có gì vướng ở cổ à? | - Tay anh đấy! | 
+zh-long	-你喉嚨卡了東西嗎？ -你的手！白痴 
+zh-short	-你嗓子里有东西吗？ -是你的手！ 
+ru	Твоя рука! 
+en	Yeah, your hand, dummy! | 
+id	Ya, tanganmu, Bodoh. 
+ja	お前の手だ | 
+

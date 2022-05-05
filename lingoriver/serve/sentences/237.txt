@@ -1,0 +1,56 @@
+id	Di sepanjang musim dingin 
+ja	冬の間ずっと― | 
+ar	&rlm;‏"خلال وقت الشتاء كله‏ | 
+da	Hele vinteren igennem 
+el	Καθ' όλη τη διάρκεια του χειμώνα 
+en	♪ All through the wintertime ♪ | 
+fi	Läpi koko talven 
+fr	Tout l'hiver durant 
+he	&rlm;‏במשך כל החורף‏ | 
+it	Per tutto l'inverno 
+ko	겨우내 | 
+nl	tijdens de hele winter 
+pl	Na zimowy czas 
+pr-br	Por todo o inverno 
+pr	Durante todo o inverno 
+ro	Toată iarna 
+ru	И так всю зиму 
+sp	Durante todo el invierno 
+sp-eu	Todo el invierno 
+sv	Genom hela vintern 
+th	ตลอดฤดูหนาว | 
+tr	Kış boyunca 
+vi	Rồi mùa đông đến | 
+zh-long	漫漫長冬 
+zh-short	整个冬天 
+
+es	¿Usted escribió eso? 
+uk	Це ви написали? 
+pt-br	Você escreveu isso? 
+cs	Psala jste to vy? 
+da	Har De skrevet det? | 
+el	Εσείς το γράψετε; 
+en	Did you write that? 
+fi	Kirjoititko tämän? | 
+fr	Vous avez écrit ça ? 
+he	‫את כתבת את זה?‬ | 
+hr	Vi ste to napisali? 
+hu	Ezt ön írta? 
+id	Kau pengirimnya? 
+it	L'ha scritto lei? 
+ko	&lrm;그쪽이 쓴 건가요? | 
+ms	Awak yang tulis? 
+nl	Komt dit van u? 
+no	Skrev du det? 
+pt	Escreveu isto? 
+ro	Tu ai scris astea? 
+sv	Skrev ni det? 
+th	&lrm;คุณเขียนเองเหรอ | 
+vi	&lrm;Cô nhắn à? | 
+zh-long	這是妳寫的嗎？ 
+zh-short	这是你写的吗？ 
+tr	Bunu siz mi yazdınız? 
+es-eu	¿Usted le escribió eso? 
+ja	&lrm;これは あなた？ | 
+ru	Это вы написали? 
+

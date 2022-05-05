@@ -1,0 +1,26 @@
+id	Sampai jumpa, Sandy. 
+ja	さよなら サンディ | 
+ru	Прощай, Сэнди. 
+ar	&rlm;‏إلى اللقاء يا "ساندي".‏ | 
+da	Farvel, Sandy. 
+el	Αντίο, Σάντι. 
+en	Goodbye, Sandy. | 
+fi	Hyvästi, Sandy. 
+fr	Au revoir, Sandy. 
+he	&rlm;‏להתראות, סנדי.‏ | 
+it	Addio, Sandy. 
+ko	잘 있어요, 샌디 | 
+no	Farvel, Sandy. 
+pl	Żegnaj, Sandy. 
+pr	Adeus, Sandy. 
+pr-br	Tchau, Sandy. 
+ro	Rămas-bun, Sandy! 
+sp	Adiós, Sandy. 
+sp-eu	Adiós, Sandy. 
+sv	Hej då, Sandy. 
+th	ลาก่อนแซนดี้ | 
+tr	Hoşça kal Sandy. 
+vi	Tạm biệt, Sandy. | 
+zh-long	再見，山迪 
+zh-short	再见 桑迪 
+

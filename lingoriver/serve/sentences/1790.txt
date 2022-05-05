@@ -1,0 +1,29 @@
+id	Kawan Boom Boom akan menyanyikan lagu untuk kita. 
+en	Friend Boom Boom is gonna | sing a song for us today, kids. | 
+ar	&rlm;‏‏سيغني صديقنا "بوم بوم" أغنية يا أطفال. | &rlm;‏أتودون سماعها؟‏ | 
+da	Boom Boom vil synge en sang. Vil I gerne høre den? 
+el	Ο φίλος Μπουμ Μπουμ θα μας πει ένα τραγούδι. Θέλετε να το ακούσετε; 
+fi	Boom Boom laulaa nyt laulun. Haluatteko kuulla sen? 
+fr	Boum Boum va chanter. Ça vous branche ? 
+he	&rlm;‏‏החבר בום בום ישיר לנו שיר. | &rlm;‏אתם רוצים לשמוע אותו?‏ | 
+it	Il nostro amico Boom Boom canterà per voi. Volete ascoltarlo? 
+ko	친구 붐붐이 노래를 하겠대요 | 들어보실래요? | 
+nl	Boom Boom gaat een lied zingen. Willen jullie het horen? 
+no	Venn Boom Boom skal synge en sang. Vil dere høre? 
+pl	Bum Bum zaśpiewa dla nas piosenkę. Chcecie? 
+pr-br	O amigo Bubu vai cantar uma música. Gostariam de ouvi-la? 
+pr	O amigo Boom Boom vai cantar para nós. Querem ouvir? 
+ro	Prietenul Boom Boom ne va cânta un cântecel azi. Vreți să-l auziți? 
+sp-eu	Mi amigo Boom Boom va a cantar ¿Queréis oírlo? 
+sp	Mi amigo Boom Boom cantará una canción. ¿Quieren oírla? 
+sv	Vår vän Boom Boom ska sjunga en sång. Vill ni höra den? 
+th	เพื่อนบูมบูมจะร้องเพลงให้ฟัง | อยากฟังไหม | 
+tr	Boom Boom kardeş bir şarkı söyleyecek. Dinlemek ister misiniz? 
+vi	Người bạn Boom Boom sẽ hát một bài. | Các cháu có muốn nghe không? | 
+zh-long	碰碰今天想唱首歌 各位小朋友想聽嗎？ 
+zh-short	砰砰朋友要唱首歌 你们想听吗？ 
+ru	Бум-Бум споет нам песенку. Хотите послушать? 
+ja	今日はブンブンが歌うよ | 聴きたいかな？ | 
+id	Kalian suka? Kalian mau dengar? 
+en	Would you like that? | Would you like to hear it? | 
+

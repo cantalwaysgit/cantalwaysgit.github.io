@@ -1,0 +1,27 @@
+id	Kau membawanya ke tingkatan teratas. 
+ar	‫أدخلتها عالم الاستعراض.‬ | 
+da	Du fik hende op blandt de store. 
+el	Την έβαλες στα μεγάλα σαλόνια. 
+en	[imitating Sandy] | You brought her up to the big leagues. | 
+fi	Nostit hänet huipulle. 
+fr	Tu l'as amenée au sommet. 
+he	&rlm;‏הבאת אותה לליגה של הגדולים.‏ | 
+it	L'hai portata ai livelli che contano. 
+ja	彼女を発掘し人気者にした | 
+ko	큰물로 끌고 오셨잖아요 | 
+nl	Jij bracht haar naar de hoogste klasse. 
+no	Du fikk henne til toppligaen. 
+pl	Wywindowałeś ją do pierwszej ligi. 
+pr-br	Você a mostrou aos maiorais. 
+pr	Trouxeste-a para o campeonato principal. 
+ro	Ai băgat-o în față! 
+sp-eu	La has llevado a primera división. 
+sp	La llevaste a las grandes ligas. 
+sv	Du fick henne till toppen. 
+th	คุณพาเธอเข้ามาสู่ระดับแนวหน้า | 
+tr	Onu birinci lige taşıdın. 
+vi	Anh đã đưa cô ấy ra cuộc chơi lớn. | 
+zh-long	你帶她進了大聯盟 
+zh-short	你把她带上了大舞台 
+ru	Ты вывел её в высшую лигу. 
+

@@ -1,0 +1,27 @@
+id	Astaga. Aku dengar lagumu dua kali di radio hari ini. 
+ar	&rlm;‏‏يا إلهي. سمعت أغنيتك | &rlm;‏في المذياع مرتين اليوم.‏ | 
+da	Jeg hørte din sang i radioen to gange i dag. 
+el	Σήμερα άκουσα δύο φορές το κομμάτι σου στο ραδιόφωνο. 
+en	Oh, my God. I heard your song | on the radio twice today. | 
+fi	Kuulin tänään kappaleesi radiosta kaksi kertaa. 
+fr	Grave. J'ai entendu ta chanson deux fois aujourd'hui. 
+he	&rlm;‏‏אלוהים. שמעתי את השיר שלך היום | &rlm;‏פעמיים ברדיו.‏ | 
+it	Oddio. Oggi ho sentito il tuo pezzo alla radio due volte. 
+nl	Ik hoorde jouw nummer vandaag twee keer op de radio. 
+no	Jeg har hørt låta di to ganger på radio i dag. 
+pl	Dzisiaj dwa razy słyszałam w radiu twoją piosenkę. 
+pr-br	Meu Deus. Ouvi a sua música duas vezes na rádio hoje. 
+pr	Céus. Hoje ouvi a tua canção duas vezes no rádio. 
+ro	Doamne! Azi ți-am auzit de două ori cântecul la radio. 
+ru	Боже, я сегодня два раза слышала твою песню по радио. 
+sp	Dios. Escuché tu canción en la radio dos veces hoy. 
+sp-eu	Madre mía. Hoy he oído tu canción dos veces en la radio. 
+sv	Jag har hört din låt två gånger på radion idag. 
+th	โอ้ ตายแล้ว วันนี้ฉันได้ยิน | เพลงของคุณสองครั้งจากวิทยุ | 
+tr	Aman Tanrım. Bugün iki kere radyoda şarkını dinledim. 
+vi	Chúa ơi. Hôm nay tôi nghe | bài hát của chị trên đài hai lần đấy. | 
+zh-long	天啊，我今天在廣播上 聽到你的歌兩次 
+zh-short	天啊 今天电台播你的歌播了两遍 
+ko	세상에, 오늘 라디오에서 | 당신 노래만 2번 들었어요 | 
+ja	今日 ２回もラジオで聴いた | おめでとう | 
+

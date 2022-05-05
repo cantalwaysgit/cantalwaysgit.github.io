@@ -1,0 +1,32 @@
+en	[mimics Sandy laughing] | 
+
+es	¿Por qué preguntas? 
+it	Perché vuoi saperlo? 
+hu	Miért akarod tudni? 
+hr	Zašto te zanima? 
+uk	Навіщо це тобі? 
+cs	Nač to chceš vědět? 
+id	Kenapa kau ingin tahu? 
+ms	Kenapa awak nak tahu? 
+nl	Waarom wil je dat weten? 
+no	Hvorfor vil du vite det? 
+sv	Hur så? 
+ru	Зачем тебе? 
+el	Γιατί ρωτάς; 
+es-eu	¿Para qué? 
+fi	Miksi kysyt? | 
+ja	&lrm;なぜ？ | 
+zh-short	你打听这个干什么？ 
+da	Hvorfor? | 
+pt-br	Por que quer saber? 
+tr	Niye merak ediyorsun? 
+en	Why do you want to know? 
+ro	De ce vrei să știi? 
+fr	Pourquoi ? 
+he	‫למה את רוצה לדעת?‬ | 
+ko	&lrm;왜 알려고 하죠? | 
+pt	Porque queres saber? 
+th	&lrm;อยากรู้ไปทำไม | 
+vi	&lrm;Sao cô lại muốn biết? | 
+zh-long	妳為何這麼想知道？ 
+

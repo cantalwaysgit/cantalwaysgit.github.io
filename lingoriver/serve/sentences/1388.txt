@@ -1,0 +1,27 @@
+ru	Это ты! 
+id	Lihatlah dirimu! 
+ar	&rlm;‏يا لروعتك!‏ | 
+da	Det er jo dig! 
+el	Για δες! 
+en	Look at you! | 
+fi	Kappas sinua! 
+fr	Regarde-toi ! 
+he	&rlm;‏תראו אותך!‏ | 
+it	Ma guardati! 
+ko	멋지네요! | 
+nl	Kijk nou. 
+no	Se på deg! 
+pl	Spójrz tylko na siebie! 
+pr-br	Veja só você! 
+pr	Vejam só! 
+ro	Uită-te la tine! 
+sp-eu	¡Mírate! 
+sp	¡Mírate! 
+sv	Se på dig. 
+th	ดูคุณสิ | 
+tr	Şuna bakın! 
+vi	Nhìn anh này! | 
+zh-long	看看你！ 
+zh-short	瞧瞧你！ 
+ja	あなたなのね | 
+

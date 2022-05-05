@@ -1,0 +1,26 @@
+ar	&rlm;‏"سيندي"!‏ | 
+da	Cindy! 
+el	Σίντι! 
+en	Cindy! | 
+fi	Cindy! 
+fr	Cindy ! 
+he	&rlm;‏סינדי!‏ | 
+it	Cindy! 
+no	Cindy! 
+pl	Cindy! 
+pr-br	Cindy! 
+pr	Cindy! 
+ro	Cindy! 
+ru	Синди! 
+sp	¡Cindy! 
+sp-eu	¡Cindy! 
+sv	Cindy! 
+th	ซินดี้ | 
+tr	Cindy! 
+vi	Cindy! | 
+zh-long	辛蒂！ 
+zh-short	辛迪！ 
+ko	신디! | 
+ja	シンディ | 
+id	Cindy! 
+

@@ -1,0 +1,57 @@
+fr	Après avoir été remercié du service postal chez MCA, 
+id	Setelah aku dipromosikan dari ruang surat di MCA, 
+ru	После работы в отделе писем MCA 
+ar	&rlm;‏‏بعد أن ترقيت وخرجت من غرفة البريد في شركة | &rlm;‏"إم سي أيه"، عُينت لدى "فرانك غورشن".‏ | 
+da	Efter jeg blev forfremmet hos MCA, blev jeg ansat hos Frank Gorshin. 
+el	Μετά το Τμήμα Αλληλογραφίας της MCA, μου ανέθεσαν τον Φρανκ Γκόρσιν. 
+en	After I was promoted out of the mailroom | at MCA, I was assigned to Frank Gorshin. | 
+fi	Sain MCA:n postiosastolta ylennyksen Frank Gorshinin avustajaksi. 
+he	&rlm;‏‏אחרי שקודמתי מחדר הדואר באם-סי-איי, | &rlm;‏הצטרפתי לפרנק גורשין.‏ | 
+it	Dal reparto spedizioni della MCA sono diventato aiutante di Frank Gorshin. 
+ko	MCA 우편물실에서 승진한 뒤 | 프랭크 고쉰 밑으로 배정됐어 | 
+nl	Ik was eerst postjongen bij MCA en toen kreeg ik Frank Gorshin. 
+no	Etter forfremmelsen fra postrommet i MCA jobbet jeg for Frank Gorshin. 
+pl	Z pokoju pocztowego w MCA awansowałem na asystenta Franka Gorshina. 
+pr-br	Fui promovido na MCA e me escalaram para trabalhar com Frank Gorshin. 
+pr	Depois de ser promovido do correio na MCA, foi-me atribuído o Frank Gorshin. 
+ro	După ce am promovat de la sortarea corespondenței, am ajuns la Frank Gorshin. 
+sp	Después de salir del área de correos en MCA, me asignaron a Frank Gorshin. 
+sp-eu	Con mi primer ascenso dentro de MCA, me asignaron a Frank Gorshin. 
+sv	När jag blivit befordrad från postrummet på MCA, skrev jag på för Frank Gorshin. 
+th	หลังจากที่ฉันออกจากห้องไปรษณีย์ | ที่เอ็มซีเอ ก็ไปทำกับแฟรงก์ กอร์ชิน | 
+tr	MCA'in posta odasından Frank Gorshin'in asistanlığına yükseldim. 
+vi	Sau khi rời phòng văn thư ở công ty MCA, | chú được phân công làm cho Frank Gorshin. | 
+zh-long	我升官離開美希亞音樂的收發室 被派去法蘭克喬辛那邊 
+zh-short	我在美国音乐公司升了职 调离了收发室 被派给弗兰克格申 
+ja	僕はＭＣＡの郵便室にいたが | 出世して― | 
+
+it	È venuto con gli amici circa un anno fa. 
+da	Han og hans venner kom for et år siden. | 
+el	Ήρθε με τους φίλους του πριν έναν χρόνο. 
+es-eu	Vino con sus amigos hace un año. 
+es	Vino con sus amigos hace un año. 
+fr	Il est venu avec ses amis il y a un an. 
+he	‫הוא הגיע עם חברים שלו לפני שנה.‬ | 
+hr	Došao je lani s kolegama. 
+hu	Körülbelül egy éve jött a barátaival. 
+id	Dia dan teman-temannya kemari sekitar setahun lalu. 
+ja	&lrm;１年前に友達と来ました | 
+ko	&lrm;1년 전에 친구들이랑 왔어요 | 
+nl	Hij kwam een jaar geleden met z'n vrienden. 
+no	Han kom med vennene for et år siden. 
+pt	Veio cá com os amigos há um ano. 
+sv	Han dök upp här för nåt år sen. 
+th	&lrm;ประมาณปีที่แล้วเขามากับเพื่อนๆ | 
+tr	Bir yıl kadar önce arkadaşlarıyla geldi. 
+vi	&lrm;Cậu ấy và các bạn | &lrm;đến đây khoảng một năm trước. | 
+zh-long	他大約一年前跟朋友一起來的 
+zh-short	他一年前跟几个朋友一起来的 
+fi	He ilmestyivät noin vuosi sitten. | 
+pt-br	Ele veio com os amigos há um ano. 
+cs	Asi před rokem sem přišel s přáteli. 
+ms	Dia datang dengan kawannya setahun lalu. 
+ro	A venit cu prietenii lui acum un an. 
+uk	Він прийшов з друзями рік тому. 
+en	He came with his friends about a year ago. 
+ru	Год назад он пришел сюда с друзьями. 
+

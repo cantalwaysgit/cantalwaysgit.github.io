@@ -1,0 +1,98 @@
+id	Baiklah. 
+ja	お待たせ | 
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	-[Courtney] Okay. | -Ah! | 
+he	&rlm;‏בסדר.‏ | 
+it	Eccomi. 
+ko	됐어요 | 
+pl	No dobrze. 
+pr-br	Está bem. 
+pr	Pronto. 
+ro	Bine. 
+sp	De acuerdo. 
+sp-eu	Vale. 
+sv	Okej. 
+th	ก็ได้ | 
+tr	Tamam. 
+vi	Xong rồi. | 
+zh-long	好啦 
+zh-short	好了 
+ru	-Так. -Танец без штанов отменяется. 
+ja	パンツ丸出しの時間は | おしまいよ | 
+id	Adu dansa tanpa celana secara resmi dibatalkan. 
+ar	&rlm;‏أُلغي أمر الرقص عارياً.‏ | 
+da	Så er det slut med bar numse. 
+el	Ο ξεβράκωτος διαγωνισμός χορού ματαιώνεται. 
+en	Pants-Off Dance-Off | is officially canceled. | 
+fi	Housuton tanssiskaba on peruttu. 
+fr	Fini de traîner en caleçon. 
+he	&rlm;‏המסיבה ללא מכנסיים הסתיימה באופן רשמי.‏ | 
+it	E il problema è sparito. 
+ko	바지 벗고 춤추는 건 | 이제 힘들겠네요 | 
+no	Bukseløs-dansen er avlyst. 
+pl	Portki czyste. 
+pr-br	O striptease foi cancelado. 
+pr	O Baile Sem Calças está oficialmente cancelado. 
+ro	Concursul de striptease s-a încheiat oficial. 
+sp	El baile sin pantalones se canceló. 
+sp-eu	Se cancela el baile sin pantalones. 
+sv	Den byxlösa dansen är avblåst. 
+th	ยกเลิกระบำเปลื้องผ้าอย่างเป็นทางการ | 
+tr	Pantolonsuz dolaşmaya son. 
+vi	Không phải ngồi quần đùi thế nữa. | 
+zh-long	褲子洗好了，不用光屁屁了 
+zh-short	脱裤舞取消了 
+nl	Pants-Off Dance-Off is afgelopen. Doe deze aan. 
+ar	&rlm;‏‏- ارتد هذا. | &rlm;‏- حسناً.‏ | 
+da	-Tag dem her på. -Okay. 
+el	-Φόρεσέ το. -Εντάξει. 
+en	-Put these bad boys on. | -Okay. | 
+fi	Pane nämä jalkaasi. 
+fr	Enfile ça. 
+he	&rlm;‏‏תלבש אותם. | &rlm;‏-בסדר.‏ | 
+it	- Indossali. - Bene. 
+ko	- 입으세요 | - 그래 | 
+no	-Ta på denne. -Ok. 
+pl	Zakładaj. 
+pr-br	-Vista isso. -Está bem. 
+pr	- Veste-te. - Está bem. 
+ro	- Îmbracă-i. - Bine. 
+sp-eu	- Ponte estos. - Vale. 
+sp	- Póntelos. - Bien. 
+sv	Sätt på dig dem. 
+th	- ใส่นี่ซะ | - โอเค | 
+tr	-Giy şunu. -Pekâlâ. 
+vi	- Anh mặc vào đi. | - Được rồi. | 
+zh-long	-穿上吧 -好 
+zh-short	-穿上吧 -好的 
+ru	-Надевай. -Хорошо. 
+id	- Pakai celana ini. - Baiklah. Nodanya sudah hilang? 
+ru	Пятно отстиралось? Отлично. Ну ты посмотри. 
+ja	きれいになってるね | ありがとう | 
+ar	&rlm;‏هل أزلت البقعة؟ لطيف جداً. يا لروعتك.‏ | 
+da	Fik du pletten væk? Hvor er det godt. 
+el	Καθάρισες το λεκέ; Μπράβο σου. Πολύ ωραία. 
+en	You got the stain out? | Very nice. Look at you. Look at you. | 
+fi	Lähtikö tahra? Hienoa. Kappas vain. 
+fr	La tache est partie ? Super. T'es tout propre. 
+he	&rlm;‏הסרת את הכתם? יפה מאוד. תראו.‏ | 
+it	Li hai smacchiati? Ottimo. Ma guarda. 
+ko	얼룩은 지웠어? | 아주 잘했네, 이것 좀 봐 | 
+nl	Is de vlek eruit? Mooi zo. 
+no	Fikk du vekk flekken? Veldig bra. Se på det. 
+pl	Nie ma plamy? Świetna robota. Brawo. 
+pr-br	Conseguiu tirar a mancha? Legal. Veja só você. 
+pr	Conseguiste tirar a nódoa? Muito bem. Vejam só. 
+ro	Ai scos pata? Ce drăguț! Uită-te la tine! 
+sp-eu	¿Has quitado la mancha? Qué bien. Fíjate. 
+sp	¿Sacaste la mancha? Muy bien. Mírate. 
+sv	Fick du bort fläckarna? Snyggt. Har man sett. 
+th	คุณซักออกหมดแล้วเหรอ ดีจัง ดูสิ | 
+tr	Leke çıkmış mı? Çok güzel. Şuna bak. 
+vi	Cô giặt hết vết bẩn rồi à? | Tốt quá. Xem này. | 
+zh-long	都洗掉啦？太好了，有妳的 
+zh-short	污渍弄掉了吗？很好 看看你 
+id	Bagus. Lihatlah dirimu. 
+

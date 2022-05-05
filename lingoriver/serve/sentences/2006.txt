@@ -1,0 +1,27 @@
+ru	Черт. Ты перепутал таблетки. 
+ja	変な薬でも飲んだ？ | 
+ar	&rlm;‏اللعنة. لقد أخطأت في أدويتك.‏ | 
+da	Pokkers. Du har byttet rundt på pillerne. 
+el	Σκατά. Μπέρδεψες τα φάρμακά σου. 
+en	Oh, shit, Sandy. | You mixed up your pills. | 
+fi	Sinulla on mennyt lääkkeet sekaisin. 
+fr	Merde. T'as confondu tes pilules. 
+he	&rlm;‏חרא. ערבבת את הכדורים שלך.‏ | 
+it	Merda. Hai confuso le pasticche. 
+ko	이런, 약을 잘못 드셨나 봐요 | 
+nl	Je hebt de verkeerde pillen geslikt. 
+no	Du har forvekslet pillene dine. 
+pl	Szlag. Pomieszałeś swoje pigułki. 
+pr-br	Merda. Você trocou seus remédios. 
+pr	Caraças. Trocaste os comprimidos. 
+ro	Fir-ar! Ai încurcat pastilele! 
+sp	Carajo. Se te mezclaron las pastillas. 
+sp-eu	Mierda. Te has equivocado de pastillas. 
+sv	Satan. Du har blandat dina piller. 
+th	ให้ตายสิ คุณพูดสับสนใหญ่แล้ว | 
+tr	Eyvah. Sen ilaçlarını karıştırmışsın. 
+vi	Chết tiệt. Anh lại uống nhầm thuốc rồi. | 
+zh-long	靠，你吃錯藥囉 
+zh-short	该死 你吃错药了 
+id	Astaga, Sandy. Kau salah minum obat. 
+

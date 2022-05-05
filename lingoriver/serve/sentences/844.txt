@@ -1,0 +1,27 @@
+ja	テヘランだ バカ者 | 
+id	Aku di Teheran, Bodoh. 
+ru	Я в Тегеране, кретин. 
+ar	&rlm;‏أنا في "طهران" أيها الأحمق.‏ | 
+da	Jeg er i Teheran, din nar. 
+el	Είμαι στην Τεχεράνη, ανόητε. 
+en	I'm in Tehran, you imbecile. | 
+fi	Olen Teheranissa, älykääpiö. 
+fr	Je suis à Téhéran, abruti. 
+he	&rlm;‏אני בטהרן, טמבל.‏ | 
+it	Sono a Teheran, imbecille. 
+ko	난 테헤란에 있잖아 | 이 얼간아 | 
+nl	Ik ben in Teheran, idioot. 
+no	Jeg er i Teheran, din idiot. 
+pl	Jestem w Teheranie, imbecylu. 
+pr-br	Estou em Teerã, seu imbecil. 
+pr	Estou em Teerão, imbecil. 
+ro	Sunt în Teheran, imbecilule! 
+sp	Estoy en Teherán, imbécil. 
+sp-eu	Estoy en Teherán, imbécil. 
+sv	Jag är i Teheran, din dumskalle. 
+th	ผมอยู่ที่เตหะราน ไอ้โง่เอ๋ย | 
+tr	Tahran'dayım budala. 
+vi	Tôi đang ở Tehran, đồ ngốc. | 
+zh-long	我在德黑蘭，你這白痴 
+zh-short	我在德黑兰 你个笨蛋 
+

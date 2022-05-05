@@ -1,0 +1,24 @@
+ar	&rlm;‏‏- اذهب! | &rlm;‏- تحرك يا "ساندي"!‏ | 
+da	-Væk! -Flyt dig! 
+el	-Φύγε! -Κουνήσου, Σάντι! 
+en	-Okay, go! | -Sandy, move! Sandy! | 
+fr	Bouge, Sandy ! 
+he	&rlm;‏‏זוז! | &rlm;‏-סנדי, זוז!‏ | 
+it	Sandy, spostati! 
+no	-Gå! -Flytt deg! 
+pl	Suń się! 
+pr-br	-Saia! -Sandy, saia! 
+pr	- Vá! - Sandy, sai da frente! 
+ro	- Hai! - Sandy, mișcă! 
+sp-eu	- ¡Vamos! - ¡Sandy, muévete! 
+sp	- ¡Vete! - ¡Muévete! 
+sv	-Gå! -Rör på dig! 
+th	- ไป! | - แซนดี้ ขยับ! | 
+tr	-Çekil! -Yürü! 
+vi	- Tránh ra! | - Tránh ra! | 
+zh-long	-走！ -山迪，走開！ 
+zh-short	-快点！ -桑迪 让开！ 
+ko	- 나와요! | - 샌디, 비켜요! | 
+ru	-С дороги! -Сэнди! 
+ja	早くどけ | 
+

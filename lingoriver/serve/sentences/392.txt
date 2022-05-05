@@ -1,0 +1,27 @@
+ja	２人で頑張ろう | 
+vi	Nhưng ta phải làm việc. | 
+zh-short	但我们得开工了 
+ru	Но надо работать. 
+id	Tapi kita harus bekerja. 
+pl	Pora brać się do roboty. 
+th	แต่เราต้องกลับไปทำงานกัน | 
+ar	&rlm;‏لكن يجب أن نعمل.‏ | 
+da	Men vi skal i gang. 
+el	Πρέπει, όμως, να στρωθούμε στη δουλειά. 
+en	But we gotta get to work. | 
+fi	Mutta meidän pitää ryhtyä töihin. 
+fr	On doit se mettre au boulot. 
+he	&rlm;‏אבל עלינו להתחיל לעבוד.‏ | 
+it	Ma dobbiamo metterci al lavoro. 
+ko	하지만 이제 일하러 가야 해 | 
+nl	Maar we moeten aan de slag. 
+no	Men vi må begynne å jobbe. 
+pr-br	Mas temos que trabalhar. 
+pr	Mas temos de meter mãos à obra. 
+ro	Dar trebuie să ne apucăm de treabă. 
+sp-eu	Pero hay que ponerse a trabajar. 
+sp	Pero debemos ponernos a trabajar. 
+sv	Men vi måste börja jobba. 
+tr	Ama işe koyulmalıyız. 
+zh-long	但我們得趕快幹活去 
+

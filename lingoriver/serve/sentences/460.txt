@@ -1,0 +1,26 @@
+ar	&rlm;‏ماذا؟‏ | 
+da	Hvad? 
+el	Τι; 
+en	What? | 
+fi	Mitä? 
+fr	Quoi ? 
+he	&rlm;‏מה?‏ | 
+it	Come? 
+ko	뭐? | 
+pr-br	Quê? 
+pr	O quê? 
+ro	Poftim? 
+sp-eu	¿Qué? 
+sp	¿Qué? 
+sv	Vadå? 
+th	อะไรนะ | 
+tr	Ne? 
+vi	Gì cơ? | 
+zh-long	什麼？ 
+zh-short	什么？ 
+ja	何？ | 
+id	Apa? 
+no	Hva? 
+pl	Co? 
+ru	Что? 
+

@@ -1,0 +1,23 @@
+id	bahkan saat kau meragukan dirimu. 
+ru	Даже когда ты в себя не верила. 
+ar	&rlm;‏حتى عندما تشكين أنت بها.‏ | 
+da	Selv når du tvivler på dig selv. 
+el	Ακόμη κι όταν θα αμφιβάλλεις εσύ. 
+en	Even when you doubt yourself. | 
+fi	Vaikka epäilisit itse. 
+fr	Même quand tu douteras de toi-même. 
+he	&rlm;‏אפילו כשתפקפקי בעצמך.‏ | 
+it	Neanche se tu dubitassi di te stessa. 
+pl	Nawet kiedy sama to zrobisz. 
+pr-br	Mesmo quando duvidar de você mesma. 
+pr	Nem mesmo quando duvidas de ti própria. 
+ro	Chiar și atunci când îți pierzi încrederea. 
+sp	Aun cuando tú dudes de ti. 
+sp-eu	Incluso cuando tú dudes de ti misma. 
+th	ถึงแม้ว่าคุณจะไม่เชื่อในตัวเอง | 
+tr	Sen kendinden şüphe etsen bile. 
+vi	Ngay cả khi em nghi ngờ chính mình. | 
+zh-long	就算連妳自己都懷疑自己 
+zh-short	即便在你怀疑自己的时候 
+ko	절대 너를 의심하지 않을 남자 | 
+

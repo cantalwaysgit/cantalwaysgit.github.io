@@ -1,0 +1,53 @@
+id	Ada masalah  tremolo-treble-bass, tapi telah kami perbaiki 
+ja	ほんの少し | 不都合があっただけだ | 
+ru	С тремоло-трио-басом, но мы его исправили 
+ar	&rlm;‏حدث خلل في صوت الجهير أصلحناه،‏ | 
+da	Der var en fejl med bassen, som vi har rettet, 
+el	Παρουσιάστηκε ένα θέμα στα μπάσα και τα πρίμα, το οποίο διορθώσαμε 
+en	There was a tremolo-treble-bass hiccup | that we have rectified, | 
+fi	Tremolo-diskantti-basson kanssa oli ongelma. Korjasimme sen, 
+fr	Y a eu un léger souci de basse, mais c'est réglé. 
+he	&rlm;‏שמענו רעש קטן של הבס ברעד של הטרבל,‏ | 
+it	C'è stato uno sbalzo di tono che abbiamo corretto 
+ko	베이스에 약간 문제가 생겨서 | 수정을 했으니 | 
+nl	Er was een hapering in de bas die we hebben verholpen... 
+no	En feil med bassen, som vi har fikset, 
+pl	Jakieś zawirowania z basem, ale już skorygowaliśmy. 
+pr-br	Houve um contratempo no grave que tivemos que retificar 
+pr	Havia um salto entre agudos e graves que nós retificámos 
+ro	Se auzea un tremur-cutremur al basului, pe care l-am reglat, 
+sp-eu	Un fallito con el trémolo-agudo-bajo que hemos rectificado, 
+sp	Hubo un problemita con los bajos que ya rectificamos, 
+sv	Det var nåt knasdarr på basen som vi har korrigerat, 
+th	ปัญหาตรงปรับเสียงสูงต่ำนิดหน่อย | ซึ่งแก้ไขได้แล้ว | 
+tr	Tremolo-tiz-pes arızası olmuş, şimdi düzelttik 
+vi	Bị lỗi phần trống mà chúng tôi đã chỉnh, | 
+zh-long	有些高低音需要調整一下 
+zh-short	我们修正了一处低音 
+ja	調整したから | もう一度 いいかな？ | 
+ru	и готовы писать. 
+id	dan kami siap merekammu. 
+ar	&rlm;‏ونحن مستعدان من أجلك.‏ | 
+da	men vi er klar til dig. 
+el	και είμαστε έτοιμοι για εσένα. 
+en	and we're ready for ya. | 
+fi	ja olemme valmiita. 
+fr	Quand tu veux. 
+he	&rlm;‏ואנחנו מוכנים בשבילך.‏ | 
+it	e ora siamo pronti per te. 
+nl	...en we zijn klaar voor je. 
+no	og vi er klare for deg. 
+pl	Czekamy na ciebie. 
+pr-br	e já estamos prontos para você. 
+pr	e estamos preparados para ti. 
+ro	iar acum suntem gata să te auzim. 
+sp-eu	y ya estamos preparados. 
+sp	y ahora estamos listos para ti. 
+sv	och vi är redo för dig. 
+th	และเราพร้อมแล้ว | 
+tr	ve kayda hazırız. 
+vi	giờ thì sẵn sàng rồi. | 
+zh-long	我們調整好了 
+zh-short	你现在可以唱了 
+ko	준비되면 얘기해 | 
+

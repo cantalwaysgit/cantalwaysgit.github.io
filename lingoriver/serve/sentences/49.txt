@@ -1,0 +1,51 @@
+en	-[whooping] Okay? Oh! | -[pager beeping] | 
+id	Ya? 
+ja	いいな？ | 
+ru	Ага? 
+ar	&rlm;‏اتفقنا؟‏ | 
+da	Okay? 
+el	Εντάξει; 
+he	&rlm;‏בסדר?‏ | 
+ko	알았지? | 
+pr-br	Está bem? 
+pr	Está bem? 
+ro	Da? 
+sp-eu	¿Vale? 
+sp	¿Sí? 
+sv	Okej? 
+th	โอเคไหม | 
+tr	Tamam mı? 
+vi	Được chứ? | 
+zh-long	好嗎？ 
+zh-short	好吗？ 
+
+es	Me voy. 
+pt-br	Estou indo. 
+uk	Я їду. 
+zh-short	我走了 
+fi	Olen lähdössä. | 
+cs	Já jdu. 
+da	Jeg smutter. | 
+el	Φεύγω. 
+en	I'm leaving. 
+es-eu	Me voy. 
+fr	J'y vais. 
+he	‫אני יוצאת.‬ | 
+hr	Odlazim. 
+hu	Megyek. 
+id	Ibu berangkat. 
+it	Sto uscendo. 
+ja	&lrm;帰るわ | 
+ko	&lrm;나 간다 | 
+ms	Mak pergi dulu. 
+nl	Ik ga. 
+no	Jeg drar. 
+pt	Vou-me embora. 
+ro	Plec. 
+sv	Jag går nu. 
+th	&lrm;ฉันจะไปละ | 
+tr	Ben çıkıyorum. 
+vi	&lrm;Mẹ đi đây. | 
+zh-long	我要出門了 
+ru	Я пошла. 
+

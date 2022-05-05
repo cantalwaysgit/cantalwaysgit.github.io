@@ -1,0 +1,27 @@
+id	Apa? 
+en	-What? | -[chuckles] | 
+ru	Что? Он купил его за восемь тысяч. Он меня прибьет. 
+ar	&rlm;‏ماذا؟ أنفق 8 آلاف دولار ثمناً له. سيقتلني.‏ | 
+da	Hvad? Manden har betalt 8.000 for vinen. Han slår mig ihjel. 
+el	Ξόδεψε 8.000 δολάρια γι' αυτό. Θα με σκοτώσει. 
+fi	Mies törsäsi siihen 8 000 dollaria. Hän nirhaisi minut. 
+fr	Quoi ? Il l'a payé 8 000 $. Il va me tuer. 
+he	&rlm;‏‏מה? הבנאדם בזבז 8,000 דולר על יין. | &rlm;‏הוא יהרוג אותי.‏ | 
+it	Cosa? L'ha pagato 8000 dollari. Mi ucciderebbe. 
+nl	Wat? Hij gaf $8000 uit voor die wijn. Hij vermoordt me. 
+no	Hva? Han betalte 8 000 dollar. Han kommer til å drepe meg. 
+pl	Facet dał osiem tysięcy za butelkę. Zabije mnie. 
+pr-br	Quê? O cara gastou US$ 8 mil no vinho. Ele vai me matar. 
+pr	O quê? O homem gastou oito mil dólares no vinho. Ele matava-me. 
+ro	Poftim? Omul a cheltuit opt mii de dolari pe vin. O să mă omoare. 
+sp-eu	¿Qué? Se ha gastado 8000 dólares en el vino. Me matará. 
+sp	¿Qué? Gastó $8000 en el vino. Me matará. 
+sv	Vadå? Han spenderade 8 000 dollar på vin. Han skulle döda mig. 
+th	อะไรนะ เขาจ่ายไป 8,000 เหรียญ | เขาจะฆ่าผมน่ะสิ | 
+tr	Ne? Adam şaraba sekiz bin dolar harcamış. Beni öldürür. 
+vi	Gì cơ? Anh ta chi tám ngàn cho chai vang. | Anh ta sẽ giết tôi mất. | 
+zh-long	什麼？他花了八千元耶 他會殺了我 
+zh-short	什么？他可是花了八千块买的 他会杀了我的 
+ko	뭐? 8천 달러나 준 와인이야 | 날 가만 안 둘걸 | 
+ja	何だと？ | 
+

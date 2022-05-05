@@ -1,0 +1,27 @@
+ru	-Мисс Гидеон научит тебя двигаться. -Научу. 
+ja	ギデオン先生が教えてくれる | 
+id	- Nona Gideon akan mengajarimu. - Tenang, Sayang. 
+ar	&rlm;‏‏- ستعلمك الآنسة "غيدين" كيف تتحركين. | &rlm;‏- سأتولى أمرك.‏ | 
+da	-Frk. Gideon skal lære dig bevægelse. -Jeg tager hånd om dig. 
+en	-Miss Gideon is gonna teach you to move. | -I got you, sweetheart. | 
+fi	-Neiti Gideon opettaa liikkumista. -Näytän sinulle. 
+fr	- Mlle Gideon va t'apprendre. - Je gère. 
+he	&rlm;‏‏מיס גידעון תלמד אותך להתנועע. | &rlm;‏-אני אדאג לך.‏ | 
+it	- La sig.na Gideon ti insegnerà. - Vieni con me. 
+nl	Miss Gideon leert je dansen. 
+no	-Miss Gideon lærer deg bevegelser. -Jeg fikser det. 
+pl	- Nauczysz się, jak się ruszać. - Zajmę się tobą. 
+pr	- A Sra. Gideon vai ensinar-te a mexer. - Eu trato de ti. 
+pr-br	-A Srta. Gideon vai ensinar os passos. -Pode deixar. 
+ro	- Dra Gideon te va învăța să te miști. - Mă ocup eu de tine. 
+sp-eu	- La Srta. Gideon te enseñará a moverte. - Yo me encargo. 
+sp	- La Srta. Gideon te enseñará a moverte. - Yo me encargo. 
+sv	-Miss Gideon ska lära ut rörelser. -Följ mig. 
+th	- คุณกีเดียนจะสอนท่าเคลื่อนไหวให้ | - ฉันจะดูแลคุณเอง | 
+tr	-Bayan Gideon hareket etmeyi öğretecek. -O iş bende. 
+vi	- Cô Gideon sẽ dạy cô cách nhảy. | - Tôi giúp cô. | 
+zh-long	-吉迪恩小姐會教妳律動 -交給我吧 
+zh-short	-吉迪恩小姐会教你步伐的 -放心吧 
+el	-Η δις Γκίντεον θα σου μάθει να κινείσαι. -Θα το αναλάβω εγώ. 
+ko	- 기디언 씨한테 맡겨 | - 내가 가르쳐 줄게요 | 
+

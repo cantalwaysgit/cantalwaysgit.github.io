@@ -1,0 +1,27 @@
+ar	&rlm;‏إنه فاخر يا سيد "جونز".‏ | 
+da	Hr. Jones, den er sublim. 
+el	Κύριε Τζόουνς, είναι θεσπέσιο. 
+en	Mr. Jones, this is exquisite. | 
+fi	Tämä on erinomaista. 
+fr	M. Jones, c'est exquis. 
+it	È squisito, sig. Jones. 
+ko	존스 씨, 정말 강렬하네요 | 
+nl	Mr Jones, deze is voortreffelijk. 
+pr-br	Sr. Jones, é uma delícia. 
+pr	Sr. Jones, que requintado. 
+sp-eu	Señor Jones, es exquisito. 
+sp	Sr. Jones, esto es exquisito. 
+sv	Det är utsökt, mr Jones. 
+vi	Anh Jones, thật tinh tế. | 
+zh-long	瓊斯先生，根本是極品 
+zh-short	琼斯先生 这简直是极品 
+no	-Mr. Jones, den er utsøkt. -Og Sanford, liker du den? 
+ja	これぞ極上のワインだわ | 
+he	&rlm;‏מר ג'ונס, זה מעולה.‏ | 
+id	Tuan Jones, ini luar biasa. 
+ru	Мистер Джонс, изумительно! 
+th	คุณโจนส์คะ นี่ยอดเยี่ยมค่ะ | 
+pl	Przepyszne, panie Jones. 
+tr	Bay Jones, bu enfes. 
+ro	Dle Jones, e desăvârșit! 
+

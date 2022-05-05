@@ -1,0 +1,24 @@
+ar	&rlm;‏انظروا.‏ | 
+da	Se nu der. 
+el	Για δες. 
+en	Oh, look. | 
+fi	Kappas. 
+he	&rlm;‏תראי.‏.. | 
+it	Ma guarda. 
+no	Se. 
+pl	Popatrz no. 
+pr-br	Olhe. 
+pr	Olha... 
+ro	Uite! 
+sp-eu	Mira. 
+sp	Mira. 
+sv	Ser man på. 
+th	ดูสิ | 
+tr	Bak. 
+vi	Xem kìa. | 
+zh-long	那個 
+zh-short	看啊 
+id	Dengar. 
+ru	Слушай... 
+ko	어이구 | 
+

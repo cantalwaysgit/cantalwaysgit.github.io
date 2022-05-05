@@ -1,0 +1,27 @@
+ar	&rlm;‏وهو أمر مخيف. قد يكون مخيفاً.‏ | 
+da	Det er skræmmende. Det kan være skræmmende. 
+el	Καμιά φορά, γίνεται τρομακτικό. 
+en	And it's scary. It can be scary. | 
+fi	Se on pelottavaa. 
+fr	Et ça peut faire peur. 
+he	&rlm;‏וזה מפחיד. זה יכול להיות מפחיד.‏ | 
+id	Menakutkan. Itu bisa jadi menakutkan. 
+it	Può intimorire. 
+ko	두려울 수도 있어요 | 
+nl	En dat kan eng zijn. 
+no	Og det er skummelt. Det kan være skummelt. 
+pl	To potrafi przerażać. 
+pr-br	É assustador. Pode assustar. 
+pr	É assustador. Pode ser assustador. 
+ro	Și e înspăimântător. Poate fi. 
+ru	И это страшно. Иногда страшно. 
+sp-eu	Y da miedo. Puede dar miedo. 
+sp	Y da miedo. Puede causarte miedo. 
+sv	Och det är läskigt. Det kan vara läskigt. 
+th	และมันน่ากลัว น่ากลัวได้นะ | 
+tr	Ve bu korkutucu. Korkutucu olabilir. 
+vi	Thật đáng sợ. Có thể đáng sợ. | 
+zh-long	滿可怕的，其實滿可怕的 
+zh-short	而且这很吓人 可能会让人害怕 
+ja	そこには危険も伴う | 
+

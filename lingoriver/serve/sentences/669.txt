@@ -1,0 +1,27 @@
+ja	感動のあまり死にそうだよ | 
+ru	Это было просто чудо. Именно то, что надо. 
+id	Kau sangat hebat. 
+ar	&rlm;‏كان متقناً جداً.‏ | 
+da	Den var så perfekt. 
+el	Ήταν πολύ εύστοχη. 
+en	It was so on the money. | 
+fi	Vedit aivan nappiin. 
+fr	C'était le top. 
+he	&rlm;‏זה היה כל כך מדויק.‏ | 
+it	Era assolutamente perfetta. 
+nl	Het was echt perfect. 
+no	Alt var riktig. 
+pl	Totalna perfekcja. 
+pr-br	Foi perfeito. 
+pr	Foi irrepreensível. 
+ro	A ieșit atât de bine! 
+sp-eu	Ha salido redondo. 
+sp	Fue perfecta. 
+sv	Det var så perfekt. 
+th	คุณทำได้ถูกต้องสมบูรณ์แบบ | 
+tr	Tam olması gerektiği gibiydi. 
+vi	Thật chuẩn xác. | 
+zh-long	掌握得恰到好處 
+zh-short	这个决定太正确了 
+ko	정말 정확했어 | 
+

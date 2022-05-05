@@ -1,0 +1,52 @@
+ja	彼女ほどの歌手は | これまでにいない | 
+id	Dengar. Wanita ini salah satu penyanyi terbaik 
+ru	Это одна из лучших певиц, что ты видел, 
+ar	&rlm;‏‏هذه الفتاة هي من أفضل المغنيات | &rlm;‏اللواتي ستراهن على الإطلاق،‏ | 
+da	Den pige er en af de bedste sangere, du nogensinde vil se, 
+el	Είναι μια από τις καλύτερες τραγουδίστριες που θα συναντήσεις 
+en	Well, listen, this girl is one | of the best singers you'll ever see, | 
+fi	Tyttö on parhaita laulajia, joita ikinä näet, 
+fr	Cette fille a une voix exceptionnelle, 
+he	&rlm;‏‏הבחורה הזו היא אחת הזמרות הטובות ביותר | &rlm;‏שתראה אי פעם,‏ | 
+it	È una cantante straordinaria 
+ko	이렇게 노래 잘하는 여자는 | 아마 처음 볼 거야 | 
+nl	Zij is een van de beste zangeressen die je ooit hebt gezien. 
+no	Hun er en av de beste sangerne du noen gang får se, 
+pl	W życiu nie widziałeś lepszej wokalistki. 
+pr-br	Essa garota é uma das melhores cantoras  que já viu 
+pr	Esta rapariga é uma das melhores cantoras que verás 
+ro	Fata e una dintre cele mai bune cântărețe pe care le vei vedea 
+sp	Ella es una de las mejores cantantes que conocerás, 
+sp-eu	Es una de las mejores cantantes que verás jamás. 
+th	ผู้หญิงคนนี้คือนักร้องสุดยอดคนหนึ่ง | ที่คุณจะได้รู้จัก | 
+tr	Bu kız görüp göreceğin en iyi şarkıcılardan biri 
+vi	Cô gái này là ca sĩ tuyệt vời nhất, | 
+zh-long	她會是你見過最棒的歌手 
+zh-short	这姑娘会是你见过的最出色的歌手 
+sv	Hon är en av de bästa sångerskorna du hört, och en av de smartaste också. 
+ar	&rlm;‏وأفضل وأذكى شخص على الإطلاق.‏ | 
+da	og den bedste, klogeste person. 
+el	κι ένας έξυπνος και υπέροχος άνθρωπος. 
+en	and the best, brightest person ever. | 
+fi	ja upea, loistava ihminen. 
+fr	et c'est quelqu'un de formidable. 
+he	&rlm;‏והאדם הכי טוב והכי מבריק שראית מעולם.‏ | 
+it	e la persona migliore e più solare del mondo. 
+ko	최고에다가 훌륭한 사람이야 | 
+nl	En het beste en vrolijkste mens ooit. 
+no	og verdens beste menneske. 
+pl	Jest też bardzo bystra. 
+pr-br	e a pessoa mais inteligente do mundo. 
+pr	e é extremamente inteligente. 
+ro	și cea mai deșteaptă. 
+sp-eu	Y una persona inteligentísima. 
+sp	la mejor persona y la más inteligente. 
+th	และเป็นคนดีที่สุด น่ารักที่สุด | 
+tr	ve en iyi, en zeki kişi. 
+vi	và là người sáng giá, giỏi giang nhất. | 
+zh-long	最耀眼的明星 
+zh-short	也是最棒 最聪明的 
+id	dan orang yang sangat cemerlang. 
+ru	самая лучшая и умная. 
+ja	本当にすごいんだ | 
+

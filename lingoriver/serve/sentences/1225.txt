@@ -1,0 +1,26 @@
+ar	&rlm;‏لا تسمح لغرورك بإعاقة نجاحها.‏ | 
+da	Lad ikke dit ego komme i vejen. 
+en	Don't let your ego get in the way. | 
+fi	Älä anna egosi määrätä. 
+fr	Mets ton ego de côté. 
+it	Evita che il tuo ego le sia d'impaccio. 
+pl	Niech twoje ego wszystkiego nie zepsuje. 
+pr-br	Não deixe o seu ego atrapalhar. 
+pr	Não deixes o teu ego interferir. 
+ro	Nu lăsa orgoliul să strice tot. 
+sp-eu	No dejes que tu ego se interponga. 
+sp	No dejes que tu ego se meta. 
+sv	Låt inte ditt ego stå i vägen. 
+tr	Egonu bu işe karıştırma. 
+vi	Đừng để cái tôi của mình cản đường. | 
+zh-long	別讓你的自尊壞事 
+zh-short	别让你的自尊心碍了事 
+el	Μην αφήνεις τον εγωισμό σου να μπαίνει εμπόδιο. 
+ko	자존심 때문에 | 판단을 흐리지 마세요 | 
+ja	彼女の邪魔をするな | 
+he	&rlm;‏אל תניח לאגו שלך לעמוד בדרך.‏ | 
+no	Ikke la egoet ditt ødelegge. 
+th	อย่าปล่อยให้อัตตามาบดบัง | 
+ru	Не мешай ей из-за своей гордыни. 
+id	Jangan biarkan egomu menghalangi. 
+

@@ -1,0 +1,27 @@
+id	Harus kuakui, aku belum tidur. Aku sangat lelah. 
+ru	Признаюсь, я плохо спал. Не выспался. 
+ja	最近 眠れなくて | 記憶が曖昧(あいまい)だ | 
+ar	&rlm;‏يجب أن أعترف، لم أنم جيداً. أنا متعب.‏ | 
+da	Jeg må indrømme, jeg har ikke sovet. Jeg er træt. 
+el	Η αλήθεια είναι ότι δεν κοιμάμαι τελευταία. Είμαι κουρασμένος. 
+en	I got to admit, I haven't been sleeping. | I'm just so tired. | 
+fi	Täytyy myöntää, etten ole nukkunut. Minua väsyttää. 
+fr	Je dors mal, en ce moment. Je suis crevé. 
+he	&rlm;‏אני חייב להודות, לא ישנתי. אני עייף.‏ | 
+it	Devo ammettere che non ho dormito e sono molto stanco. 
+nl	Ik geef het toe, ik heb niet geslapen en ik ben zo moe. 
+no	Jeg har sovet dårlig. Jeg er så trøtt. 
+pl	Nie wiem. Zmęczony jestem. 
+pr-br	Confesso que não ando dormindo. Estou cansado. 
+pr	Tenho de admitir que não tenho dormido. Estou cansado. 
+ro	Recunosc că n-am dormit. Sunt obosit. 
+sp-eu	Debo reconocer que no duermo bien. Estoy cansado. 
+sp	Tengo que admitirlo, no duermo bien. Estoy cansado. 
+sv	Jag måste erkänna, jag har inte sovit. Jag är trött. 
+th	ต้องยอมรับ ฉันไม่ได้นอน ฉันเหนื่อย | 
+tr	İtiraf etmeliydim ki uzun zamandır uyumuyorum. Bitap hâldeyim. 
+vi	Tôi phải thừa nhận là, tôi mất ngủ. | Tôi mệt quá. | 
+zh-long	我得承認，我最近沒睡好 我累斃了 
+zh-short	我得承认 我之前没睡觉 我好累 
+ko	솔직히 말해서 요즘 | 잠을 못 잤어, 피곤해 | 
+

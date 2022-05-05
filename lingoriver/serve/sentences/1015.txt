@@ -1,0 +1,29 @@
+id	Aku akan membawa minumanmu. 
+en	I'll be back with your drinks. | 
+fr	Je vous rapporte à boire. 
+ar	&rlm;‏‏- سأعود ومعي أشربتكم. | &rlm;‏- حسناً.‏ | 
+da	-Jeg henter jeres drinks. -Okay. 
+el	-Θα επιστρέψω με τα ποτά σας. -Εντάξει. 
+fi	Tuon juomanne. 
+he	&rlm;‏‏אחזור עם המשקאות שלכם. | &rlm;‏-בסדר.‏ | 
+it	- Torno subito con i drink. - Grazie. 
+ko	- 음료 가지고 올게요 | - 그래 | 
+nl	Ik ga jullie drankjes halen. 
+no	-Jeg kommer tilbake med drinkene. -Ok. 
+pl	- Zaraz przyniosę drinki. - Dobrze. 
+pr-br	-Já volto com os seus drinques. -Está bem. 
+pr	- Já volto com as bebidas. - Está bem. 
+ro	- Mă întorc cu paharele. - Bine. 
+sp-eu	- Ahora os traigo la bebida. - Vale. 
+sp	- Volveré con sus tragos. - De acuerdo. 
+sv	Jag kommer med era drinkar snart. 
+th	- เดี๋ยวฉันเอาเครื่องดื่มมาให้นะ | - โอเค | 
+tr	-Ben içkilerinizi getireyim. -Peki. 
+vi	- Tôi sẽ mang đồ uống lại. | - Vâng. | 
+zh-long	-我去幫你們拿酒 -好的 
+zh-short	-我马上就拿喝的来 -好的 
+ja	飲み物を持ってくる | 
+ru	-Я принесу вам выпивку. -Хорошо. 
+en	-[Sandy] Okay. | -Okay. | 
+id	Baiklah. 
+

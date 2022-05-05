@@ -1,0 +1,37 @@
+ar	&rlm;‏إليك نصيحة عن الأسهم للتعويض عن الأمر.‏ | 
+el	Θα επανορθώσω με μια συμβουλή για μετοχές. 
+he	&rlm;‏הנה עצה לשוק המניות כדי לכפר על זה.‏ | 
+ko	사과의 의미로 | 주식 팁 하나 줄게 | 
+pr-br	Eis uma dica de investimento para compensar. 
+zh-long	告訴你股市小道消息 補償你一下 
+zh-short	给你点股票信息做补偿 
+pl	Dam ci cynk w kwestii akcji. 
+pr	Aqui vai uma dica para compensar isso. 
+it	Ti do una dritta su delle azioni per rimediare. 
+fi	Annan osakevinkin hyvitykseksi. 
+nl	Een beurstip om het goed te maken. 
+sv	Här är ett aktietips för att gottgöra dig. 
+da	Nu skal du få et aktietip i stedet. 
+fr	Voilà un petit conseil d'investisseur. 
+sp-eu	Te daré un consejo bursátil para compensarte. 
+en	Okay, here's a stock tip | for you to make up for that. | 
+vi	Tôi mách nước anh cổ phiếu để bù lại nhé. | 
+id	Baiklah, kuberikan saran saham untukmu demi menebusnya. 
+sp	Un consejo sobre la bolsa para compensarte. 
+tr	Barışmak için sana bir borsa tüyosu vereyim. 
+ja	おわびに株の情報をやる | 
+no	Her er et aksjetips for å gjøre det godt igjen. 
+ru	Вот тебе совет вместо извинения. 
+th	เพื่อแก้ตัวนี่เป็นข้อมูลหุ้นนะ | 
+ro	Uite un pont la Bursă pentru tine. 
+ru	КОРТНИ? 
+ar	&rlm;‏"(كورتني)"؟‏ | 
+el	ΚΟΡΤΝΙ; 
+he	&rlm;‏- קורטני? -‏ | 
+ko	“코트니?” | 
+th	(คอร์ทนี่ย์ได้ไหม) | 
+zh-long	（寇妮？） 
+zh-short	（考特尼？） 
+ja	おわびに株の情報をやる | 
+ja	〝コートニー？〞 | 
+

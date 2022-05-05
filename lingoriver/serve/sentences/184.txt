@@ -1,0 +1,56 @@
+ar	&rlm;‏بركة سباحة جميلة.‏ | 
+da	Smuk swimmingpool. 
+el	Είχε υπέροχη πισίνα. 
+en	[Tony] Gorgeous pool. | 
+fi	Upea uima-allas. 
+fr	Une superbe piscine. 
+he	&rlm;‏בריכה משגעת.‏ | 
+it	La piscina era favolosa. 
+ko	수영장도 멋졌고 | 
+nl	Prachtig zwembad. 
+no	Fantastisk basseng. 
+pl	Cudowny basen. 
+pr-br	Tinha uma piscina incrível. 
+pr	Tinha uma piscina maravilhosa. 
+ro	Piscina era superbă! 
+sp-eu	Una piscina preciosa. 
+sp	Una piscina preciosa. 
+sv	Fantastisk pool. 
+th	สระว่ายน้ำสวยสุด | 
+tr	Muhteşem bir havuz. 
+vi	Hồ bơi tuyệt vời. | 
+zh-long	超讚游泳池 
+zh-short	漂亮的泳池 
+id	Kolam yang memesona. 
+ru	Шикарный бассейн. 
+ja	大きなプール | 
+
+cs	Lidi jsou radši, když tady žádné nejsou. 
+da	Folk foretrækker, her ikke er kameraer. | 
+el	Ο κόσμος προτιμά να μην υπάρχουν κάμερες. 
+en	The people who come here don't like cameras, understand? 
+es-eu	Los clientes prefieren que no haya cámaras. 
+es	Los clientes están más a gusto sin cámaras. 
+fi	Asiakkaamme eivät pidä kameroista. | 
+fr	Les gens préfèrent qu'il n'y en ait pas. 
+he	‫אנשים מעדיפים שלא יהיו מצלמות.‬ | ‫אתה בטח מבין.‬ | 
+hr	Ljudima je draže da nema kamera. Shvaćate? 
+hu	Az emberek nem szeretik, ha van kamera. Érti. 
+id	Orang lebih suka jika tak ada kamera. Tentu kau mengerti. 
+it	La gente preferisce che non ci siano. 
+ja	&lrm;ないほうがいい | &lrm;分かります？ | 
+ko	&lrm;카메라 없는 걸 선호하죠 | &lrm;아시잖아요 | 
+ms	Orang lebih suka tiada kamera. Encik faham. 
+nl	Mensen hebben hier liever geen camera's. 
+no	Folk vil helst ikke ha kamera. Du forstår. 
+pt	As pessoas preferem que não haja câmaras. 
+pt-br	As pessoas preferem que não haja câmeras, entende? 
+ro	Lumea nu vrea supraveghere. Înțelegi de ce. 
+ru	Сами понимаете, людям не нужна съемка. 
+th	&lrm;คนที่นี่ไม่ชอบให้มีกล้องหรอก เข้าใจนะ | 
+tr	İnsanlar kamera olmamasını tercih ediyor. 
+uk	Клієнти хочуть, щоб камер не було. Розумієте? 
+vi	&lrm;Mọi người không thích máy quay. | &lrm;Anh hiểu mà. | 
+zh-long	你們應該瞭解 人們都喜歡沒有攝影機 
+zh-short	客人不希望这里有摄像头 你懂的 
+

@@ -1,0 +1,49 @@
+sv	Vem är du mer manager för? 
+el	Ποιον άλλον έχεις μανατζάρει; 
+id	Siapa lagi yang bersamamu? 
+ja	他に担当は？ | 
+ar	&rlm;‏كنت مدير أعمال من أيضاً؟‏ | 
+da	Hvem har du arbejdet for? 
+en	Who else have you managed? | 
+fr	Qui sont vos clients ? 
+he	&rlm;‏את מי עוד ייצגת?‏ | 
+it	Con chi hai lavorato? 
+ko	전엔 누구 매니저셨죠? | 
+nl	Wiens manager ben je? 
+pl	Kogo jeszcze masz? 
+pr-br	Foi empresário de mais quem? 
+pr	Foi empresário de mais quem? 
+ru	С кем вы еще работали? 
+sp-eu	¿A quién más ha representado? 
+th	เคยเป็นผู้จัดการให้ใครอีก | 
+tr	Başka kimin menajeriydin? 
+vi	Anh từng quản lý ai nữa? | 
+zh-long	你帶過哪些藝人？ 
+zh-short	你还有哪些客户？ 
+ro	- Cui i-ai mai fost impresar? - Ați auzit vreodată de Indiana Jones? 
+sp	- ¿A quién más representaste? - ¿Has oído hablar de Indiana Jones? 
+fi	-Kenen managerina olet toiminut? -Onko Indiana Jones tuttu? 
+no	-Hvem har du vært manager for? -Har du hørt om Indiana Jones? 
+id	Pernah dengar  Indiana Jones ? 
+ru	Слышали про Индиану Джонса? 
+ar	&rlm;‏أسمعت مرة بـ"إنديانا جونز"؟‏ | 
+el	Γνωρίζεις τον Ιντιάνα Τζόουνς; 
+en	You ever hear of Indiana Jones? | 
+fr	Vous connaissez  Indiana Jones  ? 
+he	&rlm;‏שמעת אי פעם על אינדיאנה ג'ונס?‏ | 
+it	Ha presente Indiana Jones? 
+ko	인디애나 존스라고 | 들어보셨어요? | 
+nl	Ken je Indiana Jones? 
+pl	Słyszał pan o Indianie Jonesie? 
+pr-br	Já ouviu falar em Indiana Jones? 
+pr	Já ouviu falar do Indiana Jones? 
+sp-eu	¿Ha oído hablar de Indiana Jones? 
+sv	Har du hört om Indiana Jones? 
+th	รู้จักอินเดียน่า โจนส์ไหมครับ | 
+tr	Indiana Jones'u duymuş muydunuz? 
+vi	Ông nghe nói về Indiana Jones chứ? | 
+zh-long	印第安那瓊斯聽過嗎？ 
+zh-short	听说过印第安纳琼斯吗？ 
+da	-Har du hørt om Indiana Jones? -Har du arbejdet med Harrison Ford? 
+ja	「インディ･ | ジョーンズ」の… | 
+

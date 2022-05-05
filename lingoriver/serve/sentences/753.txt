@@ -1,0 +1,27 @@
+id	Dari awal. 
+ja	頭から | 
+ru	С высокой ноты. 
+ar	&rlm;‏من البداية.‏ | 
+da	Fra begyndelsen. 
+el	Από την αρχή. 
+en	From the top. | 
+fi	Alusta. 
+fr	Du début. 
+he	&rlm;‏מההתחלה.‏ | 
+it	Dall'inizio. 
+ko	처음부터 | 
+nl	Vanaf het begin. 
+no	Fra begynnelsen. 
+pl	Od początku. 
+pr-br	Do início. 
+pr	Do início. 
+ro	De la capăt! 
+sp	Desde el principio. 
+sp-eu	Desde el principio. 
+sv	Från början. 
+th	จากเริ่มต้นเลย | 
+tr	Baştan. 
+vi	Lại từ đầu. | 
+zh-long	從頭開始 
+zh-short	从头来 
+

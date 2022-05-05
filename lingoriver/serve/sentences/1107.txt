@@ -1,0 +1,27 @@
+ar	&rlm;‏ما هذا؟‏ | 
+da	Hvad er det? 
+el	Τι ήταν αυτό; 
+en	What's that? | 
+fi	Mitä nyt? 
+fr	C'est quoi, ça ? 
+he	&rlm;‏מה זה?‏ | 
+it	Cos'era? 
+nl	Wat is dat? 
+no	Hva er det? 
+pl	Co? 
+pr-br	O que foi isso? 
+pr	O que foi aquilo? 
+ro	Ce s-a auzit? 
+sp-eu	¿Qué es eso? 
+sp	¿Qué es eso? 
+sv	Vad är det? 
+th	นั่นอะไร | 
+tr	Neydi o? 
+vi	Cái gì thế? | 
+zh-long	那是什麼？ 
+zh-short	什么东西？ 
+ko	뭐야? | 
+ru	Что такое? 
+id	Apa itu? 
+ja	何だ？ | 
+

@@ -1,0 +1,29 @@
+ru	Вот. Я думаю. 
+id	Baiklah. Hanya berpikir. Sedikit berpikir lagi di sini. 
+ja	想像してるよ | 
+el	Εντάξει. Απλώς σκέφτεσαι. Μετά, σκέφτεσαι λίγο ακόμη. 
+th	เอาละ แค่คิด คิดอีกนิดตรงนี้ | 
+ar	&rlm;‏حسناً. أفكر وحسب. بعض المزيد من التفكير.‏ | 
+da	Tænker bare. Lidt mere tænke herovre. 
+en	Huh? Just thinking. | Little more thinking over here. | 
+fi	Tuumiskelen vain. 
+fr	Je fais que réfléchir. J'arrête pas. 
+he	&rlm;‏בסדר. רק חושב. קצת יותר חשיבה פה.‏ | 
+it	Pensi e basta. Pensiamo ancora un po'. 
+ko	그냥 생각해 | 조금 더 생각해 보라고 | 
+nl	Gewoon denken. Iets meer denken. 
+no	Jeg tenker. Litt mer tenking her borte. 
+pl	Myślisz. Myślę sobie. 
+pr-br	Está bem. Pense. Um pouco mais de pensamento aqui. 
+pr	Está bem. Estou só a pensar. Vou pensar mais um bocadinho. 
+ro	Bine. Mă gândesc. Mă gândesc mai mult. 
+sp	Bien. Solo pienso. Un poco más de pensamientos por aquí. 
+sp-eu	Vale. Pensando. Un poco más de pensar. 
+tr	Pekâlâ. Düşünelim. Biraz daha düşünelim. 
+vi	Được rồi. Chỉ nghĩ thôi. | Suy tư hơn chút nữa. | 
+zh-long	好，思考，繼續思考 
+zh-short	行了 就想 这里再多想一点 
+sv	Man tänker bara. Lite mer tänkande här. 
+ru	И еще немного подумаю. 
+ja	もっと想像する | 
+

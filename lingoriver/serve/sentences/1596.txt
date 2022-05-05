@@ -1,0 +1,29 @@
+id	Ceritakanlah. 
+en	[Sandy] Tell me. Tell me. | 
+pl	- Mów. - To nowa firma. Nazywa się Pixar. 
+ru	-Расскажи. -Это новая компания, «Пиксар». 
+ar	&rlm;‏‏- أخبريني. | &rlm;‏- توجد شركة جديدة تدعى "بيكسار".‏ | 
+da	-Fortæl. -Det er et nyt selskab kaldet Pixar. 
+el	-Πες μου. -Μια καινούρια εταιρία ονόματι Pixar. 
+fi	-Kerro. -Uusi yhtiö nimeltä Pixar. 
+fr	- Je t'écoute. - C'est une nouvelle boîte, Pixar. 
+he	&rlm;‏‏ספרי לי. | &rlm;‏-יש חברה חדשה שנקראת "פיקסאר".‏ | 
+it	- Dimmi. - Una nuova casa di produzione, la Pixar. 
+ko	- 말해 봐, 픽사 | - 픽사라는 신생 회사인데 | 
+no	-Fortell. -Det er et nytt selskap: Pixar. 
+pr-br	-Diga. -É uma nova empresa chamada Pixar. 
+pr	- Diz-me. - Há uma empresa nova chamada Pixar. 
+ro	- Spune-mi. - E o companie nouă, Pixar. 
+sp	- Dime. - Es una nueva empresa llamada Pixar. 
+sp-eu	- Dime. - Es una compañía nueva llamada Pixar. 
+sv	-Berätta. -Det är ett nytt bolag som heter Pixar. 
+th	- บอกหน่อย | - มีบริษัทใหม่ชื่อว่าพิกซาร์ | 
+tr	-Söyle bakalım. -Pixar adında yeni bir şirket var. 
+vi	- Kể cho tôi nghe đi. | - Một công ty mới tên là Pixar. | 
+zh-long	-告訴我 -那是一間新公司叫皮克斯 
+zh-short	-跟我说说 -有家叫皮克斯的新公司 
+nl	Een nieuw bedrijf dat Pixar heet. 
+ja	ピクサーって会社が― | 
+id	Ada perusahaan baru bernama Pixar. 
+en	[Courtney] A company called Pixar... | 
+

@@ -1,0 +1,26 @@
+ru	Я тебе говорю! Ну! 
+id	Sudah kubilang. Ayolah! 
+ja	さすがだろ？ どうだ？ | 
+ar	&rlm;‏كما أخبرك. بربك!‏ | 
+da	Det siger jeg jo. Kom nu! 
+el	Πράγματι. Έλα τώρα! 
+en	I'm telling you. Come on! | 
+fi	Usko minua! 
+fr	Je te le dis. Allez ! 
+he	&rlm;‏אני אומר לך. בחייך!‏ | 
+it	Te lo dico io. Forza! 
+ko	정말이에요! | 
+no	Hør på meg. Kom igjen! 
+pl	Mówię ci, kurde! 
+pr-br	Estou dizendo. Qual é? 
+pr	Estou a dizer-te. Vá lá! 
+ro	Serios. Zău! 
+sp-eu	En serio. ¡Vamos! 
+sp	Ya te lo dije. ¡Vamos! 
+sv	Jag säger det bara. Kom igen! 
+th	ผมขอบอกนะ | 
+tr	Doğruya doğru. Evet! 
+vi	Tôi nói cho anh biết. Thôi đi! | 
+zh-long	我跟你說，拜託！ 
+zh-short	我告诉你 真的！ 
+

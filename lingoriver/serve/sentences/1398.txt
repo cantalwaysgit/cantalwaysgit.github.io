@@ -1,0 +1,27 @@
+ru	Шутишь? Звезду ничто не остановит. 
+id	Kau bercanda? Meteor tidak bisa dihentikan. 
+ja	流れ星は止められない | 科学者たちが証明済みだ | 
+ar	&rlm;‏أتمزحين؟ لا يمكن إيقاف اندفاع شهاب.‏ | 
+da	Hold da op. Man kan ikke stoppe en kommende stjerne. 
+el	Πλάκα μου κάνεις; Ο διάττων αστέρας δεν ανακόπτεται. 
+en	Are you kidding me? | You cannot stop a shooting star. | 
+fi	Älä höpsi. Tähdenlentoa ei voi pysäyttää. 
+fr	Mais si. Une étoile filante, ça ne s'arrête pas. 
+he	&rlm;‏את צוחקת עליי? אי אפשר לעצור כוכב.‏ | 
+it	Scherzi? Non puoi impedire a una stella di brillare. 
+no	Tuller du? Man kan ikke stanse et stjerneskudd. 
+pl	Żartujesz? Gwiazdy nie da się zgasić. 
+pr-br	Está brincando? Não se para uma estrela cadente. 
+pr	Estás a brincar? É impossível parar uma estrela cadente. 
+ro	Glumești? Nu poți opri o cometă. 
+sp	¿Bromeas? Las estrellas no se detienen. 
+sp-eu	Nada de eso. No puedes detener a una estrella fugaz. 
+sv	Skämtar du? Man kan inte stoppa en stigande stjärna. 
+th	ล้อเล่นหรือเปล่า | ดาวตกใครก็ฉุดไว้ไม่อยู่ | 
+tr	Dalga mı geçiyorsun? Bir kuyruklu yıldızı kimse durduramaz. 
+vi	Cô đùa tôi đấy à? | Không thể cản trở một ngôi sao băng. | 
+zh-long	開什麼玩笑？ 沒人能阻止流星的 
+zh-short	开什么玩笑？流星可是拦不住的 
+nl	Een vallende ster kun je niet stoppen. Dat is wetenschappelijk bewezen. 
+ko	무슨 소리야? | 유성은 멈출 수 없어 | 
+

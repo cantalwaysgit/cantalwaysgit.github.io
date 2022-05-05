@@ -1,0 +1,26 @@
+ar	&rlm;‏ليالي صيف حارة، عشاق"‏ | 
+el	Καυτοί εραστές του καλοκαιριού 
+en	♪ Hot summer nights, lovers ♪ | 
+fi	Kuuma kesäyö, rakastavaiset 
+fr	Dans la chaleur de l'été, amants 
+he	&rlm;‏קיץ חם מאהבים ליליים‏ | 
+it	Amanti in una calda sera d'estate 
+ko	뜨거운 여름밤, 연인들 | 
+nl	geliefden op een warme zomeravond 
+pl	Kochankowie w gorącą letnią noc 
+pr	Amantes numa noite quente 
+pr-br	Noites quentes de verão, amantes 
+ro	Iubiți în nopți fierbinți de vară 
+sp	Amantes de noches cálidas de verano 
+sp-eu	Noches ardientes de verano, amantes 
+sv	Heta sommarnätter, älskare 
+th	คืนร้อนกลางฤดูร้อน คู่รัก | 
+tr	Sıcak yaz gecesi âşıkları 
+vi	Cặp tình nhân đêm hè nóng nực | 
+zh-long	炙熱夏夜的愛人 
+zh-short	火热盛夏夜 爱人们 
+da	Elskere i den hede sommernat 
+id	Malam musim panas, kekasih... 
+ru	Жаркие летние ночи, любовь... 
+ja	真夏の夜の恋人たち | 
+

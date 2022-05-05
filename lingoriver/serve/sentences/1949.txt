@@ -1,0 +1,51 @@
+ja	バカ言うな　僕がウソを | 言ったことがあるか？ | 
+ru	Что? Глупости! 
+id	Apa? Menggelikan sekali! 
+ar	&rlm;‏ماذا؟ هذا سخيف!‏ | 
+da	Hvad? Det er jo latterligt! 
+el	Τι; Αυτό είναι εξωφρενικό! 
+en	What? That's ridiculous! | 
+fi	Mitä? Älä höpsi! 
+fr	Quoi ? N'importe quoi ! 
+he	&rlm;‏מה? זה מגוחך!‏ | 
+it	Cosa? Ma è un'assurdità! 
+ko	뭐? 말도 안 돼! | 
+no	Hva? Det er latterlig! 
+pl	To absurd! 
+pr-br	Quê? Isso é ridículo! 
+pr	O quê? Isso é ridículo! 
+ro	Poftim? Asta e ridicol! 
+sp-eu	¿Qué? ¡Eso es absurdo! 
+sp	¿Qué? ¡Eso es ridículo! 
+sv	Det är löjligt! 
+th	อะไรนะ นั่นบ้าแล้ว | 
+tr	Ne? Bu çok saçma! 
+vi	Gì cơ? Thật ngớ ngẩn! | 
+zh-long	什麼？真是胡說八道！ 
+zh-short	什么？乱讲！ 
+nl	Wat? Dat is belachelijk. Noem één keer dat ik de waarheid niet zei. 
+ar	&rlm;‏قل لي مرة واحدة لم أقل لك فيها الحقيقة.‏ | 
+da	Fortæl om én gang, hvor jeg ikke gjorde det. 
+el	Πες μου μια φορά που δε σου είπα την αλήθεια. 
+en	Tell me one time | I didn't tell you the truth. | 
+fr	Dis-moi quand je t'ai menti. 
+he	&rlm;‏תגיד לי פעם אחת שלא אמרתי לך את האמת.‏ | 
+it	Dimmi un solo caso in cui ti avrei mentito. 
+ko	내가 거짓말한 걸 | 한 가지만 말해 봐 | 
+pr-br	Diga uma vez que não tenha dito a verdade. 
+pr	Diz-me uma vez que não te tenha dito a verdade. 
+ro	Spune-mi o singură dată când nu ți-am zis adevărul. 
+sp	Dime una vez que no te dijera la verdad. 
+sp-eu	Dime una vez que no te dijera la verdad. 
+sv	Säg en gång när jag inte sa sanningen. 
+tr	Sana ne zaman doğruyu söylemedim ben? 
+vi	Hãy nói một lần tôi không nói thật đi. | 
+zh-long	說說看我哪次沒跟你說實話 
+zh-short	说吧 我哪次没说实话 
+id	Katakan kapan aku tidak jujur. 
+no	Nevn én gang jeg ikke sa sannheten. 
+ru	Ну скажи, когда я тебе врал. 
+th	บอกมาครั้งหนึ่ง | ที่ฉันไม่ได้พูดความจริงกับนาย | 
+fi	Sano yksikin kerta. 
+pl	Podaj choć jeden przykład. 
+

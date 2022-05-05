@@ -1,0 +1,27 @@
+id	Aku juga mencintaimu, Sandy. 
+zh-short	我也爱你 桑迪 
+th	ฉันก็รักคุณ แซนดี้ | 
+ru	Я тоже тебя люблю, Сэнди. 
+ja	私も愛してるわ | 
+ar	&rlm;‏وأنا أحبك أيضاً يا "ساندي".‏ | 
+da	Jeg elsker også dig, Sandy. 
+el	Κι εγώ σ' αγαπώ, Σάντι. 
+en	I love you, too, Sandy. | 
+fi	Minäkin rakastan sinua. 
+fr	Moi aussi, je t'aime. 
+he	&rlm;‏גם אני אוהבת אותך, סנדי.‏ | 
+it	Ti amo anch'io, Sandy. 
+ko	저도 사랑해요, 샌디 | 
+nl	Ik hou ook van jou. 
+no	Jeg elsker deg også, Sandy. 
+pl	Ja też cię kocham, Sandy. 
+pr-br	Eu também te amo, Sandy. 
+pr	Eu também te amo, Sandy. 
+ro	Și eu te iubesc, Sandy. 
+sp-eu	Yo también te quiero, Sandy. 
+sp	Yo también te amo, Sandy. 
+sv	Jag älskar dig också. 
+tr	Ben de seni seviyorum Sandy. 
+vi	Em cũng yêu anh, Sandy. | 
+zh-long	我也愛你，山迪 
+

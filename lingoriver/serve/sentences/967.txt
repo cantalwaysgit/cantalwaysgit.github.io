@@ -1,0 +1,27 @@
+ar	&rlm;‏يبدو مدير أعمالك وكأنه وقع في فتحة مصعد.‏ | 
+da	Du ligner en, der er faldet ned i en elevatorskakt. 
+el	Ο μάνατζέρ σου είναι σαν να έπεσε σε φρεάτιο. Τι συνέβη; 
+en	Your manager look like he fell down | an elevator shaft. What's up? | 
+fi	Managerisi näyttää hissikuiluun pudonneelta. 
+fr	On dirait que t'as chuté d'une cage d'ascenseur. 
+he	&rlm;‏‏המנהל שלך נראה כאילו הוא נפל | &rlm;‏לתוך פיר של מעלית.‏ | 
+id	Manajermu terlihat seperti habis jatuh di lift. Kenapa? 
+it	Sembra che tu sia caduto nella tromba dell'ascensore. 
+ko	매니저분이 | 승강기에서 떨어지신 것 같네요 | 
+nl	Je ziet eruit alsof je in een liftschacht bent gevallen. 
+pl	Wygląda, jakby wpadł do szybu windy. 
+pr-br	Parece que você caiu em um poço de elevador. 
+pr	Ele parece ter caído num poço de elevador. O que se passa? 
+ro	Arăți de parcă ai fi căzut în puțul liftului. 
+ru	Вид у тебя, будто ты упал в шахту лифта. 
+sp-eu	Parece que te hayas caído por el hueco de un ascensor. 
+sp	Parece que tu representante cayó en el hueco de un ascensor. 
+sv	Din manager ser ut som om han ramlat ner i ett hisschakt. 
+th	คุณดูเหมือนไปตกปล่องลิฟต์มา | 
+tr	Asansör boşluğuna düşmüşsün gibi görünüyorsun. 
+vi	Trông anh như | vừa rơi xuống trục thang máy. | 
+zh-long	你看起來活像從電梯摔下來 怎麼了？ 
+zh-short	你看上去好像摔进了电梯井里 
+no	Du ser ut som du har falt ned en heissjakt. 
+ja	高い所から落ちたのか？ | 
+

@@ -1,0 +1,27 @@
+ja	彼は悪くない | 僕がバカだったんだ | 
+id	Bukan dia bajingannya, tapi aku. Itu kesalahanku. 
+ar	&rlm;‏لم يكن سافلاً. كنت أنا السافل. كانت غلطتي.‏ | 
+da	Han var ikke en skid. Jeg var. Det var min skyld. 
+el	Δεν ήταν καθίκι, εγώ ήμουν. Εγώ έφταιγα. 
+en	He wasn't a dick. | I was the dick. It was my fault. | 
+fi	Minä se nuija olin. Se oli minun syytäni. 
+fr	Non, c'était moi, le connard. C'était ma faute. 
+he	&rlm;‏‏הוא לא היה שמוק. אני הייתי שמוק. | &rlm;‏זו הייתה אשמתי.‏ | 
+it	Non era lui lo stronzo, ero io. È stata colpa mia. 
+nl	Hij niet. Ik was een zak. Het was mijn schuld. 
+no	Nei. Jeg var kødden. Det var min skyld. 
+pl	Nie, to ja zachowałem się jak fiut. To była moja wina. 
+pr-br	Ele não era pilantra. Eu fui pilantra. Foi culpa minha. 
+pr	O imbecil não foi ele. Fui eu. A culpa foi minha. 
+ro	Nu el a fost ticălos, eu am fost. A fost vina mea. 
+sp	Él no fue el desgraciado. Fui yo. Fue mi culpa. 
+sp-eu	No fue un capullo. Yo fui el capullo. Fue culpa mía. 
+sv	Han var inget as. Det var mitt fel. 
+th	เขาไม่ได้บ้า ผมต่างหากที่บ้า | ความผิดผมเอง | 
+tr	Sersem değildi. Sersem olan bendim. Benim hatamdı. 
+vi	Anh ta không phải đồ tồi. Là tôi. | Lỗi tại tôi. | 
+zh-long	不是他，我才是那個爛人 是我的錯 
+zh-short	他不是混蛋 我才是 是我不好 
+ko	못된 놈은 오히려 나였어 | 내 잘못이었거든 | 
+ru	Это я виноват. 
+

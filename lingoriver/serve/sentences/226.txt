@@ -1,0 +1,32 @@
+ja	今さっき | 
+
+da	Det er Adam. | 
+el	Είναι ο Άνταμ. 
+en	It's Adam. 
+es	Es Adam. 
+es-eu	Es Adam. 
+he	‫זה אדם.‬ | 
+hr	To je Adam. 
+hu	Adam. 
+id	Ini Adam. 
+it	È Adam. 
+ja	&lrm;アダムね | 
+ko	&lrm;아담이군요 | 
+ms	Ini Adam. 
+no	Det er Adam. 
+pt-br	É Adam. 
+pt	É o Adam. 
+ro	E Adam. 
+th	&lrm;อดัมนี่ | 
+tr	Adam bu. 
+uk	Це Адам. 
+vi	&lrm;Là Adam. | 
+zh-long	是亞當 
+zh-short	是亚当 
+fi	Tämä on Adam. | -Tunnetko hänet? | 
+fr	- C'est Adam. - Vous le connaissez ? 
+nl	Dat is Adam. -Kent u hem? 
+sv	-Det är Adam. -Är han bekant? 
+cs	To je Adam. 
+ru	Это Адам. 
+

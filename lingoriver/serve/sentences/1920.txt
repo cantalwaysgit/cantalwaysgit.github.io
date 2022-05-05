@@ -1,0 +1,26 @@
+id	Kaulah segalanya dan alasanku bernyanyi 
+ja	私が歌う理由のすべて | 　　　　　　それはあなた | 
+ru	Ты - моё всё Из-за тебя я пою 
+ar	&rlm;‏أنت كل شيء لي وسبب غنائي‏ | 
+da	Du er mit et og alt Grunden til jeg synger 
+el	Ότι είσαι τα πάντα για μενα Ο λόγος που τραγουδάω 
+en	♪ You're my everything | The reason I sing ♪ | 
+fi	Olet kaikkeni Syy lauluuni 
+fr	Tu es mon repère Celui pour qui je chante 
+he	&rlm;‏‏אתה הכול בשבילי | &rlm;‏הסיבה שאני שרה‏ | 
+it	Sei tutto per me È grazie a te che canto 
+ko	당신은 내 모든 것 | 내가 노래하는 이유 | 
+nl	jij bent mijn alles de reden waarom ik zing 
+pl	Jesteś dla mnie wszystkim Dzięki tobie śpiewam 
+pr-br	Você é tudo para mim O motivo pelo qual eu canto 
+pr	És tudo para mim A razão para eu cantar 
+ro	Ești totul pentru mine Motivul pentru care cânt 
+sp	Eres todo para mí La razón por la que canto 
+sp-eu	Eres todo para mí La razón por la que canto 
+sv	Du är mitt allt Orsaken till att jag sjunger 
+th	คุณคือทุกอย่างของฉัน | เหตุผลที่ฉันร้องเพลง | 
+tr	Sen benim her şeyimsin Şarkı söyleme sebebim 
+vi	Anh là tất cả với em | Là lý do để em cất tiếng hát | 
+zh-long	你是我的一切 我的歌為你而唱 
+zh-short	你就是我的一切 我为你而唱 
+

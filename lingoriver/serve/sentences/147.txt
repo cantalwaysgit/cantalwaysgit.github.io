@@ -1,0 +1,84 @@
+el	Ήταν και ο προπάππους σου μαριονέτα; 
+id	Benarkah? Apakah ayahnya ayahnya ayahmu juga boneka? 
+ar	&rlm;‏أكان والد جدك دمية؟‏ | 
+da	Var din farfars far en dukke? 
+en	Really? Was your father's father's | father a puppet? | 
+fi	Oliko isänisänisäsi nukke? 
+fr	Et le père du père de ton père, aussi ? 
+he	&rlm;‏האם אבא של אבא של אבא שלך היה בובה?‏ | 
+it	E il padre del padre di tuo padre era un pupazzo? 
+no	Var din fars fars far en dukke? 
+pr-br	O pai do pai do seu pai também era marionete? 
+pr	E o pai do pai do teu pai era um fantoche? 
+ro	Și tatăl tatălui tatălui tău a fost păpușă? 
+sp	¿El papá del papá de tu papá era un muñeco? 
+sp-eu	¿El padre del padre de tu padre era una marioneta? 
+sv	Var din farfars far docka? 
+th	แล้วพ่อของพ่อของพ่อเป็นหุ่นไหม | 
+tr	Babanın babasının babası da kukla mıymış? 
+vi	Cụ anh cũng là một con rối à? | 
+zh-long	你爸爸的爸爸的爸爸是木偶嗎？ 
+zh-short	那你的曾祖父是吗？ 
+ru	А прадед тоже был куклой? 
+nl	Was de vader van je vaders vader een pop? 
+ja	ひいおじいさんも？ | 
+pl	A ojciec ojca twojego ojca? 
+ko	증조, 고조할아버지도 | 꼭두각시셨나요? | 
+
+it	Non ce l'ho con sua moglie. 
+fi	En ole katkera vaimollesi. | Mutta se, mitä teit tyttärelleni… | 
+uk	Я не маю претензій до вашої дружини. 
+zh-short	我对你妻子没有意见 
+cs	Proti vaší ženě nic nemám. 
+da	Jeg har intet imod Deres kone. | 
+el	Δεν έχω κάτι με τη γυναίκα σας. 
+en	I have nothing against your wife. 
+es-eu	No tengo nada contra ella. 
+fr	Je n'ai rien contre votre femme. 
+he	‫אין לי שום דבר נגד אשתך.‬ | 
+hr	Nemam ništa protiv vaše žene. 
+hu	Semmi bajom a feleségével. 
+id	Aku tak membenci istrimu. 
+ko	&lrm;부인한테는 반감 없어요 | 
+ms	Saya tiada masalah dengan isteri awak. 
+nl	Ik heb niets tegen uw vrouw. 
+no	Jeg har ingenting imot kona di. 
+pt-br	Não tenho nada contra sua esposa. 
+pt	Não tenho nada contra a sua mulher. 
+ro	Nu îi port pică soției tale. 
+ru	У меня нет претензий к твоей жене. 
+th	&lrm;ผมไม่ได้ถือสาภรรยาคุณ | 
+tr	Eşinizle bir sorunum yok. 
+vi	&lrm;Tôi không ghét gì vợ anh. | 
+zh-long	我對你太太沒有意見 
+ja	&lrm;奥さんを恨んでません | &lrm;ただ娘に… | 
+it	- Ma quel che ha fatto a mia figlia… - Mi sono scusato. 
+zh-short	-但你对我女儿做的事… -我已经道歉了 
+cs	- Co jste ale udělal dceři… - Omluvil jsem se. 
+es	- Pero lo que le hizo a mi hija… - Me disculpé. 
+da	-Men Deres hån af min datter… | -Jeg har undskyldt. | 
+el	-Αλλά αυτό που κάνατε στην κόρη μου… -Ζήτησα συγγνώμη. 
+en	-But what you did to my daughter-- -I already apologized. 
+es-eu	- Pero lo que le hizo a mi hija… - Me disculpé. 
+fr	- Mais ce que vous avez fait… - Je me suis excusé. 
+he	‫אבל מה שעשית לבת שלי…‬ | ‫-כבר התנצלתי.‬ | 
+id	- Tapi perbuatanmu kepada putriku… - Aku sudah minta maaf. 
+ko	&lrm;- 하지만 선생이 내 딸한테 한… | &lrm;- 이미 사과했잖습니까 | 
+th	&lrm;- แต่สิ่งที่คุณทำกับลูกสาวผม… | &lrm;- ผมขอโทษแล้ว | 
+tr	-Ama kızıma yaptığınız… -Çoktan özür diledim. 
+vi	&lrm;- Nhưng điều anh làm với con gái tôi… | &lrm;- Tôi đã xin lỗi rồi. | 
+zh-long	-但你對我女兒做的事… -我已經道歉了 
+uk	-А те, що ви зробили з моєю дочкою… -Я вибачився. 
+ms	- Apa awak buat kepada anak saya… - Saya dah minta maaf. 
+hu	- De amit a lányommal tett… - Már elnézést kértem. 
+nl	Maar wat u mijn dochter aandeed… -Ik heb al sorry gezegd. 
+ro	- Dar ce i-ai făcut fiicei… - Mi-am cerut scuze. 
+ru	- Но то, что ты сделал моей дочери… - Я извинился. 
+hr	-Ali što ste učinili mojoj kćeri… -Ispričao sam se. 
+pt-br	- Mas o que você fez à minha filha… - Já me desculpei com você. 
+pt	- Mas o que fez à minha filha… - Já pedi desculpa. 
+sv	-Men vad du gjorde min dotter… -Jag har bett om ursäkt. 
+no	-Men det du gjorde mot min datter… -Jeg har beklaget det alt. 
+fi	Pyysin jo anteeksi. | 
+ja	&lrm;既に謝罪しました | 
+

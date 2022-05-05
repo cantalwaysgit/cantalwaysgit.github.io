@@ -1,0 +1,27 @@
+ar	&rlm;‏لأنه لدي مواهب كثيرة في "هوليوود"‏ | 
+da	Fordi jeg har stalden fuld af talenter i Hollywood, 
+el	Γιατί έχω μια ομάδα ταλέντων στο Χόλιγουντ, 
+en	Because I got a stable of talent | in Hollywood | 
+fi	Minulla on Hollywoodissa kykytalli, 
+fr	J'ai pu dénicher un paquet de talents, à Hollywood, 
+he	&rlm;‏כי יש לי חבורה של כישרונות בהוליווד‏ | 
+id	Karena aku mendapatkan segudang klien di Hollywood 
+it	Ora ho una scuderia di talenti a Hollywood 
+ko	할리우드에서 재능있는 사람들을 | 모을 수 있게 됐고 | 
+nl	Want ik heb talenten in Hollywood... 
+pl	Mam grupę klientów w Hollywood. 
+pr-br	Pois eu tenho um grupo de talentos em Hollywood 
+pr	Porque fiquei com um grupo de artistas em Hollywood 
+ro	Fiindcă am o bază de talente la Hollywood, 
+sp-eu	Porque tengo una cartera de talentos en Hollywood 
+sp	Porque tengo un montón de artistas en Hollywood 
+sv	För jag har ett stall med talanger i Hollywood, 
+th	เพราะผมมีกลุ่มนักแสดงในฮอลลีวูด | 
+tr	Çünkü Hollywood'da temsil ettiğim bir grup sanatçı var 
+vi	Vì tôi có một nhóm tài năng ở Hollywood | 
+zh-long	因為我有一窩好萊塢天才 
+zh-short	因为我发现了好莱坞的一位才女 
+ru	Я собрал в Голливуде букет талантов, 
+ja	僕はハリウッドのスターを | 抱えてる | 
+no	For jeg har en stall med talenter i Hollywood 
+

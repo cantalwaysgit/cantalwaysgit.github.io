@@ -1,0 +1,25 @@
+da	Så har du prøvet det bedste 
+id	Kini kau dapatkan yang terbaik, ya 
+ar	&rlm;‏يمكنك أن تقولي إنك حظيت بالأفضل، أجل‏ | 
+el	Θα λες ότι είχες τον καλύτερο, ναι 
+en	♪ Then you can say you had the best, yes ♪ | 
+fi	Voit sanoa saaneesi parasta 
+fr	Tu pourras dire que c'était fou 
+he	&rlm;‏ואז תוכלי לומר שהיה לך הטוב היותר, כן‏ | 
+it	Potrai dire di aver avuto il massimo, sì 
+nl	dan kun je zeggen dat je de beste had 
+pl	Trafił ci się niezły gość 
+pr-br	Então você pode dizer que teve o melhor 
+pr	Podes dizer que tiveste o melhor, sim 
+ro	Atunci o să vezi că sunt cel mai bun, da 
+sp	Entonces puedes decir que está bien, sí 
+sp-eu	Puedes decir que has tenido lo mejor, sí 
+sv	Nu kan du säga att du haft den bäste 
+th	ตอนนี้พูดได้เลย | คุณมีของดีที่สุด ใช่เลย | 
+tr	Bayılacaksın buna, evet 
+vi	Rồi em có thể nói em là người tuyệt nhất | 
+zh-long	給妳最美好的回憶 
+zh-short	你可以说这是你最棒的吻 
+ru	Ты - лучшее, что я имею 
+ko	최고였다고 말해도 돼, 그래 | 
+

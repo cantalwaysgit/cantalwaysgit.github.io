@@ -1,0 +1,54 @@
+ar	&rlm;‏‏- صحيح. | &rlm;‏- أنا مكتف.‏ | 
+da	-Ja. -Alt i orden. 
+el	-Ναι... -Είμαι μια χαρά. 
+en	-All right. | -I'm good, dawg. | 
+fr	Tout roule. 
+he	&rlm;‏‏אני מבין. | &rlm;‏-אני בסדר.‏ | 
+it	Sono a posto. 
+ko	- 그렇군 | - 괜찮아요 | 
+pr-br	-Certo. -Estou tranquilo. 
+pr	- Certo. - Estou servido. 
+ro	- Da. - Mi-e bine. 
+sp	- Claro. - Estoy bien. 
+sp-eu	- Claro. - Estoy bien. 
+th	- อ๋อ | - ไม่ต้องเลย | 
+tr	-Evet. -Böyle iyi. 
+vi	- Tốt. | - Tôi ổn. | 
+zh-long	-好 -我好得很 
+zh-short	-是啊 -不用了 
+id	Aku tak butuh. 
+
+fi	Haluatko jakaa ne itse? | 
+zh-short	你想亲自去派发？ 
+ja	&lrm;自分で配るのか？ | 
+zh-long	妳想自己發傳單嗎？ 
+da	-Vil du selv dele dem ud? | -Noget må jeg gøre. | 
+el	-Θες να τα μοιράσεις εσύ; -Πρέπει κάτι να κάνω. 
+en	-Are you going to hand them out yourself? -I've got to do something. 
+es-eu	- ¿Vas a repartirlos tú? - Tengo que hacer algo. 
+es	- ¿Quieres repartirlos tú misma? - Tengo que hacer algo. 
+fr	- Tu vas les distribuer seule ? - Je dois faire quelque chose. 
+he	‫רוצה לחלק אותם בעצמך?‬ | ‫-אני חייבת לעשות משהו.‬ | 
+hr	-Sve ćeš to sama razdijeliti? -Moram nešto učiniti. Bilo što. 
+hu	- Te magad akarod osztogatni? - Tennem kell valamit. 
+id	- Kau mau membagikannya sendiri? - Aku harus melakukan sesuatu. 
+it	- Vuoi distribuirli tutti da sola? - Devo fare qualcosa, papà. 
+ko	&lrm;- 직접 나눠 줄 거니? | &lrm;- 뭐라도 해야죠 | 
+ms	- Kamu nak edarkan sendiri? - Saya perlu buat sesuatu. 
+nl	Wil je ze zelf uitdelen? -Ik moet iets doen. 
+no	-Vil du dele dem ut selv? -Jeg må gjøre noe. 
+pt-br	- Vai distribuir tudo isso sozinha? - Preciso fazer algo, pai. 
+pt	- Vais ser tu a distribuir isto? - Tenho de fazer algo. 
+ro	- Vrei să le împarți tu pe toate? - Ceva trebuie să fac. 
+ru	- Хочешь сама их раздавать? - Я должна хоть что-то сделать. 
+sv	-Ska du dela ut dem själv? -Nåt måste jag göra. Vad som helst. 
+th	&lrm;- จะเอาไปแจกหมดเลยเหรอ | &lrm;- หนูต้องทำอะไรสักอย่างค่ะ | 
+tr	-Hepsini kendin mi dağıtacaksın? -Bir şey yapmam lazım baba. 
+uk	-Ти сама це роздаватимеш? -Я повинна щось робити, тату. 
+vi	&lrm;- Con muốn tự mình phân phát à? | &lrm;- Con phải làm gì đó. | 
+cs	- To chceš všechno roznést sama? - Něco dělat musím. Cokoliv. 
+fi	Täytyyhän minun jotain tehdä. | 
+zh-short	我必须做点什么 爸爸 
+ja	&lrm;何かしないと | 
+zh-long	我得做點什麼 
+

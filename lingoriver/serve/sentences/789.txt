@@ -1,0 +1,27 @@
+ar	&rlm;‏‏جميع الأغاني رائعة. | &rlm;‏سيكون هذا الألبوم ناجحاً جداً.‏ | 
+da	Alle sangene er fantastiske. Albummet bliver kæmpestort. 
+el	Κάθε κομμάτι είναι εκπληκτικό. Θα κάνει τεράστια επιτυχία. 
+en	Every song is incredible. | That album is gonna be massive. | 
+fi	Joka kappale on upea. Tästä levystä tulee massiivinen. 
+fr	Toutes les chansons déchirent. L'album va faire un carton. 
+he	&rlm;‏כל השירים מדהימים. התקליט הזה יהיה להיט.‏ | 
+id	Semua lagunya luar biasa. Album itu akan meledak. 
+it	Le canzoni sono tutte incredibili. L'album sarà strepitoso. 
+ko	노래가 전부 주옥같네 | 앨범 대박 나겠어 | 
+nl	Elk nummer is ongelooflijk. Dat album wordt fantastisch. 
+no	Alle sangene er utrolige. Det albumet blir enormt. 
+pl	Każda piosenka jest niesamowita. Ten album będzie megahitem. 
+pr-br	Todas as músicas são incríveis. Esse álbum vai ser demais. 
+pr	Todas as canções são incríveis. O álbum vai ser fantástico. 
+ro	Fiecare melodie e grozavă. Albumul o să aibă un succes răsunător. 
+ru	Все песни потрясающие. Альбом будет просто бомбой. 
+sp-eu	Todas las canciones son impresionantes. Ese álbum va a ser la leche. 
+sp	Todas las canciones son increíbles. Este álbum será un éxito. 
+sv	Varje låt är fantastisk. Albumet kommer att bli en hit. 
+th	ทุกเพลงเหลือเชื่อเลย | อัลบั้มนี้ต้องดังระเบิด | 
+tr	Her şarkı müthiş. Bu albüm muazzam olacak. 
+vi	Bài hát nào cũng hay. | Album này sẽ gây sốt. | 
+zh-long	每首歌都好好聽 這張唱片一定不得了 
+zh-short	每首歌都很棒 这张专辑要火 
+ja	アルバムは | 大ヒット間違いなしだ | 
+

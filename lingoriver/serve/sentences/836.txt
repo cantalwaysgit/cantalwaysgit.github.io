@@ -1,0 +1,25 @@
+ja	そう多くないけれど | 　　出会えることがある | 
+ru	Иногда ты находишь его 
+ar	&rlm;‏"من النادر أن تجد شخصاً‏ | 
+da	Af og til finder man en 
+el	Μια φορά στο τόσο Βρίσκεις κάποιον 
+en	[Courtney on recording] ♪ Once in a while | You find someone ♪ | 
+fi	Joskus löytää ihmisen 
+fr	Il arrive qu'on trouve quelqu'un 
+he	&rlm;‏‏אחת לכמה זמן | &rlm;‏את מוצאת מישהו‏ | 
+it	A volte capita Di trovare qualcuno 
+ko	가끔 처음부터 | 
+nl	af en toe vind je iemand 
+pl	Czasem znajdujesz kogoś 
+pr-br	De vez em quando Você acha alguém 
+pr	De vez em quando Encontramos alguém 
+ro	Uneori găsești pe cineva 
+sp	De vez en cuando Encuentras a alguien 
+sp-eu	Algunas veces Encuentras a alguien 
+sv	Det händer Att man hittar nån 
+th	บางครั้งบางคราว เราได้พบใครสักคน | 
+tr	Bazen bulursun birini 
+vi	Một lúc nào đó | Anh tìm thấy một người | 
+zh-long	突然有那麼一個人 
+zh-short	偶尔 你会遇到某人 
+

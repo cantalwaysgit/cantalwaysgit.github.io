@@ -1,0 +1,54 @@
+ja	僕が近づきすぎた | 
+ar	&rlm;‏اسمع، تقاربت منك كثيراً.‏ | 
+da	Hør her, jeg kom for tæt på. 
+el	Άκου, δέθηκα παραπάνω απ' όσο έπρεπε. 
+en	Hey, listen. I got too close. | 
+fi	Tulin liian lähelle. 
+fr	Écoute, j'étais trop proche de toi. 
+he	&rlm;‏היי, תקשיב. התקרבתי יותר מדי.‏ | 
+it	Ascolta. Ero troppo coinvolto. 
+no	Jeg ble for knyttet til deg. 
+pr-br	Ouça. Eu me envolvi demais. 
+pr	Ouve. Eu aproximei-me demasiado. 
+ro	Ascultă! Ne apropiaserăm prea mult. 
+sp-eu	Escucha. Me impliqué demasiado. 
+sp	Oye. Me involucré mucho. 
+sv	Hör på. Jag kom för nära. 
+th	เฮ่ ฟังนะ ฉันเข้าไปใกล้เกินไป | 
+tr	Dinle. Fazla yakınlaştım. 
+vi	Nghe này. Tôi đã quá thân thiết. | 
+zh-long	聽著，是我沒守好分際 
+zh-short	嘿 听着 是我太过了 
+id	Dengar, aku terlalu akrab. 
+ru	Мы слишком сблизились. 
+pl	Za bardzo się do ciebie zbliżyłem. 
+ko	내가 너무 가까워져서 그래 | 
+nl	Ik kwam te dichtbij. Onze vriendschap stond in de weg. Je deed wat moest. 
+en	Our friendship was getting | in the way of our business. | 
+ar	&rlm;‏‏أعاقت صداقتنا عملنا. | &rlm;‏قمت بما تعين عليك القيام به.‏ | 
+da	Venskabet kom i vejen for forretningen. Du gjorde, hvad du skulle. 
+el	Η φιλία μας εμπόδιζε τα επαγγελματικά μας. Έκανες αυτό που έπρεπε. 
+fi	Ystävyys alkoi haitata bisnestä. Sinun oli pakko lähteä. 
+fr	Amitié et affaires ne font pas bon ménage. T'avais pas le choix. 
+he	&rlm;‏‏החברות שלנו הפריעה לעסקים. | &rlm;‏עשית מה שהיית צריך לעשות.‏ | 
+it	L'amicizia si è intromessa negli affari. Hai fatto ciò che dovevi. 
+no	Vennskapet vårt kom i veien for forretningene. Du gjorde det du måtte. 
+pr	A nossa amizade estava a interferir no trabalho. Fizeste o que era preciso. 
+pr-br	Nossa amizade interferiu nos negócios. Você fez o que tinha que ser feito. 
+ro	Prietenia noastră era un impediment pentru afacere. Ai făcut ce trebuia. 
+sp-eu	Nuestra amistad se interpuso en el trabajo. Hiciste lo que debías. 
+sp	Nuestra amistad se interponía. Hiciste lo que debías hacer. 
+sv	Vår vänskap kom i vägen för affärerna. Du gjorde det du var tvungen till. 
+th	มิตรภาพของเราเข้ามาขวางทางธุรกิจ | นายก็ทำสิ่งที่นายต้องทำ | 
+tr	İşle arkadaşlığı karıştırdık. Sen yapman gerekeni yaptın. 
+vi	Tình bạn của chúng ta cản trở công việc. | Anh làm việc cần phải làm. | 
+zh-long	我讓私情介入公事 你做了你該做的事 
+zh-short	让友谊妨碍了生意 你做了该做的 
+ja	友情が弊害になったんだ | 離れて正解だよ | 
+id	Persahabatan kita mengganggu pekerjaan kita. 
+ru	Дружба встала на пути у дела. Ты сделал то, что должен был. 
+pl	Przyjaźń zaczęła przeszkadzać w interesach. Musiałeś tak postąpić. 
+ko	우정이 우리 사무 관계를 | 방해했잖아, 잘 선택한 거야 | 
+en	You did what you had to do. | 
+id	Kau melakukan hal yang seharusnya. 
+

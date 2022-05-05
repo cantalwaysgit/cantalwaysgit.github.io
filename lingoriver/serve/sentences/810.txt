@@ -1,0 +1,27 @@
+id	- Apa itu, Sayang? - Melompat ke dalam kolam. 
+ru	-Что, дорогая? -Прыжки в бассейн. 
+ar	&rlm;‏‏- ما هو يا عزيزتي؟ | &rlm;‏- القفز في بركة السباحة.‏ | 
+da	-Hvad er det? -En tur i poolen. 
+el	-Ποιο είναι αυτό; -Που πέφτουμε στην πισίνα. 
+en	-What's that, dear? | -Jumping in the pool. | 
+fi	-Minkä? -Altaaseen hyppäämisen. 
+fr	- Quoi, donc ? - Un saut dans la piscine. 
+he	&rlm;‏‏מה זה, יקירתי? | &rlm;‏-קפיצה לבריכה.‏ | 
+it	- Quale sarebbe, cara? - Il tuffo in piscina. 
+ko	- 그게 뭔데? | - 수영장에 뛰어드는 거요 | 
+nl	Wat is dat? -In het zwembad springen. 
+no	-Hva er det? -Å hoppe i bassenget. 
+pl	- Jakiej? - Skokach do basenu. 
+pr-br	-Qual, querida? -Pular na piscina. 
+pr	- Qual é? - Saltar para a piscina. 
+ro	- Care e aia? - Săritul în piscină. 
+sp	- ¿Cuál es, querida? - Meternos en la piscina. 
+sp-eu	- ¿Qué es? - Saltar a la piscina. 
+sv	-Vad är det? -Att hoppa i poolen. 
+th	- มันคืออะไรล่ะ ที่รัก | - กระโจนลงสระ | 
+tr	-Neymiş o canım? -Havuza atlamak. 
+vi	- Là gì thế? | - Nhảy vào bể bơi. | 
+zh-long	-什麼東西，親愛的？ -泳池炸彈 
+zh-short	-是什么 亲爱的？ -跳进泳池 
+ja	何だい？ | 
+

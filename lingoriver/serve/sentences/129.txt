@@ -1,0 +1,47 @@
+id	- Ya! - Ya. 
+ar	&rlm;‏أجل!‏ | 
+da	Ja! 
+el	Ναι! 
+en	Yeah! | 
+he	&rlm;‏כן!‏ | 
+it	Sì! 
+ko	그거야 | 
+pr	Sim! 
+ro	Da! 
+sp-eu	¡Sí! 
+sp	¡Sí! 
+th	ใช่เลย | 
+tr	Evet! 
+vi	Tuyệt! | 
+zh-long	上！ 
+zh-short	好！ 
+
+fi	Lopeta. | 
+pt-br	Pare. 
+es	Ya basta. 
+cs	Přestaň. 
+da	Lad være. | 
+el	Σταμάτα. 
+en	Stop it. 
+es-eu	Para. 
+fr	Arrête ! 
+he	‫תפסיק.‬ | 
+hr	Prestani. 
+hu	Ne már! 
+id	Hentikan. 
+it	Smettila. 
+ja	&lrm;やめな | 
+ko	&lrm;에이, 그러지 말고 | 
+ms	Janganlah. 
+nl	Hou op. 
+no	Slutt. 
+pt	Para com isso. 
+ru	Перестань. 
+th	&lrm;ไม่เอาน่า | 
+tr	Yapma. 
+uk	Припини. 
+vi	&lrm;Thôi đi. | 
+zh-long	拿走吧 
+zh-short	得了吧 
+ro	Încetează! 
+

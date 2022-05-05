@@ -1,0 +1,27 @@
+ar	&rlm;‏لم نقم بهذه العادة من قبل.‏ | 
+da	Vi har aldrig udført et ritual. 
+el	Δεν έχουμε ξανακάνει τελετουργικό. 
+en	Sorry, we've never done the ritual before. | 
+fi	Emme ole tehneet rituaalia. 
+fr	On n'a jamais fait le rituel. 
+he	&rlm;‏מעולם לא עשינו את הטקס הקבוע.‏ | 
+id	Kami belum pernah lakukan ritual ini. 
+it	Non abbiamo mai fatto il rito. 
+ko	이렇게 모인 건 처음이에요 | 
+nl	We hebben nooit 'n ritueel gedaan. 
+no	Vi har aldri gjort ritualet. 
+pl	Nigdy tego nie robiliśmy. 
+pr-br	Nunca fizemos esse ritual. 
+pr	Desculpa, nunca fizemos o ritual. 
+ro	Noi n-am făcut niciodată ritualul. 
+ru	Мы никогда не проводили ритуал. 
+sp-eu	Nunca hemos hecho el ritual. 
+sp	Nunca hicimos el ritual. 
+sv	Vi har aldrig gjort ritualen förut. 
+th	เราไม่เคยทำตามธรรมเนียมนี้ | 
+tr	Bu geleneği hiç uygulamadık ki. 
+vi	Ta chưa hề thực hành nghi lễ này. | 
+zh-long	我們從來沒這麼做過 
+zh-short	我们以前没这个仪式 
+ja	初めての“儀式”よ | 
+

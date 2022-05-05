@@ -1,0 +1,27 @@
+ar	&rlm;‏رديئة للغاية. رهيبة.‏ | 
+da	Fuldstændig elendig. Skrækkelig. 
+el	Άθλια. Απαίσια. 
+en	Complete shit. Terrible. | 
+fi	Kyllä. Kamalaa. 
+fr	À chier. Dégueulasse. 
+he	&rlm;‏מחורבנת לחלוטין. איומה.‏ | 
+it	Una merda. Terribile. 
+ko	정말 끔찍하지 | 
+nl	Heel slecht. Waardeloos. 
+pr-br	Uma merda fenomenal. Terrível. 
+pr	Uma merda. Horrível. 
+sp-eu	Una mierda absoluta. Terrible. 
+sp	Una mierda. Terrible. 
+sv	Ren skit. Förskräckligt. 
+vi	Cực kém. Tồi tệ. | 
+zh-long	爛到爆，嚇死人 
+zh-short	烂到不行 
+ja	確かに　劣悪だ | 
+no	Bedriten. Helt elendig. 
+tr	Bombok. Korkunç. 
+id	Sampah. Jelek sekali. 
+pl	Kompletna beznadzieja. 
+ro	De rahat. E groaznică. 
+ru	Просто ужасное. Кошмар. 
+th	แย่สุดๆ เลย | 
+

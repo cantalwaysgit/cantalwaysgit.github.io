@@ -1,0 +1,31 @@
+en	[laughs] | 
+
+id	Adaś! 
+es	¡Adam! 
+da	Adas! | 
+el	Άντας! 
+en	Adaś! 
+es-eu	¡Adas! 
+fi	Adaś! | 
+fr	Adaś ! 
+he	‫אדאש!‬ | 
+hr	Adaśe! 
+hu	Adaś! 
+it	Adaś! 
+ja	&lrm;アダム！ | 
+ko	&lrm;아담! | 
+ms	Adam! 
+no	Adas! 
+pt	Adaś! 
+pt-br	Adaś! 
+ro	Adaś! 
+ru	Адась! 
+th	&lrm;อดัม! | 
+tr	Adam! 
+vi	&lrm;Adaś! | 
+zh-long	亞達西！ 
+zh-short	亚当！ 
+uk	Адасю! 
+cs	Ádo! 
+sv	Adaś! 
+

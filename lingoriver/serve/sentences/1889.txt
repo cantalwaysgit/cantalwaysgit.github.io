@@ -1,0 +1,29 @@
+id	Pria yang akan kunikahi 
+th	คนที่ฉันจะแต่งงานด้วยอยู่ที่นั่น | 
+zh-short	我的结婚对象住那儿 
+ar	&rlm;‏الرجل الذي سأتزوجه يعيش هناك.‏ | 
+da	Ham, jeg skal giftes med, bor der. 
+el	Εκεί ζει ο τύπος που θα παντρευτώ. 
+en	The guy I'm marrying lives there. | 
+fi	Sulhaseni asuu siellä. 
+fr	Mon futur mari y habite. 
+he	&rlm;‏הבחור שאיתו אני מתחתנת גר שם.‏ | 
+it	L'uomo che sto per sposare vive là. 
+nl	De man met wie ik ga trouwen, woont daar. 
+no	Mannen jeg skal gifte meg med, bor der. 
+pl	Mieszka tam facet, za którego wychodzę. 
+pr-br	O cara com quem vou me casar mora lá. 
+pr	O tipo com quem me vou casar vive lá. 
+ro	Tipul cu care mă mărit locuiește acolo. 
+sp	El tipo con el que voy a casarme vive allí. 
+sp-eu	El tío con el que me voy a casar vive allí. 
+sv	För att killen jag ska gifta mig med bor där. 
+tr	Evleneceğim adam orada oturuyor. 
+vi	Người em sắp cưới sống ở đó. | 
+zh-long	我要嫁的人住在那裡 
+ja	結婚する相手が住んでるの | 
+ru	Мой будущий муж... 
+ko	결혼할 남자가 거기 살아요 | 
+id	tinggal di sana. 
+ru	...там живет. 
+

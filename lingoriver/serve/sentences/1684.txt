@@ -1,0 +1,29 @@
+ar	&rlm;‏أريدك أن تركزي على مستقبلك.‏ | 
+da	Du skal koncentere dig om din karriere. 
+el	Αυτό που θέλω να κάνεις, είναι να επικεντρωθείς στην καριέρα σου. 
+en	What I want you to do | is concentrate on your career. | 
+fi	Haluan, että keskityt uraasi. 
+fr	Je veux que tu te concentres sur ta carrière. 
+he	&rlm;‏מה שאני רוצה שתעשי זה להתרכז בקריירה שלך.‏ | 
+it	Voglio che ti concentri sulla tua carriera. 
+no	Jeg vil du skal fokusere på karrieren din. 
+pl	Skoncentruj się na swojej karierze. 
+pr-br	Quero que você se concentre na sua carreira. 
+pr	O que eu quero é que te concentres na tua carreira. 
+ro	Aș vrea să te concentrezi la cariera ta. 
+sp-eu	Quiero que te concentres en tu carrera. 
+sp	Quiero que te concentres en tu carrera. 
+sv	Jag vill att du koncentrerar dig på din karriär. 
+th	ที่ผมอยากให้ทำคือตั้งใจทุ่มเท | กับงานของคุณ | 
+tr	Kariyerine odaklanmanı istiyorum. 
+vi	Tôi muốn cô | tập trung vào sự nghiệp của mình. | 
+zh-long	我要妳專心發展事業 
+zh-short	我想让你专注在事业上 
+nl	Dat je je concentreert op je carrière. Muziek komt op de eerste plaats. 
+ja	自分のキャリアだけに | 集中してほしい | 
+ru	Я бы хотел, чтобы ты... 
+id	Aku ingin kau 
+ko	네 일에 집중하면 좋겠어 | 
+id	fokus pada kariermu. 
+ru	...сосредоточилась на своей карьере. 
+

@@ -1,0 +1,27 @@
+id	Lihat bintang ini? 
+ru	Видите звезду? 
+pl	Widzisz tę gwiazdę? 
+zh-short	看到这颗星了吗？ 
+ar	&rlm;‏أترين هذه النجمة؟‏ | 
+da	Kan du se den stjerne? 
+el	Βλέπεις αυτό το αστέρι; 
+en	See this star here? | 
+fi	Tämä tähti tässä. 
+fr	Tu vois cette étoile ? 
+he	&rlm;‏רואה את הכוכב פה?‏ | 
+it	Vedi questa stella? 
+ko	여기 별 보이시죠? | 
+pr-br	Está vendo esta estrela aqui? 
+pr	Está a ver esta estrela? 
+ro	Vezi steaua asta? 
+sp-eu	¿Ves esta estrella? 
+sp	¿Ven esta estrella? 
+sv	Ser du stjärnan här? 
+th	เห็นดาวตรงนี้ไหม | 
+tr	Şu yıldızı görüyor musun? 
+vi	Cô thấy ngôi sao này chứ? | 
+zh-long	看到那顆星星了嗎？ 
+nl	Zie je deze ster? Dit is de plek met de beste akoestiek in... 
+ja	あの星印 | 
+no	Ser du denne stjernen? 
+

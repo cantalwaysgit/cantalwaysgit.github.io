@@ -1,0 +1,49 @@
+ru	Я думаю, нам надо вернуться в студию. 
+ja	そろそろスタジオに戻って | 新曲を作り始めようか | 
+id	Menurutku, kita harus kembali ke studio, Courtney. 
+no	Jeg synes vi bør dra tilbake til studio. Kanskje leke oss med noen nye låter. 
+sv	Jag tänkte vi skulle in i studion igen. Kanske leka lite med några nya låtar. 
+ar	&rlm;‏فكرت في أننا يجب أن نعود إلى الأستديو | &rlm;يا "كورتني".‏ | 
+da	Jeg tænkte, vi skulle tilbage i studiet. 
+el	Σκεφτόμουν ότι ίσως πρέπει να επιστρέψουμε στο στούντιο. 
+en	I was thinking we should get back | in the studio, Courtney. | 
+fi	Meidän pitäisi mennä studioon - 
+fr	On devrait retourner en studio. 
+he	&rlm;‏חשבתי שכדאי שנחזור לאולפן.‏ | 
+it	Pensavo che dovremmo tornare in studio. 
+pl	Może wrócilibyśmy do studia? 
+pr-br	Acho que deveríamos voltar ao estúdio. 
+pr	Estava a pensar que devíamos voltar para o estúdio. 
+ro	Mă gândeam să ne întoarcem în studio. 
+sp	Estaba pensando que debemos volver al estudio. 
+sp-eu	Creo que deberíamos volver al estudio. 
+th	ผมคิดว่าเราน่าจะกลับไปที่สตูดิโอ | 
+tr	Stüdyoya dönmeliyiz diye düşünüyordum. 
+vi	Tôi đang nghĩ ta nên trở lại phòng thu. | 
+zh-long	我在想該重回錄音室了 
+zh-short	我在想我们该回录音棚 
+ko	스튜디오로 다시 | 돌아가야 할 것 같아 | 
+nl	Misschien moeten we de studio weer in. Een beetje klooien met nieuwe deuntjes. 
+id	Mungkin mencari inspirasi lagu baru. 
+ar	&rlm;‏قد نعبث ببعض النغمات.‏ | 
+da	Måske finde på nogle nye sange. 
+el	Να δουλέψουμε σε καινούρια κομμάτια. 
+en	Maybe noodle around with some new tunes. | 
+fi	tuunailemaan uusia kappaleita. 
+fr	Pour bosser sur de nouvelles chansons. 
+he	&rlm;‏אולי נשחק עם שירים חדשים.‏ | 
+pr-br	Talvez brincar com novas melodias. 
+pr	Talvez fazer umas músicas novas. 
+sp-eu	Probar algunas canciones nuevas. 
+sp	Quizá jugar un poco con nuevas melodías. 
+tr	Yeni melodiler üzerinde oynarız. 
+vi	Có lẽ là thử với vài giai điệu mới. | 
+zh-long	錄個幾首新歌 
+zh-short	录几首新歌 
+it	Magari iniziando a provare nuovi brani. 
+pl	Nagrali jakiś nowy kawałek? 
+ro	Poate încercăm să scoatem niște piese noi. 
+th	ลองเล่นๆ หาเพลงใหม่กัน | 
+ru	Записать что-то новенькое. 
+ko	새 노래도 좀 찾아보고 말이야 | 
+

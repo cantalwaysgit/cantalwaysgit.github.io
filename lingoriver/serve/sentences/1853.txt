@@ -1,0 +1,27 @@
+ar	&rlm;‏أمزح وحسب.‏ | 
+da	Det var for sjov. 
+el	Αστειεύομαι. 
+en	Just kidding. | 
+fi	Vitsi. 
+fr	Je blague. 
+he	&rlm;‏אני רק מתלוצץ.‏ | 
+it	Scherzavo. 
+ja	冗談さ | 
+ko	농담이에요 | 
+nl	Grapje. 
+no	Bare tuller. 
+pl	Żartuję. 
+pr-br	Estou brincando. 
+pr	Estava a brincar. 
+ro	Glumeam. 
+sp	Es una broma. 
+sp-eu	Es broma. 
+sv	Skojar bara. 
+th	แค่ล้อเล่น | 
+tr	Şaka yapıyorum. 
+vi	Tôi đùa đấy. | 
+zh-long	開玩笑的啦 
+zh-short	开个玩笑而已 
+ru	Шучу! 
+id	Bercanda. 
+

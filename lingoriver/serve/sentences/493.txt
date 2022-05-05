@@ -1,0 +1,27 @@
+ja	子供にジョークを言うんだ | 
+sv	När ungarna radar upp sig kan du skämta med dem. 
+el	Να κάνεις αστεία για τα παιδιά που κάθονται στην ουρά. 
+ar	&rlm;‏سترى الأطفال في طوابير، وتروي النكات لهم.‏ | 
+da	Du kan se børnene på nettet og fortælle vittigheder. 
+en	When you see all the children on line, | just start doing jokes for 'em. | 
+fi	Kerro jonottaville lapsille vitsejäsi. 
+fr	Fais des blagues aux enfants qui font la queue. 
+he	&rlm;‏‏תראה את הילדים שעומדים בתור, | &rlm;‏תספר להם בדיחות.‏ | 
+it	Ci sono i bambini in fila, fai delle scenette per loro. 
+nl	Daar zie je kinderen en je doet grappen voor ze. 
+no	Fremfør vitser for ungene som står i kø. 
+pl	Opowiadaj żarty dzieciom stojącym w kolejce. 
+pr-br	Verá as crianças na fila, fará piadas para elas. 
+pr	Vês os miúdos na fila e começas a contar-lhes piadas. 
+ro	O să fie mulți copii acolo și glumești cu ei. 
+sp-eu	Contarles chistes a los niños en las colas. 
+sp	Puedes contarles chistes a los niños en la fila. 
+th	เห็นเด็กๆ เข้าแถว | ไปคุยตลกกับพวกเขา | 
+tr	Kuyrukta bekleyen çocuklara espriler yap. 
+vi	Anh thấy bọn trẻ, biểu diễn cho chúng. | 
+zh-long	線上跟小朋友互動 開玩笑給他們聽 
+zh-short	跟孩子们接触接触 给他们讲讲笑话 
+ko	줄 선 아이들한테 | 우스갯소리를 던지는 거지 | 
+id	Kau lihat anak-anak mengantre. Buat lelucon untuk mereka. 
+ru	Будешь шутить с детьми в очереди на карусель. 
+

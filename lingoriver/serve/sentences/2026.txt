@@ -1,0 +1,27 @@
+id	Lanjutkan. 
+ja	続けて | 
+ar	&rlm;‏تابع.‏ | 
+da	Fortsæt. 
+el	Συνέχισε. 
+en	Keep going. | 
+fi	Jatka. 
+fr	Continue. 
+he	&rlm;‏תמשיך.‏ | 
+it	Continua. 
+nl	Ga door. 
+no	Fortsett. 
+pl	Mów dalej. 
+pr-br	Continue. 
+pr	Continua. 
+ro	Continuă. 
+sp	Continúa. 
+sp-eu	Sigue. 
+sv	Fortsätt. 
+th	ว่าต่อไปสิ | 
+tr	Devam et. 
+vi	Anh nói tiếp đi. | 
+zh-long	繼續 
+zh-short	继续说 
+ru	Продолжай. 
+ko	계속해 봐요 | 
+

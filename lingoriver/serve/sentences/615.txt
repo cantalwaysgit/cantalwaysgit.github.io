@@ -1,0 +1,27 @@
+ja	君じゃないよ バリー | 
+id	Bukan kau, Barry. Hai! 
+ar	&rlm;‏لا، ليس أنت يا "باري". مرحباً!‏ | 
+da	Nej, ikke dig, Barry. Hej! 
+el	Όχι εσύ, Μπέρι. Γεια! 
+en	No, not you, Barry. Hi! | 
+fi	Et sinä, Barry. 
+fr	Non, pas toi, Barry. Salut ! 
+he	&rlm;‏לא אתה, בארי. היי!‏ | 
+it	Non tu, Barry. Ciao! 
+ko	너 말고, 배리, 안녕! | 
+nl	Nee, jij niet, Barry. Hoi. 
+no	Nei, ikke du, Barry. Hei! 
+pl	Nie ty, Barry. Cześć! 
+pr-br	Você não, Barry. Oi! 
+pr	Não és tu, Barry. Olá! 
+ro	Nu tu, Barry. Salut! 
+sp-eu	No tú, Barry. ¡Hola! 
+sp	No, no es contigo, Barry. ¡Hola! 
+sv	Nej, inte du, Barry. Hej. 
+th	ไม่ ไม่ใช่คุณนะ แบร์รี่ หวัดดี | 
+tr	Hayır, sen değil Barry. Merhaba! 
+vi	Không phải cậu, Barry. Xin chào! | 
+zh-long	不是說你，貝利，嗨 
+zh-short	不 不是说你 巴里 嗨！ 
+ru	Не тебе, Барри. Привет! 
+

@@ -1,0 +1,57 @@
+id	Apa salahku? 
+ja	閉じてる | 
+ru	Что такое? 
+zh-short	我做什么了？ 
+th	ผมทำอะไรเหรอ | 
+ar	&rlm;‏ما الذي فعلته؟‏ | 
+da	Hvad har jeg gjort? 
+el	Τι έκανα; 
+en	What did I do? | 
+fi	Mitä minä muka tein? 
+fr	Quoi ? 
+he	&rlm;‏מה עשיתי?‏ | 
+it	Ma che ho fatto? 
+ko	제가 뭘 했다고요? | 
+nl	Wat heb ik gedaan? 
+no	Hva har jeg gjort? 
+pl	O co wam chodzi? 
+pr-br	O que eu fiz? 
+pr	O que foi que eu fiz? 
+ro	Dar ce-am făcut? 
+sp-eu	¿Qué pasa? 
+sp	¿Qué hice? 
+sv	Vad har jag gjort? 
+tr	Ne yaptım ki? 
+vi	Tôi làm gì nào? | 
+zh-long	我怎麼了嗎？ 
+
+el	Σ' εκείνη τη φωτογραφία, υπάρχει το φούτερ του γιου σου. 
+cs	A byla na ní i mikina tvýho syna. 
+da	Og på det foto ser man din søns bluse. | 
+es-eu	Y en esa foto aparece la sudadera de tu hijo. 
+fr	Sur cette photo, on voit le sweat de ton fils. 
+he	‫ובתמונה הזו מופיע הקפוצ'ון של הבן שלך.‬ | 
+id	Dan di foto itu, ada jaket putramu. 
+it	E in quella foto c'è anche la felpa di tuo figlio. 
+ja	&lrm;そこにアダムのパーカーが | &lrm;写ってた | 
+ko	&lrm;그 사진에는 | &lrm;당신 아들 후드티도 있었어 | 
+nl	En op die foto staat ook de hoodie van je zoon. 
+no	På bildet er hettegenseren til sønnen din. 
+pt	Nessa foto, aparece a camisola do teu filho. 
+ro	În poza aia, apare hanoracul fiului tău. 
+sv	Och på den bilden ser man din sons luvtröja. 
+th	&lrm;และในรูปนั้นมีเสื้อฮู้ดของลูกชายเธออยู่ | 
+tr	O fotoğrafta oğlunun kapüşonlusu da görünüyor. 
+vi	&lrm;Và trong bức ảnh đó | &lrm;có cả áo trùm đầu của con trai cô. | 
+zh-long	這張照片裡也有妳兒子的連帽衫 
+zh-short	那张照片中出现了你儿子的连帽衫 
+hu	És azon a képen ott van a fiad kapucnis pulcsija is. 
+fi	Siinä kuvassa on myös poikasi huppari. | 
+pt-br	E nela, está o moletom do seu filho. 
+es	La sudadera de tu hijo sale en la foto. 
+uk	На тому фото — толстовка твого сина. 
+en	Your son's hoodie is in that photo. 
+hr	Na njoj je i majica tvog sina. 
+ms	Di dalam gambar itu, ada jaket berhud Adam. 
+ru	На ней видно толстовку твоего сына. 
+

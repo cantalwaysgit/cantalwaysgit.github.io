@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- أتيت! | &rlm;‏- بالطبع.‏ | 
+da	-Du kom! -Selvfølgelig. 
+el	-Ήρθες! -Φυσικά. 
+en	-You came! | -Of course. | 
+fi	-Sinä tulit. -Tietysti. 
+fr	- T'es là ! - Évidemment. 
+he	&rlm;‏‏באת! | &rlm;‏-בוודאי.‏ | 
+it	- Sei venuta! - Ma certo. 
+ko	- 왔구나! | - 당연하죠 | 
+nl	Je bent gekomen. -Natuurlijk. 
+pl	- Przyszłaś! - Oczywiście. 
+pr-br	-Você veio! -Claro. 
+pr	- Vieste! - É claro. 
+sp-eu	- ¡Has venido! - Claro. 
+sp	- ¡Viniste! - Por supuesto. 
+sv	-Du kom! -Så klart. 
+tr	-Gelmişsin! -Elbette. 
+vi	- Em đã đến! | - Tất nhiên rồi. | 
+zh-long	-妳來了！ -當然了 
+zh-short	-你来了！ -当然 
+ja	来てくれたのか | 
+no	-Du kom! -Selvsagt. 
+ru	-Ты приехала! -Конечно. 
+id	- Kau datang. - Tentu saja. 
+ro	- Ai venit! - Desigur. 
+th	- คุณมา | - แน่นอน | 
+

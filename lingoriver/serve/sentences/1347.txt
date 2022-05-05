@@ -1,0 +1,29 @@
+id	Jangan cemaskan Peter. 
+ru	Не думай о Питере. 
+ar	&rlm;‏لا تقلق بشأن "بيتر". إنه يريد سعادتي وحسب.‏ | 
+da	Tænk ikke på Peter. Han ønsker kun, at jeg er lykkelig. 
+el	Μην ανησυχείς για τον Πίτερ. Θέλει να είμαι ευτυχισμένη. 
+en	Don't worry about Peter. | He only wants my happiness. | 
+fi	Älä välitä Peteristä. Hän toivoo, että olen onnellinen. 
+fr	Fais pas attention à Peter. Il ne veut que mon bonheur. 
+he	&rlm;‏‏אל תדאג בקשר לפיטר. | &rlm;‏הוא רוצה רק מה שטוב בשבילי.‏ | 
+it	Non preoccuparti per Peter. Vuole solo che io sia felice. 
+ko	피터는 걱정하지 마세요 | 내가 행복하길 바라니까요 | 
+nl	Geen zorgen over Peter. Hij wil dat ik gelukkig ben. 
+pl	Peterem się nie przejmuj. On chce, żebym była szczęśliwa. 
+pr-br	Não se preocupe com o Peter. Ele só quer a minha felicidade. 
+pr	Não te preocupes com o Peter. Ele só quer a minha felicidade. 
+ro	Nu te gândi la Peter. El vrea să fiu fericită. 
+sp-eu	No te preocupes por Peter. Él solo quiere mi felicidad. 
+sp	No te preocupes por Peter. Él solo quiere mi felicidad. 
+sv	Oroa dig inte för Peter. Han vill att jag ska vara lycklig. 
+th	ไม่ต้องห่วงปีเตอร์ | เขาแค่ต้องการให้ฉันมีความสุข | 
+tr	Peter'ı dert etme. O sadece benim mutluluğumu istiyor. 
+vi	Đừng lo về Peter. | Ông ấy chỉ muốn tôi được hạnh phúc. | 
+zh-long	別管彼得，他希望我開心 
+zh-short	不用管彼得 他只想我能幸福 
+ja	気にしないで | 彼は私の幸せを望んでる | 
+no	Ikke tenk på Peter. Han vil jeg skal være lykkelig. 
+id	Dia hanya ingin aku bahagia. 
+ru	Он хочет, чтобы я была счастлива. 
+

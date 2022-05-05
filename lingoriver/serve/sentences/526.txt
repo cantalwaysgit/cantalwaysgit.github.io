@@ -1,0 +1,27 @@
+ar	&rlm;‏أجل، كنت مساعد "كار دي أنجيلو"؟‏ | 
+da	Ja, jeg var Carr D'Angelos assistent. 
+el	Ήμουν βοηθός του Καρ Ντι Άντζελο. 
+en	[stammering] Yeah, I was | Carr D'Angelo's assistant? | 
+fr	J'étais l'assistant de Carr D'Angelo. 
+he	&rlm;‏כן, הייתי העוזר של קאר ד'אנג'לו?‏ | 
+it	Ero l'assistente di Carr d'Angelo. 
+nl	Ik was de assistent van Carr D'Angelo? 
+no	Jeg var Carr D'Angelos assistent? 
+pr-br	Sim, fui assistente de Carr d'Angelo. 
+pr	Sim, eu era assistente do Carr D'Angelo? 
+sp-eu	Era el ayudante de Carr D'Angelo. 
+sp	Sí, era el asistente de Carr d'Angelo. 
+sv	Jag var Carr D'Angelos assistent. 
+th	ใช่ ผมเป็นผู้ช่วยคาร์ ดีแองเจโลไง | 
+tr	Evet, Carr D'Angelo'nun asistanıydım. 
+vi	Vâng, tôi là trợ lý của Carr D'Angelo. | 
+zh-long	我是“卡爾德安吉羅的助理”？ 
+zh-short	我是卡尔安杰洛的助理？ 
+id	Ya, aku mantan asisten Carr d'Angelo. 
+ja	カー･ダンジェロの助手の | 
+fi	Olin Carr D'Angelon assistentti. 
+pl	Byłem asystentem Carra D'Angelo. 
+ko	칼 디엔젤로 조수였잖아요 | 
+ro	Am fost asistentul lui Carr D'Angelo. 
+ru	Я был ассистентом Карра Д’Анджело. 
+

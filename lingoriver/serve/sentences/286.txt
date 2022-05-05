@@ -1,0 +1,57 @@
+ja	なぜ今の仕事を？ | 
+id	Apa alasanmu melakukan ini? 
+ru	...зачем вы этим занимаетесь? 
+ar	&rlm;‏لماذا تقومين بما تقومين به؟‏ | 
+da	hvorfor laver du det her? 
+el	Γιατί το κάνεις; 
+en	Why do you do what you do? | 
+fi	Miksi teet tätä hommaa? 
+fr	Pourquoi chantez-vous ? 
+he	&rlm;‏למה את עושה מה שאת עושה?‏ | 
+it	Perché fai quello che fai? 
+ko	왜 이걸 하세요? | 
+nl	Waarom doe je dit? 
+no	...hvorfor gjør du dette? 
+pl	Czemu występujesz? 
+pr-br	por que você faz esse trabalho? 
+pr	Porque faz isto? 
+ro	De ce faci ceea ce faci? 
+sp-eu	¿Por qué hace lo que hace? 
+sp	¿Por qué haces lo que haces? 
+sv	Varför gör du det du gör? 
+th	ทำไมถึงทำสิ่งที่ทำอยู่ | 
+tr	Yaptığın şeyi neden yapıyorsun? 
+vi	sao cô lại làm nghề này? | 
+zh-long	妳為什麼幹這份工作？ 
+zh-short	你为什么从事现在的职业？ 
+
+da	Ved De, hvem hun er? | 
+el	Ξέρετε ποια είναι; 
+es-eu	¿Sabe quién es? 
+es	¿La conoce? 
+he	‫אתה יודע מי היא?‬ | 
+hr	Znate tko je to? 
+hu	Tudja, hogy ki ez? 
+id	Kau tahu siapa dia? 
+it	Sa chi è? 
+ja	&lrm;彼女は？ | 
+ko	&lrm;누군지 아시겠어요? | 
+ms	Encik kenal dia? 
+no	Vet du hvem hun er? 
+pt-br	Sabem quem ela é? 
+pt	Sabe quem ela é? 
+ro	Știți cine e? 
+th	&lrm;รู้จักเธอมั้ยคะ | 
+tr	Tanıyor musunuz? 
+zh-short	知道她是谁吗？ 
+fr	- Vous la connaissez ? - Bien sûr. 
+nl	Herkent u haar? -Natuurlijk. 
+sv	-Vet ni vem hon är? -Givetvis. 
+vi	&lrm;- Anh biết cô ấy là ai chứ? | &lrm;- Tất nhiên rồi. | 
+uk	Ви знаєте, хто це? 
+cs	Víte, kdo to je? 
+en	Do you know who she is? 
+ru	Вы ее узнаёте? 
+fi	Tunnistatteko hänet? | -Tietysti. | 
+zh-long	你知道她是誰嗎？ 
+

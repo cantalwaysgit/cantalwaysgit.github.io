@@ -1,0 +1,27 @@
+id	Maaf, Bung. Aku tidak paham sepatah kata pun. 
+pl	Przykro mi. Nic nie rozumiem. 
+ar	&rlm;‏آسف. لا أفهم كلمة مما تقوله.‏ | 
+da	Undskyld, jeg forstår ikke et ord af, hvad du siger. 
+el	Λυπάμαι, αλλά δεν καταλαβαίνω λέξη. 
+en	I'm sorry, man. | I can't understand a word you're saying. | 
+fi	Olen pahoillani. En ymmärrä sanaakaan. 
+fr	Je suis navré. Je comprends rien de ce que vous dites. 
+he	&rlm;‏אני מצטער. אני לא מבין מילה ממה שאמרת.‏ | 
+it	Mi dispiace, non capisco una parola. 
+ko	죄송해요, 뭐라고 하는지 | 하나도 못 알아듣겠어요 | 
+pr-br	Desculpe. Não entendo uma palavra que diz. 
+pr	Desculpe. Não percebo nada do que diz. 
+ro	Scuze. Nu înțeleg nimic din ce spui. 
+sp-eu	Lo siento. No entiendo nada de lo que dices. 
+sp	Lo siento. No entiendo lo que dice. 
+sv	Jag förstår inte vad du säger. 
+th	ผมเสียใจ ผมไม่เข้าใจที่คุณพูด | 
+tr	Özür dilerim. Tek kelimesini anlamadım. 
+vi	Tôi xin lỗi. Tôi không hiểu ông nói gì. | 
+zh-long	抱歉，我聽不懂你說什麼 
+zh-short	抱歉 你说的我一句都听不懂 
+nl	Sorry. Ik versta er geen woord van. Echt, ik snap er niets van. 
+ja	全然 聞き取れない | 
+no	Beklager. Jeg forstår ikke et ord. Seriøst, jeg skjønner ingenting. 
+ru	Извините. Я ни слова не понимаю. 
+

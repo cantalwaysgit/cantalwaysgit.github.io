@@ -1,0 +1,29 @@
+sv	Det är förnedrande. Mina barn är här. Min fru kysser mig aldrig igen. 
+ja	妻と子が見に来てるんだぞ | 失望する | 
+id	Percaya? Ini memalukan. 
+en	Trust you? It's humiliating. | 
+ru	Это унизительно. В зале мои дети! Жена меня откажется целовать! 
+ar	&rlm;أثق بك؟ ‏‏إنه أمر مهين. أولادي متواجدون هنا! | &rlm;‏لن تقبلني زوجتي مجدداً!‏ | 
+da	Det er ydmygende. Mine børn er her! Min kone vil ikke kysse mig igen! 
+el	Είναι ταπεινωτικό. Ήρθαν τα παιδιά μου. Δε θα με ξαναφιλήσει η γυναίκα μου! 
+fi	Se on nöyryyttävää. Lapseni ovat paikalla. Vaimoni ei suutele minua enää ikinä. 
+fr	C'est humiliant. Mes gamins sont là ! Ma femme voudra plus m'embrasser ! 
+he	&rlm;‏‏זה משפיל. הילדים שלי כאן! | &rlm;‏אשתי לא תנשק אותי שוב!‏ | 
+it	Sarà umiliante. Ci sono i miei figli! Mia moglie non mi bacerà più! 
+ko	수치스럽잖아요! 애들도 왔고 | 아내도 이제 뽀뽀 안 해줄걸요 | 
+nl	Het is vernederend. Mijn kinderen zijn er. Mijn vrouw kust me nooit meer. 
+no	Det er pinlig. Barna mine er her! Kona mi vil aldri kysse meg mer! 
+pl	Na widowni są moje dzieci! Żona już mnie nigdy nie pocałuje! 
+pr-br	É humilhante. Meus filhos estão aqui! Minha esposa nunca mais vai me beijar! 
+pr	É humilhante! Os meus filhos estão cá! A minha mulher não me volta a beijar! 
+ro	E umilitor! Copiii mei sunt în sală! Nevastă-mea n-o să mă mai sărute! 
+sp	Es humillante. Mis hijos están aquí. ¡Mi esposa no volverá a besarme! 
+sp-eu	Es humillante. ¡Mis hijos están aquí! Mi mujer no volverá a besarme. 
+th	มันน่าขายหน้า ลูกๆ ก็มาด้วย | เมียคงไม่ยอมจูบด้วยอีกแล้ว | 
+tr	Küçük düşeceğim. Çocuklarım burada! Karım bir daha beni öpmeyecek! 
+vi	Thật nhục nhã. Các con tôi ở đây! | Vợ tôi sẽ không hôn tôi nữa. | 
+zh-long	很丟臉耶，我小孩有來！ 我老婆不會再親我了！ 
+zh-short	这简直就是丢人 我的孩子们都在！ 我老婆再也不会亲我了！ 
+id	Anak-anakku menonton. Istriku bisa tak mau menciumku lagi. 
+en	My kids are out there, man! | My wife might not ever kiss me again! | 
+

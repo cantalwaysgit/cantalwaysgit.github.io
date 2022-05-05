@@ -1,0 +1,26 @@
+id	Jika penjualannya sebanyak Whitney, kami terima. 
+ar	&rlm;‏إن حققت مبيعات "ويتني"، فسنقبل بالأمر.‏ | 
+da	Sælger hun som Whitney, så tager vi den. 
+el	Αν έχει τις πωλήσεις της Γουίτνι, μας κάνει. 
+en	Well, listen, if she got the album sales | of Whitney, we'll take it. | 
+fi	Jos myynti on Whitneyn tasoa, otamme hänet. 
+fr	Si elle a autant de succès que Whitney, ça me va. 
+he	&rlm;‏אם יש לה את המכירות של ויטני, ניקח את זה.‏ | 
+it	Se vende quanto Whitney, la prendiamo. 
+nl	Als ze net zo verkoopt als Whitney, doen we het. 
+pl	Jeśli sprzeda tyle co Whitney, bierzemy. 
+pr-br	Se ela vender como a Whitney, nós a contratamos. 
+pr	Se ela tiver as vendas da Whitney, nós aceitamos. 
+ro	Dacă va avea vânzările lui Whitney, va semna cu noi. 
+sp-eu	Si vende tanto como Whitney, nos la quedamos. 
+sp	Si llega a vender como Whitney, la queremos. 
+sv	Om hon kan sälja som Whitney, då säger vi ja. 
+th	ถ้าเธอขายได้แบบวิตนีย์ เราจะรับคุณ | 
+tr	Whitney kadar albüm satarsa kabul. 
+vi	Nếu cô ấy có doanh số của Whitney, | chúng tôi sẽ nhận. | 
+zh-long	如果她賣得像惠妮好 馬上簽下來 
+zh-short	要是她能达到惠特尼的销量 我们就相信你的话 
+ja	セールス記録も抜くか？ | 
+ru	При спросе как на Уитни мы вас возьмем. 
+ko	휘트니만큼 팔면 받아줄게요 | 
+

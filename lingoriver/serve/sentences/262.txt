@@ -1,0 +1,32 @@
+ja	違う | 
+
+hu	Nem fogod elhinni. Tudod, van az ismeretlen nő a kukából? 
+it	Non ci crederai. Ricordi la sconosciuta del cassonetto? 
+ms	Awak takkan percaya. Ingat tak mangsa dari tong sampah? 
+sv	Lyssna på det här. Minns du vår N.N. vid sopcontainern? 
+da	Kan du huske vores NN fra containeren? | 
+el	Δεν θα το πιστέψεις. Θυμάσαι την άγνωστη από τον κάδο; 
+es-eu	Alucina. ¿Recuerdas a la mujer del contenedor? 
+fr	Tu te souviens de l'inconnue des poubelles ? 
+he	‫אתה לא תאמין. זוכר את האלמונית מהמזבלה?‬ | 
+hr	Nećeš vjerovati. Sjećaš se naše N. N. iz kontejnera? 
+id	Kau tak akan percaya. Ingat jasad dari tempat sampah? 
+ja	&lrm;ごみ箱の女性ですが | &lrm;驚きますよ | 
+ko	&lrm;놀라지 마요, 쓰레기 하치장의 | &lrm;신원 불상 여자 있죠? | 
+nl	Dit geloof je niet. Herinner je je die onbekende vrouw nog? 
+no	Du vil ikke tro det. Husker du den ukjente fra søpla? 
+pt-br	Não vai acreditar. Se lembra da mulher não identificada da lixeira? 
+pt	Nem vais acreditar. Sabes a desconhecida do contentor do lixo? 
+ro	E de necrezut. O mai știi pe victima din tomberon? 
+th	&lrm;คุณต้องไม่เชื่อแน่ | &lrm;จำศพหญิงนิรนามจากที่ทิ้งขยะได้มั้ย | 
+tr	İnanmayacaksın. Çöpteki kimliği belirsiz kadın vardı ya? 
+vi	&lrm;Anh sẽ không tin đâu. | &lrm;Nhớ cái xác vô danh ở bãi rác không? | 
+zh-long	你絕對不會相信 記得我們的垃圾桶無名氏嗎？ 
+zh-short	说出来你不会信 还记得垃圾站那具无名女尸吗？ 
+cs	Tomu nebudeš věřit. Pamatuješ na tu holku ze smeťáku? 
+fi	Muistatko sen | roskiksesta löytyneen naisen? | 
+uk	Ти не повіриш. Пам'ятаєш нашу невідому зі смітника? 
+es	¿Recuerdas a la desconocida del basurero? 
+ru	Помнишь неопознанную женщину, найденную среди мусора? 
+en	You won't believe it. 
+

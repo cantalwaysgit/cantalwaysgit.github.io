@@ -1,0 +1,27 @@
+ru	Тут лучшая акустика на планете. 
+id	Tempat ini punya kualitas akustik terbaik di Bumi. 
+ja	最高の反響が得られる | 
+ar	&rlm;‏يحوي أفضل صوتيات في العالم بأسره.‏ | 
+da	Der er den bedste akustik på hele kloden. 
+el	Έχει την καλύτερη ακουστική στον πλανήτη. 
+en	It's got the best acoustics | on the entire planet. | 
+fi	Maailman paras akustiikka. 
+fr	On a la meilleure acoustique de la planète. 
+he	&rlm;‏‏יש פה את האקוסטיקה הטובה ביותר | &rlm;‏על פני כדור הארץ.‏ | 
+it	Qui hai la migliore acustica di tutto il pianeta. 
+ko	세계 최고의 음향 시설을 | 갖추고 있어요 | 
+nl	De beste akoestiek van de wereld. 
+no	Det har verdens beste akustikk. 
+pl	Tu jest najlepsza akustyka na świecie. 
+pr-br	Tem a melhor acústica do planeta. 
+pr	Tem a melhor acústica no planeta. 
+ro	Are cea mai bună acustică de pe planetă. 
+sp-eu	Tiene la mejor acústica del planeta. 
+sp	Tiene la mejor acústica del planeta. 
+sv	Den har världens bästa akustik. 
+th	มันให้คุณสมบัติของเสียงดีที่สุดในโลก | 
+tr	Gezegenin en iyi akustiği o noktada. 
+vi	Nó có độ âm vang hay nhất hành tinh. | 
+zh-long	那個位置擁有地表最強迴音效果 
+zh-short	代表世界上最好的原音 
+

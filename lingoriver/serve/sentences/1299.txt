@@ -1,0 +1,27 @@
+id	Yang membara. Hatiku 
+ar	&rlm;‏"وقلوبهم مليئة بالرغبة‏ | 
+el	Με καρδιές γεμάτες επιθυμία 
+en	♪ Hearts on full with desire ♪ | 
+fi	Polte tää sydämen 
+fr	De désir 
+he	&rlm;‏לבבות מלאים תשוקה‏ | 
+it	Con i cuori pieni di desiderio 
+nl	harten vol verlangen 
+pl	Serca pełne pożądania 
+pr	Corações cheios de desejo 
+ro	Inima plină de dorință 
+sp	Corazones rebosantes de deseo 
+sp-eu	Con deseo 
+sv	Med begär 
+th	หัวใจเปี่ยมด้วยแรงปรารถนา | 
+tr	Yürekler dolmuş arzuyla 
+vi	Trái tim đầy đam mê | 
+zh-long	慾望滿溢 
+zh-short	带着欲望 
+da	Hjertet overstrømmer af lyst 
+pr-br	Corações cheios de desejo 
+ja	愛の欲望は止まらない | 
+ru	...От страсти 
+ko	욕망에 차 | 
+id	Penuh hasrat 
+

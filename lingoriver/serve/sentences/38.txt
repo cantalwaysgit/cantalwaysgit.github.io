@@ -1,0 +1,57 @@
+ja	何の話だか | 
+id	Aku tidak paham maksudmu, Bung. 
+ru	Впервые слышу. 
+th	พูดอะไรไม่รู้เรื่อง | 
+ar	&rlm;‏لا أدري شيئاً عن الأمر.‏ | 
+da	Jeg ved ikke, hvad du snakker om. 
+el	Δεν έχω ιδέα για ποιο πράγμα μιλάς. 
+en	I have no idea | what you're talking about, man. | 
+fi	Eipä tule mieleen. 
+fr	J'ai aucune idée de ce que vous racontez. 
+he	&rlm;‏אין לי מושג על מה אתה מדבר.‏ | 
+it	Non so di cosa parli. 
+ko	무슨 말씀이신지 모르겠네요 | 
+nl	Ik weet niet waar je het over hebt. 
+no	Det vet jeg ikke noe om. 
+pl	Nie mam pojęcia, o czym mówisz. 
+pr-br	Não sei do que está falando. 
+pr	Não sei do que estás a falar. 
+ro	Habar n-am ce spui. 
+sp-eu	No me suena de nada. 
+sp	No tengo idea de lo que dices. 
+sv	Jag vet inte vad du pratar om. 
+tr	Neden bahsettiğini bilmiyorum. 
+vi	Tôi chẳng hiểu anh đang nói gì. | 
+zh-long	我不知道你在講什麼 
+zh-short	我可不记得了 
+
+pt-br	Podemos finalmente registrar o desaparecimento? 
+es	¿Ahora sí podemos denunciar su desaparición? 
+zh-short	现在我们可以报案了吧？ 
+hr	Možemo li napokon prijaviti nestanak? 
+tr	Artık kayıp ihbarında bulunabilir miyiz? 
+cs	Můžeme ho konečně označit za nezvěstného? 
+el	Μπορούμε επιτέλους να δηλώσουμε εξαφάνιση; 
+da	Kan vi nu omsider få meldt ham savnet? | 
+es-eu	¿Ya podemos denunciar la desaparición? 
+fr	On peut enfin signaler sa disparition ? 
+he	‫נוכל סוף סוף למלא דוח נעדר?‬ | 
+hu	Bejelenthetjük végre eltűnt személyként?  
+id	Boleh kami ajukan laporan orang hilang? 
+it	Possiamo finalmente denunciare la scomparsa? 
+ja	&lrm;届で出を出しても | &lrm;いいですよね？ | 
+ko	&lrm;이젠 실종 신고가 가능하겠습니까? | 
+ms	Boleh tak kami buat laporan orang hilang? 
+nl	Kunnen we hem eindelijk als vermist opgeven? 
+no	Kan vi endelig melde ham savnet? 
+pt	Já o podemos dar como desaparecido? 
+ro	Îl puteți declara oficial dispărut? 
+sv	Får vi anmäla honom som försvunnen nu? 
+th	&lrm;เราจะแจ้งความคนหายได้หรือยัง | 
+vi	&lrm;Tôi trình báo người mất tích được chưa? | 
+zh-long	我們是否終於可以通報失蹤人口？ 
+ru	Можно уже подать заявление о пропаже? 
+fi	Voimmeko nyt tehdä katoamisilmoituksen? | 
+en	Can we finally file a missing persons report? 
+uk	Можна нарешті подати заяву про зникнення? 
+

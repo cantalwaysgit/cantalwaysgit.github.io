@@ -1,0 +1,57 @@
+ar	&rlm;‏معذرة. كان أداؤك رائعاً.‏ | 
+da	Undskyld mig. Du var fantastisk. 
+el	Ήσουν εκπληκτική εκεί πάνω. 
+en	Excuse me. | You were fantastic up there. | 
+fi	Anteeksi. Olit fantastinen. 
+fr	Excuse-moi. C'était fantastique. 
+he	&rlm;‏סליחה. היית נהדרת שם.‏ | 
+it	Mi scusi. È stata fantastica. 
+ko	실례합니다, 정말 훌륭했어요 | 
+nl	Pardon. Je was geweldig. 
+pl	Przepraszam. Byłaś fantastyczna. 
+pr-br	Com licença. Você foi fantástica. 
+pr	Desculpe. Foi fantástica. 
+ro	Scuzați-mă! Ați fost senzațională pe scenă. 
+sp	Disculpa. Estuviste fantástica allí arriba. 
+sp-eu	Perdone. Ha estado fantástica. 
+sv	Ursäkta mig. Du var strålande på scen. 
+th	โทษที คุณสุดยอดเลยบนเวที | 
+tr	Affedersin. Sahnede müthiştin. 
+vi	Xin lỗi. Cô biểu diễn tuyệt lắm. | 
+zh-long	不好意思，妳的表演真是太棒了 
+zh-short	打扰了 你刚才在台上演得太棒了 
+id	Permisi. Penampilanmu fantastis. 
+ru	Извините. Вы потрясающе пели. 
+no	-Unnskyld meg. Du var fantastisk der oppe. -Takk. Så snilt av deg. 
+ja	実にすばらしかった | 
+
+no	Hva har det med deg å gjøre? 
+es	¿Qué le importa? 
+pt-br	O que acha que é isto aqui? 
+fi	Mitä se sinulle kuuluu? | 
+cs	Co je vám do toho? 
+da	Hvad rager det Dem? | 
+el	Και τι σας νοιάζει; 
+en	What's it to you? 
+es-eu	¿A usted qué le importa? 
+fr	Ça vous regarde ? 
+he	‫למה אתה שואל?‬ | 
+hr	Što se to vas tiče? 
+hu	Mi köze hozzá? 
+id	Menurutmu apa? 
+it	A lei cosa importa? 
+ko	&lrm;무슨 상관이시죠? | 
+ms	Apa kaitan dengan awak? 
+nl	Wat gaat jou dat aan? 
+pt	O que lhe importa? 
+ro	Ce vă pasă? 
+ru	А вам какое дело? 
+sv	Det angår inte er. 
+th	&lrm;จะรู้ไปทำไม | 
+tr	Size ne? 
+uk	А вам яка різниця? 
+vi	&lrm;Liên quan gì đến anh? | 
+zh-long	關你什麼事？ 
+zh-short	关你什么事？ 
+ja	&lrm;あんたに関係ねえ | 
+

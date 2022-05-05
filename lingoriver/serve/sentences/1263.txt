@@ -1,0 +1,27 @@
+ar	&rlm;‏ستغدين أسطورة.‏ | 
+da	Du bliver en legende. 
+el	Θα γίνεις θρύλος. 
+en	You're gonna be a legend. | 
+fi	Sinusta tulee legenda. 
+fr	Tu vas devenir une légende. 
+he	&rlm;‏את תהיי אגדה.‏ | 
+it	Diventerai una leggenda. 
+nl	Je wordt een legende. 
+no	Du blir en legende. 
+pl	Zostaniesz legendą. 
+pr-br	Você será uma lenda. 
+pr	Vais ser uma lenda. 
+ro	O să ajungi o legendă. 
+sp-eu	Vas a ser una leyenda. 
+sp	Serás una leyenda. 
+th	คุณจะเป็นตำนาน | 
+tr	Efsane olacaksın. 
+vi	Cô sẽ là một huyền thoại. | 
+zh-long	妳會寫下傳奇 
+zh-short	你会成为传奇 
+id	Kau akan menjadi legenda. 
+sv	Du kommer att bli legendarisk. 
+ru	Ты станешь легендой. 
+ja	伝説を作る | 
+ko	전설이 될 거야 | 
+

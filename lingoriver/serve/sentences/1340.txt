@@ -1,0 +1,27 @@
+id	Sentuh aku, Sandy. 
+ja	私に触れて　さあ | 
+ru	Дотронься до меня, Сэнди. Дотронься. 
+ar	&rlm;‏المسني يا "ساندي". المسني.‏ | 
+da	Rør ved mig, Sandy. Rør ved mig. 
+el	Άγγιξέ με, Σάντι. Άγγιξέ με. 
+en	Touch me, Sandy. Touch me. | 
+fi	Kosketa minua. 
+fr	Touche-moi, Sandy. 
+he	&rlm;‏תיגע בי, סנדי. תיגע בי.‏ | 
+it	Toccami, Sandy. 
+nl	Raak me aan, Sandy. 
+no	Ta på meg, Sandy. 
+pl	Dotykaj mnie, Sandy. 
+pr-br	Me toque, Sandy. 
+pr	Toca-me, Sandy. 
+ro	Atinge-mă, Sandy! 
+sp-eu	Tócame, Sandy. Tócame. 
+sp	Tócame, Sandy. Tócame. 
+sv	Rör mig, Sandy. 
+th	ลูบคลำฉันสิ แซนดี้ ทำสิ | 
+tr	Dokun bana Sandy. Dokun bana. 
+vi	Sờ vào người tôi đi, Sandy. | 
+zh-long	愛撫我，山迪，愛撫我 
+zh-short	摸我 桑迪 摸我 
+ko	날 만져줘요, 샌디 | 
+

@@ -1,0 +1,27 @@
+id	Alfred adalah klien pertamaku. 
+ja	僕のタレントだった | 
+pr-br	Alfred foi o meu primeiro cliente. 
+ru	Альфред - мой первый клиент. 
+ar	&rlm;‏كان "ألفريد" زبوني الأول.‏ | 
+da	Alfred var min første klient. 
+el	Ο Άλφρεντ ήταν ο πρώτος μου πελάτης. 
+fi	Alfred oli ensimmäinen asiakkaani. 
+fr	Alfred, c'était mon premier client. 
+he	&rlm;‏אלפרד היה הלקוח הראשון שלי.‏ | 
+it	Alfred è stato il mio primo cliente. 
+ko	알프레드는 내 첫 고객이었어 | 
+nl	Alfred was mijn eerste cliënt. 
+no	Alfred var min første klient. 
+pl	Był moim pierwszym klientem. 
+pr	O Alfred foi o meu primeiro cliente. 
+ro	Alfred a fost primul meu client. 
+sp	Alfred fue mi primer cliente. 
+sp-eu	Alfred fue mi primer cliente. 
+sv	Alfred var min första klient. 
+th	อัลเฟรดเป็นลูกค้าคนแรกของผม | 
+tr	Alfred temsil ettiğim ilk sanatçıydı. 
+vi	Alfred là khách hàng đầu tiên của tôi. | 
+zh-long	阿飛是我第一個藝人 
+zh-short	阿尔弗雷德是我的第一位客户 
+en	-Alfred was my first client. | -Mmm-hmm. | 
+

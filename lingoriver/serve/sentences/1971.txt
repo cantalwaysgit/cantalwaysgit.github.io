@@ -1,0 +1,28 @@
+en	-I'm not talking to you. | -Hey! | 
+ar	&rlm;‏لا أتحدث معك. بل مع "تيد"!‏ | 
+da	Jeg taler ikke med dig. Jeg taler med Ted! 
+el	Δε μιλάω σ' εσένα, αλλά στον Τεντ! 
+fi	En puhu sinulle vaan Tedille. 
+fr	Je parle à Ted, pas à toi ! 
+he	&rlm;‏אני לא מדבר איתך. אני מדבר עם טד!‏ | 
+it	Non sto parlando con te. Sto parlando con Ted! 
+nl	Ik heb het niet tegen jou, maar tegen Ted. 
+no	Jeg snakker til Ted, ikke deg! 
+pl	Nie mówię do ciebie, tylko do Teda! 
+pr-br	Não estou falando com você. Estou falando com o Ted! 
+pr	Não estou a falar contigo. Estou a falar com o Ted! 
+ro	Nu cu tine vorbesc! Vorbesc cu Ted! 
+sp-eu	No hablo contigo. ¡Hablo con Ted! 
+sp	No te hablo a ti. ¡Le hablo a Ted! 
+sv	Jag pratar inte med dig. Jag pratar med Ted! 
+th	ฉันไม่ได้พูดกับแก ฉันพูดกับเท็ด | 
+tr	Seninle konuşmuyorum. Ted'le konuşuyorum! 
+vi	Tôi không nói với cậu. Tôi đang bảo Ted! | 
+zh-long	我不是問你，我問泰德！ 
+zh-short	我没跟你讲话 我在跟泰德讲话！ 
+ru	Я не с тобой говорю. Я обращаюсь к Теду! 
+ja	お前じゃない　テッドだ | 
+id	Aku tidak bicara kepadamu. Aku bicara kepada Ted! 
+ko	네가 아니라 | 테드한테 말하는 거야! | 
+en	I'm talking to Ted! | 
+

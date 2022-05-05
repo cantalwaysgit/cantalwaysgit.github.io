@@ -1,0 +1,28 @@
+ja	その顔で安らぐ自分が | 情けない | 
+id	Bagaimana bisa orang aneh sepertimu membuatku senang? Mustahil! 
+ru	И как ты умеешь заставить меня развеселиться? Это невозможно! 
+en	Man, how does your goofy ass | have me feeling good right now? | 
+pl	Jakim cudem sprawiasz, że czuję się dobrze? To niemożliwe! 
+ar	&rlm;‏كيف تطلب مني أن أستمتع؟ هذا محال!‏ | 
+da	Hvordan kan jeg have det godt lige nu? Det er umuligt! 
+el	Πώς στην ευχή κατάφερες να με κάνεις να νιώσω καλά; Δεν είναι δυνατόν! 
+fi	Miten sinä tollo saat minulle hyvän olon? Mahdotonta! 
+fr	C'est pas un guignol comme toi qui va me remonter le moral. Tu rêves ! 
+he	&rlm;‏‏איך התחת הדבילי שלך יכול לגרום לי | &rlm;‏להרגיש טוב עכשיו? זה בלתי אפשרי!‏ | 
+it	Come fa la tua faccia da idiota a farmi stare bene? È impossibile! 
+nl	Hoe kan een sukkel als jij zorgen dat ik me goed voel? Onmogelijk. 
+no	Hvordan kan det få meg til å føle meg bra? Det er umulig! 
+pr-br	Como quer que eu me sinta bem agora? É impossível! 
+pr	Como queres que me sinta bem? É impossível! 
+ro	Cum naiba ai vrea să mă simt bine? E imposibil! 
+sp	¿Cómo tú puedes hacer que me sienta bien? ¡Es imposible! 
+sp-eu	¿Cómo es posible que me hagas sentir bien? No puede ser. 
+sv	Hur kan du få mig att må bra? Det är helt omöjligt. 
+th	เซ่อซ่าอย่างนายทำให้ฉัน | รู้สึกดีได้ไง เป็นไปไม่ได้ | 
+tr	Bu sersemlikle kendimi iyi hissetmemi nasıl sağlarsın? Bu imkânsız! 
+vi	Làm sao cái trò ngớ ngẩn của anh | làm tôi vui được? Không thể nào! | 
+zh-long	看你那醜臉會比較好嗎？ 不可能！ 
+zh-short	看着你这个笨蛋怎么能叫人感觉好？ 那不可能！ 
+ko	어떻게 이런 내 기분을 | 좋게 만든 거예요? 불가능해! | 
+en	That's impossible! | 
+

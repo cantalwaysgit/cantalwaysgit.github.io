@@ -1,0 +1,27 @@
+ar	&rlm;‏هل ذهبت؟‏ | 
+da	Er du væk? 
+el	Έφυγες; 
+en	You're gone? | 
+fi	Häivyitkö? 
+fr	T'es parti. 
+he	&rlm;‏הסתלקת?‏ | 
+it	Te ne sei andato? 
+nl	Ben je weg? 
+no	Er du borte? 
+pl	Nie ma cię? 
+pr-br	Você foi embora? 
+pr	Foste-te embora? 
+ro	Ai plecat? 
+sp-eu	Te has ido. 
+sp	¿Te fuiste? 
+sv	Är du borta? 
+th	หนีไปแล้วเหรอ | 
+tr	Gittin mi? 
+vi	Mày đi rồi. | 
+zh-long	你溜了 
+zh-short	你走了吗？ 
+ja	行ったか？ | 
+ko	가버렸군 | 
+ru	Ты сбежал? 
+id	Kau sudah pergi? 
+

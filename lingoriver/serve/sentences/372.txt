@@ -1,0 +1,52 @@
+id	Namanya Alfred. 
+ja	アルフレッドと | 
+ru	Его звали Альфред. 
+ar	&rlm;‏كان اسمه "ألفريد".‏ | 
+da	Han hed Alfred. 
+el	Τον έλεγαν Άλφρεντ. 
+en	His name was Alfred. | 
+fi	Hänen nimensä oli Alfred. 
+fr	Il s'appelait Alfred. 
+he	&rlm;‏קראו לו אלפרד.‏ | 
+it	Si chiamava Alfred. 
+ko	알프레드라는 친구였어 | 
+no	Han het Alfred. 
+pl	Nazywał się Alfred. 
+pr-br	O nome dele era Alfred. 
+pr	Ele chamava-se Alfred. 
+ro	Îl chema Alfred. 
+sp-eu	Se llamaba Alfred. 
+sp	Se llamaba Alfred. 
+sv	Han hette Alfred. 
+th	เขาชื่ออัลเฟรด | 
+tr	Adı Alfred'di. 
+vi	Tên cậu ta là Alfred. | 
+zh-long	他叫阿飛 
+zh-short	他叫阿尔弗雷德 
+nl	Hij heette Alfred. -Je bent gay. 
+en	Oh, you're gay! | 
+ja	ゲイなの？ | 
+ar	&rlm;‏أنت مثلي!‏ | 
+da	Du er bøsse! 
+el	Είσαι ομοφυλόφιλος! 
+fi	Olet homo! 
+fr	T'es gay ! 
+he	&rlm;‏אתה הומו!‏ | 
+it	Sei gay! 
+no	Du er homofil! 
+pl	Jesteś gejem! 
+pr-br	Você é gay! 
+pr	És  gay! 
+ro	Ești gay! 
+sp	¡Eres homosexual! 
+sp-eu	¡Eres gay! 
+sv	Du är gay! 
+th	คุณเป็นเกย์! | 
+tr	Geysin! 
+vi	Anh đồng tính! | 
+zh-long	你是同志！ 
+zh-short	你是同性恋！ 
+id	Kau homoseksual! 
+ru	Ты гей! 
+ko	당신 게이군요! | 
+

@@ -1,0 +1,51 @@
+id	Ya, dia mulai populer. 
+ru	Да, она идет в гору. 
+ar	&rlm;‏إنها تحظى ببعض الشهرة.‏ | 
+da	Ja, hun får opmærksomhed. 
+el	Άρχισε να ακούγεται. 
+en	Oh, yeah, she's getting some heat. | 
+fi	Hän on saanut vähän nostetta. 
+fr	Ça commence bien. 
+he	&rlm;‏היא זוכה בקצת תשומת לב.‏ | 
+it	Sì, ha un discreto successo. 
+pl	Robi się popularna. 
+pr-br	Sim, ela está chamando atenção. 
+pr	Sim, está a ficar popular. 
+ro	Da, a făcut ceva agitație. 
+sp-eu	Sí, está muy de moda. 
+sp	Sí, se está haciendo famosa. 
+sv	Ja, hon har lite framgång. 
+th	ใช่แล้ว เธอเริ่มมีกระแสแล้ว | 
+tr	Evet, yıldızı parlıyor. 
+vi	Ừ, cô ấy đang được biết đến rồi. | 
+zh-long	是呀，反應還不賴 
+zh-short	是啊 她最近的确挺火 
+ko	네, 반응이 좋던데요 | 
+nl	Ja, ze krijgt wat aandacht. We zullen zien hoe het loopt. 
+ja	そうだな　今後が楽しみだ | 
+ar	&rlm;‏‏- سوف نرى. | &rlm;‏- شكراً أيها المبهرج "بلينغ".‏ | 
+da	-Ja, vi får se. -Tak, Bling. 
+el	-Να δούμε πώς θα πάει. -Ευχαριστώ, Μπλινγκ. 
+en	-Yeah, we'll see where it goes. | -Thanks, Bling. | 
+fi	-Katsotaan nyt. -Kiitos, Bling. 
+fr	- On verra. - Merci, Bling. 
+he	&rlm;‏‏כן, נראה. | &rlm;‏-תודה, בלינג.‏ | 
+it	- Staremo a vedere. - Grazie, Bling. 
+no	-Vi får se. -Takk, Bling. 
+pl	- Zobaczymy. - Dziękuję, Bling. 
+pr-br	-Sim, veremos. -Obrigada, Bling. 
+pr	- Sim, vamos ver. - Obrigada, Bling. 
+ro	- Mai vedem. - Mersi, Bling. 
+sp-eu	- Sí, ya veremos. - Gracias, Bling. 
+sp	- Sí, veremos. - Gracias, Bling. 
+sv	-Vi får se var det slutar. -Tack, Bling. 
+th	- ใช่ เราจะคอยดู | - ขอบคุณ บลิงก์ | 
+tr	-Bakalım, neler olacak. -Sağ ol Bling. 
+vi	- Ừ, để xem thế nào. | - Cảm ơn anh, Bling. | 
+zh-long	-拭目以待吧 -謝謝閃金老闆 
+zh-short	-等着瞧吧 -谢谢 闪金哥 
+id	- Ya, kita lihat nanti. - Terima kasih, Bling. 
+ru	-Посмотрим. -Спасибо, Блинг. 
+ko	- 한번 두고 보죠 | - 고마워요, 블링 | 
+ja	ありがとう | 
+

@@ -1,0 +1,31 @@
+en	Fire me? | If you're firing anybody, I'd fire him. | 
+id	Pecat aku? Kalau mau pecat orang, aku pecat dia. 
+ru	Лучше уж уволь его. 
+ja	お前こそ　パペットをクビだ | 
+ar	&rlm;‏‏- إن كنت ستقيل أحداً، أقله هو. | &rlm;‏- إنه عديم النفع. لا يقوم بشيء.‏ | 
+da	-Skal du fyre nogen, så fyr ham. -Han er nyttesløs. Han laver intet. 
+el	-Καλύτερα να απολύσεις αυτόν. -Είναι άχρηστος. Δεν κάνει τίποτα. 
+fi	-Jos annat, anna ne tuolle. -Hän on hyödytön eikä tee mitään. 
+fr	- C'est lui que tu devrais virer. - Il fout rien. 
+he	&rlm;‏‏אם אתה מפטר מישהו, תפטר אותו. | &rlm;‏-הוא חסר תועלת. הוא לא עושה כלום.‏ | 
+it	- Vuoi licenziare qualcuno? Licenzia lui. - È inutile. Non fa niente. 
+ko	- 할 거면 이 녀석을 해고해 | - 아무것도 안 해주는 놈이야 | 
+nl	Als je iemand wilt ontslaan, ontsla hem. -Hij is nutteloos. Hij doet niks. 
+no	-Skal du sparke noen, spark ham. -Han er ubrukelig, gjør ingenting. 
+pl	- Jeśli już kogoś, to tę lalkę. - Jest bezużyteczny. Nic nie robi. 
+pr-br	-Se vai demitir alguém, que seja ele. -Ele é inútil. Não faz nada. 
+pr	- Se vais despedir alguém, que seja a ele. - Ele é inútil. Não faz nada. 
+ro	- Mai curând, el ar trebui să plece. - Nu e bun de nimic. Nu face nimic. 
+sp-eu	- Si vas a despedir a alguien, que sea él. - Es un inútil. No hace nada. 
+sp	- Si vas a despedir a alguien, que sea él. - Es un inútil. No hace nada. 
+sv	-Om du ska sparka nån, sparka honom. -Han är värdelös. Gör ingenting. 
+th	- ถ้าจะไล่ใครออก ไล่เขา | - เขาไม่มีประโยชน์ ไม่ทำอะไรเลย | 
+tr	-Birini kovacaksan onu kov. -Faydasız. Hiçbir şey yapmıyor. 
+vi	- Nếu muốn đuổi ai đó, thì là anh ta. | - Anh ta vô dụng. Chẳng được tích sự gì. | 
+zh-long	-真想炒人，就炒他吧 -他一無是處，無所事事 
+zh-short	-要是你想开谁就开了他 -他毛用都没有 
+en	He's useless. He does nothing. | 
+id	Dia tak melakukan apa-apa. 
+ru	От него никакого толку. 
+ja	役立たずめ | 
+

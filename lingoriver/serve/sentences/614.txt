@@ -1,0 +1,30 @@
+sv	Jag vet. Det var hysteriskt kul. Men allvarligt, håll er borta från poolen. 
+ja	分かってるさ | でもプールには絶対 入るな | 
+id	Aku tahu dan itu sangat lucu. 
+ru	Знаю! Очень смешно. 
+en	I know, and it was hysterical. | 
+ar	&rlm;‏‏أعلم. وكان ذلك مضحكاً جداً. لكن بجد، | &rlm;‏ابتعدي عن بركة السباحة.‏ | 
+da	Ja, og det var morsomt. Men seriøst, hold jer fra poolen. 
+el	Το ξέρω και ήταν ξεκαρδιστική. Σοβαρά, όμως, μακριά από την πισίνα. 
+fi	Oikein vitsikästä. Ihan totta, älä mene altaaseen. 
+fr	Je sais, et c'était hilarant. Mais sérieux, pas de piscine. 
+he	&rlm;‏‏אני יודע, וזה היה מצחיק מאוד. | &rlm;‏אבל ברצינות. אל תיכנסו לבריכה.‏ | 
+it	Lo so. Divertentissimo. Ma state alla larga dalla piscina. 
+ko	알아, 재미있었어 | 하지만 진짜 가면 안 돼 | 
+nl	Ja. Heel grappig. Maar blijf weg bij het zwembad. 
+no	Jeg vet det. Kjempegøy. Men seriøst, ikke bruk bassenget. 
+pl	Wiem, boki zrywać. Ale nie idźcie na basen, poważnie. 
+pr-br	Eu sei. Foi engraçadíssimo. Mas é sério, não entrem na piscina. 
+pr	Eu sei e foi hilariante. Mas a sério, fica longe da piscina. 
+ro	Știu. Și a fost foarte amuzant. Dar, serios, nu vă apropiați de piscină. 
+sp-eu	Lo sé, y ha sido tronchante. Pero no os metáis en la piscina. 
+sp	Ya sé, y fue gracioso. Pero, de veras, en la piscina, no. 
+th	ผมรู้ และมันขำกลิ้ง | แต่จริงๆ นะ อย่ายุ่งกับสระว่ายน้ำ | 
+tr	Biliyorum, çok da komikti. Ama cidden, havuzdan uzak durun. 
+vi	Tôi biết, thật thú vị. | Nhưng thật đấy, tránh xa bể bơi. | 
+zh-long	我知道，很好笑 我說真的，游泳池禁止進入 
+zh-short	我知道 还挺好笑的 但说真的 不许进泳池 
+id	Tapi sungguh, menjauh dari kolamnya. 
+ru	Но правда, в бассейн нельзя. 
+en	But seriously, stay out of the pool. | 
+

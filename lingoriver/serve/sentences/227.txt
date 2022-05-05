@@ -1,0 +1,52 @@
+ar	&rlm;‏لا، لم أقله.‏ | 
+da	Nej. 
+el	Δεν το είπα. 
+en	No, I didn't. | 
+fi	En sanonut. 
+fr	Non. 
+he	&rlm;‏לא, אני לא.‏ | 
+id	Tidak. 
+it	Non è vero. 
+ko	안 그랬어 | 
+no	Nei da. 
+pl	Nieprawda. 
+pr-br	Não disse. 
+pr	Não disse nada. 
+ro	Ba nu. 
+ru	Не говорил. 
+sp-eu	No es verdad. 
+sp	No, no es cierto. 
+sv	Nej då. 
+th	เปล่า ฉันไม่ได้พูด | 
+tr	Yok, söylemedim. 
+vi	Không, chú không nói. | 
+zh-long	我沒有 
+zh-short	我没有 
+ja	言ってない | 
+
+pt-br	Você o conhece? 
+cs	Vy ho znáte? 
+da	Kender De ham? | 
+el	Τον γνωρίζετε; 
+en	Do you know him? 
+es-eu	¿Lo conoce? 
+he	‫את מכירה אותו?‬ | 
+hr	Poznajete ga? 
+hu	Ismeri? 
+id	Kau mengenalnya? 
+it	Lo conosce? 
+ko	&lrm;아세요? | 
+ms	Awak kenal dia? 
+no	Kjenner du ham? 
+pt	Conhece-lo? 
+ro	Îl cunoști? 
+ru	Вы его знаете? 
+th	&lrm;รู้จักเขาเหรอคะ | 
+tr	Tanıyor musunuz? 
+uk	Ви його знаєте? 
+vi	&lrm;Cô có biết nó à? | 
+zh-long	妳認識他嗎？ 
+zh-short	你认识他？ 
+es	¿Lo conoce? 
+ja	&lrm;ご存じ？ | 
+

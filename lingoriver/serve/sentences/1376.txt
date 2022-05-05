@@ -1,0 +1,27 @@
+ja	俺が書いたジョークなのに | 
+ru	Отжигает с моими шутками. Там должен быть я. 
+id	Dia luar biasa dengan leluconku. Harusnya aku yang di panggung. 
+pl	To ja pisałem te żarty. Ja powinienem tam stać. 
+ar	&rlm;‏إنه يفسد نكاتي. يجب أن أكون مكانه.‏ | 
+da	Han ødelægger mine vittigheder. Det burde være mig derinde. 
+el	Σκίζει με τα δικά μου αστεία. Έπρεπε να είμαι εγώ εκεί πάνω. 
+en	He's killing the jokes that I wrote. | It should be me up there killing it. | 
+fi	Minun vitseilläni. Minun pitäisi olla tuolla. 
+fr	C'est moi qui ai écrit ces blagues. Je devrais être à sa place. 
+he	&rlm;‏‏הוא הורס את הבדיחות שלי. | &rlm;‏אני אמור להיות שם.‏ | 
+it	Sta rovinando le mie battute. Dovrei esserci io al suo posto. 
+nl	Hij doet mijn grappen. Ik hoor daar te staan. 
+no	Det er mine vitser. Det skulle vært meg. 
+pr-br	Com as minhas piadas. Eu deveria estar lá. 
+pr	Ele está a usar as minhas piadas. Devia ser eu. 
+ro	Îmi strică bancurile. Trebuia să fiu eu în locul lui. 
+sp-eu	Sí, con mis chistes. Ese debería ser yo. 
+sp	Sí, pero son mis chistes. Yo debería estar allí. 
+sv	Han gör succé med mina skämt. Det borde vara jag. 
+th	เขาเล่นมุกของฉัน | ควรเป็นฉันบนเวทีนั่น | 
+tr	Benim esprilerimi kullanıyor. Orada ben olmalıydım. 
+vi	Hắn đang dùng trò của tôi viết. | Lẽ ra phải là tôi ở trên đó. | 
+zh-long	他好笑是因為我的笑話 站在上面的應該是我 
+zh-short	他用的是我的笑话 应该由我来讲 
+ko	내가 만든 농담이야 | 내가 올라가야 했는데 | 
+

@@ -1,0 +1,28 @@
+en	This dress on you... | [stammers] I just love it. | 
+ko	이 드레스 정말 마음에 드네 | 
+ar	&rlm;‏أحب هذا الفستان عليك.‏ | 
+da	Jeg er vild med den kjole til dig. 
+el	Μου αρέσει πολύ αυτό το φόρεμα πάνω σου. 
+fi	Asu näyttää upealta. Tykkään siitä kovasti. 
+fr	Cette robe, j'adore. 
+he	&rlm;‏השמלה הזו עלייך... אני אוהב אותה.‏ | 
+it	Questo vestito ti sta splendidamente. 
+nl	Die jurk staat je geweldig. 
+no	Jeg elsker den kjolen. 
+pr	Adoro esse vestido. 
+pr-br	Amei esse vestido em você. 
+ro	Rochia asta de pe tine e adorabilă! 
+sp	Este vestido que llevas me encanta. 
+sp-eu	Me encanta cómo te queda este vestido. 
+sv	Din klänning, jag älskar den. 
+th	ผมชอบคุณใส่ชุดนี้จัง | 
+tr	Üzerindeki elbiseye bayıldım. 
+vi	Chiếc váy cô đang mặc, tôi thích lắm. | 
+zh-long	妳穿這件小禮服，我喜歡 
+zh-short	我好喜欢你穿的这条裙子 
+ru	Это платье! 
+id	Aku suka gaun yang kau pakai. 
+ja	ステキなドレスだ | とても気に入った | 
+pl	Masz fantastyczną sukienkę. 
+ru	Я просто обожаю его. 
+

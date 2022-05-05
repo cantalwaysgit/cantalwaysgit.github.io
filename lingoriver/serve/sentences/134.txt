@@ -1,0 +1,56 @@
+ar	&rlm;‏يا إلهي!‏ | 
+da	Jøsses! 
+el	Για όνομα! 
+fr	Bon Dieu ! 
+he	&rlm;‏אלוהים אדירים!‏ | 
+it	Cristo santo! 
+ko	젠장! | 
+pl	Jezu Chryste! 
+pr-br	Minha nossa! 
+pr	Deus do Céu! 
+ro	Iisuse! 
+sp	¡Dios mío! 
+sp-eu	¡Joder! 
+sv	Herregud! 
+th	ให้ตายสิ | 
+tr	Yüce Tanrım! 
+vi	Chúa ơi! | 
+zh-long	搞屁喔！ 
+zh-short	天啊！ 
+en	-Jesus Christ! | -[laughing] | 
+id	Astaga! 
+ja	なんてこった | 
+no	Herregud! 
+fi	Jessus. 
+ru	Господи Иисусе! 
+
+hu	„Nikola Reszke.” 
+nl	'Nikola Reszke.' 
+pt-br	Nikola Reszke. 
+cs	„Nikola Reszkeová“. 
+da	"Nikola Reszke." | 
+el	"Νικόλα Ρέζκε". 
+en	"Nikola Reszke." 
+es-eu	"Nikola Reszke". 
+es	"Nikola Reszke". 
+fi	"Nikola Reszke." | 
+fr	"Nikola Reszke." 
+he	‫"ניקולה רשקה."‬ | 
+hr	Nikola Reszke. 
+id	"Nikola Reszke." 
+it	Nikola Reszke. 
+ko	&lrm;'니콜라 레슈케' | 
+ms	"Nikola Reszke." 
+no	"Nikola Reszke." 
+pt	"Nikola Reszke." 
+ro	„Nikola Reszke”. 
+ru	«Никола Режка». 
+sv	"Nikola Reszke." 
+th	&lrm;"นิโกล่า เรชเก" | 
+tr	Nikola Reszke. 
+uk	«Нікола Решке». 
+vi	&lrm;"Nikola Reszke". | 
+zh-long	妮可拉雷斯卡 
+zh-short	“妮可拉·雷斯克” 
+ja	&lrm;“ニコラ･レシュケ” | 
+

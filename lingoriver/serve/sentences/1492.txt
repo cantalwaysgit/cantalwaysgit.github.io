@@ -1,0 +1,27 @@
+id	Kecilkan suara kalian. Biarkan dia tidur. 
+ja	静かにしろ！ 眠ってるんだ | 
+ar	&rlm;‏أخفضوا أصواتكم. دعوها تنام.‏ | 
+da	Dæmp jer lige. Lad hende sove. 
+el	Πιο σιγά. Αφήστε τη να κοιμηθεί. 
+en	Keep your voices down. Let her sleep. | 
+fi	Olkaa hiljaa. Antakaa hänen nukkua. 
+fr	Un peu de silence. Laissez-la dormir. 
+he	&rlm;‏תנמיכו את הקול. תנו לה לישון.‏ | 
+it	Abbassate il volume. Lasciatela dormire. 
+nl	Doe zachtjes. Laat haar slapen. 
+no	Demp dere. La henne sove. 
+pl	Nie szczekajcie. Dajcie jej pospać. 
+pr-br	Abaixem a voz. Deixem-na dormir. 
+pr	Ladrem mais baixo. Deixem-na dormir. 
+ro	Mai încet cu gălăgia! Lăsați-o să doarmă! 
+sp	Bajen la voz. Déjenla dormir. 
+sp-eu	Bajad la voz. Dejadla dormir. 
+sv	Var tysta. Låt henne sova. 
+th	เงียบๆ กันหน่อย ปล่อยให้เธอหลับ | 
+tr	Ses çıkarmayın. Bırakın uyusun. 
+vi	Trật tự đi. Để cho cô ấy ngủ. | 
+zh-long	小聲一點，她在睡覺 
+zh-short	小点声 别吵她睡觉 
+ru	Потише вы. Дайте ей поспать. 
+ko	목소리 죽여, 깨겠다 | 
+

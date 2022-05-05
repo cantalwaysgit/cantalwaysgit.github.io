@@ -1,0 +1,27 @@
+ru	Он так и должен отклоняться вправо? 
+id	Apakah seharusnya melengkung ke kanan seperti itu? 
+ar	&rlm;‏هل يُفترض أن تنحني يمنة هكذا؟‏ | 
+da	Skal den lave sådan en kurve? 
+el	Έπρεπε όντως να πάρει αυτή τη δεξιά απόκλιση; 
+en	Is it supposed to curve | off to the right like that? | 
+fi	Kuuluuko sen kaartua oikealle? 
+fr	C'est censé partir à droite ? 
+he	&rlm;‏זה אמור להסתובב ימינה בצורה כזו?‏ | 
+it	Doveva girare verso destra in quel modo? 
+nl	Moet hij zo naar rechts afbuigen? 
+no	Skal den svinge sånn til høyre? 
+pl	Powinna tak zakręcać w prawo? 
+pr-br	Tem que curvar assim para a direita? 
+pr	Devia curvar tanto para a direita? 
+ro	E normal să se ducă la dreapta, așa? 
+sp-eu	¿Se supone que tiene que girar a la derecha? 
+sp	¿Tiene que ir hacia la derecha de ese modo? 
+sv	Ska den skruvas till höger på det viset? 
+th	ลูกควรเลี้ยวขวาแบบนั้นหรือคะ | 
+tr	Böyle sağa doğru kavislenmesi mi gerekiyor? 
+vi	Nó phải vòng sang bên phải như thế à? | 
+zh-long	這樣往右邊飛是對的嗎？ 
+zh-short	这球是要往右偏转吗？ 
+ko	저렇게까지 오른쪽으로 | 굽어 쳐야 해요? | 
+ja	今の急カーブは狙いどおり？ | 
+

@@ -1,0 +1,51 @@
+id	Kau tahu aku sangat senang mengetahuinya? 
+ja	最高の知らせだ | しゃっくり君が大物になった | 
+ru	Знаешь, как я за тебя рад? 
+ar	&rlm;‏أتعلم كم يسعدني ذلك؟‏ | 
+da	Ved du, hvor glad det gør mig? 
+el	Ξέρεις πόσο χαρούμενο με κάνει αυτό; 
+en	You know how happy that makes me? | 
+fi	Se on ilo kuulla. 
+fr	Ça me fait plaisir, tu peux pas savoir. 
+he	&rlm;‏אתה יודע כמה זה משמח אותי?‏ | 
+it	Sono felice per te. 
+ko	그 말을 들으니 | 얼마나 기쁜지 알아? | 
+no	Vet du hvor glad det gjør meg? 
+pl	Bardzo się cieszę. 
+pr-br	Sabe como isso me deixa feliz? 
+pr	Sabes o quanto isso me deixa feliz? 
+ro	Știi cât de fericit sunt să aud asta? 
+sp-eu	No sabes cómo me alegro. 
+sp	No sabes lo feliz que me pone. 
+sv	Vet du hur glad jag blir? 
+th	รู้ไหมว่านั่นทำให้ผมมีความสุขแค่ไหน | 
+tr	Ne kadar sevindim, biliyor musun? 
+vi	Cậu biết điều đó làm tôi vui thế nào chứ? | 
+zh-long	知道這消息讓我有多開心嗎？ 
+zh-short	知道这让我多开心吗？ 
+nl	Weet je hoe blij me dat maakt? Hikker Bubatzi heeft het gemaakt. 
+id	Ceguk Bubatzi sukses. 
+ru	Икотка Бубаци пришел к успеху. 
+ar	&rlm;‏"الحازوق بوباتزي" يغدو هاماً.‏ | 
+da	Hikke Bubatzi til tops. 
+el	Ο "Λόξυγγας" Μπουμπάτσι έπιασε την καλή. 
+en	Hiccups Bubatzi goes big time. | 
+fi	Hikka-Bubatzi menestyy. 
+fr	M. Hoquet Bubatzi est au sommet. 
+he	&rlm;‏"שיהוקי" בבאצי מצליח בגדול.‏ | 
+it	Singhiozzo Bubatzi ha avuto successo. 
+ko	딸꾹질 부바치가 대박 났구나 | 
+no	Hikke Bubatzi gjør det stort. 
+pl	Czkawka Bubatzi został szychą. 
+pr-br	Soluço Bubatzi mandando ver. 
+pr	O Soluços Bubatzi é um homem de sucesso. 
+ro	Sughiț Bubatzi ajunge mare. 
+sp-eu	Hipo Bubatzi da el golpe. 
+sp	Hipo Bubatzi es importante. 
+sv	Hickaren Bubatzi utför stordåd. 
+th	จอมสะอึกบูบาต์ซี่ดังใหญ่แล้ว | 
+tr	Hıçkırık Bubatzi başarılı olmuş. 
+vi	Bubatzi Nấc thành đạt. | 
+zh-long	打嗝哥布巴茲變大人物了 
+zh-short	“嗝嗝”布巴兹出息了 
+

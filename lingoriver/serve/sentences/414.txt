@@ -1,0 +1,27 @@
+id	Luar biasa. 
+ja	すばらしい | 
+ru	Отлично. 
+ar	&rlm;‏رائع.‏ | 
+da	Vidunderligt. 
+el	Υπέροχα. 
+en	[Sandy] Wonderful. | 
+fi	Hienoa. 
+he	&rlm;‏נהדר.‏ | 
+it	Splendido. 
+ko	훌륭해 | 
+nl	Prachtig. 
+no	Herlig. 
+pl	Cudownie. 
+pr-br	Maravilhoso. 
+pr	Maravilhoso. 
+ro	Minunat! 
+sp-eu	Maravilloso. 
+sp	Maravilloso. 
+sv	Underbart. 
+th	ยอดเยี่ยม | 
+tr	Muhteşem. 
+vi	Tuyệt vời. | 
+zh-long	很好 
+zh-short	好极了 
+fr	Superbe. 
+

@@ -1,0 +1,27 @@
+id	- Peter sudah lama sakit. - Ya. 
+fr	Peter est malade depuis longtemps. 
+el	Ο Πίτερ είναι άρρωστος εδώ και πολύ καιρό. 
+ru	-Питер так долго болеет. -Да. 
+ja	主人はもうずっと病気なの | 
+ar	&rlm;‏‏- كان "بيتر" مريضاً منذ وقت طويل. | &rlm;‏- أجل.‏ | 
+da	-Peter har været syg længe. -Ja. 
+en	-Peter's been sick for a long time. | -Yeah. | 
+fi	Peter on sairastanut kauan. 
+he	&rlm;‏‏פיטר חולה כבר הרבה זמן. | &rlm;‏-כן.‏ | 
+it	- Peter non sta bene da molto tempo. - Già. 
+nl	Peter is al lang ziek. 
+no	-Peter har vært syk lenge. -Ja. 
+pl	- Peter od dawna choruje. - Tak. 
+pr-br	-Peter está doente há muito tempo. -É. 
+pr	- O Peter está doente há muito tempo. - Sim. 
+ro	- Peter e bolnav de mult timp. - Da. 
+sp-eu	- Peter lleva mucho tiempo enfermo. - Sí. 
+sp	Hace mucho tiempo que Peter está enfermo. 
+sv	-Peter har varit sjuk länge. -Ja. 
+th	- ปีเตอร์ไม่สบายมานานแล้ว | - ครับ | 
+tr	-Peter uzun zamandır hasta. -Evet. 
+vi	- Peter bệnh quá lâu rồi. | - Vâng. | 
+zh-long	-彼得病了好久 -是呀 
+zh-short	-彼得病了好久了 -是啊 
+ko	- 피터가 아픈 지 오래됐어요 | - 네 | 
+

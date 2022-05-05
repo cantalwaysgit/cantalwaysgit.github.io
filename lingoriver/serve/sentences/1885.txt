@@ -1,0 +1,25 @@
+id	Aku merasa butuh perubahan. 
+ru	Но мне хочется перемен. 
+ar	&rlm;‏أشعر بأنني بحاجة إلى تغيير.‏ | 
+da	Jeg trænger bare til forandring. 
+en	I just feel like I need a change, | you know? | 
+fi	Tuntuu, että kaipaan muutosta. 
+fr	Mais j'ai besoin de changement. 
+he	&rlm;‏אני פשוט מרגישה שאני צריכה שינוי.‏ | 
+it	Ma ho bisogno di un cambiamento. 
+ko	변화가 필요한 것 같아요 | 
+pl	Ale potrzebuję zmiany otoczenia. 
+pr-br	Só sinto que preciso mudar. 
+pr	Só acho que preciso de uma mudança. 
+ro	Doar că simt nevoia unei schimbări. 
+sp-eu	Siento que necesito un cambio. 
+sp	Siento que necesito un cambio. 
+sv	Jag behöver en förändring. 
+th	แค่รู้สึกว่าต้องการการเปลี่ยนแปลง | 
+tr	Ama bir değişikliğe ihtiyacım var. 
+vi	Em thấy em cần thay đổi. | 
+zh-long	我只是覺得需要改變一下 
+zh-short	我只是感觉自己需要改变 
+el	Απλώς νιώθω ότι χρειάζομαι μια αλλαγή. 
+ja	でも変化も必要よ | 
+

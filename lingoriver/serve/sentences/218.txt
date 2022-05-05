@@ -1,0 +1,83 @@
+ja	犬がいるから気を… | 
+ru	Там собаки! Они... 
+en	Oh, there's dogs out there. They-- | 
+ko	밖에 개들이 있어 | 
+sp	Los perros están afuera. Son... 
+sv	Det är hundar där ute. 
+el	Έχει σκυλιά εκεί έξω. Είναι... 
+id	Ada anjing di sana. Mereka... 
+ar	&rlm;‏توجد كلاب في الخارج. إنها...‏ | 
+da	Der er hunde derude. 
+fi	Siellä on koiria, jotka... 
+fr	Il y a des chiens. Ils... 
+he	&rlm;‏יש שם כלבים. הם...‏ | 
+it	Ci sono i cani. Sono... 
+nl	Er zijn honden. Ze... 
+pl	Uważaj na psy. 
+pr-br	Tem cachorros aí. Eles... 
+pr	Há cães lá fora. Eles... 
+ro	Ai grijă la câinii de afară! Sunt... 
+sp-eu	Hay perros fuera. Son... 
+th	ข้างนอกนั่นมีหมา มัน... | 
+tr	Dışarıda köpekler var. Onlar... 
+vi	Có lũ chó ngoài đó đấy. Chúng... | 
+zh-long	外面有狗，那些狗… 
+zh-short	外面有狗 它们… 
+no	-Det er hunder der ute. De... -Hei! Hei, dere. 
+id	Hai. 
+ar	&rlm;‏‏مرحباً! أيها الفتيان. | &rlm;‏مرحباً أيتها الطفلة اللطيفة.‏ | 
+da	Hej med jer. Hej søde pige. 
+el	Γεια σας, παιδιά. Γεια σου, γλυκό κορίτσι. 
+en	Hey! Hi, guys. Hi, sweet girl. Hi. | 
+fi	Hei, kaverit. Hei, typykkä. 
+fr	Salut, les toutous. Salut, ma belle. 
+he	&rlm;‏היי! חבר'ה. היי, מתוקה.‏ | 
+it	Ciao, belli. Ciao, piccola. 
+nl	Hoi, jongens. Lieverd. 
+pl	Jakie miłe psiaczki. Cześć. 
+pr-br	Oi, pessoal. Oi, menina linda. 
+pr	Olá, malta. Olá, minha linda. Olá. 
+ro	Bună! Bună, fetița mea! 
+sp-eu	¡Hey! Hola, chicos. Hola, bonita. Hola. 
+sp	¡Hola! Hola, chicos. Linda. Hola. 
+sv	Hej, hundar. Vilken fin tjej. 
+th	ว่าไงจ้ะ เจ้าตัวน่ารัก หวัดดี | 
+tr	Merhaba! Selam çocuklar. Merhaba tatlı kız. Merhaba. 
+vi	Này! Chào chó cưng. Xinh quá. | 
+zh-long	嗨，你們好呀，小公主 
+zh-short	嘿！狗狗们 嗨 乖姑娘 
+ru	Привет, мои хорошие! Ты моя лапочка! 
+ko	안녕, 얘들아 | 
+ja	まあ かわいい | ワンちゃんたち | 
+id	Hai, anjing manis. 
+
+it	Dai, sii serio. 
+uk	Забери. Не треба. 
+es	Vamos, ¿qué haces? 
+es-eu	Venga ya, no me fastidies. 
+pt-br	Fala sério. 
+fi	Älä viitsi. | 
+sv	Lägg av. 
+el	Έλα, σοβαρέψου. 
+zh-short	拜托 别这样 
+ru	Прекрати. 
+cs	To nemyslíte vážně. 
+da	Helt ærligt. | 
+en	Come on, be serious. 
+fr	Arrête. 
+he	‫בחייך, עזוב.‬ | 
+hr	Daj, ne glupiraj se. 
+hu	Ne már, komolyan! 
+id	Yang benar saja. 
+ja	&lrm;マジかよ | 
+ko	&lrm;뭐요, 지금? | 
+ms	Aduhai, biar betul. 
+nl	Hou op, zeg. 
+no	Kom igjen, vær seriøs. 
+pt	Vá lá, não me ofendas. 
+ro	Pe bune? Fii serios! 
+th	&lrm;ไม่ต้องเลย | 
+tr	Yapma, ciddi ol. 
+vi	&lrm;Thôi nào, nghiêm túc đi. | 
+zh-long	拜託，認真一點 
+

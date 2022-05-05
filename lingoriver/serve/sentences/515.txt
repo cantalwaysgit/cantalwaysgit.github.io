@@ -1,0 +1,27 @@
+ja	二度と流すな | 
+id	Aku tidak mau melihatnya lagi! 
+ar	&rlm;‏لا أريد رؤيته مجدداً!‏ | 
+da	Jeg vil aldrig se det igen! 
+el	Δε θέλω να το ξαναδώ αυτό! 
+en	-I never want to see that again! | -Well... | 
+fi	En halua nähdä sitä ikinä! 
+fr	Je veux plus voir ça ! 
+he	&rlm;‏אני לא רוצה לראות את זה שוב לעולם!‏ | 
+it	Non voglio più vederlo! 
+nl	Ik wil dat nooit meer zien. 
+no	Jeg vil aldri se det mer! 
+pl	Nie chcę tego oglądać! 
+pr-br	Nunca mais quero ver aquilo! 
+pr	Não quero voltar a ver aquilo! 
+ro	Nu mai vreau să văd emisiunea aia! 
+sp-eu	¡No quiero volver a verlo! 
+sp	¡No quiero volver a verlo! 
+sv	Jag vill inte se det igen! 
+th	ฉันไม่อยากเห็นมันอีกเลย | 
+tr	Bir daha görmek istemiyorum! 
+vi	Tôi không muốn xem lại lần nữa! | 
+zh-long	我不想再看到那個畫面！ 
+zh-short	我不想再看到那个了！ 
+ru	Я больше не хочу это видеть! 
+ko	다시는 보고 싶지 않아! | 
+

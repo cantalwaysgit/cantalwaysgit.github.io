@@ -1,0 +1,28 @@
+ru	-Бивис хочет что-то сказать. -Давай. 
+id	- Beavis ingin bicara, Tuan. - Baiklah. 
+fr	Beavis veut ajouter quelque chose. 
+en	[Butt-Head]  | Beavis wants to say something, sir. | 
+pl	- Beavis chce coś powiedzieć. - W porządku. 
+ar	&rlm;‏‏- يريد "بيفس" قول شيء يا سيدي. | &rlm;‏- حسناً.‏ | 
+da	-Beavis vil sige noget. -Okay. 
+el	-Ο Μπίβις θέλει να σου πει κάτι. -Εντάξει. 
+fi	-Beavis haluaa sanoa jotain. -Hyvä on. 
+he	&rlm;‏‏ביוויס רוצה להגיד משהו, אדוני. | &rlm;‏-בסדר.‏ | 
+it	- Beavis vuole dirti una cosa. - D'accordo. 
+ko	- 비비스가 할 말이 있대요 | - 알았어 | 
+nl	Beavis wil iets zeggen. 
+no	-Beavis vil si noe, sir. -Ok. 
+pr-br	-Beavis quer dizer uma coisa, senhor. -Está bem. 
+pr	- O Beavis quer dizer uma coisa. - Está bem. 
+ro	- Beavis vrea să zică ceva, domnule. - Bine. 
+sp	- Beavis quiere decirle algo, señor. - De acuerdo. 
+sp-eu	- Beavis quiere decir algo, señor. - Vale. 
+sv	-Beavis vill säga en sak. -Okej. 
+th	- บีวิสอยากพูดอะไรหน่อย | - โอเค | 
+tr	-Beavis bir şey söylemek istiyor. -Peki. 
+vi	- Beavis muốn nói gì đó. | - Được rồi. | 
+zh-long	-癟四有話想說 -好 
+zh-short	-瘪四要说两句 先生 -好的 
+en	-[Sandy] Oh, okay. | -[Beavis] Hey, this is Beavis. | 
+ja	分かった | 
+

@@ -1,0 +1,56 @@
+id	Jadi, kita sepakat. 
+ru	Значит, ты согласен. 
+zh-short	那我们就说定了 
+ar	&rlm;‏أنت موافق إذاً.‏ | 
+da	Så er vi enige. 
+el	Άρα συμφωνούμε. 
+en	So we agree. | 
+fi	Eli olemme samaa mieltä. 
+fr	On est d'accord. 
+he	&rlm;‏אז אנחנו מסכימים.‏ | 
+it	Quindi siamo d'accordo. 
+ko	동의한다는 거군 | 
+nl	Dan zijn we het eens. 
+pl	Czyli zgadzamy się. 
+pr-br	Então nós concordamos. 
+pr	Então, estamos de acordo. 
+ro	Deci suntem de acord. 
+sp	Entonces estamos de acuerdo. 
+sp-eu	Entonces estamos de acuerdo. 
+sv	Då är vi överens. 
+th	งั้นเราก็เห็นพ้องกัน | 
+tr	O hâlde anlaştık. 
+vi	Vậy là ta đồng ý. | 
+zh-long	所以我們想法一致 
+ja	じゃ決まりだ | 
+
+it	Sarà arrivato prima, io non l'ho visto. 
+tr	O sırada gelmiştir, gün içinde görmedim. 
+ru	Значит, он пришел. Днем я его не видел. 
+uk	Тоді й під'їхала ця машина. Удень її не було. 
+da	Da kom han nok. Jeg så ham ikke om dagen. | 
+el	Τότε πρέπει να ήρθε. Δεν τον είδα. 
+en	He must've come then. I didn't see him earlier. 
+es-eu	Habrá venido, pero no lo he visto. 
+fi	Se tuli varmaan yöllä. En nähnyt sitä. | 
+fr	Il a dû venir à ce moment-là. 
+he	‫הוא בטח הגיע כשנמנמתי.‬ | 
+hr	Sigurno je tada došao. Po danu nije. 
+hu	Akkor biztosan eljött. Nem láttam korábban. 
+id	Dia pasti di sana. Aku tak melihatnya. 
+ja	&lrm;きっとその時 来たのでは | 
+ko	&lrm;그때 왔나 봅니다 | &lrm;그 전엔 못 봤거든요 | 
+ms	Mungkin dia datang waktu itu. Saya tak nampak. 
+no	Han må ha kommet da. Jeg så ham ikke på dagen. 
+pt	Terá chegado nessa altura. Não o vi antes. 
+ro	Atunci o fi venit. Ziua nu l-am văzut. 
+th	&lrm;รถคงเข้ามาตอนนั้น ผมไม่เห็นตอนกลางวัน | 
+vi	&lrm;Chắc anh ấy đến rồi. | &lrm;Lúc trước tôi không thấy. | 
+zh-long	對方一定是那個時候來的 我稍早沒有看到他 
+zh-short	他一定是那时候来的 之前我没见到他 
+cs	Tou dobou asi přijel, ve dne bych si ho všiml. 
+nl	Toen heeft hij hier vast geparkeerd. 
+pt-br	Foi quando ele deve ter vindo. Não o vi de dia. 
+sv	Han måste ha kommit hit just då. 
+es	Deben haberlo traído en ese momento. 
+

@@ -1,0 +1,52 @@
+ja	６年生で | デートに誘われた時と― | 
+ar	&rlm;‏‏سأقول لك ما قلته لـ"جوش غيلفند" | &rlm;‏في الصف السادس‏ | 
+da	Jeg siger, som jeg sagde til Josh Gelfand i sjette klasse, 
+el	Θα σου πω αυτό που είπα στον Τζος Γκέλφαντ στην έκτη τάξη, 
+en	I'll tell you what I told Josh Gelfand | in the sixth grade | 
+fi	Sanon saman kuin Josh Gelfandille kuudennella luokalla, 
+fr	Ce sera la même réponse qu'à Josh Gelfand en sixième 
+he	&rlm;‏אומר לך מה שאמרתי לג'וש גלפנד בכיתה ו'‏ | 
+id	Akan kukatakan ucapanku kepada Josh Gelfand di kelas enam 
+it	Ti rispondo come a Josh Gelfand in prima media 
+ko	6학년 때 조시 겔펀드가 | 학교 댄스파티에 | 
+no	Jeg skal si det jeg sa til Josh Gelfand i sjette klasse 
+pl	Powiem tobie to samo co Joshowi Gelfandowi w szóstej klasie, 
+pr-br	Vou dizer a você o que eu disse a Josh Gelfand na sexta série 
+pr	Vou dizer-lhe o que disse ao Josh Gelfand no sexto ano, 
+ro	O să-ți zic cum i-am zis lui Josh Gelfand în clasa a șasea, 
+ru	Я отвечу вам, как Джошу Гельфанду в шестом классе, 
+sp-eu	Le diré lo mismo que le dije a Josh Gelfand en sexto 
+sp	Te diré lo que le dije a Josh Gelfand en sexto grado 
+sv	Jag säger det jag sa till Josh Gelfand i sjätte klass 
+th	ฉันจะบอกอย่างที่บอกจอช เกลแฟนด์ | ในชั้นป. 6 | 
+tr	Josh Gelfand altıncı sınıfta bana bahar balosuna gitmeyi teklif ettiğinde 
+vi	Tôi sẽ nói với anh điều tôi từng nói | với Josh Gelfand hồi lớp sáu | 
+zh-long	六年級時喬許葛芬 邀我參加春季舞會 
+zh-short	我会告诉你六年级时 乔许葛洛班邀请我参加春季派对时 
+nl	Ik zeg wat ik Josh Gelfand zei in groep acht toen hij me voor het bal vroeg. 
+ru	когда он пригласил меня на танцы. 
+id	saat mengajakku ke acara musim semi. 
+pr-br	quando ele me convidou ao baile da escola. 
+ar	&rlm;‏‏عندما طلب أن أرافقه | &rlm;‏إلى حفلة الربيع المدرسية.‏ | 
+da	da han inviterede mig til skolebal. 
+el	όταν μου ζήτησε να πάμε στον σχολικό χορό. 
+en	-when he asked me to the spring social. | -Uh-huh. | 
+fi	kun hän pyysi kevättansseihin. 
+fr	quand il m'a invitée au bal. 
+he	&rlm;‏כשהוא הזמין אותי לנשף האביב.‏ | 
+it	quando mi invitò al ballo scolastico. 
+ko	같이 가자고 했을 때 | 했던 말 그대로 할게요 | 
+no	da han ba meg på vårballet. 
+pl	kiedy zaprosił mnie na potańcówkę. 
+pr	quando me convidou para o baile de primavera. 
+ro	când m-a invitat la balul școlii. 
+sp	cuando me invitó al baile de primavera: 
+sp-eu	cuando me invitó al baile de primavera. 
+sv	när han bad mig gå med på vårbalen. 
+th	ตอนที่เขาขอให้ฉันไปงานฤดูใบไม้ผลิ | 
+tr	söylediğim şeyi söyleyeceğim. 
+vi	khi cậu ấy mời tôi | tham gia buổi dạ hội mùa xuân. | 
+zh-long	我也這麼對他說 
+zh-short	我是怎么跟他说的 
+ja	同じ返事よ | 
+

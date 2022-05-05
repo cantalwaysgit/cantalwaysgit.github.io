@@ -1,0 +1,63 @@
+ja	別に | 
+id	- Aku tidak pernah bilang. - Pernah. Tidak masalah. 
+ru	-Я этого не говорил. -Говорил. Ну ладно. 
+en	-No, I never said that. | -You said that. | 
+zh-short	-我可没这么说过 -你说过 没事 
+sp	- Nunca dije eso. - Lo dijiste. Está bien. 
+ar	&rlm;‏‏- لم أقل هذا أبداً. | &rlm;‏- قلت ذلك. لا بأس بهذا.‏ | 
+da	-Det har jeg aldrig sagt. -Det gjorde du. Men okay. 
+el	-Δεν είπα ποτέ κάτι τέτοιο. -Το είπες, αλλά δεν πειράζει. 
+fi	-En sanonut niin. -Kyllä sanoit, mutta ei se mitään. 
+fr	- J'ai jamais dit ça. - Si, tu l'as dit. Pas grave. 
+he	&rlm;‏‏לא אמרתי את זה מעולם. | &rlm;‏-אמרת. זה בסדר.‏ | 
+it	- Non l'ho mai detto. - L'hai detto. Va bene. 
+nl	Heb ik nooit gezegd. -Wel. Geeft niet. 
+no	-Det har jeg aldri sagt. -Du sa det. Det er greit. 
+pl	- Wcale nie. - Tak mówiłeś. Rozumiem. 
+pr-br	-Eu nunca disse isso. -Você disse. Tudo bem. 
+pr	- Nunca disse isso. - Disseste. Não faz mal. 
+ro	- N-am zis asta niciodată. - Ba da. E-n regulă. 
+sp-eu	- Nunca he dicho eso. - Lo dijiste. No pasa nada. 
+th	- ไม่เคยพูดแบบนั้น | - พูดนะ ไม่เป็นไร | 
+tr	-Öyle bir şey demedim. -Dedin. Sorun değil. 
+vi	- Tôi chưa nói thế bao giờ. | - Cậu có nói mà. Không sao. | 
+zh-long	-我沒說過 -明明就有，沒關係 
+sv	-Det har jag aldrig sagt. -Du sa det. Det är lugnt. 
+ko	- 제가 언제 그랬어요? | - 그랬잖아, 괜찮아 | 
+ja	行きたいと言ってた | 緊張で汗をかいてるな | 
+en	That's okay. | 
+
+es	Me gustaría denunciar 
+cs	Chtěl bych nahlásit, 
+uk	Хочу повідомити про машину на готельному паркінгу, 
+el	Θέλω να αναφέρω ότι υπάρχει ένα αμάξι στο πάρκινγκ 
+da	Jeg vil gerne anmelde | en fremmed bil på parkeringspladsen. | 
+en	I'd like to report that there is an unregistered car in the parking lot. 
+es-eu	Quiero denunciar que hay un coche desconocido en el aparcamiento. 
+fi	Parkkipaikalla on auto, | joka ei kuulu hotellin asiakkaille. | 
+fr	J'aimerais signaler une voiture suspecte dans le parking. 
+he	‫אני רוצה לדווח על מכונית לא רשומה‬ | ‫במגרש החניה שלנו.‬ | 
+hr	Javljam da je na parkiralištu neprijavljen auto. 
+hu	Szeretném bejelenteni, hogy itt van egy nem regisztrált autó a parkolóban. 
+it	Vorrei segnalare un'auto non registrata nel parcheggio. 
+ja	&lrm;駐車場に関係者以外の車両が | &lrm;放置されてます | 
+ko	&lrm;주차장에 미등록 차량이 | &lrm;있어서 신고하려고요 | 
+ms	Saya nak melaporkan ada kereta tak berdaftar di medan letak kereta. 
+nl	Ik wil een niet-geregistreerde auto op de parkeerplaats melden. 
+no	Jeg vil rapportere at det er en uregistrert bil på parkeringsplassen. 
+pt-br	Gostaria de informar que há um carro não registrado no estacionamento. 
+pt	Quero informar que há um carro estranho no estacionamento do hotel. 
+sv	Det står en bil på parkeringen som inte tillhör nån av gästerna. 
+th	&lrm;อยากแจ้งความว่ามีรถที่ไม่ใช่ของแขก | &lrm;อยู่ในที่จอดรถ | 
+tr	Otoparkta sahipsiz bir araba olduğunu bildirecektim. 
+vi	&lrm;Tôi muốn báo cáo rằng | &lrm;có một chiếc xe chưa đăng ký ở bãi đỗ. | 
+zh-long	我想通報停車場有一輛未登記車輛 
+zh-short	我想报告 停车场 停着一辆未登记的车 
+id	Aku ingin melaporkan ada mobil tak terdaftar di tempat parkir. 
+ru	Хочу сообщить, что на парковке стоит брошенная машина. 
+ro	Vă anunț că este o mașină în parcare care nu aparține niciunui client. 
+es	que hay un auto desconocido en nuestro estacionamiento. 
+cs	že nám tu na parkovišti stojí auto, co nepatří žádnému z našich hostů. 
+uk	яка не належить гостю. 
+el	που δεν ανήκει σε ένοικο. 
+

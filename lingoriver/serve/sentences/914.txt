@@ -1,0 +1,27 @@
+id	Aku menanyakan saluran radio yang kau dengarkan! 
+ru	Я спрашиваю, какую станцию вы слушаете! 
+ar	&rlm;‏أسألك أية محطة تستمعين إليها!‏ | 
+da	Jeg spørger, hvilken station du lytter til! 
+el	Σε ρωτάω ποιο σταθμό ακούς! 
+en	I'm asking you | what station you're listening to! | 
+fi	Kysyn, mitä kanavaa kuuntelet! 
+fr	Je demande quelle station vous écoutez ! 
+he	&rlm;‏אני שואל אותך לאיזו תחנה את מאזינה!‏ | 
+it	Voglio sapere che stazione sta ascoltando! 
+nl	Ik vraag naar welke zender je luistert. 
+no	Jeg spør deg hvilken kanal du hører på! 
+pl	Pytam o stację radiową! 
+pr-br	Estou perguntando qual é a estação que está ouvindo! 
+pr	Estou a perguntar que estação está a ouvir! 
+ro	Te întreb ce post de radio asculți! 
+sp-eu	¡Te pregunto qué emisora estás escuchando! 
+sp	¡Le pregunto qué estación está escuchando! 
+sv	Jag frågar vilken station du lyssnar på! 
+th	ผมกำลังถามว่าคุณฟังสถานีอะไรอยู่ | 
+tr	Hangi kanalı dinlediğini sordum! 
+vi	Tôi hỏi cô đang nghe đài gì! | 
+zh-long	我是問妳，妳聽什麼電臺！ 
+zh-short	我是在问你在听哪个频道！ 
+ko	무슨 라디오 방송국 채널을 | 듣고 있느냐고요! | 
+ja	そのラジオ局は | どこかと聞いてる！ | 
+

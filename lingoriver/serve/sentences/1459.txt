@@ -1,0 +1,27 @@
+id	Aku tekan ini dan menarik ini. 
+ja	ここを押して これを伸ばす | 
+ru	Тут нажать, тут вытащить. 
+pl	Tu naciskam, a to wyciągam. 
+sv	Och jag trycker här och drar där. 
+th	และก็กดนี่ และดึงนี่ | 
+vi	Và tôi nhấn cái này, và rút cái này. | 
+ar	&rlm;‏واضغط على هذا، وأسحب هذا.‏ | 
+da	Og jeg trykker på den og trækker i den. 
+el	Πατάω αυτό και τραβάω αυτό. 
+en	And I hit this, and I pull this. | 
+fi	Painetaan tästä ja vedetään tästä. 
+fr	J'appuie là et je sors ça. 
+he	&rlm;‏ואני לוחץ על זה ומושך את זה.‏ | 
+it	Premo questo e alzo questa. 
+nl	Ik druk hier en trek dit eruit. 
+no	Og jeg trykker her og drar der. 
+pr-br	Tenho que apertar isso e levantar isso. 
+pr	Carrego aqui e puxo isto. 
+ro	Apăs aici și apoi trag de asta. 
+sp-eu	Le doy a esto y tiro de esto. 
+sp	Presiono esto y saco esto. 
+tr	Şuna basıyorum ve şunu çekiyorum. 
+zh-long	按下去，拉起來 
+zh-short	按这个键再把天线拉出来 
+ko	이걸 누르고 당기면 되죠 | 
+

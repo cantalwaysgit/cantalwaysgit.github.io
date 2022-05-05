@@ -1,0 +1,49 @@
+ar	&rlm;‏لا.‏ | 
+el	Όχι, όχι. 
+en	Oh, no! Oh, no, no! | No, no, no! | 
+he	&rlm;‏לא.‏ לא, לא... | 
+id	Tidak. 
+ko	안 돼 | 
+no	Nei. Nei, nei. 
+pr-br	Não. 
+pr	Não. 
+ro	Nu! 
+sp-eu	No. 
+sp	No. 
+sv	Åh, nej! 
+th	อย่าๆ อย่านะ อย่าๆ | 
+tr	Olamaz. Hayır. 
+vi	Không. | 
+zh-long	別這樣… 
+zh-short	不 
+
+cs	Co dáme? Komplet? 
+uk	Що бажаєте? Комбо? 
+es	¿Quiere la promoción? 
+zh-short	洗车吗？ 
+el	Τι θα θέλατε; Μέσα έξω; 
+pt-br	O que vai ser? Um combo? 
+hr	Što ćete? Kompletno? 
+id	Mau layanan apa? Kombo? 
+it	Vuole la nostra offerta? 
+en	What will it be? The combo package? 
+tr	Ne yapıyoruz, paket mi? 
+nl	Wat mag 't zijn? Een combo? 
+da	Hvad skulle det være? Hele pakken? | 
+es-eu	¿Qué desea? ¿Un completo? 
+fr	Vous voulez la formule ? 
+he	‫מה תרצה? קומבו?‬ | 
+hu	Mit kér? Kombó mosást? 
+ja	&lrm;何にしましょう？ | 
+ko	&lrm;뭐로 하시겠어요? 콤보? | 
+ms	Nak cucian bagaimana? Kombo? 
+no	Hva skal det være? En kombo? 
+pt	O que vai ser? Uma promoção? 
+sv	Vad önskas? En kombo? 
+th	&lrm;ทำอะไรดีครับ ตามโปรโมชั่นเลยมั้ย | 
+vi	&lrm;Sao? Dùng gói combo nhé? | 
+zh-long	要整套洗車服務嗎？ 
+ro	Ce doriți? Interior și exterior? 
+fi	Mitä laitetaan? | 
+ru	Что желаете? Комбо? 
+

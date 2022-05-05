@@ -1,0 +1,27 @@
+en	Oh, I know you're gonna | take the title on Sunday. | 
+id	Kau akan dapat gelar hari Minggu. 
+ar	&rlm;‏‏- أعلم أنك ستفوز باللقب يوم الأحد. | &rlm;‏- سأجعله ينام.‏ | 
+da	-Du tager titlen på søndag. -De går ud som lys. 
+el	-Θα κερδίσεις τον τίτλο το Σάββατο. -Θα τους βάλω για ύπνο. 
+fi	-Voitat mestaruuden sunnuntaina. -Passitan ne unten maille. 
+fr	- Tu vas gagner le titre, samedi. - Je vais tous les coucher. 
+he	&rlm;‏‏אתה תיקח את התואר ביום ראשון. | &rlm;‏-אני אשכיב אותם לישון.‏ | 
+it	- Domenica il titolo sarà tuo. - Li spedirò a nanna. 
+ko	- 타이틀을 차지할 거예요 | - 잘 자라고 해야죠 | 
+nl	Jij krijgt zondag de titel. -Ik laat ze slapen. 
+pl	- W niedzielę zdobędziesz tytuł. - Powiem mu dobranoc. 
+pr-br	-Vai conquistar o título no domingo. -Vou botar todos para nanar. 
+pr	- Vais ganhar o título no domingo. - Vou pô-los a dormir. 
+ro	- O să câștigi titlul duminică. - O să le-nchid ochișorii! 
+sp	- El domingo conseguirás el título. - Les daré las "buenas noches". 
+sp-eu	- El domingo ganarás el título. - Los pondré a dormir. 
+sv	-Du tar titeln på söndag. -Jag ska natta dem allihop. 
+th	- วันอาทิตย์จะได้ตำแหน่งแชมป์ | - จะทำให้พวกเขาปิดตาไปเลย | 
+tr	-Pazar günü unvanı alacaksın. -Onları mışıl mışıl uyutacağım. 
+vi	- Anh sẽ vô địch vào Chủ Nhật. | - Tôi sẽ cho họ đi ngủ. | 
+zh-long	-週日你一定能奪冠 -我會讓對手乖乖睡覺的 
+zh-short	-你会赢下周日的冠军头衔的 -我会让对手睡过去的 
+no	-Du tar tittelen på søndag. -Jeg skal få dem til å si nattinatt. 
+ru	-В воскресенье ты выиграешь титул. -Отправлю всех баю-бай. 
+ja	日曜も勝つよ | 
+

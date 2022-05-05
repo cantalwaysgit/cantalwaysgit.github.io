@@ -1,0 +1,27 @@
+en	Huh? I beg your pardon? | 
+id	Maaf? 
+ru	Прошу прощения. 
+ja	どうかした？ | 
+ar	&rlm;‏معذرة؟‏ | 
+da	Undskyld mig? 
+el	Παρακαλώ; 
+fi	Anteeksi? 
+fr	Je te demande pardon ? 
+he	&rlm;‏סליחה?‏ | 
+it	Come hai detto? 
+nl	Sorry? 
+no	Unnskyld meg? 
+pl	Coś nie tak? 
+pr-br	Como? 
+pr	Desculpa? 
+ro	Poftim? 
+sp	¿Cómo dices? 
+sp-eu	¿Perdona? 
+sv	Ursäkta mig? 
+th	โทษทีว่าไงนะ | 
+tr	Anlamadım? 
+vi	Gì cơ? | 
+zh-long	妳說什麼？ 
+zh-short	什么？ 
+ko	왜 그래? | 
+

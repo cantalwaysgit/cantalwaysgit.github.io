@@ -1,0 +1,27 @@
+ja	お助けマン 参上 | 
+en	Aw, Sandy to the rescue. | 
+id	Sandy datang menyelamatkan. 
+ar	&rlm;‏أتى "ساندي" لإنقاذي.‏ | 
+da	Redningsmand Sandy. 
+el	Ο Σάντι ήρθε να με σώσει. 
+fi	Sandy tuli hätiin. 
+fr	Mon sauveur. 
+he	&rlm;‏סנדי יציל את המצב.‏ | 
+it	Sandy al salvataggio. 
+ko	샌디가 날 구하러 왔구나 | 
+nl	Sandy komt me redden. 
+no	Sandy til unnsetning. 
+pl	Sandy przybył na ratunek. 
+pr-br	Sandy no resgate. 
+pr	O Sandy vem salvar-me. 
+ro	Sandy Salvatorul. 
+ru	Сэнди спешит на помощь. 
+sp-eu	Sandy al rescate. 
+sp	Sandy al rescate. 
+sv	Sandy kommer till undsättning. 
+th	แซนดี้มาช่วยแล้ว | 
+tr	Sandy imdada yetişti. 
+vi	Sandy đến giải cứu. | 
+zh-long	山迪救援小隊 
+zh-short	桑迪来救我了 
+

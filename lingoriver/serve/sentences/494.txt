@@ -1,0 +1,27 @@
+id	Rasanya seperti melecehkan anak-anak. 
+ar	&rlm;‏يبدو ذلك تحرشاً بالأطفال.‏ | 
+da	Det er da lidt pædofilagtigt. 
+en	-See if it works. | -That feels very child molestery. | 
+fi	Kuulostaa lasten hyväksikäyttäjältä. 
+fr	Ça fait prédateur sexuel. 
+he	&rlm;‏זה נשמע כמו התעללות מינית בילדים.‏ | 
+it	Mi sentirei un molestatore. 
+no	Det føles veldig overgriper-aktig. 
+pl	Wyjdę na pedofila. 
+pr-br	Isso parece pedofilia. 
+pr	Isso parece coisa de pedófilo. 
+ro	Pare molestare de copii. 
+sp-eu	Eso suena a acosador pederasta. 
+sp	Parece algo de abusador de niños. 
+sv	Det känns väldigt barnövergreppigt. 
+th	นั่นเหมือนลวนลามเด็กยังไงไม่รู้ | 
+tr	Bu, çocuk tacizine girer. 
+vi	Tôi thấy như vậy cứ như ấu dâm. | 
+zh-long	感覺有點像在性騷擾小朋友 
+zh-short	那有点猥亵儿童的感觉 
+ja	小児性愛を疑われる | 
+nl	Dat klinkt als een soort aanrander. -Hij wil je kapotmaken. Ontsla hem. 
+ko	그건 좀 아동 성희롱 느낌인데 | 
+ru	Примут за педофила. 
+el	Ακούγεται λίγο παιδοφιλικό. 
+

@@ -1,0 +1,57 @@
+ru	Всю долгую зиму 
+id	Di sepanjang musim dingin Di timbunan dedaunan yang kesepian... 
+ja	冬の間ずっと | 　　独りぼっちで隠れてた | 
+da	Hele vinteren igennem i ensomhed blandt blade 
+ar	&rlm;‏‏خلال الشتاء بأكمله في أجمته | &rlm;‏من الأوراق التي تشعره بالوحدة"‏ | 
+el	Ολόκληρο το χειμώνα, Στη μοναχική του συστάδα φύλλων... 
+en	♪ All through the winter | In his lonely clump of leaves ♪ | 
+fi	Läpi koko talven Yksin pensaassaan 
+fr	Tout l'hiver durant Seul dans son nid de feuilles 
+he	&rlm;‏‏במשך כל החורף | &rlm;‏בסבך העלים הבודד שלו‏ | 
+it	Per tutto l'inverno In quei solitari mucchi di foglie 
+nl	de hele winter in zijn eenzame berg bladeren 
+pl	Przez całą zimę pod stertą liści tkwił 
+pr-br	Por todo o inverno Em seu solitário montinho de folhas 
+pr	Durante todo o inverno No monte solitário de folhas 
+ro	Toată iarna Singură, în mormanul acesta de frunze 
+sp	Durante todo el invierno En su solitaria mata de hojas 
+sp-eu	Todo el invierno En su solitario montón de hojas 
+sv	Genom hela vintern I sin ensamma lövhög 
+th	ตลอดฤดูหนาว ในกองใบไม้เหงาหงอย | 
+tr	Kış boyunca Bu yaprak yığınının içinde... 
+vi	Rồi mùa đông đến | Trong bụi cây cô đơn | 
+zh-long	漫漫長冬 寂寞樹葉堆裡… 
+zh-short	整个冬天 在他孤单的树叶丛里 
+ko	겨우내 | 외로운 나뭇잎 덤불에서... | 
+ru	В своей кучке листвы... 
+
+it	Non vediamo nostro figlio da lunedì. 
+es	Lo vimos por última vez el lunes. 
+he	‫יום שני היה היום האחרון‬ | ‫שראינו את הבן שלנו.‬ | 
+ms	Kali terakhir kami jumpa Adam ialah Isnin. 
+nl	Maandag zagen we onze zoon voor het laatst. 
+da	Mandag så vi vores søn for sidste gang. | 
+el	Έχουμε να τον δούμε από τη Δευτέρα. 
+en	Monday was the last time we saw our son. 
+es-eu	El lunes vimos a Adam por última vez. 
+fi	Näimme poikamme viimeksi maanantaina. | 
+fr	On n'a pas vu notre fils depuis lundi. 
+hr	Od ponedjeljka nismo vidjeli sina. 
+hu	Hétfőn láttuk utoljára a fiunkat. 
+id	Hari Senin adalah kali terakhir kami melihat Adam. 
+ja	&lrm;月曜から息子を見てません | 
+ko	&lrm;아들을 마지막으로 본 게 | &lrm;월요일이에요 | 
+no	Vi så sønnen vår sist på mandag. 
+pt-br	Não vemos nosso filho desde segunda. 
+pt	Vimos o nosso filho pela última vez na segunda. 
+ro	Nu ne-am mai văzut fiul de lunea asta. 
+th	&lrm;วันจันทร์เป็นครั้งสุดท้ายที่เราได้เจอลูกชายเรา | 
+tr	Oğlumuzu en son pazartesi gördük. 
+uk	Востаннє ми бачили сина у понеділок. 
+vi	&lrm;Lần cuối chúng tôi gặp con trai | &lrm;là vào thứ Hai. | 
+zh-long	我們最後一次見到兒子是在星期一 
+zh-short	我们最后一次见到儿子是星期一 
+sv	Vi såg vår son senast i måndags. Har ni barn? Föreställ er hur vi har det. 
+cs	Od pondělí jsme syna neviděli. 
+ru	Мы не видели сына с понедельника. 
+

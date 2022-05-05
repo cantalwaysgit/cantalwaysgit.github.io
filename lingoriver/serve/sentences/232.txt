@@ -1,0 +1,35 @@
+fr	on m'a confié Frank Gorshin. 
+id	aku ditugaskan ke Frank Gorshin. 
+ja	Ｆ･ゴーシンの担当に | 
+ru	меня назначили к Фрэнку Горшину. 
+
+da	Jeg kan ikke fortælle Dem alt. | 
+el	Δεν μπορώ να σας πω τα πάντα. 
+es-eu	No puedo contárselo todo. 
+fr	Je ne peux pas tout vous dire. 
+he	‫אני לא יכולה לספר לכם כלום.‬ | 
+hr	Ne mogu vam sve reći. 
+hu	Nem mondhatok el mindent. 
+id	Aku tak bisa ceritakan semuanya. 
+it	Non posso dirvi tutto. 
+ja	&lrm;全ては話せません | 
+ko	&lrm;더는 말할 수 없습니다 | 
+ms	Saya tak boleh beritahu semua. 
+no	Jeg kan ikke fortelle alt. 
+pt-br	Não posso dar detalhes. 
+pt	Não vos posso contar tudo. 
+ro	Nu pot să vă spun totul. 
+th	&lrm;ฉันบอกคุณไม่ได้ทุกอย่าง | 
+tr	Her şeyi anlatamam. 
+vi	&lrm;Tôi không thể kể hết. | 
+zh-long	我不能全部告訴你們 
+zh-short	我不能全都告诉你们 
+nl	Ik kan u niet alles vertellen. Hij heeft dingen in vertrouwen verteld. 
+sv	Jag kan inte berätta allt. Han sa vissa saker till mig i förtroende. 
+en	I can't tell you everything. 
+es	No puedo contarles todo. 
+ru	Я не могу рассказать вам всё. 
+uk	Я не можу все розповісти. 
+fi	En voi kertoa teille kaikkea. | 
+cs	Nemůžu vám říct všechno. 
+

@@ -1,0 +1,49 @@
+ja	君は中学生か？ | 
+ar	&rlm;‏هل عمرك 14 عاماً؟‏ | 
+da	Er du 14 år? 
+el	Δεκατεσσάρων είσαι; 
+fi	Oletko 14-vuotias? 
+fr	T'as 14 ans, ou quoi ? 
+he	&rlm;‏מה אתה, בן 14?‏ | 
+id	Umurmu masih 14 tahun? 
+it	Ma hai 14 anni? 
+ko	14살 어린애예요? | 
+pl	Masz 14 lat? 
+pr	Tens 14 anos? 
+ro	Ai 14 ani cumva? 
+ru	Тебе что, 14 лет? 
+sp	¿Acaso tienes 14 años? 
+sp-eu	¿Tienes 14 años? 
+sv	Är du 14 år, eller? 
+th	อายุเท่าไรแล้ว 14 เรอะ | 
+tr	14 yaşında mısın? 
+vi	Anh 14 tuổi à, Sandy? | 
+zh-long	你14歲嗎？ 
+zh-short	你不懂事吗？ 
+no	-Er du 14 år gammel? -Nei, jeg er ikke 14 i det hele tatt. 
+ar	&rlm;‏ليس 14 عاماً البتة.‏ | 
+da	Nej, jeg er ikke 14. 
+el	Δεν είμαι καθόλου δεκατεσσάρων. 
+en	No, I'm not 14. I'm not 14 at all. | 
+fi	En lähelläkään. 
+fr	Non, j'ai plus 14 ans. Plus du tout. 
+he	&rlm;‏לא, אני לא בן 14. אני בכלל לא בן 14.‏ | 
+it	No, non ho affatto 14 anni. 
+ko	아니, 난 14살이 아니야 | 확실히 아니야 | 
+nl	Nee, ik ben niet 14. 
+pl	Nie. Nic z tych rzeczy. 
+pr-br	Não tenho 14 anos. Não mesmo. 
+pr	Não. É garantido que não tenho 14 anos. 
+ro	N-am deloc 14 ani. 
+sp-eu	No, no tengo 14 años. Para nada. 
+sp	No, no tengo 14 años. Para nada. 
+sv	Nej, jag är inte 14 år. 
+th	ไม่ใช่ ไม่ใช่ 14 เลย | 
+tr	Hayır, 14 değilim. Kesinlikle değilim. 
+vi	Không, tôi không phải 14 tuổi. | 
+zh-long	沒有，當然不是 
+zh-short	不 我懂事 
+id	Tidak, aku sama sekali bukan 14 tahun. 
+ru	Нет, не 14. Далеко не 14. 
+ja	中学はとっくに出た | 
+

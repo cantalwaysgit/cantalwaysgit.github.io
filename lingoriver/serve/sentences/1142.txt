@@ -1,0 +1,27 @@
+ja	ポケベルはつけとく | 
+id	Aku akan pegang penyerantaku jika tidak masalah. 
+ru	Я оставлю пейджер. 
+ar	&rlm;‏سأحتفظ بجهاز النداء.‏ | 
+da	Jeg beholder bipperen. 
+el	Θα κρατήσω το βομβητή. 
+en	I'm gonna keep the beeper, | if that's all right. | 
+fi	Pidän piipparin. 
+fr	Je garde le bipeur. 
+he	&rlm;‏אשמור על האיתורן.‏ | 
+it	Tengo il cercapersone. 
+ko	삐삐는 챙길게 | 
+nl	Ik hou de beeper bij me. 
+no	Jeg beholder personsøkeren. 
+pl	Pager sobie zatrzymam. 
+pr-br	Vou ficar com o bipe. 
+pr	Vou ficar com o  pager. 
+ro	O să păstrez pagerul. 
+sp-eu	Me quedaré el busca. 
+sp	Me quedaré con el buscapersonas, ¿está bien? 
+sv	Jag behåller personsökaren. 
+th	ผมจะเก็บเพจเจอร์เอาไว้ | 
+tr	Çağrı cihazı bende kalsın. 
+vi	Tôi sẽ giữ lại máy nhắn tin. | 
+zh-long	呼叫器我要收著 
+zh-short	呼机我先拿着 
+

@@ -1,0 +1,27 @@
+ja	“本当のこと？ | どうしても知りたいなら…” | 
+id	"Kebenaran? Kau tidak akan tahu jika itu menyerangmu pada bagian..." 
+ru	«Правда? Ты не понял бы правду, даже если бы тебя в неё ткнули...» 
+ar	&rlm;‏"الحقيقة؟ لن تعرفي الحقيقة حتى لو ظهرت..."‏ | 
+da	"Sandheden? Du ville ikke genkende sandheden, om den så bed dig i..." 
+el	"Την αλήθεια; Δε θα την καταλάβαινες, ακόμη κι αν σε δάγκωνε στο..." 
+en	"The truth? You wouldn't know the truth | if it bit you on the--" | 
+fi	"Totuuden? Et tunnistaisi totuutta, vaikka se purisi sinua..." 
+fr	"La vérité ? Tu ne la verrais pas même si elle était devant ton..." 
+he	&rlm;‏‏"את האמת? לא תזהי את האמת | &rlm;‏אפילו אם היא תנשוך אותך..."‏ | 
+it	"La verità? Non la sapresti nemmeno se ti mordesse sul..." 
+ko	‘진실? 안달복달하면 | 진실을 알지 못할 거야’ | 
+nl	'De waarheid? Die zou je nog niet zien, al beet die je in je... 
+no	"Du ville ikke ha gjenkjent sannheten om den så beit deg i..." 
+pl	„Prawdę? Nie dostrzegłabyś jej, nawet gdyby ugryzła cię w...”. 
+pr	"A verdade? Não perceberias a verdade nem que te mordesse no..." 
+pr-br	"A verdade? Você não saberia a verdade nem se o mordesse no..." 
+ro	"Adevărul? N-ai ști adevărul nici dacă te-ar mușca de..." 
+sp-eu	"¿La verdad? No reconocerías la verdad aunque te mordiera el...". 
+sp	"¿La verdad? Tú no reconocerías la verdad aunque te mordiera el...". 
+sv	"Sanningen? Du känner inte igen den om den så bet dig i..." 
+th	"ความจริงเรอะ คุณจะรู้ความจริง | ถ้ามันโดนคุณเข้า..." | 
+tr	"Hakikati mi? Sen hakikatten ne anlarsın?" 
+vi	"Sự thật? Bạn sẽ không biết sự thật | nếu nó tấn công bạn vào..." | 
+zh-long	“真相？妳不會知道真相的 它會咬了妳的…” 
+zh-short	“实情？如果实情让你… 你就不会想知道实情” 
+

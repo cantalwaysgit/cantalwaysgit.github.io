@@ -1,0 +1,51 @@
+id	- Tenang, Bung. - Baiklah. Sandy. Tenang dulu. 
+ru	-Ну-ну! -Спокойно, Сэнди. 
+ar	&rlm;‏‏- مهلاً يا رجل! | &rlm;‏- حسناً. هون عليك.‏ | 
+da	-Rolig nu. -Tag det roligt. 
+el	-Αν είναι δυνατόν! -Εντάξει, ηρέμησε, Σάντι. 
+en	-Whoa, man! | -All right. Sandy, Sandy. Take it easy. | 
+fi	-Äläs nyt. -Ihan rauhassa. 
+fr	- Doucement ! - Bon, du calme. 
+he	&rlm;‏‏וואו, בנאדם! | &rlm;‏-בסדר. תירגע.‏ | 
+it	- Piano, amico! - Allora. Calmati. 
+ko	- 좀 심했네 | - 알았어, 진정해 | 
+no	-Jøsses! -Ja vel. Ro deg ned. 
+pl	- Powoli. - Spokojnie. 
+pr-br	-Ei, cara! -Certo. Calminha aí. 
+pr	- Calma! - Pronto. Tenha calma. 
+ro	- Doamne! - Bine. Ușurel! 
+sp-eu	- ¡Vamos, hombre! - Vale, tranquilo. 
+sp	- ¡Vaya, viejo! - Está bien. Cálmate. 
+sv	-Hallå där. -Ta det lugnt. 
+th	- โว้ว เพื่อน | - เอาละ ใจเย็นๆ | 
+tr	-Yavaş ol! -Pekâlâ. Sakin ol. 
+vi	- Trời! | - Được rồi. Bình tĩnh. | 
+zh-long	-大哥冷靜！ -好，別激動 
+zh-short	-哇 天啊！ -好吧 别动气 
+ja	サンディ 落ち着け | 希望を聞かせてくれ | 
+nl	Rustig aan. Doe een tegenbod. 
+ar	&rlm;‏هون عليك. قدم لنا عرضك.‏ | 
+da	Tag det roligt. Kom med et modbud. 
+el	Ηρέμησε και κάνε μας μια αντιπρόταση. 
+en	Take it easy. Just make us a counter. | 
+fi	Tee vastatarjous. 
+fr	Du calme. Qu'est-ce que tu proposes ? 
+he	&rlm;‏תירגע. פשוט תן לנו את ההצעה שלך.‏ | 
+id	Tenang. Sebutkan keinginanmu. 
+it	Stai tranquillo. Facci una controproposta. 
+ko	진정하고 제안을 해 봐 | 
+no	Ro deg ned. Gi oss et annet forslag. 
+pl	Słuchamy twojej propozycji. 
+pr-br	Calma. Faça uma contraproposta. 
+pr	Tem calma. Faz-nos uma contraproposta. 
+ro	Ia-o mai ușor. Vino cu o contraofertă. 
+ru	Спокойно. Давай свое предложение. 
+sp	Cálmate. Haznos una contraoferta. 
+sp-eu	Tranquilo. Haznos una contraoferta. 
+sv	Ta det lugnt. Kom med ett motförslag. 
+th	ใจเย็นๆ งั้นคุณก็เสนอมาสิ | 
+tr	Sakin ol. Karşı teklifte bulun. 
+vi	Bình tĩnh nào. Để chúng tôi tính toán. | 
+zh-long	慢慢來，給我們一個數字 
+zh-short	别动气 那你开个价 
+

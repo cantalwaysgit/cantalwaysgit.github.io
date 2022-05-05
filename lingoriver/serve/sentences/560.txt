@@ -1,0 +1,27 @@
+ru	Надеюсь, одно из этих платьев подойдет. 
+ja	女装の趣味があるんだね | 
+id	Semoga salah satu gaun itu cocok untukmu. 
+ar	&rlm;‏آمل أن يكون أحد هذه الفساتين مناسباً.‏ | 
+da	Jeg håber, du finder den rigtige kjole. 
+el	Ελπίζω να βρεις το κατάλληλο φόρεμα. 
+en	And I hope, uh, | one of those dresses works out for you. | 
+fi	Toivottavasti mekko löytyy. 
+fr	J'espère qu'une de ces robes fera ton bonheur. 
+he	&rlm;‏אני מקווה שאחת השמלות האלה יתאימו.‏ | 
+it	Spero che uno dei vestiti ti vada bene. 
+nl	Ik hoop dat je de juiste jurk vindt. 
+no	Jeg håper en av kjolene funker for deg. 
+pl	Znajdziesz dla siebie dobrą kieckę. 
+pr-br	Espero que um desses vestidos fique bem. 
+pr	Espero que um dos vestidos te fique bem. 
+ro	Sper că o să te hotărăști la una dintre rochii. 
+sp	Espero que uno de esos vestidos te sirva. 
+sp-eu	Espero que uno de esos vestidos te valga. 
+sv	Jag hoppas att en av klänningarna passar. 
+th	หวังว่าชุดหนึ่งในนั้นจะใช้ได้ | 
+tr	Umarım elbiselerden biri sana olur. 
+vi	Hy vọng mấy địa chỉ đó có ích. | 
+zh-long	希望這幾套有你喜歡的 
+zh-short	但愿其中有裙子合你的意 
+ko	그 드레스 중에 | 맞는 걸 찾으시면 좋겠네요 | 
+

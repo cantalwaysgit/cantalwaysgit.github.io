@@ -1,0 +1,52 @@
+id	Aku tidak bercanda, Courtney, atau kau bukan klienku lagi. 
+ru	Я не шучу! Я откажусь тебя представлять. 
+ar	&rlm;‏لست أمزح معك. سأتخلى عن كوني مدير أعمالك.‏ | 
+da	Jeg laver ikke sjov. Jeg dropper dig som klient. 
+el	Δεν αστειεύομαι, Κόρτνι. Θα πάψω να σ' έχω πελάτισσα. 
+en	No, I am not kidding you, Courtney. | I will let you go as a client. | 
+fi	Olen tosissani. Päätän asiakkuutesi. 
+fr	Je blague pas. Si tu fais ça, je te vire de mes clients. 
+he	&rlm;‏אני לא מתלוצץ. אני אשחרר אותך מהחוזה.‏ | 
+it	Non scherzo. Non saresti più mia cliente. 
+nl	Ik meen het. Dan ben je geen cliënt meer van me. 
+no	Jeg tuller ikke. Jeg sier deg opp som klient. 
+pl	Nie żartuję. Rozwiążemy naszą umowę. 
+pr-br	Não estou brincando. Você não será mais minha cliente. 
+pr	Não estou a brincar. Dispenso-te como cliente. 
+ro	Nu-mi arde de glume. Nu vei mai fi clienta mea. 
+sp-eu	Lo digo en serio. Te dejaré como cliente. 
+sp	No es broma. Dejaré de representarte. 
+sv	Jag skämtar inte. Jag släpper dig som klient. 
+th	ไม่ ผมไม่ได้ล้อเล่น | ผมจะเลิกดูแลคุณนะ | 
+tr	Dalga geçmiyorum. Artık seni temsil etmem. 
+vi	Tôi không đùa đâu. Tôi sẽ từ bỏ cô. | 
+zh-long	我沒在開玩笑，我會跟妳解約 
+zh-short	不 我不是跟你开玩笑 我不会再跟你合作了 
+ko	농담이 아니야 | 그러면 우리 관계는 끝이야 | 
+ja	いい加減にしろ | 足を入れたら解雇する | 
+id	Aku tidak ingin mengatakannya. 
+ar	&rlm;‏لم أرغب في قول ذلك.‏ | 
+da	Jeg ville ikke sige det. 
+el	Δεν ήθελα να το πω. 
+en	-I didn't wanna have to say that. | -[Ted] Oh, my God. | 
+fi	En halunnut sanoa sitä. 
+fr	Je voulais pas en arriver là. 
+he	&rlm;‏לא רציתי להגיד את זה.‏ | 
+it	Non avrei voluto dirlo. 
+no	Jeg ville ikke si det. 
+pl	Nie chcę tego. 
+pr-br	Eu não queria dizer isso. 
+pr	Não queria dizer isso. 
+ro	N-am vrut să zic asta. 
+sp-eu	No quería decir eso. 
+sp	No quería decir eso. 
+sv	Jag ville inte säga det. 
+th	ไม่อยากพูดแบบนั้น | 
+tr	Bunu söylemek istemezdim. 
+vi	Tôi không muốn nói thế. | 
+zh-long	我不想說這種話 
+zh-short	我不想这么说 
+nl	Dat wilde ik niet zeggen. Steek hem erin en je carrière is voorbij. 
+ko	이런 말까지는 | 하고 싶지 않았어 | 
+ru	Я не хотел этого говорить. 
+

@@ -1,0 +1,25 @@
+id	Ayolah, Sandy. Baca majalah  People  sesekali. 
+ar	&rlm;‏اقرأ مجلة "بيبول" بين الحين والآخر.‏ | 
+da	Kig i  People- bladet engang imellem. 
+el	Διάβασε και κανένα τεύχος του  People. 
+en	Pick up a People magazine | every once in a while. | 
+fi	Lukisit joskus  People- lehteä. 
+fr	Ouvre une revue people de temps en temps. 
+he	&rlm;‏תקנה את כתב העת "פיפל" מדי פעם.‏ | 
+it	Leggiti  People,  ogni tanto. 
+no	Les  People  av og til. 
+pl	Kup sobie czasem  People. 
+pr-br	Leia a revista  People  de vez em quando. 
+pr	Lê uma revista  People  de vez em quando. 
+ro	Mai citește și tu din când în când revista  People. 
+sp-eu	Léete una revista  People  de vez en cuando. 
+sp	Lee la revista  People  de vez en cuando. 
+th	หยิบนิตยสารพีเพิลมาอ่านบ้าง | 
+tr	Ara sıra  People  dergisi karıştır. 
+vi	Lúc nào đó đọc tạp chí People đi. | 
+zh-long	偶爾看一下《時人》雜誌 
+zh-short	偶尔也看看《人物》杂志 
+nl	Kijk af en toe in een  People. Dat was drie vriendjes geleden. 
+ru	Читай «Пипл» хоть изредка. 
+ko	가끔은 ‘피플’ 잡지도 | 좀 보고 그러세요 | 
+

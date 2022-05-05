@@ -1,0 +1,27 @@
+ar	&rlm;‏‏بلى. أنا ممتنة لاستماعكم إليه | &rlm;‏في الواقع وحسب.‏ | 
+da	Det gør jeg, og jeg er taknemlig for, I ville lytte til det. 
+en	No, I do. I'm just grateful | you all actually just listened to it. | 
+fi	Tajuan. Olen vain kiitollinen, että kuuntelitte. 
+fr	Si. Je suis contente que vous ayez écouté. 
+he	&rlm;‏אני כן. אני פשוט מודה לכם שהאזנתם לזה.‏ | 
+it	Lo so. Ma vi sono grata per averla ascoltata. 
+ko	알아요, 이렇게 들어주셔서 | 정말 고마워요 | 
+nl	Jawel. Ik ben al blij dat jullie ernaar luisterden. 
+no	Jo. Jeg er bare glad for at dere hørte på det. 
+pl	Wiem. Cieszę się, że wysłuchaliście mojej piosenki. 
+pr-br	Eu sei.  Só estou grata por vocês terem ouvido. 
+pr	Sei. Só estou grata por terem ouvido. 
+ro	Ba da. Vă sunt recunoscătoare că m-ați ascultat. 
+sp-eu	Lo entiendo. Os agradezco que lo hayáis escuchado. 
+sp	Sí. Solo agradezco que lo hayan escuchado. 
+sv	Jo, det gör jag.  Jag är bara tacksam att ni lyssnade. 
+th	ฉันเข้าใจ แค่คุณฟังจริงๆ | ก็รู้สึกขอบคุณแล้ว | 
+tr	Anlıyorum. Dinlediğiniz için minnettarım. 
+vi	Tôi hiểu. | Tôi chỉ cảm ơn vì mọi người đã nghe. | 
+zh-long	我懂，感謝大家認真聆聽 
+zh-short	我知道 我只是非常感激 你们听了我的歌 
+el	Βασικά, είμαι ευγνώμων που το ακούσατε. 
+id	Tidak, aku paham. Aku senang kalian mendengarkannya. 
+ru	Понимаю. Спасибо, что послушали песни. 
+ja	集まってくれてうれしいわ | 
+

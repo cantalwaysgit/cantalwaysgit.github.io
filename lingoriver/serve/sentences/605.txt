@@ -1,0 +1,27 @@
+en	[Yuri] We need to find the one | that expresses the right message. | 
+id	Kita harus cari yang mengekspresikan pesan yang tepat. 
+sv	Vi måste hitta den som sänder rätt budskap. 
+ar	&rlm;‏‏نريد إيجاد الصورة التي تمثل | &rlm;‏الرسالة الصحيحة،‏ | 
+da	Vi skal finde det, der sender det rigtige budskab: 
+el	Πρέπει να βρούμε τη φωτογραφία που στέλνει το σωστό μήνυμα: 
+fi	Kuvan täytyy antaa oikea sanoma. 
+fr	Il faut qu'on trouve la photo qui dise : 
+he	&rlm;‏‏אנחנו צריכים למצוא את התמונה שמביעה | &rlm;‏את המסר הנכון,‏ | 
+it	Dobbiamo trovare quella che comunica il messaggio giusto: 
+ko	제대로 된 메시지를 전달하는 | 사진을 찾아야 해요 | 
+nl	We moeten de foto vinden met de boodschap: 
+pl	Musimy znaleźć takie, które mówi: 
+pr-br	Temos que achar a que expressa a mensagem certa: 
+pr	Temos de encontrar aquela que passa a mensagem certa: 
+ro	Trebuie să găsim una care să transmită mesajul potrivit: 
+sp-eu	Hay que encontrar la que exprese el mensaje que queremos. 
+sp	Necesitamos encontrar una que exprese el mensaje adecuado. 
+th	เราต้องหาภาพที่แสดงความหมายที่เหมาะ | 
+tr	Doğru mesajı ifade edeni bulmalıyız. 
+vi	Ta cần tìm một bức ảnh | thể hiện được đúng thông điệp, | 
+zh-long	我們要找那種傳達出正確訊息的 
+zh-short	要找出能传达正确信息的那张照片 
+ru	Надо найти ту, что передает нужный смысл. 
+ja	すごく楽しそうで戸惑ってて | セクシーな１枚を選ぶ | 
+no	Vi må finne det som har det rette budskapet: 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏يا إلهي. أكان "غاري" أم "كيفن"؟‏ | 
+da	Var det Gary eller Kevin? 
+el	Ω, Θεέ μου. Ο Γκάρι ή ο Κέβιν; 
+en	Oh, boy. Was it Gary or Kevin? | 
+fi	Voi sentään. Gary vai Kevin? 
+fr	Mince. Gary ou Kevin ? 
+he	&rlm;‏אלוהים. זה גארי או קווין?‏ | 
+id	Astaga. Itu Gary atau Kevin? 
+it	Santo cielo. È Gary o Kevin? 
+ko	세상에, 게리야? | 아니면 케빈? | 
+nl	Hemel. Gary of Kevin? 
+no	Å nei. Var det Gary eller Kevin? 
+pl	Gary czy Kevin? 
+pr-br	Puxa vida. Foi Gary ou Kevin? 
+pr	Caramba, foi o Gary ou o Kevin? 
+ro	Doamne! E Gary sau Kevin? 
+ru	Боже. Гэри или Кевин? 
+sp-eu	Vaya. ¿Es Gary o Kevin? 
+sp	Vaya. ¿Es Gary o Kevin? 
+sv	Oj då. Är det Gary eller Kevin? 
+th	ตายจริง แกรี่หรือเควินล่ะ | 
+tr	Eyvah. Gary mi Kevin mi? 
+vi	Ôi trời. Là Gary hay Kevin? | 
+zh-long	天啊，是蓋瑞還是凱文？ 
+zh-short	哦 天啊 是加里还是凯文？ 
+ja	ゲイリーか ケヴィン？ | 
+

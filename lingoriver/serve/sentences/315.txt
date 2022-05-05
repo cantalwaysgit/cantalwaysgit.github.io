@@ -1,0 +1,27 @@
+id	Hei, Ayah. 
+ar	&rlm;‏مرحباً يا أبي.‏ | 
+da	Hej, far. 
+el	Γεια σου, μπαμπά. 
+en	Hey, Poppy. | 
+fi	Hei, iskä. 
+fr	Salut, papa. 
+he	&rlm;‏היי, אבא.‏ | 
+it	Ciao, papà. 
+ko	안녕, 아빠 | 
+pl	Cześć, tatusiu. 
+pr-br	Oi, papai. 
+pr	Olá, pai. 
+ro	Bună, tată! 
+sp-eu	Hola, papi. 
+sp	Hola, Papi. 
+sv	Hej, pappsen. 
+tr	Merhaba babacığım. 
+vi	Chào bố. | 
+zh-long	嘿，老爸 
+zh-short	嘿 老爹 
+nl	Hé, pap. Hoe is het? 
+ja	パパ | 
+no	Hei, pappa. 
+ru	Папочка! 
+th	พ่อคะ | 
+

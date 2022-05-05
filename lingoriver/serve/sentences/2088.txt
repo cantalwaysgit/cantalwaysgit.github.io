@@ -1,0 +1,28 @@
+ja	新郎新婦を呼べ | 
+ru	-Приглашай молодых. -Закругляйся. 
+ar	&rlm;‏‏- اجلبوا العروسين. | &rlm;‏- توقف عن القيام بعرضك.‏ | 
+da	-Kom nu med parret. -Drop dit nummer. 
+el	-Εμφανίστε το ζεύγος, επιτέλους. -Σταμάτα το νούμερό σου. 
+en	-Just bring out the couple already. | -Yeah, quit doing your act. | 
+fi	-Esittele morsiuspari. -Älä heitä settiä. 
+fr	- Fais entrer le couple. - Arrête ton numéro. 
+he	&rlm;‏‏תביא כבר את הזוג. | &rlm;‏-מספיק עם המופע שלך.‏ | 
+id	- Keluarkan pasangannya. - Ya, berhenti berkelakar. 
+it	- Fai entrare la coppia. - Basta con le battute. 
+ko	- 신혼부부 나오라 해 | - 연기 그만하고 | 
+nl	Laat het echtpaar komen. -Kap met je act. 
+no	-Få ut paret. -Kutt ut nummeret ditt. 
+pl	- Dawać młodą parę. - Kończ ten występ. 
+pr-br	-Tragam o casal. -Chega desse papinho. 
+pr	- Traz o casal. - Acaba a tua atuação. 
+ro	- Să vină perechea! - Încheie-ți numărul! 
+sp-eu	- Que salga la pareja. - Sí, corta el rollo. 
+sp	- Que venga la pareja. - Deja de actuar. 
+sv	-Ta ut brudparet. -Avsluta ditt nummer. 
+th	- เชิญบ่าวสาวออกมาเลย | - หยุดแสดงได้แล้ว | 
+tr	-Çifti çağır. -Standup'ı bırak. 
+vi	- Mời cặp đôi ra đi. | - Đừng có diễn nữa. | 
+zh-long	-請新人出場 -別再表演了 
+zh-short	-快让那对夫妻出场吧 -你别在那儿演了 
+ja	引っ込め！ | 
+

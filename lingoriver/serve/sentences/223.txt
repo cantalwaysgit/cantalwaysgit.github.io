@@ -1,0 +1,40 @@
+en	I thought you were the king of Hollywood? | 
+ar	&rlm;‏‏- أنت ملك "هوليوود". | &rlm;‏- لم أقل هذا أبداً.‏ | 
+da	-Du er kongen af Hollywood. -Det har jeg aldrig sagt. 
+el	-Είσαι ο Βασιλιάς του Χόλιγουντ. -Δεν είπα κάτι τέτοιο. 
+fi	-Olet Hollywoodin kuningas. -En ole sanonut niin. 
+fr	- Tu es le roi d'Hollywood, non ? - J'ai jamais dit ça. 
+he	&rlm;‏‏אתה המלך של הוליווד. | &rlm;‏-מעולם לא אמרתי את זה.‏ | 
+id	- Kukira kau Raja Hollywood. - Aku tak bilang begitu. 
+it	- Ma tu sei il re di Hollywood. - Non l'ho mai detto. 
+ko	- 할리우드의 왕이시잖아요 | - 그런 말 한 적 없어 | 
+nl	Je bent de koning van Hollywood. -Heb ik nooit gezegd. 
+no	-Du er kongen av Hollywood. -Det har jeg aldri sagt. 
+pl	- Jesteś królem Hollywoodu. - Pierwsze słyszę. 
+pr-br	-É o rei de Hollywood. -Eu nunca disse isso. 
+pr	- Pensava que eras o rei de Hollywood. - Nunca disse isso. 
+ro	- Ești regele Hollywoodului. - N-am zis niciodată asta. 
+ru	-Вы же король Голливуда. -Я этого не говорил. 
+sp	- Eres el rey de Hollywood. - Yo nunca dije eso. 
+sp-eu	- ¿No eres el rey de Hollywood? - Yo nunca he dicho eso. 
+sv	-Du är ju kungen av Hollywood. -Har jag aldrig sagt. 
+th	- คุณเป็นราชาฮอลลีวูด | - ฉันไม่เคยพูดอย่างนั้น | 
+tr	-Sen Hollywood'un kralısın. -Hiç öyle bir şey demedim. 
+vi	- Chú là vua Hollywood mà. | - Chú không bao giờ nói thế. | 
+zh-long	-你不是好萊塢之王？ -我沒說喔 
+zh-short	-你可是好莱坞国王 -我可没这么说过 
+ja	ハリウッドの王様が？ | 
+
+el	ΓΚΟΥΡΟΥ 
+es	GURÚ 
+he	‫- גורו -‬ | 
+id	GURU 
+ja	&lrm;“グル” | 
+ko	&lrm;"구루" | 
+ru	ГУРУ 
+th	&lrm;(กูรู) | 
+uk	«ГУРУ» 
+vi	&lrm;SƯ PHỤ. | 
+zh-long	（大師） 
+zh-short	（大师） 
+

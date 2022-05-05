@@ -1,0 +1,27 @@
+ru	Мы будем внимательнее. 
+ar	&rlm;‏سوف نكون حذرين. اتفقنا؟‏ | 
+da	Vi holder øjnene på vejen nu. Okay? 
+el	Θα έχουμε το νου μας, εντάξει; 
+en	We're gonna keep our eyes | on the road. Okay? | 
+fi	Me pysymme tällä kertaa skarppina. 
+fr	On va veiller à ce que tout marche bien. 
+he	&rlm;‏נשמור את העיניים על הדרך, בסדר?‏ | 
+id	Kita harus fokus, paham? 
+it	Cerchiamo di essere concentrati. Va bene? 
+ko	이번에는 제대로 하자 | 알았지? | 
+nl	We letten goed op, oké? 
+pl	A my będziemy bardziej uważać. 
+pr-br	Vamos ficar atentos desta vez. Está bem? 
+pr	Nós vamos estar atentos. Está bem? 
+ro	Noi o să fim atenți aici. Bine? 
+sp-eu	Esta vez estaremos atentos. ¿Vale? 
+sp	Vamos a prestar atención. ¿Sí? 
+sv	Vi ska hålla ögonen på vägen. 
+th	เราจะระวังให้ทางนี้ โอเคไหม | 
+tr	Gözümüzü dört açacağız. Tamam mı? 
+vi	Chúng tôi sẽ theo dõi cả quá trình. | Được chứ? | 
+zh-long	這次要注意一點，好嗎？ 
+zh-short	我们会小心谨慎的 好吗？ 
+ja	こっちも | しっかり気を配る | 
+no	Vi skal holde øynene på veien. Ok? 
+

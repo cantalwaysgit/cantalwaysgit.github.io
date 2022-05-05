@@ -1,0 +1,27 @@
+ru	Например? 
+ar	&rlm;‏‏- مثل ماذا؟ | &rlm;‏- مثل شطائر لحم الموظ.‏ | 
+da	-Hvad? -For eksempel elgburgere. 
+el	-Σαν τι; -Τα χάμπουργκερ με άλκη. 
+en	-Like what? | -Like moose burgers. | 
+fi	-Mitä esimerkiksi? -Hirvenlihapurilaisia. 
+fr	- Genre quoi ? - Des steaks d'élan. 
+he	&rlm;‏‏כמו מה? | &rlm;‏-כמו מוס בורגר.‏ | 
+it	- Per esempio? - Gli hamburger di alce. 
+ko	- 그게 뭔데요? | - 무스 버거 같은 거 | 
+nl	Zoals? -Elandburgers. 
+no	-Som hva da? -Elgburgere. 
+pl	- O czym? - O burgerach z łosia. 
+pr-br	-Como o quê? -Como hambúrgueres de alce. 
+pr	- O quê? - Hambúrgueres de alce, por exemplo. 
+ro	- La ce? - La hamburgeri de elan? 
+sp	- ¿Como qué? - Hamburguesas de alce. 
+sp-eu	- ¿Como qué? - ¿Hamburguesas de alce? 
+sv	-Som vadå? -Som älghamburgare. 
+th	- อย่างอะไร | - อย่างเบอร์เกอร์กวาง | 
+tr	-Ne gibi? -Geyik etli hamburger gibi. 
+vi	- Như là gì? | - Bánh burger nai sừng tấm. | 
+zh-long	-比如說？ -比如說麋鹿肉漢堡 
+zh-short	-比如？ -比如驼鹿肉汉堡 
+id	- Misalnya apa? - Hamburger rusa. 
+ja	例えば？ | 
+

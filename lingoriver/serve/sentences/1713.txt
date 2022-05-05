@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- إنه يتحدث إلي. | &rlm;‏- أيتحدث إليك؟‏ | 
+da	-Han taler til mig. -Taler han til dig? 
+el	-Σ' εμένα μιλάει. -Σ' εσένα; 
+en	-He's talking to me. | -He's talking to you? | 
+fi	-Hän puhuu minulle. -Sinulleko? 
+fr	- Il me parle à moi. - Ah bon ? 
+he	&rlm;‏‏הוא מדבר אליי. | &rlm;‏-הוא מדבר אליך?‏ | 
+id	- Dia bicara kepadaku. - Kepadamu? 
+it	- Sta parlando con me. - Sta parlando con te? 
+ko	- 저한테 말하는 거예요 | - 그래? | 
+nl	Hij heeft het tegen mij. -Tegen jou? 
+no	-Han snakker til meg. -Snakker han til deg? 
+pl	- On mówi do mnie. - Do ciebie? 
+pr-br	-Ele está falando comigo. -Está falando com você? 
+pr	- Ele está a falar comigo. - Contigo? 
+ro	- Vorbea cu mine. - Vorbea cu tine? 
+ru	-Это он мне. -Это он тебе? 
+sp	- Está hablándome a mí. - ¿Te está hablando a ti? 
+sp-eu	- Está hablando conmigo. - ¿Habla contigo? 
+sv	-Han pratar med mig. -Pratar han med dig? 
+th	- เขาพูดกับฉัน | - พูดกับนายเหรอ | 
+tr	-Benimle konuşuyor. -Seninle mi? 
+vi	- Anh ta đang nói với tôi. | - Anh ta nói với anh à? | 
+zh-long	-他在跟我講話 -這樣呀？ 
+zh-short	-他是在跟我讲话 -他在跟你讲话？ 
+ja	俺に言ってる | 
+

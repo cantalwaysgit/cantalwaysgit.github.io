@@ -1,0 +1,29 @@
+ru	Как ты только это терпишь. 
+id	- Aku tidak tahu caramu melakukannya. - Lakukan apa? 
+ja	よく決めたね | 
+nl	Ik snap niet hoe je het doet. 
+ar	&rlm;‏‏- لا أعرف كيف تقومين بالأمر. | &rlm;‏- أفعل ماذا؟‏ | 
+el	-Δεν ξέρω πώς τα καταφέρνεις. -Από ποια άποψη; 
+en	-I don't know how you do it. | -Do what? | 
+fi	-En tajua, miten kestät sitä. -Mitä? 
+fr	- Je sais pas comment tu fais. - Quoi donc ? 
+he	&rlm;‏‏אני לא יודע איך את עושה את זה. | &rlm;‏-עושה מה?‏ | 
+it	- Non so come tu faccia. - A fare cosa? 
+pl	- Jak ty to robisz? - Co? 
+pr-br	-Não sei como consegue. -Consigo o quê? 
+pr	- Não sei como consegues. - O quê? 
+ro	- Nu știu cum reușești. - Ce să reușesc? 
+sp-eu	- No sé cómo lo haces. - ¿El qué? 
+sp	- No sé cómo lo haces. - ¿Qué cosa? 
+th	- ผมไม่รู้ว่าคุณทำได้ยังไง | - ทำอะไร | 
+tr	-Nasıl yapıyorsun, bilmiyorum. -Neyi? 
+vi	- Tôi không biết cô làm thế nào. | - Làm gì cơ? | 
+zh-long	-真不曉得妳怎麼辦到的 -辦到什麼？ 
+zh-short	-我不知道你是怎么做到的 -做什么？ 
+ko	- 어떻게 하시는지 모르겠어요 | - 뭘요? | 
+no	-Jeg vet ikke hvordan du gjør det. -Hva da? 
+da	-Jeg ved ikke, hvordan du gør det. -Gør hvad? 
+sv	-Jag fattar inte hur du gör det. -Gör vadå? 
+ja	何を？ | 
+ru	Что? 
+

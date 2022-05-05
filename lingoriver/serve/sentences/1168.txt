@@ -1,0 +1,27 @@
+id	Ada pertemuan dengan publisis. 
+ru	У нас встреча с пиарщиками. 
+ar	&rlm;‏لدينا اجتماعات وكلاء دعاية.‏ | 
+da	Vi har møder med PR-folk. 
+el	Θα συναντήσουμε υπευθύνους δημοσίων σχέσεων. 
+en	We've got publicist meetings. | 
+fi	Tapaamme PR-edustajia. 
+fr	On rencontre des attachés de presse. 
+he	&rlm;‏יש לנו פגישות עם יחצ"נים.‏ | 
+it	Dobbiamo vederci con degli addetti stampa. 
+ko	홍보 담당자랑 미팅이 있거든요 | 
+nl	Een afspraak met publiciteitsagenten. 
+no	Vi skal møte PR-konsulenter. 
+pl	Mamy spotkania z agentami prasowymi. 
+pr-br	Temos reuniões com assessores de imprensa. 
+pr	Temos reuniões publicitárias. 
+ro	Avem întâlniri cu editorii. 
+sp-eu	Tenemos reuniones con los publicistas. 
+sp	Tengo reuniones con publicistas. 
+sv	Vi har möten med reklamagenter. 
+th	เรามีประชุมกับนักประชาสัมพันธ์ | 
+tr	Reklamcılarla toplantımız var. 
+vi	Ta có buổi họp báo. | 
+zh-long	我們要跟公關開會 
+zh-short	我们有宣传会 
+ja	ＰＲ担当と会議が | 
+

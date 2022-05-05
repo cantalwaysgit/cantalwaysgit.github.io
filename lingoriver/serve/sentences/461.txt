@@ -1,0 +1,28 @@
+ja	電話は？ | 
+id	- Kau sudah menghubunginya? - Ya, sudah. 
+ru	-Ты ему звонил? -Да, звонил. 
+ar	&rlm;‏‏- هل اتصلت به؟ | &rlm;‏- أجل، اتصلت به.‏ | 
+da	-Ringede du til ham? -Ja. 
+el	-Του τηλεφώνησες; -Φυσικά. 
+en	-Did you call him? | -Yeah, I called him. | 
+fi	-Soititko hänelle? -Soitin. 
+fr	- Tu l'as appelé ? - Oui. 
+he	&rlm;‏‏התקשרת אליו? | &rlm;‏-כן, התקשרתי אליו.‏ | 
+it	- L'hai chiamato? - Sì, l'ho chiamato. 
+ko	- 전화했어? | - 그래, 전화했지 | 
+nl	Heb je hem gebeld? 
+no	-Ringte du ham? -Ja, jeg ringte ham. 
+pl	- Dzwoniłeś do niego? - Tak. 
+pr-br	-Ligou para ele? -Sim, liguei para ele. 
+pr	- Ligaste-lhe? - Sim, liguei. 
+ro	- L-ai sunat? - Da, l-am sunat. 
+sp-eu	- ¿Le has llamado? - Sí. 
+sp	- ¿Lo llamaste? - Sí, lo llamé. 
+sv	-Ringde du honom? -Ja, det gjorde jag. 
+th	- โทรไปหาเขาหรือยัง | - ใช่ โทรแล้ว | 
+tr	-Onu aradın mı? -Evet, aradım. 
+vi	- Gọi anh ta chưa? | - Tôi gọi rồi. | 
+zh-long	-你打給他了嗎？ -我打給他了 
+zh-short	-你给他打电话了吗？ -打了 
+ja	しておいた | 
+

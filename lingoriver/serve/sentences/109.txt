@@ -1,0 +1,58 @@
+ru	Дамы и господа 
+ar	&rlm;‏‏سيدات وسادة ساحة | &rlm;‏"إل سوغوندو موتور هوم كورت"،‏ | 
+da	Mine damer og herrer i El Segundo Motor Home Court, 
+el	Κυρίες και κύριοι της αυλής τροχοσπίτων Ελ Σεγούντο, 
+en	Ladies and gentlemen | of El Segundo Motor Home Court, | 
+fi	Asuntovaunukylä El Segundon arvoisa väki, 
+fr	Mesdames et messieurs du parc de mobile homes El Segundo, 
+he	&rlm;‏‏גבירותיי ורבותיי, | &rlm;‏מ"אל סגונדו מוטור הום קורט",‏ | 
+id	Para hadirin, di El Segundo Motor Home Court, 
+it	Signore e signori, presenti al Motor Home Court di El Segundo, 
+ko	엘 세군도 캠핑카 지역 | 주민 여러분 | 
+nl	Dames en heren van het El Segundo Motor Home Court... 
+no	Mine damer og herrer i El Segundo Motor Home Court, 
+pl	Proszę państwa, z El Segundo Motor Home Court, 
+pr-br	Senhoras e senhores, direto do pátio de trailers El Segundo, 
+pr	Senhoras e senhores do Parque de Caravanas El Segundo, 
+ro	Doamnelor și domnilor de la El Segundo Motor Home Court, 
+sp	Damas y caballeros de El Segundo vecindario de caravanas, 
+sp-eu	Damas y caballeros del parque de caravanas El Segundo, 
+sv	Mina damer och herrar, från El Segundo Motor Home Court, 
+th	ท่านสุภาพสตรีสุภาพบุรุษ | แห่งเอลเซกุนโดมอเตอร์โฮมคอร์ต | 
+tr	El Segundo Motor Sahası'ndaki hanımlar ve beyler, 
+vi	Thưa quý khán giả | Sân chơi Motor El Segundo, | 
+zh-long	各位艾賽故都 拖車屋庭院的先生女士們 
+zh-short	埃尔塞贡多移动房屋 场地的各位观众 
+ja	エルセグンドの | 移動住宅展示場へようこそ | 
+ru	из «Эль Сегундо Мотор Хоум Корт»! 
+
+cs	Viděla jsem je odnášet tělo. 
+id	Aku melihat mereka membawa jasadnya. 
+it	Li ho visti portare via il corpo. 
+pt-br	Eu os vi levando o corpo. 
+zh-short	我亲眼看见他们把尸体搬走了 
+es	Los vi llevarse el cuerpo. 
+uk	Я бачила, як забирали тіло. 
+fi	Näin, kun ruumis vietiin pois. | 
+ru	Я видела, как они забрали тело. 
+da	Jeg så dem fjerne liget. | 
+el	Τους είδα να παίρνουν το πτώμα. 
+es-eu	Les vi llevarse el cuerpo. 
+fr	Je les ai vus emmener le corps. 
+he	‫ראיתי אותם לוקחים את הגופה.‬ | 
+hr	Gledala sam kako odnose tijelo. 
+ko	&lrm;시신을 가져가는 걸 봤는데 | 
+ms	Saya nampak mereka ambil mayat itu. 
+nl	Ik zag ze het lichaam meenemen. 
+no	Jeg så dem ta bort liket. 
+pt	Vi-os levarem o corpo. 
+sv	Jag såg dem forsla bort kroppen. 
+th	&lrm;ฉันเห็นตำรวจเอาศพเขาออกไป | 
+tr	Naaşını götürürlerken gördüm. 
+vi	&lrm;Tôi thấy họ mang cái xác đi. | 
+zh-long	我看著他們把屍體帶走 
+hu	Láttam, hogy elvitték a holttestet. 
+ro	Și i-am văzut când i-au luat trupul. 
+ja	&lrm;遺体を運び出すのも見た | 
+en	I saw them take the body away. 
+

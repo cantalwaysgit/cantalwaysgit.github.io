@@ -1,0 +1,27 @@
+id	Setiap Sandy mendapat klien baru, 
+ru	Найдя нового клиента, 
+ar	&rlm;‏عندما يوقع "ساندي" عقداً مع زبون،‏ | 
+da	Når Sandy fik nye klienter, 
+el	Όποτε ο Σάντι υπέγραφε έναν πελάτη, 
+en	Whenever Sandy signed a new client, | 
+fi	Kun Sandy otti asiakkaan kirjoilleen, 
+fr	Quand Sandy signait avec un client, 
+he	&rlm;‏בכל פעם שסנדי החתים לקוח,‏ | 
+it	Quando Sandy trovava un nuovo cliente 
+nl	Als Sandy een nieuwe cliënt had... 
+no	Når Sandy fikk en ny klient, 
+pl	Kiedy Sandy zdobywał klienta, 
+pr-br	Sempre que Sandy arrumava um cliente, 
+pr	Quando o Sandy captava um cliente, 
+ro	Când Sandy lua un talent nou, 
+sp	Cuando Sandy firmaba con un cliente, 
+sp-eu	Cuando Sandy conseguía un cliente nuevo, 
+sv	När Sandy fått en ny klient, 
+th	ทุกครั้งที่แซนดี้เซ็นสัญญารับลูกค้า | 
+tr	Sandy bir sanatçıya imza attırınca 
+vi	Mỗi khi Sandy ký với khách hàng mới, | 
+zh-long	山迪一旦簽下新人 
+zh-short	每次桑迪签了新客户 
+ko	샌디는 새 고객과 계약하면 | 
+ja	彼と契約すると― | 
+

@@ -1,0 +1,51 @@
+ar	&rlm;‏أتمزحين؟‏ | 
+da	Hold op. 
+el	Πλάκα κάνεις; 
+en	[Sandy] Are you kidding? | 
+fi	Älä höpsi. 
+fr	C'est rien, arrêtez. 
+he	&rlm;‏את מתלוצצת?‏ | 
+id	Kau bercanda? 
+it	Stai scherzando? 
+ko	장난해요? | 
+no	Tuller du? 
+pl	Żartujesz? 
+pr-br	Está brincando? 
+pr	Estás a brincar? 
+ro	Glumești? 
+ru	Серьезно? 
+sp	¿Bromeas? 
+sp-eu	¿Es broma? 
+sv	Skämtar du? 
+th	ล้อเล่นหรือเปล่า | 
+tr	Şaka mı bu? 
+vi	Cô đùa đấy à? | 
+zh-long	開什麼玩笑？ 
+zh-short	开什么玩笑？ 
+nl	Ben je gek? Ik zat mijn hele jeugd in de gevangenis. 
+ja	構わないさ | 僕は刑務所で育ったんだ | 
+ar	&rlm;‏قضيت طفولتي بأكملها في السجن.‏ | 
+da	Jeg sad i fængsel hele min barndom. 
+el	Πέρασα τα παιδικά μου χρόνια στη φυλακή. 
+en	-I was in prison my entire childhood. | -[sighs] | 
+fi	Vietin lapsuuteni vankilassa. 
+fr	J'ai passé mon enfance en prison. 
+he	&rlm;‏הייתי בכלא כל הילדות שלי.‏ | 
+it	Ho passato tutta l'infanzia in prigione. 
+ko	전 어린 시절 내내 | 감옥에 있었어요 | 
+no	Jeg tilbrakte hele barndommen i fengsel. 
+pl	Całe dzieciństwo spędziłem w więzieniu. 
+pr-br	Fiquei na cadeia toda a minha infância. 
+pr	Eu passei a infância na prisão. 
+ro	Am stat la închisoare toată copilăria. 
+sp-eu	Pasé toda la infancia en la cárcel. 
+sp	Pasé toda mi niñez en prisión. 
+sv	Jag satt i fängelse hela barndomen. 
+th	ผมอยู่ในคุกตลอดช่วงวัยเด็ก | 
+tr	Çocukluğumu hapishanede geçirdim. 
+vi	Cả tuổi thơ của tôi ở trong tù. | 
+zh-long	我整個童年都在坐牢 
+zh-short	我就是在监狱里长大的 
+id	Aku habiskan masa kecilku di penjara. 
+ru	Я все детство провел в тюрьме. 
+

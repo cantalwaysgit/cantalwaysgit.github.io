@@ -1,0 +1,57 @@
+el	Θα πηδήξει όντως πάνω από όλα αυτά τα τροχόσπιτα; 
+sv	Ska han verkligen hoppa över alla trailrarna? 
+ja	あんな距離 飛べるのか？ | 
+pr-br	Ele vai mesmo saltar sobre todos aqueles trailers? 
+da	Har han tænkt sig at springe over de campingvogne? 
+ar	&rlm;‏هل سيقفز حقاً فوق كل تلك المقطورات؟‏ | 
+en	He's really gonna jump | over all those trailers? | 
+fi	Hyppääkö hän tosiaan vaunujen yli? 
+fr	Il va sauter au-dessus de ces caravanes ? 
+he	&rlm;‏הוא באמת הולך לקפוץ מעל כל הקרוונים האלה?‏ | 
+id	Dia sungguh akan melompati semua karavan itu? 
+it	Davvero salterà tutte quelle roulotte? 
+ko	정말 트레일러를 | 전부 뛰어넘을 건가요? | 
+nl	Gaat hij echt over al die trailers springen? 
+no	Skal han virkelig hoppe over alle vognene? 
+pl	Naprawdę przeskoczy te przyczepy? 
+pr	Ele vai mesmo saltar por cima daquelas caravanas todas? 
+ro	Chiar o să sară peste toate rulotele alea? 
+ru	Он правда перепрыгнет все эти трейлеры? 
+sp-eu	¿En serio va a saltar todos esos remolques? 
+sp	¿Va a saltar todos esos tráileres? 
+th	เขาจะกระโดดข้าม | รถพ่วงทั้งหมดนั่นได้จริงๆ เหรอ | 
+tr	O kadar karavanın üzerinden atlayacak mı sahiden? 
+vi	Anh ta thực sự | sẽ nhảy qua mấy xe moóc đó à? | 
+zh-long	他真打算飛越那堆拖車？ 
+zh-short	他真要飞越所有这些移动房屋吗？ 
+
+es	Claro. 
+el	Φυσικά. 
+pt-br	Claro. 
+uk	Авжеж. 
+fi	Ymmärrän. | 
+cs	Jasně. 
+da	Sikkert. | 
+en	Sure. 
+es-eu	Claro. 
+fr	Bien sûr. 
+he	‫כמובן.‬ | 
+hr	Jasno. 
+hu	Persze. 
+id	Tentu. 
+it	Certo. 
+ja	&lrm;当然よね | 
+ko	&lrm;물론이죠 | 
+ms	Memanglah. 
+nl	Natuurlijk. 
+no	Jo da. 
+pt	Pois claro. 
+ro	Sigur. 
+sv	Visst. 
+th	&lrm;ได้ค่ะ | 
+tr	Tabii. 
+vi	&lrm;Chắc chắn rồi. | 
+zh-long	好 
+zh-short	那是当然 
+ru	Ясно. 
+

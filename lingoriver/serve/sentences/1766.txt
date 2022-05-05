@@ -1,0 +1,30 @@
+id	Kumohon, Tuhan. 
+ja	神様 お願い | 
+ru	Господи! 
+ar	&rlm;‏رجاءً يا رب، أحتاج إلى معجزة.‏ | 
+da	Gud, jeg har brug for et mirakel. 
+el	Σε παρακαλώ, Θεέ μου. Χρειάζομαι ένα θαύμα. 
+en	Please, God, I need a miracle. | 
+fi	Auta, Jumala. Tarvitsen ihmeen. 
+fr	Seigneur, j'ai besoin d'un miracle. 
+he	&rlm;‏בבקשה, אלוהים, אני צריך נס.‏ | 
+it	Dio, ti prego, mi serve un miracolo. 
+nl	Alsjeblieft, God. Ik heb een wonder nodig. 
+no	Vær så snill, Gud, jeg trenger et mirakel. 
+pl	Proszę cię, Boże, potrzebuję cudu. 
+pr-br	Por favor, Deus, eu preciso de um milagre. 
+pr	Por favor, Deus, preciso de um milagre. 
+ro	Te rog, Doamne! Am nevoie de un miracol. 
+sp-eu	Por favor, Dios. Necesito un milagro. 
+sp	Por favor, Dios, necesito un milagro. 
+sv	Jag behöver ett mirakel. 
+th	ได้โปรด พระเจ้า ผมต้องการปาฏิหาริย์ | 
+tr	Lütfen Tanrım, bir mucizeye ihtiyacım var. 
+vi	Cầu xin Chúa, con cần một phép màu. | 
+zh-long	拜託，老天，我需要奇蹟 
+zh-short	求你 上帝 我需要奇迹 
+ko	하느님, 기적이 필요합니다 | 
+id	Aku butuh mukjizat. 
+ja	奇跡を起こして | 
+ru	Мне нужно чудо. 
+

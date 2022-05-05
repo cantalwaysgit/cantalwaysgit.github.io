@@ -1,0 +1,27 @@
+ar	&rlm;‏يا لها من لحظة رائعة.‏ | 
+da	Hvor er det vidunderligt . 
+el	Τι υπέροχη στιγμή... 
+en	♪ What a wonderful moment ♪ | 
+fi	Hieno hetki 
+fr	Quel moment merveilleux 
+he	&rlm;‏איזה רגע נהדר.‏ | 
+id	Sungguh momen luar biasa 
+it	Che momento meraviglioso. 
+ko	정말 멋진 순간이네요 | 
+nl	wat een prachtig moment 
+no	For et herlig øyeblikk 
+pl	Cóż za cudowna chwila. 
+pr-br	Que momento maravilhoso 
+pr	Que momento maravilhoso 
+ro	Ce moment minunat! 
+ru	Какой чудесный момент! 
+sp-eu	Qué momento más maravilloso 
+sp	Qué momento maravilloso 
+sv	Vilken underbar stund 
+th	ช่างเป็นชั่วขณะแสนวิเศษ | 
+tr	Ne harika bir an 
+vi	Một khoảnh khắc tuyệt vời. | 
+zh-long	多麼美妙的時刻 
+zh-short	多么美好的一刻 
+ja	すばらしい瞬間 | 
+

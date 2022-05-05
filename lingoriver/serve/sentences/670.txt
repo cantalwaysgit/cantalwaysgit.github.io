@@ -1,0 +1,27 @@
+ja	こんなステキな歌声 | 初めてだ | 
+ru	Ты взяла ноты, о которых я даже не знал. 
+id	Kau mencapai nada yang tidak kuketahui. 
+ar	&rlm;‏‏كنت تقدمين نغمات | &rlm;‏لم أعلم أنه تم اختراعها من قبل.‏ | 
+da	Du rammer toner, som jeg ikke vidste var opfundet. 
+el	Πάτησες σε νότες που δεν ήξερα καν ότι έχουν εφευρεθεί. 
+en	You were hitting notes | I didn't know were invented yet. | 
+fi	Lauloit nuotteja, joita en ole ikinä kuullut. 
+fr	Tu as chanté des notes dont j'ignorais l'existence. 
+he	&rlm;‏הגעת לצלילים שלא ידעתי שכבר המציאו אותם.‏ | 
+it	Ho sentito delle note che neanche sapevo esistessero. 
+ko	있는지도 몰랐던 | 음까지 올라가네 | 
+nl	Je haalt noten waarvan ik het bestaan niet eens wist. 
+no	Du traff noter jeg ikke visste var oppfunnet. 
+pl	Nawet nie wiedziałem, że istnieją takie nuty. 
+pr	Acertaste em notas que nem sabia que tinham sido inventadas. 
+pr-br	Você atinge notas que ainda nem foram inventadas. 
+ro	Ai atins note despre care nici nu știam că au fost inventate. 
+sp-eu	Has cantado notas que ni siquiera sabía que existían. 
+sp	Llegas a notas que no sabía que existían. 
+sv	Du sjöng toner som jag inte ens visste fanns. 
+th	ร้องโน้ตที่ | ผมไม่รู้ว่าคิดกันขึ้นมาแล้ว | 
+tr	Varlığından haberim bile olmayan notalara çıktın. 
+vi	Cô chơi những nốt nhạc | tôi còn không biết là có tồn tại. | 
+zh-long	妳唱的音我都不知道發明了沒 
+zh-short	你唱出了我都不知道存在的音符 
+

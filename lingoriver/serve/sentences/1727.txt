@@ -1,0 +1,22 @@
+en	[groans] No! | 
+ko	안 돼! | 
+ar	&rlm;‏لا!‏ | 
+da	Nej! 
+el	Όχι! 
+he	&rlm;‏לא!‏ | 
+it	No! 
+pl	Nie! 
+pr-br	Não! 
+pr	Não! 
+ro	Nu! 
+ru	Нет! 
+sp-eu	¡No! 
+sp	¡No! 
+sv	Nej! 
+th	ไม่นะ | 
+tr	Hayır! 
+vi	Không! | 
+zh-long	不要！ 
+zh-short	不！ 
+id	Tidak! 
+

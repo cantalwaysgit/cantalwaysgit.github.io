@@ -1,0 +1,27 @@
+id	- Benar? - Itu sangat menyedihkan. 
+ja	悲しいわね | 
+ar	&rlm;‏ذاك محزن جداً.‏ | 
+da	Det er trist. 
+el	Είναι λυπηρό. 
+en	That is so sad. | 
+fi	Surullista. 
+fr	C'est trop triste. 
+he	&rlm;‏זה כל כך עצוב.‏ | 
+it	Che tristezza. 
+nl	Wat triest. 
+no	Det er så trist. 
+pl	Smutne. 
+pr-br	Isso é muito triste. 
+pr	Isso é tão triste. 
+ro	Ce trist! 
+sp	Es muy triste. 
+sp-eu	Eso es muy triste. 
+sv	Det är så sorgligt. 
+th	น่าเศร้าจัง | 
+tr	Çok üzücü. 
+vi	Thế thì buồn quá. | 
+zh-long	真感傷 
+zh-short	真令人难过 
+ru	Как это грустно. 
+ko	참 슬프네요 | 
+

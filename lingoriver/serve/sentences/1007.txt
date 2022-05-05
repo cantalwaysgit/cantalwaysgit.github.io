@@ -1,0 +1,52 @@
+id	- Selamat, Courtney. - Itu karena manajer kita hebat. 
+ar	&rlm;‏‏- تهانينا. | &rlm;‏- لدينا مدير أعمال عظيم.‏ | 
+da	-Tillykke. -Vi har en god manager. 
+el	-Συγχαρητήρια. -Έχουμε καλό μάνατζερ. 
+en	-Congratulations, Courtney. | -Oh, well, we got a great manager. | 
+fi	-Onneksi olkoon. -Meillä on loistava manageri. 
+fr	- Félicitations. - On a un super imprésario. 
+he	&rlm;‏‏ברכותיי. | &rlm;‏-טוב, יש לנו מנהל נהדר.‏ | 
+it	- Congratulazioni. - Beh, abbiamo un gran manager. 
+nl	Gefeliciteerd. -We hebben een geweldige manager. 
+no	-Gratulerer. -Vi har en dyktig manager. 
+pl	- Gratulacje. - Mamy świetnego menedżera. 
+pr-br	-Parabéns. -Temos um ótimo empresário. 
+pr	- Parabéns. - Temos um ótimo empresário. 
+ro	- Felicitări! - Avem un impresar bun. 
+sp-eu	- Enhorabuena. - Bueno, tenemos un buen mánager. 
+sp	- Felicitaciones. - Tenemos un gran representante. 
+sv	-Grattis. -Vi har en bra manager. 
+th	- ยินดีด้วยนะ | - ก็เรามีผู้จัดการเยี่ยม | 
+tr	-Tebrikler. -Harika bir menajerimiz var. 
+vi	- Chúc mừng chị. | - Ta có một nhà quản lý tuyệt vời. | 
+zh-long	-恭喜妳 -我們的經紀人很棒 
+zh-short	-恭喜你 -我们有个很棒的经纪人 
+ru	-Поздравляю. -У нас отличный менеджер. 
+ko	- 축하해요 | - 매니저가 훌륭하시잖아요 | 
+ja	マネジャーの教えのおかげよ | “心で歌え” | 
+ar	&rlm;‏يطلب دوماً أن أغني بشغف.‏ | 
+da	Han siger altid: "Syng fra hjertet." 
+el	Μου είπε να τραγουδάω μέσα από την καρδιά μου. 
+en	He told me to always sing from the heart. | 
+fi	Hän neuvoo minua laulamaan sydämestä. 
+fr	Il me dit de chanter avec mon cœur. 
+he	&rlm;‏הוא אמר לי לשיר תמיד מהלב.‏ | 
+it	Mi dice di cantare sempre con il cuore. 
+nl	Hij zegt dat ik altijd moet zingen met m'n hart. 
+no	Han sier jeg alltid må synge fra hjertet. 
+pl	Każe mi śpiewać prosto z serca. 
+pr-br	Ele sempre diz para cantar com o coração. 
+pr	Ele disse-me para cantar sempre com o coração. 
+ro	Mi-a zis să cânt mereu din suflet. 
+sp-eu	Siempre dice que cante desde el corazón. 
+sp	Me dijo que cante con el corazón. 
+sv	Han säger att alltid sjunga från hjärtat. 
+th	เขาบอกให้ฉันร้องเพลงจากใจเสมอ | 
+tr	Hep yürekten söyle, diyor. 
+vi	Anh ấy bảo tôi hãy luôn hát bằng trái tim. | 
+zh-long	他跟我說一定要用心唱歌 
+zh-short	他说要始终发自内心地唱 
+id	Dia memintaku bernyanyi sepenuh hati. 
+ru	Он говорит, что надо петь от души. 
+ko	항상 진심으로 | 노래하라고 하셨거든요 | 
+

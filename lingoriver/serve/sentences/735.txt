@@ -1,0 +1,22 @@
+id	Ya. 
+da	Ja. 
+el	Ναι. 
+ar	&rlm;‏أجل.‏ | 
+en	Yes. | 
+he	&rlm;‏כן.‏ | 
+it	Sì. 
+ko	대단하죠 | 
+pl	Tak. 
+pr-br	Sim. 
+pr	Sim. 
+ro	Da! 
+ru	Да. 
+sp-eu	Sí. 
+sp	Sí. 
+sv	Ja. 
+th	ใช่ | 
+tr	Evet. 
+vi	Tuyệt. | 
+zh-long	沒錯 
+zh-short	是的 
+

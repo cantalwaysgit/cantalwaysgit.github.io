@@ -1,0 +1,26 @@
+ar	&rlm;‏يا إلهي.‏ | 
+da	For søren da. 
+el	Θεέ μου. 
+en	My God. | 
+fi	Luoja sentään. 
+fr	La vache. 
+he	&rlm;‏אלוהים.‏ | 
+it	Mio Dio. 
+ko	세상에 | 
+no	Herregud. 
+pl	Boże jedyny. 
+pr-br	Meu Deus. 
+pr	Meu Deus. 
+ro	Dumnezeule! 
+sp	Dios mío. 
+sp-eu	Madre mía. 
+sv	Herregud. 
+th	พระเจ้าช่วย | 
+tr	Aman Tanrım. 
+vi	Chúa ơi. | 
+zh-long	老天 
+zh-short	天啊 
+id	Ya, ampun. 
+ru	Боже... 
+ja	最高だ | 
+

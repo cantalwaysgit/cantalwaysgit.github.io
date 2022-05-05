@@ -1,0 +1,27 @@
+ja	女性もイチコロね | 
+ru	Ты - настоящий донжуан. 
+id	Pasti kau penakluk wanita. 
+ar	&rlm;‏لا بد أنك جذاب جداً للنساء.‏ | 
+da	Du må være damernes ven. 
+el	Πρέπει να έχεις μεγάλη πέραση. 
+en	You must be a real lady-killer. | 
+fi	Olet varmaan melkoinen naistenmies. 
+fr	Tu dois faire tomber toutes les filles. 
+he	&rlm;‏אתה בטח שובר לבבות אמיתי.‏ | 
+it	Devi essere un dongiovanni. 
+ko	여자들이 쉽게 반하겠어요 | 
+nl	Je bent vast een ladykiller. 
+no	Du må være populær hos damene. 
+pl	Musisz mieć powodzenie u kobiet. 
+pr-br	Você deve ser um Don Juan. 
+pr	Deves ser um quebra-corações. 
+ro	Cred că tipele sunt moarte după tine. 
+sp	Debes ser un verdadero seductor. 
+sp-eu	Debes de volverlas locas. 
+sv	Du måste vara en kvinnotjusare. 
+th	คุณคงมีสาวๆ ตอมเยอะแยะ | 
+tr	Tam bir kadın avcısı olmalısın. 
+vi	Anh hẳn là sát gái lắm. | 
+zh-long	你一定是個少女殺手 
+zh-short	你肯定特招女孩子喜欢 
+

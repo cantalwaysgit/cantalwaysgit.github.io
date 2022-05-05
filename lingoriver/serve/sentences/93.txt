@@ -1,0 +1,51 @@
+id	Bisa tutup mulutmu sedikit? 
+pr-br	Pode fechar um pouco a boca? 
+ja	口を閉じて噛(か)めよ | 
+vi	Anh có thể ngậm miệng vào được không? | 
+ru	Вы можете прикрыть рот? 
+ar	&rlm;‏أيمكنك أن تغلق فمك قليلاً؟‏ | 
+da	Gider du lukke munden lidt? 
+el	Μπορείς να κλείσεις το στόμα σου; 
+en	Can you close your mouth | just a little bit? | 
+fi	Voisitko sulkea suusi? 
+fr	Vous pouvez manger la bouche fermée ? 
+he	&rlm;‏אתה יכול לסגור את הפה שלך?‏ | 
+it	Potresti chiudere la bocca? 
+ko	입 좀 닫고 먹으면 안 돼요? | 
+nl	Kan het ook met je mond dicht? 
+no	Kan du lukke munnen? 
+pl	Mógłbyś zamknąć usta? 
+pr	Pode fechar um pouco a boca? 
+ro	Vrei să-ți închizi gura? 
+sp-eu	¿Puede cerrar un poco la boca? 
+sp	¿Puede cerrar un poco la boca? 
+sv	Kan du stänga munnen? 
+th	ช่วยปิดปากหน่อยได้ไหม | 
+tr	Ağzını kapatabilir misin? 
+zh-long	你可以把嘴巴閉起來嗎？ 
+zh-short	你能把嘴闭上吗？ 
+
+it	Una è stata scattata quella notte. 
+ms	Salah satu gambar diambil pada malam itu. 
+cs	Jedna z nich byla z tý noci. 
+el	Η μία τραβήχτηκε το ίδιο βράδυ. 
+en	One of them was taken that night. 
+es-eu	Una se sacó aquella noche. 
+fr	L'une d'elles a été prise cette nuit-là. 
+he	‫אחת מהן צולמה באותו לילה.‬ | 
+hr	Jedna je snimljena te noći. 
+hu	Az egyiket aznap este csinálták. 
+id	Salah satunya diambil malam itu. 
+ja	&lrm;１枚は あの晩に撮られた | 
+ko	&lrm;그중 하나는 그날 밤에 찍은 건데 | 
+no	Et av dem ble tatt den kvelden. 
+pt-br	Uma delas foi tirada naquela noite. 
+pt	Uma delas foi tirada naquela noite. 
+ro	Una fost făcută în seara aia. 
+th	&lrm;มีรูปนึงถ่ายในคืนนั้น | 
+vi	&lrm;Một bức đã được chụp tối đó. | 
+zh-long	是其中一人在那天晚上拍的 
+zh-short	其中一张是那天晚上拍的 
+fi	Yksi niistä oli otettu sinä iltana. | 
+uk	Одне з них зроблене того вечора. 
+

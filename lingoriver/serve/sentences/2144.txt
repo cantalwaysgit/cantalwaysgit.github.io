@@ -1,0 +1,26 @@
+ar	&rlm;‏واعتدنا على الاتصال به في منتصف الليل.‏ | 
+da	Vi ringede til ham midt om natten. 
+el	Του τηλεφωνούσαμε μέσα στη νύχτα. 
+en	and, uh, we used to call him | in the middle of the night. | 
+fi	Soittelimme hänelle keskellä yötä. 
+fr	On s'amusait à l'appeler en pleine nuit. 
+he	&rlm;‏היינו מתקשרים אליו באמצע הלילה.‏ | 
+it	E lo chiamavamo durante la notte. 
+no	Vi pleide å ringe ham midt på natten. 
+pl	Dzwoniliśmy do niego nocami. 
+pr-br	Nós ligávamos para ele de madrugada. 
+pr	Costumávamos ligar-lhe a meio da noite. 
+ro	Îl sunam la miezul nopții. 
+sp-eu	Solíamos llamarle en mitad de la noche. 
+sp	Lo llamábamos a mitad de la noche. 
+sv	Vi brukade ringa honom mitt i natten. 
+th	เราเคยโทรไปหาเขากลางดึก | 
+tr	Gecenin bir yarısı onu arardık. 
+vi	Chúng tôi thường gọi cho anh ta | vào nửa đêm. | 
+zh-long	我們會在大半夜打給他 
+zh-short	我们以前会半夜给他打电话 
+ko	한밤중에 전화하곤 했죠 | 
+id	Kami meneleponnya tengah malam. 
+ja	夜中にかけた | 
+ru	Мы звонили ему посреди ночи. 
+

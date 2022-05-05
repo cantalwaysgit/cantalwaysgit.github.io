@@ -1,0 +1,27 @@
+id	Toko yang cuma jual kopi? Entahlah. 
+ar	&rlm;‏متجر يبيع قهوة وحسب؟ لست متأكداً.‏ | 
+da	En butik, der bare sælger kaffe? Jeg ved nu ikke. 
+el	Μαγαζιά που πουλάνε μόνο καφέ; Δεν ξέρω. 
+en	A store that just sells coffee? | I don't know. | 
+fi	Liikkeitä, joissa myydään vain kahvia? Enpä tiedä. 
+fr	Où on vend que du café ? J'ai des doutes. 
+he	&rlm;‏חנות שרק מוכרת קפה? אני לא יודע.‏ | 
+it	Negozi che vendono solo caffè? Non saprei. 
+ko	그냥 커피만 파는 가게? 글쎄 | 
+no	Butikker som selger bare kaffe? Jeg vet ikke. 
+pl	Sklep, który sprzedaje tylko kawę? No nie wiem. 
+pr-br	Loja que vende só café? Sei lá. 
+pr	Uma loja que só vende café? Não sei. 
+ro	Un local care să vândă numai cafea? Nu știu. 
+sp-eu	¿Tiendas que solo venden café? No sé. 
+sp	¿Una tienda que vende solo café? No lo sé. 
+sv	En butik som bara säljer kaffe? Jag vet inte. 
+tr	Sadece kahve satan bir dükkân mı? Bilmem ki. 
+vi	Một cửa hàng bán cà phê à? Anh không biết. | 
+zh-long	只賣咖啡的店？不曉得耶 
+zh-short	只卖咖啡的商店吗？我不知道 
+nl	Een zaak die alleen koffie verkoopt? Dat werkt niet. 
+ja	コーヒーだけを売る店なんて | 流行らなくて苦労する | 
+ru	Лавка, где продают кофе? Не знаю. 
+th	ร้านที่ขายแต่กาแฟเหรอ ไม่รู้สิ | 
+

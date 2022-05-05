@@ -1,0 +1,27 @@
+ja	最低！ | 
+id	Bajingan! 
+ru	-Свинья какая! -Он не свинья. Я свинья. 
+ar	&rlm;‏يا له من سافل!‏ | 
+da	Den skid! 
+el	Τι καθίκι! 
+en	That dick! | 
+fi	Mikä nuija! 
+fr	Quel connard ! 
+he	&rlm;‏איזה שמוק!‏ | 
+it	Che stronzo! 
+nl	Die zak. 
+no	Den kødden! 
+pl	Fiut! 
+pr-br	Que pilantra! 
+pr	Que imbecil! 
+ro	Ce ticălos! 
+sp-eu	¡Menudo capullo! 
+sp	¡Qué desgraciado! 
+sv	Vilket as! 
+th	คนบ้าอะไร | 
+tr	Sersem herif! 
+vi	Đồ tồi! | 
+zh-long	爛人！ 
+zh-short	真是个混蛋！ 
+ko	못된 놈! | 
+

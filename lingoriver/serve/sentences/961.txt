@@ -1,0 +1,51 @@
+ar	&rlm;‏أجل، إنه لطيف.‏ | 
+da	Ja, det er pænt. 
+el	Καλό είναι. 
+en	Yeah, it's nice. It's nice. | 
+fi	Ihan hieno. 
+fr	Oui, c'est sympa. 
+he	&rlm;‏כן, הוא יפה.‏ | 
+it	Sì, bella casa. 
+no	Ja, det er fint. 
+pl	Całkiem ładny. 
+pr-br	Sim, é legal. 
+pr	Sim, é porreira. 
+ro	Da, e drăguț. 
+sp-eu	Sí, es agradable. 
+sp	Sí, es lindo. 
+sv	Jo, det är trevligt. 
+th	ใช่ มันสวย มันดี | 
+tr	Evet, hoş. Hoş. 
+vi	Phải, đẹp quá. | 
+zh-long	對呀，挺不賴的 
+zh-short	是啊 很不错 
+id	Ya, rumahnya bagus. 
+ru	Да, симпатичный. 
+ko	그래, 좋네 | 
+ja	ヴェニスの屋敷は | もう少し地味だった | 
+id	Yang di Venice tidak sebagus ini. 
+ko	베니스에 살 때도 | 이 정도는 아니었어 | 
+ar	&rlm;‏لم يكن منزله في "فينيسيا" بهذه الروعة.‏ | 
+el	Το σπίτι στο Βένις ήθελε περισσότερη προσπάθεια. 
+en	His one in Venice wasn't trying as hard. | 
+fi	Venicen talo ei ollut yhtä prameileva. 
+fr	Sa maison à Venice faisait moins tape-à-l'œil. 
+he	&rlm;‏זה שהיה לו בווניס לא התאמץ כל כך.‏ | 
+it	Quella di Venice non era a questo livello. 
+nl	Voor dat in Venice deed hij niet zo z'n best. 
+pl	Ten w Venice był mniej wypasiony. 
+pr	A que ele tinha em Venice não era assim. 
+pr-br	A casa dele em Venice não era tão legal. 
+ro	În Venice n-a investit așa de mult. 
+ru	В Венис было не так круто. 
+sp-eu	Su casa de Venice no era tan pretenciosa. 
+sp	Su casa de Venice no era tan pretenciosa. 
+th	บ้านที่เวนิซของเขาไม่เว่อร์ขนาดนี้ | 
+tr	Venice'teki bu kadar gösterişli değildi. 
+vi	Nhà của anh ta ở Venice | cũng không xa hoa thế này. | 
+zh-long	他在威尼斯海灘的舊家差了點 
+zh-short	他在威尼斯的房子可没这么夸张 
+da	Hans hus i Venice var ikke lige så flot. 
+sv	Huset i Venice var inte lika överdådigt. 
+no	Huset hans i Venice var ikke så krampeaktig. 
+

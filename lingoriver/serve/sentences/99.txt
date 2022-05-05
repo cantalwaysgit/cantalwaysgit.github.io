@@ -1,0 +1,82 @@
+ja	“チリズ”に電話して― | 
+id	Aku sudah bicara ke Chili's. 
+sp	Hablé con Chili's. 
+ar	&rlm;‏‏تحدثت مع مطعم "تشيليز". | &rlm;‏أظنني أستطيع أن أحجز طاولة الزاوية لنا‏ | 
+da	Jeg ringede til Chili's. Vi kan få et hjørnebord 
+el	Μίλησα με το Τσίλις. Ίσως μπορέσω να μας κλείσω το γωνιακό τραπέζι 
+en	I spoke to Chili's. I think I can | get us the corner table there | 
+fr	J'ai appelé le Chili's. Je peux nous avoir la table dans le coin 
+he	&rlm;‏‏דיברתי עם "צ'ילי'ס". אני חושב שאוכל | &rlm;‏להשיג לנו שם שולחן פינתי‏ | 
+it	Ho chiamato Chili's. Ho chiesto il tavolo nell'angolo 
+no	Jeg snakket med Chili's. Jeg kan skaffe oss et hjørnebord der 
+pl	Rozmawiałem z Chili's. Chyba uda mi się załatwić stolik, 
+pr-br	Liguei para o Chili's. Acho que consigo a mesa do canto para nós 
+pr	Liguei para o Chili's. Acho que consigo reservar a mesa do canto 
+ro	Am vorbit la restaurant. Aș putea face rost de o masă acolo 
+sp-eu	He hablado con Chili's. Creo que puedo conseguir una mesa de esquina 
+th	คุยกับร้านชิลีส์แล้ว | คิดว่าขอโต๊ะมุมห้องให้เราได้ | 
+tr	Chili's'le konuştum. Oradaki köşe masayı kapıp 
+vi	Tôi gọi cho nhà hàng Chili rồi. | Tôi đã đặt bàn ở trong góc | 
+zh-long	我跟餐廳講了，應該能訂到角桌 
+zh-short	我跟红辣椒餐厅说过了 我能订到角落的座位 
+fi	Voin varata nurkkapöydän Chili'sistä ja tilata alkupalat valmiiksi. 
+nl	Ik sprak Chili's. Ik regel de hoektafel en kan de voorgerechten vast bestellen. 
+sv	Jag pratade med Chili's. Vi kan nog få ett bord där och förbeställa aptitretare. 
+ko	칠리스에 전화했는데 | 구석 테이블을 잡고 | 
+ru	Я позвонил в «Чили». Могу взять столик в углу 
+sp	Creo que pueden darnos la mesa de la esquina, 
+id	Kurasa kita bisa mendapatkan meja sudut di sana 
+ja	席の予約と | 前菜の注文をしておいた | 
+ko	애피타이저도 | 사전 주문할 수 있을 것 같아 | 
+id	dan pesan awal hidangan pembuka. 
+ar	&rlm;‏وأن نطلب المقبلات مسبقاً.‏ | 
+da	og forudbestille forret. 
+el	και τα πρώτα ορεκτικά. 
+en	and preorder the appetizers. | 
+fr	et précommander l'apéro. 
+he	&rlm;‏ולהזמין מראש מתאבנים.‏ | 
+it	e ho preordinato gli antipasti. 
+no	og forhåndsbestille forretter. 
+pl	zamówimy przystawki. 
+pr-br	e reservar os aperitivos. 
+pr	e encomendar as entradas. 
+ro	și să precomand aperitivele. 
+sp-eu	y tener el aperitivo listo. 
+sp	y podemos pedir aperitivos antes. 
+th	และสั่งอาหารเบาๆ ได้ล่วงหน้า | 
+tr	mezeleri sipariş edebilirim. 
+vi	và gọi trước món khai vị. | 
+zh-long	先點開胃菜 
+zh-short	还能提前点开胃菜 
+ru	и заказать закуски заранее. 
+
+es	Sube. 
+id	Masuklah. 
+el	Μπες. 
+fi	Nouse autoon. | 
+pt-br	Entre. 
+uk	Сідай. 
+hr	Upadaj. 
+cs	Sedej. 
+da	Hop ind. | 
+en	Get in. 
+es-eu	Sube. 
+fr	Monte. 
+he	‫תיכנסי.‬ | 
+hu	Szállj be! 
+it	Sali. 
+ja	&lrm;乗って | 
+ko	&lrm;타요 | 
+ms	Masuklah. 
+nl	Stap in. 
+no	Inn med deg. 
+pt	Entra. 
+ro	Urcă! 
+sv	Hoppa in. 
+th	&lrm;ขึ้นมา | 
+tr	Gel. 
+vi	&lrm;Lên xe đi. | 
+zh-long	上車 
+zh-short	上车 
+ru	Садись. 
+

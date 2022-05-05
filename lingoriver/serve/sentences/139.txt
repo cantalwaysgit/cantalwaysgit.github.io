@@ -1,0 +1,59 @@
+ja	チャーリーは | 昔からパペット？ | 
+ja	〝テッドと仲間たち〞 | 
+id	Jadi, Charlie, apa kau selalu menjadi boneka? 
+ru	Чарли, ты всегда был куклой? 
+ar	&rlm;‏يا "تشارلي"، أكنت دمية دوماً؟‏ | 
+da	Charlie, har du altid været en dukke? 
+el	Λοιπόν, Τσάρλι, ήσουν πάντα μαριονέτα; 
+en	So, uh, Charlie, | have you always been a puppet? | 
+fi	Charlie, oletko ollut aina nukke? 
+fr	Dis-moi, Charlie, t'as toujours été une marionnette ? 
+he	&rlm;‏אז צ'ארלי, תמיד היית בובה?‏ | 
+it	Charlie, sei sempre stato un pupazzo? 
+ko	찰리, 당신은 언제나 | 꼭두각시였나요? | 
+nl	Charlie, ben je altijd een pop geweest? 
+no	Så Charlie, har du alltid vært en dukke? 
+pl	Charlie, zawsze byłeś lalką? 
+pr-br	Então, Charlie, você sempre foi marionete? 
+pr	Charlie, sempre foste um fantoche? 
+ro	Charlie, tu ai fost mereu păpușă? 
+sp	Charlie, ¿siempre fuiste un muñeco? 
+sp-eu	Dime, Charlie, ¿siempre has sido una marioneta? 
+sv	Du, Charlie, har du alltid varit docka? 
+th	นี่ชาร์ลี นายเป็นหุ่นมาตลอดใช่ไหม | 
+tr	Charlie, sen hep kukla mıydın? 
+vi	Charlie, anh luôn là con rối à? | 
+zh-long	查理，你一直是個木偶嗎？ 
+zh-short	查理 你一直都是个木偶吗？ 
+ja	チャーリーは | 昔からパペット？ | 
+
+es	¿Tienes una idea mejor? 
+uk	Маєш кращу ідею? 
+zh-short	你有更好的主意吗？ 
+pt-br	Tem alguma ideia melhor? 
+fi	Onko sinulla parempi idea? | 
+da	Har du en bedre idé? | 
+es-eu	¿Se te ocurre algo mejor? 
+fr	Tu as une meilleure idée ? 
+he	‫יש לך רעיון טוב יותר?‬ | 
+hr	Imaš bolju ideju? 
+id	Punya ide lebih bagus? 
+it	Hai un'idea migliore? 
+ko	&lrm;더 좋은 생각 있어? | 
+ms	Ada idea lebih baik? 
+nl	Heb je een beter idee? 
+pt	Tens uma ideia melhor? 
+ro	Ai vreo idee mai bună? 
+sv	Har du en bättre idé? 
+th	&lrm;มีความคิดที่ดีกว่านี้มั้ยล่ะ | 
+tr	Daha iyi fikrin var mı? 
+vi	&lrm;Có ý hay hơn không? | 
+zh-long	你有更好的想法嗎？ 
+ja	&lrm;他にアイデアでも？ | 
+ru	Есть идеи получше? 
+cs	Máš nějakej lepší nápad? 
+el	Έχεις καμιά καλύτερη ιδέα; 
+hu	Van jobb ötleted? 
+en	Do you have a better idea? 
+no	Har du en bedre idé? 
+

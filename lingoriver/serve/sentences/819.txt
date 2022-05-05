@@ -1,0 +1,26 @@
+ar	&rlm;‏لا تفعلي ذلك رجاءً... لا!‏ | 
+da	Lad være. 
+el	Σε παρακαλώ, μη... Όχι! 
+fi	Ole kiltti. 
+fr	S'il te plaît... 
+he	&rlm;‏בבקשה אל... לא!‏ | 
+it	Per favore, no! 
+ko	제발 하지 마! | 
+no	Vær så snill, ikke... 
+pl	Proszę. 
+pr-br	Por favor, não... 
+pr	Não, por favor! 
+ro	Te rog nu... Nu! 
+sp-eu	Por favor, no. 
+sp	Por favor... ¡No! 
+sv	Snälla... Nej! 
+th	ขอร้องละ อย่า! | 
+tr	Lütfen yapma... Hayır! 
+vi	Làm ơn đừng... Không! | 
+zh-long	拜託…不要！ 
+zh-short	别…不！ 
+id	Kumohon jangan... Tidak! 
+ru	Не надо... Нет! 
+en	-Please don't... No! | -Ooh! | 
+ja	頼む　よせ | 
+

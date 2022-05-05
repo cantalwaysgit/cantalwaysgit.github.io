@@ -1,0 +1,27 @@
+sv	Vi måste ta det en sista gång. Det var ett tekniskt fel. 
+id	Kita perlu merekamnya sekali lagi. Ada sedikit kesalahan. 
+ja	ちょっと機器が不調でね | 
+ru	Еще один разок. У нас тут был сбой. 
+ar	&rlm;‏‏نحتاج إلى إعادة التسجيل للمرة الأخيرة. | &rlm;‏فقد حدث خلل.‏ | 
+da	Vi skal lige prøve igen. Der skete en fejl. 
+el	Πρέπει να το κάνουμε άλλη μια φορά. Υπήρξε μια βλάβη. 
+en	We need to go one last time. | There was a glitch. | 
+fi	Otetaan vielä kerran. Pikku hankaluutta. 
+fr	Tu vas devoir recommencer. Encore un souci technique. 
+he	&rlm;‏אנחנו צריכים פעם נוספת. הייתה תקלה קטנה.‏ | 
+it	La facciamo l'ultima volta. C'è stato un problema tecnico. 
+ko	한 번만 더 해야겠어 | 결함이 있었네 | 
+nl	We doen het nog een laatste keer. Er was een storinkje. 
+no	Vi må ta det én gang til. Det ble en feil. 
+pl	Musisz zaśpiewać jeszcze raz. Wystąpił pewien błąd. 
+pr-br	Precisamos fazer uma última vez. Houve uma falha técnica. 
+pr	Temos de repetir uma última vez. Houve uma falha. 
+ro	Vom mai repeta pentru ultima oară. A fost o defecțiune. 
+sp	Debemos hacerlo una vez más. Hubo un problema. 
+sp-eu	Hay que hacerlo una última vez. Ha habido un fallo. 
+th	เราแค่ต้องอัดอีกครั้งสุดท้าย | มีปัญหานิดหน่อย | 
+tr	Son bir kez tekrarlamalıyız. Bir hata olmuş. 
+vi	Chúng ta cần thu lại lần cuối. | Có trục trặc nhỏ. | 
+zh-long	我們得再來最後一次 出了點小狀況 
+zh-short	我们只需要再录最后一遍 之前稍有瑕疵 
+

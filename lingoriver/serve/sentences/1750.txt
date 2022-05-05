@@ -1,0 +1,28 @@
+fi	Olet seonnut! 
+nl	Je bent gestoord. 
+fr	T'es cinglé ! 
+ar	&rlm;‏‏- لقد جُننت! | &rlm;‏- لا!‏ | 
+da	-Du er vanvittig! -Nej! 
+el	-Έχεις τρελαθεί εντελώς! -Όχι, όχι! 
+en	-You are out of your mind! | -No! No! | 
+he	&rlm;‏‏יצאת מדעתך! | &rlm;‏-לא!‏ | 
+it	- Sei fuori di testa! - No. 
+no	-Du er gal! -Nei! 
+pl	- Zwariowałeś! - Nie! 
+pr-br	-Você está louco! -Não! 
+pr	- Estás louco! - Não! 
+ro	- Ai luat-o pe câmpii! - Nu! 
+sp-eu	- ¡Estás mal de la cabeza! - ¡No! 
+sp	- ¡Perdiste la cabeza! - ¡No, no! 
+sv	-Du är galen! -Nej! 
+th	- นายบ้าไปแล้ว | - ไม่ ไม่ใช่ | 
+tr	-Sen aklını kaçırmışsın! -Hayır! 
+vi	- Anh điên rồi! | - Không! | 
+zh-long	-你瘋了！ -沒有！ 
+zh-short	-你简直疯了！ -不！ 
+ja	イカれたか？ | 
+id	- Kau sudah gila! - Tidak! 
+ru	-Ты сошел с ума! -Нет! 
+ko	- 정신 나갔군요! | - 아니야! | 
+ja	全然 まともさ | 
+

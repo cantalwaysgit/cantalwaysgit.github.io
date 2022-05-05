@@ -1,0 +1,27 @@
+ja	ウソ？ ついてみたいね | 
+id	Kuharap aku memang berbohong. 
+ar	&rlm;‏أتمنى لو كنت أكذب.‏ | 
+da	Gid jeg løj. 
+el	Μακάρι να έλεγα ψέματα. 
+en	I wish I was lying. I wish I was. | 
+fi	Kunpa valehtelisinkin. 
+fr	J'aimerais bien que ce soit un mensonge. 
+he	&rlm;‏הלוואי שהייתי משקר. הלוואי.‏ | 
+it	Magari stessi mentendo. Magari. 
+nl	Loog ik maar. Was dat maar waar. 
+no	Skulle ønske jeg løy. 
+pl	Chciałbym, żeby to było kłamstwo. 
+pr-br	Quem me dera estar mentindo. 
+pr	Quem me dera estar a mentir. 
+ro	Aș vrea să fi mințit. Chiar aș vrea. 
+sp	Desearía estar mintiendo. Ojalá. 
+sp-eu	Ojalá mintiera. Ojalá. 
+sv	Jag önskar att jag ljög. 
+th	ผมก็หวังว่าผมโกหก หวังจริงๆ | 
+tr	Keşke yalan söylesem. Keşke. 
+vi	Ước gì tôi đang nói dối. Thật đấy. | 
+zh-long	我也希望我在騙人，真的 
+zh-short	我倒是希望我那是在撒谎 
+ru	Если бы я врал. Если бы! 
+ko	저도 이게 거짓말이면 좋겠네요 | 
+

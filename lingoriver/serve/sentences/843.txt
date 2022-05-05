@@ -1,0 +1,27 @@
+id	Aku tidak melihatmu. Tunjukkan wajahmu. 
+th	ผมไม่เห็นคุณ โชว์หน้าหน่อยสิ | 
+ja	どこにいる？ 顔を見せて | 
+ar	&rlm;‏لا أراك. أظهر وجهك!‏ | 
+da	Jeg kan ikke se dig. Vis dit ansigt! 
+en	I don't see you. | Show your face! | 
+fi	En näe sinua. Näytä naamasi. 
+fr	Je vous vois pas. Montrez-vous. 
+he	&rlm;‏אני לא רואה אותך. תראה את עצמך!‏ | 
+it	Non ti vedo. Fatti vedere! 
+ko	안 보이는데요 | 얼굴을 보여요 | 
+nl	Ik zie je niet. Laat je gezicht zien. 
+no	Jeg kan ikke se deg. Vis ansiktet ditt! 
+pl	Nie widzę cię. Pokaż się! 
+pr-br	Não estou vendo você. Mostre o seu rosto! 
+pr	Não te vejo. Mostra-te! 
+ro	Nu te văd. Arată-te! 
+sp-eu	No te veo. Deja que te vea la cara. 
+sp	No te veo. ¡Muestra la cara! 
+sv	Jag ser dig inte. Visa ditt ansikte! 
+tr	Seni göremiyorum. Yüzünü göster! 
+vi	Tôi không thấy anh. Lộ diện đi! | 
+zh-long	我看不到你，出來 
+zh-short	我看不见你 把脸露出来 
+ru	Я тебя не вижу. Покажись. 
+el	Δε σε βλέπω. Φανερώσου! 
+

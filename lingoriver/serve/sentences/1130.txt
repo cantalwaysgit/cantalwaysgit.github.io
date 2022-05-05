@@ -1,0 +1,27 @@
+th	กลายเป็นคนฝึกเบนจี้ | 
+en	Turned out it was Benji's trainer. | 
+ar	&rlm;‏وتبين أنه كان مدرب "بينجي".‏ | 
+da	Det viste sig, det var Benjis træner. 
+el	Τελικά, ήταν ο εκπαιδευτής του Μπέντζι. 
+fi	Se oli Benjin kouluttaja. 
+fr	C'était le dresseur du chien Benji. 
+he	&rlm;‏התברר שזה היה המאמן של בנג'י.‏ | 
+it	Venne fuori che era l'addestratore di Benji. 
+nl	Dat bleek Benji's trainer te zijn. 
+no	Det viste seg å være treneren til Benji. 
+pl	Okazało się, że to był treser Benjiego. 
+pr	Afinal era o treinador do Benji. 
+pr-br	Mas era o treinador do Benji. 
+ro	Se pare că era dresorul lui Benji. 
+sp-eu	Resultó ser el entrenador de Benji. 
+sp	Resultó ser el entrenador de Benji. 
+sv	Det visade sig vara Benjis tränare. 
+tr	Meğer Benji'nin eğitmeniymiş. 
+vi	Hóa ra là người huấn luyện của con Benji. | 
+zh-long	結果是明星犬班吉的訓犬師 
+zh-short	结果是狗侦探的训狗员 
+ru	Это оказался тренер Бенджи. 
+ja	正体は他の犬のトレーナー | 
+id	Ternyata dia pelatih Benji. 
+ko	알고 보니 벤지 조련사더군 | 
+

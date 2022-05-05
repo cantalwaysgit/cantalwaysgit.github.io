@@ -1,0 +1,57 @@
+id	Bisa bersihkan makanan di mulutmu? 
+el	Μπορείς να βάλεις το φαγητό στο στόμα σου; 
+ru	Вы можете положить еду в рот? 
+nl	Kun je dat voedsel in je mond stoppen? 
+ja	口を閉じて噛んで | 
+ar	&rlm;‏أيمكنك أن تمسح الطعام على فمك؟‏ | 
+da	Gider du tage maden ud af munden? 
+en	Can you get any of that food | in your mouth? | 
+fi	Voisitko pistellä ruokaa suuhusikin? 
+fr	Vous pouvez manger proprement ? 
+he	&rlm;‏אתה יכול להכניס את האוכל לפה?‏ | 
+it	Puoi tenere il cibo dentro la bocca? 
+ko	입에 있는 음식을 | 다 드시고 말하면 안 되나요? | 
+no	Kan du putte maten i munnen? 
+pl	Zjesz to, co masz na twarzy? 
+pr-br	Pode engolir essa comida? 
+pr	Pode meter essa comida na boca? 
+ro	Vrei să bagi mâncarea aia în gură? 
+sp-eu	¿Puede meterse la comida en la boca? 
+sp	¿Puedes meterte la comida en la boca? 
+sv	Kan du stoppa lite av maten i munnen? 
+th	ช่วยเคี้ยวปิดปากได้ไหม | 
+tr	Ağzındaki lokmayı bitirir misin? 
+vi	Anh nuốt thức ăn đi được chứ? | 
+zh-long	你吃東西可以閉上嘴巴嗎？ 
+zh-short	能把你嘴里的东西咽下去吗？ 
+
+cs	Čaute. 
+da	Hej. | 
+el	Αντίο. 
+en	Bye. 
+es	Adiós. 
+es-eu	Adiós. 
+fi	Heippa. | 
+fr	Salut. 
+he	‫ביי.‬ | 
+hr	Bok. 
+hu	Csá! 
+id	Dah. 
+it	Ciao. 
+ja	&lrm;帰るね | 
+ko	&lrm;안녕 | 
+ms	Selamat tinggal. 
+nl	Dag. 
+no	Ha det. 
+pt	Adeus. 
+pt-br	Tchau. 
+ro	Pa! 
+sv	Hej då. 
+th	&lrm;บาย | 
+tr	Görüşürüz. 
+uk	Бувайте. 
+vi	&lrm;Tạm biệt. | 
+zh-long	再見 
+zh-short	再见 
+ru	Пока. 
+

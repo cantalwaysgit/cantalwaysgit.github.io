@@ -1,0 +1,27 @@
+ar	&rlm;‏كنت تساندني دوماً.‏ | 
+da	Du var der altid for mig. 
+el	Ήσουν πάντα εκεί για εμένα. 
+en	You were always there for me. | 
+fi	Olit aina rinnallani. 
+fr	T'as toujours été à mes côtés. 
+he	&rlm;‏תמיד היית שם בשבילי.‏ | 
+it	Tu ci sei sempre stato per me. 
+nl	Je was er altijd voor me. 
+no	Du var alltid der for meg. 
+pl	Zawsze mnie wspierałeś. 
+pr-br	Você sempre me apoiou. 
+pr	Estiveste sempre lá para mim. 
+ro	Mi-ai fost mereu alături. 
+sp-eu	Siempre estuviste a mi lado. 
+sp	Siempre estuviste para mí. 
+sv	Du fanns alltid där för mig. 
+th	คุณอยู่ข้างฉันเสมอ | 
+tr	Hep yanımdaydın. 
+vi	Anh luôn ở bên em. | 
+zh-long	你永遠都陪在我身邊 
+zh-short	你一直都在支持我 
+ko	늘 제 곁을 지켜주셨죠 | 
+ru	Ты всегда был рядом. 
+ja	いつも支えてくれた | 
+id	Kau selalu ada untukku. 
+

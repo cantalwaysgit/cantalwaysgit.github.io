@@ -1,0 +1,27 @@
+id	- Hai. - Astaga, aku mengenalimu. 
+ru	-Здравствуйте. -Ой, я вас знаю. 
+ar	&rlm;‏‏- مرحباً. | &rlm;‏- يا إلهي، أعرفك.‏ | 
+da	-Hej. -Dig kender jeg. 
+el	-Γεια. -Ω, Θεέ μου, σε ξέρω. 
+fi	-Hei. -Minähän tiedän sinut. 
+he	&rlm;‏‏היי. | &rlm;‏-אלוהים, אני מכירה אותך.‏ | 
+it	- Salve. - Oddio, io ti conosco. 
+nl	Hallo. -Hoi, ik ken jou. 
+no	-Hei. -Herregud, jeg kjenner deg. 
+pl	- Cześć. - Boże. Kojarzę cię. 
+pr-br	-Oi. -Ah, meu Deus, eu conheço você. 
+pr	- Olá. - Céus, eu conheço-o. 
+ro	- Bună! - Doamne! Te cunosc. 
+sp-eu	- Hola. - Dios, te conozco. 
+sp	- Hola. - Dios mío, te conozco. 
+sv	-Hej. -Herregud. Jag känner dig. 
+th	- ไฮ | - โอ๊ยตายแล้ว ฉันรู้จักคุณ | 
+tr	-Merhaba. -Aman Tanrım, sizi tanıyorum. 
+vi	- Xin chào. | - Chúa ơi, tôi biết anh. | 
+zh-long	-嗨 -天啊，我認得你 
+zh-short	-嗨 -天啊 我认识你 
+ko	- 안녕하세요 | - 세상에, 당신 알아요 | 
+en	Oh, my God, I know you. | 
+ja	あなたを知ってる | 
+fr	Mais je vous connais. 
+

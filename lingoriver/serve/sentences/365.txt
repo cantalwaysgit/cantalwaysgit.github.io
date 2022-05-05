@@ -1,0 +1,27 @@
+fi	Tuo tuolla. 
+id	Kau bintang yang di sana. 
+zh-short	就是那颗 
+ko	저기 저 별 | 
+ru	Ты - вон та. 
+th	คุณคือดาวดวงนั้น | 
+pl	Tamtą. 
+tr	Hemen şuradakisin. 
+vi	Cô chính là ngôi sao kia. | 
+el	Είσαι εκείνο. 
+ar	&rlm;‏أنت تلك النجمة هناك.‏ | 
+da	Du er den lige dér. 
+en	You are that one right there. | 
+fr	Celle-ci, juste là. 
+he	&rlm;‏את הכוכב הזה שם.‏ | 
+it	Tu sei quella là. 
+nl	Jij bent die daar. 
+pr-br	Você é aquela lá. 
+pr	És aquela ali. 
+ro	Ești aia de acolo. 
+sp	Eres esa de allí. 
+sp-eu	Eres esa de ahí. 
+sv	Du är den precis där. 
+zh-long	那顆 
+ja	あそこの動く星だ | 
+no	Du er den der. 
+

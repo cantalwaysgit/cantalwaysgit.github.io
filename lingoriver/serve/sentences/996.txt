@@ -1,0 +1,22 @@
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	Okay. | 
+fi	Selvä. 
+he	&rlm;‏בסדר.‏ | 
+it	Bene. 
+ko	그렇군요 | 
+pr-br	Está bem. 
+pr	Está bem. 
+ro	Bine. 
+sp	De acuerdo. 
+sp-eu	Vale. 
+sv	Okej. 
+tr	Peki. 
+vi	Vâng. | 
+zh-long	好吧 
+zh-short	好吧 
+th	โอเค | 
+id	Baiklah. 
+ru	Хорошо. 
+

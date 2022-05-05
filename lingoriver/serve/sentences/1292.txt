@@ -1,0 +1,26 @@
+id	Itu baru masuk akal. 
+ar	&rlm;‏هذا ما هو منطقي.‏ | 
+da	Det giver mening. 
+el	Έτσι θα εξηγείται. 
+en	That would make sense. | 
+fi	Se käy järkeen. 
+fr	Ça, ce serait logique. 
+he	&rlm;‏זה יהיה הגיוני.‏ | 
+it	Quello sarebbe logico. 
+ko	그것도 이해될 거라고 | 
+nl	Dat is pas logisch. 
+no	Det gir mening. 
+pr-br	Fará muito sentido. 
+pr	Isso é que faz sentido. 
+ro	Așa ar fi de înțeles. 
+sp	Claro que tendría razón. 
+sp-eu	Eso tendría sentido. 
+sv	Fatta det. 
+th	นั่นมีเหตุผล | 
+tr	Öldürsem yeridir. 
+vi	Cũng dễ hiểu. | 
+zh-long	難怪 
+zh-short	说得通 
+ja	クソったれ | 
+ru	Вот что ясно. 
+

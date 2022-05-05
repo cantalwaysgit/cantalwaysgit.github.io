@@ -1,0 +1,26 @@
+ar	&rlm;‏‏- لا، هذا ليس... | &rlm;‏- ظريف.‏ | 
+da	-Nej, det er ikke... -Sødt. 
+el	-Όχι, δεν είναι... -Χαριτωμένο. 
+en	-Oh, no, this isn't... | -[Mary] Cute. | 
+fi	-Ei tämä... -Söpöä. 
+fr	- Non, c'est pas... - C'est mignon. 
+he	&rlm;‏‏לא, זה לא... | &rlm;‏-חמוד.‏ | 
+id	- Tidak. Ini bukan... - Manis. 
+it	- No, questo non è... - Carino. 
+ko	- 아니, 이건... | - 예쁜데요 | 
+pl	- Nie. To nie... - Śliczne. 
+pr-br	-Não é... -Uma graça. 
+pr	- Não, isto não... - São giros. 
+ro	- Asta nu e... - Drăguț! 
+ru	-Нет! Это не... -Как мило. 
+sp-eu	- No, esto no es... - Muy mono. 
+sp	- No. No es... - Es lindo. 
+sv	-Nej. Det här är inte... -Söt. 
+th	- ไม่ นี่ไม่ใช่... | - น่ารักจัง | 
+tr	-Hayır, bana değil... -Çok şirin. 
+vi	- Không, việc này... | - Vui quá. | 
+zh-long	-不是啦，這是… -真可愛 
+zh-short	-不 这个不是… -可爱 
+ja	いや これは… | 
+no	-Nei, det er ikke... -Søt. 
+

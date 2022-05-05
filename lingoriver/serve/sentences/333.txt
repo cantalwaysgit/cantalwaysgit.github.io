@@ -1,0 +1,26 @@
+ar	&rlm;‏أعملت مع "هاريسون فورد"؟‏ | 
+el	Δούλεψες με τον Χάρισον Φορντ; 
+en	You work with Harrison Ford? | 
+fi	Harrison Fordko? 
+fr	Vous bossez avec Harrison Ford ? 
+he	&rlm;‏עבדת עם האריסון פורד?‏ | 
+id	Kau bekerja dengan Harrison Ford? 
+it	Hai lavorato con Harrison Ford? 
+ko	해리슨 포드하고 | 같이 일했다고요? | 
+nl	Werkte je met Harrison Ford? 
+pl	Harrison Ford? 
+pr-br	Você trabalhou com Harrison Ford? 
+pr	Trabalhou com o Harrison Ford? 
+ro	Ai lucrat cu Harrison Ford? 
+ru	Ваш клиент - Харрисон Форд? 
+sp-eu	¿Ha trabajado con Harrison Ford? 
+sp	¿Trabajaste con Harrison Ford? 
+sv	Har du jobbat med Harrison Ford? 
+th	ร่วมงานกับแฮร์ริสัน ฟอร์ดเหรอ | 
+tr	Harrison Ford'la mı çalıştın? 
+vi	Anh làm việc với Harrison Ford? | 
+zh-long	你帶過哈里遜福特？ 
+zh-short	你是哈里森福特的经纪人？ 
+no	-Har du jobbet med Harrison Ford? -Nei, men jeg representerer han 
+ja	Ｈ･フォード？ | 
+

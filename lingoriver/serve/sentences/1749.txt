@@ -1,0 +1,26 @@
+ja	そんなことない　イケてたぞ | 
+ar	&rlm;‏لا، أؤكد لك إنك غنيتها بشكل أفضل مما تظن!‏ | 
+da	Nej, jeg siger dig, det gik bedre, end du tror! 
+el	Σου λέω, πήγες καλύτερα απ' ό,τι νομίζεις! 
+en	No, I... I'm telling you, | you did better than you think! | 
+fi	Se meni paremmin kuin luulet. 
+fr	Je t'assure, c'est pas si terrible ! 
+he	&rlm;‏‏לא, אני אומר לך, | &rlm;‏הלך לך טוב יותר מכפי שאתה חושב!‏ | 
+it	Ti assicuro che è andata meglio di quanto pensi! 
+no	Nei, tro meg, du var bedre enn du tror! 
+pl	Poszło ci lepiej, niż myślisz! 
+pr-br	Não, acredite, foi melhor do que você imagina! 
+pr	Não, estou a dizer-te, foi melhor do que pensas! 
+ro	Crede-mă, a ieșit mai bine decât crezi! 
+sp-eu	No, escucha, ha ido mejor de lo que crees. 
+sp	No, te lo digo yo: ¡Te fue mejor de lo que piensas! 
+sv	Nej, det gick bättre än du tror! 
+th	ไม่นะ ฉันขอบอก | มันมีผลดีกว่าที่นายคิด | 
+tr	Hayır, şunu bil, sandığından daha iyi oldu! 
+vi	Không, tôi bảo này, | anh hát hay hơn anh nghĩ đấy! | 
+zh-long	我跟你說 效果絕對出乎你意料！ 
+zh-short	不 我告诉你 比你想的要好！ 
+ru	Я тебе говорю, все получилось прекрасно! 
+id	Tidak, ini berjalan lebih baik daripada dugaanmu. 
+ko	아니, 내 말 들어봐 | 생각보다 괜찮다니까! | 
+

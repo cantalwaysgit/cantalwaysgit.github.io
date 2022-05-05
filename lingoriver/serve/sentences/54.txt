@@ -1,0 +1,57 @@
+ar	&rlm;‏‏مدراء الأعمال معتادون على الكذب، | &rlm;‏لكن حول "ساندي" الكذب إلى شكل فني.‏ | 
+da	Managere lyver, men for Sandy var det en kunst. 
+el	Οι μάνατζερ λένε ψέματα, αλλά ο Σάντι το ανήγαγε σε τέχνη. 
+en	Managers get used to lying, | but Sandy took it to an art form. | 
+fi	Managerit valehtelevat, mutta Sandy teki siitä taidetta. 
+fr	Les imprésarios mentent, mais avec lui, c'était de l'art. 
+he	&rlm;‏‏מנהלים משקרים, | &rlm;‏אבל סנדי העלה את זה לכדי אמנות.‏ | 
+it	Tutti i manager mentono, ma Sandy ne fece una forma d'arte. 
+ko	매니저는 거짓말을 하지만 | 샌디는 예술적인 차원이에요 | 
+nl	Managers liegen, maar Sandy maakte er een kunst van. 
+no	Managere lyver, men Sandy var en kunstner. 
+pl	Menedżerowie kłamią, ale Sandy był mistrzem. 
+pr-br	Empresários mentem, mas Sandy era um especialista. 
+pr	Os empresários mentem, mas o Sandy transformou-o numa arte. 
+ro	Impresarii mint, dar Sandy era maestru. 
+ru	Все менеджеры врут, но он превратил это в искусство. 
+sp-eu	Los mánagers mienten, pero Sandy hacía de ello un arte. 
+sp	Los representantes mienten, pero lo de Sandy era arte. 
+sv	Managers ljuger, men Sandy gjorde det till en konstform. 
+th	ผู้จัดการโกหกอยู่แล้ว | แต่แซนดี้โกหกขั้นเทพ | 
+tr	Menajerler yalan söyler, ama Sandy bunu sanata dönüştürdü. 
+vi	Quản lý nào cũng vậy, | nhưng Sandy biến nó thành nghệ thuật. | 
+zh-long	經紀人本來就滿嘴屁話 但山迪的功力是一門藝術 
+zh-short	经纪人会说谎 但桑迪使之成为艺术 
+ja	彼のウソは もはや芸術だ | 
+id	tapi itu seni bagi Sandy. 
+
+nl	HANIA: NIET VERGETEN TE SCHEREN VOOR SCHOOL XD 
+es	HANIA: RECUERDA AFEITARTE ANTES DE SALIR. 
+cs	HANIA: NEZAPOMEŇ SE DO ŠKOLY OHOLIT! 
+da	HANIA: HUSK! BARBER DIG INDEN SKOLEN XD | 
+el	ΧΑΝΙΑ: ΘΥΜΗΣΟΥ ΝΑ ΞΥΡΙΣΤΕΙΣ ΠΡΙΝ ΤΟ ΜΑΘΗΜΑ 
+en	HANIA: REMEMBER! SHAVE BEFORE SCHOOL 
+es-eu	HANIA: AFÉITATE ANTES DE VENIR A CLASE. 
+fr	HANIA : N'OUBLIE PAS DE TE RASER ! 
+he	‫- האניה: תזכרי להתגלח לפני הלימודים -‬ | 
+hr	HANIA: NE ZABORAVI! OBRIJ SE PRIJE ŠKOLE 
+hu	HANIA: NE FELEDD! BOROTVÁLKOZZ SULI ELŐTT XD 
+it	HANIA: FATTI LA BARBA PRIMA DELLA SCUOLA 
+ja	&lrm;“ハニア： | &lrm;登校前にひげをそること！” | 
+ko	&lrm;"하니아: 등교 전에 면도 꼭 해 | &lrm;ㅋㅋㅋ" | 
+ms	HANIA: INGAT! BERCUKUR SEBELUM KE SEKOLAH 
+no	HUSK Å BARBERE DEG FØR SKOLEN 
+pt	HANIA: FAZ A BARBA ANTES DAS AULAS! 
+ro	HANIA: SĂ TE BĂRBIEREȘTI ÎNAINTE DE ȘCOALĂ! 
+ru	ХАНЯ: ПЕРЕД ШКОЛОЙ НЕ ЗАБУДЬ ПОБРИТЬСЯ ЛОЛ 
+sv	HANIA: GLÖM INTE ATT RAKA DIG 
+th	&lrm;(ฮันยา: อย่าลืมโกนหนวดก่อนมาโรงเรียนล่ะ!) | 
+tr	HANIA: OKULA GELMEDEN TIRAŞ OLMAYI UNUTMA 
+uk	ХАНЯ: НЕ ЗАБУДЬ ПЕРЕД ШКОЛОЮ ПОГОЛИТИСЯ. 
+vi	&lrm;HANIA: HÃY NHỚ! | &lrm;CẠO RÂU TRƯỚC KHI ĐI HỌC HAHA | 
+zh-long	（哈妮亞：記得上學前要刮鬍子） 
+zh-short	（哈尼娅： 上学前别忘了刮胡子！哈哈） 
+fi	HANIA: MUISTA AJAA PARTA | ENNEN KOULUUNLÄHTÖÄ | 
+id	HANIA: INGAT! BERCUKURLAH SEBELUM KE SEKOLAH XD 
+pt-br	HANIA: LEMBRE-SE! FAÇA A BARBA ANTES DA ESCOLA XD 
+

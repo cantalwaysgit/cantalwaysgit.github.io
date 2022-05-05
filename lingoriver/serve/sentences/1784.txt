@@ -1,0 +1,27 @@
+ar	&rlm;‏لا يبدو الأمر سليماً. أنا مستاء من أجله.‏ | 
+da	Det føles ikke rigtigt. Det er synd for ham. 
+el	Δεν είναι σωστό. Νιώθω άσχημα για εκείνον. 
+en	It doesn't feel right. | I mean, I feel bad for the guy. | 
+fi	Tuntuu pahalta. 
+fr	C'est moche. Ça me rend triste. 
+he	&rlm;‏זה לא מרגיש בסדר. אני מרגיש רע בשבילו.‏ | 
+id	Ini tidak terasa benar. Maksudku, aku merasa kasihan. 
+it	Non mi sembra giusto. Mi dispiace per lui. 
+ko	그건 아닌 것 같아 | 정말 안타깝네 | 
+nl	Dat voelt niet goed. Ik vind het erg voor hem. 
+no	Føles ikke riktig. Jeg synes synd på ham. 
+pl	No nie wiem, przykro mi, że umarł. 
+pr-br	Não me parece certo, me sinto mal por ele. 
+pr	Não me parece certo. Tenho pena dele. 
+ro	Nu mi se pare corect. Îmi pare rău pentru el. 
+ru	Это как-то нехорошо. Мне его жалко. 
+sp-eu	No me parece bien. Me da pena. 
+sp	No me parece bien. Me siento mal por él. 
+sv	Det känns inte rätt. Jag är ledsen för hans skull. 
+th	มันรู้สึกไม่ถูกต้อง | ฉันรู้สึกแย่กับเขา | 
+tr	Bu doğru gelmiyor. Adama üzüldüm. 
+vi	Không ổn lắm. Tôi tiếc thương ông ấy. | 
+zh-long	感覺不太對勁 我為他感到難過 
+zh-short	这感觉不对 我替他感到难过 
+ja	何だか気が進まないな | 
+

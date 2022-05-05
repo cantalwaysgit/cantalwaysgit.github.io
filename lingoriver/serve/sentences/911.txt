@@ -1,0 +1,27 @@
+id	- Apa? - Saluran radio yang kau dengarkan. 
+ar	&rlm;‏‏- ماذا؟ | &rlm;‏- المحطة؟‏ | 
+da	-Hvad? -Stationen? 
+el	-Τι; -Ο σταθμός; 
+en	-What? | -The station you're listening to? | 
+fi	-Mitä? -Kanava. 
+fr	- Pardon ? - La station ? 
+he	&rlm;‏‏מה? | &rlm;‏-התחנה?‏ | 
+it	- Come? - La stazione! 
+nl	De zender? 
+no	-Hva? -Kanalen? 
+pl	- Co? - Jaka to stacja? 
+pr-br	-Quê? -A estação? 
+pr	- O quê? - A estação. 
+ro	- Poftim? - Ce post asculți? 
+sp-eu	- ¿Qué? - ¿La emisora? 
+sp	- ¿Qué? - ¿Qué estación? 
+sv	-Vadå? -Radiostationen? 
+th	- อะไรนะ | - สถานีไหน | 
+tr	-Ne? -Dinlediğiniz kanal? 
+vi	- Gì cơ? | - Đài nào? | 
+zh-long	-什麼？ -妳聽的電臺？ 
+zh-short	-什么？ -频道？ 
+ko	- 네? | - 라디오요 | 
+ru	-Что? -Станцию? 
+ja	どこの局？ | 
+

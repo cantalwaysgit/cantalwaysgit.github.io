@@ -1,0 +1,26 @@
+id	Maaf, apa? 
+ja	何です？ | 
+ru	Простите, что? 
+no	Unnskyld, hva sa du? 
+ar	&rlm;‏آسف، ماذا؟‏ | 
+da	Undskyld, hvad? 
+el	Συγγνώμη, τι; 
+en	I'm sorry, what? | 
+fi	Anteeksi? 
+fr	Pardon ? 
+he	&rlm;‏אני מצטער, מה?‏ | 
+it	Prego? 
+ko	뭐라고요? | 
+pl	Słucham? 
+pr-br	Desculpe, o quê? 
+pr	Desculpe, o quê? 
+ro	Scuze, poftim? 
+sp-eu	Perdón, ¿qué? 
+sp	Perdón, ¿cómo dijo? 
+sv	Ursäkta, vadå? 
+th	ผมขอโทษ อะไรนะ | 
+tr	Pardon, ne? 
+vi	Tôi xin lỗi, gì cơ? | 
+zh-long	你說什麼？ 
+zh-short	抱歉 什么？ 
+

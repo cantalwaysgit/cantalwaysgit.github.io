@@ -1,0 +1,35 @@
+id	Kau menonton seluruh pertunjukan? 
+ru	Ты всё посмотрел? 
+ja	最初から？ | 
+en	So you caught the whole show, then? | 
+
+es-eu	¿Y si no fue una sobredosis accidental 
+hu	Ha nem véletlen túladagolás volt, 
+no	Om det ikke var overdose ved et uhell, 
+it	Se non fosse un'overdose accidentale e Adam lo sapesse? 
+es	¿Y si no fue una sobredosis accidental y Adam lo sabe? 
+hr	Možda se nije slučajno predozirao. 
+ms	Jika ia bukan terlebih dos 
+nl	Als het geen overdosis was… 
+pt-br	E se não foi uma overdose acidental, 
+uk	Якщо це не випадкове передозування 
+da	Hvis overdosen ikke var et uheld, | 
+el	Αν δεν ήταν τυχαία υπερβολική δόση, 
+fr	Si ce n'était pas un accident 
+he	‫שזו לא היתה מנת יתר‬ | 
+ja	&lrm;ベアタが正しかったら？ | 
+ko	&lrm;실수로 과다 복용한 게 아니고 | 
+pt	E se não foi uma  overdose  acidental 
+th	&lrm;ถ้าไม่ใช่การเสพยาเกินขนาด | 
+vi	&lrm;Nếu không phải do vô tình quá liều | 
+zh-long	如果不是意外用藥過量 
+cs	Co když to nebylo nechtěné předávkování a Adam to ví? 
+en	What if it wasn't an accidental overdose and Adam knows it? 
+zh-short	如果不是意外服药过量 而亚当又知道呢？ 
+id	Bahwa itu bukan overdosis tak disengaja dan Adam tahu. 
+tr	Belki doz aşımı kaza değildi ve Adam bunu biliyordu. 
+ru	Может, передозировка была не случайной и Адам это знает? 
+sv	Tänk om det inte var en överdos och Adam vet om det. 
+fi	Jos yliannostus ei ollut vahinko, | ja Adam tietää siitä? | 
+ro	Dacă nu a fost o supradoză accidentală și Adam știe? 
+

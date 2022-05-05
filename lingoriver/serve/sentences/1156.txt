@@ -1,0 +1,29 @@
+id	Begitulah menjadi seorang artis. 
+ru	-Вот что нужно такой знаменитости, как ты. -Завтра с утра займусь. 
+en	That's the way to go | for an artist of your stature. | 
+ar	&rlm;‏‏- فنانة مثلك، يجب أن يكون رقمها غير مدرج. | &rlm;‏- سأنجز الأمر من أجلك غداً.‏ | 
+da	-Det er vejen frem. -Det kan jeg få til dig i morgen. 
+el	-Είσαι σταρ πλέον. -Θα το φροντίσω αύριο. 
+fi	-Artistilla on pakko olla sellainen. -Hoidan sen huomenna. 
+fr	- C'est la solution. - Je te fais ça demain. 
+he	&rlm;‏‏זה מה שצריך לעשות. | &rlm;‏-אטפל בזה מחר בבוקר.‏ | 
+it	- È la mossa giusta. - Posso farlo entro domattina. 
+ko	- 코트니한텐 그게 필요해요 | - 내일 알아볼게 | 
+nl	Zo doen ze dat. -Dat regel ik morgenochtend voor je. 
+no	-Sånn skal det gjøres. -Jeg kan ordne det for deg i morgen. 
+pl	- Każda gwiazda tak robi. - Jutro się tym zajmę. 
+pr-br	-É assim que tem que ser. -Posso resolver isso amanhã para você. 
+pr	- Uma artista como tu precisa disso. - Posso tratar disso amanhã. 
+ro	- De asta au nevoie artiștii ca tine. - Voi rezolva mâine-dimineață. 
+sp	- Eso hay que hacer. - Puedo hacerlo mañana mismo. 
+sp-eu	- Eso es lo que hay que hacer. - Lo puedo tener hecho mañana. 
+sv	-Det är så de gör för nån som du. -Jag tar hand om det imorgon. 
+th	- แบบนั้นเลย | - พรุ่งนี้ผมจะจัดการให้ | 
+tr	-İşte çözüm bu. -Yarın hallederim. 
+vi	- Nổi tiếng như cô phải có nó. | - Ngày mai tôi sẽ giải quyết xong. | 
+zh-long	-像妳這樣的藝人就該這樣 -我明天幫妳處理 
+zh-short	-应该好好查查这个号码 -我明天可以帮你把这事解决了 
+ja	手を打っておく | 
+id	Aku bisa selesaikan itu untukmu besok pagi. 
+en	I can get that done for you | tomorrow morning. | 
+

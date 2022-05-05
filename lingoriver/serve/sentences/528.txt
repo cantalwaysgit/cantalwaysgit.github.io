@@ -1,0 +1,26 @@
+ja	見違えたな　しゃっくり君 | 
+id	- Lihat dirimu. Ceguk. - Ya. 
+ru	-Надо же! Икотка! -Да. 
+fr	J'en reviens pas. M. Hoquet. 
+ar	&rlm;‏‏- انظر إلى هذا. "الحازوق". | &rlm;‏- أجل.‏ | 
+da	-Der kan man bare se. Hikke. -Ja. 
+el	-Για δες, ο "Λόξυγγας". -Ναι. 
+en	-Look at this. Hiccups. | -[laughs] Yeah. | 
+fi	Kappas Hikkaa! 
+he	&rlm;‏‏תראה אותך. שיהוקי. | &rlm;‏-כן.‏ | 
+it	- Ma tu guarda. Singhiozzo. - Sì. 
+no	-Har du sett. Hikke. -Ja. 
+pl	- Oczom nie wierzę. Czkawka. - Tak. 
+pr-br	-Veja só. Soluço. -É. 
+pr	- Vejam só. O Soluços. - Sim. 
+ro	- Ia uite! E Sughiț! - Da. 
+sp-eu	- Fíjate. Hipo. - Sí. 
+sp	- Mírate. Hipo. - Sí. 
+sv	-Ser man på. Hickaren. -Just det. 
+th	- ดูนี่สิ จอมสะอึก | - ใช่ | 
+tr	-Şuna bak. Hıçkırık. -Evet. 
+vi	- Xem này. Nấc. | - Vâng. | 
+zh-long	-你瞧瞧，打嗝哥耶 -是呀 
+zh-short	-多巧啊 “嗝嗝” -是啊 
+ko	- 이게 웬일이야, 딸꾹질 | - 네 | 
+

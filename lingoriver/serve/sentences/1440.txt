@@ -1,0 +1,20 @@
+el	"Η ΩΡΑ ΤΟΥ ΥΠΝΟΥ" ΜΠΟΜΠΙ ΜΠΑΡΝΣ 
+pl	„DOBRANOCKA” BOBBY BARNES 
+ar	&rlm;‏"(المنوم) - (بوبي بارنز)"‏ | 
+da	"GODNATTID" 
+he	&rlm;‏‏- ‏בובי "בקבוקי" בארנס -‏ | 
+it	"NINNA NANNA" BOBBY BARNES 
+ko	“‘재워줄게’  | 보비 반스” | 
+pr	BOBBY BARNES "SONECA" 
+pr-br	"SONECA" 
+ro	"NOAPTE BUNĂ!" BOBBY BARNES 
+sp	BOBBY "BUENAS NOCHES" BARNES 
+sp-eu	BOBBY "A DORMIR" BARNES 
+th	("จอมปิดตาดำ" บ๊อบบี้ บาร์นส์) | 
+tr	"UYKU VAKTİ" BOBBY BARNES 
+vi	"GIỜ NGỦ" | BOBBY BARNES | 
+zh-long	（“床邊故事” 鮑比巴恩斯） 
+zh-short	（“催眠曲” 鲍比巴恩斯） 
+ru	«БАЮ-БАЙ» БОББИ БАРНС 
+id	"NINABOBO" BOBBY BARNES 
+

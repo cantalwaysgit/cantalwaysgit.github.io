@@ -1,0 +1,29 @@
+pl	Jest facet, który poświęci ci się w 100%. 
+th	มีผู้ชายคนหนึ่งที่เต็มใจจะอุทิศตัว | ให้คุณเต็มร้อยตลอดชีวิตคุณ | 
+ar	&rlm;‏‏هناك رجل يود أن يخلص لك بالكامل | &rlm;‏طوال حياتك.‏ | 
+da	En mand er villig til at hellige sig dig 100 procent hele dit liv. 
+el	Κάποιος που θέλει να αφοσιωθεί πλήρως σ' εσένα για όλη σου τη ζωή. 
+en	There's a guy who's willing to be devoted | to you 100% for your entire life. | 
+fi	Eräs mies haluaa omistautua sinulle loppuelämäksi. 
+fr	Un type prêt à se dévouer à toi pour le reste de ta vie. 
+he	&rlm;‏‏יש גבר שמוכן להיות נאמן לך ב-100 אחוז | &rlm;‏כל חייך.‏ | 
+it	C'è un uomo che desidera esserti completamente devoto per tutta la vita. 
+ko	너한테 평생 100% 헌신할 | 남자가 있어 | 
+nl	Er is een man die jou de rest van je leven toegewijd wil zijn. 
+no	En fyr som vil gi deg 100 % resten av sitt liv. 
+pr-br	Tem um cara disposto a se dedicar 100% a você por toda a sua vida. 
+pr	Há um tipo disposto a dedicar-se 100 % a ti para o resto da tua vida. 
+ro	Există un tip care dorește să-ți fie devotat pe deplin toată viața. 
+sp-eu	Hay un tío dispuesto a entregarse a ti al 100 % toda tu vida. 
+sp	Hay un tipo dispuesto a dedicarse a ti 100% por toda tu vida. 
+sv	Det finns en kille som är villig att vara dig trogen hela livet. 
+tr	Hayatın boyunca kendini %100 sana adamaya hazır bir adam var. 
+vi	Có một người sẵn sàng dành | cả cuộc đời cho em. | 
+zh-long	那個人願意 百分百投入妳整個人生 
+zh-short	有个人愿意全心全意照顾你一生 
+ja	その男は生涯― | 
+ru	Человек готов посвятить себя тебе 
+id	Ada pria yang bersedia setia kepadamu 100 persen sepanjang hidupmu. 
+ja	君のためだけに | 生きると言ってる | 
+ru	на все 100 процентов. 
+

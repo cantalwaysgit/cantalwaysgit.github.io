@@ -1,0 +1,83 @@
+id	Kami akan bersenang-senang. 
+ru	-Нам тут будет весело! -Хорошо. 
+ar	&rlm;‏‏- سوف نستمتع. | &rlm;‏- حسناً.‏ | 
+da	-Det bliver sjovt. -Okay. 
+el	-Θα περάσουμε πολύ καλά. -Εντάξει. 
+en	-Oh, we're gonna have fun, guys. | -Okay. | 
+fi	Pidetään lystiä. 
+fr	On va bien s'amuser. 
+he	&rlm;‏‏אנחנו נעשה חיים. | &rlm;‏-בסדר.‏ | 
+it	- Ci divertiremo. - Bene. 
+ko	- 즐겁게 놀 거야 | - 알았어요 | 
+nl	We gaan lol maken. 
+no	-Vi skal ha det gøy. -Ok. 
+pl	Będziemy się dobrze bawić. 
+pr-br	-Vamos nos divertir. -Está bem. 
+pr	- Vamos divertir-nos. - Está bem. 
+ro	- O să ne distrăm. - Bine. 
+sp-eu	- Nos vamos a divertir. - Vale. 
+sp	- Vamos a divertirnos. - De acuerdo. 
+sv	-Vi ska ha skoj. -Visst. 
+th	- เราจะสนุกกัน | - โอเค | 
+tr	-Çok eğleneceğiz. -Tamam. 
+vi	- Chúng ta sẽ vui mà. | - Vâng. | 
+zh-long	-我們會玩得很開心的 -好 
+zh-short	-我们会玩得很高兴的 -好的 
+ja	楽しくやろう | 
+
+es	¿Te suena? 
+hu	Ismerős? 
+it	Ti dice qualcosa? 
+cs	Říká ti to něco? 
+da	Siger det dig noget? | 
+el	Σου λέει κάτι; 
+en	Does it ring a bell? 
+es-eu	¿Te suena ese nombre? 
+fi	Kuulostaako tutulta? | 
+fr	Ça te parle ? 
+he	‫נשמע לך מוכר?‬ | 
+hr	Zvuči li ti poznato? 
+id	Kau tahu apa artinya? 
+ja	&lrm;聞き覚えある？ | 
+ko	&lrm;들어 봤죠? | 
+ms	Pernah dengar tak? 
+no	Høres det kjent ut? 
+pt-br	É familiar? 
+pt	Lembra-te alguma coisa? 
+ro	Îți sună cunoscut? 
+ru	Не слышал о таком? 
+th	&lrm;ชื่อนี้คุ้นมั้ย | 
+tr	Tanıdık geliyor mu? 
+vi	&lrm;Nghe quen không? | 
+zh-long	聽起來很耳熟嗎？ 
+zh-short	听着耳熟吗？ 
+nl	Klinkt dat bekend? -Moet dat? 
+sv	-Låter det bekant? -Borde det? 
+uk	-Тобі знайоме це прізвисько? -А має бути? 
+it	Dovrebbe? 
+es	¿Debería sonarme? 
+pt-br	Deveria ser? 
+cs	Mělo by? 
+da	Skulle det det? | 
+el	Θα έπρεπε; 
+en	Should it? 
+es-eu	¿Debería? 
+fr	Ça devrait ? 
+he	‫אמור להישמע מוכר?‬ | 
+hr	Trebalo bi? 
+id	Haruskah? 
+ja	&lrm;どうかな？ | 
+ko	&lrm;들어 봤어야 하나? | 
+ms	Patutkah? 
+no	Burde det det? 
+pt	Devia? 
+ro	Ar trebui? 
+ru	А должен был? 
+th	&lrm;ควรคุ้นเหรอ | 
+tr	Gelmeli mi? 
+vi	&lrm;Có nên không? | 
+zh-long	我應該覺得耳熟嗎？ 
+zh-short	我应该觉得耳熟吗？ 
+hu	Miért lenne az? 
+fi	Pitäisikö kuulostaa? | 
+

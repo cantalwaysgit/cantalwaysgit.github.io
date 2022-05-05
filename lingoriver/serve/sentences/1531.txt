@@ -1,0 +1,29 @@
+id	Siapa pun dalam posisimu pasti melakukan hal yang sama. 
+ja	往年の女性スターも | 大勢と付き合った | 
+ru	Любой на твоем месте делал бы то же самое. Лайза делала. 
+ko	네 위치에 있는 사람이라면 | 누구든 그럴걸, 라이자처럼 | 
+en	Anyone in your position | would be doing the same. | 
+ar	&rlm;‏‏أي شخص في موضعك | &rlm;‏كان ليفعل الأمر نفسه. "لايزا" فعلته.‏ | 
+da	Alle i din position ville gøre det samme. Det gjorde Liza. 
+el	Οποιαδήποτε στη θέση σου θα έκανε το ίδιο. Η Λάιζα το έκανε. 
+fi	Sinun asemassasi kaikki tekevät niin. Liza teki niin. 
+fr	Tu n'es pas la seule dans ce cas. Liza était comme toi. 
+he	&rlm;‏‏כל אישה במעמדך הייתה עושה את אותו הדבר. | &rlm;‏לייזה עשתה את זה.‏ | 
+it	Chiunque nella tua posizione farebbe lo stesso. L'ha fatto Liza. 
+nl	Iedereen in jouw positie zou dat doen. Liza deed het. 
+no	Alle ville gjort det samme i ditt sted. Liza gjorde det. 
+pl	Każdy na twoim miejscu robiłby to samo. Liza też taka była. 
+pr-br	Qualquer um no seu lugar faria o mesmo. Liza fez. 
+pr	Qualquer pessoa no teu lugar faria a mesma coisa. A Liza fez. 
+ro	Oricine ar face la fel în locul tău. Liza a făcut la fel. 
+sp	Cualquiera en tu situación haría lo mismo. Liza lo hizo. 
+sp-eu	Cualquiera en tu situación lo haría. Liza lo hizo. 
+sv	Vem som helst skulle göra samma sak. Liza gjorde det. 
+th	ใครๆ ในฐานะคุณก็ทำแบบนั้น ไลซ่าก็ทำ | 
+tr	Senin konumundaki herkes aynı şeyi yapardı. Liza yaptı. 
+vi	Bất kỳ ai ở vị trí của cô cũng thế. | Liza cũng vậy. | 
+zh-long	任何人處在妳的位置都會這麼做 麗莎這麼做了 
+zh-short	娱乐圈大腕儿都这样 丽萨是这样 
+en	Look, Liza did it. | 
+id	Liza melakukannya. 
+

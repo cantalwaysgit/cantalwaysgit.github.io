@@ -1,0 +1,27 @@
+ja	二番煎じのつまらん連中 | 
+id	- Tidak menantang ataupun asing. - Tidak. 
+ru	-Ничего непривычного, сложного. -Нет! 
+ar	&rlm;‏‏- لا شيء فيه تحد أو غرابة. | &rlm;‏- لا.‏ | 
+da	-Intet udfordrende, intet ukendt. -Nej. 
+el	-Χωρίς προκλήσεις ή καινούριες ιδέες. -Όχι. 
+en	-Nothing challenging, nothing unfamiliar. | -No. | 
+fi	-Ei mitään haastavaa tai uutta. -Ei. 
+fr	Rien de subversif ou d'original. 
+he	&rlm;‏‏שום דבר מאתגר, שום דבר שונה. | &rlm;‏-לא.‏ | 
+it	- Niente di provocatorio o insolito. - No. 
+nl	Niets uitdagends, niets onbekends. 
+no	-Ikke noe utfordrende eller ukjent. -Nei. 
+pl	Bez trudnych, niepopularnych tematów. 
+pr-br	-Nada desafiador, nada diferente. -Não. 
+pr	- Nada desafiador, nada estranho. - Não. 
+ro	- Nimic provocator, nimic necunoscut. - Nu. 
+sp-eu	- Nada que desafíe, nada que desentone. - No. 
+sp	- Nada desafiante, nada desconocido. - No. 
+sv	-Inga utmaningar, inget okänt. -Nej. 
+th	- ไม่มีอะไรท้าทาย หรือไม่คุ้นเคย | - ใช่แล้ว | 
+tr	-Zorlayıcı değil, yabancı değil. -Aynen. 
+vi	- Chẳng có gì thách thức, bất ngờ. | - Không hề. | 
+zh-long	-不要爭議、不要挑戰 -沒錯 
+zh-short	-没什么挑战性 没什么新鲜的料 -不 
+ko	- 도전적이거나 낯선 건 없지 | - 맞아 | 
+

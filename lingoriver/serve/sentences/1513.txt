@@ -1,0 +1,25 @@
+ja	ありがとう リンダ | 恩に着る | 
+id	Terima kasih, Linda! 
+ar	&rlm;‏شكراً لك يا "ليندا"!‏ | 
+da	Tak, Linda! 
+el	Σ' ευχαριστώ, Λίντα. Σ' ευχαριστώ! 
+en	Thank you, Linda! Thank you! | 
+fi	Kiitos, Linda! 
+fr	Merci, Linda ! 
+he	&rlm;‏תודה, לינדה! תודה!‏ | 
+it	Grazie, Linda! 
+no	Takk, Linda! 
+pl	Dziękuję, Lindo! Dziękuję! 
+pr-br	Obrigado, Linda! Obrigadão! 
+pr	Obrigado, Linda! 
+ro	Mulțumesc, Linda! 
+sp-eu	¡Gracias, Linda! ¡Gracias! 
+sp	¡Gracias, Linda! ¡Gracias! 
+sv	Tack ska du ha. 
+th	ขอบคุณ ลินดา ขอบคุณ | 
+tr	Sağ ol Linda! Sağ ol! 
+vi	Cảm ơn, Linda! Cảm ơn! | 
+zh-long	謝謝琳達！太感謝妳了！ 
+zh-short	谢谢 琳达！谢谢！ 
+ko	고마워요, 린다! | 
+

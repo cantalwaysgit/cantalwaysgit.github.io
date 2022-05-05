@@ -1,0 +1,28 @@
+en	-They want some, like, ex-Florida DJ... | -Ha! | 
+id	Mereka mau mantan DJ Florida yang tampan dan polos, 
+ar	&rlm;‏‏يريدون مشغل أسطوانات | &rlm;‏كان يعيش في "فلوريدا"، وسيم برقة،‏ | 
+da	De vil have en eks-Florida DJ, der er moderat pæn, 
+el	Θέλουν κάποιον που ήταν ντι τζέι στη Φλόριντα, με την άνοστη ομορφιά 
+fi	Sinne halutaan entinen floridalainen DJ, joka on pliisun komea, 
+fr	Ce qu'ils veulent, c'est un ancien DJ, un beau gosse fadasse 
+he	&rlm;‏‏הם רוצים מישהו כמו די-ג'יי לשעבר מפלורידה, | &rlm;‏נאה ללא שום ייחוד,‏ | 
+it	Preferiscono ex DJ della Florida, belli ma anonimi, 
+ko	담백한 미남에다가 | 관심 끌 궁리도 하고 | 
+nl	Ze willen een ex-dj uit Florida die saai knap is. 
+no	De vil ha en tidligere Florida-DJ, som er kjekk og intetsigende, 
+pl	Wolą byłego DJ-a z Florydy o oklepanej urodzie. 
+pr-br	Eles querem um ex-DJ da Flórida que é bonito, mas desinteressante, 
+pr	Querem um ex-DJ da Florida, de uma beleza vulgar, 
+ro	Își doresc un fost DJ din Florida, de o frumusețe comună, 
+sp-eu	Quieren un ex DJ de Florida, guapo pero sin pasarse, 
+sp	Quieren a un ex-DJ de Florida, que es muy guapo 
+sv	De vill ha en före detta DJ från Florida som är intetsägande snygg, 
+th	ที่นั่นต้องการแบบอดีตดีเจจากฟลอริดา | ที่หล่อแบบจืดๆ | 
+tr	Yakışıklı, Floridalı eski bir DJ olacak, 
+vi	Họ thích một gã cựu DJ Florida, | chỉ được cái mẽ, | 
+zh-long	他們想要前佛羅里達DJ 那種奶油小生 
+zh-short	他们喜欢前佛州流行主持人那种的 温柔帅气 
+ru	Им нужен красавчик - бывший диджей из Флориды 
+ja	フロリダのＤＪみたいな | 面白みのない優男の― | 
+en	...who's blandly handsome, | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏تعال. لدي مفاجأة.‏ | 
+da	Kom. Jeg har en overraskelse. 
+el	Έλα. Σου έχω μια έκπληξη. 
+en	Come on. I've got a surprise. | 
+fi	Minulla on sinulle yllätys. 
+fr	Viens. J'ai une surprise. 
+he	&rlm;‏בוא. יש לי הפתעה בשבילך.‏ | 
+id	Ayo. Aku punya kejutan. 
+it	Vieni. Ho una sorpresa. 
+ko	이리 와요 | 깜짝 선물이 있어요 | 
+nl	Kom mee. Ik heb een verrassing. 
+no	Kom. Jeg har en overraskelse. 
+pl	Mam dla ciebie niespodziankę. 
+pr	Anda. Tenho uma surpresa. 
+pr-br	Venha. Eu tenho uma surpresa. 
+ro	Haide! Am o surpriză. 
+ru	Идем. У меня для тебя сюрприз. 
+sp-eu	Vamos. Tengo una sorpresa. 
+sp	Vamos. Tengo una sorpresa. 
+sv	Kom. Jag har en överraskning. 
+th	มาสิ ฉันมีเซอร์ไพรส์ | 
+tr	Hadi gel. Sana bir sürprizim var. 
+vi	Đi nào. Tôi có một bất ngờ đấy. | 
+zh-long	來，給你個小驚喜 
+zh-short	来 我准备了一份惊喜 
+ja	来て　サプライズよ | 
+

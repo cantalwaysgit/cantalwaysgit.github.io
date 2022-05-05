@@ -1,0 +1,103 @@
+ja	大丈夫？ | 
+ru	-Все в порядке? -Да. Одну секунду. 
+id	- Kau baik-baik saja? - Ya, tunggu sebentar. 
+ar	&rlm;‏‏- هل أنت بخير؟ | &rlm;‏- أجل. أعطني بعض الوقت وحسب.‏ | 
+da	-Er du okay? -Ja, giv mig et øjeblik. 
+el	-Είσαι καλά; -Ναι, απλώς δώσε μου ένα λεπτό. 
+en	-You okay? | -Yeah. Just give me one sec. | 
+fi	-Oletko kunnossa? -Pikku hetki vain. 
+fr	- Ça va ? - Juste une minute. 
+he	&rlm;‏‏אתה בסדר? | &rlm;‏-כן. רק תני לי שנייה.‏ | 
+it	- Tutto bene? - Sì. Dammi un secondo. 
+ko	- 괜찮으세요? | - 그래, 잠깐만 | 
+nl	Gaat het? -Ja. Geef me een momentje. 
+no	-Går det bra? -Ja. Bare vent litt. 
+pl	- W porządku. - Tak. Daj mi sekundkę. 
+pr-br	-Você está bem? -Sim, me dê só um instante. 
+pr	- Estás bem? - Sim. Dá-me um instante. 
+ro	- Te simți bine? - Da. Lasă-mă așa o clipă. 
+sp	- ¿Estás bien? - Sí. Dame un segundo. 
+sp-eu	- ¿Estás bien? - Sí. Dame un segundo. 
+sv	-Är du okej? -Ja. Ge mig en sekund bara. 
+th	- โอเคหรือเปล่า | - ครับ แค่ขอเวลาแป๊บนึง | 
+tr	-İyi misin? -Evet. Bana biraz vakit ver. 
+vi	- Anh ổn chứ? | - Ừ. Chỉ một lát là khỏi. | 
+zh-long	-沒事吧？ -沒事，等我一下 
+zh-short	-你没事吧？ -没事 等我一下 
+ja	ああ　ちょっと待って | 
+id	Sial. 
+pl	Choroba. 
+ar	&rlm;‏اللعنة.‏ | 
+da	For pokker da. 
+el	Γαμώτο. 
+en	God damn it. | 
+fi	Voi jumaliste. 
+fr	Nom d'un chien. 
+he	&rlm;‏לעזאזל.‏ | 
+it	Dannazione. 
+no	Helvete heller. 
+pr-br	Droga. 
+pr	Raios. 
+ro	Fir-ar să fie! 
+sp-eu	Maldita sea. 
+sp	Maldición. 
+sv	Jäklar. 
+th	ให้ตายสิ | 
+tr	Lanet olsun. 
+vi	Khỉ thật. | 
+zh-long	可惡 
+zh-short	该死 
+ko	젠장 | 
+ru	-Черт возьми. -Помочь тебе? 
+ja	人を呼ぶ？ | 
+pl	- Wezwać pomoc? - Nie. 
+id	- Mau kupanggil bantuan? - Tidak usah. 
+ar	&rlm;‏‏- هل أطلب المساعدة؟ | &rlm;‏- سأكون بخير.‏ | 
+da	-Skal jeg tilkalde hjælp? -Nej, det går. 
+el	-Να καλέσω για βοήθεια; -Μια χαρά είμαι. 
+en	-Should I call for help? | -No, I'll be all right. | 
+fi	-Kutsunko apua? -Ei tarvitse. 
+fr	- J'appelle quelqu'un ? - Ça ira. 
+he	&rlm;‏‏להזעיק עזרה? | &rlm;‏-אני אהיה בסדר.‏ | 
+it	- Vuoi che chiami aiuto? - Ce la faccio. 
+nl	Zal ik hulp halen? -Het komt goed. 
+pr-br	-Peço ajuda? -Vou ficar bem. 
+pr	- Chamo ajuda? - Eu fico bem. 
+ro	- Să chem ajutoare? - O să-mi revin. 
+sp	- ¿Busco ayuda? - Estaré bien. 
+sp-eu	- ¿Pido ayuda? - No será nada. 
+th	- ให้เรียกคนมาช่วยไหม | - ผมไม่เป็นไร | 
+tr	-Yardım çağırayım mı? -İyi olacağım. 
+vi	- Tôi gọi giúp đỡ nhé? | - Tôi ổn mà. | 
+zh-long	-要找人來幫忙嗎？ -我沒事 
+zh-short	-要叫人帮忙吗？ -我没事 
+no	-Skal jeg hente hjelp? -Det går bra. Bare vent. 
+sv	-Ska jag hämta hjälp? -Det blir bra. Jag ska bara stretcha. 
+ko	- 도움을 청할까요? | - 괜찮을 거야 | 
+ru	Не надо. 
+ja	いや 大丈夫だ | 伸ばしてみるよ | 
+ar	&rlm;‏‏أعطني بعض الوقت وحسب. | &rlm;‏يتعين أن أمدد عضلاتي.‏ | 
+el	Απλώς δώσε μου ένα λεπτό. Πρέπει να τεντωθώ. 
+en	Just give me one sec. | I just gotta stretch. | 
+fi	Hetki. Pitää venytellä. 
+fr	Juste une minute. Je m'étire. 
+he	&rlm;‏תני לי שנייה. אני צריך להתמתח.‏ | 
+it	Solo un secondo. Devo solo stirarmi. 
+nl	Wacht even. Ik moet alleen even rekken. 
+pl	Daj mi chwilę. Muszę się porozciągać. 
+pr-br	Me dê um segundo. Tenho que me alongar. 
+pr	Dá-me um segundo. Só tenho de me esticar. 
+ro	Lasă-mă o clipă. Trebuie să mă întind. 
+sp	Dame un segundo. Debo estirarme. 
+sp-eu	Dame un segundo. Tengo que estirar. 
+th	ขอเวลาแป๊บนึง ต้องยืดตัวหน่อย | 
+tr	Sadece biraz bekle. Esnemem lazım. 
+vi	Chờ một chút. Tôi phải co duỗi một lát. | 
+zh-long	等我一下，我伸展一下就好 
+zh-short	等一下 我只要伸展一下 
+ru	Одну секунду. Я только растянусь. 
+da	Giv mig et øjeblik. Jeg skal lige strække ud. 
+id	Beri aku waktu. Aku harus meregangkan. 
+ko	잠깐만 기다려줘 | 스트레칭만 하면 돼 | 
+no	Jeg må tøye ut. 
+

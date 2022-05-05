@@ -1,0 +1,26 @@
+ru	Пойду проверю джинсы. 
+ar	&rlm;‏سأذهب لأتفقد السروال الجينز.‏ | 
+da	Jeg kigger lige til bukserne. 
+el	Πάω να δω πώς είναι το παντελόνι. 
+en	All right. I'm gonna go check | on these jeans. | 
+fi	Käyn katsomassa farkkuja. 
+fr	Je vais voir si ton jean est propre. 
+he	&rlm;‏אני הולכת לבדוק מה קורה עם הג'ינס.‏ | 
+it	Vado a controllare i vestiti. 
+ko	청바지 한번 보고 올게요 | 
+nl	Ik ga kijken hoe het met je broek staat. 
+pl	Zobaczę, czy spodnie się uprały. 
+pr-br	Vou ver como estão as calças. 
+pr	Vou ver como estão as calças. 
+ro	Mă duc să văd ce e cu blugii. 
+sp-eu	Voy a ver los vaqueros. 
+sp	Iré a ver cómo están los  jeans . 
+sv	Jag ska kolla jeansen. 
+th	ฉันจะไปดูกางเกงยีนให้ | 
+tr	Ben gidip şu pantolona bakayım. 
+vi	Tôi đi xem đồ giặt. | 
+zh-long	我去看看褲子好了沒 
+zh-short	我去看看你的牛仔裤 
+id	Baiklah. Aku akan memeriksa celananya. 
+ja	服が乾いたか見てくる | 
+

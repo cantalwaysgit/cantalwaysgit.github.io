@@ -1,0 +1,27 @@
+id	Ini panggilan internasional. Bicara dengan cepat, ya? 
+ru	Это международный звонок, так что говори быстро. 
+ar	&rlm;‏إنها مكالمة دولية، لذا تحدثي بسرعة، مفهوم؟‏ | 
+da	Det er et internationalt opkald, så tal hurtigt, okay? 
+el	Είναι διεθνής κλήση, γι' αυτό μίλα γρήγορα, εντάξει; 
+en	It's an international call, | so talk fast, okay? | 
+fi	Tämä on ulkomaanpuhelu, joten puhu nopeasti. 
+fr	C'est un appel international, donc parlez vite. 
+he	&rlm;‏זו שיחה בין-לאומית, אז דבר מהר, בסדר?‏ | 
+it	È una chiamata internazionale. Parliamo rapidamente, d'accordo? 
+ko	국제 전화니까 말 빨리해요 | 
+nl	Het is een internationaal gesprek, dus praat snel. 
+no	Det er en utenlandssamtale, så snakk fort. 
+pl	To rozmowa międzynarodowa, więc się streszczaj. 
+pr-br	É uma ligação internacional, então fale logo, está bem? 
+pr	É uma chamada internacional. Fala depressa, está bem? 
+ro	E un apel internațional, așa că vorbește repede, da? 
+sp	Es una llamada internacional, así que habla rápido. 
+sp-eu	Es una llamada internacional, así que habla rápido. 
+sv	Det är ett utlandssamtal, så prata snabbt. 
+th	เป็นโทรทางไกล พูดเร็วๆ นะ โอเคไหม | 
+tr	Uluslararası görüşme bu, hızlı konuş, tamam mı? 
+vi	Điện thoại quốc tế đấy, | nói nhanh lên, được chứ? | 
+zh-long	這是國際電話，拜託講快點 
+zh-short	这是国际长途 所以讲快点 行吗？ 
+ja	国際電話だからすぐ切るぞ | 
+

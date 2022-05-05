@@ -1,0 +1,28 @@
+ja	だが彼女のことを褒めてた | 素質があるって | 
+en	They said she had a great reading. | 
+ar	&rlm;‏‏قالوا إن أدائها كان جيداً. | &rlm;‏بدت أنها أحبت نعناع "مينتوس".‏ | 
+da	De sagde, hun var god til prøven. Det så ud, som om hun elskede Mentos. 
+el	Είπαν ότι διάβασε καλά το κείμενο κι έπειθε ότι της αρέσουν τα Mentos. 
+fi	He sanoivat, että hän oli hyvä koeluvussa. Hän esitti hyvin pitävänsä Mentosista. 
+fr	Ils ont aimé son audition. On voyait qu'elle aimait les Mentos. 
+he	&rlm;‏‏הם אמרו שהיה לה מבחן נהדר. | &rlm;‏נראה היה שהיא אהבה את המנטוס.‏ | 
+id	Katanya, dia sangat menarik. Tampak seperti dia menyukai Mentos. 
+it	Dall'interpretazione sembrava che le Mentos le piacessero davvero. 
+ko	이해력이 좋다고 했거든 | 멘토스를 사랑하는 것 같았대 | 
+nl	Ze zeiden dat het een goede auditie was. Ze leek dol op Mentos. 
+no	De sa hun hadde en flott audition. Det så ut som hun elsket Mentos. 
+pl	Mówili, że na próbie wyglądałaś, jakbyś uwielbiała mentosy. 
+pr-br	Disseram que ela lia bem. Parecia que ela amava Mentos. 
+pr	Disseram que se saiu muito bem. Parecia mesmo que adorava Mentos. 
+ro	Au zis că a fost foarte bună la probă. Arăta de parcă iubea mentosanele. 
+sp	Dijeron que leyó muy bien. Parecía que le encantaban los Mentos. 
+sp-eu	Dijeron que hizo una prueba fantástica. Que parecía que le encantaban los Mentos. 
+sv	De sa att hon läste bra. Man kunde se att hon älskar Mentos. 
+th	พวกเขาบอกว่าเธออ่านได้ดี | ดูเหมือนเธอชอบเมนโทส์ | 
+tr	Provada harikaymış. Mentos'a bayılıyor gibi görünüyormuş. 
+vi	Họ nói cô ấy đọc rất hay. | Có vẻ cô ấy thích Mentos. | 
+zh-long	他們說她口條很好 感覺真的很愛曼陀珠 
+zh-short	他们说她广告词说得很有感觉 她似乎很喜欢曼妥思糖 
+ru	Они похвалили её пробу. Видно было, что она любит «Ментос». 
+en	That it truly looked like | she loved the Mentos. | 
+

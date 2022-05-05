@@ -1,0 +1,30 @@
+ja	話がある | 
+id	- Ada waktu? - Aku mau menonton klienku di panggung. 
+en	You got a minute? | 
+ar	&rlm;‏‏- ألديك دقيقة؟ | &rlm;‏- سأشاهد زبوني وهو على المسرح.‏ | 
+da	-Har du et øjeblik? -Jeg skal se min klient på scenen. 
+el	-Έχεις ένα λεπτό; -Πάω να δω τον πελάτη μου στη σκηνή. 
+fi	-Onko hetki aikaa? -Asiakkaani esiintyy. 
+fr	- T'as une minute ? - J'ai un client qui se produit. 
+he	&rlm;‏‏יש לך רגע? | &rlm;‏-אני הולך לצפות בלקוח שלי על הבמה.‏ | 
+it	- Hai un minuto? - Un mio cliente sta per esibirsi. 
+nl	Heb je even? -Ik ga naar mijn cliënt kijken. 
+no	-Har du et øyeblikk? -Jeg skal se på klienten min. 
+pl	- Masz chwilę? - Idę obejrzeć występ klienta. 
+pr-br	-Tem um minuto? -Vou ver o meu cliente no palco. 
+pr	- Tens um instante? - Vou ver um cliente a atuar. 
+ro	- Te rețin puțin? - Merg să-mi văd clientul pe scenă. 
+sp-eu	- ¿Tienes un momento? - Voy a ver a mi cliente actuar. 
+sp	- ¿Tienes un minuto? - Iré a ver a mi cliente actuar. 
+sv	-Har du tid? -Jag ska titta på min klients show. 
+th	- มีเวลาแป๊บนึงไหม | - ผมกำลังจะไปดูลูกค้าแสดงบนเวที | 
+tr	-Biraz vaktin var mı? -Sanatçımı sahnede izlemeye gidiyorum. 
+vi	- Anh rảnh không? | - Tôi định đi xem khách hàng của tôi diễn. | 
+zh-long	-有空嗎？ -我要去看我家藝人表演 
+zh-short	-有时间吗？ -我正要去看在台上的客户 
+ru	Есть минутка? 
+ko	- 시간 있어? | - 고객이 공연하는 거 보려고 | 
+ru	Я иду смотреть выступление клиента. 
+ja	ケヴィンのショーを見たい | 
+en	Yeah, I'm going to watch | my client on stage. | 
+

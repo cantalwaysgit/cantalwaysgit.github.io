@@ -1,0 +1,106 @@
+da	Men... 
+el	Μα... 
+id	Tapi, 
+th	แต่... | 
+ar	&rlm;‏لكن...‏ | 
+en	But... [scoffs] | 
+fr	Mais... 
+he	&rlm;‏אבל...‏ | 
+it	Ma... 
+pr-br	Mas... 
+pr	Mas... 
+ro	Dar... 
+sp-eu	Pero... 
+sp	Pero... 
+sv	Men... 
+tr	Ama... 
+vi	Nhưng... | 
+zh-long	可是… 
+zh-short	可是 
+ko	하지만... | 
+ru	-Но... Я ничего о нем не знаю. -Для этого существую я. 
+no	-Men jeg kan ingenting om TV-bransjen. -Det er derfor du har meg. 
+ja	テレビ業界には疎い | 
+el	-Δε γνωρίζω καθόλου το χώρο. -Γι' αυτό έχεις εμένα. 
+id	- aku tidak paham bisnis televisi. - Itu sebabnya ada aku. 
+en	I don't know the first thing | about the TV business. | 
+ar	&rlm;‏‏- لا أعرف شيئاً عن العمل في التلفاز. | &rlm;‏- لهذا لديك إياي.‏ | 
+da	-Jeg kender intet til TV-branchen. -Det er derfor, du har mig. 
+fi	-En tiedä tv-alasta mitään. -Sitä varten sinulla on minut. 
+fr	- J'y connais rien à ce milieu. - C'est à ça que je sers. 
+he	&rlm;‏‏אין לי מושג בטלוויזיה. | &rlm;‏-לכן יש לך אותי.‏ | 
+it	- Non so come vanno le cose alla TV. - Per questo ci sono io. 
+nl	Ik weet niets van televisie. -Daar heb je mij voor. 
+pl	- Nie znam się na tym. - Od tego masz mnie. 
+pr-br	-Não entendo de lance de TV. -Por isso tem a mim. 
+pr	- Não percebo nada de televisão. - É por isso que me tens. 
+ro	- Nu știu nimic despre televiziune. - De asta mă ai pe mine. 
+sp-eu	- No sé nada del negocio de la tele. - Por eso me tienes a mí. 
+sp	- No sé nada de televisión. - Por eso me tienes a mí. 
+sv	-Jag kan ingenting om TV. -Det är det du har mig till. 
+th	- ฉันไม่รู้จักธุรกิจทีวีเลย | - เพราะงั้นนายถึงมีฉันไง | 
+tr	-Televizyon işinden anlamam ki. -O yüzden ben varım ya. 
+vi	- Tôi không biết gì về truyền hình. | - Vậy nên anh cần tôi. | 
+zh-long	-我對電視圈一竅不通 -所以你才需要我 
+zh-short	-我不了解电视行业 -所以你才需要我 
+ko	- TV라면 난 초짜야 | - 그러니 내가 있는 거야 | 
+en	That's why you got me. | 
+ja	任せとけ　僕は詳しい | 
+id	- Aku punya koneksi. - Pembohong. 
+ru	-У меня есть связи. -Врешь. 
+ar	&rlm;‏‏- أنا أعرف محطات التلفاز. | &rlm;‏- كاذب!‏ | 
+da	-Jeg kender TV-stationerne. -Løgner. 
+el	-Ξέρω πώς λειτουργούν τα κανάλια. -Ψεύτη. 
+en	-I know my way around the networks. | -Liar! | 
+fi	-Tunnen tv-yhtiöt. -Valehtelet. 
+fr	- Je connais les chaînes. - Menteur ! 
+he	&rlm;‏‏אני מכיר את רשתות השידור. | &rlm;‏-שקרן!‏ | 
+it	- Conosco i network. - Bugiardo! 
+ko	- 연줄이 좀 있거든 | - 거짓말 | 
+nl	Ik ken de zenders. -Leugenaar. 
+no	-Jeg kjenner TV-selskapene. -Du lyver! 
+pl	- Ja się znam. - Łżesz! 
+pr-br	-Conheço as emissoras. -Mentiroso! 
+pr	- Eu conheço as estações. - Aldrabão! 
+ro	- Știu cum funcționează rețelele. - Mincinosule! 
+sp	- Conozco las cadenas. - ¡Mentiroso! 
+sp-eu	- Conozco las cadenas. - ¡Mentiroso! 
+sv	-Jag kan TV-bolagen. -Lögnare. 
+th	- ฉันรู้จักเครือข่ายทีวี | - โกหก | 
+tr	-Kanalları iyi tanıyorum. -Yalancı! 
+vi	- Tôi có mối liên hệ. | - Nói dối! | 
+zh-long	-電視圈我很熟 -騙人 
+zh-short	-我了解啊 -骗子 
+ja	ウソだ | 
+
+hu	Mit csinálsz? Anka! 
+nl	Wat doe je? 
+it	Che fai? 
+da	Hvad laver du? Anka! | 
+el	Τι κάνεις; Άνκα! 
+en	What are you doing? Anka! 
+es-eu	¿Qué haces? ¡Anka! 
+fi	Mitä sinä teet? Anka! | 
+fr	Tu fais quoi ? Anka ! 
+he	‫מה את עושה? אנקה!‬ | 
+hr	Što radiš? Anka! 
+id	Apa yang kau lakukan? Anka! 
+ko	&lrm;뭐 하는 거예요? | 
+ms	Apa awak buat? Anna! 
+no	Hva er det du gjør? Anka! 
+pt-br	O que está fazendo? Anka! 
+pt	O que estás a fazer? Anka! 
+ru	Что ты делаешь? Анка! 
+sv	Vad gör du? Anka! 
+th	&lrm;ทำอะไรน่ะ อันนา | 
+tr	Ne yapıyorsun? Anna! 
+uk	Що ти робиш? Анко! 
+vi	&lrm;Cô làm gì vậy? Anka! | 
+zh-long	妳要做什麼？安娜 
+zh-short	你干什么？安妮！ 
+es	¿Qué haces? ¡Anna! 
+ja	&lrm;何するんだ？　アンナ！ | 
+cs	Co to děláš? Anko! 
+ro	Ce faci? Anka! 
+it	Anka! 
+

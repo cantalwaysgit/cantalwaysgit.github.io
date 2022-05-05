@@ -1,0 +1,57 @@
+id	Barbra Streisand mulai sebagai penyanyi latar di kebun binatang. 
+ja	Ｂ･ストライサンドは | 動物園でコーラス | 
+ru	Барбра Стрейзанд начинала певичкой в зоопарке. 
+ar	&rlm;‏‏بدأت "باربرة سترايساند" كمغنية احتياطية | &rlm;‏في حديقة حيوانات أليفة.‏ | 
+da	Barbra Streisand begyndte som korsanger i en børnezoo. 
+el	Η Μπάρμπαρα Στράιζαντ έκανε φωνητικά σε παιδικό ζωολογικό κήπο. 
+en	Barbra Streisand started | as a backup singer in a petting zoo. | 
+fi	Barbra Streisand aloitti taustalaulajana kotieläintarhassa. 
+fr	Barbra Streisand a commencé dans le chœur d'une ferme pédagogique. 
+he	&rlm;‏‏ברברה סטרייסנד התחילה כזמרת ליווי | &rlm;‏בפינת ליטוף.‏ | 
+it	Barbra Streisand faceva la corista in uno zoo. 
+ko	바브라 스트라이샌드는 | 체험 동물원 보조 가수였고요 | 
+nl	Barbra Streisand begon als achtergrondzangeres op 'n kinderboerderij. 
+no	Barbra Streisand begynte som bakgrunnssanger i en dyrehage. 
+pl	Barbra Streisand zaczynała od występów w minizoo. 
+pr	A Barbra Streisand começou como cantora secundária num zoológico. 
+pr-br	Barbra Streisand começou como  backing vocal  em um minizoológico. 
+ro	Barbra Streisand era voce secundară într-un zoo pentru copii. 
+sp	Barbra Streisand comenzó como cantante suplente en un zoo. 
+sp-eu	Barbra Streisand empezó como corista en un zoo doméstico. 
+sv	Barbra Streisand började som doasångare på en djurpark. 
+th	บาร์บาร่า สไตรแซนด์เริ่มจากเป็น | นักร้องลูกคู่ในสวนสัตว์เด็ก | 
+tr	Barbara Streisand evcil hayvan çiftliğinde vokalist olarak başlamıştı. 
+vi	Barbra Streisand | khởi nghiệp là ca sĩ hát bè ở vườn thú. | 
+zh-long	芭芭拉史翠珊成名前 在寵物動物園當伴唱歌手 
+zh-short	芭芭拉史翠珊一开始 只是爱畜乐园里的后备歌手 
+
+es	Tenía la casa repleta de fotos. Mira, por favor. 
+da	Hendes hjem var fuldt af fotos. Se her. | 
+el	Το σπίτι της ήταν γεμάτο φωτογραφίες. Ρίξε μια ματιά. 
+en	Her home was full of photos. Take a look. 
+es-eu	Su casa estaba llena de fotos. Mira. 
+fi	Koti oli täynnä kuvia. Katso. | 
+fr	Son appartement était plein de photos. Regarde ça. 
+he	‫הבית שלה היה מלא תמונות. תסתכל.‬ | 
+hr	Dom joj je bio pun fotografija. Molim te, pogledaj. 
+hu	A lakása tele volt fényképekkel. Ezt nézd meg! 
+id	Rumahnya penuh foto. Lihatlah. 
+it	La sua casa era piena di foto. Dai un'occhiata. 
+ja	&lrm;写真だらけで | &lrm;これを見てください | 
+ko	&lrm;집에 사진이 가득했어요 | &lrm;한번 봐요 | 
+nl	Haar huis stond vol foto's. Kijk eens. 
+no	Hjemmet hennes var fullt av bilder. Ta en titt. 
+pt-br	A casa dela estava repleta de fotos. Dá uma olhada. 
+pt	Tinha a casa cheia de fotos. Ora vê. 
+ro	Casa ei era plină de poze. Uită-te, te rog! 
+sv	Det fanns många bilder hemma hos henne. Titta här. 
+th	&lrm;บ้านเธอมีรูปเต็มไปหมด ดูนี่สิ | 
+tr	Evi fotoğraftan geçilmiyordu. Şuna baksana. 
+uk	У неї вдома повно фото. Ось, дивися. 
+vi	&lrm;Nhà cô ấy đầy ảnh. Xem đi. | 
+zh-long	她家有超多照片，請你看一下 
+zh-short	她家里到处都是照片 你看 
+cs	Má byt oblepený fotkama. Koukej. 
+ms	Rumah dia penuh dengan gambar. Tengoklah. 
+ru	У нее дома полно фотографий. Вот. Взгляни-ка. 
+

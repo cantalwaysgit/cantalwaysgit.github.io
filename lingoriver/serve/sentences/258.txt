@@ -1,0 +1,75 @@
+ar	&rlm;‏أنا "كورتني". سُررت بلقائك.‏ | 
+da	Courtney. Hyggeligt at møde dig. 
+el	Είμαι η Κόρτνι. Χάρηκα για τη γνωριμία. 
+en	Courtney. Nice to meet you. | 
+fi	Courtney. Hauska tutustua. 
+he	&rlm;‏קורטני. נעים מאוד.‏ | 
+it	Courtney. Molto piacere. 
+ko	코트니예요, 반가워요 | 
+pl	Courtney. Miło mi poznać. 
+pr-br	Courtney. Prazer em conhecê-lo. 
+pr	Courtney. Prazer em conhecê-lo. 
+sp	Courtney. Encantada. 
+sp-eu	Courtney. Encantada. 
+sv	Courtney. Angenämt. 
+vi	Tôi là Courtney. Rất vui được gặp anh. | 
+zh-long	寇妮，幸會 
+zh-short	考特尼 很高兴认识你 
+ja	コートニーよ | 
+fr	Courtney. Enchantée. 
+no	-Courtney. Hyggelig å hilse på deg. -Jeg klarte ikke å se bort fra deg. 
+tr	Courtney. Memnun oldum. 
+id	Courtney. Senang bertemu. 
+ro	Courtney. Încântată! 
+ru	Кортни. Очень приятно. 
+th	คอร์ทนี่ย์ ยินดีที่รู้จักค่ะ | 
+
+cs	Přestřihli je u všech kamer? 
+el	Χάλασαν όλες τις κάμερες; 
+en	Did they cut off all the cameras? 
+es-eu	¿Anularon las cámaras? 
+fr	Sur toutes les caméras ? 
+he	‫הם חתכו את החוטים בכל המצלמות?‬ | 
+hr	Na svim kamerama? 
+hu	Az összes kameráét elvágták? 
+id	Semuanya? 
+it	Li hanno tagliati a tutte? 
+ja	&lrm;全部のカメラの？ | 
+ko	&lrm;모든 카메라 전선을 다 끊었나요? | 
+ms	Semua wayar kamera dipotong? 
+pt	Fizeram isso a todas? 
+ru	Перерезали у всех камер? 
+th	&lrm;ตัดทุกตัวเลยเหรอ | 
+vi	&lrm;Chúng cắt dây tất cả các máy à? | 
+zh-long	所有監視器的電線都被剪斷了？ 
+zh-short	所有摄像头的线都剪了？ 
+da	-Gik det ud over alle kameraerne? | -Dem alle. | 
+es	- ¿Y las demás cámaras? - Están todas rotas. 
+fi	Pimennettiinkö kaikki kamerat? | -Joka ikinen. | 
+nl	Hebben ze alle draden doorgesneden? -Ja. 
+no	-Kuttet de den på alle kameraene? -På alle. 
+pt-br	- Cortaram de todas as câmeras? - De todas. 
+ro	- Toate camerele sunt în situația asta? - Da. 
+sv	-Gäller det alla kameror? -Ja. 
+tr	-Bütün kameralarınkini mi kesmişler? -Evet. 
+uk	-Дроти перерізали на всіх камерах? -На всіх. 
+cs	U všech. 
+el	Όλες. 
+en	All of them. 
+es-eu	Todas. 
+fr	Oui, toutes. 
+he	‫בכולן.‬ | 
+hr	Na svima. 
+hu	Mindegyiket. 
+id	Tidak semuanya. 
+it	A tutte. 
+ja	&lrm;ああ | 
+ko	&lrm;전부 다요 | 
+ms	Kesemuanya. 
+pt	A todas. 
+ru	Да, у всех. 
+th	&lrm;ทุกตัวเลย | 
+vi	&lrm;Không phải tất cả. | 
+zh-long	全部都剪斷了 
+zh-short	不是全部 
+

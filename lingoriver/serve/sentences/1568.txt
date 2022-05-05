@@ -1,0 +1,30 @@
+id	Baiklah. Sebentar lagi. 
+ja	もうちょっとだ | 
+ru	Еще секундочку. 
+ar	&rlm;‏‏أعطني بعض الوقت وحسب. | &rlm;‏أنا بحاجة إلى المساعدة.‏ | 
+da	Giv mig lige et øjeblik mere. Jeg har brug for hjælp. 
+el	Δώσε μου ένα λεπτό ακόμη. Όντως χρειάζομαι βοήθεια. 
+en	All right. Just give me one more sec. | I do need help. | 
+fi	Hetki vain. Tarvitsen kyllä apua. 
+fr	Encore une seconde. J'ai besoin d'aide. 
+he	&rlm;‏רק תני לי שנייה נוספת. אני זקוק לעזרה.‏ | 
+it	Dammi un altro secondo. Ho bisogno di aiuto. 
+ko	잠깐만 더 기다려줘 | 도움이 필요할 것 같아 | 
+nl	Wacht nog even. Ik heb hulp nodig. 
+no	Bare vent litt til. Jeg trenger hjelp, ja. 
+pl	Jeszcze chwila. Potrzebuję pomocy. 
+pr-br	Me dê mais um segundo. Eu preciso de ajuda. 
+pr	Dá-me mais um segundo. Preciso mesmo de ajuda. 
+ro	Mai lasă-mă o clipă. Chiar am nevoie de ajutor. 
+sp	Dame otro segundo. Necesito ayuda. 
+sp-eu	Dame un segundo más. Necesito ayuda. 
+sv	En sekund till bara. Jag behöver hjälp. 
+th	ขอเวลาอีกแป๊บ | ต้องช่วยแล้วละ | 
+tr	Biraz daha bekle. Yardıma ihtiyacım var. 
+vi	Chờ một lát thôi. Tôi cần giúp thật. | 
+zh-long	再等我一下，我需要幫忙 
+zh-short	再多等我一下 我确实需要帮助 
+id	Aku butuh bantuan. 
+ja	手を貸して | 
+ru	Нет, помоги. 
+

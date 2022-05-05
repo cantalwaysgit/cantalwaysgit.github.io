@@ -1,0 +1,26 @@
+ru	Бабочки, бабочки 
+id	Kau membuatku gembira, gembira 
+ar	&rlm;‏"تجعلني أشعر بالإثارة‏ | 
+da	Du giver mig sommerfugle 
+el	Πεταλούδες, πεταλούδες 
+en	♪ You give me butterfly, butterflies ♪ | 
+fi	Olet perhonen 
+fr	Mon corps frissonne Et frissonne 
+he	&rlm;‏‏את עושה לי פרפרים | &rlm;‏פרפרים‏ | 
+it	Fai volare farfalle, farfalla 
+ko	날 설레게 해 | 
+nl	je geeft me vlinders 
+pl	Przez ciebie czuję motylki 
+pr-br	Você me dá arrepios 
+pr	Provocas-me arrepios 
+ro	Simt fluturi Fluturi 
+sp-eu	Siento mariposas 
+sp	Me causas mariposas Mariposas 
+sv	Du ger mig fjärilar, fjärilar 
+th	คุณทำให้ผีเสื้อกระพือปีก | 
+tr	Kelebekler uçuşuyor 
+vi	Anh làm em xao động | Xao động | 
+zh-long	你讓我心靈 
+zh-short	你让我紧张不安 
+ja	こんなにも胸がときめく | 
+

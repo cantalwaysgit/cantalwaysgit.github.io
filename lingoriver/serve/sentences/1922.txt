@@ -1,0 +1,26 @@
+ar	&rlm;‏الشفق القطبي الشمالي والنجوم في الأعلى‏ | 
+da	Nordlyset Og stjernene over 
+el	Στο Βόρειο Σέλας και στ' αστέρια 
+en	♪ The northern lights | And the stars above... ♪ | 
+fi	Revontulet ja taivaan tähdet 
+fr	L'aurore boréale et les étoiles autour 
+he	&rlm;‏אורות הצפון והכוכבים מעל‏ | 
+it	L'aurora boreale e le stelle in cielo 
+ko	오로라와 하늘의 별은 | 
+nl	het noorderlicht en de sterren 
+pl	Pod zorzy blaskiem i gwiazdami 
+pr	A aurora boreal e as estrelas lá em cima 
+pr-br	A aurora boreal e estrelas no céu 
+ro	Dincolo de aurora boreală Și de stele 
+sp-eu	La aurora boreal Y las estrellas... 
+sp	La aurora boreal Y las estrellas en el cielo 
+sv	Norrskenet och stjärnorna där ovan 
+th	แสงเหนือและดวงดาวบนฟ้า | 
+tr	Kuzey ışıkları ve yukarıdaki yıldızlar 
+vi	Ánh sáng phương bắc | Và những ngôi sao trên trời | 
+zh-long	天上的北極光和星星 
+zh-short	去看极光和辰星 
+ja	あの輝くオーロラの下で… | 
+ru	Северное сияние и звезды 
+id	Aurora dan bintang-bintang di langit 
+

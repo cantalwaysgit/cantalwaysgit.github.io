@@ -1,0 +1,29 @@
+id	Aku tidak bisa terhubung dengan siapa pun. Aku... 
+ru	Меня никто не понимает. 
+fi	En löydä yhteyttä kenenkään kanssa. En tunne oloani turvalliseksi. 
+ar	&rlm;‏‏لا يمكنني الارتباط مع أحد. | &rlm;‏لا أشعر بالأمان.‏ | 
+da	Jeg kan ikke forene mig med nogen. Jeg føler mig bare ikke tryg. 
+el	Δεν μπορώ να δεθώ με κανέναν. Δε νιώθω ασφαλής. 
+en	I can't connect with anybody. | I don't... I just don't feel safe. | 
+fr	J'arrive plus à créer des liens. J'angoisse. 
+he	&rlm;‏‏אני לא יכולה להתחבר עם אף אחד. | &rlm;‏אני פשוט לא מרגישה בטוחה.‏ | 
+it	Non lego con nessuno. Non mi sento sicura. 
+ko	누구와도 관계를 맺기 어렵고 | 불안해요 | 
+nl	Ik heb met niemand een band. Ik voel me niet veilig. 
+no	Jeg kan ikke bli venn med noen. Jeg føler meg ikke trygg. 
+pl	Nie umiem nawiązywać znajomości. Nie czuję się bezpieczna. 
+pr-br	Não consigo me ligar a ninguém. Não me sinto segura. 
+pr	Não me consigo ligar a ninguém. Não me sinto segura. 
+ro	Nu mă mai pot apropia de oameni. Nu mă simt în siguranță. 
+sp-eu	No conecto con nadie. No me siento segura. 
+sp	No puedo conectarme con nadie. No me siento a salvo. 
+sv	Jag hör inte ihop med nån. Jag känner mig inte säker. 
+th	ฉันผูกพันกับใครไม่ได้ | ไม่รู้สึกปลอดภัย | 
+tr	Kimseyle bağ kuramıyorum. Kendimi güvende hissetmiyorum. 
+vi	Tôi không thể kết nối với ai. | Tôi không thấy an toàn. | 
+zh-long	我沒有朋友，沒有安全感 
+zh-short	我跟谁都联系不上 没安全感 
+ja	誰とも通じ合えなくて | 不安ばかり感じる | 
+id	Aku tidak merasa aman. 
+ru	Нигде нет покоя. 
+

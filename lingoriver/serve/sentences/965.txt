@@ -1,0 +1,49 @@
+id	Hei, Arsenio. Senang bisa bertemu. Aku Sandy Wexler, manajernya. 
+ja	やあ アーセニオ | マネジャーのウェクスラーだ | 
+ru	Привет, Арсенио. Рад видеть. 
+ar	&rlm;‏مرحباً يا "آرسينيو". سُررت برؤيتك.‏ | 
+da	Hej, Arsenio. Godt at se dig. 
+el	Γεια σου, Αρσένιο. Χαίρομαι που σε βλέπω. 
+fi	Hei, Arsenio. Mukava nähdä. 
+fr	Salut, Arsenio. Ravi de te voir. 
+he	&rlm;‏היי, ארסיניו. טוב לראות אותך.‏ | 
+it	Ciao, Arsenio. Che piacere. 
+no	Hei, Arsenio. Hyggelig å se deg. 
+pl	Miło cię widzieć, Arsenio. 
+pr-br	Oi, Arsenio. Que bom vê-lo. 
+pr	Olá, Arsenio. Prazer em ver-te. 
+ro	Salut, Arsenio! Mă bucur să te văd. 
+sp-eu	Hola, Arsenio. Me alegro de verte. 
+sp	Hola, Arsenio. Un gusto verte. 
+sv	Hej, Arsenio. Angenämt. 
+th	เฮ่ อาเซนนิโอ ดีใจที่ได้เจอ | 
+tr	Selam Arsenio. Seni gördüğüme sevindim. 
+vi	Chào Arsenio. Rất vui được gặp anh. | 
+zh-long	嘿，阿塞尼奧，很開心見到你 
+zh-short	嘿 阿塞尼奥 很高兴见到你 
+ko	아세니오, 반가워 | 
+en	Hey, Arsenio. Good to see you. | I'm Sandy Wexler, her manager. | 
+nl	Arsenio, leuk je te zien. Ik ben Sandy Wexler. Haar manager. 
+ru	Я Сэнди Уэкслер, её менеджер. 
+ar	&rlm;‏أنا "ساندي ويكسلر"، مدير أعمالها.‏ | 
+da	Jeg er Sandy Wexler, hendes manager. 
+el	Είμαι ο Σάντι Γουέξλερ, ο μάνατζέρ της. 
+fi	Olen Sandy Wexler, hänen managerinsa. 
+fr	Je suis Sandy Wexler, son imprésario. 
+he	&rlm;‏אני סנדי וקסלר, המנהל שלה.‏ | 
+it	Sono Sandy Wexler, il suo manager. 
+no	Sandy Wexler, manageren hennes. 
+pl	Sandy Wexler, jej menedżer. 
+pr-br	Sou Sandy Wexler, o empresário dela. 
+pr	Sou o Sandy Wexler, o empresário dela. 
+ro	Sunt Sandy Wexler, impresarul ei. 
+sp-eu	Soy Sandy Wexler, su mánager. 
+sp	Soy Sandy Wexler. Su representante. 
+sv	Jag är Sandy Wexler, hennes manager. 
+th	ผมแซนดี้ เวกซ์เลอร์ ผู้จัดการของเธอ | 
+tr	Ben Sandy Wexler, onun menajeriyim. 
+vi	Tôi là Sandy Wexler, quản lý của cô ấy. | 
+zh-long	我是山迪韋克斯勒 她的經紀人 
+zh-short	我是桑迪韦克斯勒 她的经纪人 
+ko	난 코트니의 매니저인 | 샌디 웩슬러야 | 
+

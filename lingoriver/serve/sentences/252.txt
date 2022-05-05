@@ -1,0 +1,56 @@
+id	Yang terbaik yang ada 
+ru	Я лучше всех 
+ja	美しい白鳥なんだ | 
+ar	&rlm;‏الأفضل في المدينة"‏ | 
+da	Byens bedste 
+el	Ο καλύτερος στην πόλη. 
+en	♪ The best in town ♪ | 
+fi	Kerma kaupungin 
+fr	Le plus beau du coin 
+he	&rlm;‏הכי טוב בעיר‏ | 
+it	Il migliore della città 
+nl	de beste in de stad 
+pl	Na cały świat 
+pr-br	O melhor da cidade 
+pr	O melhor que há 
+ro	Cea mai frumoasă 
+sp	El mejor de la ciudad 
+sp-eu	La mejor de la ciudad 
+sv	Den finaste i stan 
+th	เลิศที่สุดในเมือง | 
+tr	Kentin en iyisi 
+vi	Đẹp nhất thị trấn | 
+zh-long	最美的天鵝 
+zh-short	镇上最美的 
+ko	동네 최고 | 
+
+es	¿Y dónde está? 
+id	Jadi, di mana dia? 
+uk	То де він? 
+cs	Tak kde je? 
+da	Hvor er han? | 
+el	Λοιπόν, πού είναι; 
+en	Then where is he? 
+es-eu	¿Y dónde está? 
+fr	Où est-il ? 
+he	‫אז איפה הוא?‬ | 
+hr	Gdje je on? 
+hu	Akkor hol van? 
+it	E allora dov'è? 
+ko	&lrm;그래서 지금 어디 있는데? | 
+ms	Jadi, di mana dia? 
+nl	Waar is hij dan? 
+no	Så hvor er han? 
+pt	Onde está ele? 
+ro	Atunci unde e? 
+sv	Men var är han? 
+th	&lrm;งั้นลูกอยู่ไหนล่ะ | 
+tr	Nerede peki? 
+vi	&lrm;Vậy nó ở đâu? | 
+zh-long	那他在哪裡？ 
+zh-short	那他在哪里？ 
+fi	Missä hän sitten on? | 
+pt-br	Então onde ele está? 
+ja	&lrm;どこにいるの？ | 
+ru	Так где же он? 
+

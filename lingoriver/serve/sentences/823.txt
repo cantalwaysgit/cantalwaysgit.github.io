@@ -1,0 +1,29 @@
+id	Kau melakukannya! Kau mencelupkan kakimu. Kini kakimu basah. 
+ja	入れたな！ 足を入れた | 
+en	Okay, you did it! You did it! | You did the foot. | 
+ar	&rlm;‏حسناً، لقد فعلتها ووضعت قدمك! قدمك مبللة.‏ | 
+da	Du gjorde det! Foden er våd. 
+el	Το έκανες! Έβαλες το πόδι. Το πόδι βράχηκε. 
+fi	Kastoit jalkasi. Se on märkä. 
+fr	Voilà ! T'as mis le pied dedans. Il est mouillé. 
+he	&rlm;‏‏בסדר, עשית את זה! הכנסת את כף הרגל. | &rlm;‏כף הרגל רטובה.‏ | 
+it	L'hai fatto. Ti sei bagnata il piede. 
+ko	결국 발을 담갔군 | 발이 젖어버렸어 | 
+nl	Je hebt het gedaan. Je voet is nat. 
+no	Ok, du gjorde det! Du tok foten. Foten er våt. 
+pl	Zrobiłaś to! Wsadziłaś stopę. Stopa jest mokra. 
+pr-br	Você colocou o pé! O pé está molhado. 
+pr	Pronto, meteste o pé! O pé está molhado. 
+ro	Bine, ai făcut-o! Ți-ai băgat piciorul. E ud. 
+ru	Ты это сделала! Окунула ногу. Нога мокрая. 
+sp-eu	Vale, ¡lo has hecho! Has metido el pie. El pie está mojado. 
+sp	¡Lo hiciste! Metiste el pie. El pie está mojado. 
+sv	Du gjorde det. Du doppade foten. Den är våt. 
+th	โอเค คุณทำไปแล้ว หย่อนเท้าลงไปแล้ว | เท้าเปียกแล้ว | 
+tr	Yaptın işte! Ayağını soktun. Ayak ıslandı. 
+vi	Cô đã làm thế! Cô đã cho chân xuống. | Chân cô đã ướt. | 
+zh-long	妳伸進去了！妳的腳濕了 
+zh-short	好吧 你做了！你把脚放进去了 你的脚沾水了 
+ja	足がぬれてる | 
+en	You did the foot. The foot is wet. | 
+

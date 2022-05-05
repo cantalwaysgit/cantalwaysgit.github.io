@@ -1,0 +1,5 @@
+en	No, I'm not. | 
+id	Tidak. 
+ru	Нет. 
+ja	まさか | 
+

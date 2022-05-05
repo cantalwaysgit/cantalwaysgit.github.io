@@ -1,0 +1,28 @@
+ja	まだ手をやってる | かわいいわ | 
+ru	Рука на подбородке! 
+id	Tangannya masih menahan dagunya. Dia manis sekali. 
+zh-short	他的手还放在下巴上 真可爱 
+el	Έχει ακόμη το χέρι στο πιγούνι. Είναι πολύ χαριτωμένος. 
+th	เขายังเท้าคางอยู่ น่ารักจัง | 
+ko	아직도 턱에 손 올리고 있어요 | 진짜 귀여워요 | 
+sv	Han har handen mot hakan. Så gulligt. 
+no	Han har fortsatt hånden på haken. Så søtt. 
+ar	&rlm;‏لا يزال يضع يده على ذقنه. ظريف جداً.‏ | 
+da	Han har stadig hånden på hagen. Det er nuttet. 
+en	He's still got his hand on his chin. | He's so cute. | 
+fi	Hänellä on vieläkin käsi leualla. Söpöä. 
+fr	Il tient toujours la pose. C'est trop chou. 
+he	&rlm;‏הוא עדיין עם היד על הסנטר. כל כך חמוד.‏ | 
+it	Ha ancora la mano sul mento. Che carino. 
+nl	Hij heeft nog steeds zijn hand op zijn kin. Lief. 
+pl	Wciąż trzyma rękę pod brodą. Urocze. 
+pr-br	Ele ainda está com a mão no queixo. Que gracinha. 
+pr	Ele ainda tem a mão no queixo. Que giro. 
+ro	Încă mai are mâna la bărbie. Ce drăguț e! 
+sp	Aún tiene la mano en el mentón. Qué dulce. 
+sp-eu	Aún tiene la mano en la barbilla. Qué mono. 
+tr	Eli hâlâ çenesinde. Çok şeker. 
+vi	Anh ấy vẫn đặt tay lên cằm. Đáng yêu quá. | 
+zh-long	他的手還是黏在下巴上，真可愛 
+ru	Так мило. 
+

@@ -1,0 +1,31 @@
+ja	ニクいほど面白い | 
+id	Temui saja dia. 
+ru	Да просто встреча с ним. 
+en	Just meet with him. | 
+ar	&rlm;‏قابليه وحسب. هذا كل ما أطلب أن تفعليه.‏ | 
+da	Bare mød ham. Det er alt, jeg beder dig gøre. 
+el	Απλώς συνάντησέ τον. Μόνο αυτό σου ζητάω. 
+fi	Tapaa hänet. En pyydä muuta. 
+fr	Va lui causer. C'est tout ce que je demande. 
+he	&rlm;‏רק תיפגשי איתו. זה כל מה שאני מבקש ממך.‏ | 
+it	Solo un incontro. Non ti chiedo altro. 
+nl	Ontmoet hem. Meer vraag ik niet. 
+no	Bare møt ham. Det er alt jeg ber om. 
+pl	Spotkaj się z nim jakoś na boczku. Tylko o to proszę. 
+pr-br	Encontre-se com ele. Só estou pedindo isso. 
+pr	Fala com ele. É só isso que peço. 
+ro	Doar întâlnește-te cu el, atât. 
+sp-eu	Reúnete con él. Es todo lo que te pido. 
+sp	Solo conócelo. Es todo lo que te pido. 
+sv	Träffa honom. Det är allt jag ber dig om. 
+th	แค่เจอเขาหน่อย ผมขอให้ทำแค่นี้ | 
+tr	Onunla bir tanış. Tek istediğim bu. 
+vi	Cứ gặp anh ta đi. Tôi chỉ nhờ có thế. | 
+zh-long	跟他碰個面，我只拜託你這個 跟他碰個面就好 
+zh-short	就见见他 我只求这个 
+ko	만나만 줘요 | 부탁은 그것뿐이에요 | 
+id	Itulah yang kuminta kepadamu. Temui saja dia. 
+ja	面白いから一度 会って | 
+ru	Я только об этом прошу. 
+en	That's all I'm asking you to do. | Just meet with him. | 
+

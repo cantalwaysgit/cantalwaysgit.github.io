@@ -1,0 +1,30 @@
+id	- Apa yang kita lakukan? - Apa yang kita lakukan? 
+ja	何をする？ | 
+en	What we gonna do today? | 
+ar	&rlm;‏‏- ما الذي سنفعله اليوم؟ | &rlm;‏- أي شيء تريدينه يا طفلة.‏ | 
+da	-Hvor skal vi hen i dag? -Lige hvor du vil, stump. 
+el	-Τι θα κάνουμε σήμερα; -Ό,τι θέλεις, μικρή. 
+fi	-Mitä teemme tänään? -Ihan mitä haluat. 
+fr	- C'est quoi, le programme ? - Je te laisse choisir. 
+he	&rlm;‏‏מה נעשה היום? | &rlm;‏-כל מה שתרצי, ילדונת.‏ | 
+it	- Oggi che facciamo? - Quello che vuoi, piccola. 
+nl	Wat gaan we vandaag doen? -Wat jij wilt. 
+no	-Hva skal vi gjøre i dag? -Hva du vil. 
+pr-br	-O que vamos fazer hoje? -O que você quiser, garota. 
+pr	- O que vamos fazer hoje? - O que quiseres, miúda. 
+ro	- Ce facem azi? - Orice vrei tu, puștoaico. 
+sp-eu	- ¿Qué hacemos hoy? - Lo que tú quieras, chavalita. 
+sp	- ¿Qué haremos hoy? - Lo que quiera, señorita. 
+sv	-Vad ska vi göra idag? -Vad du vill. 
+th	- วันนี้เราจะทำอะไร | - อะไรก็ได้ที่อยากทำเลย เด็กน้อย | 
+tr	-Bugün ne yapacağız? -Ne istersen yaparız evlat. 
+vi	- Hôm nay ta làm gì? | - Gì cũng được. | 
+zh-long	-今天要幹嘛？ -想幹嘛就幹嘛，小鬼 
+zh-short	-我们今天要做什么？ -你想做什么就做什么 孩子 
+ko	- 오늘 뭐 할까요? | - 원하는 건 뭐든 좋아 | 
+ru	-Чем займемся? -Чем хочешь, детка. 
+pl	- Co dzisiaj porobimy? - Co tylko chcesz. 
+ja	君のしたいことを何でも | 
+en	What we gonna do today? | Anything you want, kiddo. | 
+id	Apa pun yang kau mau, Nak. 
+

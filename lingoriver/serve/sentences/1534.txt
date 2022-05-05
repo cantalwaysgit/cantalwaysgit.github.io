@@ -1,0 +1,24 @@
+id	Ini terasa di luar kendali. 
+ru	Она вышла из-под контроля. 
+ar	&rlm;‏أشعر بأنني فقدت السيطرة عليها.‏ | 
+da	Det føles ude af kontrol. 
+el	Νιώθω ότι χάνω τον έλεγχο. 
+en	It feels out of control. | 
+fi	Se tuntuu holtittomalta. 
+fr	Elle me dépasse. 
+he	&rlm;‏אני מרגישה שהם יצאו משליטה.‏ | 
+it	Mi sta sfuggendo di mano. 
+ko	통제 불능이 된 것 같아요 | 
+pl	Brak w nim kontroli. 
+pr-br	Parece fora de controle. 
+pr	Parece estar fora de controlo. 
+ro	Simt că o ia la vale. 
+sp-eu	Siento que está fuera de control. 
+sp	Parece fuera de control. 
+sv	Jag har tappat kontrollen. 
+th	มันรู้สึกควบคุมไม่ได้ | 
+tr	Kontrolden çıkmış gibi. 
+vi	Tôi thấy mất kiểm soát. | 
+zh-long	感覺完全失控了 
+zh-short	感觉失控了 
+

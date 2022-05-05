@@ -1,0 +1,49 @@
+id	Ada yang hubungi Perlindungan Anak karena mereka pikir 
+pl	Ktoś wezwał policję, myśląc, że płacze jakaś dziewczynka. 
+ru	Кто-то вызвал полицию. Думали, что девочка попала в беду. 
+nl	Iemand belde de kinderbescherming. Ze dachten dat er een meisje vastzat. 
+sv	Nån ringde socialtjänsten och sa  att en liten flicka misshandlades i bilen. 
+ko	여자애가 다친 줄 알고 누군가 | 아동 보호 서비스에 신고했대요 | 
+ar	&rlm;‏‏اتصل أحدهم بخدمات الأطفال. | &rlm;‏لأنهم ظنوا أن فتاة قد أُصيبت بأذى.‏ | 
+da	Nogen ringede til kommunen. De troede, en pige var kommet til skade. 
+el	Κάλεσαν την Υπηρεσία Προστασίας Παιδιών. Νόμισαν ότι κινδύνευε ένα κοριτσάκι. 
+en	Someone called child services 'cause | they thought a little girl was in trouble. | 
+fr	Quelqu'un a appelé les services sociaux pour signaler une fillette en détresse 
+he	&rlm;‏‏מישהו קרא לשירותי הרווחה. | &rlm;‏הם חשבו שילדה נפגעה.‏ | 
+it	Chiamarono i servizi sociali temendo che una bambina fosse in pericolo... 
+no	Noen ringte barnevernet. De trodde ei jente var i trøbbel. 
+pr-br	Chamaram o juizado de menores. Acharam que havia uma garota ferida. 
+pr	Ligaram para a proteção de menores. Pensaram que havia uma menina em perigo. 
+ro	Cineva a chemat Protecția Copilului. A crezut că era o fetiță rănită. 
+sp	Alguien llamó a servicios infantiles. Creían que era una niña lastimada. 
+sp-eu	Llamaron a servicios sociales. Creían que era una niña herida. 
+th	มีคนโทรไปหาสวัสดิการเด็ก | เพราะนึกว่ามีเด็กผู้หญิงถูกทำร้าย | 
+tr	Çocuk esirgemeyi arayanlar olmuş. Kızın birine bir şey oldu sanmışlar. 
+vi	Ai đó đã gọi cho bên bảo vệ trẻ em. | Họ tưởng có một bé gái bị đau. | 
+zh-long	還有人打電話給兒福中心 以為有小女孩出事 
+zh-short	有人给儿童服务中心打了电话 他们以为有女孩碰到了麻烦 
+fi	Joku soitti lastensuojeluun. Häntä luultiin hädässä olevaksi pikkutytöksi. 
+ja	児童相談所に通報があった | “幼い子が車中に”と | 
+id	ada anak yang terancam di dalam mobil itu. 
+ko	- 네 | - 차 안에서요 | 
+ar	&rlm;‏‏- أجل. | &rlm;‏- في سيارة.‏ | 
+da	-Ja. -I en bil. 
+el	-Ναι. -Σ' ένα αυτοκίνητο. 
+en	-Yeah. | -In a car. | 
+fr	dans une voiture. 
+he	&rlm;‏‏כן. | &rlm;‏-במכונית.‏ | 
+it	...in auto. 
+no	-Ja. -I en bil. 
+pr-br	-É. -Em um carro. 
+pr	- Sim. - Num carro. 
+ro	- Da. - Într-o mașină. 
+sp-eu	- Sí. - En un coche. 
+sp	- Sí. - En un auto. 
+th	- ใช่ | - ในรถ | 
+tr	-Evet. -Arabada. 
+vi	- Vâng. | - Trong xe. | 
+zh-long	-是呀 -在車上 
+zh-short	-是的 -在车里 
+pl	W samochodzie. 
+ru	-Да. -В машине. 
+

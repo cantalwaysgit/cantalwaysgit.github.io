@@ -1,0 +1,24 @@
+en	but, uh, her existing record's | gonna be on the charts for months. | 
+sv	men hon kommer ligga på listorna i flera månader. 
+ar	&rlm;‏‏لكن اسطوانتها الحالية | &rlm;‏ستكون ناجحة لعدة أشهر.‏ | 
+da	men hendes album vil ligge på listerne længe. 
+el	αλλά ο δίσκος της θα ακούγεται για μήνες. 
+fr	mais son album va se vendre pendant des mois. 
+he	&rlm;‏אבל האלבום שלה יישאר במצעדים במשך חודשים.‏ | 
+it	ma il suo disco rimarrà ancora in classifica per mesi. 
+pr-br	mas o álbum dela vai ficar meses na praça. 
+pr	mas o álbum atual vai estar meses nas tabelas de vendas. 
+ro	dar albumul de acum va fi în topuri luni la rând. 
+sp-eu	pero su disco seguirá en las listas durante meses. 
+sp	pero este disco estará en los  rankings  por meses. 
+th	แต่แผ่นเสียงของเธอจะติดอันดับ | ไปอีกหลายเดือนเลย | 
+tr	ama albümü daha aylarca listede kalacak. 
+vi	nhưng bản thu hiện tại của cô ấy | sẽ trụ được vài tháng. | 
+zh-long	但她現在這張專輯 還會在榜上一陣子 
+zh-short	但她现在的歌能热销好几个月 
+no	men plata vil ligge på listene i månedsvis. 
+ja	新曲を出したら | ２曲で競い合うことになる | 
+id	Tapi lagunya ada di tangga lagu berbulan-bulan. 
+ru	её песни продержатся еще много месяцев. 
+ko	지금 음반도 앞으로 | 몇 달은 더 순위권일 거예요 | 
+

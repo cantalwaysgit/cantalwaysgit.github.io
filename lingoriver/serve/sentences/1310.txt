@@ -1,0 +1,27 @@
+ja	テニスコートの照明だな | 
+id	Ada apa ini? 
+ru	Так, кто у нас тут? 
+ar	&rlm;‏ماذا لدينا هنا؟‏ | 
+da	Hvad har vi her? 
+el	Τι έχουμε εδώ; 
+en	What have we got here? | 
+fi	Kappas vain. 
+fr	Mais qui voilà ? 
+he	&rlm;‏מה יש לנו כאן?‏ | 
+it	Cos'abbiamo qui? 
+nl	Wat hebben we hier? 
+no	Hva har vi her? 
+pl	Co my tu mamy? 
+pr-br	O que temos aqui? 
+pr	O que temos aqui? 
+ro	Ce avem noi aici? 
+sp-eu	¿Qué tenemos aquí? 
+sp	¿Qué tenemos aquí? 
+sv	Vad har vi här? 
+th	นั่นมีอะไร | 
+tr	Ne oluyor burada? 
+vi	Ta có gì đây nào? | 
+zh-long	現在是怎樣？ 
+zh-short	什么情况？ 
+ko	이게 웬일이야? | 
+

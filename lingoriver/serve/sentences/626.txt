@@ -1,0 +1,26 @@
+id	Mereka ingin mendengarkan demomu. 
+ru	Хотят послушать демо. 
+ar	&rlm;‏يريدون سماع عينتك.‏ | 
+da	De vil høre din demo. 
+el	Θέλουν ν' ακούσουν το ντέμο σου. 
+en	They want to hear your demo. | 
+fi	He haluavat kuulla demosi. 
+fr	Ils veulent écouter ta maquette. 
+he	&rlm;‏הם רוצים לשמוע את הדמו שלך.‏ | 
+it	Vogliono ascoltare il tuo demo. 
+ko	데모를 듣고 싶다는군 | 
+nl	Ze willen je demo horen. 
+no	De vil høre demoen din. 
+pl	Chcą usłyszeć twoje demo. 
+pr-br	Eles querem ouvir a sua demo. 
+pr	Querem ouvir a tua demo. 
+ro	Vor să-ți asculte piesa de prezentare. 
+sp-eu	Quieren escuchar tu demo. 
+sp	Quieren oír tu demo. 
+sv	De vill höra din demo. 
+th	อยากฟังเทปเดโมของคุณ | 
+tr	Demo parçanı dinlemek istiyorlar. 
+vi	Họ muốn nghe bản demo của cô. | 
+zh-long	他們想聽聽妳的試唱帶 
+zh-short	他们想听听你的样本唱片 
+

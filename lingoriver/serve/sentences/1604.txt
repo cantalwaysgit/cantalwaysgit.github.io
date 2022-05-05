@@ -1,0 +1,26 @@
+ar	&rlm;‏‏- هذا صحيح... | &rlm;‏- اغرب!‏ | 
+da	-Det er rigtigt... -Lad være! 
+el	-Σωστά... -Άσε με! 
+en	-That's right-- | -Get off me! | 
+fi	-Aivan. -Älä lääpi! 
+he	&rlm;‏‏זה נכון... | &rlm;‏-תעזוב אותי!‏ | 
+it	- È proprio... - Lasciami! 
+no	-Det stemmer... -Ikke rør meg! 
+pl	Puść mnie! 
+pr-br	-Isso mesmo... -Saia! 
+pr	- Pois é... - Larga! 
+ro	- Așa e... - Lasă-mă! 
+sp	- Así es... - ¡Sal! 
+sp-eu	- Eso es. - ¡Quita! 
+sv	-Okej... -Rör mig inte! 
+th	- ใช่แล้ว... | - ไปห่างๆ | 
+tr	-Doğru... -Çekil! 
+vi	- Phải đấy... | - Bỏ ra! | 
+zh-long	-好啦… -閃邊啦 
+zh-short	-是啊 -别碰我！ 
+id	- Benar... - Menjauhlah! 
+fr	- Oui... - Me touche pas ! 
+ru	-Да уж... -Иди ты! 
+ko	- 그래, 맞아 | - 손 치워요! | 
+ja	触るな！ | 
+

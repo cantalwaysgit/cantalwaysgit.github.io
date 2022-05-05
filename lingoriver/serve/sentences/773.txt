@@ -1,0 +1,81 @@
+en	Shouldn't you be preparing your rap, Mase? | 
+ar	&rlm;‏‏- ألا يجب أن تحضر غناء الراب خاصتك؟ | &rlm;‏- سنعمل على ذلك.‏ | 
+da	-Skulle du ikke forberde din rap? -Det kommer vi til. 
+el	-Γιατί δεν ετοιμάζεις το ραπάρισμά σου; -Θα γίνει κι αυτό. 
+fi	-Sinunhan pitäisi valmistella räppiäsi. -Ihan kohta. 
+fr	- T'as pas un rap à préparer ? - Ça va venir. 
+he	&rlm;‏‏אתה לא אמור להכין את הראפ שלך? | &rlm;‏-נגיע לזה.‏ | 
+it	- Non devi prepararti per il tuo rap? - Con calma. 
+nl	Moet je je rap niet voorbereiden? -Dat komt wel. 
+no	-Har du ikke rap å forberede? -Vi kommer til det. 
+pl	- Nie musisz ćwiczyć rapu? - Wszystko po kolei. 
+pr-br	-Não deveria estar preparando seu rap? -Vamos chegar lá. 
+pr	- Não devias estar a preparar o teu  rap? - Vamos chegar lá. 
+ro	- N-ar trebui să lucrezi la rapul tău? - O să facem și asta. 
+sp-eu	- ¿No deberías preparar tu rap? - Ya llegaremos a eso. 
+sp	- ¿No deberías preparar tu rap? - Ya lo haré. 
+sv	-Ska inte du förbereda din rap? -Vi kommer dit. 
+th	- ควรเตรียมร้องแรปของคุณไม่ใช่เหรอ | - เดี๋ยวก็จะทำ | 
+tr	-Senin rap hazırlaman gerekmiyor mu? -Halledeceğiz. 
+vi	- Không phải nên chuẩn bị cho bản rap à? | - Chúng ta sẽ làm việc đó. | 
+zh-long	-你不是該準備一下你的饒舌？ -安啦 
+zh-short	-你不是该在准备饶舌乐吗？ -我们会的 
+ja	ラップの準備を | 
+id	Bukankah kau harus bersiap-siap? 
+ru	Ты уже приготовился к записи? 
+ko	- 랩 준비 안 해? | - 곧 할 거예요 | 
+en	We're gonna get to it. | 
+id	Kami akan lakukan itu. 
+ru	Успеется. 
+ja	心配すんな じいさん | キメてやるから | 
+id	Pak Tua, kami akan melakukannya. 
+ru	Старик, мы всё успеем. 
+ar	&rlm;‏سنقوم بكل ذلك أيها العجوز.‏ | 
+da	Vi skal nok nå det hele, du gamle. 
+el	Όλα θα γίνουν, γέρο. 
+en	-Old man, we're gonna get to all of it. | -[laughs] | 
+fi	Kaikki aikanaan, vanhus. 
+fr	Papy, faut être patient. 
+he	&rlm;‏זקן, אנחנו נגיע לזה.‏ | 
+it	Vecchietto, con calma facciamo tutto. 
+ko	영감님, 전부 할 거라고요 | 
+nl	Oude man, daar komen we wel aan toe. 
+no	Gamlen, vi kommer til alt sammen. 
+pl	Przyjdzie na to pora, staruszku. 
+pr-br	Velhote, vamos fazer tudo. 
+pr	Vamos chegar a isso tudo, meu velho. 
+ro	O să le facem pe toate, bătrâne. 
+sp	Anciano, ya lo haremos. 
+sp-eu	Viejo, vamos a llegar a todo. 
+th	ลุง เดี๋ยวเราค่อยทำทั้งหมดนี่ | 
+tr	Hepsini halledeceğiz moruk. 
+vi	Chúng ta sẽ lo hết chuyện này, ông già ạ. | 
+zh-long	老頭，我們會全部搞定 
+zh-short	老人家 我们会搞定的 
+sv	-Gamle man, vi kommer dit. -Gamle man? Så gammal är jag inte. 
+id	Pak Tua? Aku tidak setua itu. 
+ja	じいさんだと？ | 
+ar	&rlm;‏عجوز؟ لست متقدماً جداً بالسن.‏ | 
+da	Gamle? Så gammel er jeg ikke. 
+el	Γέρο; Δεν είμαι τόσο μεγάλος. 
+en	"Old man"? I ain't that old. | 
+fi	Vanhus? En minä niin vanha ole. 
+fr	Papy ? Je suis pas si vieux. 
+he	&rlm;‏זקן? אני לא כזה זקן.‏ | 
+it	Vecchietto? Non sono tanto vecchio. 
+ko	영감님이라니? | 난 그렇게 안 늙었어 | 
+nl	Oude man? Zo oud ben ik niet. 
+no	Jeg er ikke så gammel. 
+pl	Aż taki stary nie jestem. 
+pr-br	Velhote? Não sou tão velho assim. 
+pr	Velho? Não sou assim tão velho. 
+ro	Bătrâne? Nu-s chiar așa de bătrân. 
+sp	¿Anciano? No soy tan viejo. 
+sp-eu	¿Viejo? No soy tan viejo. 
+th	ลุงเหรอ ผมไม่ได้แก่ | 
+tr	Moruk mu? O kadar yaşlı değilim. 
+vi	Ông già? Tôi chưa già đến thế. | 
+zh-long	老頭？我沒那麼老 
+zh-short	老人家？我没那么老 
+ru	Старик? Я не старый. 
+

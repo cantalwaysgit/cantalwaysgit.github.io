@@ -1,0 +1,27 @@
+ja	よく聞いて | 
+id	Baik, ini intinya. 
+ru	Короче, вот что. 
+ar	&rlm;‏حسناً، إليك الأمر.‏ | 
+da	Nu skal du høre. 
+el	Άκου τι γίνεται. 
+en	All right, here's the deal. | 
+fi	Asia on näin. 
+fr	Je vais aller droit au but. 
+he	&rlm;‏בסדר, הנה העניין.‏ | 
+it	Allora, ecco la mia proposta. 
+nl	Het zit zo. 
+no	Nå skal du høre. 
+pl	Chodzi o to... 
+pr-br	O negócio é o seguinte. 
+pr	Pronto, é o seguinte. 
+ro	Uite care e treaba! 
+sp	El asunto es este. 
+sp-eu	Vale, esto es lo que hay. 
+sv	Så här är det. 
+th	เอาละ นี่คือข้อเสนอ | 
+tr	Pekâlâ, olay şu. 
+vi	Được rồi, nói luôn nhé. | 
+zh-long	好，是這樣的 
+zh-short	好吧 是这么回事 
+ko	좋아, 이제 얘기할게 | 
+

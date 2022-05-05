@@ -1,0 +1,24 @@
+id	Tidak! 
+ar	&rlm;‏لا! هيا! رجاءً.‏ | 
+da	Nej! Hold nu op! 
+el	Όχι! Ελάτε τώρα! Μη, σας παρακαλώ! 
+en	Ah! No, no, no, no! Oh, come on! | Oh, please, please, please. | 
+fi	Ei! Älkää! 
+he	&rlm;‏לא! באמת! בבקשה.‏ | 
+it	No! Fermi! Per favore. 
+ko	안 돼, 이러지 마, 제발! | 
+no	Nei! Kom igjen! Vær så snill. 
+pl	Nie. Szybko. Proszę. 
+pr-br	Não! Vamos! Por favor. 
+pr	Não! Vá lá! Por favor. 
+sp-eu	¡No! ¡Vamos! Por favor. 
+sp	¡No! ¡Vamos! Por favor. 
+sv	Nej! Kom igen! Snälla ni! 
+th	อย่าๆ ไม่เอาน่า ขอร้องๆ | 
+tr	Hayır! Hadi ama! Lütfen. 
+vi	Không! Thôi đi! Làm ơn đấy. | 
+zh-long	不要！幹嘛這樣！拜託！ 
+zh-short	不！不要！拜托 
+ro	Nu! Haideți! Vă rog! 
+ru	Нет-нет! 
+

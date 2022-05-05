@@ -1,0 +1,52 @@
+id	Aku senang kau menemukanku. 
+ja	私も幸運よ | 
+ru	Я рада, что ты меня нашел. 
+ar	&rlm;‏يسعدني أنك وجدتني.‏ | 
+da	Det er jeg glad for. 
+el	Χαίρομαι που με βρήκες. 
+en	I'm glad you found me. | 
+fi	Olen iloinen, että löysit. 
+fr	J'en suis heureuse aussi. 
+he	&rlm;‏אני שמחה שמצאת אותי.‏ | 
+it	Sono felice che tu mi abbia trovato. 
+ko	절 찾아주셔서 고마워요 | 
+nl	Daar ben ik blij om. 
+pl	Cieszę się. 
+pr	Ainda bem que me encontraste. 
+pr-br	Que bom que me encontrou. 
+ro	Mă bucur că m-ai găsit. 
+sp-eu	Me alegro de que me encontrases. 
+sp	Me alegra que me encontraras. 
+sv	Det är jag glad för. 
+th	ฉันดีใจที่คุณได้พบฉัน | 
+tr	Beni bulmana memnunum. 
+vi	Tôi mừng vì anh tìm thấy tôi. | 
+zh-long	很開心你找到我 
+zh-short	我很高兴是你发现了我 
+no	-Jeg er glad du fant meg. -Ikke like glad som jeg er. Tro meg. 
+ar	&rlm;‏لست سعيدة بقدر سعادتي. ثقي بي.‏ | 
+da	Du er ikke så glad som mig. Tro mig. 
+el	Όχι όσο εγώ, πίστεψέ με. 
+en	You're not as happy as I am. | Trust me. | 
+fi	Et yhtä iloinen kuin minä. 
+fr	Pas autant que moi, crois-moi. 
+he	&rlm;‏את לא שמחה כמוני. תאמיני לי.‏ | 
+id	Kau tidak sesenang diriku, percayalah. 
+it	Mai quanto me. Credimi. 
+ko	나만큼 기쁘진 않을 거야 | 내 말 믿어 | 
+nl	Maar niet zo blij als ik. Geloof me. 
+pl	Możesz mi wierzyć, że ja bardziej. 
+pr	Acredita que não estás tão contente quanto eu. 
+pr-br	Não está tão feliz quanto eu. Acredite. 
+ro	Bucuria ta nu e mai mare decât a mea. Crede-mă. 
+ru	А я рад больше. Поверь. 
+sp-eu	No te alegras tanto como yo. Créeme. 
+sp	No tanto como a mí. Créeme. 
+sv	Du är inte lika glad som jag. Jag lovar. 
+th	คุณไม่ได้แฮปปีเท่าผมหรอก เชื่อผมสิ | 
+tr	Benim kadar mutlu olamazsın. İnan bana. 
+vi	Cô không vui bằng tôi đâu. Tin tôi đi. | 
+zh-long	絕對沒我開心，相信我 
+zh-short	没我高兴 相信我 
+ja	僕のほうが幸せだ | 
+

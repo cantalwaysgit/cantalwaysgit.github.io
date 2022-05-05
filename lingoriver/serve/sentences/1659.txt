@@ -1,0 +1,28 @@
+ja	君も来て | 
+id	- Courtney, kemarilah! - Kau pantas mendapatkannya. 
+ru	Иди сюда! 
+ar	&rlm;‏‏- تعالي إلى هنا! | &rlm;‏- تستحق كل شيء!‏ | 
+da	-Kom herind! -Du fortjener det hele! 
+el	-Έλα κι εσύ! -Αξίζεις τα πάντα! 
+en	-Courtney, get in here! | -You deserve everything! | 
+fi	-Halataan! -Ansaitset kaiken. 
+fr	- Dans mes bras ! - Tu le mérites ! 
+he	&rlm;‏‏בואי הנה! | &rlm;‏-זה מגיע לך!‏ | 
+it	- Vieni qui! - Ti meriti tutto! 
+ko	- 이리 와요! | - 그럴 자격이 있다고! | 
+no	-Kom hit! -Du fortjener alt! 
+pl	- Chodź tutaj! - Zasługujesz na wszystko! 
+pr-br	-Venha aqui! -Você merece tudo! 
+pr	- Vem cá! - Tu mereces tudo! 
+ro	- Vino încoace! - Meriți totul! 
+sp-eu	- ¡Ven aquí! - ¡Te lo mereces todo! 
+sp	- ¡Ven aquí! - ¡Te mereces todo! 
+sv	-Kom hit! -Du förtjänar allt! 
+th	- เข้ามานี่ | - นายสมควรได้ทุกอย่าง | 
+tr	-Gel buraya! -Her şeyi hak ediyorsun! 
+vi	- Vào đây nào! | - Anh rất xứng đáng! | 
+zh-long	-過來！ -這一切是你應得的！ 
+zh-short	-考特尼 过来！ -你配得上！ 
+ru	Ты это заслужил! 
+ja	よく頑張った | 
+

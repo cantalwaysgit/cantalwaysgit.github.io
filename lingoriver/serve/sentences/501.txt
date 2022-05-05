@@ -1,0 +1,26 @@
+id	Ya, terima kasih. 
+ja	仲良くやろう | 
+ar	&rlm;‏أجل، شكراً لك.‏ | 
+da	Tak skal du have. 
+el	Ευχαριστώ. 
+en	Yeah, thank you. | 
+fi	Kiitos. 
+fr	Oui, merci. 
+he	&rlm;‏כן, תודה.‏ | 
+it	Sì, grazie. 
+ko	그래, 고마워 | 
+no	Ja, takk. 
+pl	Dziękuję. 
+pr-br	Sim, obrigado. 
+pr	Sim, obrigado. 
+ro	Da, mersi. 
+sp-eu	Sí, gracias. 
+sp	Sí, gracias. 
+sv	Tack ska du ha. 
+th	ใช่ ขอบคุณ | 
+tr	Evet, sağ ol. 
+vi	Phải, cảm ơn. | 
+zh-long	謝啦 
+zh-short	好 谢谢 
+ru	Да, спасибо. 
+

@@ -1,0 +1,27 @@
+id	Soal penguasaan panggung. 
+ja	いいわ サンディ | 私に任せて | 
+pl	- Chodzi o prezencję. - Wystarczy. 
+ar	&rlm;‏‏- يتعلق الأمر بالحضور على المسرح. | &rlm;‏- يكفي.‏ | 
+da	-Det handler om scenefremtræden. -Så er det nok. 
+el	-Αφορά τη σκηνική σου παρουσία. -Αρκετά. 
+en	-It's about presence on stage. | -All right. That's enough, Sandy. | 
+fi	-Kyse on olemuksesta. -Riittää jo. 
+fr	- C'est pour ta présence scénique. - Silence. 
+he	&rlm;‏‏זה בשביל נוכחות בימתית. | &rlm;‏-מספיק.‏ | 
+it	- Devi saper stare sul palco. - Basta. 
+nl	Het gaat om hoe je je presenteert. 
+no	-Det handler om utstråling... -Nok nå. 
+pr-br	-Tem a ver com presença no palco. -Basta. 
+pr	- Tem que ver com presença em palco. - Chega. 
+ro	- Contează prezența pe scenă. - Destul! 
+sp	- Es personalidad en el escenario. - Suficiente. 
+sp-eu	- Se trata de tener presencia. - Ya está bien. 
+th	- มันเกี่ยวกับการวางท่าบนเวที | - พอแล้ว | 
+tr	-Sahnede kendini göstermen için. -Yeter. 
+vi	- Đó là thần thái sân khấu. | - Đủ rồi. | 
+zh-long	-有助妳的臺風 -好了 
+zh-short	-这是学台步 -行了 
+sv	Det handlar om scennärvaro. och om att vara bekväm. 
+ru	-Держаться на сцене. -Хватит. 
+ko	- 무대에서의 침착성을 배워 | - 됐어요, 샌디 | 
+

@@ -1,0 +1,48 @@
+tr	-Neyini seviyorum, biliyor musun? -Neyimi? 
+id	- Tahu apa yang kusuka darimu? - Ya? 
+ru	Знаешь, что в тебе хорошо? 
+no	Vet du hva jeg liker ved deg? Stemmen din. 
+pl	Wiesz, co w tobie kocham? Twój głos. 
+ja	あなたの声 たまらないわ | 
+sv	Vet du vad jag älskar hos dig? Din röst. 
+ar	&rlm;‏‏- أتعرف ما الذي أحبه بك؟ | &rlm;‏- ماذا؟‏ | 
+da	-Ved du, hvad jeg elsker ved dig? -Nej. 
+el	-Ξέρεις τι λατρεύω σ' εσένα; -Τι; 
+en	-You know what I love about you? | -Yeah? | 
+fi	Tiedätkö, mikä sinussa on parasta? 
+fr	Tu sais ce qui me plaît chez toi ? 
+he	&rlm;‏‏אתה יודע מה אני אוהבת בך? | &rlm;‏-כן?‏ | 
+it	- Sai cosa adoro di te? - Cosa? 
+ko	- 당신이 왜 좋은지 알아요? | - 왜요? | 
+pr-br	-Sabe o que amo em você? -Sim? 
+pr	- Sabes o que adoro em ti? - O quê? 
+ro	- Știi ce ador la tine? - Ce? 
+sp-eu	- ¿Sabes lo que me encanta de ti? - ¿Sí? 
+sp	- ¿Sabes qué me gusta de ti? - ¿Qué? 
+th	- รู้ไหมฉันชอบอะไรเกี่ยวกับคุณ | - อะไรหรือ | 
+vi	- Anh biết tôi thích gì ở anh không? | - Vâng? | 
+zh-long	-知道我愛你哪裡嗎？ -哪裡？ 
+zh-short	-知道我喜欢你什么吗？ -什么？ 
+nl	Weet je wat ik zo leuk aan je vind? Je stem. 
+ru	-Что? -Голос. 
+tr	Sesini. 
+id	Suaramu. 
+ar	&rlm;‏صوتك.‏ | 
+da	Din stemme. 
+el	Τη φωνή σου. 
+fi	Äänesi. 
+fr	Ta voix. 
+he	&rlm;‏את הקול שלך.‏ | 
+it	La voce. 
+ko	목소리 때문에요 | 
+pr	A tua voz. 
+pr-br	A sua voz. 
+ro	Vocea ta. 
+sp-eu	Tu voz. 
+sp	Tu voz. 
+th	เสียงคุณ | 
+vi	Chất giọng của anh. | 
+zh-long	你的聲音 
+zh-short	你的声音 
+en	-Your voice. | -[laughs] | 
+

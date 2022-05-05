@@ -1,0 +1,32 @@
+en	Yes, Mommy. | 
+ja	はい | 
+
+es	Gurú. 
+id	Guru. 
+pt-br	Guru. 
+uk	Гуру? 
+zh-short	“大师” 
+fi	Guru. | 
+cs	Guru. 
+da	Guru. | 
+el	Γκουρού. 
+es-eu	Guru. 
+fr	Guru. 
+he	‫גורו.‬ | 
+hr	Guru. 
+hu	Guru! 
+it	Guru. 
+ja	&lrm;“グル” | 
+ko	&lrm;'구루' | 
+ms	Guru. 
+no	Guru. 
+pt	Guru. 
+ro	Guru. 
+sv	Guru. 
+th	&lrm;กูรู | 
+tr	Guru. 
+vi	&lrm;Sư Phụ. | 
+zh-long	大師 
+ru	Гуру. 
+en	Guru. 
+

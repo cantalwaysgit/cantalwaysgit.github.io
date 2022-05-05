@@ -1,0 +1,27 @@
+ar	&rlm;‏‏بموهبتها، يمكنها أن تحظى بحياة | &rlm;‏تحقق فيها أحلامها.‏ | 
+da	Med hendes talent kunne hendes livsdrøm gå i opfyldelse. 
+el	Με το ταλέντο της, μπορεί να έχει μια ονειρεμένη ζωή. 
+en	With her talent, | she could have a dream-come-true life. | 
+fi	Hän voi saada kyvyillään unelmaelämän. 
+fr	Avec son talent, elle peut se faire une place au soleil. 
+he	&rlm;‏‏עם הכישרון שלה, | &rlm;‏היא יכולה להגשים את החלומות שלה.‏ | 
+id	Dengan bakatnya, dia bisa memiliki hidup bagai mimpi. 
+it	Con il suo talento può avere una vita da sogno. 
+ko	저런 재능이면 | 꿈꾸던 삶을 살 수 있어요 | 
+nl	Met haar talent kan ze een droomleven hebben. 
+no	Med hennes talent kan hun få det livet hun drømmer om. 
+pl	Z jej talentem może zostać gwiazdą. 
+pr-br	Com o talento dela, ela poderia ter a vida que sempre sonhou. 
+pr	Com o talento dela, podia concretizar o sonho de uma vida. 
+ro	La ce talent are, ar putea avea o viață de vis. 
+ru	С её талантом она могла бы жить как в сказке. 
+sp	Con su talento, podría tener una vida de sueños. 
+sp-eu	Con su talento, podría tener una vida de sueño hecho realidad. 
+sv	Med sin talang, kan hon få ett drömliv. 
+th	ด้วยความสามารถของเธอ | เธอสามารถมีชีวิตที่ฝันเป็นจริงได้ | 
+tr	Bu yetenekle bütün hayallerinin gerçekleştiği bir hayatı olabilir. 
+vi	Với tài năng của cô ấy, | cô ấy có thể có cuộc sống như mơ. | 
+zh-long	憑她的天分 她可以過夢想成真的生活 
+zh-short	凭借她的才华 她可以实现人生梦想 
+ja	才能を生かし | 夢のような人生を送れます | 
+

@@ -1,0 +1,25 @@
+ja	もう一度だ | 
+id	Kita rekam saja lagi. 
+ru	Давай заново. 
+th	งั้นมาทำกันใหม่อีกครั้ง | 
+ar	&rlm;‏لنعد التسجيل.‏ | 
+da	Lad os gøre det igen. 
+el	Ας το ξανακάνουμε. 
+en	Let's just go again. | 
+fi	Otetaan uudestaan. 
+fr	On recommence. 
+he	&rlm;‏בוא נעשה את זה שוב.‏ | 
+it	Rifacciamola. 
+pl	Jeszcze raz. 
+pr-br	Vamos fazer de novo. 
+pr	Vamos repetir. 
+ro	Să repetăm! 
+sp-eu	Vamos a repetirlo. 
+sp	Hagámoslo otra vez. 
+sv	Vi gör om det. 
+tr	Tekrar yapalım. 
+vi	Thu lại đi. | 
+zh-long	重來一次 
+zh-short	那就再来一次 
+ko	다시 하자 | 
+

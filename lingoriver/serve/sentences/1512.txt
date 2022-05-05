@@ -1,0 +1,26 @@
+ar	&rlm;‏حسناً يا "ساندي".‏ | 
+da	Okay, Sandy. 
+el	Εντάξει, Σάντι. 
+en	All right, Sandy. | 
+fi	Hyvä on. 
+fr	Entendu. 
+he	&rlm;‏בסדר, סנדי.‏ | 
+it	D'accordo, Sandy. 
+ko	알았어요, 샌디 | 
+no	Greit, Sandy. 
+pl	Dobrze, Sandy. 
+pr-br	Está bem, Sandy. 
+pr	Está bem, Sandy. 
+ro	Bine, Sandy. 
+sp	Está bien, Sandy. 
+sp-eu	Está bien, Sandy. 
+sv	Okej, Sandy. 
+th	เอาละ แซนดี้ | 
+tr	Peki, Sandy. 
+vi	Được rồi, Sandy. | 
+zh-long	好吧，山迪 
+zh-short	好吧 桑迪 
+ja	いいわ | 
+ru	-Хорошо, Сэнди. -Спасибо, Линда! Спасибо! 
+id	Baiklah, Sandy. 
+

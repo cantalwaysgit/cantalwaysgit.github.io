@@ -1,0 +1,27 @@
+ar	&rlm;‏‏لا بد أنه هرب من موقف سيارات | &rlm;‏شركة "باراماونت".‏ | 
+da	Den må være stukket af fra Paramount-studiet. 
+el	Πρέπει να το έσκασε από τις εγκατάστάσεις της Paramount. 
+en	[stammers] Yeah, it must have escaped | off the Paramount lot. | 
+fi	Varmaan Paramountin studiolta karannut. 
+fr	Il a dû s'échapper du studio Paramount. 
+he	&rlm;‏כן, הוא בטח ברח מאולפני פרמאונט.‏ | 
+it	Dev'essere scappato dagli studi della Paramount. 
+nl	Die was vast ontsnapt uit de Paramount-studio. 
+no	Den må ha rømt fra Paramount. 
+pl	Pewnie uciekł z wytwórni Paramount. 
+pr-br	Deve ter fugido do estúdio da Paramount. 
+pr	Deve ter fugido do terreno da Paramount. 
+ro	Cred că a scăpat de pe platourile Paramount. 
+sp-eu	Se debió de escapar de los estudios Paramount. 
+sp	Sí, debe haber escapado de los estudios Paramount. 
+sv	Ja, den måste ha rymt från Paramount. 
+th	ใช่ คงหนีออกมาจากโรงถ่ายพาราเมาต์ | 
+tr	Paramount stüdyolarından kaçmış olmalı. 
+vi	Phải, chắc nó trốn ra | từ trường quay Paramount. | 
+zh-long	一定是從派拉蒙片廠跑出來的 
+zh-short	肯定是从派拉蒙片场跑出来的 
+id	Ya, dia pasti melarikan diri dari studio Paramount. 
+ja	パラマウントから | 脱走したんだろう | 
+ko	패러마운트에서 | 도망쳐 나왔나 봐 | 
+ru	Наверное, он сбежал со съемок в «Парамаунт». 
+

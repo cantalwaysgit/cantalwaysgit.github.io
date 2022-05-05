@@ -1,0 +1,57 @@
+ja	ロジャーズだ | 
+id	- Rodgers! - Rodgers! 
+ru	Роджерс! 
+ar	&rlm;‏‏- بل "روجيرز"! | &rlm;‏- "روجيرز"!‏ | 
+da	-Rodgers! -Rodgers! 
+el	-Ρότζερς! -Ρότζερς! 
+en	-Rodgers! | -Rodgers! | 
+fi	Rodgers! 
+fr	- Rodgers ! - Rodgers ! 
+he	&rlm;‏‏רוג'רס! | &rlm;‏-רוג'רס!‏ | 
+it	- Rodgers! - Rodgers! 
+ko	- 로저스예요! | - 로저스! | 
+nl	Rodgers. 
+no	-Rodgers! -Rodgers! 
+pl	Rodgers! 
+pr-br	-Rodgers! -Rodgers! 
+pr	- Rodgers! - Rodgers! 
+ro	- Rodgers! - Rodgers! 
+sp-eu	- ¡Rodgers! - ¡Rodgers! 
+sp	- ¡Rodgers! - ¡Rodgers! 
+sv	-Rodgers! -Rodgers! 
+th	- รอดเจอร์ | - รอดเจอร์ | 
+tr	-Rodgers! -Rodgers! 
+vi	- Là Rodgers! | - Rodgers! | 
+zh-long	-是羅傑！ -羅傑！ 
+zh-short	-罗杰斯！ -罗杰斯！ 
+
+id	Menurutmu Adam yang melakukannya? 
+es	¿Crees que lo hizo Adam? 
+cs	Myslíš, že to udělal Adam? 
+da	Tror du, Adam har gjort det? | 
+el	Λες να το έκανε ο Άνταμ; 
+es-eu	¿Crees que ha sido Adam? 
+fr	Tu crois qu'Adam a fait ça ? 
+he	‫את חושבת שאדם עשה את זה?‬ | 
+hr	Misliš da je Adam to učinio? 
+hu	Szerinted Adam volt? 
+it	Pensi che sia stato Adam a farlo? 
+ko	&lrm;아담이 그랬을까요? | 
+ms	Awak rasa Adam yang buat begitu? 
+nl	Denk je dat Adam dat heeft gedaan? 
+no	Tror du Adam gjorde det? 
+pt	Achas que foi o Adam? 
+pt-br	Acha que Adam fez isso? 
+ro	Crezi că Adam le-a pus? 
+sv	Tror du att det kan vara Adam? 
+th	&lrm;คิดว่าอดัมทำไว้เหรอ | 
+tr	Sence bunu Adam mı yapmış? 
+vi	&lrm;Cô nghĩ Adam làm thế? | 
+zh-long	妳覺得是亞當做的嗎？ 
+zh-short	你觉得是亚当摆的吗？ 
+ja	&lrm;アダムがやったと？ | 
+fi	Luuletko, että Adam toi ne? | 
+uk	Гадаєш, це зробив Адам? 
+ru	Думаешь, их расставил Адам? 
+en	Do you think Adam did that? 
+

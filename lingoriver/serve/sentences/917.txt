@@ -1,0 +1,26 @@
+id	Ayolah. 
+ru	Да ладно тебе. 
+ar	&rlm;‏هيا.‏ | 
+da	Kom nu. 
+el	Έλα τώρα. 
+fi	Löydy nyt! 
+fr	Allez, là. 
+he	&rlm;‏באמת.‏ | 
+it	Forza. 
+no	Kom igjen. 
+pl	No dalej. 
+pr-br	Vamos lá. 
+pr	Vá lá. 
+ro	Haide! 
+sp-eu	¡Vamos! 
+sp	Vamos. 
+sv	Kom igen då. 
+th	มาเร็วสิ | 
+tr	Hadi ama. 
+vi	Thôi nào. | 
+zh-long	快點啦 
+zh-short	拜托 
+en	-Oh, come on here. | -[radio stations changing] | 
+ko	어서 좀 나와라 | 
+ja	まったく | 
+

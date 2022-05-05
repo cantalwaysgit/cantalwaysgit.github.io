@@ -1,0 +1,26 @@
+id	Karena aku tahu. Aku tahu segalanya. 
+ru	Знаю. Я всё знаю. 
+ar	&rlm;‏أعلم كل شيء.‏ | 
+da	Det ved jeg bare. Jeg ved alt. 
+el	Το ξέρω. Ξέρω τα πάντα. 
+en	'Cause I know. I know everything. | 
+fi	Tiedän kaiken. 
+fr	Je sais tout. 
+he	&rlm;‏כי אני יודע. אני יודע הכול.‏ | 
+it	Perché lo so. Io so tutto. 
+nl	Ik weet alles. 
+no	Fordi jeg vet. Jeg vet alt. 
+pl	Ja wiem wszystko. 
+pr-br	Porque eu sei. Eu sei de tudo. 
+pr	Porque sei. Eu sei tudo. 
+ro	Eu știu totul. 
+sp-eu	Porque lo sé. Lo sé todo. 
+sp	Porque lo sé. Yo sé todo. 
+sv	För att jag vet allt. 
+th	เพราะผมรู้ ผมรู้ทุกอย่าง | 
+tr	Biliyorum işte. Ben her şeyi bilirim. 
+vi	Tôi biết tuốt mà. | 
+zh-long	我就是知道，我什麼都知道 
+zh-short	因为我知道 我无所不知 
+ko	그냥 알아요 | 전 모르는 게 없으니까요 | 
+

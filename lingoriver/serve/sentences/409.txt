@@ -1,0 +1,26 @@
+id	Lebih gila! Ini bukan akhirnya. 
+ru	Больше страсти! Это не конец. 
+ar	&rlm;‏مزيد من الجنون! رقصة دهس النملة.‏ | 
+da	Mere skør! Tramp på stedet! 
+el	Περισσότερη τρέλα! Πατήστε το μυρμήγκι. 
+en	More madness! Stomp the ant. | 
+fi	Hullummin! Tallo muurahainen. 
+fr	Plus de folie ! Tapez en rythme. 
+he	&rlm;‏יותר טירוף! לרקוע במקום.‏ | 
+it	Più follia! Passo. 
+ko	더 미친 듯이 | 아직 끝이 아니에요 | 
+nl	Meer gekte. Op de maat. 
+no	Mer galskap! Tramp. 
+pl	Z życiem! Depczemy mrówy. 
+pr-br	Mais loucura! Pisando na formiga. 
+pr	Mais loucura! Pisa a formiga. 
+ro	Mai multă nebunie! Cu energie, pe loc! 
+sp-eu	¡Más locura! Pisotón. 
+sp	¡Más locura! Pisen a la hormiga. 
+sv	Mer galenskap! Hoppa på stället. 
+th	บ้าขึ้นอีก ยังไม่จบ | 
+tr	Daha çılgınca! Tepin. 
+vi	Mạnh lên chút! Dậm đi. | 
+zh-long	狂野一點，還沒結束 
+zh-short	再放开点！还没完 
+

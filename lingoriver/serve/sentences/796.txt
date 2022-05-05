@@ -1,0 +1,26 @@
+ar	&rlm;‏ألا تفهم كم هذا جيد؟‏ | 
+da	Forstår hun overhovedet, hvor godt det er? 
+el	Δεν καταλαβαίνει πόσο καλό είναι αυτό; 
+en	She doesn't understand how good that is? | 
+fi	Eikö hän tajua, kuinka mahtavaa se on? 
+fr	Elle se rend pas compte du compliment ? 
+it	Non si rende conto di quanto è bella? 
+ko	그게 얼마나 좋은 건지 | 모른다는 소린가요? | 
+nl	Snapt ze niet hoe goed dat is? 
+pr-br	Ela não sabe o quanto isso é bom? 
+pr	Ela não sabe o elogio que isso é? 
+sp-eu	¿No entiende lo bueno que es eso? 
+sp	¿No se da cuenta de lo bueno que es? 
+sv	Fattar hon inte hur bra det är? 
+vi	Cô ấy không hiểu nó tuyệt đến thế nào à? | 
+zh-long	她不懂有多讚？ 
+zh-short	她不理解那有多棒吗？ 
+ja	分かってないわね | 
+he	&rlm;‏היא לא מבינה כמה זה טוב?‏ | 
+id	Dia tidak paham lagunya bagus? 
+pl	Nie wie, że to komplement. 
+ro	Nu înțelege ce compliment mare e ăsta? 
+ru	Она не понимает, как это круто? 
+th	เธอไม่เข้าใจว่ามันดีแค่ไหน | 
+tr	Bunun ne kadar iyi olduğunu anlamıyor mu? 
+

@@ -1,0 +1,22 @@
+en	♪ There's something | In the way that you talk to me ♪ | 
+ko	“‘롤링 스톤’  | '여왕 코트니'” | 
+ar	&rlm;‏"(رولينغ ستون) - الملكة (كورتني)"‏ | 
+da	DRONNING COURTNEY 
+el	ROLLING STONE Η ΒΑΣΙΛΙΣΣΑ ΚΟΡΤΝΙ 
+fi	KUNINGATAR COURTNEY 
+he	&rlm;‏‏- רולינג סטון | &rlm;‏המלכה קורטני -‏ | 
+it	COURTNEY LA REGINA 
+pr	A RAINHA COURTNEY 
+pr-br	RAINHA COURTNEY 
+sp-eu	REINA COURTNEY 
+sp	ROLLING STONE REINA COURTNEY 
+sv	DROTTNING COURTNEY 
+th	(โรลลิ่งสโตน | ราชินีคอร์ทนี่ย์) | 
+tr	KRALİÇE COURTNEY 
+vi	TẠP CHÍ ROLLING STONE | NỮ HOÀNG COURTNEY | 
+zh-long	（《滾石》 天后寇妮） 
+zh-short	（《滚石》 女王考特尼） 
+ru	«РОЛЛИНГ СТОУН» КОРОЛЕВА КОРТНИ 
+id	RATU COURTNEY 
+ja	「ローリングストーン」 | 
+

@@ -1,0 +1,38 @@
+ar	&rlm;‏"(إمبروف) - نادي هزلي ومطعم"‏ | 
+el	IMPROV ΚΟΜΕΝΤΙ ΚΛΑΜΠ ΚΑΙ ΕΣΤΙΑΤΟΡΙΟ 
+ko	“애드리브 | 코미디 클럽 겸 식당” | 
+ro	IMPROVIZAȚIE RESTAURANT ȘI CLUB DE COMEDIE 
+ru	«ИМПРОВ» КОМЕДИЙНЫЙ КЛУБ 
+sp	CLUB DE COMEDIA Y RESTAURANTE 
+sv	IMPROV KOMEDIKLUBB OCH RESTAURANG 
+th	(อิมพรอฟ) | (คอเมดี้คลับและร้านอาหาร) | 
+vi	CÂU LẠC BỘ HÀI VÀ NHÀ HÀNG IMPROV | 
+zh-long	（即興表演喜劇餐酒館） 
+zh-short	（即兴创作表演 喜剧俱乐部和餐厅） 
+pr-br	Ele pode ir depois de qualquer um. 
+tr	Dedim sana, Bud. Herkesi takip edebilir. 
+da	Han kan følge hvem som helst. 
+fi	Hän voi esiintyä kenen tahansa jälkeen. 
+id	Sudah kukatakan, Kawan, dia bisa ikuti siapa pun. 
+nl	Hij kan iedereen volgen. 
+no	Han kan følge etter hvem som helst. 
+ja	彼は誰のマネもできる | 
+en	I'm telling you, Bud, | he can follow anybody. | 
+he	&rlm;‏הוא יכול להופיע אחרי כל אחד.‏ | 
+ar	&rlm;‏يمكنه أن يتبع أي شخص.‏ | 
+el	Ανοίγει για οποιονδήποτε. 
+fr	Il peut suivre n'importe qui. 
+it	Può esibirsi dopo chiunque. 
+ko	누구든 따라 할 수 있어요 | 
+pl	Może być po każdym. 
+pr	Ele consegue imitar seja quem for. 
+ro	Poate imita pe oricine. 
+sp-eu	Puede seguir a cualquiera. 
+sp	Puede seguir a cualquiera. 
+sv	Han kan följa alla. 
+th	เขาตามใครก็ได้ | 
+vi	Anh ta có thể theo dõi tất cả. | 
+zh-long	他什麼人都能模仿 
+zh-short	他能模仿任何人 
+ru	Он может выступать за кем угодно. 
+

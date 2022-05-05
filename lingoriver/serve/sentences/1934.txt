@@ -1,0 +1,27 @@
+ar	&rlm;‏‏من "ماي بولونا" | &rlm;‏إلى "بريتي فلاي فور أيه راباي".‏ | 
+da	Fra "My Bologna" til "Pretty Fly for a Rabbi". 
+el	Από το "My Bologna", μέχρι το "Pretty Fly for a Rabbi". 
+en	From "My Bologna" | to "Pretty Fly for a Rabbi." | 
+fi	"My Bologna", "Pretty Fly for a Rabbi". 
+fr	Entre "My Bologna" et "Pretty Fly for a Rabbi". 
+he	&rlm;‏מ"מיי בולונה" עד "פריטי פליי פור אה רבי".‏ | 
+it	Da "My Bologna" fino a "Pretty Fly for a Rabbi". 
+nl	Van 'My Bologna' tot 'Pretty Fly for a Rabbi'. 
+no	Fra "My Bologna" til "Pretty Fly for a Rabbi 
+pl	„My Bologna”, „Pretty Fly for a Rabbi”. 
+pr-br	De "My Bologna" a "Pretty Fly for a Rabbi". 
+pr	Desde o "My Bologna" ao "Pretty Fly for a Rabbi". 
+ro	De la "My Bologna" la "Pretty Fly for a Rabbi". 
+sp	Desde "My Bologna" a "Pretty Fly for a Rabbi". 
+sp-eu	Desde "My Bologna" a "Pretty Fly for a Rabbi". 
+sv	Från "My Bologna" till "Pretty Fly for a Rabbi". 
+th	จาก "มายโบโลญา" จนถึง | "พริตตี้ฟลายฟอร์อะแรบไบ" | 
+tr	"My Bologna"dan "Pretty Fly for a Rabbi"ye kadar. 
+vi	Từ "My Bologna" | đến "Pretty Fly for a Rabbi." | 
+zh-long	從《我的波隆那》 到《為猶太祭司展翅高飛》 
+zh-short	从《我的博洛尼亚》 到《拉比的美好飞行》 
+ja	今じゃ | “キング･オブ･パロディ”だ | 
+id	Dari  "My Bologna" sampai  "Pretty Fly for a Rabbi". 
+ru	От «My Bologna» до «Pretty Fly for a Rabbi». 
+ko	‘내 볼로냐’부터 | ‘랍비를 위한 아름다운 비행’ | 
+

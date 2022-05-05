@@ -1,0 +1,27 @@
+ar	&rlm;‏إنه جيد جداً للنساء، قوي جداً.‏ | 
+da	Det er godt til kvinder, så stærkt. 
+el	Είναι δυναμικό. Καλό αυτό για τις γυναίκες. 
+en	It's so good for women, so strong. | 
+fi	Naisten kannalta upeaa. Tosi vahvaa. 
+fr	C'est un super message pour les filles. 
+he	&rlm;‏זה טוב לנשים, כל כך חזק.‏ | 
+it	Canzone perfetta per le donne, è energica. 
+ko	여자한테 맞는 강렬한 곡이네요 | 
+nl	Het is goed voor vrouwen. Heel sterk. 
+no	Bra for kvinner, så sterkt. 
+pl	Piosenka o silnej kobiecie. 
+pr-br	É bom para as mulheres, bem forte. 
+pr	É tão bom para as mulheres. É tão forte. 
+ro	Ce bun e pentru femei! E atât de puternic! 
+sp	Es bueno para las mujeres. Mucha fuerza. 
+sp-eu	Es bueno para las mujeres, es muy fuerte. 
+sv	Så bra för kvinnor, så starkt. 
+th	มันดีสำหรับผู้หญิง เข้มดี | 
+tr	Kadınlara çok uygun, çok güçlü. 
+vi	Rất tốt cho các chị em, thật mạnh mẽ. | 
+zh-long	女人一定愛，感情好濃烈 
+zh-short	很适合女人听 坚强有力 
+id	Lagunya cocok untuk wanita, sangat kuat. 
+ru	Женщин это должно вдохновить. 
+ja	女性が好む歌ね | 
+

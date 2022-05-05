@@ -1,0 +1,84 @@
+ja	「黄昏」の脚本があるんだ | 読み合わせしてみる？ | 
+ru	У меня есть сценарий фильма «На золотом озере». 
+id	Aku punya skenario asli  On Golden Pond. 
+ko	‘황금 연못’ | 원본 대본이 있는데 | 
+ar	&rlm;‏لدي الحوار الأصلي لفيلم "أون غولدن بوند".‏ | 
+da	Jeg har det originale manuskript til  Deres sensommer. 
+el	Έχω το αυθεντικό σενάριο της ταινίας  Στη Χρυσή Λίμνη. 
+en	I have the original script | of On Golden Pond. | 
+fi	Minulla on  Kultalammen alkuperäinen käsikirjoitus. 
+fr	J'ai le scénario original de  La maison du lac. 
+he	&rlm;‏יש לי את התסריט המקורי של "האגם המוזהב".‏ | 
+it	Ho la sceneggiatura originale di  Sul lago dorato. 
+nl	Ik heb het originele script van  On Golden Pond. 
+no	Jeg har originalmanuset til  On Golden Pond. 
+pl	Mam oryginalny scenariusz Nad złotym stawem. 
+pr-br	Eu tenho o roteiro original de  Num Lago Dourado. 
+pr	Tenho o guião original de  A Casa do Lago. 
+ro	Am scenariul original al filmului Pe heleșteul auriu. 
+sp-eu	Tengo el guion original de  En el estanque dorado. 
+sp	Tengo el guion original de  On Golden Pond. 
+sv	Jag har originalmanuset till  Sista sommaren. 
+th	ฉันมีบทดั้งเดิมของหนังเรื่อง | ออนโกลเดนพอนด์ | 
+tr	Elimde  Altın Göl'ün orijinal senaryosu var. 
+vi	Chú có kịch bản gốc của | phim On Golden Pond. | 
+zh-long	我有《金池塘》原版劇本 
+zh-short	我有《金色池塘》的剧本初稿 
+
+es	¿Qué lugar? 
+cs	Jaký? 
+da	Hvilket sted? | 
+el	Ποιο μέρος; 
+es-eu	¿Qué sitio? 
+fr	Quel endroit ? 
+he	‫איזה מקום?‬ | 
+hr	Koje mjesto? 
+hu	Milyen hely? 
+id	Tempat apa? 
+it	Che posto? 
+ja	&lrm;どこ？ | 
+ko	&lrm;그게 어디죠? | 
+ms	Tempat apa? 
+no	Hvilket sted? 
+pt-br	Que lugar? 
+pt	Qual sítio? 
+ro	Ce loc? 
+ru	Что за место? 
+th	&lrm;ที่ไหน | 
+tr	Neresi? 
+uk	Яке місце? 
+vi	&lrm;Chỗ nào? | 
+zh-long	什麼地方？ 
+zh-short	什么地方？ 
+fi	Mikä paikka? | 
+en	What place? 
+nl	Welke plek? -Therapie voor losers, of zoiets. 
+sv	-Vilket då? -Dit nollor söker sig för terapi. 
+es	Allí ofrecen terapia a los perdedores. 
+ru	Что-то типа психологической помощи лузерам. 
+hr	Organiziraju nekakvu terapiju za luzere. 
+ms	Terapi untuk orang bermasalah atau sebegitu. 
+pt-br	Onde fazem terapia com jovens problemáticos. 
+cs	Dělají tam nějaký terapie pro zoufalce či co. 
+da	Et sted med terapi for tabere. | 
+es-eu	Una terapia para pringados o algo así. 
+fr	Un truc de thérapie pour losers. 
+he	‫מוסד טיפולי ללוזרים, או משהו כזה.‬ | 
+hu	Valami terápiás izé lúzereknek. 
+id	Terapi untuk pecundang, atau semacamnya. 
+it	Dove fanno terapia per sfigati o roba simile. 
+ko	&lrm;무슨 떨거지들 치료 같은 거던데 | 
+no	Med litt terapi for tapere, eller noe. 
+pt	Que faz terapia a falhados ou lá o que é. 
+ro	Unde se face ceva terapie pentru ratați. 
+th	&lrm;สถานบำบัดให้พวกขี้แพ้หรืออะไรสักอย่าง | 
+tr	Ezikler için terapi falan yapılıyor. 
+uk	Психічної допомоги для невдах, щось таке. 
+vi	&lrm;Chỗ có liệu pháp | &lrm;cho bọn lông bông hay gì đó. | 
+zh-long	治療人生失敗者之類的地方 
+zh-short	一个治疗窝囊废的地方 
+el	Εκεί κάνουν θεραπεία οι αποτυχημένοι, κάτι τέτοιο. 
+ja	&lrm;“負け犬のためのセラピー” | 
+fi	Luuserit käyvät siellä terapiassa. | 
+en	They run therapy sessions for losers, or something like that. 
+

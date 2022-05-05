@@ -1,0 +1,27 @@
+ar	&rlm;‏ها هي!‏ | 
+da	Der er den! 
+el	Να το! 
+fi	Siinä se on! 
+fr	Je l'ai ! 
+he	&rlm;‏הנה זה!‏ | 
+it	Eccola! 
+nl	Daar is het. 
+pl	Jest! 
+pr-br	Aqui. Achei! 
+pr	Cá está! 
+ro	Aici e! 
+sp	¡Ahí está! 
+sp-eu	Ahí está. ¡Ahí está! 
+sv	Där är den! 
+tr	İşte bu. Buldum! 
+vi	Đây rồi! | 
+zh-long	找到了！ 
+zh-short	是这个 就是这个！ 
+ko	여기다! | 
+en	-There it is. There it is! | -["Mr. DJ" playing] | 
+ja	ここだ　ほら！ | 
+no	Der er den! 
+id	Itu dia! 
+ru	Вот она! 
+th	นั่นใช่เลย ใช่แล้ว | 
+

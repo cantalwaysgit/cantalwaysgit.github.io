@@ -1,0 +1,27 @@
+id	- Senang bertemu denganmu. - Aku juga. 
+vi	- Rất vui được gặp anh. | - Tôi cũng vậy. | 
+ru	-Рад был встрече. -Я тоже. 
+ar	&rlm;‏‏- سُررت برؤيتك. | &rlm;‏- وبرؤيتك أيضاً.‏ | 
+da	-Godt at se dig. -I lige måde. 
+el	-Χάρηκα που σε είδα. -Παρομοίως. 
+en	-It was great seeing you, pal. | -It was great seeing you. | 
+fi	-Oli mukava nähdä sinua. -Samoin. 
+fr	- Ravi de t'avoir revu. - Pareil. 
+he	&rlm;‏‏נפלא לראות אותך. | &rlm;‏-גם אותך.‏ | 
+it	- Mi ha fatto piacere. - Anche a me. 
+nl	Leuk om je te zien. 
+no	-Fint å se deg. -I like måte. 
+pl	- Miło było. - Mnie też. 
+pr-br	-Que bom ver você. -Igualmente. 
+pr	- Foi ótimo ver-te. - Igualmente. 
+ro	- Mă bucur că te-am văzut. - Și eu. 
+sp-eu	- Me alegro de verte. - Y yo a ti. 
+sp	- Un gusto verte. - A mí también. 
+sv	-Kul att se dig. -Dig med. 
+th	- เยี่ยมจริงที่ได้เจอกัน | - เหมือนกัน | 
+tr	-Seni görmek harikaydı. -Seni de. 
+zh-long	-見到你真好 -我也是 
+zh-short	-见到你真高兴 -我也是 
+ko	- 반가웠어요 | - 마찬가지야 | 
+ja	僕もだ | 
+

@@ -1,0 +1,51 @@
+ko	그거야 | 
+ar	&rlm;‏أحسنت.‏ | 
+da	Sådan. 
+el	Αυτό είναι. 
+en	[Sandy] That's it. That's it. | 
+fi	Sillä tavalla. 
+fr	C'est bien. 
+he	&rlm;‏זהו זה.‏ | 
+it	Così. 
+no	Sånn ja. 
+pl	Bardzo ładnie. 
+pr-br	É isso aí. 
+pr	É isso mesmo. 
+ro	Așa! 
+sp	Así. 
+sp-eu	Eso es. 
+sv	Så ska det se ut. 
+th	นั่นเลยๆ | 
+tr	İşte bu. 
+vi	Tốt lắm. | 
+zh-long	就是這樣… 
+zh-short	就是这样 
+id	Bagus. 
+ru	Вот так. 
+ja	いいね　サマになってきた | 
+ko	- 보비 브라운 | - 이제 잘하네 | 
+id	- Bobby Brown. - Sekarang kau bisa. 
+ar	&rlm;‏‏- مثل "بوبي براون". | &rlm;‏- أنت تتقنين ذلك الآن.‏ | 
+da	-Bobby Brown. -Nu kører det. 
+el	-Μπόμπι Μπράουν. -Έπιασες το ρυθμό. 
+en	-That's it. Now you're in it. | -[Gideon] Bobby Brown. | 
+fi	-Bobby Brown. -Juuri niin. 
+fr	- Bobby Brown. - Tu prends le coup. 
+he	&rlm;‏‏בובי בראון. | &rlm;‏-עכשיו קלטת את זה.‏ | 
+it	- Bobby Brown. - Ora ci siamo. 
+nl	Bobby Brown. -Nu heb je het. 
+no	-Bobby Brown. -Nå har du det. 
+pl	- Bobby Brown. - Pięknie. 
+pr	- Bobby Brown. - Agora sim. 
+pr-br	-Bobby Brown. -Pegou o jeito. 
+ro	- Bobby Brown. - Acum știi. 
+sp	- Bobby Brown. - Ahora lo tienes. 
+sp-eu	- Bobby Brown. - Ahora estás metida. 
+sv	-Bobby Brown. -Nu har du det. 
+th	- บ๊อบบี้ บราวน์ | - ตอนนี้อินแล้ว | 
+tr	-Bobby Brown. -Şimdi içine girdin. 
+vi	- Bobby Brown. | - Giờ cô quen rồi đấy. | 
+zh-long	-芭比波朗 -妳進入狀況了 
+zh-short	-鲍比布朗 -你进入状态了 
+ru	-Бобби Браун! -Получается! 
+

@@ -1,0 +1,26 @@
+ar	&rlm;‏لا. اعتدنا على العمل معاً.‏ | 
+da	Nej, vi har arbejdet sammen. 
+el	Όχι, ήμασταν συνεργάτες. 
+en	No. No, we used to work together. | 
+fi	Ei. Teimme ennen yhdessä töitä. 
+fr	Non. On a bossé ensemble. 
+he	&rlm;‏לא, עבדנו יחד בעבר.‏ | 
+it	No. Noi lavoravamo insieme. 
+nl	Nee. We hebben vroeger samengewerkt. 
+pl	Nie. Pracowaliśmy razem. 
+pr-br	Não. Nós trabalhávamos juntos. 
+pr	Não. Nós trabalhámos juntos. 
+ro	Nu. Noi am colaborat. 
+sp-eu	No. Antes trabajábamos juntos. 
+sp	No. Solíamos trabajar juntos. 
+sv	Nej, vi brukade jobba tillsammans. 
+th	ไม่ใช่ เราเคยร่วมงานกัน | 
+tr	Hayır. Eskiden birlikte çalışırdık. 
+vi	Không. Bọn tôi từng cộng tác với nhau. | 
+zh-long	不是，我們以前是同事 
+zh-short	不是 我们以前共事过 
+ru	Нет. Мы работали вместе. 
+id	Bukan. Kami pernah bekerja sama. 
+ko	아니요, 예전에 같이 일했어요 | 
+ja	いや 前のマネジャーだ | 
+

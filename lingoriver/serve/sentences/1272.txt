@@ -1,0 +1,74 @@
+en	Whatever the amount of time was | that he cried, | 
+ko	얼마나 오래 울었든 간에 | 자기 규칙을 어긴 거예요 | 
+ar	&rlm;‏مهما كان طول وقت بكائه، فقد خرق قوانينه.‏ | 
+da	Uanset hvor længe han græd, så brød han sine egne regler. 
+el	Όσο κι αν έκλαψε, είχε παραβεί τους κανόνες του. 
+fi	Miten kauan hän sitten itkikään, hän rikkoi omia sääntöjään. 
+fr	S'il pleurait, c'est qu'il était allé trop loin. 
+he	&rlm;‏‏לא חשוב כמה זמן הוא בכה, | &rlm;‏הוא הפר את החוקים של עצמו.‏ | 
+it	Al di là di quanto abbia pianto, aveva infranto il suo principio. 
+no	Samme hvor lenge han gråt, så brøt han sine egne regler. 
+pr-br	Seja lá quanto tempo chorou, ele violou as próprias regras. 
+pr	Não importa o tempo que chorou, ele quebrou as próprias regras. 
+ro	Oricât de mult a stat să plângă, și-a încălcat regulile. 
+sp-eu	Por mucho que llorase, había roto sus propias reglas. 
+sv	Oavsett hur länge han grät, bröt han mot sina egna regler. 
+th	ไม่ว่าเขาจะร้องนานแค่ไหน | เขาทำผิดกฎที่ตัวเองตั้งไว้ | 
+tr	İstediği kadar uzun ağlasın, kendi kurallarını çiğnedi. 
+vi	Nhưng anh ta khóc rất lâu, | tức là vi phạm quy tắc của chính mình. | 
+zh-long	不管他哭了多久 他打破了自己的原則 
+zh-short	不管他哭了多久 是他坏了自己的规矩 
+nl	Hoelang hij ook huilde, hij overtrad zijn eigen regels. Hij was te close. 
+id	Entah berapa lama dia menangis, 
+sp	No importaba cuánto había llorado, había roto sus propias reglas. 
+pl	Nieważne, jak długo płakał. Złamał własną zasadę. Zbytnio się zbliżył. 
+ru	Сколько бы он ни ревел, он нарушил свои правила. Сблизился с ней. 
+ja	自分で作った掟(おきて)を破り | 彼女に近づきすぎた | 
+id	dia melanggar peraturan. Dia terlalu akrab. 
+en	he broke his own rules. | He just got too close. | 
+ko	너무 가까워졌으니까요 | 
+sp	Se involucró demasiado. 
+ar	&rlm;‏فقد تقرب كثيراً منها.‏ | 
+da	Han kom for tæt på. 
+el	Είχε δεθεί μαζί της. 
+fi	Hän lähentyi liikaa. 
+fr	Il était trop investi. 
+he	&rlm;‏הוא התקרב יותר מדי.‏ | 
+it	Era troppo coinvolto. 
+pr	Aproximou-se demasiado. 
+pr-br	Se envolveu demais. 
+ro	S-a atașat. 
+sp-eu	Se había implicado demasiado. 
+sv	Han kom för nära. 
+th	เขาเข้าไปใกล้เกินไป | 
+tr	Fazla yakınlaştı. 
+vi	Anh ta quá thân thiết. | 
+zh-long	他沒謹守分際 
+zh-short	他投入太深 
+no	-Ble for knyttet til henne. -Det var Alfred om igjen. 
+ar	&rlm;‏تكرر أمر "ألفريد" مجدداً.‏ | 
+da	Det var det samme med Alfred. 
+el	Ήταν όπως με τον Άλφρεντ. 
+en	It was Alfred all over again. | 
+fi	Ihan kuin Alfredin kanssa. 
+fr	Alfred,  bis repetita. 
+he	&rlm;‏זה היה אלפרד מחדש.‏ | 
+id	Ini seperti insiden Alfred lagi. 
+it	Fu un altro Alfred. 
+ko	또 알프레드 같은 상황이 | 연출된 거죠 | 
+nl	Het was weer net als met Alfred. 
+pl	Jak kiedyś z Alfredem. 
+pr-br	Foi a história do Alfred de novo. 
+pr	Foi uma repetição do Alfred. 
+ro	Se repeta povestea cu Alfred. 
+ru	Как с Альфредом. 
+sp-eu	Se repetía lo de Alfred. 
+sp	Fue como lo de Alfred otra vez. 
+sv	Det var som med Alfred ännu en gång. 
+th	เหมือนเรื่องอัลเฟรดอีกครั้งเลย | 
+tr	Alfred olayı başa sarmış gibiydi. 
+vi	Lại giống như với Alfred. | 
+zh-long	阿飛事件再次重演 
+zh-short	阿尔弗雷德的事重演了 
+ja	アルフレッドの時と同じ | 
+

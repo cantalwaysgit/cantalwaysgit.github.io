@@ -1,0 +1,27 @@
+fi	Saan täältä parhaat ideani. 
+ko	내가 여기에서 | 최고의 아이디어를 얻거든 | 
+zh-short	这里是能激发我灵感的地方 
+id	Di sinilah aku mendapatkan ide-ide terbaikku. 
+ru	Здесь я нахожу лучшие идеи. 
+th	ที่นี่คือแหล่งที่ฉันได้ | ความคิดบรรเจิด | 
+pl	Stąd biorę najlepsze pomysły. 
+ar	&rlm;‏من هنا أحظى بجميع أفضل أفكاري.‏ | 
+da	Det er her, jeg får mine bedste idéer. 
+el	Από δω παίρνω τις καλύτερές μου ιδέες. 
+en	Well, this is where | I get all my best ideas. | 
+fr	C'est ici que je trouve l'inspiration. 
+he	&rlm;‏כאן אני מקבל את כל הרעיונות הכי טובים שלי.‏ | 
+it	È qui che mi vengono le idee migliori. 
+pr-br	Bem, é aqui que tenho as minhas melhores ideias. 
+pr	É aqui que tenho as minhas melhores ideias. 
+ro	Aici îmi vin ideile cele mai bune. 
+sp	Aquí es donde se me ocurren las mejores ideas. 
+sp-eu	Aquí es donde se me ocurren mis mejores ideas. 
+sv	Det är här jag får mina bästa idéer. 
+tr	En iyi fikirleri burada buluyorum. 
+vi	Đây là nơi tôi có những ý tưởng hay nhất. | 
+zh-long	我都來這裡尋找靈感 
+nl	Hier krijg ik mijn beste ideeën. En van de radio. 
+ja	アイデアの源だ | こことラジオが | 
+no	Jeg får alle mine beste ideer her. 
+

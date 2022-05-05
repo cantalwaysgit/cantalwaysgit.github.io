@@ -1,0 +1,58 @@
+ar	&rlm;‏قلت إنهم سيأتون. وقد أتوا.‏ | 
+da	De kom, som du sagde. 
+el	Ήρθαν, όπως ακριβώς είχες πει. 
+en	You said they'd come, and they came. | 
+fi	Ihmisiä tuli, kuten sanoit. 
+fr	Ils sont bien au rendez-vous. 
+he	&rlm;‏אמרת שהם יבואו והם באו.‏ | 
+it	L'avevi detto che sarebbero venuti. 
+ko	네 말대로 다들 왔네 | 
+nl	Je zei dat ze zouden komen. 
+no	Du sa de ville komme. De kom. 
+pl	Mieli przyjść, więc są. 
+pr-br	Você disse que viriam. E vieram. 
+pr	Disseste que viriam e vieram. 
+ro	Ai zis că vor veni. Au venit. 
+sp	Dijiste que vendrían, y así fue. 
+sp-eu	Dijiste que vendrían. Y han venido. 
+sv	Du sa att de skulle komma. 
+th	นายบอกว่าคนจะมาดู ก็มาแล้ว | 
+tr	Gelecekler dedin. Gelmişler. 
+vi	Cậu nói họ sẽ đến. Họ đã đến. | 
+zh-long	你說他們會來，他們來啦 
+zh-short	你说过他们会来的 他们真就来了 
+id	Kau bilang mereka akan datang. 
+ru	Ты сам говорил, что они придут. 
+ja	大勢 集まったな | 
+
+it	Dopo che i senzatetto hanno trovato Igor, qui siamo rimasti solo io e la polizia. 
+hu	Miután Igort megtalálták a hajléktalanok, csak a rendőrök jártak itt, meg én. 
+es	Unos indigentes hallaron a Igor. Solo la policía y yo estuvimos aquí luego. 
+en	Igor was found by some homeless people, 
+cs	Potom, co Igora našel ten bezdomovec, jsme tady byli jen já a policie. 
+id	Setelah Igor ditemukan oleh tunawisma, hanya aku dan polisi yang kemari. 
+da	Efter Igor blev fundet af den hjemløse, | var kun jeg og politiet her. | 
+el	Αφότου ο Ίγκορ βρέθηκε από άστεγους, ήρθαμε εδώ μόνο η αστυνομία κι εγώ. 
+es-eu	Después de que un sintecho encontrara a Igor, vine aquí con la policía. 
+fi	Kun kodittomat olivat löytäneet Igorin, | vain minä ja poliisi kävimme täällä. | 
+fr	Des sans-abris ont découvert Igor, il n'y avait que la police et moi. 
+he	‫אחרי שחסרי הבית מצאו את איגור,‬ | ‫רק אני והמשטרה היינו כאן.‬ | 
+hr	Nakon što su beskućnici našli Igora, jedino smo policija i ja bili ovdje. 
+ja	&lrm;イゴールが発見された後 | &lrm;警察と私しかいなかった | 
+ko	&lrm;노숙자들이 이고르를 발견한 후 | &lrm;경찰과 나만 여기 왔었고 | 
+ms	Selepas Igor ditemui oleh gelandangan, hanya saya dan polis datang ke sini. 
+nl	Nadat Igor door de daklozen was gevonden, waren alleen de politie en ik hier. 
+no	Etter at Igor ble funnet av de hjemløse, var bare politiet og jeg her. 
+pt-br	Depois que Igor foi encontrado, só eu e a polícia estivemos aqui. 
+pt	Depois de os sem-abrigo acharem o Igor, só eu e a Polícia viemos aqui. 
+ro	După ce l-au găsit oamenii străzii, numai eu și poliția am fost pe aici. 
+ru	Игоря нашли бездомные, но сюда приходили только я и полиция. 
+sv	Sen den hemlösa hittade Igor, har bara polisen och jag varit här. 
+th	&lrm;หลังจากคนจรจัดพบอิกอร์ | &lrm;มีแต่ตำรวจกับฉันที่มาที่นี่ | 
+tr	Evsizler Igor'u bulduktan sonra buraya sadece polislerle ben geldik. 
+uk	Після того, як Ігоря знайшли безпритульні, тут були лише поліція і я. 
+vi	&lrm;Sau khi người vô gia cư phát hiện Igor, | &lrm;chỉ có cảnh sát và tôi ở đây. | 
+zh-long	伊格爾被遊民發現後 只有我和警察來過這裡 
+zh-short	那个流浪汉发现伊戈尔后 只有警察和我来过这里 
+en	and then the police and I were the only ones here. 
+

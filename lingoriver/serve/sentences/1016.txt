@@ -1,0 +1,27 @@
+id	Lihat. Itu O.J. Simpson, Phil Spector, dan Robert Blake. 
+ru	Смотри! Это О. Джей Симпсон, Фил Спектор и Роберт Блейк. 
+ar	&rlm;‏‏اسمعوا هذه. "أوجيه سيمبسون" | &rlm;‏و"فيل سبيكتور" و"روبرت بليك".‏ | 
+da	Se lige, det er O.J. Simpson, Phil Spector og Robert Blake. 
+el	Κοιτάξτε. Ο Ο.Τζ. Σίμπσον, ο Φιλ Σπέκτορ και ο Ρόμπερτ Μπλέικ. 
+en	Yo, check it out. It's OJ Simpson, | Phil Spector and Robert Blake. | 
+fi	Kappas, OJ Simpson, Phil Spector ja Robert Blake. 
+fr	Matez ça. C'est OJ Simpson, Phil Spector et Robert Blake. 
+he	&rlm;‏‏תסתכלו. אלה או-ג'יי סימפסון, פיל ספקטור | &rlm;‏ורוברט בלייק.‏ | 
+it	Guardate. O.J. Simpson, Phil Spector e Robert Blake. 
+nl	Kijk. OJ Simpson, Phil Spector en Robert Blake. 
+no	Se der. OJ Simpson, Phil Spector og Robert Blake. 
+pl	Patrzcie. To OJ Simpson, Phil Spector i Robert Blake. 
+pr-br	Veja só. OJ Simpson, Phil Spector e Robert Blake. 
+pr	Vejam. É o OJ Simpson, o Phil Spector e o Robert Blake. 
+ro	Fiți atenți! Sunt OJ Simpson, Phil Spector și Robert Blake. 
+sp-eu	Fijaos. Son OJ Simpson, Phil Spector y Robert Blake. 
+sp	Mira. OJ Simpson, Phil Spector y Robert Blake. 
+sv	Kolla där. OJ Simpson, Phil Spector och Robert Blake. 
+th	ดูสิ นั่นโอเจ ซิมป์สัน | ฟิล สเปคเตอร์และโรเบิร์ต เบลค | 
+tr	Baksana. OJ Simpson, Phil Spector ve Robert Blake. 
+vi	Nhìn kìa. Là OJ Simpson, | Phil Spector và Robert Blake. | 
+zh-long	你們看，OJ辛普森 菲爾史佩特和羅伯布萊克 
+zh-short	看 是辛普森 菲尔斯佩克特 和罗伯特布雷克 
+ko	저기 OJ 심슨이랑 필 스펙터 | 로버트 블레이크가 왔네요 | 
+ja	Ｏ･Ｊ･シンプソンに | スペクターもブレイクもいる | 
+

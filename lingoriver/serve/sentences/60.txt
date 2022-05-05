@@ -1,0 +1,82 @@
+ar	&rlm;‏حياته الشخصية؟‏ | 
+da	Hans privatliv? 
+el	Η προσωπική του ζωή; 
+en	Sandy's personal life? | 
+fi	Yksityiselämänsä? 
+fr	Sa vie privée ? 
+he	&rlm;‏חייו האישיים?‏ | 
+it	La sua vita privata? 
+ko	사생활요? | 
+nl	Zijn privéleven? 
+no	Privatlivet hans? 
+pl	Jego życie osobiste? 
+pr	A vida pessoal dele? 
+pr-br	A vida pessoal dele? 
+ro	Viața lui personală? 
+sp	¿De su vida privada? 
+sp-eu	¿Su vida personal? 
+sv	Sandys privatliv? 
+th	ชีวิตส่วนตัวเขาเหรอ | 
+tr	Özel hayatı mı? 
+vi	Đời tư của anh ta? | 
+zh-long	他的私生活？ 
+zh-short	他的私生活吗？ 
+id	Kehidupan pribadi Sandy? 
+ru	Личная жизнь? 
+ja	彼の私生活？ | 
+
+cs	Už máš sbalenou svačinu? 
+da	Har du fået frokost med? | 
+el	Ετοίμασες το κολατσιό σου; 
+en	Have you packed your lunch? 
+es-eu	¿Ya has hecho la merienda? 
+fr	Tu as préparé ton déjeuner ? 
+he	‫ארזת את ארוחת הצהריים?‬ | 
+hr	Jesi li spakirala užinu? 
+hu	Bepakoltad az uzsonnádat? 
+it	Hai preparato il pranzo? 
+ja	&lrm;弁当入れたかい？ | 
+ko	&lrm;도시락은 챙겼어? | 
+ms	Bekal tengah hari dah siap? 
+nl	Heb je je lunch ingepakt? 
+no	Har du lagd matpakke? 
+pt-br	Colocou o almoço na mochila? 
+pt	Já arranjaste o teu almoço? 
+ro	Ți-ai pus de mâncare? 
+ru	Обед положила? 
+th	&lrm;ทำอาหารกลางวันหรือยัง | 
+uk	Ти спакувала обід? 
+vi	&lrm;Con chuẩn bị bữa trưa chưa? | 
+zh-long	妳的午餐裝好了嗎？ 
+zh-short	你的午餐装好了吗？ 
+fi	Joko pakkasit lounaasi? | 
+tr	-Beslenmeni aldın mı? -Daha almadım. 
+es	- ¿Ya empacaste tu almuerzo? - Aún no. 
+sv	-Har du packat ner lunchen?  -Inte än. 
+id	- Sudah mengemas makan siangmu? - Belum. 
+cs	Ještě ne. 
+ja	&lrm;まだよ | 
+da	-Ikke endnu. | -Hvad venter du på? | 
+el	-Όχι ακόμα. -Τι περιμένεις, λοιπόν; 
+en	-Not yet. -So what are you waiting for? 
+es-eu	- Aún no. - ¿Y a qué esperas? 
+fr	- Pas encore. - Qu'est-ce que tu attends ? 
+he	‫עדיין לא.‬ | ‫-אז למה את מחכה?‬ | 
+hr	-Ne još. -Pa što čekaš? 
+hu	- Még nem. - Akkor mire vársz? 
+it	- Non ancora. - E cosa stai aspettando? 
+ko	&lrm;- 아직 | &lrm;- 그럼 얼른 챙겨 | 
+ms	- Belum lagi. - Jadi, tunggu apa lagi? 
+nl	Nog niet. -Waar wacht je op? 
+no	-Ikke ennå. -Så hva venter du på? 
+pt	- Ainda não. - Estás à espera do quê? 
+pt-br	- Ainda não. - Então o que está esperando? 
+ro	- Încă nu. - Și ce mai aștepți? 
+ru	- Нет еще. - Так чего же ты ждешь? 
+th	&lrm;- ยังค่ะ | &lrm;- มัวทำอะไรอยู่ล่ะ | 
+uk	-Ще ні. -То чого чекаєш? 
+vi	&lrm;- Chưa. | &lrm;- Vậy con còn chờ gì nữa? | 
+zh-long	-還沒 -妳還在等什麼？ 
+zh-short	-还没有 -那你还等什么？ 
+fi	En vielä. | 
+

@@ -1,0 +1,55 @@
+id	Pada kali pertama. 
+ru	Нет, с первого раза. 
+ja	１回目も言った | 
+ar	&rlm;‏قالها منذ المرة الأولى.‏ | 
+el	Το είπε την πρώτη φορά. 
+en	He said it the first time. | 
+fr	Il l'avait dit la 1re fois. 
+he	&rlm;‏הוא אמר את זה בפעם הראשונה.‏ | 
+it	L'ha detto la prima volta. 
+pl	Za pierwszym razem też. 
+pr-br	Ele disse na primeira vez. 
+pr	Ele tinha dito da primeira vez. 
+ro	A zis din prima. 
+sp-eu	Lo dijo a la primera. 
+sp	Lo dijo la primera vez. 
+th	เขาพูดตั้งแต่ครั้งแรก | 
+tr	İlk seferinde söyledi. 
+vi	Anh ta nói thế ngay từ đầu. | 
+zh-long	他一開始就說對了 
+zh-short	他第一次就是这么说的 
+nl	Hij zei het de eerste keer al. 
+da	Han sagde det første gang. 
+fi	Hän sanoi niin ekalla kerralla. 
+ko	처음부터 로저스라고 했어 | 
+no	Han sa den første gangen. 
+sv	Han sa det första gången. 
+
+es	No lo sé, Beata. 
+no	Jeg vet ikke, Beata. 
+cs	Nevím, Beato. 
+da	Det ved jeg ikke. | 
+el	Δεν ξέρω, Μπεάτα. 
+es-eu	No lo sé, Beata. 
+fr	Je ne sais pas. 
+he	‫אני לא יודעת, באטה.‬ | 
+hr	Ne znam, Beata. 
+hu	Nem tudom, Beata. 
+id	Entahlah, Beata. 
+it	Non lo so, Beata. 
+ja	&lrm;分からない | 
+ko	&lrm;모르겠어요, 베아타 | 
+pt-br	Não sei, Beata. 
+pt	Não sei, Beata. 
+ro	Nu știu, Beata. 
+sv	Det vet jag inte. 
+th	&lrm;ฉันก็ไม่รู้ เบียต้า | 
+tr	Bilmiyorum Beata. 
+uk	Не знаю, Беато. 
+zh-long	我不知道，貝塔 
+zh-short	我不知道 贝塔 
+ms	Saya tak tahu, Beata. 
+fi	En tiedä. | 
+ru	Не знаю, Беата. 
+en	I don't know, Beata. 
+

@@ -1,0 +1,25 @@
+id	Aku sudah mengadakan bar mitzvah dulu. 
+ru	Бар-мицву я прошел давно. 
+ar	&rlm;‏بلغت سن الرشد منذ وقت طويل.‏ | 
+da	Jeg holdt min bar mitzvah for længe siden. 
+el	Πέρασε πολύς καιρός από το Μπαρ Μίτζβα μου. 
+en	I was bar mitzvahed, | but that was a long time ago. | 
+fi	Vietin bar mitsvani kauan sitten. 
+fr	J'ai fait ma Bar Mitzvah, mais c'était il y a longtemps. 
+he	&rlm;‏עשיתי בר מצווה לפני הרבה מאוד שנים.‏ | 
+it	Ho celebrato il Bar Mitzvah tanto tempo fa. 
+ko	오래전에 성인식을 치르긴 했죠 | 
+no	Jeg hadde bar mitzvah for lenge siden. 
+pl	Miałem bar micwę, ale wieki temu. 
+pr-br	Meu  bar mitzvah  foi há muito tempo. 
+pr	Fizeram-me um  bar mitzvah, mas foi há muito tempo. 
+ro	Am avut ceremonia Bar Mitzvah, dar acum mult timp. 
+sp-eu	Me hicieron el bar mitzvah, pero eso fue hace mucho. 
+sp	Me circuncidaron, pero fue hace mucho. 
+sv	Jag hade min bar mitzvah för länge sen. 
+th	ผมเข้าพิธีบาร์มิตซวาห์นานมาแล้ว | 
+tr	Bar mitzvam yapılalı çok oldu. 
+vi	Tôi được làm lễ trưởng thành khá lâu rồi. | 
+zh-long	我很久以前就辦過成年禮了 
+zh-short	我很久以前就办过成人礼了 
+

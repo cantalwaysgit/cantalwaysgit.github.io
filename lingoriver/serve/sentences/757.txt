@@ -1,0 +1,27 @@
+id	Ayolah. Jika kita akan berbisnis, lakukanlah dengan menyenangkan. 
+ru	Если мы собираемся работать вместе, можно и поприкалываться. 
+ja	ビジネスは | 楽しくやらなきゃダメだ | 
+ar	&rlm;‏‏هيا. إن كنا سنعمل، | &rlm;‏فيجب أن ندرك أنه ممتع أيضاً.‏ | 
+da	Hvis vi skal lave forretning sammen, så skal vi også have det sjovt. 
+el	Αν είναι να συνεργαστούμε, πρέπει να διασκεδάζουμε κιόλας. 
+en	Come on. If we're gonna do business, | we gotta realize it's fun, too. | 
+fi	Jos ryhdymme bisneksiin, hauskaakin pitää olla. 
+fr	Si on veut faire affaires, faut s'amuser un peu. 
+he	&rlm;‏‏באמת. אם אנחנו הולכים לעשות עסקים, | &rlm;‏אנחנו צריכים להבין שזה גם כיף.‏ | 
+it	Dai. Facciamo affari, ma divertendoci. 
+nl	Als we zaken gaan doen, moeten we beseffen dat het ook leuk is. 
+no	Skal vi gjøre forretninger, må vi også kunne ha det moro. 
+pl	Robimy razem interesy, ale zabawa też jest ważna. 
+pr-br	Se vamos trabalhar juntos, temos de nos divertir também. 
+pr	Se vamos trabalhar juntos, temos de perceber que também é divertido. 
+ro	Zău! O să facem afaceri, trebuie să ne și distrăm. 
+sp-eu	Venga. Si vamos a hacer negocios, tienen que ser divertidos. 
+sp	Vamos. Si vamos a hacer negocios, debemos divertirnos también. 
+sv	Ska vi göra affärer med varandra, måste vi ha lite kul också. 
+th	ไม่เอาน่า ถ้าจะร่วมทำธุรกิจกัน | ต้องรู้สึกสนุกด้วย | 
+tr	Hadi. İş yapacaksak eğlenmeyi de bilmemiz lazım. 
+vi	Thôi nào. Nếu muốn làm ăn, | ta phải thừa nhận là nó cũng thú vị. | 
+zh-long	既然要合作，放輕鬆一點嘛 
+zh-short	拜托 想做生意就得找到乐趣所在 
+ko	사업을 할 거면 | 재미도 좀 보면서 해야지 | 
+

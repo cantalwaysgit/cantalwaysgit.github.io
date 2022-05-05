@@ -1,0 +1,53 @@
+id	Malu menunjukkan wajahnya 
+ja	この顔を見せたらきっと― | 
+ru	Не смея показать лица 
+ar	&rlm;‏وشعر بالخجل من إظهار وجهه‏ | 
+da	Flov over at vise sig 
+el	Ντρεπόταν να δείξει το πρόσωπό του 
+en	♪ Ashamed to show his face ♪ | 
+fi	Ei näyttäytyä tohtinut 
+fr	Honteux de se montrer 
+he	&rlm;‏התבייש להראות את פניו‏ | 
+it	Vergognandosi della sua faccia 
+ko	얼굴을 보이는 걸 | 부끄러워하면서 | 
+nl	hij schaamde zich voor zijn gezicht 
+pl	Nie chciał pokazywać dzióbka 
+pr-br	Com vergonha de mostrar o rosto 
+pr	Com vergonha de mostrar o rosto 
+ro	Rușinată să-și arate chipul 
+sp	Avergonzado por su rostro 
+sp-eu	Avergonzado de mostrarse 
+sv	Skämdes över sitt ansikte 
+th	อายที่จะให้ใครเห็นหน้า | 
+tr	Utandı, yüzünü göstermedi 
+vi	Không dám lộ diện | 
+zh-long	不敢露出臉來 
+zh-short	羞于露脸 
+
+pt-br	Meu nome é Joanna Makowska. 
+fi	Nimeni on Joanna Makowska. | 
+cs	Jmenuju se Joanna Makowská. 
+da	Jeg hedder Joanna Makowska. | 
+en	My name is Joanna Makowska. 
+es-eu	Me llamo Joanna Makowska. 
+es	Me llamo Joanna Makowska. 
+he	‫שמי יואנה מקובסקה.‬ | 
+hr	Zovem se Joanna Makowska. 
+hu	A nevem Joanna Makowska. 
+id	Namaku Joanna Makowska. 
+it	Mi chiamo Joanna Makowska. 
+ja	&lrm;私は ヨアンナ･マコフスカ | 
+ko	&lrm;제 이름은 요안나 마코프스카예요 | 
+nl	Mijn naam is Joanna Makowska. 
+no	Jeg heter Joanna Makowska. 
+pt	Chamo-me Joanna Makowska. 
+th	&lrm;ฉันชื่อโยอันนา มากอฟสกา | 
+tr	Adım Joanna Makowska. 
+vi	&lrm;Tên tôi là Joanna Makowska. | 
+zh-long	我叫喬安娜馬科斯卡 
+zh-short	我叫乔安娜·马科夫斯卡 
+uk	Мене звати Йоанна Маковська. 
+ru	Меня зовут Йоанна Маковская. 
+ms	Nama saya Joanna Makowska. 
+ro	Eu sunt Joanna Makowska. 
+

@@ -1,0 +1,31 @@
+en	Hmm. Well, Bling just called, | 
+ko	블링한테 연락 왔는데 | 퀸시 존스 파티에 초대받았대요 | 
+id	Bling tadi menghubungi dan Quincy Jones mengundangku ke pestanya malam ini. 
+ru	Ну, Блинг звонил. 
+ja	ブリングが― | 
+ar	&rlm;‏‏اتصل المبهرج "بلينغ" ودعاني "كوينسي جونز" | &rlm;‏إلى حفلته الليلة.‏ | 
+da	Bling ringede, og Quincy Jones inviterede mig til fest i aften. 
+el	Ο Μπλινγκ μού είπε ότι ο Κουίνσι Τζόουνς με κάλεσε στο αποψινό του πάρτι. 
+fi	Bling soitti. Quincy Jones kutsui minut juhliinsa. 
+fr	Bling m'a appelée et Quincy Jones m'a invitée à sa soirée. 
+he	&rlm;‏‏בלינג בדיוק התקשר וקווינסי ג'ונס | &rlm;‏הזמין אותי למסיבה שלו הערב.‏ | 
+it	Bling mi ha detto che Quincy Jones mi aspetta alla sua festa, stasera. 
+nl	Bling belde net en Quincy Jones heeft me uitgenodigd op zijn feest. 
+no	Bling ringte. Quincy Jones ba meg på fest i kveld. 
+pl	Dzwonił Bling. Quincy Jones zaprosił mnie do siebie na imprezę. 
+pr	Bem, o Bling ligou e o Quincy Jones convidou-me para ir à festa dele. 
+pr-br	Bling acabou de ligar e Quincy Jones me convidou para a festa dele hoje. 
+ro	A sunat Bling să-mi spună că Quincy Jones m-a invitat astă-seară la petrecerea lui. 
+sp	Bling me llamó y dijo que Quincy Jones me invitó a su fiesta esta noche. 
+sp-eu	Bling acaba de llamar, y Quincy Jones me ha invitado a su fiesta. 
+sv	Bling ringde nyss. Quincy Jones bjöd mig på sin fest ikväll. 
+th	บลิงก์เพิ่งโทรมาบอกว่าควินซี่ โจนส์ | เชิญฉันไปงานปาร์ตี้ของเขาคืนนี้ | 
+tr	Bling aradı, bu gece Quincy Jones beni partisine çağırmış. 
+vi	Bling vừa gọi còn Quincy Jones | mời tôi tới bữa tiệc đêm nay của anh ấy. | 
+zh-long	閃金老闆打電話來說 昆西瓊斯邀我今晚去他的派對 
+zh-short	闪金哥刚打来电话 昆西琼斯邀请我参加他今晚的派对 
+en	and Quincy Jones invited me | to his party tonight. | 
+ru	Куинси Джонс пригласил меня 
+ja	“クインシー･ジョーンズの | パーティーへ”と | 
+ru	сегодня на вечеринку. 
+

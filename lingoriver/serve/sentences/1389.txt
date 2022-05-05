@@ -1,0 +1,19 @@
+ru	Привет! 
+id	- Hei. - Hei. 
+ar	&rlm;‏‏- مرحباً. | &rlm;‏- مرحباً!‏ | 
+da	-Hej! -Hej! 
+el	-Γεια! -Γεια! 
+he	&rlm;‏‏היי! | &rlm;‏-היי!‏ | 
+it	- Ehi! - Ciao! 
+ko	- 코트니 | - 안녕하세요! | 
+pr	- Olá! - Olá! 
+sp-eu	- ¡Hola! - ¡Hola! 
+sp	- ¡Hola! - ¡Hola! 
+sv	-Hej. -Hej! 
+th	- เฮ่ เฮ่ | - เฮ่ | 
+tr	-Selam! -Selam! 
+vi	- Chào anh! | - Chào cô! | 
+zh-long	-嘿！ -嘿！ 
+zh-short	-嘿！ -嘿！ 
+en	-Hey! Hey. | -Hey! Oh. | 
+

@@ -1,0 +1,27 @@
+ja	紫色のドレスか | 
+fi	Hän säteilisi tuossa asussa. 
+en	Well, she'd light up a room | in that purple one. | 
+id	Dia akan tampil memukau dengan gaun ungu itu. 
+ru	В этом она будет блистать. 
+sv	Hon skulle lysa upp ett rum i den lila. 
+ar	&rlm;‏ستتألق في ذاك الفستان القرمزي.‏ | 
+da	Hun ville lyse rummet op i den. 
+el	Θα τραβούσε όλα τα βλέμματα μ' αυτό. 
+fr	Elle ferait fureur avec ça. 
+he	&rlm;‏היא תאיר את החדר בשמלה הזו.‏ | 
+it	Con quello viola illuminerebbe una stanza. 
+ko	저걸 입으면 방이 환해지겠네 | 
+nl	In die paarse zou ze stralen. 
+no	Hun ville lyse opp et rom i denne. 
+pl	W tym wyglądałaby świetnie. 
+pr-br	Ela pararia o trânsito com esse roxo. 
+pr	Ela ficaria fantástica com aquele. 
+ro	Ar atrage toată atenția îmbrăcată așa. 
+sp	Con ese iluminaría la sala. 
+sp-eu	Pararía el tráfico con el morado. 
+th	ใส่ชุดนั้นเธอต้องเด่นสุดๆ | 
+tr	Bu mor elbiseyle girdiği yeri aydınlatır. 
+vi	Cô ấy sẽ tỏa sáng trong chiếc váy tím đó. | 
+zh-long	她穿上去一定驚豔全場 
+zh-short	她要是穿这个紫色的绝对惊艳 
+

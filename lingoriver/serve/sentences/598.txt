@@ -1,0 +1,27 @@
+ru	Не люблю кричать, но иногда иначе никак. 
+id	Kita tak ingin membentak, tapi terkadang itu satu-satunya cara. 
+ar	&rlm;‏‏لا أرغب في الصراخ، | &rlm;‏لكنها الطريقة الوحيدة أحياناً ليستمعوا. | 
+da	Man ønsker ikke at råbe, men nogle gange hjælper det. 
+el	Δε θέλω να φωνάζω, αλλά μερικές φορές είναι η μόνη λύση. 
+fi	Karjuminen on ikävää, mutta joskus on pakko. 
+fr	J'aime pas élever la voix, mais j'ai pas toujours le choix. 
+he	&rlm;‏‏אתה לא רוצה לצעוק, | &rlm;‏אבל לפעמים זו הדרך היחידה.‏ | 
+it	Non mi piace urlare, ma a volte non ho scelta. 
+ko	소리치긴 싫지만 | 가끔은 그래야 말이 통해 | 
+nl	Je wilt niet schreeuwen, maar soms kan het niet anders. 
+no	Du vil ikke skrike, men noen ganger er man bare nødt. 
+pl	Nie lubię na ludzi krzyczeć, ale czasem trzeba. 
+pr-br	Gritar não é legal, mas às vezes é o único jeito. 
+pr	Não queremos gritar com as pessoas, mas às vezes é a única maneira. 
+ro	Nu trebuie să țipi la oameni, dar, uneori, nu se poate altfel. 
+sp-eu	No me gusta gritar, pero a veces es la única forma. 
+sp	Gritar no está bien, pero a veces es necesario. 
+sv	Man vill inte skrika, men ibland är det enda sättet. 
+th	ก็ไม่อยากตะโกนนะ | แต่บางครั้งมันเป็นทางเดียวที่เขาจะฟัง | 
+tr	İnsan bağırmak istemiyor ama bazen başka seçenek kalmıyor. 
+vi	Chẳng ai muốn quát tháo, | nhưng đôi khi bắt buộc phải thế. | 
+zh-long	我也不想大吼，但有時只能這樣 
+zh-short	你不想大声嚷嚷 可有时只能如此 
+ja	怒鳴りたくないが | 時には仕方ない | 
+en	but sometimes | it's the only way they can hear. | 
+

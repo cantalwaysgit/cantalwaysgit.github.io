@@ -1,0 +1,49 @@
+en	[gasps] Sandy! | 
+id	Sandy! 
+ru	Сэнди! 
+ar	&rlm;‏"ساندي"!‏ | 
+da	Sandy! 
+el	Σάντι! 
+he	&rlm;‏סנדי!‏ | 
+it	Sandy! 
+ko	샌디! | 
+no	Sandy! 
+pl	Sandy! 
+pr-br	Sandy! 
+pr	Sandy! 
+ro	Sandy! 
+sp-eu	¡Sandy! 
+sp	¡Sandy! 
+sv	Sandy! 
+th	แซนดี้ | 
+tr	Sandy! 
+vi	Sandy! | 
+zh-long	山迪！ 
+zh-short	桑迪！ 
+ja	サンディ | 来てくれないかと思った | 
+id	Aku khawatir kau tidak akan datang. 
+ru	Я боялась, что ты не придешь. 
+ar	&rlm;‏خشيت ألا تأتي.‏ | 
+da	Jeg var bange for, du ikke kom. 
+el	Φοβήθηκα ότι δε θα έρθεις. 
+en	I was scared you wouldn't come. | 
+fi	Pelkäsin, ettet tulisikaan. 
+fr	J'ai cru que tu ne viendrais jamais. 
+he	&rlm;‏פחדתי שלא תבוא.‏ | 
+it	Temevo che non venissi. 
+ko	안 올까 봐 걱정했어요 | 
+nl	Ik was bang dat je niet zou komen. 
+no	Jeg var redd du ikke ville komme. 
+pl	Bałam się, że nie przyjdziesz. 
+pr-br	Fiquei com medo que não viesse. 
+pr	Estava com receio que não viesses. 
+ro	Mi-era teamă că n-o să vii. 
+sp-eu	Temía que no vinieses. 
+sp	Temía que no vinieras. 
+sv	Jag var rädd att du inte skulle komma. 
+th	ฉันกลัวว่าคุณจะไม่มา | 
+tr	Gelmezsin diye korktum. 
+vi	Tôi đã sợ là anh sẽ không đến. | 
+zh-long	我還在擔心你不會來 
+zh-short	我还怕你不来了 
+

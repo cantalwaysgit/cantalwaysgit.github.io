@@ -1,0 +1,27 @@
+ar	&rlm;‏الزحام ليس مشكلة. اجلسي واسترخي.‏ | 
+da	Trafikken er fin. Læn dig tilbage og slap af. 
+el	Η κίνηση δεν είναι πρόβλημα. Καθίστε αναπαυτικά και χαλαρώστε. 
+en	Traffic's not a problem. | You sit back, relax. | 
+fi	Se ei ole ongelma. Rentoutukaa vain. 
+fr	Ne vous inquiétez pas de ça. Détendez-vous. 
+he	&rlm;‏התנועה היא לא בעיה. תשבי ותירגעי.‏ | 
+it	Il traffico non è un problema. Si rilassi. 
+ko	그건 문제없으니 | 편히 앉아서 쉬세요 | 
+nl	Dat is geen probleem. Relax. 
+pl	Proszę się nie przejmować i odprężyć. 
+pr-br	O trânsito não é um problema. Relaxe. 
+pr	O trânsito não é problema. Sente-se e descontraia. 
+ro	Se circulă bine. Relaxați-vă. 
+sp	El tráfico no es problema. Siéntate y relájate. 
+sp-eu	El tráfico no es problema. Siéntese y relájese. 
+sv	Trafiken är inget problem. Sitt och slappna av. 
+th	จราจรไม่เป็นปัญหา | เชิญนั่งตามสบายครับ | 
+tr	Trafik sorun değil. Arkanıza yaslanın, gevşeyin. 
+vi	Giao thông không quan trọng. | Cô cứ ngả lưng thoải mái đi. | 
+zh-long	路況不是問題，妳坐好，放輕鬆 
+zh-short	没问题 你好好坐着 放松就好 
+ru	Это не проблема. Сидите, расслабляйтесь. 
+id	Tidak masalah. Kau bisa bersantai. 
+no	Trafikken er ikke noe problem. Len deg tilbake og slapp av. 
+ja	してません | ゆっくりくつろいでて | 
+

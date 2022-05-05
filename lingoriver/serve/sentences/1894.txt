@@ -1,0 +1,28 @@
+ja	業界人じゃない | コーヒーチェーンの経営者 | 
+ru	Он не из шоу-бизнеса. 
+id	Dia bukan dari bidang hiburan. Dia pemilik toko kopi berfilial. 
+ar	&rlm;‏ويملك سلسلة مقاهي.‏ | 
+da	Han ejer en kaffekæde. 
+el	Είναι ιδιοκτήτης μιας αλυσίδας καταστημάτων καφέ. 
+en	He owns a chain of coffee stores. | 
+fi	Hän omistaa kahviliikeketjun. 
+fr	Il possède une chaîne de cafés. 
+he	&rlm;‏יש לו רשת של חנויות קפה.‏ | 
+it	Possiede una catena di negozi di caffè. 
+nl	Hij heeft een aantal koffiezaken. 
+no	Han eier en kjede med kaffebutikker. 
+pl	Ma sieć sklepów z kawą. 
+pr-br	É proprietário de uma rede de cafeterias. 
+pr	É dono de uma cadeia de lojas de café. 
+ro	Deține un lanț de cafenele. 
+sp-eu	Tiene una cadena de cafeterías. 
+sp	Tiene una cadena de cafeterías. 
+sv	Han äger en kaffebutikskedja. 
+th	เขาเป็นเจ้าของเครือข่ายร้านกาแฟ | 
+tr	Kahve dükkânı zinciri var. 
+vi	Anh ấy sở hữu chuỗi quán cà phê. | 
+zh-long	他是一間咖啡連鎖店老闆 
+zh-short	是开连锁咖啡店的 
+ko	카페 체인 주인이에요 | 
+ru	У него сеть лавок-кофеен. 
+

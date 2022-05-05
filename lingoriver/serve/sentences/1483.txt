@@ -1,0 +1,27 @@
+ja	人に見られたらマズい | 君にもだ | 
+id	Tak ada yang boleh tahu soal ini. Paham, Chippy? Bahkan kau. 
+ar	&rlm;‏‏يجب ألا يعرف أحد عن الأمر. | &rlm;‏أتفهم يا "تشيبي"؟ ولا حتى أنت.‏ | 
+el	Δεν πρέπει να το μάθει κανείς. Κατάλαβες, Τσιπι; Ούτε εσύ ο ίδιος. 
+en	No one can find out about this. | You understand me, Chippy? Not even you. | 
+fi	Kukaan ei saa tietää tästä. Ymmärrätkö? Et edes sinä. 
+fr	Faut pas que ça se sache. Compris, Chippy ? T'as rien vu. 
+he	&rlm;‏‏אף אחד לא יכול לגלות מה קרה כאן. | &rlm;‏אתה מבין, צ'יפי? אפילו לא אתה.‏ | 
+it	Nessuno deve saperne niente. Capito, Chippy? Neanche tu. 
+nl	Niemand mag dit weten. Begrepen, Chippy? Zelfs jij niet. 
+pl	Nikt nie może się o tym dowiedzieć. Nawet ty, Chippy. 
+pr-br	Ninguém pode saber disso. Entendeu, Chippy? Nem você. 
+pr	Ninguém pode saber disto. Compreendes, Chippy? Nem mesmo tu. 
+sp-eu	Nadie puede enterarse de esto. ¿Entendido, Chippy? Ni siquiera tú. 
+sp	Nadie debe enterarse de esto. ¿Entiendes, Chippy? Ni siquiera tú. 
+sv	Ingen får veta nåt om det här. Fattar du? Inte ens du. 
+th	ไม่มีใครรู้เรื่องนี้ได้ | เข้าใจไหม ชิปปี้ ไม่แม้แต่คุณ | 
+tr	Kimse bunu öğrenmemeli. Anlıyor musun Chippy? Sen bile. 
+vi	Không ai được biết về chuyện này. | Cậu hiểu chứ, Chippy? Kể cả cậu. | 
+zh-long	沒人會知道這件事 懂嗎？齊普，你也一樣 
+zh-short	这事谁都不能知道 明白吗 奇皮？ 连你也不行 
+ko	아무도 이 일을 알아선 안 돼 | 알았어, 치피? 자네도 안 돼 | 
+ru	Никто не должен об этом знать. Понял, Чиппи? Даже ты. 
+no	Ingen må få vite om dette. Forstått, Chippy? Ikke engang du. 
+ro	Nu trebuie să știe nimeni despre asta. Ai înțeles, Chippy? Nici măcar tu. 
+da	Ingen må finde ud af det her. Forstår du, Chippy? Ikke engang dig. 
+

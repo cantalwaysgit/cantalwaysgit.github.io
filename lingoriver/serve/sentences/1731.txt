@@ -1,0 +1,23 @@
+id	Baiklah. 
+ru	Хорошо. 
+el	Εντάξει. 
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+fi	Selvä. 
+he	&rlm;‏בסדר.‏ | 
+it	Bene. 
+ko	알았어 | 
+pl	Dobra. 
+pr-br	Certo. 
+pr	Está bem. 
+ro	Bine. 
+sp	Está bien. 
+sp-eu	Vale. 
+sv	Okej. 
+th	โอเค | 
+tr	Tamam. 
+vi	Không sao. | 
+zh-long	好吧 
+zh-short	好吧 
+en	-Okay. | -[Gary groaning loudly] | 
+

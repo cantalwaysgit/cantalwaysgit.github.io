@@ -1,0 +1,26 @@
+id	Dengar, seharusnya dia datang untuk Rosh Hashanah, 
+ru	Должен приехать на Рош-Ха-Шану, 
+ar	&rlm;‏‏يُفترض أن يأتي | &rlm;‏من أجل عيد رأس السنة العبرية،‏ | 
+da	Han skulle komme til Rosh Hashanah, 
+el	Είπε ότι θα έρθει για την Εβραϊκή Πρωτοχρονιά, 
+en	Listen, he's supposed to come out | for Rosh Hashanah, | 
+fi	Hänen pitäisi tulla  rosh hashanahiksi, 
+fr	Il est censé venir pour Roch Hachana, 
+he	&rlm;‏הוא היה אמור לבוא בראש השנה,‏ | 
+it	Dovrebbe farsi vivo per Rosh Hashana, 
+nl	Hij zou moeten komen voor Rosj Hasjana... 
+pl	Miał przyjechać na Rosz Haszanę, 
+pr-br	Ele deveria vir pro Rosh Hashaná, 
+pr	Ele deve vir para o Rosh Hashanah, 
+ro	Trebuia să se întoarcă pentru Roș Hașana, 
+sp-eu	Se supone que viene para el Año Nuevo judío, 
+sp	Se supone que vendrá para Rosh Hashana, 
+sv	Han förmodas komma till rosh hashana, 
+th	เขาว่าจะมาตอนปีใหม่ยิว | 
+tr	Roş Aşana için gelmesi gerekiyordu 
+vi	Ông ấy định đến vào dịp năm mới, | 
+zh-long	他本來說要過來這裡慶祝猶太新年 
+zh-short	他该来迎犹太新年的 
+no	Han skulle komme til Rosh Hashanah, men han sa purim i fjor, så hvem vet? 
+ko	유대교 신년제에 맞춰 | 오기로 했었는데 | 
+

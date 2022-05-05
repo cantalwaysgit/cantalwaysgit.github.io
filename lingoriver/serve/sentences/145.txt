@@ -1,0 +1,61 @@
+id	Aku serius bertanya, seperti apa rasanya menjadi boneka? 
+ja	パペットでいる気分は？ | 
+ru	Каково быть куклой? 
+en	No, but seriously, | what's it like being a puppet? | 
+ar	&rlm;‏‏- كيف يشعر المرء عندما يكون دمية؟ | &rlm;‏- أنحدر من سلالة طويلة من الدمى.‏ | 
+da	-Hvordan er det at være en dukke? -Hele min slægt er dukker. 
+el	-Πώς είναι να είσαι μαριονέτα; -Κατάγομαι από μαριονέτες. 
+fi	-Millaista on olla nukke? -Olen useamman polven nukke. 
+fr	- C'est comment d'être une marionnette ? - Tous mes ancêtres en étaient. 
+he	&rlm;‏‏איך זה להיות בובה? | &rlm;‏-אני בא משורה ארוכה של בובות.‏ | 
+it	- Che si prova a essere un pupazzo? - La mia è una lunga dinastia di pupazzi. 
+ko	- 꼭두각시인 기분이 어때요? | - 집안 대대로 하고 있어 | 
+nl	Hoe is het om een pop te zijn? -Zit al jaren in de familie. 
+no	-Hvordan er det å være dukke? -Jeg kommer fra en lang rekke av dem. 
+pl	- Jak to jest być lalką? - Wywodzę się ze starego rodu lalek. 
+pr-br	-Como é ser marionete? -Venho de uma longa linhagem. 
+pr	- Como é ser um fantoche? - Eu venho de uma longa linhagem deles. 
+ro	- Cum e să fii păpușă? - Tradiția e îndelungată în familie. 
+sp	- ¿Cómo es ser un muñeco? - Es algo de familia. 
+sp-eu	- ¿Cómo es ser una marioneta? - Vengo de una familia de marionetas. 
+sv	-Hur är det att vara docka? -Jag kommer från en lång rad av dockor. 
+th	- เป็นหุ่นแล้วรู้สึกยังไง | - ฉันมาจากเชื้อสายยาวเหยียด | 
+tr	-Kukla olmak nasıl bir şey? -Biz nesillerdir kuklayız. 
+vi	- Làm một con rối thì thế nào? | - Nhà tôi nhiều đời là con rối. | 
+zh-long	-身為木偶是什麼感覺？ -我來自木偶世家 
+zh-short	-当木偶是什么感觉？ -我祖上世代都是木偶 
+id	Kami boneka dari generasi ke generasi. 
+ru	Я из династии кукол. 
+ja	これは家系なんだ | 
+en	Well, I come from a long line of puppets. | 
+
+hu	Elnézést a feleségem miatt. 
+pt-br	Sinto muito por minha esposa. 
+da	Undskyld min kone. | 
+el	Ζητώ συγγνώμη για τη σύζυγό μου. 
+es-eu	Siento lo de mi mujer. 
+es	Lamento lo de mi mujer. 
+fr	Désolé pour ma femme. 
+he	‫אני מצטער לגבי אשתי.‬ | 
+hr	Ispričavam se zbog supruge. 
+id	Maafkan istriku. 
+it	Scusi per mia moglie. 
+ja	&lrm;妻を許してほしい | 
+ko	&lrm;아내 일은 죄송합니다 | 
+ms	Saya minta maaf tentang isteri saya. 
+nl	Het spijt me van m'n vrouw. 
+no	Beklager kona mi. 
+pt	Peço desculpa pela minha mulher. 
+th	&lrm;ขอโทษแทนภรรยาผมด้วยนะ | 
+tr	Eşim adına özür dilerim. 
+vi	&lrm;Tôi xin lỗi về vợ tôi. | 
+zh-long	我為我妻子的行為向你道歉 
+zh-short	我替我妻子向你道歉 
+sv	Jag ber om ursäkt för min fru. 
+fi	Pahoittelen vaimoni käytöstä. | 
+uk	Вибачте за поведінку дружини. 
+cs	Za svou ženu se omlouvám. 
+ro	Scuze pentru soția mea! 
+ru	Хотел извиниться за жену. 
+en	I'm sorry about my wife. 
+

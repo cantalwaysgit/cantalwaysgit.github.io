@@ -1,0 +1,27 @@
+ja	悩み事にサヨナラだ | 
+id	- Siapkan, ucapkan perpisahan. - Di sini. 
+ru	-Установи и попрощайся с ним. -Есть. 
+sv	-Lägg upp den och säg farväl. -Precis här. Okej. 
+ar	&rlm;‏‏- ضعيها على الحامل وودعيها. | &rlm;‏- هنا تماماً.‏ | 
+da	-Tee up, og så siger du farvel. -Lige her. 
+el	-Χτύπησέ το και πες αντίο. -Εδώ ακριβώς. 
+en	-You tee it up, and you say goodbye. | -Right here. | 
+fi	-Laita tiille ja sano hyvästit. -Näin. 
+fr	- Pose la balle et dis au revoir. - Comme ça. 
+he	&rlm;‏‏תכיני אותו ותגידי שלום. | &rlm;‏-כאן.‏ | 
+it	- Sistemala e dille addio. - La metto qui. 
+nl	Leg hem op de tee en zeg gedag. 
+no	-Gjør det og si farvel. -Her. 
+pl	- Ustawiasz i żegnasz. - Jest. 
+pr-br	-Ponha na posição e dê adeus. -Bem aqui. 
+pr	- Coloca a bola e diz-lhe adeus. - Aqui. 
+ro	- Pune-o și ia-ți adio. - Așa. 
+sp-eu	- Colócala y despídete. - Justo aquí. 
+sp	- La pones en el  tee  y le dices adiós. - Así. 
+th	- ตีลูกแล้วก็บอกลามัน | - อย่างนี้ | 
+tr	-Yerleştir ve vedalaş. -İşte oldu. 
+vi	- Đặt bóng lên và nói tạm biệt. | - Được rồi. | 
+zh-long	-放好球，說再見 -好了 
+zh-short	-把球摆好 然后跟球说再见 -摆好了 
+ko	- 올려놓고 작별 인사해 | - 이렇게요? | 
+

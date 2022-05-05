@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- وقعت عقداً معه. | &rlm;‏- وأنا أيضاً.‏ | 
+da	-Jeg skrev kontrakt. -Også mig. 
+el	-Εγώ υπέγραψα μαζί του. -Κι εγώ. 
+en	-I signed with him. | -I signed with him. | 
+fi	Menin hänen talliinsa. 
+fr	- J'ai signé avec lui. - Moi aussi. 
+he	&rlm;‏‏אני חתמתי איתו. | &rlm;‏-גם אני.‏ | 
+id	- Aku dikontrak. - Aku dikontrak. 
+it	- Io firmai con lui. - Anch'io. 
+ko	- 저 계약했어요 | - 저도요 | 
+nl	Ik tekende een contract met hem. 
+no	-Jeg ble med ham. -Jeg òg. 
+pl	- To mój menedżer. - I mój. 
+pr-br	-Eu o contratei. -Eu também. 
+pr	- Fiz contrato com ele. - E eu. 
+ro	- L-am angajat. - Și eu. 
+ru	-Я стал его клиентом. -И я. 
+sp-eu	- Yo firmé con él. - Yo también. 
+sp	- Yo lo contraté. - Y yo. 
+sv	-Jag skrev på för honom. -Jag med. 
+th	- ผมเซ็นสัญญากับเขา | - ฉันด้วย | 
+tr	-Onunla anlaştım. -Ben de. 
+vi	- Tôi từng thuê anh ta. | - Tôi nữa. | 
+zh-long	-我是他旗下的藝人 -我也是 
+zh-short	-我跟他签约了 -我也是 
+ja	契約した | 
+

@@ -1,0 +1,25 @@
+ar	&rlm;‏هذا كل ما يقلقني.‏ | 
+el	Αυτό με απασχολεί. 
+fi	En välitä muusta. 
+fr	C'est le principal. 
+he	&rlm;‏זה כל מה שמדאיג אותי.‏ | 
+it	Non mi interessa altro. 
+nl	Dat is mijn enige zorg. 
+pl	To bardzo ważne. 
+pr-br	É a minha única preocupação. 
+pr	É só isso que me preocupa. 
+sp-eu	Es lo único que me preocupa. 
+th	แค่นั้นแหละที่ผมเป็นห่วง | 
+tr	Benim tek derdim bu. 
+vi	Đó là điều tôi quan tâm. | 
+zh-long	我只擔心這個 
+zh-short	我只担心这个 
+sp	Eso es lo único que me preocupa. 
+da	Det er det, der bekymrer mig. 
+ro	Numai asta contează pentru mine. 
+en	-That's all I'm worried about. | -[Courtney] Hmm. | 
+sv	Det är allt jag oroar mig för. 
+no	-Det er alt jeg tenker på. -Hemmelig nummer. 
+ko	그것만 걱정돼 | 
+id	Itu yang kukhawatirkan. 
+

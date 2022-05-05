@@ -1,0 +1,84 @@
+id	Benar. Mereka semakin pintar. 
+ru	Да, верно. Какие они стали умные. 
+ko	그래, 맞다 | 갈수록 예리해지네 | 
+ar	&rlm;‏أجل، هذا صحيح. إنهما تغدوان فطنتين.‏ | 
+da	Ja, det er rigtigt. De er blevet skarpe. 
+el	Σωστά. Γίνονται όλο και πιο έξυπνες. 
+en	Yeah, that's right. | Wow, they're getting sharp. | 
+fi	Aivan. Teräviä nassikoita. 
+fr	C'est ça. Elles ont l'esprit vif. 
+he	&rlm;‏כן, נכון. הן נעשות פיקחות.‏ | 
+it	Già. Certo. Stanno diventando intelligenti. 
+nl	Ja. Dat klopt. Ze worden slim. 
+no	Ja, det stemmer. De begynner å bli skarpe. 
+pl	Właśnie. Ale z was bystrzaki. 
+pr-br	Sim. Isso. Estão ficando espertas. 
+pr	Sim, pois é. Estão a ficar espertas. 
+ro	Da. Așa e. Ce istețe s-au făcut! 
+sp-eu	Sí. Es verdad. Qué listas son. 
+sp	Sí, así es. Están avivándose. 
+sv	Det stämmer. De börjar bli smarta. 
+th	ใช่ ใช่แล้ว พวกหนูฉลาดขึ้น | 
+tr	Evet. Doğru. Bunlar pek de dillenmiş. 
+vi	Ừ, phải rồi. Chúng lanh lẹ quá. | 
+zh-long	對啦，沒錯，她們越來越會講話 
+zh-short	对 孩子们变聪明了呢 
+ja	そうだった　大きくなったね | 
+
+fi	Grześ Gajewiczin, | 
+cs	S Grześem Gajewiczem, 
+da	Med Grzes Gajewicz, | 
+el	Γκρες Γκάγιεβιτς, 
+en	I spoke with Grześ Gajewicz, 
+es	Con Grześ Gajewicz, 
+es-eu	Con Grzes Gajewicz, 
+fr	À Grześ Gajewicz, 
+he	‫דיברתי עם גרז'ק גייוויץ,‬ | 
+hr	S Grześom Gajewiczem, 
+hu	Grześ Gajewicz-csel, 
+id	Grześ Gajewicz, 
+it	Con Grześ Gajewicz, 
+ko	&lrm;가예비치 | 
+ms	Gajos Gajewicz, 
+nl	Met Grześ Gajewicz… 
+no	Med Grzes Gajewicz, 
+pt-br	Com Grześ Gajewicz, 
+pt	Com o Grześ Gajewicz, 
+ro	Cu Grześ Gajewicz… 
+ru	С Гжегожем Гаевичем, 
+th	&lrm;กับกเซช กาเยวิตช์ | 
+uk	З Гжегожем Гаєвичем, 
+vi	&lrm;Với Grześ Gajewicz, | 
+zh-long	葛來茲哥賈耶維奇 
+zh-short	格雷戈里·加耶维奇 
+ja	&lrm;ガヨス･ガエビッチや | 
+sv	Med Grześ Gajewicz, Błażej Myszkowski, Kaja och Adam. 
+tr	Grzegorz Gajewicz, Błażej Myszkowski, Kaja, Adam, hepsiyle. 
+da	Blazej Myszkowski, Kaja, Adam. | 
+es-eu	Blazej Myszkowski, Kaja y Adam. 
+fr	Błażej Myszkowski, Kaja, Adam. 
+he	‫עם בלאזיי מיסקובסקי, עם קאיה, עם אדם.‬ | 
+hr	Błażejem Myszkowskim, Kajom, Adamom. 
+hu	Błażej Myszkowskival, Kajával, Adammal. 
+id	Błażej Myszkowski, Kaja, Adam. 
+it	Błażej Myszkowski, Kaja, Adam. 
+ja	&lrm;ボワジェ･ミスコフスキ | &lrm;カヤにアダム | 
+ko	&lrm;미슈코프스키, 카야, 아담 | 
+no	Blazej Myszkowski, Kaja, Adam. 
+pt	o Błażej Myszkowski, a Kaja, o Adam. 
+th	&lrm;บวาเชย์ มิชกอฟสกี กายา อดัม | 
+vi	&lrm;Błażej Myszkowski, Kaja, Adam. | 
+zh-long	布拉傑米斯科夫斯基、卡雅、亞當 
+nl	…Błażej Myszkowski, Kaja, Adam. Hij wilde toen niet met me praten. 
+uk	Блажеєм Мишковським, Каєю, Адамом. 
+el	Μπλάζεϊ Μισκόφσκι, Κάγια, Άνταμ. 
+es	Błażej Myszkowski, Kaja y Adam. 
+ms	Blazej Myszkowski, Kaja, Adam. 
+fi	Blażej Myszkowskin, | Kajan ja Adamin kanssa. | 
+ro	Błażej Myszkowski, Kaja, Adam. 
+zh-short	布拉杰·米什科夫斯基、卡娅、亚当 
+pt-br	Błażej Myszkowski, Kaja, Adam. 
+ru	Блажеем Мышковским, Каей, Адамом. 
+cs	s Błażejem Myszkowskim, s Kajou, s Adamem. 
+en	Błażej Myszkowski, Kaja, Adam. 
+

@@ -1,0 +1,27 @@
+nl	Ga weg. 
+id	- Pergi! - Courtney! 
+fr	Va-t'en ! 
+ru	-Убирайся! -Кортни! Я пошел. 
+ar	&rlm;‏‏- غادر! | &rlm;‏- "كورتني"! حسناً.‏ | 
+da	-Forsvind! -Courtney! 
+el	-Φύγε! -Κόρτνι! Εντάξει. 
+en	-Leave! | -Courtney! Okay. | 
+fi	-Lähde! -Courtney! 
+he	&rlm;‏‏לך! | &rlm;‏-קורטני! בסדר.‏ | 
+it	- Via! - Courtney! D'accordo. 
+ko	- 가라고! | - 코트니! 알았어요 | 
+no	-Gå! -Courtney! Ok. 
+pl	- Precz! - Courtney! 
+pr-br	-Dê o fora! -Courtney! Está bem. 
+pr	- Saiam! - Courtney! Muito bem. 
+ro	- Pleacă! - Courtney! Bine. 
+sp-eu	- ¡Vete! - ¡Courtney! Vale. 
+sp	- ¡Vete! - ¡Courtney! Está bien. 
+sv	-Gå! -Courtney! Okej. 
+th	- ไป๊! | - คอร์ทนี่ย์ โอเค | 
+tr	-Git! -Courtney! Tamam. 
+vi	- Đi ngay! | - Courtney! Được rồi. | 
+zh-long	-給我滾！ -寇妮！好的 
+zh-short	-出去！ -考特尼！好吧 
+ja	帰れ！ | 
+

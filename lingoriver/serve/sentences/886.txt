@@ -1,0 +1,55 @@
+id	Menurutku, kau terlalu cerdas dan aktual untuk HBO. 
+ar	&rlm;‏‏أقول إنك أذكى وأكثر أهمية من أن تظهر | &rlm;‏على محطة "إيتش بي أو".‏ | 
+da	Jeg siger, du er for kvik og for speciel til HBO. 
+el	Είσαι πολύ έξυπνος και ενημερωμένος για να είσαι στο ΗΒΟ. 
+en	I'm saying you are too smart | and too topical to be on HBO. | 
+fi	Olet HBO:lle liian fiksu ja ajan hermolla. 
+fr	T'es trop intelligent et trop percutant pour HBO. 
+he	&rlm;‏‏אני אומר שאתה חכם מדי ואקטואלי מדי | &rlm;‏כדי להופיע באייץ'-בי-או.‏ | 
+it	Ma tu sei troppo intelligente e attuale per apparire su HBO. 
+nl	Jij bent te slim en te actueel voor HBO. 
+no	Jeg sier at du er for smart for HBO. 
+pl	Jesteś za mądry, a twoje występy zbyt poważne na HBO. 
+pr-br	Você é inteligente e tópico demais para estar na HBO. 
+pr	Estou a dizer que és demasiado esperto e demasiado atual para estar na HBO. 
+ro	Cred că ești prea deștept și prea contemporan ca să apari la HBO. 
+sp	Digo que eres muy inteligente y demasiado actual para estar en HBO. 
+sp-eu	Digo que eres demasiado listo y demasiado tópico para salir en HBO. 
+sv	Du är för smart och för dagsaktuell för att vara på HBO. 
+th	จะบอกว่านายฉลาดและทันสมัยเกินไป | ที่จะไปเอชโอบี | 
+tr	HBO'ya çıkmak için fazla zekisin ve derin mevzuları ele alıyorsun. 
+vi	Tôi đang nói là anh thừa thông minh, | và quá có tính thời sự để lên kênh HBO. | 
+zh-long	你太聰明、太嚴肅 不太適合HBO 
+zh-short	我是说你太聪明 话题性太强 上家庭影院频道有点浪费 
+ko	HBO에서 방송하기엔 | 네가 너무 똑똑하고 시사스럽잖아 | 
+ru	Ты слишком умный и злободневный для HBO. 
+ja	君のネタはレベルが高い | ＨＢＯはバカを求めてる | 
+en	They like young and stupid. | 
+ar	&rlm;‏‏- إنهم يحبون اليافعين الأغبياء. | &rlm;‏- يحبون الظرفاء والحمقى.‏ | 
+da	-De kan lide ung og dum. -De kan lide nuttet og dum. 
+el	-Θέλουν νέους και ανόητους. -Χαριτωμένους και ηλίθιους. 
+fi	-Siellä pidetään nuorista ja tyhmistä. -Näsäviisaista ääliöistä. 
+fr	- Leur créneau, c'est jeune et con. - Mignon et débile. 
+he	&rlm;‏‏הם אוהבים צעירים וטיפשים. | &rlm;‏-הם אוהבים חמודים ואידיוטים.‏ | 
+it	- Li vogliono giovani e stupidi. - Carini e idioti. 
+nl	Zij houden van jong en dom. -Van lief en idioot. 
+no	-De liker det unge og dumme. -Det søte og idiotiske. 
+pl	- Oni wolą młodych głupków. - Uroczych debili. 
+pr-br	-Eles gostam de jovens burros. -Sim, bonitos e idiotas. 
+pr	- Gostam de putos novos e estúpidos. - Gostam de giros e palermas. 
+ro	- Lor le plac ăia mici și proști. - Drăguți și imbecili. 
+sp	- A ellos les gusta joven y estúpido. - Les gusta lindo e idiota. 
+sp-eu	- Les gustan jóvenes y estúpidos. - Sí, monos y memos. 
+sv	-De vill ha unga och dumma. -Söta och idiotiska. 
+th	- ที่นั่นเขาชอบพวกหนุ่มๆ แล้วก็โง่ๆ | - ใช่ หน้าตาดีแล้วก็โง่ | 
+tr	-Onlar genç ve aptal olanları seviyor. -Şirin ve şapşallar. 
+vi	- Họ thích trẻ và khờ. | - Họ thích nhí nhảnh và ngờ nghệch. | 
+zh-long	-他們喜歡愚蠢的年輕人 -沒錯，帥氣阿呆 
+zh-short	-他们喜欢年轻没脑子的 -对 帅气无脑 
+ko	- 어리고 멍청한 놈만 찾거든 | - 맞아, 귀엽고 얼빠진 놈 | 
+id	HBO suka orang muda bodoh. 
+ru	-Им нужны молодые и глупые. -Да, милые кретины. 
+id	- Ya, manis dan bebal. - Ya. 
+en	-They like cute and moronic. | -Yes. | 
+ja	若いバカをな | 
+

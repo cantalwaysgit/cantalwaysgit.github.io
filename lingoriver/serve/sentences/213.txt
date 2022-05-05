@@ -1,0 +1,57 @@
+el	-Εντάξει. Φεύγω τώρα. -Ναι. 
+ja	もう行くわ | 
+id	- Baiklah, Sandy. Aku pergi. - Ya. 
+ru	-Ладно, я пойду. -Да. 
+fr	Bon, j'y vais. 
+ar	&rlm;‏‏- حسناً، سأذهب. | &rlm;‏- أجل.‏ | 
+da	-Jeg skal gå. -Ja. 
+en	-Okay, Sandy, I'm gonna go. | -Yeah. | 
+fi	Lähden nyt. 
+he	&rlm;‏‏בסדר, אני צריכה ללכת. | &rlm;‏-כן.‏ | 
+it	- Ok, io vado. - Sì. 
+ko	- 알았어요, 전 가볼게요 | - 그래 | 
+nl	Ik ga. 
+no	-Ok, nå drar jeg. -Ja. 
+pl	Pójdę już. 
+pr-br	-Certo, vou nessa. -É. 
+pr	- Pronto, vou andando. - Sim. 
+ro	- Bine, plec. - Da. 
+sp	- Bien, me voy. - Sí. 
+sp-eu	- Vale, me voy. - Sí. 
+sv	-Jag måste sticka. -Visst. 
+th	- โอเค ฉันจะไปละ | - ครับ | 
+tr	-Pekâlâ, ben gidiyorum. -Tamam. 
+vi	- Vâng, tôi đi đây. | - Ừ. | 
+zh-long	-好，我走囉 -好 
+zh-short	-那好 我走了 -好的 
+
+es	Hola, Antek. 
+ja	&lrm;アンテック | 
+id	Hai, Antek. 
+pt-br	Oi, Antek. 
+fi	Hei, Antek. | 
+uk	Привіт, Антеку. 
+cs	Ahoj Anteku. 
+da	Hej, Antek. | 
+el	Γεια σου, Άντεκ. 
+en	Hi, Antek. 
+es-eu	Hola, Antek. 
+fr	Salut, Antek. 
+he	‫היי, אנטק.‬ | 
+hr	Bok, Antek. 
+hu	Szia, Antek! 
+it	Ciao, Antek. 
+ko	&lrm;안테크 | 
+ms	Hai, Antek. 
+nl	Hoi, Antek. 
+no	Hei, Antek. 
+pt	Olá, Antek. 
+ro	Bună, Antek! 
+sv	Hej, Antek. 
+th	&lrm;หวัดดีอันเต็ก | 
+tr	Selam Antek. 
+vi	&lrm;Chào Antek. | 
+zh-long	嗨，安泰克 
+zh-short	嗨 安特克 
+ru	Привет, Антек. 
+

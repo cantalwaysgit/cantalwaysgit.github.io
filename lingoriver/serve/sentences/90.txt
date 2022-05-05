@@ -1,0 +1,85 @@
+ar	&rlm;‏‏- لحم الصدر. | &rlm;‏- اللحم المقدد.‏ | 
+da	-Oksebryst. -Tørret kød. 
+el	-Φιλέτο. -Καπνιστό βοδινό. 
+en	-Brisket. | -Beef jerky. | 
+fi	-Naudanrintaa. -Kuivalihaa. 
+fr	- Poitrine. - Bœuf séché. 
+he	&rlm;‏‏חזה בקר. | &rlm;‏-בשר משומר.‏ | 
+id	- Sandung lamur. - Dendeng. 
+it	- Punta di petto. - Manzo essiccato. 
+ko	- 양지머리 | - 육포 | 
+nl	Rundvlees. -Gedroogd vlees. 
+no	-Bringe. -Beef jerky. 
+pl	- Wołowinę. - Suszoną. 
+pr-br	-Peito. -Carne-seca. 
+pr	- Peito de vaca. - Carne seca. 
+ro	- Piept de vițel. - Pastramă. 
+ru	-Грудинку. -Бастурму. 
+sp	- Estofado. - Charqui. 
+sp-eu	- Carne guisada. - Cecina. 
+sv	-Bringa. -Beef jerky. 
+th	- เนื้ออกวัว | - เนื้ออบแห้ง | 
+tr	-Döş. -Kurutulmuş et. 
+vi	- Ức gà. | - Bò khô. | 
+zh-long	-牛腩 -牛肉乾 
+zh-short	-牛腩肉 -牛肉干 
+ja	ジャーキー | 
+
+hu	Ezt miért nem mondtad el nekünk? 
+id	Kenapa tak memberi tahu kami? 
+it	E perché non ce l'hai detto? 
+cs	Proč jsi nám to neřekla? 
+da	Hvorfor har du ikke sagt det? | 
+el	Και γιατί δεν μας το είπες; 
+en	And why didn't you tell us? 
+es-eu	¿Y no nos dijiste nada? 
+es	¿Y por qué no nos dijiste nada? 
+fi	Mikset kertonut minulle? | 
+fr	Pourquoi tu n'as rien dit ? 
+he	‫ולמה לא סיפרת לנו?‬ | 
+hr	Zašto nam nisi rekla? 
+ja	&lrm;なぜ黙ってたの？ | 
+ko	&lrm;왜 말 안 했죠? | 
+ms	Kenapa awak tak beritahu kami? 
+nl	Waarom zei je niets? 
+no	Og hvorfor sa du ikke det? 
+pt-br	E por que não nos disse nada? 
+pt	Porque não nos disseste? 
+ro	De ce nu ne-ai zis? 
+ru	А почему ты нам не сказала? 
+th	&lrm;ทำไมเธอไม่บอกเรา | 
+tr	Bize neden söylemedin? 
+uk	Чому ти нам не сказала? 
+vi	&lrm;Sao cô không nói với chúng tôi? | 
+zh-long	妳為什麼沒有告訴我們？ 
+zh-short	你为什么不告诉我们？ 
+sv	-Varför har du inte sagt nåt? -Jag ville höra sanningen från honom. 
+id	Aku ingin mendengar kebenaran darinya. 
+es	Quería que él me dijera la verdad. 
+it	Volevo sapere tutta la verità da lui. 
+uk	Хотіла почути всю правду від нього. 
+zh-short	我想听他说出真相 
+cs	Chtěla jsem od něj slyšet pravdu. 
+da	Jeg ville høre sandheden fra ham. | 
+el	Ήθελα να μου πει όλη την αλήθεια. 
+en	I wanted to hear the truth from him. 
+es-eu	Quería que contase la verdad. 
+fi	Halusin kuulla totuuden häneltä. | 
+fr	Je voulais qu'il me dise la vérité. 
+he	‫רציתי לשמוע את האמת ממנו.‬ | 
+hr	Htjela sam od njega čuti istinu. 
+hu	Tőle akartam hallani az igazságot. 
+ja	&lrm;彼から真実を聞きたかった | 
+ko	&lrm;진실을 듣고 싶었어요 | 
+ms	Saya nak dengar cerita sebenar daripada dia. 
+nl	Ik wilde de waarheid van hem horen. 
+no	Jeg ville høre sannheten fra ham. 
+pt-br	Queria ouvir a verdade da boca dele. 
+pt	Eu queria que me contasse a verdade. 
+ro	Am vrut să aflu adevărul de la el. 
+ru	Я хотела услышать правду от него. 
+th	&lrm;ฉันอยากฟังความจริงจากปากเขา | 
+tr	Gerçeği ondan duymak istedim. 
+vi	&lrm;Tôi muốn nghe sự thật từ cậu ta. | 
+zh-long	我想聽他親口說出真相 
+

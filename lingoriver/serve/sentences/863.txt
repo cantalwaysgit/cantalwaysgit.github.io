@@ -1,0 +1,24 @@
+id	Aku melepaskannya saat kau mengidap wasir besar. 
+ru	-Я их убрал, когда у тебя был геморрой. -Это был не геморрой, а трещина. 
+pl	Usunąłem je po twoim hemoroidzie. 
+pr-br	Tirei todas quando você teve hemorroida. 
+ar	&rlm;‏أزلتها عندما أصبت بالباسور.‏ | 
+da	Jeg fjernede dem, da du fik hæmoriden. 
+el	Τις έβγαλα όταν είχες αιμορροΐδες. 
+en	I had them taken out | when you had the big hemorrhoid. | 
+fi	Poistin ne, kun sait peräpukamat. 
+fr	Plus depuis ta crise d'hémorroïdes. 
+he	&rlm;‏הוצאתי אותן כשהיו לך טחורים.‏ | 
+it	Le ho tolte a causa delle tue emorroidi. 
+ko	자네가 치질 걸린 뒤로 말이야 | 
+nl	Weggehaald toen jij aambeien had. 
+pr	Mandei tirar quando tiveste a hemorroida. 
+ro	Le-am scos când ai avut hemoroidul. 
+sp-eu	Las quité cuando tuviste la almorrana. 
+sp	Las saqué cuando tuviste hemorroides. 
+th	ผมถอดออกหมดตอนคุณเป็นริดสีดวง | 
+tr	Basur olduğunda kameraları söktüm. 
+vi	Tôi tháo camera từ khi anh bị bệnh trĩ. | 
+zh-long	自從你長痔瘡就沒再裝了 
+zh-short	你得痔疮时我就给撤了 
+

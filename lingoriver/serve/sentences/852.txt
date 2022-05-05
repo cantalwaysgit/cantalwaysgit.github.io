@@ -1,0 +1,26 @@
+id	Ada gempa di Los Angeles. 
+ru	В Лос-Анджелесе было землетрясение. 
+ja	ロサンゼルスで | 地震が起きて― | 
+ar	&rlm;‏حدث زلزال في "لوس أنجلوس".‏ | 
+da	Der var jordskælv i Los Angeles. 
+el	Έγινε σεισμός στο Λος Άντζελες. 
+en	There was an earthquake in Los Angeles. | 
+fi	Los Angelesissa oli maanjäristys. 
+fr	Il y a eu un tremblement de terre à Los Angeles. 
+he	&rlm;‏הייתה רעידת אדמה בלוס אנג'לס.‏ | 
+it	A Los Angeles c'è stato un terremoto. 
+no	Det var jordskjelv i Los Angeles. 
+pl	W Los Angeles było trzęsienie ziemi. 
+pr-br	Houve um terremoto em Los Angeles. 
+pr	Houve um tremor de terra em Los Angeles. 
+ro	A fost un cutremur în Los Angeles. 
+sp-eu	Ha habido un terremoto en Los Ángeles. 
+sp	Hubo un terremoto en Los Ángeles. 
+sv	Det var jordbävning i Los Angeles. 
+th	เกิดแผ่นดินไหวในลอสแอนเจลิส | 
+tr	Los Angeles'ta deprem oldu. 
+vi	Có động đất ở Los Angeles. | 
+zh-long	洛杉磯昨天發生大地震 
+zh-short	洛杉矶发生了地震 
+ko	LA에 지진이 일어났어요 | 
+

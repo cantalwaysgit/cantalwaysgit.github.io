@@ -1,0 +1,26 @@
+ja	ありのままが美しい | 
+ar	&rlm;‏أنت جميلة. توقفي.‏ | 
+da	Du er smuk, er du. Hold op. 
+el	Είσαι όμορφη. Σταμάτα. 
+en	You're beautiful is what you are. | Stop that. | 
+fi	Olet kaunis, ja sillä hyvä. 
+fr	Tu es belle. Arrête ça. 
+he	&rlm;‏את יפה זה מה שאת. תפסיקי.‏ | 
+id	Kau cantik. Hentikan. 
+it	Tu sei bellissima e basta. 
+ko	넌 그 자체로 아름다워 | 그런 말 하지 마 | 
+no	Du er vakker, er du. Gi deg. 
+pl	Jesteś po prostu piękna i tyle. 
+pr-br	Você é linda assim. Pare. 
+pr	Tu és linda. Para. 
+ro	Ești frumoasă. Încetează! 
+ru	Ты прекрасна. Прекрати. 
+sp-eu	Lo que estás es preciosa. Para. 
+sp	Lo que eres es hermosa. Basta. 
+sv	Du är vacker. Säg inte så. 
+th	คุณสวย นั่นแหละคือคุณ หยุดเลย | 
+tr	Çok güzelsin bir kere. Kes şunu. 
+vi	Cô rất xinh đẹp. Im đi. | 
+zh-long	妳天生就是個美人，別這樣 
+zh-short	你美得惊人 别说了 
+

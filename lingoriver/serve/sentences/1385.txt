@@ -1,0 +1,28 @@
+en	I wanna strangle you. | 
+ar	&rlm;‏أريد أن أخنقك. لا تقل "صوتك" مجدداً.‏ | 
+da	Jeg har lyst til at kvæle dig. Sig ikke "din stemme" igen. 
+el	Θέλω να σε στραγγαλίσω. Μην ξαναπείς "η δική σου φωνή". 
+fi	Haluan kuristaa sinut. Lakkaa hokemasta "omalla äänelläsi". 
+fr	Je vais t'étrangler si tu dis encore "ta voix". 
+he	&rlm;‏‏אני רוצה לחנוק אותך. | &rlm;‏אל תגיד שוב "בקול שלך".‏ | 
+it	Ti strangolo. Non dire mai più "la tua voce". 
+nl	Ik ga je wurgen. Zeg niet weer 'jouw stem'. 
+pr	Apetece-me estrangular-te. Não voltes a dizer "a tua voz". 
+pr-br	Quero estrangular você. Não diga "do seu jeito" de novo. 
+ro	Îmi vine să te sugrum. Să nu te mai aud cu "vocea ta"! 
+sp-eu	Quiero estrangularte. No vuelvas a decir "tu voz". 
+sp	Quiero estrangularte. No vuelvas a decir "tu voz". 
+sv	Jag vill strypa dig. Säg inte "din röst" en gång till. 
+vi	Tôi muốn bóp cổ anh đấy. | Đừng nói "giọng của anh" nữa. | 
+zh-long	我超想掐死你 別再說“你的聲音” 
+zh-short	我想勒死你 不许再说“你的声音”了 
+ko	목 졸라 죽이고 싶네 | 또 내 목소리 운운하기만 해 | 
+ja	今度 “君の声”って言ったら | 絞め殺すぞ | 
+no	Jeg kveler deg. Ikke si "din stemme" igjen. 
+tr	Seni boğmak istiyorum. Bir daha "kendi sesinle" deme. 
+id	Aku ingin mencekikmu. Jangan bilang "suaramu" lagi. 
+th	ฉันอยากบีบคอนาย | อย่าพูดว่า "เสียงนาย" อีกนะ | 
+pl	Jeszcze raz powiesz „swoim głosem”, to cię uduszę. 
+ru	Я тебя задушу. Не говори про уста. 
+en	-Don't say "your voice" again. | -What are you... | 
+

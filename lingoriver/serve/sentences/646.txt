@@ -1,0 +1,27 @@
+en	Uh, then I forgot. | 
+ja	忘れた | 
+ru	Но забыл. 
+pr-br	Mas depois esqueci. 
+ar	&rlm;‏ثم نسيت.‏ | 
+el	Και μετά το ξέχασα. 
+fi	Ja unohdin. 
+fr	Mais j'ai oublié. 
+he	&rlm;‏ואז שכחתי.‏ | 
+it	...ma mi sono dimenticato. 
+nl	En ik vergat het. 
+no	Så glemte jeg det. 
+pl	Ale zapomniałem. 
+pr	E depois esqueci-me. 
+ro	Apoi am uitat. 
+sp	Luego lo olvidé. 
+sv	Sen så glömde jag. 
+th	แล้วผมก็ลืม | 
+tr	Sonra unutmuşum. 
+vi	Thì tôi quên mất. | 
+zh-long	然後忘了 
+zh-short	接着就给忘了 
+sp-eu	Y se me ha olvidado. 
+da	Og så glemte jeg det. 
+ko	잊어버렸어요 | 
+id	Lalu aku lupa. 
+

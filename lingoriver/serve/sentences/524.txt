@@ -1,0 +1,27 @@
+en	[chuckles] Barry Bubatzi. | 
+id	Barry Bubatzi. 
+ja	バリー･ブバチだ | 
+ar	&rlm;‏"باري بوباتزي".‏ | 
+da	Barry Bubatzi. 
+el	Ο Μπέρι Μπουμπάτσι είμαι. 
+fi	Barry Bubatzi. 
+fr	Barry Bubatzi. 
+he	&rlm;‏בארי בבאצי.‏ | 
+it	Barry Bubatzi. 
+ko	배리 부바치예요 | 
+nl	Barry Bubatzi. 
+no	Barry Bubatzi. 
+pl	Barry Bubatzi. 
+pr	Barry Bubatzi. 
+pr-br	Barry Bubatzi. 
+ro	Barry Bubatzi. 
+sp	Barry Bubatzi. 
+sp-eu	Barry Bubatzi. 
+sv	Barry Bubatzi. 
+th	แบร์รี่ บูบาต์ซี่ | 
+tr	Barry Bubatzi. 
+vi	Barry Bubatzi. | 
+zh-long	貝利布巴茲 
+zh-short	巴里布巴兹 
+ru	Барри Бубаци. 
+

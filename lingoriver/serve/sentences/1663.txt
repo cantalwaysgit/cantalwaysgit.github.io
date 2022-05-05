@@ -1,0 +1,27 @@
+ar	&rlm;‏تناولوا هذه الأضلاع.‏ | 
+da	Spis op, drenge. 
+el	Φάτε τα παϊδάκια, παιδιά. 
+en	[Sandy] Eat up those baby backs, guys. | 
+fr	Régalez-vous, mes toutous. 
+he	&rlm;‏תאכלו את הצלעות האלה, חבר'ה.‏ | 
+it	Godetevi le costolette. 
+nl	Eet die ribbetjes op, jongens. 
+pl	Wcinajcie sobie, chłopcy. 
+pr-br	Comam todas as costelinhas, meninos. 
+pr	Comam as costeletas, meninos. 
+sp	Coman esas costillas, chicos. 
+sp-eu	Comeos esas costillas, chicos. 
+sv	Käka upp revbensspjällen! 
+tr	Kaburgalara yumulun çocuklar. 
+vi	Chúng mày ăn hết chỗ sườn heo nướng đó đi. | 
+zh-long	飽餐一頓吧，狗狗 
+zh-short	把背肋条都吃了 狗狗们 
+ko	갈비 많이 먹어, 얘들아 | 
+ja	残さず食べろよ | 
+no	Spis det kjøttet, dere. 
+fi	Syökää niitä kylkiä. 
+ro	Mâncați coastele alea! 
+th	กินซี่โครงให้หมดเลยพวก | 
+id	Makanlah semuanya, kawan-kawan. 
+ru	Кушайте на здоровье, ребята. 
+

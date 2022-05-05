@@ -1,0 +1,27 @@
+id	Jadi, kalian sudah siap melihat-lihat? 
+ru	Ну что, пойдем посмотрим студию? 
+ar	&rlm;‏إذاً، مستعدون لرؤية معداتنا؟‏ | 
+da	Skal vi vise jer rundt? 
+el	Είστε έτοιμοι να δείτε τις εγκαταστάσεις μας; 
+en	So, ready to check out our digs? | 
+fi	Katsotaanko vähän paikkoja? 
+fr	Prêts à découvrir nos installations ? 
+he	&rlm;‏מוכנים לראות את המתקנים שלנו?‏ | 
+it	Allora, diamo un'occhiata ai locali? 
+ko	이제 방 구경하러 가실까요? | 
+no	Klar for en omvisning? 
+pl	Chcecie obejrzeć studio? 
+pr-br	Prontos para conhecer as nossas instalações? 
+pr	Prontos para ver as nossas instalações? 
+ro	Sunteți gata să vedeți dotarea noastră? 
+sp-eu	¿Listos para ver las instalaciones? 
+sp	¿Listos para ver nuestras instalaciones? 
+sv	Redo att kolla in våra grejer? 
+th	พร้อมไปดูสถานที่ของเราไหม | 
+tr	Etrafı gezelim mi? 
+vi	Sẵn sàng tham quan | phòng thu của chúng tôi chưa? | 
+zh-long	準備看看我們的行頭了嗎？ 
+zh-short	那准备好参观下我们的录音棚了吗？ 
+ja	ではスタジオに案内する | 
+nl	Zijn jullie er klaar voor? 
+

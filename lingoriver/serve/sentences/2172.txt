@@ -1,0 +1,27 @@
+ja	〝あんたがバカだから | 悪い〞って | 
+ru	Да. Бивису очень жаль, что ты такой козел. 
+id	Ya. Beavis bilang dia minta maaf karena kau sangat bodoh. 
+ar	&rlm;‏أجل. يقول "بيفس" إنه آسف لأنك غبي جداً.‏ | 
+da	Ja. Beavis siger undskyld, fordi du er sådan et fjols. 
+el	Να σου ζητήσει συγγνώμη που είσαι τόσο ηλίθιος. 
+en	[Butt-Head] Yeah. Beavis says | he's sorry you're such a dumbass. | 
+fi	Beavis pahoittelee sitä, että olet tuollainen urpo. 
+fr	Oui, il regrette que tu sois aussi con. 
+he	&rlm;‏כן. ביוויס אומר שהוא מצטער שאתה כזה טמבל.‏ | 
+it	Sì. Gli dispiace che tu sia un imbecille. 
+nl	Ja. Het spijt hem dat jij zo'n sukkel bent. 
+no	Ja. Beavis sier han er lei for at du er en tulling. 
+pl	Tak. Jest mu przykro, że jesteś takim głupkiem. 
+pr-br	Sim, o Beavis sente muito por você ser um idiota. 
+pr	Sim. O Beavis pede desculpa por seres tão idiota. 
+ro	Da. Beavis zice că-i pare rău fiindcă ești așa de cretin. 
+sp-eu	Sí, Beavis dice que siente que seas tan alelado. 
+sp	Sí. Beavis dice que lamenta que seas tan estúpido. 
+sv	Beavis ber om ursäkt för att du är en sån korkskalle. 
+th	ใช่ บีวิสบอกว่าเขาเสียใจ | ที่แกงี่เง่ามาก | 
+tr	Evet. Beavis bu kadar salak olduğun için üzgünmüş. 
+vi	Vâng. Beavis nói xin lỗi | vì anh là một tên ngốc. | 
+zh-long	對，癟四很抱歉你這麼白痴 
+zh-short	是的 瘪四说他非常抱歉 说你是个大笨蛋 
+ko	네, 당신이 멍청이라서 | 유감스럽대요 | 
+

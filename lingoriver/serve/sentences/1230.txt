@@ -1,0 +1,27 @@
+ru	Спасибо за всё. 
+id	Terima kasih atas segalanya. Aku menghargainya. 
+ja	楽しかったよ コートニー | ありがとう | 
+ar	&rlm;‏شكراً على كل شيء. أقدره كله.‏ | 
+da	Tak for alt. Det sætter jeg pris på. 
+el	Σ' ευχαριστώ για όλα. Το εκτιμώ ιδιαίτερα. 
+en	Thank you for everything. | Appreciate it all. | 
+fi	Kiitos kaikesta. 
+fr	Merci pour tout. C'est gentil. 
+he	&rlm;‏תודה על הכול. אני מעריך את זה.‏ | 
+it	Grazie di tutto. Mi ha fatto molto piacere. 
+ko	전부 고마워 | 
+no	Takk for alt. Setter pris på det. 
+pl	Dziękuję za wszystko. 
+pr-br	Obrigado por tudo. De verdade. 
+pr	Obrigado por tudo. Eu agradeço. 
+ro	Îți mulțumesc pentru tot. Ai fost o comoară. 
+sp-eu	Gracias por todo. Te lo agradezco. 
+sp	Gracias por todo. Te agradezco. 
+sv	Tack för allt. Jag uppskattade det. 
+th	ขอบคุณสำหรับทุกอย่าง | ซาบซึ้งทุกอย่างเลย | 
+tr	Her şey için teşekkürler. Minnettarım. 
+vi	Cảm ơn về tất cả. Cảm ơn nhiều. | 
+zh-long	謝謝你，非常感謝 
+zh-short	感谢你所做的一切 非常感激 
+ru	Большое спасибо. 
+

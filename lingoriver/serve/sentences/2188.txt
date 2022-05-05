@@ -1,0 +1,27 @@
+en	[Butt-Head chuckles] Uh... | You said you wanna come on guys? | 
+ja	ヤりすぎたのか？ | 
+id	Kau bilang mau ejakulasi ke arah pria? 
+ar	&rlm;‏قلت إنك تريد أن تشعر بالنشوة على الرجال؟‏ | 
+da	Sagde du, du ville komme på fyre? 
+el	Μας ζητάς να "έρθουμε"; 
+fi	Sanoitko, että panet poikia? 
+fr	Tu aimes suivre les garçons, c'est ça ? 
+he	&rlm;‏אמרת שאתה רוצה לגמור על בחורים?‏ | 
+it	Hai detto che vuoi venire su di noi? 
+nl	Zei je dat je op jongens wilt komen? 
+no	Vil du komme på gutter? 
+pl	Dochodzisz na chłopców? 
+pr-br	Disse que adora bolas de caras? 
+pr	Disseste que tinhas tesão por rapazes? 
+ro	Ai zis că vrei să chemi băieți? 
+sp	¿Dijiste que quieres acabar con muchachos? 
+sp-eu	¿Has dicho que quieres comerte a los chicos? 
+sv	Sa du att du ville komma på grabbar? 
+th	พูดว่าอยากเอาหลังเหรอ | 
+tr	Üzerine gelmeyelim mi? 
+vi	Anh nói anh muốn chơi với các cậu? | 
+zh-long	你說“射了啦”？ 
+zh-short	你说你想射在男人身上？ 
+ru	Ты сказал «кончайте»? 
+ko	사정하고 싶다고요? | 
+

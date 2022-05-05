@@ -1,0 +1,26 @@
+id	Tekan tombolnya! 
+ru	Нажми кнопку! 
+th	กดปุ่มสิ! | 
+el	Πάτα το κουμπί! 
+ar	&rlm;‏اضغط على الزر!‏ | 
+da	Tryk på knappen! 
+en	[muffled] Press the button! | 
+fi	Paina sitä nappia! 
+fr	Appuie sur le bouton ! 
+he	&rlm;‏תלחץ על הכפתור!‏ | 
+it	Premi quel pulsante! 
+ko	버튼 눌러! | 
+nl	Druk op de knop. 
+no	Trykk på knappen! 
+pl	Naciśnij przycisk! 
+pr-br	Aperte o botão! 
+pr	Carrega no botão! 
+ro	Apasă butonul! 
+sp-eu	¡Dale al botón! 
+sp	¡Presiona el botón! 
+sv	Tryck på knappen! 
+tr	Düğmeye bas! 
+vi	Nhấn nút đi! | 
+zh-long	給我按下錄音鍵！ 
+zh-short	按键啊！ 
+

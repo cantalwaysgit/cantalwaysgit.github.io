@@ -1,0 +1,28 @@
+ar	&rlm;‏لديك مدير أعمال جديد.‏ | 
+da	Du har fået en ny manager. 
+el	Απέκτησες νέο μάνατζερ 
+en	♪ You got a new manager ♪ | 
+fr	Tu as un nouvel imprésario 
+he	&rlm;‏יש לך מנהל חדש.‏ | 
+it	Hai un manager. 
+ko	새 매니저가 생겼구나 | 
+nl	je hebt een nieuwe manager 
+pl	Masz nowego menedżera. 
+pr-br	Você tem um novo empresário 
+pr	Tu tens um empresário 
+ro	Te-ai ales cu un impresar nou 
+sp-eu	Tienes un nuevo mánager 
+sp	Tienes un nuevo representante 
+sv	Du har en ny manager 
+th	ลูกมีผู้จัดการคนใหม่แล้ว | 
+tr	Yeni bir menajerin var 
+vi	Con có người quản lý mới. | 
+zh-long	妳有新經紀人啦 
+zh-short	你有新经纪人了 
+id	Kau punya manajer baru 
+ja	お前にマネジャーがついたぞ | 
+ru	У тебя 
+no	Du har en ny manager 
+fi	Sulla on uusi manageri 
+ru	Новый менеджер 
+

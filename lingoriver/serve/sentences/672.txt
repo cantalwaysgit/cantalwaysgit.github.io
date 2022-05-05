@@ -1,0 +1,25 @@
+ar	&rlm;‏اللعنة!‏ | 
+da	For fanden da! 
+el	Διάολε! 
+en	[muffled] God damn it! | 
+fi	Jumalauta! 
+fr	Bordel de merde ! 
+he	&rlm;‏לעזאזל!‏ | 
+it	Maledizione! 
+ko	이런 망할! | 
+no	Helvete heller! 
+pr-br	Droga! 
+pr	Raios partam! 
+ro	Fir-ar a naibii! 
+sp-eu	¡Me cago en todo! 
+sp	¡Maldita sea! 
+sv	Herrejävlar! 
+tr	Lanet olsun! 
+vi	Chết tiệt! | 
+zh-long	見鬼了 
+zh-short	妈的！ 
+th	ให้ตายสิ | 
+pl	Niech to szlag! 
+id	Sial! 
+ru	Черт возьми! 
+

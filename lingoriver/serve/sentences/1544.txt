@@ -1,0 +1,25 @@
+ru	А что? Для тренировок. 
+ar	&rlm;‏إنها ملابس التدريب خاصتي.‏ | 
+da	Det er mit træningstøj. 
+el	Είναι τα ρούχα με τα οποία γυμνάζομαι. 
+en	Why? Those are my workout clothes. | 
+fr	Quoi ? C'est ma tenue de sport. 
+he	&rlm;‏למה? אלה בגדי ההתעמלות שלי.‏ | 
+id	Kenapa? Itu pakaian olahragaku. 
+it	Perché? Sono i vestiti con cui mi alleno. 
+ko	왜냐고? 내 운동복이야 | 
+no	Hvorfor? Det er treningstøyet mitt. 
+pl	Ćwiczę w nich. 
+pr-br	Por quê? São as minhas roupas de treino. 
+pr	Porquê? São as minhas roupas de fazer exercício. 
+ro	De ce? E costumul meu de antrenament. 
+sp-eu	¿Por qué? Es mi ropa de deporte. 
+sp	¿Por qué? Esa es mi ropa deportiva. 
+sv	Det är mina träningskläder. 
+th	ทำไม นี่ชุดออกกำลังกายของผม | 
+tr	Niye mi? Bunlar egzersiz kıyafetlerim. 
+vi	Sao à? Bộ đồ tập thể hình của tôi. | 
+zh-long	那是我的健身服耶 
+zh-short	怎么了？是我的健身服 
+ja	エクササイズ用の服さ | 
+

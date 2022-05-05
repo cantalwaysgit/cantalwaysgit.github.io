@@ -1,0 +1,27 @@
+ar	&rlm;‏‏إن كنت قلقاً حيال جميع تعقيدات | &rlm;‏حياتك اليومية.‏ | 
+da	hvis jeg er bekymret for din komplekse hverdag. 
+el	αν πρέπει να ανησυχώ για τις δικές σου καθημερινές πολυπλοκότητες. 
+en	if I'm worried about all the complexities | of your day-to-day. | 
+fi	jos huolehdin sinun päivittäisistä asioistasi. 
+fr	si je dois m'inquiéter de tes problèmes au quotidien. 
+he	&rlm;‏‏אם אני צריך לדאוג | &rlm;‏למורכבויות היומיומיות שלך.‏ | 
+it	se dovessi occuparmi delle complessità dei tuoi impegni quotidiani. 
+nl	...als ik me zorgen maak over jouw dingen. 
+no	hvis jeg må tenke på alle detaljer rundt deg. 
+pl	kiedy ciągle coś dla ciebie załatwiam. 
+pr-br	se estiver preocupado com todas as complexidades da sua rotina. 
+pr	se estiver preocupado com as complexidades do teu dia a dia. 
+ro	dacă mă gândesc la toate complicațiile tale din fiecare zi. 
+sp-eu	si ando preocupado por la complejidad de tu día a día. 
+sp	si me tengo que preocupar por tu complejo día a día. 
+sv	om jag måste oroa mig för allt komplext som händer i ditt liv. 
+th	ถ้าผมต้องเป็นห่วงความซับซ้อนทั้งหมด | ในชีวิตประจำวันของคุณ | 
+tr	hak ettiklerine inandığım şeyleri onlara veremiyorum. 
+vi	nếu tôi cứ mải lo lắng về | những khó khăn hàng ngày của cô. | 
+zh-long	我每天忙著操心妳的麻煩事 
+zh-short	我就没法给予其他人应有的关注 
+ko	각자 필요하다고 생각되는 걸 | 해줄 수가 없어 | 
+id	Jika aku mencemaskan keseharianmu beserta kerumitannya. 
+ja	君のことばかりに | 気を取られて余裕がない | 
+ru	...буду заниматься всеми твоими проблемами. 
+

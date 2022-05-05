@@ -1,0 +1,27 @@
+ar	&rlm;‏أنا نجمة روك.‏ | 
+da	Jeg er rockstjerne. 
+el	Είμαι ροκ σταρ. Είμαι ροκ σταρ. 
+en	I'm a rock star. I'm a rock star. | 
+fi	Olen rocktähti. 
+fr	Je suis une rock star 
+he	&rlm;‏אני כוכבת רוק.‏ | 
+it	Sono una rock star. 
+ko	난 록스타야 | 
+nl	Ik ben een rockster. 
+no	Jeg er rockestjerne. 
+pl	Jestem gwiazdą rocka. 
+pr-br	Sou uma estrela do rock. 
+pr	Sou uma estrela de  rock. 
+ro	Sunt o vedetă rock. 
+sp-eu	Soy una estrella del rock. 
+sp	Soy una estrella de rock. 
+sv	Jag är en rockstjärna. 
+th	ฉันคือร็อกสตาร์ ฉันคือร็อกสตาร์ | 
+tr	Ben rock yıldızıyım. 
+vi	Tôi là một ngôi sao nhạc rock. | 
+zh-long	我是大明星… 
+zh-short	我是摇滚巨星 
+id	Aku bintang  rock. 
+ja	ロックスターよ | 
+ru	Я - рок-звезда. 
+

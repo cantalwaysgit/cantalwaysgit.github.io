@@ -1,0 +1,25 @@
+en	[laughs] Sandy? | 
+ar	&rlm;‏"ساندي"؟‏ | 
+da	Sandy? 
+el	Σάντι; 
+fi	Sandy? 
+he	&rlm;‏סנדי?‏ | 
+it	Sandy? 
+no	Sandy? 
+pl	Sandy? 
+pr-br	Sandy? 
+pr	Sandy? 
+ro	Sandy? 
+sp-eu	¿Sandy? 
+sp	¿Sandy? 
+sv	Sandy? 
+th	แซนดี้ | 
+tr	Sandy? 
+vi	Sandy? | 
+zh-long	山迪 
+zh-short	桑迪？ 
+id	Sandy? 
+ru	Сэнди? 
+ko	샌디? | 
+ja	サンディ | 
+

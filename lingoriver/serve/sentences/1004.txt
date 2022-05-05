@@ -1,0 +1,29 @@
+id	Bling, kuperkenalkan, Amy Baskin. Bagiku, dia Grace Kelly selanjutnya. 
+pr-br	Bling, quero que conheça Amy Baskin. Para mim, ela é a próxima Grace Kelly. 
+en	Bling, I want you to meet Amy Baskin. | 
+ru	Блинг, познакомься с Эми Баскин. 
+ar	&rlm;‏‏أيها المبهرج "بلينغ"، قابل "إيمي باسكين". | &rlm;‏إنها "غرايس كيلي" التالية بالنسبة إلي.‏ | 
+da	Bling, du skal møde Amy Baskin. For mig er hun den næste Grace Kelly. 
+el	Μπλινγκ, από δω η Έιμι Μπάσκιν. Για μένα, είναι η επόμενη Γκρέις Κέλι. 
+fi	Bling, tässä on Amy Baskin. Uskon, että hän on seuraava Grace Kelly. 
+fr	Bling, voici Amy Baskin. Pour moi, la nouvelle Grace Kelly. 
+he	&rlm;‏‏בלינג, אני רוצה שתכיר את איימי בסקין. | &rlm;‏בשבילי, היא גרייס קלי הבאה.‏ | 
+it	Bling, ti presento Amy Baskin. La considero la nuova Grace Kelly. 
+ko	블링, 에이미 배스킨이야 | 우리 차세대 그레이스 켈리지 | 
+nl	Bling, dit is Amy Baskin. Volgens mij is zij de nieuwe Grace Kelly. 
+no	Bling, hils på Amy Baskin. For meg er hun den neste Grace Kelly. 
+pl	Bling, poznaj Amy Baskin. Uważam, że to nowa Grace Kelly. 
+pr	Bling, apresento-te a Amy Baskin. Para mim, é a próxima Grace Kelly. 
+ro	Bling, ea e Amy Baskin. Pentru mine, e viitoarea Grace Kelly. 
+sp	Bling, quiero presentarte a Amy Baskin. Para mí, es la futura Grace Kelly. 
+sp-eu	Bling, quiero que conozcas a Amy Baskin. Para mí es la próxima Grace Kelly. 
+sv	Bling, får jag presentera Amy Baskin? Vår nästa Grace Kelly. 
+th	บลิงก์ ผมอยากให้พบกับเอมี่ บาสกิน | สำหรับผมเธอคือเกรซ เคลลี่คนต่อไป | 
+tr	Bling, seni Amy Baskin'le tanıştırayım. Bence geleceğin Grace Kelly'si olacak. 
+vi	Bling, xin giới thiệu Amy Baskin. | Với tôi, cô ấy là Grace Kelly kế cận. | 
+zh-long	閃金老闆，這位是艾咪貝斯金 她絕對會是下一個葛麗絲凱莉 
+zh-short	闪金哥 这位是艾米巴斯金 在我眼里 她就是下一个格蕾丝凯利 
+ja	彼女はエイミー･バスキン | グレイス･ケリーの再来だ | 
+en	To me, she is the next Grace Kelly. | 
+ru	Она - новая Грейс Келли. 
+

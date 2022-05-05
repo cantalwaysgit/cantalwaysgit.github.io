@@ -1,0 +1,27 @@
+id	Hubungi kantorku pekan depan. 
+ko	다음 주에 사무실로 | 전화해 주세요 | 
+vi	Tuần sau gọi tới văn phòng tôi nhé. | 
+ru	Позвони мне на следующей неделе. 
+pl	Zadzwoń w przyszłym tygodniu. 
+th	โทรไปหาผมที่ออฟฟิศอาทิตย์หน้านะ | 
+fi	Soita minulle ensi viikolla. 
+no	Ring kontoret mitt i neste uke. 
+ar	&rlm;‏اتصل بمكتبي الأسبوع القادم.‏ | 
+da	Ring til kontoret i næste uge. 
+el	Τηλεφώνησε στο γραφείο μου την επόμενη εβδομάδα. 
+en	Call my office next week. Yeah. | 
+fr	Appelle à mon bureau, la semaine prochaine. 
+he	&rlm;‏תתקשר למשרד לי בשבוע הבא. כן.‏ | 
+it	Chiama il mio ufficio la prossima settimana. 
+nl	Bel volgende week mijn kantoor. 
+pr-br	Ligue para o meu escritório na semana que vem. É. 
+pr	Liga para o meu escritório na próxima semana. 
+ro	Caută-mă la birou săptămâna viitoare. Da. 
+sp-eu	Llámame al despacho la semana que viene. 
+sp	Llama a mi oficina la semana próxima. Sí. 
+sv	Ring mitt kontor nästa vecka. 
+tr	Gelecek hafta ofisimi ara. Peki. 
+zh-long	下週打來我辦公室 
+zh-short	下星期给我办公室打电话 
+ja	オフィスに電話して | 
+

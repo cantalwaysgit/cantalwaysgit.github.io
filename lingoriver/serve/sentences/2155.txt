@@ -1,0 +1,23 @@
+id	Tidak. 
+pl	Nie. 
+ru	Нет-нет-нет! 
+ar	&rlm;‏لا.‏ | 
+da	Nej. 
+el	Όχι, όχι. 
+en	No, no, no, no. | 
+he	&rlm;‏לא.‏ | 
+no	Nei, nei. 
+pr-br	Não. 
+pr	Não. 
+ro	Nu. 
+sp-eu	No. 
+sp	No. 
+sv	Nej. 
+th	ไม่ๆ ไม่ๆ | 
+tr	Hayır, hayır. 
+vi	Không. | 
+zh-long	不是啦 
+zh-short	不 
+ja	違うって | 具合が悪いのか？ | 
+ko	아니라고 | 
+

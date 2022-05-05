@@ -1,0 +1,27 @@
+ar	&rlm;‏لا أستطيع القيام بالأمر.‏ | 
+da	Det kan jeg ikke. 
+el	Δεν μπορώ να το κάνω. Δεν μπορώ. 
+en	[stammers] I can't do it. I can't. | 
+fi	En pysty tähän. 
+fr	Je peux pas. 
+he	&rlm;‏אני לא יכול לעשות את זה. אני לא יכול.‏ | 
+it	Non ce la faccio. 
+ko	안 되겠어요 | 
+nl	Ik kan het niet. 
+pl	Nie mogę. 
+pr-br	Não posso fazer isso. Não consigo. 
+pr	Não consigo fazer isto. 
+ro	Nu pot s-o fac. 
+sp-eu	No puedo hacerlo. No puedo. 
+sp	No puedo hacerlo. No puedo. 
+sv	Jag kan inte göra det. 
+th	ผมทำไม่ได้ ทำไม่ได้ | 
+tr	Yapamam. Hayır. 
+vi	Tôi không thể làm thế. | 
+zh-long	不行，我沒辦法 
+zh-short	我做不到 
+ru	Я не могу. Не могу. 
+ja	やっぱりダメだ | やめておこう | 
+no	Jeg kan ikke gjøre det. Jeg kan ikke. 
+id	Aku tidak bisa melakukannya. 
+

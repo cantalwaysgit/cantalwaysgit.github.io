@@ -1,0 +1,26 @@
+ja	“気がする”？ | 
+id	Itu menurutmu atau dia mengatakannya? 
+ru	Вроде или точно четыре? 
+ar	&rlm;‏أتظنه قال ذلك أم أنه قاله؟ 4؟‏ | 
+da	Du mener, han sagde fire? 
+el	Το είπε ή έτσι νομίζεις; 
+en	You think he said that | or he said that? Four? | 
+fi	Sanoiko hän varmasti niin? 
+fr	T'en es sûr ? Quatre ? 
+he	&rlm;‏אתה חושב שזה מה שהוא אמר? ארבע?‏ | 
+it	Sicuro che abbia detto quattro? 
+nl	Geloof je dat of zei hij vier? 
+no	Tror du at han sa det? Fire? 
+pl	Na pewno po czterech? 
+pr-br	Você acha ou ele disse isso? Quatro? 
+ro	Crezi sau chiar a zis patru? 
+sp	¿Crees que dijo eso? ¿Cuatro? 
+sp-eu	¿Crees que dijo eso? ¿Cuatro? 
+sv	Tror du det eller sa han det? 
+th	คิดว่าพูด หรือเขาพูดจริงๆ สี่วิฯ อะนะ | 
+tr	Öyle mi dedi? Dört mü? 
+vi	Anh nghĩ ông ta nói thế? Bốn giây? | 
+zh-long	他到底有沒有說四秒？ 
+zh-short	你觉得他是那么说的吗？四秒钟？ 
+ko	4초라고 말한 거 확실해요? | 
+

@@ -1,0 +1,28 @@
+ar	&rlm;‏‏- لا أشارك فيه؟ | &rlm;‏- أجل، لكن ليس بفعالية.‏ | 
+da	-Er jeg ikke med i den? -Det er du, men det er du ikke. 
+el	-Εγώ δε συμμετέχω; -Ναι, αλλά όχι ακριβώς. 
+en	-I'm not in the conversation? | -Oh, you are, but you aren't. | 
+fi	-Enkö ole mukana keskustelussa? -Olet mutta et. 
+fr	- C'est pas une conversation, si ? - Si, mais sans toi. 
+he	&rlm;‏‏אני לא בשיחה? | &rlm;‏-אתה כן, אבל אתה לא.‏ | 
+id	- Aku tidak ikut mengobrol? - Kau ikut, tapi tidak bicara. 
+it	- Io non esisto? - Ci sei ma è come se non ci fossi. 
+ko	- 나는 대화 안 해? | - 하는 것 같으면서 아니야 | 
+nl	Doe ik niet mee? -Ja, maar ook niet. 
+pl	- A ja nie? - Ty masz słuchać. 
+pr-br	-Não estou na conversa? -Sim, mas não. 
+pr	- Não entro na conversa? - Entras, mas não entras. 
+ro	- Eu nu particip? - Și da, și nu. 
+sp	- ¿Acaso yo no participo? - Sí, pero no. 
+sp-eu	- ¿Yo no participo? - Sí, pero no. 
+sv	-Är jag inte med i samtalet? -Jo, men ändå inte. 
+tr	-Ben yok muyum? -Varsın ama yoksun. 
+vi	- Tôi không tham gia à? | - Có, nhưng anh không. | 
+zh-long	-我不在裡面？ -你在，但你閉嘴比較好 
+zh-short	-我没参与吗？ -有 也可以说没你 
+no	-Er jeg ikke med? -Jo, men samtidig ikke. 
+ja	会話してた | 
+ru	-А меня типа нет? -Ты есть, но тебя нет. 
+th	- ฉันไม่ได้ร่วมเหรอ | - ก็ร่วม แต่ไม่ร่วม | 
+ja	黙ってろ | 
+

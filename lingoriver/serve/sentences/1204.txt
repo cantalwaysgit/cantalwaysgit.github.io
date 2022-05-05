@@ -1,0 +1,51 @@
+ar	&rlm;‏ما الذي فعلته أنت؟‏ | 
+da	Hvad har du gjort? 
+el	Εσύ τι έκανες, Σάντι; 
+en	What did you do, Sandy? | 
+fi	Mitä sinä teit? 
+fr	Et toi, tu fous quoi ? 
+he	&rlm;‏מה אתה עשית?‏ | 
+id	Kau melakukan apa, Sandy? 
+it	Tu cos'hai fatto? 
+ko	하신 게 뭐가 있어요? | 
+no	Hva har du gjort? 
+pl	A ty co zrobiłeś? 
+pr-br	O que você fez? 
+pr	O que fizeste tu, Sandy? 
+ro	Dar tu ce ai făcut? 
+ru	А ты что сделал? 
+sp-eu	¿Qué has hecho tú? 
+sp	¿Qué hiciste tú? 
+sv	Vad har du gjort? 
+th	แล้วคุณล่ะทำอะไร | 
+tr	Sen ne yaptın Sandy? 
+vi	Anh đã làm được gì? | 
+zh-long	你做了什麼？ 
+zh-short	你做了什么？ 
+nl	Wat deed jij? Diende jij de papieren voor de Grammy-nominatie in? 
+ja	君はグラミー賞の書類を | 用意したか？ | 
+ar	&rlm;‏هل ملأت أوراق الترشيح لجائزة "غرامي" | &rlm;قبل انتهاء المهلة؟‏ | 
+da	Indsendte du papirerne til Grammy-nomineringen? 
+el	Κατέθεσες τα έγγραφα για την υποψηφιότητα των Γκράμι; 
+en	Did you file the paperwork for the Grammy | nomination before the deadline? | 
+fi	Lähetitkö lomakkeet Grammy-ehdokkuutta varten? 
+fr	T'as rempli les papiers pour la nomination aux Grammy ? 
+he	&rlm;‏הגשת את הטפסים למועמדות לפרס הגראמי?‏ | 
+it	Hai depositato tu in tempo i documenti per la nomination al Grammy? 
+ko	그래미 후보작 서류 | 작성하셨어요? | 
+no	Sendte du inn papirene for Grammy-nominasjonen? 
+pl	Wypełniłeś na czas dokumenty do Grammy? 
+pr-br	Você preencheu a papelada para a indicação do Grammy? 
+pr	Entregaste a papelada para a nomeação para o Grammy? 
+ro	Ai trimis dosarul la nominalizările Grammy la timp? 
+ru	Ты занимался номинацией на «Грэмми»? 
+sp-eu	¿Presentaste los papeles para la nominación a los Grammy? 
+sp	¿Llenaste los formularios para la nominación al Grammy? 
+th	คุณยื่นเอกสารการเสนอชื่อ | เข้าชิงรางวัลแกรมมี่หรือเปล่า | 
+tr	Grammy adaylığı için formları doldurdun mu? 
+vi	Anh nộp hồ sơ ứng cử giải Grammy | trước hạn chót à? | 
+zh-long	你有在截止日期前 送資料給葛萊美獎審核嗎？ 
+zh-short	你在截止日期之前 为参加格莱美报名了吗？ 
+sv	Ordnade du med pappersarbetet inför Grammynomineringarna? 
+id	Kau kirim berkas untuk nominasi Grammy sebelum tenggat waktu? 
+

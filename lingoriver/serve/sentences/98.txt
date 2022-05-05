@@ -1,0 +1,59 @@
+id	Entah apa upayanya untuk mereka, tapi kita bisa merasakan cintanya. 
+ja	タレントは彼の愛を | 感じてただろうね | 
+ru	И... 
+en	And, uh, I wasn't sure | what he was doing for them, | 
+da	Jeg ved ikke, hvad han gjorde, men man mærkede kærligheden. 
+no	Vet ikke hva han gjorde for dem, men kjærligheten var der. 
+ru	Не знаю, как он работал, но он их любил. 
+ar	&rlm;‏‏لم أكن متأكداً مما كان يفعله لهم، | &rlm;‏لكن يمكنك أن تشعر بحبه لهم.‏ | 
+el	Δεν ξέρω τι έκανε γι' αυτούς, αλλά ένιωθες ότι τους αγαπούσε. 
+fi	En tiedä, mitä hyötyä hänestä oli, mutta hän välitti. 
+fr	J'ignore ce qu'il faisait exactement, mais il tenait à eux. 
+he	&rlm;‏‏לא הייתי בטוח מה הוא עשה בשבילם, | &rlm;‏אבל הרגשת את האהבה.‏ | 
+it	Non so cosa facesse, ma si avvertiva l'amore. 
+ko	뭘 해줬는지는 몰라도 | 애정이 느껴졌어요 | 
+nl	Ik wist niet wat hij voor ze deed, maar je voelde liefde. 
+pl	Nie wiem, co robił, ale na pewno ich kochał. 
+pr-br	Não sei o que ele fazia, mas dava para sentir que havia amor. 
+pr	Não sei bem o que fazia por eles, mas sentia-se o amor. 
+ro	Nu știu ce le făcea, dar dragostea plutea în aer. 
+sp-eu	No sé si conseguía algo, pero se notaba el amor. 
+sp	No sé qué hacía por ellos, pero se sentía el cariño. 
+sv	Jag vet inte vad han gjorde för dem men man kände kärleken. 
+th	ไม่แน่ใจว่าเขาทำอะไรให้ | แต่รู้ได้ถึงความรักที่เขามีให้ | 
+tr	Onlar için ne yapıyordu, emin değilim, ama sevgi doluydu. 
+vi	Không rõ anh ta làm gì cho họ, | nhưng bạn cảm thấy được yêu mến. | 
+zh-long	說不上來他為他們做了什麼 但就是能感覺到愛 
+zh-short	我不清楚他为客户做了什么 但能让人感受到爱 
+en	but you could feel the love. | 
+
+nl	Ik vertel je waar het is, maar alleen als we er samen heen gaan. 
+pt-br	Posso dizer onde foi, mas vamos juntas até lá. 
+zh-short	让我跟你一起去 我就把地点告诉你 
+it	Ti dirò dov'è, ma solo se ci andiamo insieme. 
+uk	Я скажу, де це, але тільки якщо поїдемо туди разом. 
+el	Θα σου πω πού είναι, αλλά μόνο αν πάμε μαζί. 
+es	Te diré dónde fue, pero solo si vamos juntas. 
+es-eu	Te diré dónde es, pero solo si vamos juntas. 
+ru	Я скажу, где это, но только если мы пойдем туда вместе. 
+tr	Yeri söylerim ama beraber gitmemiz şartıyla. 
+da	Jeg siger, hvor det er, | hvis vi kan tage derhen sammen. | 
+fr	Je veux bien te dire où c'est, mais on y va ensemble. 
+he	‫אני אגיד לך איפה זה,‬ | ‫אבל רק אם ניסע לשם יחד.‬ | 
+hu	Elmondom, hol van, de csak akkor, ha együtt megyünk. 
+id	Akan kuberi tahu tempatnya, tapi hanya jika kita ke sana bersama. 
+ja	&lrm;一緒に行くなら | &lrm;場所を教えるわ | 
+ko	&lrm;어디인지 말해 줄게요 | &lrm;단, 같이 가야 해요 | 
+ms	Saya akan beritahu tempatnya, tapi jika kita pergi bersama. 
+no	Jeg sier hvor det er, men bare hvis vi drar dit sammen. 
+pt	Eu digo-te onde fica, mas só se formos lá juntas. 
+ro	Îți spun unde a fost, dar numai dacă mergem împreună. 
+sv	Jag visar dig vägen, men bara om vi åker tillsammans. 
+th	&lrm;ฉันจะบอกให้ว่าเป็นที่ไหน | &lrm;แต่เราต้องไปด้วยกัน | 
+vi	&lrm;Tôi sẽ cho cô biết nó ở đâu | &lrm;với điều kiện ta đi cùng nhau. | 
+zh-long	我會告訴妳地方 但前提是我們一起去 
+fi	Kerron, mistä hän löytyi, | jos menemme sinne yhdessä. | 
+hr	Reći ću ti gdje je to, pod uvjetom da odemo zajedno. 
+en	I'll tell you where it is, but only if we go there together. 
+cs	Povím ti, kde to je, ale pojedeme tam spolu. 
+

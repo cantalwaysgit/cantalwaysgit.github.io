@@ -1,0 +1,25 @@
+ja	サンディか？ | 
+id	- Sandy Wexler? - Ya. 
+ar	&rlm;‏‏- "ساندي ويكسلر"؟ | &rlm;‏- أجل.‏ | 
+da	-Sandy Wexler? -Ja. 
+el	-Ο Σάντι Γουέξλερ; -Ναι. 
+en	-[Beavis] Sandy Wexler? | -Yeah. | 
+fi	-Sandy Wexler? -Kyllä. 
+he	&rlm;‏‏סנדי וקסלר? | &rlm;‏-כן.‏ | 
+it	- Sandy Wexler? - Sì. 
+no	-Sandy Wexler? -Ja. 
+pl	- Sandy Wexler? - Tak. 
+pr-br	-Sandy Wexler? -Sim. 
+pr	- Sandy Wexler? - Sim. 
+ro	- Sandy Wexler? - Da. 
+sp-eu	- ¿Sandy Wexler? - Sí. 
+sp	- ¿Sandy Wexler? - Sí. 
+sv	-Sandy Wexler. -Ja. 
+th	- แซนดี้ เวกซ์เลอร์ใช่ไหม | - ใช่ | 
+tr	-Sandy Wexler? -Evet. 
+vi	- Sandy Wexler? | - Phải. | 
+zh-long	-山迪韋克斯勒？ -對 
+zh-short	-是桑迪韦克斯勒吗？ -对 
+ru	-Сэнди Уэкслер? -Да. 
+ko	- 샌디 웩슬러? | - 그래 | 
+

@@ -1,0 +1,48 @@
+ru	Да! 
+id	- Ya. - Ya. 
+ar	&rlm;‏أجل!‏ | 
+da	Ja! 
+el	Ναι! 
+en	Yeah! | 
+he	&rlm;‏כן!‏ | 
+no	Ja! 
+pl	Tak! 
+pr-br	Sim! 
+pr	Sim! 
+ro	Da! 
+sp-eu	¡Sí! 
+sp	¡Sí! 
+sv	Visst! 
+th	ได้สิ | 
+tr	Evet! 
+vi	Vâng! | 
+zh-long	記得！ 
+zh-short	记得！ 
+ko	네! | 
+ja	有名ミュージカルの | 主役に抜擢されたんだ | 
+ru	Она получила главную роль в «Звуках музыки» в Пасадене. 
+id	Dia dapat peran utama  Sound of Music di Pasadena Playhouse. 
+ar	&rlm;‏‏حصلت على الدور الرئيسي في مسرحية | &rlm;‏"ساوند أوف ميوزيك" على مسرح "باسادينا".‏ | 
+da	Hun fik hovedrollen i  Sound of Music på Pasadena Playhouse. 
+el	Πρωταγωνιστεί στη  Μελωδία της Ευτυχίας στο Θέατρο Πασαντίνα. 
+en	Yes, well, she got the lead in | Sound of Music at the Pasadena Playhouse. | 
+fi	Hän pääsi  Sound of Musicin päärooliin Pasadena Playhousessa. 
+fr	Premier rôle de  La mélodie du bonheur à la Pasadena Playhouse. 
+he	&rlm;‏‏היא קיבלה את התפקיד הראשי ב"צלילי המוזיקה" | &rlm;‏בפסדינה פלייהאוס.‏ | 
+it	È la protagonista di  Sound of Music, al Pasadena Playhouse. 
+nl	Ze heeft de hoofdrol in  Sound of Music in het Pasadena Playhouse. 
+no	Hun fikk hovedrollen i  Sound of Music på Pasadena Playhouse. 
+pl	Dostała rolę w  Dźwiękach muzyki. Grają to w Pasadena Playhouse. 
+pr-br	Bem, ela será a protagonista de  A Noviça Rebelde  no Teatro de Pasadena. 
+pr	Tem o papel principal em  Música no Coração no Pasadena Playhouse. 
+ro	A obținut rolul principal din Sunetul muzicii,  la Pasadena Playhouse. 
+sp-eu	Es la protagonista de  Sonrisas y lágrimas en el Pasadena Playhouse. 
+sp	Sí, es la protagonista de La novicia rebelde  en Pasadena Playhouse. 
+sv	Hon fick en huvudroll i  Sound of Music på Pasadena Playhouse. 
+th	เธอได้บทนำในเรื่องมนต์รักเพลงสวรรค์ | ที่พาซาดีนา เพลย์เฮาส์ | 
+tr	Pasadena Playhouse'ta Neşeli Günler'de  başrol oynuyor. 
+vi	Cô ấy có vai chính trong vở Sound of Music | ở nhà hát Pasadena Playhouse. | 
+zh-long	她在帕莎蒂娜劇院 演《真善美》大角色 
+zh-short	她当选了帕萨迪纳剧场 《音乐之声》剧的主演 
+ko	‘사운드 오브 뮤직’ 연극에서 | 주인공 역을 맡았어 | 
+

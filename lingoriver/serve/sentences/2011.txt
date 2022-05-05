@@ -1,0 +1,27 @@
+ar	&rlm;‏أواعدت "دينيس رودمان"؟ يا إلهي.‏ | 
+da	Har du datet Dennis Rodman? Du godeste. 
+el	Έβγαινες με τον Ντένις Ρόντμαν; Για όνομα. 
+en	You dated Dennis Rodman? | Good Lord. | 
+fi	Tapailitko Dennis Rodmania? Herttinen. 
+fr	Dennis Rodman ? Nom d'un chien. 
+he	&rlm;‏יצאת עם דניס רודמן? אלוהים אדירים.‏ | 
+it	Sei stata con Dennis Rodman? Santo cielo. 
+ko	데니스 로드맨도 사귀었어? | 세상에 | 
+nl	Had je iets met Dennis Rodman? Mijn hemel. 
+no	Har du datet Dennis Rodman? Herregud. 
+pl	Chodziłaś z Dennisem Rodmanem? Boże. 
+pr	Andaste com o Dennis Rodman? Meu Deus. 
+pr-br	Você namorou com o Dennis Rodman? Meu Deus. 
+ro	Ai ieșit cu Dennis Rodman? Doamne! 
+sp-eu	¿Has salido con Dennis Rodman? Madre mía. 
+sp	¿Saliste con Dennis Rodman? Santo Dios. 
+sv	Har du dejtat Dennis Rodman? Jösses. 
+th	ลูกเดตเดนนิส ร็อดแมนเหรอ | พระเจ้าช่วย | 
+tr	Dennis Rodman'la mı çıktın? Ulu Tanrım. 
+vi	Con đã hẹn hò với Dennis Rodman? Chúa ơi. | 
+zh-long	妳跟丹尼斯羅德曼在一起過？ 媽媽咪呀 
+zh-short	你跟丹尼斯罗德曼交往过？ 天啊 
+id	Kau mengencani Dennis Rodman? Astaga. 
+ru	Ты встречалась с Родманом? Боже. 
+ja	ロッドマンとも？ | 
+

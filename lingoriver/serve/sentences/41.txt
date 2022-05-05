@@ -1,0 +1,56 @@
+sv	Det är lugnt. Jag har en agent. 
+id	Tidak. Aku punya agen. 
+ru	Нет. У меня есть агент. 
+ar	&rlm;‏لا أريد. لدي وكيل.‏ | 
+da	Nej, det er fint. Jeg har en agent. 
+el	Όχι ευχαριστώ. Έχω ατζέντη. 
+en	No, I'm good. I... I have an agent. | 
+fi	Jätän väliin. Minulla on agentti. 
+fr	C'est bon, en fait. J'ai un agent. 
+he	&rlm;‏לא, אני בסדר. יש לי סוכן.‏ | 
+it	No, sono a posto. Ho un agente. 
+ko	아니요, 괜찮아요 | 에이전트가 있거든요 | 
+nl	Hoeft niet. Ik heb een agent. 
+no	Ellers takk. Jeg har agent. 
+pl	Dzięki, mam agenta. 
+pr-br	Não, estou bem. Tenho um agente. 
+pr	Não é preciso. Tenho um agente. 
+ro	Nu, e-n regulă. Am un agent. 
+sp-eu	No, estoy bien. Tengo un agente. 
+sp	No, estoy bien. Tengo un agente. 
+th	ไม่ต้อง ผมมีตัวแทนแล้ว | 
+tr	Yok, böyle iyi. Temsilcim var. 
+vi	Không, tôi ổn. Có đại diện rồi. | 
+zh-long	不用，我有經紀公司 
+zh-short	不了 我挺好 我有代理人 
+ja	いや 結構だ | ６人の代理人がいる | 
+
+tr	Her zamanki yerinde. 
+ja	&lrm;いつもの所だ | 
+cs	Tam, kde vždycky. 
+en	Where it usually is. 
+es	En donde siempre. 
+es-eu	Donde siempre. 
+fr	À sa place. 
+he	‫במקום הרגיל.‬ | 
+hr	Gdje i inače. 
+hu	A szokásos helyen. 
+id	Di tempat biasa. 
+it	Al solito posto. 
+ko	&lrm;있던 데 있지 | 
+ms	Di tempat biasa. 
+no	På vanlig sted. 
+pt-br	No lugar de sempre. 
+pt	Onde sempre esteve. 
+ro	La locul lor. 
+th	&lrm;อยู่ที่เดิม | 
+uk	Там, де завжди. 
+vi	&lrm;Ở chỗ mọi khi. | 
+zh-long	放在老地方 
+zh-short	在老地方 
+el	-Στο συνηθισμένο μέρος. -Τότε, μας τελείωσε. 
+nl	Waar het altijd ligt. -Dan is het op. 
+sv	-Där det brukar finnas. -I så fall är det slut. 
+fi	Omalla paikallaan. | 
+ru	Где обычно. 
+

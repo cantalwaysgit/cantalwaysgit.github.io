@@ -1,0 +1,27 @@
+id	Dia mendengar lagunya di radio dan mau Courtney di acaranya pekan depan. 
+ar	&rlm;‏‏سمع الأغنية أيضاً في المذياع، | &rlm;‏وسيستضيفها في البرنامج الأسبوع القادم.‏ | 
+da	Han hørte også sangen i radioen og bookede hende til programmet i næste uge. 
+el	Το άκουσε κι αυτός στο ραδιόφωνο και την έκλεισε για την άλλη εβδομάδα. 
+en	He heard the song as well on the radio, | and he booked her on the show next week. | 
+fi	Hänkin oli kuullut kappaleen ja buukkasi Courtneyn ensi viikoksi. 
+fr	Il a entendu la chanson à la radio, et elle passe chez lui. 
+he	&rlm;‏‏הוא גם שמע את השיר ברדיו | &rlm;‏והוא הזמין אותה לתכנית שלו בשבוע הבא.‏ | 
+it	Ha sentito il pezzo alla radio e l'ha invitata la prossima settimana. 
+ko	라디오에서 노래를 들었다고 | 다음 주 쇼에 출연하래 | 
+nl	Hij hoorde het nummer ook en heeft haar voor volgende week geboekt. 
+no	Han har også hørt sangen og booket henne til neste uke. 
+pl	Usłyszał piosenkę w radiu i już ją zaklepał do swojego programu. 
+pr-br	Ele ouviu a música no rádio e a agendou para o programa da semana que vem. 
+pr	Ele ouviu a canção no rádio e ela vai ao programa dele para a semana. 
+ro	A auzit și el cântecul la radio și a rezervat-o pentru săptămâna viitoare. 
+sp	Él también oyó la canción en la radio y la invitó a su programa. 
+sp-eu	También ha oído la canción en la radio, y la ha llamado para su programa. 
+sv	Han hörde också låten på radio. Han bokade henne till showen nästa vecka. 
+th	เขาได้ยินเพลงจากวิทยุเหมือนกัน | และจองเธอไปออกรายการอาทิตย์หน้า | 
+tr	Şarkıyı radyoda dinlemiş, gelecek hafta onu programına çağırdı. 
+vi	Anh ta cũng nghe bài đó trên đài, và | đã đặt lịch diễn cho cô ấy vào tuần sau. | 
+zh-long	他也在收音機聽到了那首歌 他已經約了下週請她表演 
+zh-short	他也在收音机上听了这首歌 并且决定让她下周上节目 
+ja	来週 彼の番組に | 出てほしいと言われた | 
+ru	Он тоже услышал песню и пригласил её на шоу на следующей неделе. 
+

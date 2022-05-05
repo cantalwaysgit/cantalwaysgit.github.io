@@ -1,0 +1,26 @@
+id	Itu bagus untuk diet Atkins. Aku bisa beli sosis, tanpa roti. 
+ru	Для Аткинса и то, и то подходит. Возьму сосиску без булочки. 
+ar	&rlm;‏‏إنهما مناسبان لحمية "أتكينز". | &rlm;‏يمكنني تناول النقانق من دون خبز.‏ | 
+da	Begge dele er okay med Atkins. Jeg kan tage en pølse uden brød. 
+el	Είναι συμβατά με τη δίαιτα Άτκινς. Μπορώ να πάρω λουκάνικο χωρίς ψωμάκι. 
+en	It's all good for the Atkins. | I can get a frankfurter, no bun. | 
+fi	Atkins onnistuu kummassakin. Voin ottaa makkaraa ilman sämpylää. 
+fr	Pour mon régime, les deux me vont. Je prendrai une saucisse. 
+he	&rlm;‏‏הכול טוב בשביל דיאטת האטקינס. | &rlm;‏אני יכול להזמין נקניקייה, בלי לחמנייה.‏ | 
+it	Per la mia dieta vanno bene. Prenderò un wurstel senza pane. 
+nl	Allebei goed voor het Atkins. Ik neem een knakworst zonder broodje. 
+no	Alt er greit for Atkins. Kan ta en frankfurter uten brød. 
+pl	Byle przestrzegać Atkinsa. Zjem frankfurterkę bez bułki. 
+pr-br	Os dois são bons para a dieta Atkins. Posso comer um cachorro-quente sem pão. 
+pr	Qualquer um serve para a dieta Atkins. Posso comer salsicha sem o pão. 
+ro	Ambele sunt bune pentru dieta Atkins. Pot lua un crenvurst fără chiflă. 
+sp	Cualquiera sirve para Atkins. Puedo comer una salchicha, sin pan. 
+sp-eu	Todo vale para la Atkins. Puedo pedir una salchicha sin pan. 
+sv	Det passar Atkinsdieten. Jag kan ta en korv, inget bröd. 
+th	มันดีกับสูตรแอตคินส์หมด | ฉันสั่งไส้กรอกไม่เอาขนมปังได้ | 
+tr	Diyet açısından sorun yok. Ekmeksiz sosis yerim. 
+vi	Cả hai đều hợp với chế độ ăn Atkins. | Tôi ăn xúc xích Đức, không bánh. | 
+zh-long	都符合阿金減肥餐規定 我可以吃熱狗，不加麵包 
+zh-short	都适用阿特金斯饮食计划 我可以叫熏肠 不要面包 
+ko	둘 다 앳킨스에 적합하거든 | 빵 빼고 소시지만 먹으면 돼 | 
+

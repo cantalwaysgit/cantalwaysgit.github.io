@@ -1,0 +1,27 @@
+ar	&rlm;‏‏اسمع، إنها ليست غلطته. لا بأس. | &rlm;‏توجد نوادي أخرى.‏ | 
+da	Det er jo ikke hans skyld. Det var fint nok. Der er andre klubber. 
+el	Δεν έφταιγε αυτός. Δεν πειράζει. Υπάρχουν κι άλλες λέσχες. 
+en	Oh, listen, that's not his fault. I was... | That was fine. There's other clubs. | 
+fi	Ei se hänen syytään ollut, ja onhan noita klubeja. 
+fr	Il n'y est pour rien. C'est pas les clubs qui manquent. 
+he	&rlm;‏‏תקשיב, זו לא הייתה אשמתו. | &rlm;‏זה היה בסדר. יש מועדונים אחרים.‏ | 
+it	Lui non ha colpa. Nessun problema. Ci sono altri club. 
+ko	그건 마티 잘못이 아니잖아 | 괜찮아, 다른 클럽도 많아 | 
+nl	Dat is niet zijn schuld. Geeft niet. Er zijn andere clubs. 
+no	Det er ikke hans skyld. Det går bra. Det finnes andre klubber. 
+pl	Nic nie szkodzi. To nie jego wina. Są jeszcze inne kluby. 
+pr	A culpa não foi dele. Não houve problema. Há outros clubes. 
+pr-br	Não foi culpa dele. Tudo bem. Há outros clubes. 
+ro	N-a fost vina lui. E în regulă. Mai sunt și alte cluburi. 
+sp-eu	Escucha, no fue culpa suya. No pasa nada. Hay otros clubes. 
+sp	Oye, no fue su culpa. Está bien. Hay otros clubes. 
+sv	Det är inte hans fel. Det är lugnt. Det finns andra klubbar. 
+th	ฟังนะ นั่นไม่ใช่ความผิดของเขา | ไม่เป็นไร คลับอื่นก็มี | 
+tr	Onun suçu değil. Sorun yok. Başka kulüpler de var. 
+vi	Đó không phải lỗi của ông ấy. | Không sao. Còn nhiều câu lạc bộ khác. | 
+zh-long	那不是他的錯 沒關係，俱樂部多的是 
+zh-short	听着 那不怪他 没关系 还有其他俱乐部 
+id	Dengar, itu bukan salahnya. Tidak masalah. Ada klub-klub lain. 
+ru	Он не виноват. Ничего. Есть другие клубы. 
+ja	父上のせいじゃない | 社交クラブは他にもある | 
+

@@ -1,0 +1,58 @@
+ru	направляет вас, звонит нужным людям. 
+ar	&rlm;‏‏يجري المكالمات الهاتفية الشاقة، | &rlm;‏ويخوض المعارك الهامة.‏ | 
+da	der tager de svære telefonopkald, kæmper de store kampe. 
+el	που κάνει τα δύσκολα τηλεφωνήματα και δίνει τις μεγάλες μάχες. 
+en	who makes the tough phone calls, | fights the big fights. | 
+fi	ja hoitamaan hankalat puhelut ja isot taistelut. 
+fr	qui passe les coups de fil difficiles et qui se défonce pour vous. 
+he	&rlm;‏‏שעושה את שיחות הטלפון הקשות, | &rlm;‏שנלחם את הקרבות הגדולים.‏ | 
+it	che faccia le telefonate scomode e combatta le battaglie importanti. 
+ko	힘든 전화도 해주고 | 잘 싸워주기도 하죠 | 
+nl	...de lastige telefoontjes doet, voor je vecht. 
+no	en som tar de vanskelige telefonene, kjemper de harde kampene. 
+pl	kto wykonuje za ciebie trudne telefony, walczy o twoje. 
+pr-br	que faça as ligações difíceis. Lute por boas causas. 
+pr	que faz os telefonemas difíceis, que trava as grandes batalhas. 
+ro	care negociază la telefon, care luptă pentru tine. 
+sp-eu	que haga las llamadas difíciles, que pelee por usted como es debido. 
+sp	que hace las llamadas difíciles, pelea por lo que hace falta pelear. 
+sv	som tar de tuffa telefonsamtalen. Tar de svåra fajterna. 
+th	คนที่โทรศัพท์ที่หินๆ ให้ | ต่อสู้กับปัญหาใหญ่โต | 
+tr	Zor telefon görüşmelerini yapan. Senin için mücadele eden. 
+vi	gọi những cú điện thoại khó, | chiến đấu những trận cam go. | 
+zh-long	幫你處理棘手問題 為妳衝鋒陷陣 
+zh-short	搞定麻烦的电话的人 为你据理力争 
+id	yang melakukan panggilan sulit, memperjuangkan kariermu. 
+ru	Дерется за вас. 
+ja	ともに全力で戦う | 
+
+cs	Přešla přes oblíbenou louku a dorazila do Obráceného lesa, 
+da	Hun krydsede sin yndlingseng | og gik ind i Omvendtskoven. | 
+el	Διέσχισε το αγαπημένο της λιβάδι κι έφτασε στο Αναποδογυρισμένο Δάσος. 
+en	She crossed her favorite meadow and reached the Upside-Down Forest. 
+es	Cruzó su pradera favorita y llegó hasta el Bosque Invertido, 
+es-eu	Cruzó su prado preferido y llegó al Bosque Invertido. 
+fi	Hän ylitti suosikkiniittynsä | ja tuli Ylösalaiseen metsään. | 
+fr	Elle traversa sa prairie préférée et atteignit la Forêt-à-l'envers. 
+he	‫היא חצתה את האחו האהוב עליה‬ | ‫והגיעה ליער ההפוך,‬ | 
+hr	Prešla je omiljenu livadu i stigla do Naopake šume. 
+hu	Átkelt a kedvenc rétjén, és beért a Tótágas erdőbe. 
+id	Dia melintasi padang rumput favoritnya dan mencapai Hutan Terbalik. 
+ko	&lrm;좋아하는 초원을 지나 | &lrm;거꾸로 숲에 도착했지 | 
+ms	Dia melintasi padang rumput kegemarannya dan sampai ke Hutan Terbalik. 
+nl	Ze liep dwars door haar lievelingsweide en bereikte het Omgekeerde Bos. 
+no	Hun krysset favorittenga og nådde opp-ned-skogen. 
+pt	Atravessou o prado preferido dela e chegou à Floresta Ao Contrário. 
+pt-br	Ela cruzou seu campo favorito e chegou à Floresta Invertida. 
+ro	„A străbătut pajiștea ei preferată și a ajuns la Pădurea Răsturnată. 
+ru	Она шла по своему любимому лугу в сторону опушки. 
+sv	Hon gick tills hon kom fram till upp- och nervända skogen. 
+th	&lrm;เธอเดินข้ามทุ่งหญ้าที่เธอชอบ | &lrm;ไปถึงป่ากลับหัวกลับหาง | 
+tr	En sevdiği kırın ilerisindeki Baş Aşağı Orman'a gelmiş. 
+uk	Вона перетнула свою улюблену галявину і дійшла до лісу Догори Дриґом. 
+vi	&lrm;Cô ấy băng qua đồng cỏ yêu thích | &lrm;và đến Khu Rừng Ngược. | 
+zh-long	她越過她最喜歡的草地 來到了顛倒森林 
+zh-short	她穿过她最喜欢的草地 来到了颠倒森林 
+it	Attraversò il suo prato preferito e raggiunse la Foresta Sottosopra. 
+ja	&lrm;“お気に入りの草原を越え | &lrm;逆さの森に着いた” | 
+

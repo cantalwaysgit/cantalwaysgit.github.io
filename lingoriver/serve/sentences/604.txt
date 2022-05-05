@@ -1,0 +1,29 @@
+ja	見えてた？ じゃ始めよう | 
+id	Kau melihatnya? 
+ru	Ты его видишь? 
+ar	&rlm;‏أترينه؟ هيا بنا.‏ | 
+da	Kan du se ham? Kom. 
+el	Τον βλέπεις; Πάμε, λοιπόν. 
+en	You see him? Let's go over. | 
+fi	Näetkö hänet? Mennään sinne. 
+fr	Tu le vois ? C'est parti. 
+he	&rlm;‏את רואה אותו? בואי נלך.‏ | 
+it	Lo vedi? Andiamo. 
+ko	보여? 가보지 | 
+nl	Heb je hem gezien? Kom. 
+no	Ser du ham? Kom igjen. 
+pl	Widzisz go? No to chodźmy. 
+pr-br	Você o vê? Vamos nessa. 
+pr	Estás a vê-lo? Vamos. 
+ro	Îl vezi? Să mergem! 
+sp-eu	¿Le ves? Vamos. 
+sp	¿Lo viste? Vamos. 
+sv	Ser du honom? Då kör vi. 
+th	เห็นเขาแล้วเหรอ งั้นไปกันเลย | 
+tr	Gördün mü? Hadi bakalım. 
+vi	Cô thấy anh ta rồi à? Bắt đầu thôi. | 
+zh-long	妳看到啦？開始吧 
+zh-short	你看到他了？那我们就开始吧 
+id	Ayo. 
+ru	Пошли. 
+

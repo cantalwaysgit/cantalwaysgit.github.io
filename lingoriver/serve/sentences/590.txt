@@ -1,0 +1,52 @@
+ja	ふざけたこと | 言うんじゃねえ！ | 
+id	Dengar, jangan lakukan itu kepadaku! Akan kubatalkan semuanya! 
+ru	Не надо так со мной! Я все отменю! 
+ar	&rlm;‏لا تفعل هذا بي! سأوقف الأمر!‏ | 
+da	Vær ikke sådan! Så aflyser jeg bare det hele! 
+el	Μη μου το κάνεις αυτό! Θα ματαιώσω την εκδήλωση! 
+en	Listen, don't do that to me! | I'll pull the plug on this thing! | 
+fi	Älä kuule yritä! Perun koko jutun! 
+fr	Tu vas pas me faire ça ! Sinon, j'annule tout ! 
+he	&rlm;‏אל תעשה לי את זה! אני אסיים את זה!‏ | 
+it	Non farmi una cosa simile! Voglio darci un taglio! 
+pr-br	Não faça isso comigo! Vou desligar essa coisa! 
+pr	Não me faças isso! Eu cancelo isto! 
+ro	Nu-mi face asta! O să renunț la tot numărul! 
+sp-eu	¡No me hagas eso! ¡O cancelaré esto! 
+sp	¡No me hagas eso! O suspendo todo. 
+sv	Gör inte så mot mig! Då stoppar jag alltihop! 
+tr	Bunu bana yapma! Bu işe bir son vereceğim! 
+vi	Đừng làm thế với tôi! | Tôi sẽ chấm dứt việc này đấy! | 
+zh-long	別這樣，我會拔掉電話插頭！ 
+zh-short	听着 不许这么对我！ 小心我不干了！ 
+no	Ikke gjør det mot meg! Jeg avlyser hele greia! 
+pl	Nie rób mi tego! Bo wszystko odwołam! 
+th	ฟังนะ อย่าทำแบบนั้นกับผม | ไม่งั้นผมถอนตัวแน่ๆ นะ | 
+ko	나한테 그러지 마! | 전화선을 뽑아버릴까 보다! | 
+nl	Doe dat niet. Ik trek de stekker eruit. Hoor je me? 
+ar	&rlm;‏أتسمعني؟‏ | 
+da	Hører du? 
+el	Άκουσες; 
+en	Do you hear me? | 
+fi	Kuulitko? 
+fr	Tu m'entends ? 
+it	Hai capito? 
+pr-br	Está me ouvindo? 
+pr	Estás a ouvir? 
+ro	Înțelegi? 
+sp-eu	¿Me has oído? 
+sp	¿Me oyes? 
+sv	Hör du vad jag säger? 
+tr	Duydun mu beni? 
+vi	Nghe tôi nói chưa hả? | 
+zh-long	聽到沒？ 
+zh-short	你听见了吗？ 
+he	&rlm;‏אתה שומע אותי?‏ | 
+ja	分かったか？ | 
+id	Kau paham? 
+ru	Ты слышишь? 
+no	Hører du? 
+pl	Słyszysz? 
+th	ได้ยินไหม | 
+ko	내 말 알겠어? | 
+

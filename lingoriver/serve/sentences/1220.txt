@@ -1,0 +1,27 @@
+ar	&rlm;‏وهذا ما يعيقها.‏ | 
+da	Og det holder hende tilbage. 
+el	Αυτό ακριβώς την περιορίζει. 
+en	And that is what's holding her back. | 
+fi	Ja se on hänelle hidaste. 
+fr	Et ça l'empêche d'avancer. 
+he	&rlm;‏וזה מה שמעכב אותה.‏ | 
+it	Ed è proprio quello che la frena. 
+nl	En dat houdt haar tegen. 
+pl	I dlatego nie rozwija skrzydeł. 
+pr-br	E é isso que a está segurando. 
+pr	E é isso que a impede de crescer. 
+ro	Și asta o trage înapoi. 
+sp-eu	Y eso es lo que la está frenando. 
+sp	Y eso es lo que la está perjudicando. 
+th	และนั่นคือสิ่งที่รั้งเธอเอาไว้ | 
+tr	Ve bu ona engel oluyor. 
+vi	Và đó chính là điều cản đường cô ấy. | 
+zh-long	這就是拖累她的主因 
+zh-short	而这正是拖她后腿的地方 
+id	Itulah yang menahan dirinya. 
+ru	И это мешает её развитию. 
+no	Og det er det som holder henne tilbake. 
+ko	그래서 발목이 잡힌 거예요 | 
+sv	Och det håller tillbaka henne. 
+ja	彼女の足を引っ張ってる | 
+

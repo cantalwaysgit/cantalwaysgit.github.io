@@ -1,0 +1,27 @@
+pr-br	O cara está estragando a música. 
+ja	歌い手がひどい | 
+id	Orang ini mengacaukannya. 
+ru	Он её изуродовал. 
+ar	&rlm;‏هذا الرجل يفسدها بأدائه.‏ | 
+da	Den fyr slagter den. 
+el	Ο τύπος το έχει σκοτώσει. 
+en	This guy's butchering it. | 
+fi	Tyyppi pilaa sen. 
+fr	Ce type la massacre. 
+he	&rlm;‏הבחור הזה הורס אותו.‏ | 
+it	Quel tizio la sta massacrando. 
+nl	Die vent verpest het. 
+no	Den fyren slakter den. 
+pl	Masakruje ją. 
+pr	Este tipo está a assassiná-la. 
+ro	Tipul ăla îl măcelărește. 
+sp	El tipo la está destruyendo. 
+sp-eu	Ese tío la está destrozando. 
+sv	Killen slaktar den. 
+th	หมอนี่ทำลายเพลงนี้ | 
+tr	Adam şarkıyı katlediyor. 
+vi	Anh ta đang làm hỏng bài hát. | 
+zh-long	這傢伙毀了這首歌 
+zh-short	这家伙在糟蹋这首歌 
+ko	저 남자가 다 망쳐놓고 있네요 | 
+

@@ -1,0 +1,28 @@
+id	Kau pernah menonton film nakal,  9½ Weeks? 
+ru	Ты смотрел тот пикантный фильм 
+ja	「ナインハーフ」っていう | いけない映画 見た？ | 
+en	Did you ever see | that naughty little movie, 9½ Weeks? | 
+ar	&rlm;‏‏أشاهدت الفيلم البذيء | &rlm;‏"ناين أند أيه هاف ويكس"؟‏ | 
+da	Har du set den frække lille film,  9½ uge? 
+el	Έχεις δει την πονηρή ταινία  9½ Εβδομάδες; 
+fi	Oletko nähnyt sitä tuhmaa  9 1/2 viikkoa  -elokuvaa? 
+fr	T'as vu ce film coquin,  9 semaines 1/2  ? 
+he	&rlm;‏‏ראית אי פעם את הסרט השובב, | &rlm;‏"תשעה וחצי שבועות של שכרון חושים"?‏ | 
+it	Hai mai visto quel film un po' piccante, 9 settimane e ½? 
+ko	‘나인 하프 위크’라는 | 야한 영화 봤어요? | 
+nl	Heb je die stoute film gezien,  9½ Weeks? 
+no	Har du sett den frekke lille filmen  9½ Weeks? 
+pl	Widziałeś ten sprośny film? Dziewięć i pół tygodnia? 
+pr	Alguma vez viste aquele filme picante, o  Nove Semanas e Meia? 
+pr-br	Viu aquele filme safado 9 1/2 Semanas de Amor? 
+ro	Ai văzut filmulețul ăla obscen, Nouă săptămâni și jumătate? 
+sp	¿Alguna vez viste esa película sensual, Nueve semanas y media? 
+sp-eu	¿Has visto esa película tan pícara, Nueve semanas y media? 
+sv	Har du sett  9½ vecka? 
+th	เคยดูหนังแซบเรื่อง 9½ วีคส์ไหม | 
+tr	Şu açık saçık  9½ Hafta  filmini izlemiş miydin? 
+vi	Anh đã xem bộ phim bậy bạ 9½ Weeks chưa? | 
+zh-long	你看過那部壞壞小電影 《愛你九週半》嗎？ 
+zh-short	你看过那个坏坏的 电影《九周半》吗？ 
+ru	«Девять с половиной недель»? 
+

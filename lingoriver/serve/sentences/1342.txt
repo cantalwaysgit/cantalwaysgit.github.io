@@ -1,0 +1,28 @@
+en	-I don't wanna zap you. | -Oh. You can zap me. Just zap me. | 
+ru	Пусть дернет. 
+id	Kau bisa menyetrumku. 
+ar	&rlm;‏يمكنك أن تصعقني. اصعقني وحسب.‏ | 
+da	Du kan bare give mig stød. Giv mig stød. 
+el	Μπορείς να με ηλεκτρίσεις. Κάν' το. 
+fi	Anna pois. 
+fr	Oui, mets-moi une décharge. 
+he	&rlm;‏אתה יכול לחשמל אותי. פשוט תחשמל אותי. | 
+it	Dammi la scossa. 
+ko	그렇게 해줘요 | 
+nl	Je mag me een schok geven. Doe maar. 
+no	Du kan gi meg støt. Gi meg støt. 
+pl	Możesz sobie mnie strzelić. 
+pr-br	Você pode me dar choque. 
+pr	Podes dar-me choques. Dá-me. 
+ro	Poți să mă electrocutezi. Hai! 
+sp	Dame electricidad. Solo dame. 
+sp-eu	Dame un calambre. Dámelo. 
+sv	Ge mig en stöt. 
+th	ช็อตฉันได้ ช็อตเลย | 
+tr	Elektriklenme olsun. Olsun. 
+vi	Anh có thể làm tôi giật. | Làm cho tôi giật đi. | 
+zh-long	電我，快電我 
+zh-short	你可以 电我 
+ja	いいのよ　バチッとやって | 
+ru	Дерни меня. 
+

@@ -1,0 +1,30 @@
+id	Kau tahu kau tak boleh masuk kemari. 
+ja	クラブ落選だって？ | 
+ru	-Ты в курсе, что не прошел в «Хиллкрест»? -В курсе. 
+nl	Je weet dat je niet naar de Hillcrest mag? 
+en	You heard you didn't get into | Hillcrest Country Club, right? | 
+ar	&rlm;‏‏- أسمعت أنك لم تُقبل في "هيلكرست"؟ | &rlm;‏- أجل، سمعت ذلك.‏ | 
+da	-Hørte du, du ikke kom ind på Hillcrest? -Ja. 
+el	-Δεν μπήκες στη Λέσχη Χίλκρεστ. -Ναι, το έμαθα. 
+fi	-Et pääse Hillcrestin jäseneksi. -Kuulin jo. 
+fr	- Le Hillcrest t'a refusé, non ? - Oui, il paraît. 
+he	&rlm;‏‏שמעת שלא נכנסת להילקרסט? | &rlm;‏-כן, שמעתי.‏ | 
+it	- Non ti hanno preso all'Hillcrest. - Sì, ho saputo. 
+no	-Vet du at du ikke kom inn på Hillcrest? -Ja. 
+pl	- Ale do Hillcrest nie wejdziesz. - Wiem. 
+pr-br	-Soube que não entrou em Hillcrest? -Sim, fiquei sabendo. 
+pr	- Soubeste que não entraste em Hillcrest? - Sim, soube. 
+ro	- Știi că n-ai fost admis la Hillcrest? - Da, am auzit. 
+sp-eu	- ¿Sabes que no te admiten en Hillcrest? - Sí, lo sé. 
+sp	- ¿Sabes que no te aceptaron en Hillcrest? - Sí, lo sé. 
+th	- ได้ยินว่าเข้าฮิลเครสต์ไม่ได้ | - ก็ได้ยินอย่างนั้น | 
+tr	-Seni Hillcrest'e almamışlar, duydun mu? -Evet, duydum. 
+vi	- Anh biết bị trượt Hillcrest rồi chứ? | - Ừ, biết rồi. | 
+zh-long	-你知道進不了希爾克雷斯特吧 -知道 
+zh-short	-你知道自己没进到山顶俱乐部吧？ -对 我知道 
+sv	-Hörde du att du inte kom in på Hillcrest? -Ja då. 
+ko	- 힐크레스트 가입 거부당하셨죠? | - 들었어 | 
+ja	聞いたよ | 
+id	Ya, aku tahu. 
+en	Yeah, I heard. | 
+

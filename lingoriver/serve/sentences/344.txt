@@ -1,0 +1,51 @@
+ar	&rlm;‏أتريدان الذهاب للاحتفال؟‏ | 
+da	Skal vi gå ud at fejre det? 
+el	Θέλετε να πάμε να το γιορτάσουμε; 
+en	You guys want to go out and celebrate? | 
+fr	On va fêter ça ? 
+it	Volete andare a festeggiare? 
+ko	축하하러 갈까요? | 
+nl	Willen jullie het gaan vieren? 
+pr-br	Vocês querem comemorar? 
+pr	Querem ir comemorar? 
+ro	Vreți să ieșim să sărbătorim? 
+sp-eu	¿Queréis ir a celebrarlo? 
+sp	¿Quieren salir a celebrar? 
+sv	Vill ni gå ut och fira? 
+vi	Hai người muốn đi liên hoan không? | 
+zh-long	要不要去慶祝一下？ 
+ja	お祝いに外食を | 
+no	-Vil dere gå ut og feire? -Jeg kan ikke gå noe sted. 
+he	&rlm;‏אתם רוצים לצאת לחגוג?‏ | 
+zh-short	你们想庆祝一下吗？ 
+fi	Lähdetäänkö juhlimaan? 
+tr	Gidip bir yerde kutlayalım mı? 
+id	Kalian mau keluar merayakannya? 
+pl	Pójdziemy to uczcić? 
+th	อยากไปฉลองกันไหมครับ | 
+ru	-Пойдем отпразднуем? -Я не могу выйти. 
+ar	&rlm;‏لا يمكنني الذهاب إلى أي مكان.‏ | 
+da	Det kan jeg ikke. 
+el	Δεν μπορώ να φύγω. 
+en	I can't go nowhere. | 
+fi	En voi lähteä täältä. 
+fr	Je suis coincé ici. 
+he	&rlm;‏אני לא יכול ללכת לשום מקום.‏ | 
+it	Io non posso uscire. 
+ko	난 못 나가잖아요 | 
+nl	Ik kan nergens heen. 
+pl	Ja nie mogę. 
+pr-br	Não posso sair daqui. 
+pr	Não posso sair daqui. 
+ro	Nu pot pleca nicăieri. 
+sp-eu	No puedo ir a ninguna parte. 
+sp	No puedo salir de aquí. 
+sv	Jag kan inte gå ut. 
+th	ผมไปไหนไม่ได้ | 
+tr	Ben bir yere gidemem. 
+vi	Tôi không được đi đâu cả. | 
+zh-long	我哪都去不了 
+zh-short	我哪儿都去不了 
+id	Aku tidak bisa ke mana-mana. 
+ja	出られない | 
+

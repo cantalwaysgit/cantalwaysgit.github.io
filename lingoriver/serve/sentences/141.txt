@@ -1,0 +1,28 @@
+en	[scattered laughter] | 
+
+fi	Lopeta pelleily! | 
+cs	Konec srandy! 
+da	Ikke mere pjat! | 
+en	The fun is over! 
+es-eu	¡Déjate de bromas! 
+fr	La fête est finie ! 
+he	‫גמרנו לשחק!‬ | 
+hr	Dosta je igre! 
+hu	Vége a mókának! 
+ko	&lrm;인제 재미없어! | 
+ms	Seronok dah habis! 
+no	Moroa er over! 
+th	&lrm;หมดเวลาสนุกแล้ว! | 
+tr	Oyun bitti artık! 
+uk	Гру закінчено! 
+zh-long	遊戲已經結束了 
+zh-short	别玩了！ 
+ru	Хорош прикалываться! 
+id	Berhenti main-main! 
+pt	Acabou a brincadeira! 
+pt-br	A brincadeira acabou! 
+sv	Det är slutlekt nu! 
+vi	&lrm;Trò vui kết thúc rồi! | 
+el	Η διασκέδαση τελείωσε! 
+ja	&lrm;遊びは終わりだ | 
+

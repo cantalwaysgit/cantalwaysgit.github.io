@@ -1,0 +1,106 @@
+fr	Il y avait Ted Rafferty. 
+id	- Ada seseorang, Ted Rafferty, - Benar. 
+it	- C'era un tale Ted Rafferty... - Sì. 
+ko	- 테드 래퍼티는... | - 맞다 | 
+ru	-Был такой Тед Рафферти... -Да. 
+ar	&rlm;‏‏- هناك "تيد رافيرتي"، | &rlm;‏- أجل.‏ | 
+da	-Han fik Ted Rafferty... -Ja. 
+el	-Είχε και τον Τεντ Ράφερτι. -Ναι. 
+en	-He had this one guy, Ted Rafferty... | -Oh, yeah. | 
+fi	Sitten oli Ted Rafferty, 
+he	&rlm;‏‏יש בחור אחד, טד רפרטי... | &rlm;‏-כן.‏ | 
+no	-Han hadde Ted Rafferty... -Ja. 
+pl	Jego klientem był Ted Rafferty. 
+pr-br	-Tem o Ted Rafferty... -É. 
+pr	- E o Ted Rafferty... - Sim. 
+ro	- Ar mai fi Ted Rafferty... - Da. 
+sp-eu	- Tenía a un tal Ted Rafferty... - Sí. 
+sp	- Tenías a Ted Rafferty... - Sí. 
+sv	Det var ju Ted Rafferty... 
+th	- เขามีเท็ด รัฟเฟอร์ตี้ | - ใช่ | 
+tr	-Ted Rafferty var... -Evet. 
+vi	- Có Ted Rafferty... | - Phải rồi. | 
+zh-long	-有個泰德拉佛提… -對 
+zh-short	-特德拉弗蒂 -对 
+nl	Je had Ted Rafferty met die poppenact. Niet heel goed. Middelmatig. 
+ja	テッド･ラファティという | 腹話術師がいた | 
+id	seorang pemain boneka. Tidak bagus. Biasa saja. 
+it	Era un ventriloquo. Niente di speciale. Uno da intermezzo. 
+ko	인형 연기자였어요 | 대단히 잘하는 사람은 아니었죠 | 
+ru	...кукольник. Он был так себе. 
+no	-...buktaleren. Ikke så god. Middels. -Han trodde på ham. Syntes han var flott. 
+ar	&rlm;‏‏الذي كان يقدم عرضاً بالدمى. | &rlm;‏ليس رائعاً جداً. كان متوسط الجودة.‏ | 
+da	...som havde et dukkeshow. Ikke så godt. Middelmådigt. 
+el	Ήταν ένας μέτριος μαριονετίστας. 
+en	...who was a, you know, puppet act. | Not that good. Like, a middle act. | 
+fi	vatsastapuhuja. Ei järin hyvä. Keskivälin esiintyjiä. 
+fr	C'était un marionnettiste. Pas super doué. 
+he	&rlm;‏‏... שעשה מופע עם בובות. לא טוב כל כך. | &rlm;‏מופע ברמה בינונית.‏ | 
+pl	Taki lalkarz. Niezbyt dobry. 
+pr-br	...que era ventríloquo. Não tão bom. Meia-boca. 
+pr	... que era ventríloquo. Não muito bom. Mediano. 
+ro	Era păpușar. Nu era foarte bun. Făcea un număr mediocru. 
+sp-eu	...que era ventrílocuo. No era muy bueno. Nivel medio. 
+sp	...que era un ventrílocuo. No era muy bueno. Algo promedio. 
+sv	...som hade en handdocka. Inte så bra. Halvbra. 
+th	ซึ่งแสดงหุ่น ไม่ดีนัก พวกคั่นรายการ | 
+tr	Kuklacıydı. Pek iyi değildi. Orta karar. 
+vi	...một diễn viên múa rối. | Không giỏi lắm. Diễn ở giữa. | 
+zh-long	…一個木偶劇演員 沒有很厲害，實力普普 
+zh-short	他是演木偶剧的 演得一般般 中等水准 
+
+ja	&lrm;あと 何枚だ？ | 
+fi	Paljonko näitä tarvitaan? | 
+ru	- Сколько еще нужно вырезать? - Много. 
+it	- Quanti ne dobbiamo fare ancora? - Tanti. 
+no	-Hvor mange er det igjen nå? -Mange. 
+pt-br	- Quantos mais temos que cortar? - Muitos. 
+es	- ¿Cuántos más debemos cortar? - Muchos más. 
+cs	- Kolik jich ještě musíme nastříhat? - Moc. 
+da	-Hvor mange skal vi klippe? | -Mange. | 
+es-eu	- ¿Cuántos más hay que cortar? - Muchos. 
+fr	- Combien il faut en couper ? - Beaucoup. 
+he	‫עוד כמה נצטרך לגזור?‬ | ‫-הרבה.‬ | 
+hu	- Hányat kell még kivágnunk? - Sokat. 
+id	- Harus berapa banyak lagi? - Banyak. 
+ko	&lrm;- 얼마나 더 잘라야 해? | &lrm;- 많이 | 
+ms	- Berapa banyak lagi nak digunting? - Banyak. 
+nl	Hoeveel moeten we er nog knippen? -Veel. 
+pt	- Quantos mais temos de cortar? - Muitos. 
+sv	-Hur många fler ska vi klippa ut? -Många. 
+th	&lrm;- เราต้องตัดอีกเท่าไหร่ | &lrm;- อีกเยอะ | 
+uk	-Скільки ще різати? -Багато. 
+vi	&lrm;- Ta phải cắt thêm bao nhiêu? | &lrm;- Rất nhiều. | 
+zh-long	-我們還要剪多少？ -還很多 
+zh-short	-我们还要剪多少张？ -很多 
+en	-How many more do we have to cut? -A lot. 
+el	-Πόσα ακόμα θα κόψουμε; -Πολλά. Την τελευταία φορά, μας τελείωσαν. 
+hr	-Koliko ih još moramo izrezati? -Puno. Prošli nam je put ponestalo. 
+ro	- Câte mai trebuie să tăiem? - Multe. Ultima oară nu ne-au ajuns. 
+tr	-Daha kaç tane keseceğiz? -Çok. Geçen sefer eksik geldi. 
+ja	&lrm;たくさんよ | &lrm;前は足りなかった | 
+fi	Paljon. | -Viimeksi ne loppuivat kesken. | 
+pt-br	Da última vez, acabaram todos. 
+no	Forrige gang hadde vi ikke nok. 
+it	L'ultima volta li abbiamo finiti. 
+es	El otro día se nos acabaron. 
+cs	Minule nám došly. 
+zh-short	上次不够用 
+da	Sidst løb vi tør. | 
+fr	On fait tout. 
+hu	A múltkor elfogyott. 
+ko	&lrm;지난번에 모자랐잖아 | 
+ms	Sampai habis. 
+sv	De tog slut sist. 
+th	&lrm;ครั้งที่แล้วเราแจกจนหมดเลย | 
+uk	Того разу нам забракло. 
+zh-long	上次我們貼完了 
+he	‫בפעם שעברה היה לנו חסר.‬ | 
+id	Terakhir kali kita kehabisan. 
+es-eu	La última vez se agotaron. 
+nl	De vorige keer waren ze op. 
+pt	Da última vez, usámos todos. 
+vi	&lrm;Lần trước, ta chưa xong đã hết. | 
+en	We ran out last time. 
+ru	В прошлый раз не хватило. 
+

@@ -1,0 +1,49 @@
+id	- Setelah itu, tidak menjadi lebih baik. - Benar. 
+ru	-Никому это не шло на пользу. -Нет! 
+ar	&rlm;‏‏- لم يكن أحد بحال أفضل بعد ذلك. | &rlm;‏- لا.‏ | 
+da	-Ingen kom bedre ud af det. -Nej. 
+el	-Κανείς δε γινόταν καλύτερος. -Όντως. 
+en	-And no one was better off after that. | -No. | 
+fi	-Eikä kukaan siitä parantunut. -Ei. 
+fr	Ça ne donnait jamais rien. 
+he	&rlm;‏‏אף אחד לא היה טוב יותר לאחר מכן. | &rlm;‏-לא.‏ | 
+it	Nessuno ne usciva valorizzato. 
+ko	- 그런다고 향상되지도 않아요 | - 맞아 | 
+pl	Skutek odwrotny od zamierzonego. 
+pr-br	-Ninguém melhorava depois disso. -Não. 
+pr	- Ninguém melhorava com isso. - Não. 
+ro	- Nimeni n-o ducea mai bine după aia. - Nu. 
+sp-eu	- Nadie mejoraba nada. - No. 
+sp	- Nadie mejoraba después de eso. - No. 
+th	- หลังจากนั้นไม่เห็นมีใครได้ดีขึ้น | - ไม่เลย | 
+tr	-Bu kimseye bir şey katmazdı. -Doğru. 
+vi	- Sau đó chẳng ai khá khẩm hơn. | - Không ai. | 
+zh-long	-沒人因此變得更好 -沒錯 
+zh-short	-效果却适得其反 -是的 
+nl	Niemand werd er beter van. Het was een ramp. 
+no	Ingen ble noe bedre av det. Det var en katastrofe. 
+sv	Ingen blev bättre av det. Det var katastrofalt. 
+ja	正直 意味がない | ムダな特訓だ | 
+id	Kacau balau. 
+ar	&rlm;‏كانت كارثة.‏ | 
+da	En katastrofe. 
+el	Ήταν καταστροφή. 
+en	It was a train wreck. | 
+fi	Se oli kaameaa. 
+fr	C'était un désastre. 
+he	&rlm;‏זה היה אסון.‏ | 
+it	Era un disastro. 
+ko	정말 끔찍했어요 | 
+pl	To była masakra. 
+pr-br	Era um desastre. 
+pr	Era um desastre. 
+ro	Era un dezastru. 
+ru	Это был кошмар. 
+sp	Era un desastre. 
+sp-eu	Era un desastre. 
+th	มันแย่มาก | 
+tr	Felaketti. 
+vi	Chỉ là thảm họa. | 
+zh-long	根本是一場災難 
+zh-short	简直就是灾难 
+

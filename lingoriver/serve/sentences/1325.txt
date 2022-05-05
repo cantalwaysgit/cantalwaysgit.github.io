@@ -1,0 +1,24 @@
+ko	고마워요 | 
+ar	&rlm;‏شكراً لك.‏ | 
+da	Tak. 
+en	[mutters appreciatively] | 
+fi	Kiitos. 
+he	&rlm;‏תודה.‏ | 
+it	Grazie. 
+no	Takk. 
+pr-br	Obrigado. 
+pr	Obrigado. 
+sp-eu	Gracias. 
+sp	Gracias. 
+sv	Tack. 
+tr	Sağ ol. 
+vi	Cảm ơn chị. | 
+zh-long	謝謝 
+zh-short	谢谢你 
+el	Ευχαριστώ. 
+id	Terima kasih. 
+ru	Спасибо. 
+pl	Dziękuję. 
+ro	Mulțumesc. 
+th	ขอบคุณ | 
+

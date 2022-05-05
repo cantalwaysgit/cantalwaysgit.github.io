@@ -1,0 +1,27 @@
+ru	Вы так долго были вместе. Конечно, тебе одиноко. 
+ar	&rlm;‏‏كنتما معاً لوقت طويل. | &rlm;‏من الطبيعي أن تشعري بالوحدة.‏ | 
+da	I var sammen i så lang tid. Selvfølgelig er du ensom. 
+el	Λογικό είναι. Ήσασταν μαζί τόσο καιρό. 
+en	You were together so long. | Of course you're lonely. | 
+fi	Olitte kauan yhdessä. Totta kai olet yksinäinen. 
+fr	Vous étiez ensemble depuis longtemps. C'est normal. 
+he	&rlm;‏‏הייתם ביחד כל כך הרבה זמן. | &rlm;‏בוודאי שאת בודדה.‏ | 
+id	Kalian sudah lama bersama. Tentu kau kesepian. 
+it	State insieme da una vita. È logico che tu ti senta sola. 
+ko	오랜 기간 함께 하셨으니 | 외로우실 만도 하죠 | 
+nl	Jullie waren zo lang samen. Natuurlijk ben je eenzaam. 
+no	Dere var sammen så lenge. Selvsagt er du ensom. 
+pl	Nic dziwnego. Byliście razem wiele lat. 
+pr-br	Vocês ficaram juntos um tempão. Claro que está solitária. 
+pr	Estiveram tanto tempo juntos. É claro que te sentes só. 
+ro	Ați fost împreună de atâta timp! Normal că te simți singură. 
+sp	Estuvieron juntos mucho tiempo. Es normal que te sientas sola. 
+sp-eu	Habéis estado mucho tiempo juntos. Es normal que te sientas sola. 
+sv	Ni har varit tillsammans så länge. Klart du är ensam. 
+th	พวกคุณอยู่ด้วยกันมานานมาก | แน่นอนว่าคุณจะเหงา | 
+tr	Çok uzun zamandır birlikteydiniz. Tabii yalnızlık çekersin. 
+vi	Hai người ở bên nhau từng ấy năm. | Tất nhiên là chị thấy cô đơn. | 
+zh-long	你們在一起那麼久，當然會寂寞 
+zh-short	你们在一起那么久了 你当然会觉得寂寞 
+ja	長年 連れ添ったんだ | 当然さ | 
+

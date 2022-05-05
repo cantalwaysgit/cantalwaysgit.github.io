@@ -1,0 +1,24 @@
+ja	すでにバスケの | 審判の職を決めてある | 
+ar	&rlm;‏‏لكنني حصلت له على عمل كحكم | &rlm;‏لفريق "هارلم غلوبتروترز".‏ | 
+da	men jeg har skaffet ham et job som dommer for Harlem Globetrotters. 
+el	αλλά τον προσέλαβαν για διαιτητή στους Χάρλεμ Γκλόουμπτροτερς. 
+en	but I already got him a job as a referee | for the Harlem Globetrotters. | 
+fi	mutta hankin jo hänelle pestin Harlem Globetrottersista. 
+fr	mais je lui ai dégoté un boulot d'arbitre chez les Harlem Globetrotters. 
+he	&rlm;‏‏אבל השגתי לו עבודה כשופט | &rlm;‏של ההארלם גלובטרוטרס.‏ | 
+id	tapi aku sudah dapatkan dia pekerjaan sebagai wasit untuk Harlem Globetrotters. 
+it	ma gli ho procurato un lavoro come arbitro degli Harlem Globetrotters. 
+ko	대신 이미 다른 곳에 | 자리를 알아뒀어 | 
+no	men jeg har skaffet ham jobb som dommer for Harlem Globetrotters. 
+pl	ale załatwiłem mu już posadkę sędziego w Harlem Globetrotters. 
+pr-br	mas arrumei um emprego de árbitro dos Harlem Globetrotters. 
+pr	mas já lhe arranjei emprego como árbitro dos Harlem Globetrotters. 
+ro	dar i-am făcut deja rost de un post de arbitru la Harlem Globetrotters. 
+sp-eu	Pero le he buscado trabajo como árbitro de los Harlem Globetrotters. 
+sp	pero le conseguí empleo como referí de los Harlem Globetrotters. 
+th	แต่ฉันหางานให้เขาไปเป็นกรรมการ | ให้ฮาร์เล็มโกล้บทร็อตเตอร์ส | 
+tr	ama ona Harlem Globetrotters için hakemlik işi ayarladım. 
+vi	nhưng tôi đã lo cho anh ta | làm trọng tài cho Harlem Globetrotters. | 
+zh-long	但我幫他安插了 哈林籃球隊裁判的位置 
+zh-short	可我给他谋到了 哈林花式篮球队裁判的差事 
+

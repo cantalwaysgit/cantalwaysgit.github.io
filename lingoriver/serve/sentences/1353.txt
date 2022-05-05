@@ -1,0 +1,26 @@
+id	Itu sebenarnya terpikir olehku. 
+ja	それはいい考えだ　じゃあ… | 
+ru	Хорошая мысль. 
+ar	&rlm;‏إنها فكرة جيدة في الواقع.‏ | 
+da	Det er en idé. 
+el	Αυτή είναι μια καλή σκέψη. 
+fi	Siinä on ideaa. 
+fr	C'est pas bête comme idée. 
+he	&rlm;‏זה רעיון לא רע.‏ | 
+it	È un'idea. 
+nl	Dat is een idee. 
+pl	To akurat niezła myśl. 
+pr	Até é boa ideia. 
+pr-br	É uma boa ideia. 
+ro	Ar fi o idee și asta. 
+sp	Es una buena idea. 
+sp-eu	No es mala idea. 
+sv	Det var ju en idé. 
+th	นั่นก็เป็นความคิดหนึ่ง | 
+tr	Bu da bir fikir tabii. 
+vi	Đó là một ý tưởng. | 
+zh-long	好像是個好主意 
+zh-short	这主意不错 
+ko	그것도 괜찮겠네요 | 
+en	-That's... that's actually a thought. | -[Peter groans] | 
+

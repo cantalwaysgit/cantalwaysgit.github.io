@@ -1,0 +1,27 @@
+ja	面白いことになるわ | 
+id	Kita akan tertawa lepas. Ayolah. 
+ru	Да ну, посмеемся. Давай! 
+zh-short	我们会笑掉大牙的 拜托 
+pl	Będzie ubaw. No weź. 
+th	เราจะได้หัวเราะกันท้องแข็งไง | เอาหน่อยนะ | 
+ar	&rlm;‏سنضحك كثيراً. هيا.‏ | 
+da	Vi vil grine røven ud af bukserne. 
+el	Θα ρίξουμε πολύ γέλιο. Κάν' το. 
+en	Oh, we'll laugh our asses off. Come on. | 
+fi	Saamme hyvät naurut. 
+fr	Ça sera trop drôle. Allez. 
+he	&rlm;‏אנחנו ניקרע מצחוק. בחייך.‏ | 
+it	Ci faremo delle belle risate. Dai. 
+nl	Dat wordt lachen. Kom op. 
+no	Vi kommer til å le oss i hjel. Kom igjen. 
+pr-br	Vamos morrer de rir. Diga. 
+pr	Vamos fartar-nos de rir. Vá lá. 
+ro	O să râdem de-o să ne prăpădim. Hai! 
+sp-eu	Nos partiremos. Vamos. 
+sp	Nos moriremos de risa. Vamos. 
+sv	Vi skulle skratta ihjäl oss. Kom igen. 
+tr	Gülmekten öleceğiz. Hadi ama. 
+vi	Chúng ta sẽ được trận cười. Đi mà. | 
+zh-long	我們會笑到翻過去，好啦 
+ko	배 잡고 웃을 거예요 | 해 봐요 | 
+

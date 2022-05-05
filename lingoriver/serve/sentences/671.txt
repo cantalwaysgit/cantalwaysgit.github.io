@@ -1,0 +1,27 @@
+ru	Спасибо от всего сердца. Сейчас прослушаю. 
+id	Terima kasih dari lubuk hatiku. Akan kudengarkan. 
+ar	&rlm;‏شكراً لك من أعماق قلبي. سوف أستمع للمقطع.‏ | 
+da	Jeg takker dig af hele mit hjerte. Jeg skal lige høre det. 
+el	Σ' ευχαριστώ από τα βάθη της καρδιάς μου. Τώρα, θα βάλω να το ακούσω. 
+en	Thank you from the bottom of my heart. | I'm gonna take a listen. | 
+fi	Kiitos koko sydämestäni. Kuunnellaanpa. 
+fr	Merci du fond du cœur. Je vais me la repasser. 
+he	&rlm;‏תודה מעומק לבי. אני הולך להקשיב.‏ | 
+it	Grazie dal profondo del cuore. Adesso la riascolto. 
+ja	本当にありがとう | 聴いてみよう | 
+nl	Echt hartstikke bedankt. Ik ga luisteren. 
+no	Takk, med hele mitt hjerte. Jeg skal høre på det. 
+pl	Z głębi serca dziękuję. Teraz sobie to odsłuchamy. 
+pr-br	Agradeço do fundo do coração. Vou ouvir agora. 
+pr	Obrigado do fundo do coração. Eu vou ouvir. 
+ro	Îți mulțumesc din suflet. Acum voi asculta. 
+sp-eu	Gracias desde el fondo de mi corazón. Voy a escucharlo. 
+sp	Gracias desde lo profundo de mi corazón. Voy a escucharla. 
+th	ขอบคุณจากก้นบึ้งหัวใจ ผมจะฟังละนะ | 
+tr	Sana yürekten teşekkür ederim. Şimdi tekrar dinleyeceğim. 
+vi	Cảm ơn cô từ tận đáy lòng. | Tôi sẽ nghe lại. | 
+zh-long	打從心底感謝妳 我要再來聽聽看 
+zh-short	我真心实意地感谢你 我要好好听听看 
+sv	Tack från djupet av mitt hjärta. Jag ska lyssna igenom den. 
+ko	진심으로 고마워 | 한번 들어볼게 | 
+

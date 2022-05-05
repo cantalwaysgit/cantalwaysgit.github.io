@@ -1,0 +1,27 @@
+ja	なぜいつもウソばかりつく？ | 
+id	Sandy, kau selalu bohong. Memalukan. 
+ar	&rlm;‏أنت تكذب دوماً يا "ساندي". هذا محرج.‏ | 
+da	Sandy, du lyver hele tiden. Det er pinligt. 
+el	Σάντι, λες συνέχεια ψέματα. Είναι ντροπιαστικό. 
+en	Sandy, you lie all the time, man. | It's embarrassing. | 
+fi	Valehtelet jatkuvasti. Se on noloa. 
+fr	Sandy, tu mens comme tu respires. Ça me gêne pour toi. 
+he	&rlm;‏סנדי, אתה משקר כל הזמן. זה מביך.‏ | 
+it	Sandy, non fai che mentire. È imbarazzante. 
+nl	Je liegt constant. Het is gênant. 
+no	Du lyver hele tiden. Det er pinlig. 
+pl	Nie mogę już z tymi twoimi kłamstwami. 
+pr-br	Sandy, você só mente. É constrangedor. 
+pr	Sandy, estás sempre a mentir. É constrangedor. 
+ro	Sandy, minți tot timpul. E jenant. 
+sp-eu	Sandy, siempre mientes. Qué vergüenza. 
+sp	Sandy, mientes todo el tiempo. Da vergüenza. 
+sv	Du ljuger hela tiden. Det är pinsamt. 
+th	แซนดี้ คุณโกหกตลอดเวลา มันน่าละอาย | 
+tr	Sandy, sürekli yalan söylüyorsun. Utanç verici. 
+vi	Sandy, anh chuyên bịa đặt. Thật xấu hổ. | 
+zh-long	山迪，你一天到晚都在騙人 有夠丟臉 
+zh-short	桑迪 你总是满嘴扯谎 太丢脸了 
+ru	Сэнди, ты все время врешь. Слушать стыдно. 
+ko	거짓말을 입에 달고 사는군 | 창피한 짓이야 | 
+

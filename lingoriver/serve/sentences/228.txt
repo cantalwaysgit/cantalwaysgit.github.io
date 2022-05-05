@@ -1,0 +1,57 @@
+ar	&rlm;‏أتحبان الأفعوانيات؟‏ | 
+da	Kan I lide rutsjebaner? 
+el	Σας αρέσουν τα τρενάκια του λούνα παρκ; 
+en	You guys like roller coasters? | 
+fr	Vous aimez les montagnes russes ? 
+he	&rlm;‏אתן אוהבות רכבות הרים?‏ | 
+it	Vi piacciono le montagne russe? 
+ko	롤러코스터 좋아하니? | 
+nl	Houden jullie van achtbanen? 
+no	Liker dere berg-og-dal-baner? 
+pl	Lubicie kolejki górskie? 
+pr-br	Vocês gostam de montanhas-russas? 
+pr	Vocês gostam de montanhas-russas? 
+sp-eu	¿Os gustan las montañas rusas? 
+sp	¿Les gustan las montañas rusas? 
+sv	Gillar ni berg- och-dalbanor? 
+vi	Các cháu thích chơi tàu lượn chứ? | 
+zh-long	喜歡雲霄飛車嗎？ 
+zh-short	你们喜欢过山车吗？ 
+ja	ジェットコースターは好き？ | 
+tr	Hız treni sever misiniz? 
+fi	Pidättekö vuoristoradoista? 
+id	Kalian suka  roller coaster ? 
+ru	Любите американские горки? 
+ro	Vă place în montagnes russes? 
+th	ชอบรถไฟเหาะตีลังกาไหม | 
+
+es	Trabajé en el refugio para niños durante 20 años. 
+zh-short	我在儿童庇护所工作过20年 
+tr	20 yıl çocuk barınağında çalıştım. 
+da	Jeg arbejdede | på børnekrisecentret i 20 år. | 
+el	Δούλευα στον ξενώνα φιλοξενίας νέων για 20 χρόνια. 
+es-eu	Trabajé en el refugio para niños durante 20 años. 
+fr	J'ai travaillé dans un foyer pendant 20 ans. 
+he	‫עבדתי במקלט לבני נוער במשך 20 שנה.‬ | 
+hu	Húsz évig dolgoztam a gyerekmenhelyen. 
+id	Aku bekerja di penampungan anak-anak selama 20 tahun. 
+it	Ho lavorato al rifugio per ragazzi per 20 anni. 
+ja	&lrm;子供の保護施設で | &lrm;20年働いてました | 
+ko	&lrm;전 청소년 보호소에서 | &lrm;20년을 일했어요 | 
+nl	Ik heb 20 jaar in het kindertehuis gewerkt. 
+no	Jeg jobbet på barnehuset i 20 år. 
+pt	Trabalhei 20 anos no abrigo juvenil. 
+ro	Am lucrat 20 de ani la un adăpost pentru copii. 
+sv	Jag har jobbat med barn och unga i 20 år. 
+th	&lrm;ฉันเคยทำงานที่ศูนย์พักพิงเด็กมา 20 ปี | 
+vi	&lrm;Tôi làm việc ở nhà tạm cho trẻ em 20 năm. | 
+zh-long	我在兒童庇護所工作了20年 
+ms	Saya bekerja di tempat perlindungan kanak-kanak selama 20 tahun. 
+fi	Olin 20 vuotta töissä | lasten turvapaikassa. | 
+uk	Я працювала у дитячому притулку 20 років. 
+en	I worked at a children's shelter for 20 years. 
+ru	Я 20 лет проработала в детском приюте. 
+cs	Pracovala jsem 20 let v dětském domově. 
+hr	Radila sam 20 godina u dječjem skloništu. 
+pt-br	Trabalhei por 20 anos em um abrigo para crianças. 
+

@@ -1,0 +1,27 @@
+sp	Es jefe de Artistas y Repertorio. 
+id	Dia kepala Artis dan Repertoar. 
+ja	Ａ＆Ｒのトップよ | 
+ar	&rlm;‏إنه رئيس قسم إيجاد المواهب وتطويرها.‏ | 
+da	Han er chef for A&R. 
+el	Είναι υπεύθυνος ρεπερτορίου. 
+en	He's head of A&amp;R. | 
+fi	Hän on A&R-pomo. 
+fr	Il déniche les talents. 
+he	&rlm;‏הוא ראש מחלקת אמנים.‏ | 
+it	È a capo dei talent scout. 
+ko	아티스트 총괄 관리자예요 | 
+nl	Hij is hoofd A&R. 
+no	Han er leder for A&R. 
+pl	Jest łowcą talentów. 
+pr-br	Chefe de artistas e repertórios. 
+pr	É diretor de A&R. 
+ro	E șef la Artiști și Repertorii. 
+ru	Главный по талантам. 
+sp-eu	Es director de Nuevos Talentos. 
+sv	Han är chef för A&R. 
+th	หัวหน้าฝ่ายคัดสรรพัฒนาศิลปิน | 
+tr	Sanatçı ve Repertuar'ın başı. 
+vi	Anh ấy là giám đốc mảng A&amp;R. | 
+zh-long	他掌管藝人經紀部門 
+zh-short	他是艺人和产品部门主管 
+

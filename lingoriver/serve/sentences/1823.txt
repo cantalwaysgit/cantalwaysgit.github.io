@@ -1,0 +1,24 @@
+sv	Sandy! Jag tror att han får en hjärtattack. 
+ar	&rlm;‏‏- "ساندي"! | &rlm;‏- لا.‏ | 
+da	-Sandy! -Nej. 
+el	-Σάντι! -Όχι. 
+en	-Sandy! | -[Sandy] No. | 
+he	&rlm;‏‏סנדי! | &rlm;‏-לא.‏ | 
+it	- Sandy! - No. 
+ko	- 샌디! | - 안 돼 | 
+pr-br	-Sandy! -Não. 
+pr	- Sandy! - Não. 
+ro	- Sandy! - Nu. 
+sp-eu	- ¡Sandy! - No. 
+sp	- ¡Sandy! - No. 
+vi	- Sandy! | - Không. | 
+zh-long	-山迪！ -糟糕 
+zh-short	-桑迪！ -不 
+ja	サンディ！ | 
+id	- Sandy! - Tidak. 
+th	- แซนดี้ | - ไม่นะ | 
+ru	-Сэнди! -Нет! 
+pl	- Sandy! - Nie. 
+no	-Sandy! -Nei. 
+tr	-Sandy! -Hayır. 
+

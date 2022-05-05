@@ -1,0 +1,27 @@
+ru	Что я говорю о тебе 
+id	Kaulah yang kubicarakan Dan kaulah yang kumimpikan 
+ar	&rlm;‏أنت من أتحدث عنه وأنت من أحلم به‏ | 
+da	Det er dig, jeg mener Dig, som jeg drømmer om 
+el	Ότι για εσένα μιλάω κι εσένα ονειρεύομαι 
+en	♪ It's you who I speak of | And you who I dream of ♪ | 
+fi	Susta puhun vain Susta unelmoin 
+fr	C'est de toi que je parle Et dont je rêve 
+he	&rlm;‏‏עליך אני מדברת | &rlm;‏ועליך אני חולמת‏ | 
+it	È di te che parlo Sei tu che sogno 
+ko	내가 얘기하고 꿈꾸는 건 | 당신이야 | 
+nl	ik praat over je en droom van je 
+pl	O tobie wciąż mówię O tobie śnię 
+pr-br	Eu só falo de você E eu sonho com você 
+pr	É de ti que eu falo E contigo que sonho 
+ro	Despre tine vorbesc Și pe tine te visez 
+sp	Es de ti de quien hablo Tú con quien sueño 
+sp-eu	Solo hablo de ti Y solo sueño contigo 
+sv	Det är dig jag pratar om Och dig jag drömmer om 
+th	คุณคือคนที่ฉันพูดถึง | และคนที่ฉันฝันถึง | 
+tr	Dilimde sen varsın Düşlerimde sen 
+vi	Em đang nói về anh | Và đang mơ về anh | 
+zh-long	我想的念的全是你 
+zh-short	我说的是你 梦到的也是你 
+ja	あなたのことばかり話し | 　　あなたの夢ばかり見るの | 
+ru	И мечтаю о тебе 
+

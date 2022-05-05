@@ -1,0 +1,26 @@
+ja	目が覚めて | 　　はっきり分かった | 
+da	Jeg ved, hvad jeg ved 
+en	♪ All I know is what I know ♪ | 
+it	So soltanto quello che so 
+pl	Jedno wiem 
+ar	&rlm;‏كل ما أعرفه هو أن ما أعرفه‏ | 
+el	Το μόνο που ξέρω είναι ό,τι ξέρω 
+fi	Tiedän vain sen 
+fr	Je sais ce que je veux 
+he	&rlm;‏אני יודעת רק מה שאני יודעת‏ | 
+ko	난 내가 아는 것밖에 몰라 | 
+nl	alles wat ik weet, is wat ik weet 
+pr-br	Só sei o que sei 
+pr	Só sei aquilo que sei 
+ro	Tot ce știu e ceea ce știu 
+sp-eu	Solo sé lo que sé 
+sp	Solo sé lo que sé 
+sv	Jag vet bara det jag vet 
+tr	Şundan eminim ki 
+vi	Em chỉ biết có thế | 
+zh-long	我只知道我知道的 
+zh-short	我只知道这个 
+id	Yang kutahu hanya itu 
+th	ทั้งหมดที่รู้คือที่ฉันรู้ | 
+ru	Я знаю только то, что знаю 
+

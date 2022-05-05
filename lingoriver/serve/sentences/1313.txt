@@ -1,0 +1,27 @@
+en	[chuckles] Sandy, why don't you | take off your shoes? | 
+id	Sandy, lepaslah sepatumu. 
+ru	Может, разуешься? 
+ja	サンディ　靴を脱いで | 
+ar	&rlm;‏لم لا تخلع حذائك؟‏ | 
+da	Hvorfor tager du ikke skoene af? 
+el	Γιατί δε βγάζεις τα παπούτσια σου; 
+fi	Riisuisitko kenkäsi? 
+fr	Enlève tes chaussures. 
+he	&rlm;‏למה שלא תחלוץ את הנעליים שלך?‏ | 
+it	Perché non ti togli le scarpe? 
+nl	Wil je je schoenen uitdoen? 
+no	Kan du ta av deg skoene? 
+pl	Zdejmij buty. 
+pr-br	Por que não tira os sapatos? 
+pr	Queres descalçar-te? 
+ro	Ce-ar fi să te descalți? 
+sp-eu	¿Por qué no te quitas los zapatos? 
+sp	¿Por qué no te sacas los zapatos? 
+sv	Varför tar du inte av dig skorna? 
+th	ทำไมไม่ถอดรองเท้าออกล่ะ | 
+tr	Ayakkabılarını çıkarsana. 
+vi	Anh cởi giày ra nhé? | 
+zh-long	先脫個鞋子吧 
+zh-short	不如你把鞋脱了？ 
+ko	신발 벗어요 | 
+

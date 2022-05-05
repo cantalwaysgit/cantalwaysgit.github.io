@@ -1,0 +1,30 @@
+id	Aku sudah mendengar lagu barumu,  "Mr. DJ". 
+ru	Слышал твою новую песню, «Мистер диджей». 
+ja	新曲の「ミスターＤＪ」を | 俺の番組で歌ってくれ | 
+en	You know what? | I heard your new song, "Mr. DJ." | 
+ar	&rlm;‏‏سمعت أغنيتك الجديدة، "مستر دي جيه". | &rlm;‏أحبها. يجب أن تقدميها في العرض.‏ | 
+da	Jeg hørte din nye sang. Vild med den. Du skal synge den i programmet. 
+el	Μου άρεσε πολύ το νέο σου τραγούδι. Πρέπει να το πεις στην εκπομπή μου. 
+fi	Kuulin uuden "Mr. DJ" -kappaleesi. Tosi hyvä. Esitä se ohjelmassani. 
+fr	J'ai entendu "Mister DJ". J'adore. Viens la chanter dans mon émission. 
+he	&rlm;‏‏שמעתי את השיר החדש שלך, "מיסטר די-ג'יי". | &rlm;‏אני אוהב אותו. את צריכה לשיר אותו בתכנית.‏ | 
+it	Adoro il tuo nuovo pezzo, "Mr. DJ". Lo adoro. Vieni in trasmissione. 
+ko	신곡 ‘미스터 DJ’ | 잘 들었어요, 공연도 해줘요 | 
+nl	Ik hoorde je nieuwe nummer, 'Mr DJ'. Te gek. Je moet het in de show doen. 
+no	Jeg hørte den nye sangen din, "Mr. DJ". Digger den. Du må synge den i showet. 
+pl	Uwielbiam twoją piosenkę „Mister DJ”. Musisz ją zaśpiewać w programie. 
+pr-br	Ouvi a sua nova música, "Mr. DJ". Adorei. Tem que cantar no meu programa. 
+pr	Ouvi a tua canção, "Mr. DJ." Adoro. Tens de a cantar no programa. 
+ro	Am auzit noul tău cântec, "Domnule DJ". Îl ador. Trebuie să-l cânți la emisiune. 
+sp	Escuché tu nueva canción, "Sr. DJ". Me encanta. Cántala en mi programa. 
+sp-eu	He oído tu nueva canción, "Mr. DJ". Me encanta. Cántala en el programa. 
+sv	Jag hörde låten "Mr DJ". Jag älskar den. Du måste vara med i min show. 
+th	ผมได้ยินเพลงใหม่ของคุณ "คุณดีเจ" | ผมชอบมาก คุณต้องมาร้องในโชว์ของผม | 
+tr	Yeni şarkın "Mr. DJ"i dinledim. Bayıldım. Bizim programda söylemelisin. 
+vi	Tôi nghe bài mới của cô, "Anh chàng DJ." | Hay lắm. Cô nhất định phải biểu diễn. | 
+zh-long	我聽了妳的新歌“DJ先生” 我超愛的，妳一定要來我脫口秀表演 
+zh-short	我听了你的新歌《唱片骑师先生》 我非常喜欢 你应该上电视 
+id	- Aku suka. - Terima kasih. 
+en	I love it. It's off the chain. | You've gotta come on the show and do it. | 
+ru	Супер! Ты должна спеть её на шоу. 
+

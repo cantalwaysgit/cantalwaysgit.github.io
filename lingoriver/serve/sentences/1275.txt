@@ -1,0 +1,28 @@
+ar	&rlm;‏لكنه خسر أيضاً شخصاً يكن مشاعر نحوه.‏ | 
+da	men han mistede også en person, han havde følelser for. 
+el	αλλά και το άτομο για το οποίο έτρεφε αισθήματα. 
+en	but he also lost this person | he had feelings for. | 
+fi	Hän menetti ihmisen, jota kohtaan hänellä oli tunteita. 
+fr	mais aussi la fille qu'il aimait. 
+he	&rlm;‏‏הוא גם הפסיד את האישה | &rlm;‏שהיו לו רגשות כלפיה.‏ | 
+it	ma anche la persona per cui provava qualcosa. 
+ko	좋아했던 사람을 잃었으니까요 | 
+nl	...hij verloor ook iemand voor wie hij iets voelde. 
+no	men også det mennesket han hadde følelser for. 
+pr-br	ele perdeu a pessoa de quem gostava. 
+pr	como também perdeu uma pessoa por quem tinha sentimentos. 
+ro	dar și pe cea față de care nutrea sentimente. 
+sp-eu	sino a una persona por la que sentía algo. 
+sp	sino también a alguien por quien tenía sentimientos. 
+sv	han hade också förlorat en person som han hade känslor för. 
+th	แต่ยังสูญเสียคนที่เขามีใจให้อีกด้วย | 
+tr	bazı hisler beslediği kişiyi de kaybetmişti. 
+vi	mà anh ấy còn để mất | người mà anh ấy có tình cảm. | 
+zh-long	更失去了讓他心動的伊人 
+zh-short	也是他爱的人 
+ru	но и женщину, 
+id	tapi dia juga kehilangan orang yang dia sayangi. 
+pl	ale również bliską osobę. 
+ja	好きになった女性を | 失ったんだ | 
+ru	которую полюбил. 
+

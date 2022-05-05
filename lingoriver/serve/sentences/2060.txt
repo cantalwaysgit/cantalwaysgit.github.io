@@ -1,0 +1,27 @@
+ar	&rlm;‏‏وبدأ يتواصل مع زبائنه القدامى | &rlm;‏واحداً تلو الآخر.‏ | 
+da	Og han begyndte at kontakte sine gamle klienter. 
+el	Άρχισε να αναζητά τους παλιούς του πελάτες. 
+en	And he started reaching out | one by one to his old clients. | 
+fi	Hän otti yhteyttä entisiin asiakkaisiinsa. 
+fr	Il a rappelé tous ses anciens clients. 
+he	&rlm;‏‏והוא התחיל ליצור קשר | &rlm;‏עם הלקוחות הישנים שלו.‏ | 
+id	Lalu dia mulai menghubungi klien lamanya satu per satu. 
+it	Uno a uno, i vecchi clienti tornarono da lui. 
+ko	예전 고객 하나하나에 | 다시 손을 내밀기 시작했죠 | 
+nl	En hij zocht weer contact met zijn vroegere cliënten. 
+no	Han begynte å kontakte gamle klienter. 
+pl	Zaczął odzyskiwać swoich dawnych klientów. 
+pr-br	E ele começou a procurar seus antigos clientes um por um. 
+pr	E começou a contactar cada um dos seus antigos clientes. 
+ro	A început să-și caute foștii clienți. 
+ru	Он начал возвращать своих старых клиентов. 
+sp	Comenzó a comunicarse con sus antiguos clientes. 
+sp-eu	Y empezó a hablar con cada uno de sus antiguos clientes. 
+sv	Han tog kontakt med alla sina gamla klienter. 
+th	เขาเริ่มติดต่อลูกค้าเก่าทีละคน | 
+tr	Bir bir eski sanatçılarına kavuştu. 
+vi	Và anh ta bắt đầu tìm lại | từng khách hàng cũ. | 
+zh-long	他開始聯絡之前的旗下藝人 
+zh-short	他开始一个个地去找他以前的客户 
+ja	かつての所属タレントに | 連絡を取った | 
+

@@ -1,0 +1,51 @@
+ru	Не знаю. 
+ar	&rlm;‏لا أدري.‏ | 
+da	Jeg ved det ikke. 
+el	Δεν ξέρω. 
+en	I don't know. | 
+fi	En tiedä. 
+fr	J'en sais rien. 
+he	&rlm;‏אני לא יודעת.‏ | 
+it	Non lo so. 
+no	Jeg vet ikke. 
+pl	Nie wiem. 
+pr-br	Não sei. 
+pr	Não sei. 
+ro	Nu știu! 
+sp-eu	No lo sé. 
+sp	No lo sé. 
+sv	Jag vet inte. 
+th	ฉันไม่รู้ | 
+tr	Bilmiyorum. 
+vi	Tôi không biết. | 
+zh-long	我不知道 
+zh-short	我不知道 
+id	Entahlah. 
+ko	모르겠어요 | 
+ja	知らないわ | ここに越してからずっとよ | 
+ru	Это началось, когда я переехала. 
+ar	&rlm;‏أعاني من هذا الأمر منذ انتقلت إلى هنا.‏ | 
+da	Det har stået på, siden jeg flyttede ind. 
+el	Συμβαίνει από τότε που μετακόμισα εδώ. 
+en	I've been dealing with this | ever since I moved into this place. | 
+fi	Se alkoi heti, kun muutin tänne. 
+fr	C'est depuis que j'ai emménagé. 
+he	&rlm;‏אני מתמודדת עם זה מאז שעברתי לכאן.‏ | 
+it	Va avanti da quando mi sono trasferita qui. 
+nl	Dat gebeurt sinds ik hier woon. 
+no	Det har vært sånn siden jeg flyttet inn. 
+pl	Jest tak, od kiedy się tu wprowadziłam. 
+pr-br	Acontece desde que me mudei para cá. 
+pr	Tem acontecido desde que me mudei para cá. 
+ro	Am problema asta de când m-am mutat. 
+sp-eu	Lleva pasando desde que me mudé. 
+sp	Tengo este problema desde que me mudé. 
+sv	Jag har haft problem ända sen jag flyttade in. 
+th	เจอเรื่องนี้ตั้งแต่ย้ายมาอยู่ที่นี่ | 
+tr	Buraya taşındığımdan beri böyle. 
+vi	Chuyện này xảy ra từ lúc tôi chuyển đến. | 
+zh-long	從我搬進來就一直這樣 
+zh-short	从我一搬进来就这样 
+id	Aku mengalaminya sejak pindah kemari. 
+ko	여기로 이사한 뒤로 | 계속 그래요 | 
+

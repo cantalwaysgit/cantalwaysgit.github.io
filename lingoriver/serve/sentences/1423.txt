@@ -1,0 +1,27 @@
+ar	&rlm;‏سُررت برؤيتك يا عزيزي.‏ | 
+da	Godt at se dig, skat. 
+el	Χάρηκα που σε είδα. 
+en	[Courtney] Good to see you, babe. | 
+fi	Oli kiva nähdä, muru. 
+fr	Ça m'a fait plaisir. 
+he	&rlm;‏טוב לראות אותך, מותק.‏ | 
+it	È stato un piacere. 
+nl	Het was leuk om je te zien. 
+pl	Miło było cię widzieć. 
+pr-br	Foi bom vê-lo, querido. 
+pr	Foi bom ver-te, querido. 
+ro	Mă bucur că te-am văzut, dragule! 
+sp-eu	Me alegro de verte, cielo. 
+sp	Fue un gusto verte, cariño. 
+sv	Kul att se dig. 
+th	ดีใจที่ได้เจอ ที่รัก | 
+tr	Seni görmek güzeldi canım. 
+vi	Rất vui được gặp anh. | 
+zh-long	很開心見面了，寶貝 
+zh-short	见到你真好 亲爱的 
+ko	반가웠어요 | 
+ja	またね！ | 
+no	Fint å se deg. 
+id	Senang bisa bertemu. 
+ru	Рада была повидаться. 
+

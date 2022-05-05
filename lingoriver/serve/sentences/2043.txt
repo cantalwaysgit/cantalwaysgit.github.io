@@ -1,0 +1,52 @@
+id	- Mari kita mulai. - Ya, jangan membuatnya marah. 
+ar	&rlm;‏‏- لنقم به. | &rlm;‏- دعينا لا نجعله يغضب.‏ | 
+da	-Lad os komme i gang. -Ja, han må ikke blive vred. 
+el	-Ας ξεκινήσουμε. -Καλύτερα να μην τον εκνευρίσουμε. 
+en	-Let's get to it. | -Yeah, let's not get him mad. | 
+fi	-Aloitetaan. -Ei suututeta häntä. 
+fr	- Allons-y. - N'allons pas le contrarier. 
+he	&rlm;‏‏בוא נעשה את זה. | &rlm;‏-כן, בואי לא נעצבן אותו.‏ | 
+it	- Diamoci da fare. - Sì, non facciamolo arrabbiare. 
+nl	Laten we het doen. -Ja, we mogen hem niet boos maken. 
+no	-Kom igjen. -Ja, ikke gjør ham sint. 
+pr-br	-Vamos nessa. -Sim, não vamos deixá-lo bravo. 
+pr	- Vamos tratar disso. - Sim, é melhor não o enfurecer. 
+ro	- Să începem! - Da, să nu-l supărăm. 
+sp-eu	- Vamos a ello. - Sí, que no se enfade. 
+sp	- Vamos a hacerlo. - Sí, no hagamos que se enoje. 
+th	- มาทำพิธีกันเถอะ | - ใช่ อย่าทำให้เขาโกรธ | 
+tr	-Hadi bakalım. -Evet, onu kızdırmayalım. 
+vi	- Tổ chức đi nào. | - Phải, đừng làm ông ấy giận. | 
+zh-long	-辦正事吧 -也是，千萬別激怒他 
+zh-short	-赶紧开始吧 -对 别让他等急了 
+ru	-Давайте за дело. -Не будем его злить. 
+sv	-Nu kör vi. -Vi ska inte reta upp honom. 
+pl	- Do dzieła. - Tak, nie chcemy go złościć. 
+ko	- 시작하죠 | - 화나시게 하지 말자 | 
+ja	怒らせないほうがいいな | 
+ar	&rlm;‏أنت محق.‏ | 
+da	Du har ret. 
+el	Έχεις δίκιο. 
+en	Yeah, you're right. | 
+fi	Olet oikeassa. 
+fr	C'est pas faux. 
+he	&rlm;‏אתה צודק.‏ | 
+it	Giusto. 
+nl	Je hebt gelijk. 
+no	Du har rett. 
+pr-br	Você tem razão. 
+pr	Tens razão. 
+ro	Ai dreptate. 
+sp-eu	Tienes razón. 
+sp	Tienes razón. 
+th	พูดถูก | 
+tr	Haklısın. 
+vi	Phải đấy. | 
+zh-long	說得沒錯 
+zh-short	你说的对 
+ru	Ты прав. 
+sv	Du har rätt. 
+ko	그러시죠 | 
+id	Kau benar. 
+pl	Masz rację. 
+

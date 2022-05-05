@@ -1,0 +1,27 @@
+ar	&rlm;‏ماذا عن الإعلان التجاري لـ"منتوس"  | &rlm;الذي أُرجئ؟‏ | 
+da	Fik vi den reklamefilm, hvor de bad os vente? 
+el	Πήραμε το διαφημιστικό που ήμουν στη λίστα αναμονής; 
+en	Hey, did we get the offer on | the Mentos commercial I was on hold for? | 
+fi	Entä se mainoskeikka, jota odotan? 
+fr	J'étais sur liste d'attente pour une pub, non ? 
+he	&rlm;‏מה עם הפרסומת שאמרת שאנחנו בהמתנה?‏ | 
+id	Aku masih di daftar tunggu iklan Mentos? 
+it	Novità di quella pubblicità per cui sono in attesa? 
+ko	보류 중이던 광고는 | 어떻게 됐어요? | 
+nl	En die commercial waarvoor ik in de wacht sta? 
+no	Fikk vi Mentos-reklamen jeg sto på vent for? 
+pl	Dali znać w sprawie reklamy mentosów? 
+pr-br	E o comercial do Mentos que me colocaram na espera? 
+pr	Conseguimos o anúncio da Mentos em que tinha ficado na lista de espera? 
+ro	Ce se mai aude cu reclama pe care se așteptau s-o filmez? 
+ru	Что с рекламой «Ментос», которую мне обещали? 
+sp-eu	¿Qué ha sido del anuncio para el que me estaban esperando? 
+sp	¿Y el comercial de Mentos que estábamos esperando? 
+sv	Nåt svar från reklamfilmen som jag förväntades göra? 
+th	แล้วงานโฆษณาที่ฉันรอคิวอยู่ล่ะ | 
+tr	Beni beklettikleri reklam işi ne oldu? 
+vi	Mục quảng cáo mà tôi đang chờ sao rồi? | 
+zh-long	我在等的那支廣告結果怎麼樣？ 
+zh-short	那个暂停的广告拍摄有消息了吗？ 
+ja	保留になってたＣＭは？ | 
+

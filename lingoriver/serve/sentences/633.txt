@@ -1,0 +1,27 @@
+ja	美しきバタフライ | 　　気づいてないでしょう | 
+ru	Бабочки, бабочки 
+da	Sommerfugle Du ved det slet ikke 
+id	Gembira, gembira dan kau bahkan tidak tahu 
+ar	&rlm;‏إثارة بشكل لا تعرفه حتى‏ | 
+el	Πεταλούδες, πεταλούδες Και δε γνωρίζεις καν 
+en	♪ Butterfly, butterfly | You don't even know ♪ | 
+fi	Perhonen Vaikka tiedä et 
+fr	Mon corps frissonne Tu n'as pas idée 
+he	&rlm;‏‏פרפרים, פרפר | &rlm;‏אתה אפילו לא יודע‏ | 
+it	Farfalle, farfalla Neanche te ne rendi conto 
+ko	설렘, 당신은 모를 거야 | 
+nl	vlinders, je weet het niet 
+pl	Czuję motylki Ogarniają mnie 
+pr-br	Tantos arrepios Você nem imagina 
+pr	Provocas-me arrepios Que nem imaginas 
+ro	Fluturi Nici nu știi 
+sp-eu	Mariposas, mariposas No te lo imaginas 
+sp	Mariposas, mariposas Ni siquiera sabes 
+sv	Fjärilar, fjärilar Som du inte ens vet om 
+th	ผีเสื้อ ผีเสื้อที่คุณไม่เคยรู้ | 
+tr	Kelebekler ki Haberin bile yok 
+vi	Xao động, xao động | Anh không hề biết | 
+zh-long	你從不知道的悸動 
+zh-short	紧张不安 你甚至都未察觉 
+ru	Ты даже не знаешь 
+

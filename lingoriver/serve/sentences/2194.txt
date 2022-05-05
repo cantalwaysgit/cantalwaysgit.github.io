@@ -1,0 +1,27 @@
+id	Kau memikirkan "ereksi". 
+ru	Ты сказал «голый Вуд»! 
+ar	&rlm;‏قلت "منتصب".‏ | 
+da	Du lyder "stiv". 
+el	Είπες "βάλαμε". 
+en	You said "wood." | 
+fi	Sanoit "seisoo". 
+fr	La reine, plutôt. 
+he	&rlm;‏אמרת להתעסק.‏ | 
+it	Hai detto "duro". 
+ko	딱딱하게 섰다고요? | 
+nl	Je zei 'lid'. 
+no	Du sa "wood". 
+pl	Powiedziałeś „pała”. 
+pr-br	Você disse "metido". 
+pr	Disseste que o "meteste". 
+ro	Ai zis că ți-ai pus-o. 
+sp	Dijiste "duros". 
+sp-eu	Has dicho "joder". 
+sv	Du sa "stånd". 
+th	พูดว่า "วูด" | 
+tr	"Gösteririm" dedin. 
+vi	Anh nói "bút". | 
+zh-long	你說“搞” 
+zh-short	你说了“勃起” 
+ja	ＳＭの女王様？ | 
+

@@ -1,0 +1,27 @@
+id	Kurasa aku juga seharusnya menyebut soal penjara. 
+ru	Надо было упомянуть про тюрьму. 
+ja	パパは刑務所にいるの | 
+ar	&rlm;‏كان يجب أن أذكر أمر السجن.‏ | 
+da	Jeg burde have nævnt det med fængslet. 
+el	Ίσως έπρεπε να αναφέρω και τη φυλακή. 
+en	[Courtney] I guess I should have also | mentioned the prison thing. | 
+fi	Olisi pitänyt mainita vankilasta. 
+fr	J'aurais aussi dû parler de la prison. 
+he	&rlm;‏הייתי צריכה להזכיר את העניין עם הכלא.‏ | 
+it	Avrei dovuto dirti anche della prigione. 
+ko	감옥에 계신다는 것도 | 말씀드릴 걸 그랬네요 | 
+nl	Ik had ook iets moeten zeggen over de gevangenis. 
+no	Jeg burde ha nevnt det med fengselet. 
+pl	Powinnam też wspomnieć o więzieniu. 
+pr-br	Eu também deveria ter mencionado o lance da cadeia. 
+pr	Também devia ter referido a questão da prisão. 
+ro	Trebuia să spun și despre închisoare. 
+sp	Debí haber mencionado lo de la prisión. 
+sp-eu	Y debí haber mencionado lo de la cárcel. 
+sv	Jag borde nog ha berättat om fängelset. 
+th	ฉันควรบอกเรื่องคุกด้วย | 
+tr	Hapishane olayından bahsetmem gerekirdi. 
+vi	Lẽ ra tôi nên nói trước về nhà tù. | 
+zh-long	我好像應該先說監獄的事 
+zh-short	我该告诉你的我爸在监狱里 
+

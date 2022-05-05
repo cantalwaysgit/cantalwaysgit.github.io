@@ -1,0 +1,27 @@
+ru	Как можно слышать фигуру? 
+ar	&rlm;‏كيف يمكنك سماع شكل؟‏ | 
+da	Hvordan kan du høre en form? 
+el	Πώς ακούς ένα σχήμα; 
+en	How can you hear a shape? | 
+fi	Miten muodon voi kuulla? 
+fr	Une forme, ça s'entend pas. 
+he	&rlm;‏איך אתה מצליח לשמוע צורה?‏ | 
+it	Come si fa a sentire una forma? 
+ko	모양을 어떻게 들어요? | 
+no	Hvordan kan du høre en form? 
+pl	Słyszysz kształty? 
+pr-br	Como consegue ouvir uma forma? 
+pr	Como consegues ouvir uma forma? 
+ro	Cum poți să auzi o formă? 
+sp	¿Cómo puedes oír una forma? 
+sp-eu	¿Cómo se oye una forma geométrica? 
+sv	Hur kan du höra en form? 
+th	จะได้ยินเสียงรูปทรงได้ยังไง | 
+tr	Bir şekli nasıl duyabilirsin? 
+vi	Sao anh nghe được hình dạng? | 
+zh-long	形狀怎麼聽得出來？ 
+zh-short	你怎么能听出形状来？ 
+nl	Kun je een vorm horen? -Het instrument. 
+ja	三角形(トライアングル)？ | 
+id	Kau bisa dengar bentuk? 
+

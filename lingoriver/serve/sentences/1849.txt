@@ -1,0 +1,27 @@
+id	dengan tambahan 200.000 dolar setiap tahun kita tayang. 
+ja	それから１年ごとに | ボーナス 20万ドルだ | 
+ru	и 200 тысяч прибавки за каждый год в эфире. 
+ar	&rlm;‏‏مع مكافأة بقيمة 200 ألف دولار عن كل سنة | &rlm;‏نظهر فيها في التلفاز.‏ | 
+da	med 200.000 i bonus for hvert år, vi er på TV. 
+el	και μπόνους 200.000 δολαρίων, για κάθε χρόνο που είμαστε στον αέρα. 
+en	with a 200K bump | every year we're on the air. | 
+fi	ja 200 000 taalan korotus joka vuodelta. 
+fr	avec une augmentation de 200 000 tous les ans. 
+he	&rlm;‏‏עם תוספת של 200 אלף | &rlm;‏על כל שנה שאנחנו משדרים.‏ | 
+it	con aumento di 200.000 dollari a stagione. 
+nl	...plus $200.000 voor elk jaar dat we uitzenden. 
+no	med en økning på 200 000 for hvert år vi er på lufta. 
+pl	Do tego premia 200 tysięcy po każdym roku na antenie. 
+pr-br	mais US$ 200 mil a cada ano que ficarmos no ar. 
+pr	com um bónus de 200 mil dólares por cada ano no ar. 
+ro	cu un bonus de 200.000 pentru fiecare an de emisie. 
+sp	con un aumento de 200 000 por cada año que esté en el aire. 
+sp-eu	y 200 000 más por cada año que salgamos en antena. 
+sv	inklusive 200 000 per år varje gång vi visas på TV. 
+th	โบนัสสองแสนต่อทุกปีที่ออกอากาศ | 
+tr	yayında olduğumuz her yıl için de 200.000 zam. 
+vi	mỗi năm lên sóng tăng thêm 200 ngàn. | 
+zh-long	每持續一年再加二十萬 
+zh-short	播出期间每年另加20万奖金 
+ko	방영될 때마다 | 매년 20만 달러씩 올려줘요 | 
+

@@ -1,0 +1,56 @@
+id	Dalam banyak hal disebut Yang terbaik yang ada 
+ru	Скажем просто: я лучше всех 
+th	ว่ากันตรงๆ แล้ว | คือเลิศที่สุดในเมือง | 
+ar	&rlm;‏"بكلمات كثيرة أنا الأفضل في المدينة‏ | 
+da	Bestemt byens bedste 
+el	Με τόσες πολλές λέξεις, Ο καλύτερος στην πόλη. 
+en	♪ In so many words | Say the best in town ♪ | 
+fi	On samaa mieltä siitä Kerma kaupungin 
+fr	Il m'a dit en ces mots Je suis le plus beau du coin 
+he	&rlm;‏‏במילים כה רבות אמרו | &rlm;‏הכי טוב בעיר‏ | 
+it	In poche parole Diciamo il migliore della città 
+ko	여러모로 동네 최고가 됐어 | 
+nl	dus eigenlijk de beste in de stad 
+pl	Ten ptak jest najlepszy Na cały świat 
+pr-br	Em muitas palavras dizer O melhor da cidade 
+pr	Em poucas palavras É o melhor que há 
+ro	Pe scurt Cea mai frumoasă 
+sp	En muchas palabras Decir que es el mejor de la ciudad 
+sp-eu	La verdad es que soy la mejor 
+sv	Kan inte sägas bättre Den finaste i stan 
+tr	Kısacası kentin en iyisi diyelim 
+vi	Rất nhiều người nói | Tôi đẹp nhất thị trấn | 
+zh-long	怎麼說都是最美的天鵝 
+zh-short	大家都毫不含糊地说 我是镇上最美的 
+ja	今 はっきり言える | 　　　 誰より美しいと | 
+
+it	Sei d'accordo che è colpa mia? Sono una cattiva madre? 
+ru	Ты согласен, что это моя вина? Я плохая мать? 
+zh-short	你也认为这是我的错吗？ 我是个糟糕的母亲吗？ 
+el	Συμφωνείς ότι φταίω εγώ; Είμαι κακή μητέρα; 
+fi	Onko tämä minun syytäni? | Olenko huono äiti? | 
+nl	Is het mijn schuld? Ben ik een slechte moeder? 
+uk	Ти згоден, що це моя провина? Що я погана мати? 
+cs	I podle tebe za to můžu já? Jsem špatná matka? 
+pt-br	Também acha que é culpa minha? Sou uma mãe ruim? 
+en	Do you agree that it's my fault? Am I a bad mother? 
+ms	Awak setuju itu salah saya? Saya ibu yang jahat? 
+ro	Crezi că e vina mea? Că am fost o mamă rea? 
+da	Er det min skyld? Er jeg en dårlig mor? | 
+es-eu	¿Crees que es culpa mía y que soy mala madre? 
+fr	C'est ma faute ? Je suis une mauvaise mère ? 
+he	‫אתה מסכים שזאת אשמתי? שאני אמא גרועה?‬ | 
+hr	Slažeš li se da sam ja kriva? Jesam li loša majka? 
+hu	Szerinted is az én hibám? Rossz anya vagyok? 
+id	Kau setuju itu salahku? Apa aku ibu yang buruk? 
+ja	&lrm;私のせい？ | &lrm;私は悪い母親なの？ | 
+ko	&lrm;당신도 내 잘못이었다고 생각해? | &lrm;내가 나쁜 엄마야? | 
+pt	Também achas que a culpa é minha? Sou má mãe? 
+sv	Är det mitt fel? Är jag en dålig mamma? 
+th	&lrm;คุณเห็นด้วยว่าเป็นความผิดของฉันเหรอ | &lrm;ฉันเป็นแม่ที่แย่ใช่มั้ย | 
+tr	Benim hatam olduğuna katılıyor musun? Kötü bir anne miyim? 
+vi	&lrm;Anh đồng ý đó là lỗi của em à? | &lrm;Em là người mẹ tồi sao? | 
+zh-long	你認同這是我的錯嗎？ 我是壞母親嗎？ 
+no	Er du enig i at det er min feil? Er jeg en dårlig mor? 
+es	Es mi culpa, ¿no? ¿Soy una mala madre? 
+

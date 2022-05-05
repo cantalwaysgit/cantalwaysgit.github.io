@@ -1,0 +1,29 @@
+ar	&rlm;‏‏- سنأتي. | &rlm;‏- ما مشكلته؟‏ | 
+da	-Vi kommer. -Hvad er hans problem? 
+el	-Θα έρθουμε. -Τι πρόβλημα έχει; 
+en	-Okay. We'll be there. | -What's his problem? | 
+fi	-Tulemme kyllä. -Mikä tuota risoo? 
+fr	- On sera là. - Il va pas bien ou quoi ? 
+he	&rlm;‏‏נהיה שם. | &rlm;‏-מה הבעיה שלו?‏ | 
+it	- Ci saremo. - Ma che problema ha? 
+nl	We zullen er zijn. -Waar heeft hij last van? 
+no	-Vi kommer. -Hva er problemet hans? 
+pl	- Będziemy. - Ma jakiś problem? 
+pr-br	-Estaremos lá. -Qual é o problema dele? 
+pr	- Nós vamos. - Qual é o problema dele? 
+ro	- O să venim. - Ce problemă are? 
+sp	- Allí estaremos. - ¿Cuál es su problema? 
+sp-eu	- Estaremos ahí. - ¿Qué le pasa? 
+sv	-Vi kommer. -Vad är hans problem? 
+th	- เราจะไป | - เขามีปัญหาอะไร | 
+tr	-Orada olacağız. -Bunun derdi ne? 
+vi	- Chúng tôi sẽ đến. | - Anh ta sao vậy? | 
+zh-long	-我們一定到！ -他是怎樣？ 
+zh-short	-我们会去的 -他是怎么回事？ 
+id	Baiklah, kami akan hadir. 
+ja	必ず行くよ | 
+ko	- 갈게 | - 쟤 왜 저런대? | 
+ru	-Мы придем. -Кто его укусил? 
+ja	何だ？ | 
+id	Ada apa dengannya? 
+

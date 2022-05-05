@@ -18,3 +18,33 @@ fr	On est chez le duc de Gloucester.
 da	EN ORIGINAL FILM FRA NETFLIX 
 ja	立派なお屋敷だな | 
 
+pt-br	Se ele aparecer, por favor, nos avise. 
+fi	Kertokaa meille heti, | jos hän ilmestyy sinne. | 
+cs	Kdyby se objevil, dejte nám prosím vědět. 
+da	Hvis han dukker op, så giv os besked. | 
+el	Αν τον δείτε, σας παρακαλώ, ενημερώστε μας. 
+en	If he turns up, please let us know. 
+es-eu	Si aparece, por favor, avísanos. 
+es	Si aparece, avísennos, por favor. 
+fr	Si vous le voyez, prévenez-nous. 
+he	‫אם הוא יופיע, בבקשה תודיעו לנו.‬ | 
+hr	Ako se pojavi, javite nam, molim vas. 
+hu	Ha felbukkan, kérlek, szóljatok! 
+id	Jika dia muncul, beri tahu kami. 
+it	Se ricompare, fatecelo sapere. 
+ja	&lrm;アダムを見かけたら | &lrm;ご連絡ください | 
+ko	&lrm;혹시 보시면 연락주세요 | 
+nl	Laat het ons weten als hij opduikt. 
+no	Si ifra hvis han dukker opp. 
+pt	Se ele aparecer, avisem-nos, por favor. 
+ro	Dacă apare, să ne spuneți! 
+ru	Сообщите нам, если он появится. 
+sv	Hör av er om han skulle dyka upp. 
+th	&lrm;ถ้าเขาปรากฏตัว บอกเราด้วยนะ | 
+tr	Gelirse lütfen bize haber verin. 
+vi	&lrm;Nếu thằng bé xuất hiện, | &lrm;xin hãy cho chúng tôi biết. | 
+zh-long	如果他出現，請告訴我們 
+zh-short	如果你见到他 请通知我们 
+uk	Якщо він прийде до вас, повідомте. 
+ms	Jika dia muncul, beritahu kami. 
+

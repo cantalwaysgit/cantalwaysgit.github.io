@@ -1,0 +1,56 @@
+fr	Merci, c'est gentil. 
+ar	&rlm;‏‏- شكراً. أنت لطيف. | &rlm;‏- أجل.‏ | 
+da	-Tak. Sødt af dig. -Ja. 
+el	-Σ' ευχαριστώ. Είσαι γλυκός. -Ναι. 
+en	-Oh, thanks. You're sweet. | -Yeah. | 
+he	&rlm;‏‏תודה. אתה מתוק. | &rlm;‏-כן.‏ | 
+it	- Grazie. Che carino. - Già. 
+ko	- 고마워요, 다정하시네요 | - 네 | 
+nl	Bedankt. Lief van je. 
+pl	Dziękuję. To bardzo miłe. 
+pr-br	-Obrigada. Você é gentil. -É. 
+pr	- Obrigada. É muito gentil. - Sim. 
+ro	- Mersi. Ești drăguț. - Da. 
+sp-eu	- Gracias. Es muy amable. - Sí. 
+sp	- Gracias. Qué amable. - Sí. 
+sv	-Tack. Det var snällt sagt. -Ja. 
+th	- ขอบคุณค่ะ น่ารักจัง | - ครับ | 
+tr	-Sağ ol. Çok tatlısın. -Rica ederim. 
+vi	- Cảm ơn. Anh thật tốt. | - Vâng. | 
+zh-long	-謝謝，你人真好 -真的 
+zh-short	-谢谢 你真好 -好的 
+fi	Voi kiitos. Tämä on kornia mutta hauskaa. 
+ja	ありがとう | 古い題材だけどね | 
+id	- Terima kasih. Kau baik. - Ya. 
+ru	-Спасибо, это очень мило. -Да. 
+
+cs	Nahrává. 
+da	Det optager. | 
+el	Γράφει. 
+en	It's recording. 
+es	Está grabando. 
+es-eu	Está grabando. 
+fi	Nauhoittaa. | 
+fr	Ça filme. 
+he	‫זה מצלם.‬ | 
+hr	Snima. 
+hu	Működik. 
+id	Ya, ini CCTV. 
+it	Registra. 
+ja	&lrm;してるさ | 
+ko	&lrm;작동은 되는데요 | 
+ms	Ia merakam. 
+nl	Ze doen het. 
+no	Det tar opp. 
+pt-br	Está gravando. 
+pt	Está a gravar. 
+ru	Записывает. 
+th	&lrm;อัดอยู่ | 
+tr	Kayıtta. 
+uk	Записує. 
+vi	&lrm;Đang ghi. | 
+zh-long	有錄影 
+zh-short	在录像 
+sv	Ja, det gör den. 
+ro	Înregistrează. 
+

@@ -1,0 +1,84 @@
+ar	&rlm;‏قال إنه قد يجعلني مشوشاً. أظنه كان محقاً.‏ | 
+da	Han sagde, det kunne gøre mig omtåget. Han havde vist ret. 
+el	Είπε ότι ίσως μου φέρει θολούρα. Μάλλον είχε δίκιο. 
+en	He said it might make me foggy, | and I guess he was right. | 
+fi	Hän sanoi, että se voi sumentaa mieltä. 
+fr	Il a dit que ça m'embrouillerait. Il avait raison. 
+he	&rlm;‏‏הוא אמר שהיא עלולה לערפל אותי. | &rlm;‏אני מניח שהוא צדק.‏ | 
+it	Dice che potrei essere confuso. Mi sa che ha ragione. 
+ko	기억이 흐릿해질 수도 있다더니 | 정말 그렇네 | 
+nl	Hij zei dat ik wazig kon worden. Hij had gelijk. 
+no	Han sa jeg kunne bli rørete. Han hadde visst rett. 
+pl	Podobno trochę mieszają w głowie. Miał rację. 
+pr-br	Ele disse que eu poderia ficar confuso. Acho que tinha razão. 
+pr	Disse que podia causar confusão. Parece que tinha razão. 
+ro	A zis că aș putea deveni confuz. Cred că a avut dreptate. 
+sp	Dijo que podía sentir confusión. Supongo que tenía razón. 
+sp-eu	Me dijo que me aturdiría. Supongo que tenía razón. 
+sv	Han sa att jag kunde bli dimmig. Han hade visst rätt. 
+th	หมอบอกว่าอาจทำให้รู้สึกเลอะเลือน | เดาว่าหมอพูดถูก | 
+tr	Sersemlik yapabileceğini söylemişti. Haklı çıktı galiba. 
+vi	Ông ấy nói thuốc đó có thể làm tôi | bị lơ mơ. Chắc ông ấy nói đúng. | 
+zh-long	他說吃了會頭昏腦脹 果然沒錯 
+zh-short	他说这种药可能会让我恍惚 看来他说的不假 
+ja	副作用で頭が混乱してる | 
+id	Katanya itu bisa membuatku bingung dan kurasa dia benar. 
+ru	Оно может вызывать рассеянность. Вот и вызвало. 
+
+el	Κάτι θα συνέβη. 
+cs	Něco se muselo stát. 
+es	Debe haberle pasado algo, 
+tr	Kesinlikle bir şey olmuş. 
+it	Dev'essere successo qualcosa. 
+da	Der må være sket noget. | Noget så traumatiserende, | 
+en	Something must have happened. Something so traumatic 
+es-eu	Tuvo que pasar algo. Algo tan traumático 
+fi	Hänelle on täytynyt tapahtua | jotain niin traumaattista, | 
+fr	Il a dû se passer quelque chose d'assez traumatisant 
+he	‫משהו בטח קרה. משהו טראומטי כל כך‬ | 
+hr	Očito se nešto dogodilo, nešto tako traumatično 
+hu	Valami történhetett. Valami olyan traumatikus dolog, 
+id	Pasti terjadi sesuatu yang sangat traumatis 
+ja	&lrm;大人を | &lrm;信用できなくなるほどの― | 
+ko	&lrm;무슨 일이 있었던 거죠 | &lrm;심한 트라우마로 | 
+ms	Ada sesuatu berlaku. Sesuatu yang trauma 
+nl	Er moet iets gebeurd zijn. Iets zo traumatisch dat… 
+no	Noe må ha skjedd. Noe så traumatisk 
+pt	Deve ter acontecido alguma coisa tão traumatizante 
+ru	Явно случилось нечто, что его травмировало, 
+th	&lrm;ต้องเกิดเรื่องอะไรสักอย่างขึ้น | &lrm;เรื่องที่กระทบจิตใจมาก | 
+uk	Напевно, щось сталося. Щось таке, 
+vi	&lrm;Hẳn có chuyện gì đó. | &lrm;Điều gì đó gây tổn thương lớn | 
+zh-long	一定發生了什麼事，讓他傷心到 
+zh-short	肯定有事发生 这件事对他打击很大 
+pt-br	Aconteceu algo traumatizante que abalou a confiança dele nos adultos. 
+sv	Han måste ha varit med om nåt traumatiskt som fick honom att sluta lita på vuxna. 
+ro	Sigur s-a întâmplat ceva atât de traumatizant 
+el	Κάτι τόσο τραυματικό, που σταμάτησε να εμπιστεύεται τους ενήλικες. 
+cs	Něco zásadního, co jeho důvěru v dospělé podlomilo. 
+es	algo tan traumático que dejó de confiar en los adultos. 
+tr	Öyle travmatik bir şey ki yetişkinlere güvenmemeye başlamış. 
+it	Qualcosa di così traumatico che non si fida più degli adulti. 
+zh-short	让他不再相信大人 
+da	at han mistede tilliden til voksne. | 
+en	that he stopped trusting adults. 
+es-eu	que dejó de confiar en los adultos. 
+fr	pour qu'il se méfie des adultes. 
+he	‫שהוא הפסיק לבטוח במבוגרים.‬ | 
+hr	da je prestao vjerovati odraslima. 
+id	hingga dia berhenti memercayai orang dewasa. 
+ja	&lrm;衝撃的な何かがあった | 
+ko	&lrm;어른을 못 믿게 된 거죠 | 
+no	at han sluttet å stole på voksne. 
+pt	que deixou de confiar em adultos. 
+ru	и он перестал доверять взрослым. 
+th	&lrm;จนเขาไม่ไว้ใจผู้ใหญ่อีกต่อไป | 
+vi	&lrm;đến nỗi cậu ấy mất lòng tin ở người lớn. | 
+zh-long	不再相信大人 
+uk	через що перестав довіряти дорослим. 
+hu	hogy többé nem bízik a felnőttekben. 
+ro	încât i-a tăiat încrederea în adulți. 
+fi	että hän lakkasi luottamasta aikuisiin. | 
+nl	…hij volwassenen niet meer vertrouwde. 
+ms	sehingga dia tak percaya orang dewasa. 
+

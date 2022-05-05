@@ -1,0 +1,27 @@
+ar	&rlm;‏لهذا لديك إياي.‏ | 
+da	Det er derfor, du har mig. 
+el	Γι' αυτό έχεις εμένα. 
+en	That's why you have me. | 
+fi	Sitä varten sinulla on minut. 
+fr	C'est à ça que je sers. 
+he	&rlm;‏בשביל זה יש לך אותי.‏ | 
+it	Per questo ci sono io. 
+ko	내 역할이 뭐겠어? | 
+nl	Daar heb je mij voor. 
+pl	Po to masz mnie. 
+pr-br	É por isso que você tem a mim. 
+pr	É por isso que me tens a mim. 
+ro	De asta mă ai pe mine. 
+sp-eu	Por eso me tienes a mí. 
+sp	Por eso me tienes a mí. 
+sv	Det är det du har mig till. 
+tr	O yüzden ben varım ya. 
+vi	Thế nên cô cần tôi. | 
+zh-long	所以妳才需要我 
+zh-short	所以你才需要我 
+id	Karena itulah kau punya diriku. 
+ja	だから僕がいる | 
+no	Det er derfor du har meg. 
+ru	Но у тебя есть я. 
+th	เพราะงั้นถึงต้องมีผม | 
+

@@ -1,0 +1,28 @@
+en	You wanna go to it? | Why shouldn't... Let's pop by. | 
+ar	&rlm;‏‏أتريدين الذهاب إليها؟ | &rlm;‏لنذهب. إنه يعيش في حي "فينيسيا"، صحيح؟‏ | 
+da	Vil du gerne det? Vi kigger forbi. Han bor i Venice, ikke? 
+el	Θες να πάμε; Γιατί όχι; Ας περάσουμε. Στο Βένις δε ζει; 
+fi	Haluatko? Käväistään vain. Hänhän asuu Venicessä. 
+fr	Tu veux y aller ? On peut. Il vit à Venice, c'est ça ? 
+he	&rlm;‏‏את רוצה ללכת? בואי נקפוץ. | &rlm;‏הוא גר בווניס, נכון?‏ | 
+id	Kau mau? Kenapa tidak? Ayo ke sana. Dia di Venice, bukan? 
+it	Vuoi andare? Andiamo. Abita a Venice, vero? 
+ko	가고 싶어? 들르지 뭐 | 베니스에 사는 거 맞지? | 
+nl	Wil je gaan? We gaan even langs. Hij woont toch in Venice? 
+pl	Chcesz jechać? Nie ma sprawy. Mieszka w Venice, prawda? 
+pr-br	Quer ir? Vamos lá. Ele mora em Venice, certo? 
+pr	Queres ir? Vamos passar por lá. Ele mora em Venice, não é? 
+ro	Vrei să mergem? Hai! El stă în Venice, nu? 
+ru	Ты хочешь? Давай заскочим. Он же в Венис живет? 
+sp-eu	¿Quieres ir? Vamos a pasarnos. Vive en Venice, ¿no? 
+sp	¿Quieres ir? Vamos a ver. Vive en Venice, ¿no? 
+sv	Vill du gå? Vi kan kika in. Han bor väl i Venice? 
+th	คุณอยากไปใช่ไหม งั้นเราจะแวะไป | เขาอยู่ที่เวนิซไม่ใช่เหรอ | 
+tr	Gitmek istiyor musun? Bir uğrayalım. Venice'te oturuyor, değil mi? 
+vi	Cô muốn đến đó à? Ta ghé qua thôi. | Cậu ta sống ở Venice, nhỉ? | 
+zh-long	妳想去？那就去吧 他住威尼斯海灘，對吧？ 
+zh-short	你想去吗？我们去看看 他住在威尼斯 对吗？ 
+ja	ぱぱっと行こうか | ヴェニスだよな？ | 
+no	Vil du det? Vi kan stikke innom. Han bor i Venice, ikke sant? 
+en	He lives in Venice, right? | 
+

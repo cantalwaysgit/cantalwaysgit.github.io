@@ -1,0 +1,27 @@
+ar	&rlm;‏وداعاً من "فيروز".‏ | 
+da	Farvel fra Firuz. 
+el	Ο Φαρούζ σε αποχαιρετά. 
+fr	Firuz te dit au revoir. 
+he	&rlm;‏להתראות מפיירוז.‏ | 
+it	Firuz ti saluta. 
+nl	Groeten van Firuz. 
+pr	Adeus, do Firuz. 
+pr-br	Firuz se despede. 
+ro	Firuz spune "la revedere"! 
+sp	Adiós de Firuz. 
+sp-eu	Adiós de Firuz. 
+sv	Farväl från Firuz. 
+tr	Firuz kaçar. 
+vi	Tạm biệt từ Firuz. | 
+zh-long	再見 
+zh-short	菲鲁兹跟你说再见 
+en	-Goodbye from Firuz. | -[static] | 
+ja	じゃあな | 
+no	Farvel fra Firuz. 
+fi	Firuz sanoo hyvästi. 
+pl	Firuz żegna. 
+th	ลาก่อนจากไฟรูซ | 
+ru	Я прощаюсь с тобой. 
+id	Sampai jumpa dari Firuz. 
+ko	잘 있게 | 
+

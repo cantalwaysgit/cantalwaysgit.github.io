@@ -1,0 +1,26 @@
+id	Ayo, putarkan musik seksi, Willow. 
+ja	セクシーな曲を | 
+ru	Включим секси-музыку. 
+ar	&rlm;‏لنسمع موسيقى مثيرة يا "ويلو". | 
+da	Vi sætter noget sexet musik på. 
+el	Βάλτε λίγη αισθησιακή μουσική. 
+en	Come on. | Let's put on some sexy music, Willow. | 
+fi	Seksikästä musaa soimaan. 
+fr	Mets de la musique sexy. 
+he	&rlm;‏בואו נשים קצת מוזיקה סקסית.‏ | 
+it	Mettiamo della musica sexy. 
+ko	섹시한 음악 좀 켜 봐 | 
+no	Vi setter på sexy musikk. 
+pl	Włączcie seksowną muzykę. 
+pr-br	Vamos pôr música sexy. 
+pr	Ponham música sensual. 
+ro	Să punem niște muzică sexy! 
+sp-eu	Vamos a poner música sexi. 
+sp	Pongamos música sexi. 
+sv	Sätt på lite sexig musik. 
+th	เปิดเพลงเซ็กซี่กันหน่อยสิ | 
+tr	Seksi bir müzik koyalım. 
+vi	Mở chút nhạc gợi tình đi. | 
+zh-long	性感音樂給我放下去 
+zh-short	薇洛 来点性感的音乐 
+

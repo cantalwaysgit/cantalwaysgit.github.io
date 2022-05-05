@@ -1,0 +1,57 @@
+ja	炭水化物を取らずに | チキンとか… | 
+ko	앳킨스 다이어트를 한다고 | 늘 먹는 게 닭고기랑... | 
+id	Dia menjalani diet Atkins. Jadi, dia selalu makan ayam... 
+ru	Он был на диете Аткинса и всегда ел курицу... 
+ar	&rlm;‏‏كان يتبع حمية "أتكنز"، | &rlm;‏لذا كان يتناول الدجاج دوماً.‏ | 
+da	Han var på Atkins-diæt, så han fik altid kylling... 
+el	Έκανε τη δίαιτα Άτκινς κι έτρωγε συνεχώς κοτόπουλο... 
+en	I mean, he was on the Atkins diet, right? | So he always had, like, chicken... | 
+fi	Hän noudatti Atkinsia. Söi aina kanaa... 
+fr	Il suivait le régime Atkins, donc poulet... 
+he	&rlm;‏‏הוא היה בדיאטת אטקינס, | &rlm;‏אז הוא תמיד אכל עוף...‏ | 
+it	Faceva la dieta Atkins, quindi mangiava sempre pollo... 
+nl	Hij volgde het Atkinsdieet, dus hij nam altijd kip... 
+no	Han fulgte Atkins-dietten, så han hadde kylling... 
+pl	Był na diecie Atkinsa. Zawsze jadł kurczaka... 
+pr-br	Ele fazia a dieta Atkins, então sempre comia frango... 
+pr	Ele seguia a dieta Atkins, por isso, comia sempre frango... 
+ro	Urma dieta Atkins și mânca mereu pui... 
+sp-eu	Hacía la dieta Atkins, así que siempre había pollo. 
+sp	Seguía la dieta Atkins, así que siempre comía pollo... 
+sv	Han gick på Atkinsdieten, så han tog alltid kyckling. 
+th	เขากินตามสูตรแอตคินส์ | เลยมักมีไก่... | 
+tr	Atkins diyeti yaptığı için hep tavuk yerdi. 
+vi	Anh ta theo chế độ ăn kiêng Atkins, | nên luôn ăn thịt gà... | 
+zh-long	他信阿金減肥餐 所以一天到晚吃雞肉… 
+zh-short	他遵照阿特金斯饮食计划 所以他总吃鸡肉 
+
+it	Sei pazza. 
+uk	Ти збожеволіла. 
+hu	Te megőrültél. 
+id	Kau gila. 
+ru	Это бред. 
+es	Estás loca. 
+cs	Zbláznila ses? 
+da	Du er vanvittig. | 
+el	Είσαι τρελή. 
+en	You're insane. 
+es-eu	Desvarías. 
+fi	Olet sekaisin. | 
+fr	Tu es folle. 
+he	‫את לא שפויה.‬ | 
+hr	Luda si. 
+ja	&lrm;よくもそんな… | 
+ko	&lrm;미쳤군요 | 
+ms	Awak dah gila. 
+nl	Je bent gek. 
+no	Du er gal. 
+pt-br	Você está louca. 
+pt	Estás maluca. 
+ro	Ești nebună. 
+sv	Du är inte klok. 
+th	&lrm;เธอบ้าไปแล้ว | 
+tr	Sen delirmişsin. 
+vi	&lrm;Cô điên rồi. | 
+zh-long	妳瘋了 
+zh-short	你疯了 
+

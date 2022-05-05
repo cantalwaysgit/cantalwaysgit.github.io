@@ -1,0 +1,27 @@
+ar	&rlm;‏سأختار الذي في الزاوية اليمنى العليا.‏ | 
+da	Jeg vælger det i øverste højre hjørne. 
+el	Θα διαλέξω τη φωτογραφία της πάνω δεξιάς γωνίας. 
+en	I'm gonna go with the one | on the top right corner. | 
+fi	Otan tuon oikeanpuoleisen ylhäältä. 
+fr	Je vais choisir celle en haut, à droite. 
+he	&rlm;‏אני אלך עם זו בפינה הימנית למעלה.‏ | 
+id	Aku memilih yang di pojok kanan atas. 
+it	Mi piace quella in alto a destra. 
+nl	Ik kies die in de rechterbovenhoek. 
+no	Jeg tar det øverst til høyre. 
+pl	Wybieram to w prawym górnym rogu. 
+pr-br	Vou pegar a do canto superior direito. 
+pr	Vou escolher a do canto superior direito. 
+ro	O aleg pe cea din colțul din dreapta, sus. 
+sp-eu	Voy a elegir la de la esquina superior derecha. 
+sp	Me quedo con la de la esquina de arriba. 
+sv	Jag tar bilden i övre högra hörnet. 
+th	ฉันขอเลือกรูปที่อยู่มุมขวาบน | 
+tr	Ben sağ üst köşedekini seçiyorum. 
+vi	Tôi sẽ chọn hình ở góc phải trên cùng. | 
+zh-long	我要選最右上角那張 
+zh-short	我选右上方那个 
+ru	Я бы выбрала эту, в правом верхнем углу. 
+ko	오른쪽 위에 있는 거로 할게요 | 
+ja	この写真が | いいんじゃないかしら | 
+

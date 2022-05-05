@@ -1,0 +1,57 @@
+id	Orang itu bahkan tidak pernah menginjakkan kaki di Amerika Serikat. 
+ru	Он никогда даже не был в США. 
+ar	&rlm;‏‏لم يطأ الرجل | &rlm;‏أرض "الولايات المتحدة" أبداً حتى.‏ | 
+da	Manden havde aldrig været i USA. 
+el	Ο τύπος δεν ερχόταν ποτέ στις ΗΠΑ. 
+en	The guy never even set foot | in the United States. | 
+fi	Mies ei edes käynyt Yhdysvalloissa. 
+fr	Le type n'a jamais mis les pieds aux États-Unis. 
+he	&rlm;‏הבחור מעולם אפילו לא היה בארצות הברית.‏ | 
+it	Non aveva mai messo piede negli Stati Uniti. 
+ko	미국에는 발을 들이지도 않았죠 | 
+nl	Hij is nooit in de Verenigde Staten geweest. 
+no	Han satte aldri sine ben i USA. 
+pl	Nigdy nawet nie przyjechał do Stanów. 
+pr-br	O cara nunca colocou os pés nos EUA. 
+pr	O tipo nunca meteu os pés nos Estados Unidos. 
+ro	Tipul nici nu călcase pe pământ american. 
+sp	El tipo nunca vino a los Estados Unidos. 
+sp-eu	El tío jamás pisó Estados Unidos. 
+sv	Han hade aldrig varit i USA. 
+th	หมอนั่นไม่เคยเหยียบบนพื้นดินอเมริกา | 
+tr	Adam Birleşik Devletler'e adımını atmamıştı. 
+vi	Anh ta chưa từng đặt chân tới nước Mỹ. | 
+zh-long	那傢伙從沒踏上美國國土 
+zh-short	那人甚至从没来过美国 
+ja	アメリカに来たこともない男 | 
+
+it	Forse troverai qualcosa. 
+ru	Может, что-то нароешь. 
+uk	Може, щось знайдеш. 
+cs	Možná tam ještě něco najdeš. 
+da	Måske finder du noget. | 
+el	Ίσως βρεις κάτι. 
+en	Maybe you'll find something. 
+es-eu	Quizá encuentres algo. 
+es	Quizá encuentres algo. 
+fi	Ehkä sieltä löytyy jotain. | 
+fr	Tu trouveras peut-être un truc. 
+he	‫אולי נמצא שם משהו.‬ | 
+hr	Možda nešto pronađeš. 
+hu	Hátha találsz valamit.  
+id	Mungkin akan ada sesuatu. 
+ja	&lrm;何か見つかるかも | 
+ko	&lrm;뭔가 찾겠지 | 
+ms	Mungkin awak akan jumpa sesuatu. 
+nl	Misschien vind je iets. 
+no	Kanskje du finner noe. 
+pt-br	Talvez possa encontrar algo. 
+pt	Pode ser que encontres algo. 
+ro	Poate găsești ceva acolo. 
+sv	Du kanske hittar nåt där. 
+th	&lrm;อาจจะเจออะไรบ้าง | 
+tr	Belki bir şey bulursun. 
+vi	&lrm;Có lẽ cô sẽ tìm được gì đó. | 
+zh-long	也許會有所發現 
+zh-short	也许你会有所发现 
+

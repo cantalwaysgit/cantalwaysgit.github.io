@@ -1,0 +1,27 @@
+id	Dia bohong lagi. 
+ru	Опять врет. 
+ar	&rlm;‏إنه يكذب مجدداً.‏ | 
+da	Han lyver igen. 
+el	Πάλι ψέματα λέει. 
+en	He's lying again. | 
+fi	Hän valehtelee taas. 
+fr	Il ment. 
+he	&rlm;‏הוא שוב משקר.‏ | 
+it	Mente di nuovo. 
+ko	또 거짓말하네 | 
+no	Han lyver igjen. 
+pl	Znowu kłamie. 
+pr-br	Ele está mentindo de novo. 
+pr	Está outra vez a mentir. 
+ro	Iar minte. 
+sp-eu	Vuelve a mentir. 
+sv	Han ljuger igen. 
+th	เขาโกหกอีกแล้ว | 
+tr	Yine yalan söylüyor. 
+vi	Anh ta lại nói dối. | 
+zh-long	他又再騙人了 
+zh-short	他又在说谎了 
+nl	Hij liegt weer. -Nee. Ik lieg niet. 
+sp	- Está mintiendo otra vez. - No es cierto. No miento. 
+ja	ウソだぜ | 
+

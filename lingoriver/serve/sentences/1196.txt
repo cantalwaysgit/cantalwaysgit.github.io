@@ -1,0 +1,27 @@
+en	-Oh... She dared me to do it. | -What are you, 14, Sandy? | 
+id	Courtney menantangku melakukannya. 
+ru	Она меня подбила. 
+ja	彼女がやれと | 
+ar	&rlm;‏تحدتني لأقوم بالأمر.‏ | 
+da	Hun udfordrede mig til det. 
+el	Εκείνη με προκάλεσε. 
+fi	Courtney usutti minua. 
+fr	Elle m'a lancé un défi. 
+he	&rlm;‏היא אמרה לי לעשות את זה.‏ | 
+it	Mi ha istigato lei. 
+no	Hun utfordret meg. 
+pl	Ona mnie podpuściła. 
+pr	Ela desafiou-me a fazer aquilo. 
+ro	Ea m-a provocat s-o fac. 
+sp	Ella me hizo hacerlo. 
+sp-eu	Ella me retó. 
+sv	Hon utmanade mig. 
+th	เธอท้าผมให้ทำ | 
+tr	Beni Courtney kışkırttı. 
+vi	Cô ấy thách tôi làm thế. | 
+zh-long	是她激我的 
+zh-short	是她叫我干的 
+nl	Zij daagde me uit. -Hoe oud ben je, 14? 
+pr-br	-Ela me obrigou a fazer aquilo. -Quantos anos tem? Catorze? 
+ko	코트니가 시킨 거야 | 
+

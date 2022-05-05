@@ -1,0 +1,18 @@
+en	-[crew member laughing] | -[man] Yeah! | 
+ar	&rlm;‏أجل!‏ | 
+da	Ja! 
+el	Ναι! 
+he	&rlm;‏כן!‏ | 
+ko	오예! | 
+pr	Sim! 
+ro	Da! 
+sp-eu	¡Sí! 
+sp	¡Sí! 
+sv	Ja! 
+th	เย่ | 
+tr	Evet! 
+vi	Vâng! | 
+zh-long	-喔耶！ -讚啦 
+zh-short	-耶！ 
+id	Ya! 
+

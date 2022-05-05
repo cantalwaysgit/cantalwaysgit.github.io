@@ -1,0 +1,27 @@
+ar	&rlm;‏هل ستتزوجين؟‏ | 
+da	Skal du giftes? 
+el	Παντρεύεσαι; 
+en	You're getting married? | 
+fr	Tu te maries ? 
+it	Ti sposi? 
+nl	Ga je trouwen? 
+pr-br	Você vai se casar? 
+pr	Vais casar-te? 
+ro	Te măriți? 
+sp-eu	¿Te vas a casar? 
+sp	¿Vas a casarte? 
+sv	Ska du gifta dig? 
+th	จะแต่งงานเหรอ | 
+tr	Evleniyor musun? 
+vi	Em sắp kết hôn à? | 
+zh-long	妳要結婚了？ 
+zh-short	你要结婚了？ 
+id	Kau akan menikah? 
+ja	結婚するのか？ | 
+ru	Ты выходишь замуж? 
+ko	결혼해? | 
+fi	Oletko menossa vihille? 
+he	&rlm;‏את מתחתנת?‏ | 
+no	Skal du gifte deg? 
+pl	Wychodzisz za mąż? 
+

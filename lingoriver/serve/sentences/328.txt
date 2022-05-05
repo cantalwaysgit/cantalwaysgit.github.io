@@ -1,0 +1,27 @@
+ar	&rlm;‏أفضل من كل هذا؟‏ | 
+da	Er det bedre end det her? 
+en	You mean, better than all of this? | 
+fi	Tätä paremmanko? 
+fr	Mieux qu'ici ? 
+he	&rlm;‏טוב יותר מכל זה?‏ | 
+it	Meglio di questa? 
+nl	Beter dan dit allemaal? 
+no	Bedre enn alt dette? 
+pl	Większą niż ja tutaj? 
+pr-br	Melhor que tudo isso? 
+pr	Melhor do que isto? 
+ro	Mai bună decât asta? 
+sp-eu	¿Mejor que todo esto? 
+sp	¿Mejor que esto? 
+sv	Bättre än det här? 
+th	ดีกว่าทั้งหมดนี่เหรอ | 
+tr	Bundan daha iyi bir hayat mı? 
+vi	Tốt đẹp hơn thế này? | 
+zh-long	比這裡好？ 
+zh-short	比现在还好吗？ 
+id	Maksudmu, lebih baik dari ini? 
+el	Καλύτερη από τη δική μου; 
+ru	Лучше, чем я здесь? 
+ko	이런 삶보다 낫나요? | 
+ja	ここより上か？ | 
+

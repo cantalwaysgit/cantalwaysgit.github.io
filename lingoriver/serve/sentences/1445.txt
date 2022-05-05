@@ -1,0 +1,30 @@
+id	Terima kasih. 
+ru	Спасибо. 
+ja	ありがとう | 
+ar	&rlm;‏‏- شكراً لك. | &rlm;‏- سوف أخسر.‏ | 
+da	-Tak skal du have. -Jeg taber. 
+el	-Ευχαριστούμε. -Θα χάσω. 
+en	-Thank you. | -I'm gonna lose. | 
+fi	-Kiitos. -Minä häviän. 
+fr	- Merci. - Je vais perdre. 
+he	&rlm;‏‏תודה. | &rlm;‏-אני הולך להפסיד.‏ | 
+it	- Grazie. - Perderò. 
+no	-Takk. -Jeg kommer til å tape. 
+pl	- Dziękuję. - Przegram. 
+pr-br	-Obrigado. -Vou perder. 
+pr	- Obrigado. - Vou perder. 
+ro	- Mersi. - O să pierd. 
+sp-eu	- Gracias. - Voy a perder. 
+sp	- Gracias. - Voy a perder. 
+sv	-Tack. -Jag kommer att förlora. 
+th	- ขอบคุณ | - ผมจะแพ้ | 
+tr	-Teşekkür ederim. -Kaybedeceğim. 
+vi	- Cảm ơn. | - Tôi sẽ thua. | 
+zh-long	-謝謝 -我會輸 
+zh-short	-谢谢 -我会输的 
+ko	- 고마워요 | - 질 거예요 | 
+id	Aku akan kalah. 
+nl	Ik ga verliezen. -Dat weet je niet. Wacht even. 
+ja	絶対 負ける | 
+ru	Я проиграю. 
+

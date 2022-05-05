@@ -1,0 +1,23 @@
+fr	Félicitations, Sandy. 
+ar	&rlm;‏‏- تهانينا يا "ساندي". | &rlm;‏- أجل.‏ | 
+da	-Tillykke, Sandy. -Ja. 
+el	-Συγχαρητήρια, Σάντι. -Ναι. 
+en	-Congratulations, Sandy. | -Yeah. | 
+he	&rlm;‏‏ברכותיי, סנדי. | &rlm;‏-כן.‏ | 
+it	- Congratulazioni, Sandy. - Già. 
+no	-Gratulerer, Sandy. -Ja. 
+pl	- Gratulacje. - Tak. 
+pr-br	-Parabéns, Sandy. -É. 
+pr	- Parabéns, Sandy. - Sim. 
+ro	- Felicitări, Sandy! - Da. 
+sp-eu	- Enhorabuena, Sandy. - Sí. 
+sp	- Felicitaciones, Sandy. - Sí. 
+th	- ยินดีด้วยนะ แซนดี้ | - ครับ | 
+tr	-Tebrikler Sandy. -Evet. 
+vi	- Chúc mừng, Sandy. | - Vâng. | 
+zh-long	-恭喜啦，山迪 -是呀 
+zh-short	-祝贺你 桑迪 -是啊 
+id	- Selamat, Sandy. - Ya. 
+ko	- 축하해요, 샌디 | - 그래 | 
+ru	-Поздравляю, Сэнди. -Да. 
+

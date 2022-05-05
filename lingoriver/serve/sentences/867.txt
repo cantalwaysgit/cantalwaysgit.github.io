@@ -1,0 +1,28 @@
+id	- Jangan sampai dapat peringatan kedua. - Setuju. 
+ru	-Не дожидайся второго. -Понял. 
+ja	次は許さん | 
+ar	&rlm;‏‏- لا تود أن ترتكب غلطة ثانية. | &rlm;‏- أوافقك الرأي.‏ | 
+da	-Du ønsker ikke advarsel nummer to. -Nej. 
+el	-Δε θες να φτάσουμε στη δεύτερη. -Συμφωνώ. 
+en	-You don't want to get strike two. | -I... I agree. | 
+fi	-Toista ei kannata ottaa. -Olen samaa mieltä. 
+fr	- T'en veux pas un deuxième. - D'accord. 
+he	&rlm;‏‏אתה לא רוצה להגיע לפסילה שנייה. | &rlm;‏-אני מסכים.‏ | 
+it	- Fai in modo che non si ripeta. - D'accordo. 
+nl	Je wilt geen tweede. -Mee eens. 
+no	-Du vil ikke ha en til. -Enig. 
+pl	- Drugiej nie chcesz. - Zgadzam się. 
+pr-br	-Que o erro não se repita. -Concordo. 
+pr	- Não queres ser avisado duas vezes. - Concordo. 
+ro	- N-ai vrea să ajungi la a doua abatere. - De acord. 
+sp-eu	- No te conviene tener un segundo aviso. - Estoy de acuerdo. 
+sp	- No querrás la segunda. - Es cierto. 
+sv	-Du vill inte ha en andra varning. -Jag håller med. 
+th	- อย่าทำผิดครั้งที่สองนะ | - ตกลง | 
+tr	-İkinci hatan olmasın. -Tamam. 
+vi	- Anh không muốn nhận lần hai đâu. | - Tôi đồng ý. | 
+zh-long	-小心別兩出局 -沒問題 
+zh-short	-你可不想拿到二振 -我同意 
+ko	- 경고 둘은 원치 않겠지 | - 그럼요 | 
+ja	分かった | 
+

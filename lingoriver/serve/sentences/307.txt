@@ -1,0 +1,28 @@
+ja	以前に？ | 
+ru	-Вы тут уже были? -Нет, не был. 
+en	-Oh, you've been? | -No, I haven't been there. | 
+ar	&rlm;‏‏- هل زرته؟ | &rlm;‏- لا، لم أزره.‏ | 
+da	-Har du været der før? -Nej. 
+el	-Έχεις έρθει; -Όχι. 
+fi	-Oletko käynyt aiemmin? -En ole. 
+fr	- Vous connaissez ? - Non, pas du tout. 
+he	&rlm;‏‏כבר היית שם? | &rlm;‏-לא, לא הייתי שם.‏ | 
+it	- Ci sei stato? - No, mai. 
+nl	Ben je er geweest? -Nee, nooit. 
+pl	- Byłeś tam? - Nie. 
+pr-br	-Já foi lá? -Não, nunca. 
+pr	- Já lá estiveste? - Não, nunca lá estive. 
+ro	- Ai mai fost? - Nu, n-am mai fost niciodată acolo. 
+sp-eu	- ¿Habías estado antes? - No. 
+sp	- ¿Ya viniste? - No, nunca vine. 
+tr	-Gitmiş miydin? -Hayır, gitmedim. 
+vi	- Anh tới rồi à? | - Không, tôi chưa tới. | 
+zh-long	-你來過？ -從來沒有 
+zh-short	-你来过？ -没有 
+th	- เคยไปแล้วหรือคะ | - ไม่ ไม่เคยไปเลย | 
+no	-Har du vært der? -Nei, jeg har ikke det. 
+sv	-Har du varit där? -Nej, det har jag inte. 
+ko	- 와보신 적 있어요? | - 아니요, 처음이에요 | 
+id	- Pernah ke sana? - Belum. 
+ja	いや 一度も | 
+

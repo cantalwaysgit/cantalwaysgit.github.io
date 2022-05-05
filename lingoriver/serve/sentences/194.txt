@@ -1,0 +1,53 @@
+en	-[dog barking and growling] | -No, no, no, no. | 
+id	Tidak. 
+ru	Нет! 
+ar	&rlm;‏لا.‏ | 
+da	Nej. 
+el	Όχι. 
+he	&rlm;‏לא, לא... | 
+ko	안 돼 | 
+no	Nei. Nei. 
+pl	O nie. 
+pr-br	Não. 
+pr	Não. 
+ro	Nu! 
+sp-eu	¡No! 
+sp	No. 
+sv	Nej! 
+th	อย่าๆ อย่านะ | 
+tr	Hayır. 
+vi	Không. | 
+zh-long	不要… 
+zh-short	不 
+
+ja	&lrm;どうも | 
+it	- 'Sera. - Buonasera. 
+id	- Selamat malam. - Malam. 
+uk	-Добрий вечір. -Добрий. 
+es	- Buenas noches. - Hola. 
+fi	Iltaa. | -Iltaa. | 
+cs	- Dobrej. - Večír. 
+da	-Godaften. | -Godaften. | 
+el	-Καλησπέρα. -Καλησπέρα. 
+en	-Evening. -Evening. 
+es-eu	- Buenas. - Buenas. 
+fr	- Bonsoir. - Bonsoir. 
+he	‫ערב טוב.‬ | ‫-ערב טוב.‬ | 
+hr	-'Večer. -'Večer. 
+hu	- Jó estét! - Jó estét! 
+ko	&lrm;- 안녕하세요 | &lrm;- 안녕하세요 | 
+ms	- Selamat malam. - Ya. 
+no	-God kveld. -God kveld. 
+ro	- Bună seara! - Bună! 
+sv	-Hej. -Hej. 
+th	&lrm;- หวัดดีครับ | &lrm;- หวัดดีครับ | 
+tr	-İyi akşamlar. -İyi akşamlar. 
+vi	&lrm;- Xin chào. | &lrm;- Xin chào. | 
+zh-long	-晚安 -晚安 
+zh-short	-晚上好 -晚上好 
+nl	Goedenavond. -Goedenaond. 
+pt	- Boa noite. - Boa noite. 
+pt-br	- Boa noite. - Boa noite. 
+ru	- Добрый вечер. - Добрый. 
+ja	&lrm;いらっしゃい | 
+

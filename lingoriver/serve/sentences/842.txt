@@ -1,0 +1,25 @@
+ar	&rlm;‏‏- "فيروز"؟ | &rlm;‏- أجل.‏ | 
+da	-Firuz? -Ja. 
+en	-Firuz? | -Yes. | 
+fi	-Firuz? -Niin. 
+it	- Firuz? - Sì. 
+ko	- 퍼루즈? | - 그래 | 
+pl	- Firuz? - Tak. 
+pr-br	-Firuz? -Sim. 
+pr	- Firuz? - Sim. 
+sp-eu	- ¿Firuz? - Sí. 
+sp	- ¿Firuz? - Sí. 
+sv	-Firuz? -Ja. 
+tr	-Firuz mu? -Evet. 
+vi	- Firuz | - Phải. | 
+zh-long	-菲魯茨？ -對 
+zh-short	-菲鲁兹？ -对 
+el	-Φαρούζ; -Ναι. 
+ja	ファルース？ | 
+he	&rlm;‏‏פיירוז? | &rlm;‏-כן.‏ | 
+no	-Firuz? -Ja. 
+id	- Firuz? - Ya. 
+ru	-Фируза? -Да. 
+th	- ไฟรูซเหรอ | - ใช่ | 
+ro	- Firuz? - Da. 
+

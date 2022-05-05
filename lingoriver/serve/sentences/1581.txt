@@ -1,0 +1,20 @@
+id	Baiklah. 
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	Okay. | 
+he	&rlm;‏בסדר.‏ | 
+it	Ci sono. 
+pr-br	Está bem. 
+pr	Está bem. 
+ro	Bine. 
+sp	De acuerdo. 
+sp-eu	Vale. 
+th	โอเค | 
+tr	Tamam. 
+vi	Được rồi. | 
+zh-long	好 
+zh-short	好的 
+ru	Так. 
+ko	좋아요 | 
+

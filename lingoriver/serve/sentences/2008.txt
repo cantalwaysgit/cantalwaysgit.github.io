@@ -1,0 +1,56 @@
+ru	И Блинг был не для тебя, 
+ar	&rlm;‏كما كان المبهرج "بلينغ" و"ليني كرافيتز".‏ | 
+da	Ligesom Bling var forkert og Lenny Kravitz. 
+el	Όπως ακριβώς και ο Μπλινγκ και ο Λένι Κράβιτζ. 
+en	Just like Bling was the wrong guy | and Lenny Kravitz. | 
+fi	Kuten Bling ja Lenny Kravitz. 
+fr	Tout comme Bling ou Lenny Kravitz. 
+he	&rlm;‏בדיוק כמו שבלינג ולני קרביץ לא היו בשבילך.‏ | 
+it	Così come Bling e Lenny Kravitz. 
+ko	블링이나 레니 크라비츠가 | 네 짝이 아니었듯 말이야 | 
+nl	Net als Bling en Lenny Kravitz. 
+pl	Tak samo jak nie byli nimi Bling i Lenny Kravitz. 
+pr-br	Assim como o Bling e o Lenny Kravitz também não eram. 
+pr	Tal como o Bling não servia nem o Lenny Kravitz. 
+ro	Așa cum nepotrivit a fost și Bling, și Lenny Kravitz. 
+sp	Como tampoco lo eran Bling ni Lenny Kravitz. 
+sp-eu	Igual que Bling no te convenía, ni Lenny Kravitz. 
+sv	Precis som Bling var fel kille och Lenny Kravitz. 
+tr	Bling de yanlış insandı, Lenny Kravitz de. 
+vi	Cũng như Bling không hợp, | và Lenny Kravitz cũng vậy. | 
+zh-long	就像閃金老闆不適合妳 還有藍尼克羅維茲 
+zh-short	就跟闪金哥和兰尼克拉维茨一样 
+ja	ブリングの時と同じだ | クラヴィッツとも | 
+no	Akkurat som Bling var feil mann, og Lenny Kravitz. 
+id	Seperti Bling, yang juga tidak cocok, 
+th	อย่างที่บลิงก์ไม่ใช่ | และเลนนี่ คราวิตซ์ | 
+ru	и Ленни Кравиц. 
+id	lalu Lenny Kravitz, Marc Anthony, 
+ja	マーク･アンソニーや | プリンス | 
+ru	И Марк Энтони. 
+ar	&rlm;‏و"مارك أنطوني" و"برينس" و"أبولونيا".‏ | 
+da	Marc Anthony. Og Prince. Og Apollonia. 
+el	Ο Μαρκ Άντονι, ο Πρινς και η Απολλόνια. 
+en	Marc Anthony. And Prince. | And Apollonia. | 
+fi	Marc Anthony. Ja Prince. Ja Apollonia. 
+fr	Marc Anthony, Prince et Appollonia. 
+he	&rlm;‏מארק אנתוני. ופרינס. ואפולוניה.‏ | 
+it	E Marc Anthony. E Prince. E Apollonia. 
+ko	마크 앤서니, 프린스 | 아폴로니아도 그래 | 
+nl	Marc Anthony, Prince en Apollonia. 
+no	Marc Anthony. Og Prince. Og Apollonia. 
+pl	Marc Anthony. Prince. Apollonia. 
+pr-br	Marc Anthony. E Prince. E Appollonia. 
+pr	O Marc Anthony. O Prince. A Apollonia. 
+ro	Marc Anthony. Și Prince. Și Apollonia. 
+sp-eu	Marc Anthony. Y Prince. Y Apollonia. 
+sp	Ni Marc Anthony. Ni Prince. Ni Appollonia. 
+sv	Marc Anthony. Och Prince. Och Apollonia. 
+th	มาร์ค แอนโทนี่ และพรินซ์ | และแอปพอลโลเนีย | 
+tr	Marc Anthony de. Prince de. Apollonia da. 
+vi	Marc Anthony. Và Prince. Và Apollonia. | 
+zh-long	馬克安東尼，還有王子 還有阿波羅尼亞 
+zh-short	马尔科安东尼 还有普林斯 还有阿波洛尼亚 
+id	Prince, 
+ru	И Принц. 
+

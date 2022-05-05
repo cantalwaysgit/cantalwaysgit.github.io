@@ -1,0 +1,27 @@
+ru	Ты слышишь, Поли? 
+ar	&rlm;‏سمعتني يا "بولي".‏ | 
+da	Du hørte mig, Pauly. 
+el	Μ' άκουσες, Πόλι. 
+en	You heard me, Pauly. | 
+fi	Kuulit kyllä, Pauly. 
+fr	C'est pour toi, Pauly. 
+he	&rlm;‏שמעת אותי, פולי.‏ | 
+it	Mi hai sentito, Pauly. 
+ko	내 말 들었지, 폴리? | 
+no	Du hørte meg, Pauly. 
+pl	Słyszałeś, Pauly. 
+pr-br	Você me ouviu, Pauly. 
+pr	Tu ouviste, Pauly. 
+ro	M-ai auzit, Pauly. 
+sp-eu	Ya me has oído, Pauly. 
+sp	Me oíste, Pauly. 
+sv	Du hörde mig, Pauly. 
+th	ได้ยินผมแล้ว พอลลี่ | 
+tr	Beni duydun Pauly. 
+vi	Anh nghe tôi nói đấy, Pauly. | 
+zh-long	你聽到囉，波利 
+zh-short	你听见我说的了 保利 
+id	Kau mendengarku, Pauly. 
+nl	Je hebt me gehoord, Pauly. -Inderdaad, klootzak. 
+ja	だろ？ ポーリー | 
+

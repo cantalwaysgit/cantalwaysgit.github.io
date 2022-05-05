@@ -1,0 +1,20 @@
+en	Ha-ha-ha-ha. Sandy. | 
+id	Sandy. 
+ar	&rlm;‏"ساندي".‏ | 
+el	Σάντι. 
+he	&rlm;‏סנדי.‏ | 
+it	Sandy. 
+pr-br	Sandy. 
+pr	Sandy. 
+ro	Sandy. 
+sp-eu	Sandy. 
+sp	Sandy. 
+sv	Sandy. 
+th	แซนดี้ | 
+tr	Sandy. 
+vi	Sandy. | 
+zh-long	山迪 
+zh-short	桑迪 
+ja	面白い | 
+ko	샌디 | 
+

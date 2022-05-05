@@ -1,0 +1,32 @@
+en	[children laughing on film] | 
+
+cs	Ahoj Kajo. 
+da	Hej, Kaja. | 
+el	Γεια σου, Κάγια. 
+en	Hi, Kaja. 
+es-eu	Hola, Kaja. 
+es	Hola, Kaja. 
+fr	Salut, Kaja. 
+he	‫היי, קאיה.‬ | 
+hr	Bok, Kaja. 
+hu	Szia, Kaja! 
+id	Hai, Kaja. 
+it	Ciao, Kaja. 
+ja	&lrm;カヤ | 
+ko	&lrm;안녕, 카야 | 
+ms	Hai, Kaja. 
+nl	Hoi, Kaja. 
+no	Hei, Kaja. 
+pt-br	Oi, Kaja. 
+pt	Olá, Kaja. 
+ro	Salut, Kaja! 
+ru	Привет, Кая. 
+sv	Hej, Kaja. 
+th	&lrm;หวัดดีกายา | 
+tr	Selam Kaja. 
+uk	Привіт, Кає. 
+vi	&lrm;Chào Kaja. | 
+zh-long	妳好，卡雅 
+zh-short	嗨 卡娅 
+fi	Hei, Kaja. | 
+

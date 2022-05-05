@@ -1,0 +1,70 @@
+ar	&rlm;‏‏- "ساندي"... | &rlm;‏- إن كان بمقدورك‏ | 
+da	-Sandy... -Hvis du kunne 
+el	-Σάντι... -Αν μπορείς 
+en	-Sandy... | -If you could just | 
+he	&rlm;‏‏סנדי... | &rlm;‏-אם תוכלי‏ | 
+id	- Sandy. - Jika kau bisa... 
+it	- Sandy... - Vorrei che tu ci mettessi 
+ko	- 샌디... | - 좋게 얘기 좀 | 
+no	-Sandy... -Om du kan 
+pr-br	-Sandy... -Se puder 
+pr	- Sandy... - Se podias 
+sp-eu	- Sandy... - A ver si puedes 
+sp	- Sandy... - Si pudieras 
+sv	-Sandy... -Om du bara kunde 
+th	- แซนดี้ | - หากคุณแค่ | 
+tr	-Sandy... -Hatırım için 
+vi	- Sandy... | - Nếu cô có thể | 
+zh-long	-山迪… -麻煩妳 
+zh-short	-桑迪… -要是你 
+pl	- Sandy... - Szepnij o nim dobre słowo. 
+ro	- Sandy... - Pune o vorbă bună pentru mine. 
+ru	-Сэнди! -Просто замолви за меня словечко. 
+fi	Jos voisit kehua häntä puolestani. 
+fr	Si tu pouvais le recommander... 
+nl	Doe een goed woordje voor me. 
+ja	専務に話してみてくれ | 写真を見せるだけでもいい | 
+ar	&rlm;‏تزكيته من أجلي وحسب.‏ | 
+da	lægge et godt ord ind for mig. 
+el	να πεις μια καλή κουβέντα για χάρη μου. 
+en	put a good word in for me. That's it. | 
+he	&rlm;‏לומר עליי מילה טובה.‏ | 
+id	bicarakan hal baik tentang dia. Itu saja. 
+it	una buona parola. 
+ko	해주실 수 있나 해서요 | 
+pr-br	me dar uma mãozinha. 
+pr	dar aí um toque a meu favor. 
+sp-eu	hablar bien de él. 
+sp	recomendarlo por mí. 
+sv	lägga ett gott ord för mig. 
+th	หากคุณจะช่วยพูดถึงเขาแทนผมให้ที | 
+tr	olumlu birkaç şey söylesen... 
+vi	giới thiệu giúp tôi. | 
+zh-long	請妳幫我美言幾句 
+zh-short	能替我美言几句 
+no	legge inn et godt ord for meg. Kanskje legge et bilde på pulten hans. 
+ar	&rlm;‏ربما أن تضعي صورته الشخصية على مكتبه.‏ | 
+da	Måske lægge hans portrætbillede på bordet. 
+el	Να αφήσεις τη φωτογραφία του στο γραφείο του. 
+en	Maybe put his headshot on his desk. | 
+fi	Pane hänen kuvansa pöydälle. 
+fr	Mettre une photo de lui sur son bureau. 
+he	&rlm;‏אולי תשימי את הצילום שלו על השולחן שלו.‏ | 
+id	Mungkin letakkan fotonya di mejanya. 
+it	Magari metti una sua foto sulla scrivania. 
+ko	책상 위에 얼굴 사진이라도 | 올려둬 봐요 | 
+nl	Leg zijn foto op zijn bureau. 
+pl	Podrzuć na biurko jego zdjęcie. 
+pr-br	Talvez colocar uma foto dele na mesa. 
+pr	Talvez pôr a foto dele na secretária. 
+ro	Poate să-i pui poza pe birou. 
+ru	Положи фото на его стол. 
+sp-eu	A lo mejor pon su foto en la mesa. 
+sp	Quizá dejar su foto en el escritorio. 
+sv	Lägga hans bild på hans skrivbord. 
+th	อาจจะมีรูปหน้าของเขาบนโต๊ะ | 
+tr	Belki fotoğrafını masasına koyarsın. 
+vi	Có lẽ để ảnh thẻ của anh ta | lên bàn anh ấy. | 
+zh-long	把他的大頭照放他桌上之類的 
+zh-short	或许把他的大头照摆到他桌子上 
+

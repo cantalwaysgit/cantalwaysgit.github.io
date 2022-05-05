@@ -1,0 +1,27 @@
+ar	&rlm;‏ستلقيها بصوتك.‏ | 
+da	Ja, men med din stemme. 
+el	Με τη δική σου φωνή. 
+en	But you do 'em in your voice. | 
+fi	Omalla äänelläsi. 
+fr	Avec ta voix. 
+he	&rlm;‏בקול שלך.‏ | 
+it	Con la tua voce. 
+no	Gjør dem med din egen stemme. 
+pl	Swoim głosem. 
+pr-br	Você as contará do seu jeito. 
+pr	Mas conta-las com a tua voz. 
+ro	Va fi vocea ta. 
+sp-eu	Hazlos con tu voz. 
+sp	Los dirás con tu voz. 
+sv	Men du gör dem med din röst. 
+th	แต่นายทำด้วยเสียงตัวเอง | 
+tr	Kendi sesinle yapacaksın. 
+vi	Nói bằng giọng của anh. | 
+zh-long	用你的聲音講 
+zh-short	用你自己的声音来讲 
+nl	Doe ze met jouw stem. -Maar de clous zijn hetzelfde. 
+ru	Своими устами. 
+ja	君の声でな | 
+id	Tapi kau lakukan dengan suaramu. 
+ko	네 목소리로 하는 거잖아 | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏وهذا موجود لسوء الحظ. وهو مجموعة المواهب.‏ | 
+da	som jeg desværre har. De øvrige kunstnere. 
+el	και, δυστυχώς, έχω. Την ομάδα μου. 
+en	which unfortunately I do. | The stable. | 
+fi	niin kuin minulla valitettavasti on. Tallini. 
+fr	et c'est le cas, hélas. J'ai d'autres clients. 
+he	&rlm;‏שלמרבה הצער יש לי. החבורה.‏ | 
+it	cosa che sfortunatamente accade. Penso alla scuderia. 
+nl	En die heb ik, helaas. Mijn talenten. 
+no	og det har jeg dessverre. Stallen. 
+pl	A tak właśnie jest. Mam pozostałych klientów. 
+pr-br	mas, infelizmente, eu tenho. O grupo. 
+pr	o que é o caso infelizmente. O grupo. 
+ro	și, din păcate, am. Oamenii mei. 
+sp-eu	Y desgraciadamente las tengo. La cartera. 
+sp	y lamentablemente las tengo: mi grupo de artistas. 
+sv	vilket jag gör. Stallet. 
+th	ซึ่งโชคร้ายที่มันเป็นอย่างนั้น | คนอื่นที่ผมดูแล | 
+tr	Maalesef durum bu. Temsil ettiğim sanatçılar var. 
+vi	không may là tôi vẫn phải lo. | Những tài năng khác. | 
+zh-long	事實如此，我有其他藝人要顧 
+zh-short	很不幸 现在就是这样 我还要考虑其他人 
+ja	他のタレントがいるから | 
+id	yang sayangnya begitu. Klien-klienku. 
+ru	а они, увы, есть. Букет. 
+ko	안타깝게도 내겐 | 다른 고객이 있잖아 | 
+

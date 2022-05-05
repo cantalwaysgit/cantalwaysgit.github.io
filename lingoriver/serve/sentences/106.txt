@@ -1,0 +1,58 @@
+id	- Aku tak sedang melucu. - Caramu mengatakannya. 
+ru	-Я не шутил. -Но ты так это сказал. 
+ja	全然 | 
+ar	&rlm;‏‏- لا أحاول أن أكون مضحكاً. | &rlm;‏- إنها طريقة قولك للأمر.‏ | 
+da	-Det var ikke bevidst. -Det var måden. 
+el	-Δεν αστειεύομαι. -Φταίει ο τρόπος που το είπες. 
+en	-Well, I'm not trying to be funny. | -No, it's the way you said it. | 
+fi	-En tarkoituksella. -Sanoit sen hauskasti. 
+fr	- C'est pas le but. - C'est le ton que t'as pris. 
+he	&rlm;‏‏אני לא מנסה להיות מצחיק. | &rlm;‏-זה איך שאמרת את זה.‏ | 
+it	- Non voglio essere buffo. - È per come l'hai detto. 
+nl	Ik wil niet grappig zijn. -Hoe je het zei. 
+no	-Jeg prøver ikke å være det. -Måten du sa det på. 
+pl	- Nie chcę. - Śmiesznie to powiedziałeś. 
+pr-br	-Não tentei ser engraçado. -Foi como disse. 
+pr	- Não era para ter piada. - Foi a forma como disseste. 
+ro	- Nu încerc asta. - Mă amuză cum ai spus-o. 
+sp-eu	- No lo pretendo. - Es por cómo lo has dicho. 
+sp	- No es lo que busco. - Es por cómo lo dijiste. 
+sv	-Jag försöker inte vara rolig. -Du sa det roligt. 
+th	- ไม่ได้พยายามตลกเลยนะ | - วิธีที่พูดนั่นแหละ | 
+tr	-Öyle bir niyetim yok. -Söyleyiş biçimin yüzünden. 
+vi	- Tôi không cố gây cười. | - Cái kiểu cậu nói. | 
+zh-long	-我沒在搞笑 -你說話的方式 
+zh-short	-我没想逗你笑 -是你讲的方式好笑 
+ko	- 웃기려는 거 아니에요 | - 네 말투가 그랬어 | 
+ja	言い方が面白い | 
+
+cs	Ježišmarja. 
+da	Du gode gud. | 
+el	Χριστέ μου… 
+en	Jesus Christ… 
+es	Dios mío… 
+es-eu	Joder… 
+fi	Ei voi olla totta. | 
+fr	Nom de Dieu… 
+he	‫אלוהים אדירים…‬ | 
+hr	Isuse Kriste… 
+hu	Jézusom! 
+id	Astaga… 
+it	Cristo… 
+ja	&lrm;ウソでしょ | 
+ko	&lrm;세상에… | 
+ms	Biar betul. 
+nl	Jezus Christus… 
+no	Herregud… 
+pt-br	Jesus Cristo… 
+pt	Santo Deus… 
+ro	Iisuse… 
+sv	Herregud. 
+th	&lrm;พระเจ้า… | 
+tr	Tanrım. 
+vi	&lrm;Chúa ơi… | 
+zh-long	天啊 
+zh-short	天啊… 
+uk	Господи боже… 
+ru	Господи… 
+

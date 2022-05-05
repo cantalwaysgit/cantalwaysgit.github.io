@@ -1,0 +1,27 @@
+fi	Pääset suoraan huipulle. 
+ru	Ты попадешь на самый верх. 
+id	- Kau akan melejit ke puncak. - Benarkah? 
+ar	&rlm;‏‏- ستصلين إلى القمة مباشرة. | &rlm;‏- حقاً؟‏ | 
+da	-Du ryger direkte til tops. -Ja? 
+el	-Θα φτάσεις στην κορυφή. -Αλήθεια; 
+en	-You are going straight to the top. | -Yeah? | 
+fr	Tu vas atteindre des sommets. 
+he	&rlm;‏‏את הולכת ישר לפסגה. | &rlm;‏-כן?‏ | 
+it	- Arriverai in alto. - Dici? 
+pl	- Wespniesz się na sam szczyt. - Tak? 
+pr-br	-Você vai direto ao topo. -É? 
+pr	- Vais direitinha para o topo. - Sim? 
+ro	- O să ajungi în vârf. - Da? 
+sp-eu	- Llegarás a la cima. - Sí. 
+sp	- Vas derecho a la cima. - ¿Sí? 
+sv	-Du blir en av de största. -Jaså? 
+th	- คุณจะตรงดิ่งไปสู่เบื้องบนเลย | - จริงอะ | 
+tr	-Zirveye çıkacaksın. -Sahi mi? 
+vi	- Cô sẽ lên tận đỉnh cao. | - Thế à? | 
+zh-long	-妳會直衝天后宮 -是嗎？ 
+zh-short	-你会一鸣惊人的 -是吗？ 
+ko	- 곧장 정상으로 향할 거야 | - 그래요? | 
+nl	Je gaat naar de top. Daarboven met de andere sterren. 
+ja	頂点に上り詰める | 
+no	-Du skal rett til topps. -Å ja? 
+

@@ -1,0 +1,25 @@
+el	Και απλά... Σκέφτεσαι. 
+pl	I myślisz. 
+sv	Du bara... Du tänker. 
+ar	&rlm;‏أنت... فكري وحسب.‏ | 
+da	Man tænker. 
+en	You just... You think. | 
+fi	Ajatellaan. 
+fr	Il faut... réfléchir. 
+he	&rlm;‏אתה רק... חושב.‏ | 
+it	E pensi. 
+no	Bare... Tenk. 
+pr-br	E... Pense. 
+pr	E pensas. 
+ro	Te gândești. 
+sp-eu	Solo tienes que... Pensar. 
+sp	Solo... Piensas. 
+tr	Sadece... Düşün. 
+vi	Cô chỉ...cứ nghĩ thôi. | 
+zh-long	就…思考 
+zh-short	去想就是了 
+id	Lakukan itu. Berpikir. 
+ko	그냥... 생각하면 돼 | 
+ru	Давай... Думай. 
+th	ก็แค่... | แค่คิด | 
+

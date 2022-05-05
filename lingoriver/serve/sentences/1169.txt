@@ -1,0 +1,27 @@
+ja	ＰＲ担当って？ | 
+ru	С какими пиарщиками? 
+id	Publisis? Yang mana? 
+ar	&rlm;‏‏- أي وكلاء دعاية؟ | &rlm;‏- الأفضل وحسب.‏ | 
+da	-Hvilke PR-folk? -De bedste. 
+el	-Τι είδους υπευθύνους; -Τους καλύτερους μόνο. 
+en	-Publicists? What... what publicists? | -Oh, yeah, just the top ones. | 
+fi	-Mitä edustajia? -Alan huippuja. 
+fr	- Quoi ? Lesquels ? - Les meilleurs. 
+he	&rlm;‏‏יחצ"נים? איזה יחצ"נים? | &rlm;‏-כן, רק הטובים ביותר.‏ | 
+it	- Quali addetti stampa? - I migliori. 
+ko	- 무슨 홍보 담당자? | - 최고 중의 최고예요 | 
+nl	Welke publiciteitsagenten? -De beste. 
+no	-Hvilke PR-konsulenter? -Bare de beste. 
+pl	- Z jakimi agentami prasowymi? - Najlepszymi. 
+pr-br	-Que assessores de imprensa? -Sim, os melhores. 
+pr	- Com quais agentes publicitários? - Só com os melhores. 
+ro	- Editorii? Care editori? - Doar cei de top. 
+sp-eu	- ¿Publicistas? ¿Qué publicistas? - Sí, solo los mejores. 
+sp	- ¿Publicistas? ¿Quiénes? - Sí, los mejores. 
+sv	-Reklamagenter? Vilka då? -Bara de bästa. 
+th	- ประชาสัมพันธ์เหรอ อันไหนล่ะ | - แค่พวกระดับต้นๆ | 
+tr	-Reklamcı mı? Ne reklamcısı? -Evet, en iyileri. 
+vi	- Báo? Báo gì cơ? | - À, những tờ báo hàng đầu. | 
+zh-long	-公關？什麼公關？ -都是最頂尖的 
+zh-short	-宣传会？什么宣传会？ -对 就是那几首榜首歌的宣传会 
+

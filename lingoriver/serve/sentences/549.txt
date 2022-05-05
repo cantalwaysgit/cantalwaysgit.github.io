@@ -1,0 +1,53 @@
+id	Lalu bagaimana denganmu? 
+ja	君は何をしてる？ | 
+ru	А ты чем занимаешься? 
+ar	&rlm;‏وأنت، ما الذي تسعى إليه؟‏ | 
+da	Og dig, hvad har du gang i? 
+el	Εσύ με τι ασχολείσαι; 
+en	And you, what are you up to? | 
+fi	Mitä itse puuhailet? 
+fr	Et toi, tu deviens quoi ? 
+he	&rlm;‏ואתה, מה אתה עושה?‏ | 
+it	E tu che stai facendo? 
+ko	자네는 어때? | 
+no	Og hva driver du med for tiden? 
+pl	A ty co robisz? 
+pr-br	E você, o que anda fazendo? 
+pr	E tu, o que andas a fazer? 
+ro	Iar tu ce pui la cale? 
+sp-eu	¿Y tú a qué te dedicas? 
+sp	¿Y tú? ¿En qué andas? 
+sv	Och du? Vad pysslar du med? 
+th	แล้วคุณล่ะทำอะไรอยู่ | 
+tr	Ya sen ne yapıyorsun? 
+vi	Còn cậu, giờ cậu làm gì? | 
+zh-long	你呢？現在在做什麼？ 
+zh-short	那你呢 都忙些什么？ 
+nl	En wat doe jij? -Ik ben nu bij Capitol Records. 
+en	I left, too. | 
+id	Aku juga sudah pergi. Kini aku di Capitol Records. 
+ru	Тоже ушел. Я теперь в «Кэпитол Рекордс». 
+sp	Yo también me fui. Ahora estoy en Capitol Records. 
+ar	&rlm;‏‏تركت العمل أيضاً. | &rlm;‏أعمل في "كابيتول ريكوردز" الآن.‏ | 
+da	Jeg er også holdt op. Jeg er hos Capitol Records nu. 
+el	Κι εγώ έφυγα. Είμαι στην Capitol Records τώρα. 
+fi	Minäkin lähdin. Olen nyt Capitol Recordsilla. 
+fr	Moi aussi, je suis parti. Je suis à Capitol Records. 
+he	&rlm;‏‏גם אני עזבתי. | &rlm;‏אני עובד ב"קפיטול רקורדס" עכשיו.‏ | 
+it	Ho mollato anch'io. Lavoro alla Capitol Records. 
+ko	저도 떠났어요 | 지금은 캐피톨 레코드에 있고요 | 
+pl	Też odszedłem. Teraz pracuję w Capitol Records. 
+pr-br	Também saí. Estou na Capitol Records agora. 
+pr	Também saí. Agora estou na Capitol Records. 
+ro	Și eu am plecat. Acum sunt la Capitol Records. 
+sp-eu	Yo también me fui. Ahora estoy en Capitol Records. 
+sv	Jag slutade också. Jag jobbar på Capitol Records nu. 
+tr	Ben de ayrıldım. Artık Capitol Records'tayım. 
+vi	Tôi cũng nghỉ rồi. Giờ tôi làm cho | hãng Thu âm Capitol Records. | 
+zh-long	我也離職了，現在在國會唱片 
+zh-short	我也不干了 我现在在国会唱片公司 
+ja	キャピトル･レコードで | 働いてる | 
+no	Jeg har også sluttet. Nå jobber jeg i Capitol Records. 
+th	ผมออกแล้วเหมือนกัน | ตอนนี้ทำที่แคปิตอลเรกคอร์ดส์ | 
+en	-I'm at Capitol Records now. | -Oh. | 
+

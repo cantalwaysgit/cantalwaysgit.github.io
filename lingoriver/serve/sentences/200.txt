@@ -1,0 +1,60 @@
+en	Oh. Hi, uh, Amy. | Hi, Donna and Kendra. | 
+ja	やあ エイミー | ドナとケンドラも | 
+id	Hai, Amy. Hai, Donna dan Kendra. 
+ru	Привет, Эми. Привет, Донна и Кендра. 
+ar	&rlm;‏مرحباً يا "إيمي" و"دونا" و"كيندرا".‏ | 
+da	Hej, Amy. Hej, Donna og Kendra. 
+el	Γεια σου, Έιμι. Γεια σας, Ντόνα και Κέντρα. 
+fi	Hei, Amy. Hei, Donna ja Kendra. 
+fr	Salut, Amy. Donna et Kendra. 
+he	&rlm;‏היי, איימי. היי, דונה וקנדרה.‏ | 
+it	Ciao, Amy. Ciao, Donna e Kendra. 
+ko	안녕, 에이미 | 안녕, 도나, 켄드라 | 
+nl	Hallo, Amy. Hallo, Donna en Kendra. 
+no	Hei, Amy. Hei, Donna og Kendra. 
+pl	Amy, Donna i Kendra. Cześć. 
+pr-br	Oi, Amy. Oi, Donna e Kendra. 
+pr	Olá, Amy. Olá, Donna e Kendra. 
+ro	Bună, Amy! Bună, Donna și Kendra! 
+sp-eu	Hola, Amy. Hola, Donna y Kendra. 
+sp	Hola, Amy. Hola, Donna y Kendra. 
+sv	Hej, Amy, Donna och Kendra. 
+th	ว่าไง เอมี่ หวัดดีจ้ะ ดอนนาและเคนดรา | 
+tr	Merhaba, Amy. Merhaba, Donna ve Kendra. 
+vi	Chào Amy. Chào Donna và Kendra. | 
+zh-long	嗨，艾咪，嗨，唐娜、肯卓拉 
+zh-short	嗨 艾米 多娜和肯德拉 
+
+ja	&lrm;特別価格だ | 
+zh-short	那是我们的促销价 
+fi	Se on tarjouksemme. | 
+sv	Det är vårt specialpris för ut- och invändig tvätt. 
+it	Lavaggio esterno e pulizia interna. 
+es	Lavado y limpieza del interior. 
+da	Udvendig vask og indvendig rengøring. | 
+hr	Vanjsko i unutarnje pranje. 
+uk	Миття кузова і чистка салону. 
+zh-short	洗车加内饰清洁 
+en	We clean the bodywork and the interior. 
+fi	Pesu ja sisätilojen siivous. | 
+cs	Vnější mytí a čištění interiéru. 
+el	Πλύσιμο μέσα έξω. 
+pt-br	Lavagem externa e limpeza interna. 
+es-eu	Limpieza exterior e interior. 
+fr	Lavage extérieur et intérieur. 
+he	‫שטיפה חיצונית וניקוי פנימי.‬ | 
+hu	Külső mosás és belső tisztítás. 
+id	Pembersihan eksterior dan interior. 
+ja	&lrm;外装と内装の洗浄コース | 
+ko	&lrm;외부 세척과 내부 청소 | 
+ms	Cuci luar dan bersihkan dalaman. 
+nl	Een wasbeurt en schoonmaakbeurt. 
+pt	Lavagem e limpeza por dentro. 
+ro	Pentru interior și exterior. 
+th	&lrm;ล้างด้านนอกและทำความสะอาดด้านใน | 
+tr	Yıkama ve iç temizlik. 
+vi	&lrm;Rửa ngoại thất và dọn nội thất. | 
+zh-long	外部清洗和內部清潔 
+no	Utvendig vask og innvendig rengjøring. 
+ru	Мойка машины и уборка салона. 
+

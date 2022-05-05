@@ -1,0 +1,25 @@
+id	Aku tidak bohong. 
+ar	&rlm;‏لا أكذب.‏ | 
+da	Jeg lyver ikke. 
+el	Δε λέω ψέματα. 
+en	No, I'm not. I'm not lying. | 
+fi	En valehtele. 
+fr	Non, je mens pas. 
+he	&rlm;‏אני לא. אני לא משקר.‏ | 
+it	No. Non sto mentendo. 
+ko	아니, 거짓말 아니야 | 
+no	Nei, det gjør jeg ikke. 
+pl	Nie kłamię. 
+pr-br	Não estou mentindo. 
+pr	Não estou a mentir. 
+ro	Ba nu. Nu mint. 
+ru	Нет. Я не вру. 
+sp-eu	No es verdad. No miento. 
+sv	Nej, jag ljuger inte. 
+th	เปล่า ไม่ได้โกหก | 
+tr	Hayır. Yalan söylemiyorum. 
+vi	Tôi không nói dối. | 
+zh-long	我沒騙人 
+zh-short	我没有 我没说谎 
+ja	ウソじゃない | 
+

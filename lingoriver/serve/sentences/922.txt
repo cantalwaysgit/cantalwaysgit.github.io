@@ -1,0 +1,28 @@
+en	What are you shocked by? | She's a great singer. | 
+ar	&rlm;‏‏- لم أنت مصدوم؟ إنها مغنية رائعة. | &rlm;‏- يا إلهي.‏ | 
+da	-Hvorfor er du overrasket? Hun er god. -Du godeste. 
+el	-Γιατί εκπλήσσεσαι; Είναι πολύ καλή. -Απίστευτο. 
+fi	-Miksi olet järkyttynyt? Hän on loistava. -Voi luoja. 
+fr	- Pourquoi ça te surprend ? Elle est top. - J'y crois pas. 
+he	&rlm;‏‏למה אתה מופתע? היא נהדרת. | &rlm;‏-אלוהים.‏ | 
+it	- Ti stupisci? È fantastica. - Oddio. 
+ko	- 왜 놀라? 잘 부르잖아 | - 세상에 | 
+nl	Waarom ben je geschokt? Ze zingt goed. 
+no	-Hvorfor så sjokkert? Hun er flott. -Herregud. 
+pl	- Dziwisz się? Jest świetna. - Boże. 
+pr-br	-Por que está chocado? Ela é demais. -Ah, meu Deus. 
+pr	- Qual é a admiração? Ela canta bem. - Meu Deus. 
+ro	- De ce ești șocat? E grozavă. - Dumnezeule! 
+sp-eu	- ¿Por qué te asombras? Es genial. - Madre mía. 
+sp	- ¿Por qué te sorprendes? Es genial. - Dios mío. 
+sv	-Varför är du förvånad? Hon är bra. -Herregud. 
+th	- ทำไมถึงแปลกใจ เธอยอดเยี่ยม | - ให้ตายสิ | 
+tr	-Neden şaşırdın? O harika. -Aman Tanrım. 
+vi	- Sao anh ngạc nhiên? Cô ấy giỏi mà. | - Chúa ơi. | 
+zh-long	-你驚訝個什麼鬼？她那麼棒 -我的天啊 
+zh-short	-你惊讶个什么？她很棒 -天啊 
+ja	今さら感動するな | 
+ru	-Что тебя удивляет? Она супер. -О боже. 
+id	- Kenapa terkejut? Dia penyanyi hebat. - Astaga. 
+en	Oh, my God. | 
+

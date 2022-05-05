@@ -1,0 +1,25 @@
+id	Hei, Bronstein. 
+ja	まあね | 
+ru	Привет, Бронштейн. 
+ar	&rlm;‏مرحباً يا "برونستين".‏ | 
+da	Hej, Bronstein. 
+el	Γεια σου, Μπράινστιν. 
+en	Hey, Bronstein. | 
+fi	Hei, Bronstein. 
+fr	Salut, Bronstein. 
+he	&rlm;‏היי, ברונשטין.‏ | 
+it	Ciao, Bronstein. 
+nl	Hé, Bronstein. 
+pl	Hej, Bronstein. 
+pr-br	Ei, Bronstein. 
+pr	Olá, Bronstein. 
+ro	Salut, Bronstein! 
+sp-eu	Hola, Bronstein. 
+sp	Hola, Bronstein. 
+th	ไง บรอนสตีน | 
+tr	Selam, Bronstein. 
+vi	Chào, Bronstein. | 
+zh-long	嘿，布萊恩史坦 
+zh-short	嘿 布莱恩斯坦 
+ko	안녕, 브런스타인 | 
+

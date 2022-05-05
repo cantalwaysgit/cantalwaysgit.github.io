@@ -1,0 +1,25 @@
+ko	회의나 하자 | 
+ar	&rlm;‏لنبدأ الاجتماع.‏ | 
+da	Lad os holde mødet. 
+el	Ας ξεκινήσουμε. 
+en	Let's do the meeting. | 
+fr	Faisons la réunion. 
+he	&rlm;‏בוא נערוך את הפגישה.‏ | 
+it	Pensiamo alla riunione. 
+nl	We gaan vergaderen. 
+pr-br	Vamos fazer a reunião. 
+pr	Vamos à reunião. 
+ro	Să începem ședința. 
+sp	Comencemos la reunión. 
+sp-eu	Hagamos la reunión. 
+sv	Nu kör vi mötet. 
+th	มาประชุมกันเถอะ | 
+tr	Toplantı başlasın. 
+vi	Bắt đầu họp đi. | 
+zh-long	我們開會吧 
+zh-short	我们开会吧 
+id	Mari kita rapat. 
+no	Vi tar møtet. 
+pl	Kontynuujmy. 
+ru	Ну, к делу. 
+

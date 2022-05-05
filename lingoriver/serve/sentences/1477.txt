@@ -1,0 +1,25 @@
+ar	&rlm;‏"كورتني"؟‏ | 
+da	Courtney? 
+el	Κόρτνι; 
+en	Courtney? | 
+fi	Courtney? 
+he	&rlm;‏קורטני?‏ | 
+it	Courtney? 
+no	Courtney? 
+pr-br	Courtney? 
+pr	Courtney? 
+ro	Courtney? 
+sp	¿Courtney? 
+sp-eu	¿Courtney? 
+sv	Courtney? 
+th	คอร์ทนี่ย์ | 
+tr	Courtney? 
+vi	Courtney? | 
+zh-long	寇妮？ 
+zh-short	考特尼？ 
+ko	코트니? | 
+id	Courtney? 
+ru	Кортни? 
+ja	コートニー | 
+pl	Courtney? 
+

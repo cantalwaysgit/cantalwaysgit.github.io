@@ -1,0 +1,26 @@
+id	B-E-R-C-I-U-M-A-N 
+ja	キスをするの | 
+ar	&rlm;‏ونقبل بعضنا‏ | 
+da	K-Y-S-S-E-R 
+el	Ανταλλάσσοντας φιλιά 
+en	♪ K-I-S-S-I-N-G ♪ | 
+fi	Ja suudeltiin 
+fr	En train de s'embrasser 
+he	&rlm;‏מ-ת-נ-ש-ק-י-ם‏ | 
+it	B-A-C-I-A-R-C-I 
+ko	키스를 했어 | 
+nl	te k-u-s-s-e-n 
+pl	I całowaliśmy się 
+pr	Aos B-E-I-J-O-S 
+pr-br	Nos beijando 
+ro	S-Ă-R-U-T-Â-N-D-U-N-E 
+ru	Тили-тили-тесто! 
+sp	B-E-S-Á-N-D-O-N-O-S 
+sp-eu	B-E-S-Á-N-D-O-N-O-S 
+sv	K-Y-S-S-T-E-S 
+th	จอ-สระอู-บอ | 
+tr	Öpüşüyorduk 
+vi	H-Ô-N-N-H-A-U | 
+zh-long	開心玩親親 
+zh-short	接吻 
+

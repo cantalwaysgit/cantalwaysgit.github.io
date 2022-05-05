@@ -1,0 +1,29 @@
+ko	- 노래 잘하네요 | - 내가 뭐랬어? | 
+ar	&rlm;‏‏- هذه الفتاة ماهرة بالغناء. | &rlm;‏- قلت لك ذلك.‏ | 
+da	-Den pige kan synge. -Det sagde jeg jo. 
+el	-Είναι πολύ καλή. -Σου το είπα. 
+en	-Yo, man, this girl can sing. | -I told you. | 
+fi	-Tyttö osaa laulaa. -Niinhän minä sanoin. 
+fr	- Elle a une sacrée voix. - Tu vois. 
+he	&rlm;‏‏בנאדם, הילדה הזו יודעת לשיר. | &rlm;‏-אמרתי לך.‏ | 
+it	- Caspita, se canta bene. - Te l'avevo detto. 
+nl	Die meid kan zingen. -Ik zei het toch. 
+pr-br	-Cara, essa garota canta bem. -Eu te disse. 
+pr	- Esta miúda sabe cantar. - Eu disse-te. 
+sp-eu	- Esta chica sabe cantar. - Te lo dije. 
+sp	- Viejo, esta chica sí que canta. - Te lo dije. 
+sv	-Den tjejen kan sjunga. -Jag sa ju det. 
+th	- โย่ เพื่อน ผู้หญิงคนนี้ร้องเก่ง | - บอกแล้ว | 
+tr	-Bu kız şarkı söylemeyi biliyor. -Demiştim. 
+vi	- Cô gái này hát hay đấy. | - Tôi nói rồi mà. | 
+zh-long	-老哥，這美眉還真能唱 -就說了吧 
+zh-short	-老兄 这姑娘还真会唱 -我就跟你说吧 
+ja	大したもんだ | 
+ru	Да, петь она умеет. 
+id	- Bung, gadis ini bisa bernyanyi. - Sudah kubilang. 
+no	-Den jenta kan synge. -Det var det jeg sa. 
+pl	- Potrafi dziewczyna śpiewać. - Mówiłem. 
+ro	- Fata asta știe să cânte! - Ți-am zis eu. 
+ru	А я говорил. 
+ja	だろ？ | 
+

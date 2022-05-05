@@ -1,0 +1,26 @@
+ja	面白いこと言うね | 
+ar	&rlm;‏شكراً لك. سُررت برؤيتك أيضاً. | 
+da	Tak. Godt at se dig. 
+el	Ευχαριστώ. Χαίρομαι που σε βλέπω. 
+en	Hey, thank you. Good to see you, too. | 
+fi	Kiitos. Mukava nähdä sinua. 
+fr	Super. Ravi de te voir. 
+he	&rlm;‏תודה. טוב לראות אותך.‏ | 
+it	Grazie. Piacere di vederti. 
+pr-br	Obrigado. Que bom ver você. 
+pr	Obrigado. Prazer em ver-te. 
+ro	Mersi. Mă bucur și eu să te văd. 
+sp-eu	Gracias. Me alegro de verte. 
+sp	Gracias. Qué gusto verte. 
+sv	Tack. Kul att se dig med. 
+th	ขอบคุณ ดีใจที่เจอนะ | 
+tr	Sağ ol. Görüştüğümüze sevindim. 
+vi	Cảm ơn. Rất vui được gặp anh. | 
+zh-long	謝謝你喔，很開心見到你 
+zh-short	谢谢 很高兴见到你 
+ko	고마워요, 반가워요 | 
+id	Terima kasih. Senang bertemu, Joe. 
+pl	Dziękuję. Miło cię widzieć. 
+ru	Спасибо. Рад видеть. 
+no	Takk. Fint å se deg. 
+

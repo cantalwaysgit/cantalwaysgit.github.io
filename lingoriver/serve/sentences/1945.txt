@@ -1,0 +1,26 @@
+ar	&rlm;‏هذا ما حدث.‏ | 
+da	Sådan skete det. 
+el	Αυτό έγινε. 
+en	That is what happened. | 
+fi	Niinhän siinä kävi. 
+fr	C'est le cas. 
+he	&rlm;‏זה מה שקרה.‏ | 
+id	Itulah yang terjadi. 
+it	È quello che è successo. 
+ko	그게 사실이니까 | 
+pl	Dokładnie tak. 
+pr-br	Foi o que aconteceu. 
+pr	Foi o que aconteceu. 
+ro	Chiar asta s-a întâmplat. 
+ru	Все так. 
+sp	Eso es lo que sucedió. 
+sp-eu	Fue lo que pasó. 
+sv	Det är vad som hände. 
+th	นั่นคือสิ่งที่เกิดขึ้น | 
+tr	Olan bu. 
+vi	Đúng là thế mà. | 
+zh-long	就是因為這樣 
+zh-short	事情就是这样 
+no	-Det var det som skjedde. -Tror du vi ble for nære venner? 
+ja	そうだろ？ | 
+

@@ -1,0 +1,27 @@
+ja	今夜だとは知らなかった | 
+id	Kudengar dia akan adakan pesta, tapi aku tidak tahu kapan. 
+ru	Я слышал, но не знал, когда. 
+en	I heard he was gonna have a... | 
+ko	한다고는 들었는데 | 오늘인지는 몰랐어 | 
+ar	&rlm;‏سمعت أنه سيقيم حفلة، لكن لم أعرف متى.‏ | 
+da	Det har jeg hørt, han ville, jeg vidste bare ikke hvornår. 
+el	Είχα ακούσει ότι θα το κάνει, αλλά δεν ήξερα πότε. 
+fi	Kuulin niistä, mutta en tiennyt milloin. 
+fr	J'en avais entendu parler, mais je savais pas quand c'était. 
+he	&rlm;‏‏שמעתי שהוא מתכוון לערוך מסיבה, | &rlm;‏פשוט לא ידעתי מתי.‏ | 
+it	L'avevo sentito dire, ma non sapevo quando. 
+no	Jeg har hørt det. Jeg visste bare ikke når. 
+pl	Wiedziałem o niej, tylko nie wiedziałem kiedy. 
+pr-br	Eu sabia que daria, só não sabia quando. 
+pr	Eu sabia disso, só não sabia quando era. 
+ro	Auzisem, dar nu știam când. 
+sp	Algo oí, pero no sabía cuándo. 
+sp-eu	Sabía que iba a darla, pero no sabía cuándo. 
+sv	Jag hörde det, men visste inte när det var. 
+th	ได้ยินว่าเขาจะจัด | แค่ไม่รู้ว่าเมื่อไหร่ | 
+tr	Duymuştum da zamanını bilmiyordum. 
+vi	Tôi nghe nói anh ta có ý định đó, | chỉ không rõ là khi nào. | 
+zh-long	有聽說他要辦，只是不確定時間 
+zh-short	我听说是这样 只是我不知道时间 
+en	-I just didn't know when. | -Oh. | 
+

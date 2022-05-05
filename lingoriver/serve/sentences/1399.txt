@@ -1,0 +1,25 @@
+ar	&rlm;‏أثبت العلماء ذلك.‏ | 
+da	Videnskabsfolk har bevist det. 
+el	Έχει αποδειχθεί επιστημονικά. 
+en	-Aw. | -Our scientists have proven this. | 
+fi	Tutkijat ovat todenneet sen. 
+fr	C'est prouvé scientifiquement. 
+he	&rlm;‏מדענים הוכיחו את זה.‏ | 
+it	Lo ha provato la scienza. 
+ko	과학자가 증명한 사실이야 | 
+no	Det er vitenskapelig bevist. 
+pl	To potwierdzone naukowo. 
+pr-br	Cientistas já provaram isso. 
+pr	Os cientistas já o provaram. 
+ro	E dovedit științific. 
+sp-eu	La ciencia lo ha demostrado. 
+sp	Los científicos lo han demostrado. 
+sv	Forskarna har bevisat det. 
+th	นักวิทยาศาสตร์ได้พิสูจน์แล้ว | 
+tr	Bilim insanları bunu kanıtladı. 
+vi	Giới khoa học đã chứng minh điều này. | 
+zh-long	科學家證明了 
+zh-short	科学家们已经证明了这点 
+ru	Доказано учеными. 
+id	Para ilmuwan telah membuktikannya. 
+

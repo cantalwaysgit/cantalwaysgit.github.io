@@ -1,0 +1,50 @@
+id	Kapan pun seseorang di Wexler Artists menyelesaikan proyek, 
+ru	Когда кто-то в «Уэкслер Артистс» завершает проект, мы собираемся вместе. 
+pl	Kiedy ktoś z Wexler Artists zakończy jakiś projekt, 
+ja	誰かの作品が完成したら | 集まって鑑賞する | 
+ar	&rlm;‏‏عندما يكمل أحد | &rlm;‏في "ويكسلر أرتيستس" مشروعاً،‏ | 
+da	Når nogen fra Wexler Artists færdiggør et projekt, 
+el	Όποτε κάποιος από την ομάδα ολοκληρώνει ένα πρότζεκτ, 
+en	Whenever anybody at Wexler Artists | completes a project, | 
+fi	Aina kun joku Wexler Artistsilta saa projektin valmiiksi, 
+fr	Quand quelqu'un de chez nous termine un projet, 
+he	&rlm;‏כשמישהו מהאמנים של וקסלר מסיים פרויקט,‏ | 
+it	Quando un membro della Wexler Artists porta a termine un progetto, 
+ko	웩슬러 아티스트의 예술가가 | 작품을 하나 완성하면 | 
+nl	Als iemand van Wexler Artists een project voltooit... 
+no	Hver gang noen i Wexler Artists fullfører et prosjekt, 
+pr-br	Sempre que alguém na Artistas Wexler completa um projeto, 
+pr	Quando alguém na Wexler Artists conclui um projeto, 
+sp	Cuando algún artista de Artistas Wexler completa un proyecto, 
+sp-eu	Cuando alguien en Artistas Wexler completa un proyecto, 
+sv	När nån på Wexler Artists fullbordar ett projekt, 
+th	เมื่อใครสักคนในเวกซเลอร์อาร์ทิสต์ส | ทำโครงการสำเร็จ | 
+tr	Wexler Sanatçıları'nda bir proje tamamlandığında 
+vi	Khi ai đó trong công ty Nghệ sĩ Wexler | hoàn thành một dự án, | 
+zh-long	只要韋克斯勒經紀公司有人有作品 
+zh-short	每次韦克斯勒艺人公司有人有所成就 
+ro	Când orice artist de la Wexler Artists termină un proiect, ne adunăm. 
+id	- kami berkumpul. - Sungguh? 
+ar	&rlm;‏‏- نجتمع معاً. | &rlm;‏- حقاً؟‏ | 
+da	-så samles vi. -Gør vi? 
+el	-μαζευόμαστε εδώ. -Αλήθεια. 
+en	-we gather together. | -We do? | 
+fi	-kokoonnumme yhteen. -Niinkö? 
+fr	- on se réunit. - C'est nouveau, ça. 
+he	&rlm;‏‏אנחנו מתאספים. | &rlm;‏-באמת?‏ | 
+it	- ci riuniamo tutti. - Davvero? 
+ko	- 다 같이 모여 | - 그래? | 
+nl	...komen we samen. -Is dat zo? 
+no	-samles vi. -Gjør vi? 
+pl	- spotykamy się. - Tak? 
+pr-br	-nós nos reunimos. -Reunimos? 
+pr	nós reunimo-nos. - A sério? 
+sp-eu	- nos reunimos. - ¿Sí? 
+sp	- nos juntamos. - ¿Sí? 
+sv	-samlas vi allihop. -Gör vi? 
+th	- เราจะรวมตัวกัน | - งั้นเหรอ | 
+tr	-bir araya geliriz. -Öyle mi? 
+vi	- chúng ta tập trung lại. | - Thế ư? | 
+zh-long	-大家就會齊聚一堂 -有嗎？ 
+zh-short	-我们都要聚聚 -是吗？ 
+

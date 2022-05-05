@@ -1,0 +1,59 @@
+id	- Aku tidak peduli pada Chili's. - Kukira kau mau ke Chili's. 
+ja	知ったことか | 
+ru	-Мне не до гребаного «Чили». -Ты же хотел пойти. 
+ko	- 지금 칠리스가 문제가 아녜요 | - 가고 싶어 한 줄 알았는데 | 
+en	I don't give a shit | about Chili's right now. | 
+ar	&rlm;‏‏- لا أهتم بمطعم "تشيليز". | &rlm;‏- ظننتك أردت الذهاب إليه.‏ | 
+da	-Jeg er ligeglad med Chili's. -Det troede jeg, du gerne ville. 
+el	-Αδιαφορώ για το Τσίλις. -Νόμιζα ότι ήθελες να πας. 
+fi	-Chili's ei nyt kiinnosta. -Sinähän halusit sinne. 
+fr	- Je m'en fous. - Je croyais que tu voulais y aller. 
+he	&rlm;‏‏"צ'ילי'ס" לא מעניינים אותי עכשיו. | &rlm;‏-חשבתי שרצית ללכת.‏ | 
+it	- Non mi frega di Chili's. - Pensavo volessi andarci. 
+nl	Chili's boeit me niet. -Je wilde er toch heen? 
+no	-Jeg driter i Chili's. -Jeg trodde du ville dit. 
+pl	- W dupie mam Chili's. - Chciałeś iść. 
+pr-br	-Não ligo para o Chili's. -Achei que você queria ir. 
+pr	- Estou a cagar-me para o Chili's. - Pensava que querias ir lá. 
+ro	- Nu-mi pasă de restaurant acum. - Credeam că vrei să mergi. 
+sp-eu	- Chili's me da igual. - Creía que querías ir. 
+sp	- No me importa Chili's. - Pensé que querías ir. 
+sv	-Jag skiter i Chili's just nu. -Du ville ju gå dit. 
+th	- ฉันไม่สนเรื่องชิลีส์ | - นึกว่าอยากจะไป | 
+tr	-Chili's umurumda değil. -Gitmek istiyorsun sanıyordum. 
+vi	- Tôi không quan tâm tới nhà hàng đó. | - Tôi tưởng cậu muốn đi. | 
+zh-long	-誰管什麼餐廳 -我以為你想去那間餐廳吃飯 
+zh-short	-我不在乎红辣椒餐厅的事 -我以为你想去那儿 
+ja	行きたいだろ？ | 
+en	I thought you wanted to go to Chili's. | 
+
+el	Τηλεφωνώ από το ξενοδοχείο Εουρόπα. 
+da	Jeg ringer fra Hotel Europa. | 
+en	I'm calling from the Hotel Europa. 
+es-eu	Le llamo del hotel Europa. 
+fr	J'appelle de l'Hôtel Europa. 
+he	‫אני מתקשר ממלון אירופה.‬ | 
+hr	Zovem iz Hotela Europa. 
+hu	A Hotel Európából hívom. 
+id	Aku menelepon dari Hotel Europa. 
+it	Chiamo dall'Hotel Europa. 
+ja	&lrm;ホテル･ヨーロッパです | 
+ko	&lrm;유로파 호텔인데요 | 
+ms	Saya telefon dari Hotel Europa. 
+nl	Ik bel vanuit Hotel Europa. 
+no	Jeg ringer fra Hotel Europa. 
+pt-br	Estou ligando do Hotel Europa. 
+pt	Olá, fala do Hotel Europa. 
+ro	Sun de la Hotel Europa. 
+sv	Jag ringer från Hotell Europa. 
+th	&lrm;ผมโทรจากโรงแรมยูโรปาครับ | 
+tr	Merhaba, Hotel Europa'dan arıyorum. 
+vi	&lrm;Tôi đang gọi từ Khách sạn Europa. | 
+zh-short	我这里是欧罗巴酒店 
+cs	Dobrý den, volám z hotelu Evropa. 
+es	Hola. Llamo del Hotel Europa. 
+fi	Soitan Hotel Europasta. | 
+uk	Я дзвоню з готелю «Європа». 
+zh-long	我這裡是歐洲飯店 
+ru	Я звоню из отеля «Европа». 
+

@@ -1,0 +1,32 @@
+en	[continues shouting indistinctly] | 
+
+es	¿Y? 
+pt-br	E daí? 
+ru	Ну и что? 
+uk	То що? 
+el	Και λοιπόν; 
+fi	Entä sitten? | 
+sv	Jaha? 
+cs	No a? 
+da	Og? | 
+en	So what? 
+es-eu	¿Y? 
+fr	Et alors ? 
+he	‫אז מה?‬ | 
+hr	Da, i? 
+hu	Na és? 
+id	Lalu? 
+it	E allora? 
+ja	&lrm;だから？ | 
+ko	&lrm;그런데요? | 
+ms	Jadi, apa? 
+nl	En? 
+no	Hva så? 
+pt	E depois? 
+ro	Și ce dacă? 
+th	&lrm;แล้วไง | 
+tr	E? 
+vi	&lrm;Thì sao chứ? | 
+zh-long	所以呢？ 
+zh-short	所以呢？ 
+

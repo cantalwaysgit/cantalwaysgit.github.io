@@ -1,0 +1,27 @@
+id	Selamat. 
+ar	&rlm;‏تهانينا.‏ | 
+da	Tillykke. 
+el	Συγχαρητήρια. 
+en	Well, congratulations. | 
+fi	Onneksi olkoon. 
+fr	Félicitations. 
+he	&rlm;‏ברכות.‏ | 
+it	Congratulazioni. 
+ko	축하해요 | 
+nl	Gefeliciteerd. 
+no	Gratulerer. 
+pl	Gratulacje. 
+pr-br	Parabéns. 
+pr	Muitos parabéns. 
+ro	Felicitări! 
+sp-eu	Enhorabuena. 
+sp	Felicitaciones. 
+sv	Grattis. 
+th	ยินดีด้วย | 
+tr	Tebrikler. 
+vi	Xin chúc mừng. | 
+zh-long	恭喜妳 
+zh-short	恭喜 
+ja	おめでとう | 
+ru	Поздравляю. 
+

@@ -1,0 +1,18 @@
+ar	&rlm;‏"ضمادات جروح"‏ | 
+da	PLASTER 
+el	ΤΣΙΡΟΤΑ 
+en	[Muzak playing] | 
+fr	PANSEMENTS 
+he	&rlm;‏- פלסטר -‏ | 
+no	PLASTER 
+pr	PENSOS RÁPIDOS 
+ro	LEUCOPLAST 
+sp-eu	TIRITAS 
+sv	PLÅSTER 
+th	(พลาสเตอร์ยา) | 
+vi	BĂNG CỨU THƯƠNG | 
+zh-long	（OK繃） 
+zh-short	（邦迪创可贴） 
+id	PEMBALUT LUKA 
+ru	ПЛАСТЫРЬ 
+

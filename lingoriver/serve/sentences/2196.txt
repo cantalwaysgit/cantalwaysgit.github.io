@@ -1,0 +1,26 @@
+id	Hentikan! 
+ja	もうよせ | 
+th	หยุด! | 
+ar	&rlm;‏كفى!‏ | 
+da	Stop det! 
+el	Σταματήστε! 
+en	Stop it! | 
+fi	Lopettakaa! 
+fr	Ça suffit ! 
+he	&rlm;‏מספיק עם זה!‏ | 
+it	Ora basta! 
+no	Kutt ut! 
+pl	Przestańcie! 
+pr-br	Pare com isso! 
+pr	Parem com isso! 
+ro	Încetați! 
+sp-eu	¡Parad! 
+sp	¡Terminen! 
+sv	Sluta! 
+tr	Kesin şunu! 
+vi	Thôi ngay! | 
+zh-long	夠了！ 
+zh-short	别搞了！ 
+ru	Уймитесь! 
+ko	그만하라고! | 
+

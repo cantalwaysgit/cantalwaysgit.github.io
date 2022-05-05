@@ -1,0 +1,29 @@
+id	Kau mengirim uang ke stasiun radio 
+ru	Ты платил радиостанциям, чтобы крутили её песню? 
+ja	彼女の曲を流すよう | ラジオ局に心づけを？ | 
+en	Did you send envelopes of cash | to the radio stations | 
+ar	&rlm;‏هل أرسلت مالاً إلى الإذاعات لتبث ألبومها؟‏ | 
+da	Sendte du penge til radiostationerne, så de ville spille hendes plade? 
+el	Έστειλες χρήματα στους σταθμούς για να παίξουν το δίσκο της; 
+fi	Lähetitkö rahaa radiokanaville, jotta ne soittaisivat levyä? 
+fr	T'as envoyé du blé aux radios pour qu'ils passent son album ? 
+he	&rlm;‏‏האם שלחת כסף לתחנות רדיו | &rlm;‏כדי שישמיעו את התקליט שלה?‏ | 
+it	Hai spedito tu i soldi alle radio perché passassero il suo pezzo? 
+ko	노래 선곡해 달라고 | 라디오 방송국에 돈 보냈어요? | 
+nl	Stuurde jij geld naar de radiozenders zodat ze haar nummer draaiden? 
+no	Ga du penger til radiostasjoner så de skulle spille plata? 
+pl	Wysyłałeś kasę do stacji radiowych, żeby grali jej płytę? 
+pr-br	Pagou às estações de rádio para tocarem a música dela? 
+pr	Enviaste dinheiro às estações de rádio para passarem o disco dela? 
+ro	Ai trimis bani la posturile de radio ca să-i pună melodia? 
+sp	¿Enviaste dinero a las radios para que pasaran su disco? 
+sp-eu	¿Mandaste pasta a las emisoras de radio para que pusieran su disco? 
+sv	Skickade du pengar till stationerna så att de spelade hennes skiva? 
+th	คุณส่งเงินไปให้สถานีวิทยุต่างๆ | เพื่อให้เปิดเพลงของเธอหรือเปล่า | 
+tr	Albümünü çalsınlar diye radyo kanallarına para yolladın mı? 
+vi	Anh có gửi tiền tới các nhà đài | để họ mở hài hát của cô ấy? | 
+zh-long	你有送錢去電臺 好讓他們播放她的專輯？ 
+zh-short	为了让电台放她的歌 你给他们送钱了吗？ 
+id	agar mereka memutar lagunya? 
+en	so they could play her record? | 
+

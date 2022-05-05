@@ -1,0 +1,26 @@
+ru	-Да? -Ко всем остальным звездам. 
+id	Di atas sana bersama bintang-bintang indah. 
+ja	輝く星々の世界のね | 
+ar	&rlm;‏عالياً مع بقية النجوم المتألقة. | 
+da	Op til de andre stjerner. 
+el	Μαζί με τα υπόλοιπα όμορφα αστέρια. 
+en	Up there | with all the other beautiful stars. | 
+fi	Muiden tähtien joukkoon. 
+fr	Aussi haut que ces étoiles. 
+he	&rlm;‏למעלה עם כל שאר הכוכבים.‏ | 
+it	Lassù con tutte le altre stelle. 
+no	Opp dit til alle de andre stjernene. 
+pl	O tam, do panteonu gwiazd. 
+pr-br	Vai lá para cima com as outras estrelas. 
+pr	Lá em cima, com as outras estrelas. 
+ro	Alături de celelalte stele frumoase. 
+sp	A la cima junto a las otras estrellas. 
+sp-eu	Ahí arriba con las demás estrellas. 
+sv	En av de största stjärnorna. 
+th	บนนั้นกับดาวอื่นๆ | 
+tr	Diğer yıldızların yanına yerleşeceksin. 
+vi	Lên trên đó | với các ngôi sao xinh đẹp khác. | 
+zh-long	跟天上其他星星一塊閃閃發光 
+zh-short	跟天上的其他星星一起 
+ko	다른 별들과 함께 | 자리하게 되겠지 | 
+

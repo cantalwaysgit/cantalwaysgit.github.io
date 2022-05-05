@@ -1,0 +1,51 @@
+el	Στον τύπο από την εκπομπή των ανερχόμενων κωμικών! 
+ja	コメディー特番の担当者さ | 
+ar	&rlm;‏‏بالمسؤول عن برنامج | &rlm;‏"يونغ كوميديانز سبيشال"!‏ | 
+da	Ham fra Young Comedians Special. 
+en	The guy from the Young Comedians Special. | 
+fi	Sille Young Comedians Specialin tyypille. 
+fr	Le gars de l'émission spéciale pour jeunes humoristes. 
+he	&rlm;‏הבחור מ"יאנג קומדיאנס ספיישל".‏ | 
+id	Orang dari Young Comedians Special. 
+it	Il tizio del Young Comedians Special! 
+ko	코미디언 특집 | 젊은 담당자 말이야! | 
+pl	Do faceta z Young Comedians Special. 
+pr-br	Para o cara do  Young Comedians Special. 
+pr	O tipo do Especial "Jovens Comediantes". 
+ro	Pe tipul de la  Young Comedians Special. 
+ru	Парню из «Молодых комиков»! 
+sp	Al tipo del Especial de Comediantes Jóvenes. 
+sp-eu	Al tío del Especial Cómicos Jóvenes. 
+sv	Killen från Young Comedians Special. 
+th	คนจากยังก์คอมีเดียนส์สเปเชียล | 
+tr	Genç Komedyenler'deki adamı. 
+vi	Gã ở Chương trình Danh hài trẻ Đặc biệt. | 
+zh-long	《喜劇演員新血特輯》那傢伙 
+zh-short	年轻喜剧人剧团的那个人！ 
+nl	De man van de Young Comedians Special. -Die moet ik bellen. 
+ar	&rlm;‏أجل. لا، يجب أن أتصل به.‏ | 
+da	Ja, ham skal jeg have ringet til. 
+el	Α ναι, πρέπει να του τηλεφωνήσω. 
+en	Oh, yeah. No, I gotta call him. | 
+fi	Niin. Täytyy soittaa hänelle. 
+fr	Ah, oui. Faut que je l'appelle. 
+he	&rlm;‏כן. לא, אני צריך להתקשר אליו.‏ | 
+it	Ah, sì. No, devo ancora chiamarlo. 
+ko	아, 그래, 전화해야 해 | 
+pl	Tak, muszę do niego dryndnąć. 
+pr-br	É. Não, tenho que ligar para ele. 
+pr	Pois. Não, tenho de lhe ligar. 
+ro	Da. Trebuie să-l sun. 
+ru	А! Да, я ему позвоню. 
+sp-eu	Sí. No, tengo que llamarle. 
+sp	Sí. No, tengo que llamarlo. 
+sv	Ja. Nej, jag måste ringa honom. 
+th	อ๋อ เปล่า ยังต้องโทรไปหาเขา | 
+tr	Evet. Yok, onu aramam gerekiyor. 
+vi	Ừ. Không, tôi phải gọi đã. | 
+zh-long	對喔，我要打給他 
+zh-short	不 我会打给他的 
+ja	ああ 電話しとく | 
+no	Ja. Nei, jeg må ringe ham. 
+id	Ya. Tidak, aku harus menghubunginya. 
+

@@ -28,3 +28,33 @@ fr	Précisément le type qui me fusillait du regard.
 el	Ήταν ο τύπος που με κοιτούσε με θυμό. 
 id	yang terus menatap marah kepadaku. 
 
+zh-short	他不在温格诺夫斯基家 
+cs	U Węgrzynowských taky není. 
+uk	Він не у Венгжиновських. 
+el	Δεν είναι στους Βεγκρινόφκι. 
+es	No está con los Węgrzynowscy. 
+pt-br	Ele não está nos Węgrzynowskis. 
+ru	У Венгжиновских его тоже нет. 
+da	Han er ikke hos Wegrzynowskis. | 
+en	He's not at the Węgrzynowskis'. 
+es-eu	No está con los Wegrzynowski. 
+fr	Rien chez les Węgrzynowski. 
+he	‫הוא לא אצל משפחת ונגרנובזסקי.‬ | 
+hr	Nije ni kod Węgrzynowskih. 
+hu	Węgrzynowskiéknál nincs. 
+id	Dia tak ada di rumah Węgrzynowski. 
+it	Non è neanche dai Węgrzynowski. 
+ko	&lrm;벵그지노프스키 집에는 안 갔대 | 
+nl	Hij is niet bij de Węgrzynowski's. 
+no	Han er ikke hos Wegrzynowskis. 
+pt	Não está nos Węgrzynowski. 
+ro	Nu e la familia Węgrzynowscy. 
+sv	Han är inte hos Węgrzynowski. 
+th	&lrm;เขาไม่ได้อยู่บ้านครอบครัวแวงซึนนอฟสกี | 
+tr	Węgrzynowski'lerde de değilmiş. 
+vi	&lrm;Nó không ở nhà Węgrzynowski. | 
+zh-long	他不在溫茲諾夫斯基家 
+fi	Hän ei ole Wegrzynowskien luona. | 
+ms	Dia tiada di rumah Wegrzynowskis. 
+ja	&lrm;ベグルジノフスキさん宅には | &lrm;いない | 
+

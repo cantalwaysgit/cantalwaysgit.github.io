@@ -1,0 +1,23 @@
+ar	&rlm;‏‏وأصور أغنية لمحطة "في أيتش وان" | &rlm;‏مع "ليني كرافيتز".‏ | 
+da	og optage den her VH1-ting med Lenny Kravitz. 
+el	για να γυρίσω μια εκπομπή του VH1 με τον Λένι Κράβιτζ. 
+en	and shoot this VH1 thing | with Lenny Kravitz. | 
+fr	pour filmer un truc avec Lenny Kravitz. 
+he	&rlm;‏‏ולצלם את הדבר הזה בשביל וי-אייץ' 1 | &rlm;‏עם לני קרביץ.‏ | 
+it	a girare uno speciale per VH1 con Lenny Kravitz. 
+no	og spille inn en VH1-greie med Lenny Kravitz. 
+pl	Mam nagranie z Lennym Kravitzem dla VH1. 
+pr-br	um lance para VH1 com Lenny Kravitz. 
+pr	para filmar uma coisa para a VH1 com o Lenny Kravitz. 
+ro	la filmarea cu Lenny Kravitz, pentru VH1. 
+sp-eu	y rodar una cosa para VH1 con Lenny Kravitz. 
+sp	y filmar algo de VH1 con Lenny Kravitz. 
+th	ไปถ่ายรายการวีเอชวัน | กับเลนนี่ คราวิตซ์ | 
+tr	Lenny Kravitz'le bir VH1 çekimimiz var. 
+vi	và lên hình kênh VH1 với Lenny Kravitz. | 
+zh-long	跟藍尼克羅維茲拍MV 
+zh-short	跟兰尼克拉维茨拍VH-1的东西 
+id	dan syuting untuk VH1 bersama Lenny Kravitz. 
+ru	сниматься на VH1 с Ленни Кравицем. 
+ko	레니 크래비츠랑 | VH1 촬영이 있어요 | 
+

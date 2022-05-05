@@ -1,0 +1,27 @@
+ar	&rlm;‏لا، أنا بخير.‏ | 
+da	Jeg har det fint. 
+el	Μια χαρά είμαι. 
+en	No, I'm fine. | 
+fr	Non, ça va. 
+he	&rlm;‏לא, אני בסדר.‏ | 
+it	No, sto bene. 
+ko	아니, 난 괜찮아 | 
+nl	Nee, ik ben in orde. 
+pr-br	Não, estou bem. 
+pr	Não, eu estou bem. 
+ro	Nu, n-am nimic. 
+sp-eu	No, estoy bien. 
+sp	No, estoy bien. 
+sv	Nej, jag mår bra. 
+vi	Không, tôi ổn mà. | 
+zh-long	我沒事 
+zh-short	不 我没事 
+no	Nei, det går bra. 
+ja	大丈夫だ | 
+fi	Olen kunnossa. 
+tr	Yok, ben iyiyim. 
+id	Aku baik-baik saja. 
+pl	Nic mi nie jest. 
+ru	Нет, всё в порядке. 
+th	ไม่ ฉันไม่เป็นไร | 
+

@@ -1,0 +1,24 @@
+ar	&rlm;‏لا.‏ | 
+da	Nej. 
+el	Όχι, όχι. 
+en	No, no, no. | 
+fi	En. 
+he	&rlm;‏לא.‏ | 
+ko	아니야 | 
+no	Nei. 
+pl	Nie. 
+pr-br	Não. 
+pr	Não. 
+ro	Nu. 
+ru	Нет. 
+sp-eu	No. 
+sp	No. 
+sv	Nej. 
+th	ไม่ ไม่เลย | 
+tr	Hayır, hayır. 
+vi	Không. | 
+zh-long	沒這回事 
+zh-short	没有 
+id	Bukan. 
+ja	まさか | 
+

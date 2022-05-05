@@ -1,0 +1,27 @@
+ar	&rlm;‏‏لا! لا تقل إنه أمر مستحيل! | &rlm;‏يمكن التفاوض على كل شيء!‏ | 
+da	Nej! Sig ikke, det er umuligt! Alt er til forhandling! 
+el	Μη μου λέτε ότι είναι αδύνατον! Όλα είναι διαπραγματεύσιμα! 
+en	No! No! Don't tell me it's impossible! | Everything's negotiable! | 
+fi	Älä sano, että se on mahdotonta. Kaikesta voi neuvotella! 
+fr	Me dites pas que c'est impossible ! Tout est négociable ! 
+he	&rlm;‏‏לא! אל תגיד לי שזה בלתי אפשרי! | &rlm;‏הכול נתון למשא ומתן!‏ | 
+it	Non mi dica che è impossibile! Tutto è negoziabile! 
+ko	아니, 불가능하다고 하지 마! | 협상하면 안 되는 게 어딨어? | 
+nl	Zeg niet dat het onmogelijk is. Je kunt over alles onderhandelen. 
+pl	Nie! Nie mów, że to niemożliwe! Wszystko da się wynegocjować! 
+pr-br	Não! Não me diga que é impossível! Tudo é negociável! 
+pr	Não me diga que é impossível! Tudo pode ser negociado! 
+ro	Nu! Nu-mi spune că e imposibil! Totul e negociabil! 
+sp-eu	¡No! No me diga que es imposible. ¡Todo es negociable! 
+sp	¡No! ¡No me diga que es imposible! ¡Todo es negociable! 
+sv	Nej! Säg inte att det är omöjligt! Allt är förhandlingsbart! 
+tr	Hayır! İmkânsız demeyin! Her şey pazarlığa tabidir! 
+vi	Không! Đừng bảo là không được! | Cái gì cũng thỏa thuận được mà! | 
+zh-long	不行！別告訴我不可能！ 什麼事都可以商量！ 
+zh-short	不！别跟我说不行！ 万事都有得商量！ 
+id	Tidak! Jangan bilang tak mungkin! Semua bisa dinegosiasikan! 
+ja	ダメってことはないだろ？ | 何事も交渉だ | 
+no	Nei! Ikke si at det ikke er mulig! Alt kan forhandles! 
+ru	Нет! Не говорите, что это невозможно! Всё возможно! 
+th	ไม่ ไม่ อย่าบอกว่ามันเป็นไปไม่ได้ | ทุกอย่างต่อรองกันได้ทั้งนั้น | 
+

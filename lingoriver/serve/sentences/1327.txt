@@ -1,0 +1,27 @@
+ar	&rlm;‏لا.‏ | 
+da	Nej, det har jeg ikke. 
+el	Όχι. 
+en	No, I didn't. | 
+fr	Non. 
+he	&rlm;‏לא.‏ | 
+it	No, mai. 
+pr-br	Não vi. 
+pr	Não. 
+ro	Nu l-am văzut! 
+sp-eu	No. 
+sp	No, no la vi. 
+sv	Nej, det har jag inte. 
+vi	Tôi chưa xem. | 
+zh-long	沒有 
+zh-short	没有 
+ko	아니요 | 
+nl	Nee. Maar ik zag  Problem Child. Dat kind was geweldig. 
+ja	いけない子が出る | 「うわさの問題児」なら見た | 
+no	Nei. 
+fi	En ole. 
+tr	Yok, izlemedim. 
+id	Belum. 
+pl	Nie. 
+ru	Нет. 
+th	ไม่เคย | 
+

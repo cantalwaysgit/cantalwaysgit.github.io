@@ -1,0 +1,28 @@
+id	- Ini aku. - Hai, Kevin. 
+ja	俺だ | 
+ru	-Это я. -Привет, Кевин. 
+sv	-Det är jag. -Hej, Kevin. 
+ar	&rlm;‏‏- إنه أنا. | &rlm;‏- مرحباً يا "كيفن".‏ | 
+el	-Εγώ είμαι. -Γεια σου, Κέβιν. 
+en	-[Kevin] It's me. | -Hi, Kevin. | 
+fi	-Minä täällä. -Hei, Kevin. 
+fr	- C'est moi. - Salut, Kevin. 
+he	&rlm;‏‏זה אני. | &rlm;‏-היי, קווין.‏ | 
+it	- Sono io. - Ciao, Kevin. 
+ko	- 나야 | - 안녕, 케빈 | 
+nl	Met mij. -Hé, Kevin. 
+no	-Det er meg. -Hei, Kevin. 
+pl	- To ja. - Cześć, Kevin. 
+pr-br	-Sou eu. -Oi, Kevin. 
+pr	- Sou eu. - Olá, Kevin. 
+ro	- Sunt eu. - Salut, Kevin! 
+sp-eu	- Soy yo. - Hola, Kevin. 
+sp	- Soy yo. - Hola, Kevin. 
+th	- ฉันเอง | - ไง เควิน | 
+tr	-Benim. -Merhaba Kevin. 
+vi	- Là tôi đây. | - Chào Kevin. | 
+zh-long	-是我 -嗨，凱文 
+zh-short	-是我 -嗨 凯文 
+da	Det er mig... Vidste du, de sendte det? 
+ja	ケヴィン | 
+

@@ -1,0 +1,27 @@
+id	Seorang wanita menginginkan sentuhan seorang pria. 
+ru	А женщине нужна мужская рука. 
+ja	女は男に触れられたい | 
+ar	&rlm;‏وتتشوق المرأة للمسة رجل.‏ | 
+da	Og en kvinde længes efter en mands berøring. 
+el	Μια γυναίκα λαχταρά το άγγιγμα ενός άνδρα. 
+en	And a woman yearns for a man's touch. | 
+fi	Nainen kaipaa miehen kosketusta. 
+fr	Et une femme a besoin d'être touchée par un homme. 
+he	&rlm;‏ואישה משתוקקת למגע ידו של גבר.‏ | 
+it	E una donna ha bisogno del contatto di un uomo. 
+ko	여자는 남자의 손길을 | 갈망하게 마련이죠 | 
+nl	En een vrouw verlangt naar de aanraking van een man. 
+no	Og en kvinne lengter etter en manns berøring. 
+pl	Kobiecie brakuje dotyku mężczyzny. 
+pr-br	E uma mulher deseja um toque masculino. 
+pr	E uma mulher anseia pelo toque de um homem. 
+ro	Iar femeia tânjește după atingerea bărbatului. 
+sp-eu	Y una mujer ansía las caricias de un hombre. 
+sp	Y una mujer necesita el toque de un hombre. 
+sv	Och en kvinna längtar efter en mans beröring. 
+th	และผู้หญิงก็กระหายให้ผู้ชายจับต้อง | 
+tr	Kadın dediğin, erkeğin dokunuşuna özlem duyar. 
+vi	Và một người đàn bà | khao khát bàn tay đàn ông. | 
+zh-long	有個女人渴望男人的愛撫 
+zh-short	女人渴望男人抚摸 
+

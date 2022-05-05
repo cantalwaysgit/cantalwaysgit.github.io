@@ -1,0 +1,27 @@
+id	Lebih dari itu, dia sahabatku. 
+ja	そして大親友だったんだ | 
+ru	И не только. Он был моим лучшим другом. 
+ar	&rlm;‏بل أكثر من ذلك. فقد كان أعز أصدقائي.‏ | 
+da	Mere end det. Han var min bedste ven. 
+el	Επιπλέον, ήταν ο καλύτερός μου φίλος. 
+en	More than that. | He was... He was my best friend. | 
+fi	Enemmänkin. Paras ystäväni. 
+fr	Plus que ça. C'était mon meilleur ami. 
+he	&rlm;‏יותר מזה. הוא היה החבר הכי טוב שלי.‏ | 
+it	Più che un cliente. Era il mio migliore amico. 
+ko	고객 이상이었지 | 내 절친이었으니까 | 
+nl	Meer dan dat. Mijn beste vriend. 
+no	Mer enn det. Han var min beste venn. 
+pl	I moim najlepszym przyjacielem. 
+pr-br	Mais do que isso. Ele era meu melhor amigo. 
+pr	Mais do que isso, era o meu melhor amigo. 
+ro	Ba mai mult. Mi-a fost cel mai bun prieten. 
+sp-eu	Más aún. Era mi mejor amigo. 
+sp	Más que eso. Era mi mejor amigo. 
+sv	Mer än så. Han var min bästa vän. 
+th	มากกว่านั้น เขาเป็นเพื่อนซี้ของผม | 
+tr	Daha da fazlasıydı. En iyi dostumdu. 
+vi	Hơn cả thế. | Anh ta là bạn thân nhất của tôi. | 
+zh-long	不只如此，他是我最好的朋友 
+zh-short	不仅如此 他还是我最好的朋友 
+

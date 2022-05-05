@@ -1,0 +1,53 @@
+ja	そうさ　世界中を飛び回る | 
+id	Aku tahu. Sudah kukatakan, kau akan pergi ke banyak tempat. 
+ru	Знаю. Говорю же, ты далеко пойдешь. 
+ar	&rlm;‏أعلم. أخبرتك أنك ستترقين.‏ | 
+da	Ja. Jeg sagde jo, at du når langt. 
+el	Το ξέρω. Σ' το είπα ότι θα φτάσεις ψηλά. 
+en	I know. I told you, you were going places. | 
+fi	Minähän sanoin, että pääset vauhdilla eteenpäin. 
+fr	Je sais. Je te l'ai dit, tu vas prendre ton envol. 
+he	&rlm;‏אני יודע. אמרתי לך שאת תגיעי רחוק.‏ | 
+it	Lo so. Te l'ho detto che avresti viaggiato. 
+ko	알아, 내가 말했잖아 | 사방으로 돌아다닐 거라고 | 
+no	Jeg vet det. Jeg sa jo at du ville nå langt. 
+pl	Wiem. Będziesz dużo podróżować. 
+pr-br	Eu sei. Eu disse que você iria a lugares. 
+pr	Eu sei. Eu disse-te que ias longe. 
+ro	Știu. Ți-am zis eu că o să ajungi departe. 
+sp-eu	Lo sé. Te dije que llegarías lejos. 
+sp	Lo sé. Te dije que llegarás lejos. 
+sv	Jag vet. Jag sa ju att du skulle få resa. 
+th	ผมรู้ ก็บอกแล้ว คุณจะได้ไปไหนต่อไหน | 
+tr	Biliyorum. Çok yükseleceksin dedim ya. 
+vi	Tôi biết. Tôi nói rồi, cô sẽ đi nhiều nơi. | 
+zh-long	我知道，我說了妳會直飛雲霄 
+zh-short	我知道 我说过 你要去世界各地 
+nl	Weet ik. Ik zei toch dat je ging reizen. -Heel slim. 
+id	- Kau bermulut manis, Sandy. - Terima kasih. 
+ru	-Очень мило, Сэнди. -Спасибо. 
+ar	&rlm;‏‏- هذا لطيف جداً يا "ساندي". | &rlm;‏- شكراً لك.‏ | 
+da	-Det er sødt, Sandy. -Tak. 
+el	-Ωραία το έσωσες, Σάντι. -Ευχαριστώ. 
+en	-That's real smooth, Sandy. | -Thank you. | 
+fi	-Olet sulavapuheinen. -Kiitos. 
+fr	- Bien rattrapé, Sandy. - Merci. 
+he	&rlm;‏‏זה ממש ערמומי, סנדי. | &rlm;‏-תודה.‏ | 
+it	- Geniale, Sandy. - Grazie. 
+ko	- 정말 청산유수네요 | - 고마워 | 
+pl	- Wybrnąłeś. - Dziękuję. 
+pr-br	-Que maravilha, Sandy. -Obrigado. 
+pr	- Que grande lábia, Sandy. - Obrigado. 
+ro	- Ce subtil, Sandy! - Mulțumesc. 
+sp-eu	- Muy hábil, Sandy. - Gracias. 
+sp	- Qué dulce, Sandy. - Gracias. 
+sv	-Snygg räddning. -Tack. 
+th	- นั่นเนียนมากเลยนะ แซนดี้ | - ขอบคุณ | 
+tr	-İyi kıvırdın Sandy. -Sağ ol. 
+vi	- Vụng chèo khéo chống, Sandy. | - Cảm ơn cô. | 
+zh-long	-轉得還真順，山迪 -謝謝 
+zh-short	-圆得还真不赖 桑迪 -谢谢 
+ja	口がうまいのね | 
+no	-Fin replikk, Sandy. -Takk. 
+ja	どうも | 
+

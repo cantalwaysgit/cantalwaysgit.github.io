@@ -1,0 +1,24 @@
+ar	&rlm;‏لن أنظر.‏ | 
+da	Jeg kigger ikke. 
+el	Δε θα κοιτάξω. 
+en	I won't look. | 
+fi	En katso. 
+fr	Je regarderai pas. 
+he	&rlm;‏לא אסתכל.‏ | 
+it	Non ti guardo. 
+ko	안 볼게요 | 
+no	Jeg skal ikke se. 
+pr-br	Não vou olhar. 
+pr	Eu não olho. 
+ro	Nu mă uit. 
+sp-eu	No miraré. 
+sp	No voy a mirar. 
+th	ฉันจะไม่มองหรอก | 
+tr	Bakmam. 
+vi	Tôi sẽ không nhìn đâu. | 
+zh-long	我不看 
+zh-short	我不看 
+id	Aku tak akan melihat. 
+ja	見ないわ | 
+ru	Я отвернусь. 
+

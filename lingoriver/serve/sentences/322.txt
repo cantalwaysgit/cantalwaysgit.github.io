@@ -1,0 +1,22 @@
+ar	&rlm;‏فسأحب أن أجري حديثاً.‏ | 
+da	så vil jeg gerne have en snak. 
+el	θα χαρώ να το συζητήσουμε. 
+en	I would love to have | a conversation about this. | 
+fi	keskustelisin mielelläni. 
+fr	j'aimerais qu'on discute. 
+he	&rlm;‏אשמח לשוחח איתך.‏ | 
+it	vorrei parlare con lei. 
+ko	대화를 하고 싶어요 | 
+pl	to bardzo bym chciał. 
+pr-br	eu adoraria conversar. 
+pr	eu adoraria conversar sobre isto. 
+ro	mi-ar plăcea să purtăm o conversație. 
+sp-eu	me encantaría tener una conversación. 
+th	ผมอยากจะคุยด้วย | 
+tr	biraz konuşmak isterim. 
+vi	tôi rất muốn có cuộc trò chuyện. | 
+zh-long	我希望能跟你談談 
+zh-short	我很希望能跟您好好商量商量 
+id	aku ingin membicarakan hal ini. 
+ru	я хотел бы побеседовать. 
+

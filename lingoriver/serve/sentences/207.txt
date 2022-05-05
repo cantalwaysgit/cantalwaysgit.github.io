@@ -1,0 +1,34 @@
+id	Kita akan bersenang-senang, anak-anak. 
+ja	うんと楽しもうな ２人とも | 
+ru	Мы отлично проведем время! 
+
+es	Que se sintió herido y abandonado. 
+pt-br	Que se sentia magoado e abandonado. 
+cs	že se cítí zraněný a osamělý. 
+da	At han følte sig såret og svigtet. | 
+el	Ότι ένιωθε πληγωμένος και εγκαταλειμμένος. 
+en	That he felt hurt. And abandoned. 
+es-eu	Que se sentía herido y abandonado. 
+fi	Että hän tunsi itsensä | loukatuksi ja hylätyksi. | 
+fr	Qu'il se sentait blessé. Et abandonné. 
+he	‫שכואב לו. שהוא מרגיש שנטשו אותו.‬ | 
+hr	Da se osjeća povrijeđeno i napušteno. 
+hu	És fájdalmat. És hogy elhagyták. 
+id	Bahwa dia merasa terluka. Dan diabaikan. 
+it	Che si sentiva ferito e abbandonato. 
+ko	&lrm;상처받았고 버려졌다고요 | 
+ms	Dia rasa kecewa dan terbiar. 
+nl	Dat hij zich gekwetst voelde. En alleen. 
+no	At han følte seg såret. Og forlatt. 
+pt	Que se sentia magoado. E abandonado. 
+ro	Că se simte rănit și abandonat. 
+ru	чувствует боль и одиночество. 
+sv	Han kände sig sårad och övergiven. 
+th	&lrm;เขารู้สึกเจ็บปวด และถูกทอดทิ้ง | 
+tr	İncindiğini ve yalnız bırakıldığını. 
+uk	Що йому боляче. І самотньо. 
+vi	&lrm;Rằng cậu ấy thấy bị tổn thương. | &lrm;Và bị bỏ rơi. | 
+zh-long	他覺得受傷、被拋棄 
+zh-short	他感觉自己受到了伤害 被抛弃了 
+ja	&lrm;“傷つき | &lrm;捨てられた気分だ”と | 
+

@@ -1,0 +1,26 @@
+ru	Мы слишком сблизились? 
+id	Menurutmu, kita menjadi terlalu akrab? 
+ar	&rlm;‏‏- أتظن أنك تقربت مني كثيراً؟ | &rlm;‏- أجل.‏ | 
+da	-Syntes du, vi blev for tæt knyttede? -Ja. 
+el	-Νομίζεις ότι δεθήκαμε πολύ; -Ναι. 
+en	-You thought we got too close? | -Yeah. | 
+fi	Luuletko, että olimme liian läheisiä? 
+fr	On était trop proches ? 
+he	&rlm;‏‏חשבת שהתקרבנו יותר מדי? | &rlm;‏-כן.‏ | 
+it	- Pensavi che fossimo troppo legati? - Sì. 
+ko	- 우정 때문이라고 생각했어? | - 그래 | 
+nl	Vond je dat we te close waren? 
+pl	- Bo się zaprzyjaźniliśmy? - Tak. 
+pr	- Achaste que ficámos próximos? - Sim. 
+pr-br	-Achou que nos envolvemos demais? -Sim. 
+ro	- Ai crezut că ne-am apropiat prea mult? - Da. 
+sp	- ¿Creíste estar muy involucrado? - Sí. 
+sp-eu	- ¿Crees que nos implicamos demasiado? - Sí. 
+sv	-Tror du att vi kom för nära varann? -Ja. 
+th	- นายคิดว่าเราใกล้ชิดกันเกินไปเหรอ | - ใช่ | 
+tr	-Fazla mı yakınlaştık? -Evet. 
+vi	- Anh nghĩ ta quá thân thiết? | - Phải. | 
+zh-long	-你以為是因為我們公私不分？ -對 
+zh-short	-你觉得我们太过从甚密了？ -是的 
+ja	友情のせいだと？ | 
+

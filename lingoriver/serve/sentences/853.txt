@@ -1,0 +1,27 @@
+ar	&rlm;‏‏فدخلنا إلى البركة | &rlm;‏لأنها كانت أكثر مكان آمن.‏ | 
+da	Så vi hoppede i poolen, fordi det var sikrest. 
+el	Πήγαμε στην πισίνα, γιατί ήταν το πιο ασφαλές μέρος. 
+en	So we just went in the pool | 'cause it's the safest place to be. | 
+fi	Menimme altaaseen, koska se on turvallisin paikka. 
+fr	On est allés dans la piscine pour être en sécurité. 
+he	&rlm;‏‏אז נכנסו לבריכה | &rlm;‏כי זה המקום הכי בטוח להיות בו.‏ | 
+it	Siamo andati vicino alla piscina perché è il posto più sicuro. 
+nl	We gingen het zwembad in, omdat dat de veiligste plek is. 
+no	Så vi hoppet i bassenget, fordi det er det tryggeste stedet. 
+pl	Weszliśmy do basenu, bo w nim było najbezpieczniej. 
+pr-br	Então, entramos na piscina, pois era o lugar mais seguro. 
+pr	Só fomos para a piscina porque é o sítio mais seguro para estar. 
+ro	Am intrat în piscină fiindcă era cel mai sigur loc. 
+sp	Así que nos metimos en la piscina porque es el lugar más seguro. 
+sp-eu	Así que nos metimos en la piscina porque es el sitio más seguro. 
+sv	Vi hoppade i poolen för det var det säkraste stället. 
+th	เราก็เลยลงไปในสระ | เพราะมันคือที่ปลอดภัยที่สุด | 
+tr	Biz de en güvenli yer olduğu için havuza girdik. 
+vi	Vì vậy chúng tôi xuống bể bơi | vì đó là nơi an toàn nhất. | 
+zh-long	我們跳進泳池，因為那裡最安全 
+zh-short	所以我们才进了泳池 因为那最安全 
+id	Jadi, kami masuk ke kolam karena itu tempat teraman. 
+ru	Мы залезли в бассейн, потому что там безопаснее. 
+ko	그래서 가장 안전한 장소인 | 수영장으로 들어간 거예요 | 
+ja	安全なプールサイドに | 避難した | 
+

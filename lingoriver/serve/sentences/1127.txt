@@ -1,0 +1,29 @@
+en	Okay. | 
+ar	&rlm;‏حسناً. ادخل. دعني أغسل ملابسك.‏ | 
+da	Kom ind. Lad mig vaske tøjet. 
+el	Εντάξει, έλα μέσα. Θα πλύνω τα ρούχα σου. 
+fr	D'accord. Entre, alors. Je vais laver tes vêtements. 
+it	Dai, entra. Ti lavo i vestiti. 
+ko	알았어요, 들어오세요 | 옷 빨아야겠네요 | 
+pr-br	Certo. Entre. Vou lavar as suas roupas. 
+pr	Está bem. Entra. Deixa-me lavar-te essas roupas. 
+sp	Bien. Entra. Te lavaré la ropa. 
+sp-eu	Vale. Pasa. Deja que te lave la ropa. 
+sv	Kom in. Jag kan tvätta dina kläder. 
+zh-long	好吧，進來，我幫你洗衣服 
+id	Baiklah. 
+th	โอเค เข้ามาสิค่ะ | ให้ฉันซักเสื้อให้คุณเถอะ | 
+vi	Thôi được. Anh vào đi. Để tôi giặt đồ cho. | 
+ja	入って　服を洗ってあげる | 
+ru	Ладно. Заходи. Я постираю твою одежду. 
+he	&rlm;‏בסדר. תיכנס. תן לי לכבס את הבגדים האלה.‏ | 
+tr	Pekâlâ. İçeri gel. Üstündekileri yıkayayım. 
+fi	Tule sisään. Pesen vaatteesi. 
+no	Ok. Bli med inn. La meg vaske de klærne. 
+pl	Wejdź. Wyczyszczę ci ubranie. 
+ro	Bine. Intră! O să-ți spăl hainele alea. 
+zh-short	好吧 进来 我把你身上的衣服洗洗 
+nl	Kom binnen. Dan was ik je kleren. 
+id	Masuklah. Biar kucuci pakaian itu. 
+en	Come on in. | Let me wash those clothes. | 
+

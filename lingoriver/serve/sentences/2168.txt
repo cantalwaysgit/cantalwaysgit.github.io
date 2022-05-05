@@ -1,0 +1,27 @@
+en	[Butt-Head] Uh, Sandy, | I'm calling about Beavis. | 
+ja	ビーバスのことで | 話がある | 
+fi	Soitan Beavisin takia. 
+th	แซนดี้ ที่โทรมาก็เรื่องบีวิส | 
+ko	샌디, 비비스 일로 전화했어요 | 
+ar	&rlm;‏أتصل بخصوص "بيفس" يا "ساندي".‏ | 
+da	Sandy, jeg ringer angående Beavis. 
+el	Σάντι, σε πήρα για τον Μπίβις. 
+fr	Sandy, j'appelle au sujet de Beavis. 
+he	&rlm;‏סנדי, אני מתקשר בקשר לביוויס.‏ | 
+it	Sandy, vorrei parlarti di Beavis. 
+nl	Ik bel over Beavis. 
+pr-br	Sandy, estou ligando para falar do Beavis. 
+pr	Sandy, estou a ligar por causa do Beavis. 
+ro	Sandy, te sun în legătură cu Beavis. 
+sp-eu	Sandy, te llamo por Beavis. 
+sp	Sandy, te llamo por Beavis. 
+sv	Jag ringer angående Beavis. 
+vi	Sandy, tôi gọi nói về Beavis. | 
+zh-long	山迪，我打來講癟四的事 
+zh-short	桑迪 我是为了瘪四的事才打来的 
+id	Sandy, aku menelepon karena Beavis. 
+ru	Сэнди, я насчет Бивиса. 
+pl	Dzwonię w sprawie Beavisa. 
+no	Sandy, jeg ringer angående Beavis. 
+tr	Sandy, seni Beavis'le ilgili aradım. 
+

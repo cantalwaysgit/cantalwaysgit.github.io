@@ -1,0 +1,27 @@
+ru	Сколько можно слушать эту песню? 
+ja	最近 同じ曲ばかり | 聴いてるな | 
+id	Berapa kali kau akan mendengarkan satu lagu itu, Kawan? 
+ar	&rlm;‏كم مرة ستستمع إلى نفس الأغنية يا صديقي؟‏ | 
+da	Hvor mange gange skal du lytte til den sang? 
+el	Πόσες φορές θα ακούσεις αυτό το τραγούδι; 
+en	And how many times are you going to | listen to that one song, my friend? | 
+fi	Montako kertaa aiot kuunnella sen saman kappaleen? 
+fr	Et combien de fois tu vas écouter cette chanson ? 
+he	&rlm;‏כמה פעמים אתה מתכוון להקשיב לשיר הזה?‏ | 
+it	Quante volte dovrai ascoltare quella canzone? 
+ko	그 노래는 언제까지 | 반복해서 들을 거야? | 
+nl	Hoe vaak ga je naar dat nummer luisteren? 
+no	Hvor mange ganger skal du høre på den sangen? 
+pl	Ile razy będziesz słuchał tej piosenki? 
+pr-br	Quantas vezes vai ouvir aquela música? 
+pr	Quantas vezes vais ouvir essa canção? 
+ro	De câte ori o să mai asculți cântecul ăla? 
+sp	¿Cuántas veces vas a escuchar esa canción? 
+sp-eu	¿Cuántas veces vas a escuchar esa canción? 
+sv	Hur många gånger ska du lyssna på den låten? 
+th	คุณจะฟังเพลงเดียวนั่นกี่ครั้ง | 
+tr	Daha kaç kere o şarkıyı dinleyeceksin? 
+vi	Anh định nghe bài hát đó bao nhiêu lần? | 
+zh-long	那首歌你到底要聽多少遍？ 
+zh-short	那歌你要听几次？ 
+

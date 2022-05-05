@@ -1,0 +1,27 @@
+ar	&rlm;‏المصارعة الاحترافية.‏ | 
+da	Professionel wrestling. 
+el	Την επαγγελματική πάλη. 
+en	Wrestling. Professional wrestling. | 
+fi	Ammattipainijan. 
+fr	Le catch professionnel. 
+he	&rlm;‏היאבקות מקצועית.‏ | 
+it	Il wrestling professionistico. 
+ko	프로 레슬링요 | 
+nl	Professioneel worstelen. 
+no	Fribryting. 
+pl	Wrestlingu. 
+pr-br	Um lutador profissional de luta livre. 
+pr	Um profissional de luta livre. 
+ro	Wrestling profesionist. 
+sp-eu	La lucha libre profesional. 
+sp	Un luchador profesional. 
+sv	Professionell wrestling. 
+th	มวยปล้ำมืออาชีพ | 
+tr	Profesyonel güreş. 
+vi	Một đô vật chuyên nghiệp. | 
+zh-long	職業摔角 
+zh-short	专业摔角 
+id	Gulat profesional. 
+ru	Профессиональный рестлинг. 
+ja	プロレスさ | 
+

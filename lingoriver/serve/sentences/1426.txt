@@ -1,0 +1,5 @@
+en	-Get out the way! | -Which way are you moving? | 
+ru	Куда вы... 
+id	- Kau ingin aku ke mana? - Minggir, Sandy. 
+ja	どっちに？ | 
+

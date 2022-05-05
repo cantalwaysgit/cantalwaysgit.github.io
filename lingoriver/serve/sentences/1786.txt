@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- لم يتمكن من تحمل الضغط. | &rlm;‏- اختار الخروج بطريقة الجبناء.‏ | 
+da	-Han kunne ikke klare presset. -Han valgte en krysters udvej. 
+el	-Δεν άντεξε την πίεση. -Έφυγε σαν δειλός, 
+en	-He couldn't take the pressure. | -He took the coward's way out. | 
+fi	-Hän ei kestänyt painetta. -Valitsi pelkurin tien. 
+fr	- La pression était trop forte. - Il s'est débiné. 
+he	&rlm;‏‏הוא לא הצליח לעמוד בלחץ. | &rlm;‏-הוא בחר בדרך של הפחדנים.‏ | 
+it	- Non ha retto la pressione. - Ha fatto una scelta da codardo. 
+ko	- 부담을 떨치지 못했네 | - 겁쟁이처럼 떠나버렸어 | 
+nl	Hij kon de druk niet aan. -Hij nam de laffe uitweg. 
+no	-Han taklet ikke presset. -Han valgte feigingens løsning. 
+pl	- Nie wytrzymał presji. - Odszedł jak tchórz. 
+pr-br	-Ele não aguentou a pressão. -Fugiu como um covarde. 
+pr	- Ele não aguentou a pressão. - Escolheu ser cobarde. 
+ro	- N-a suportat stresul! - A ales să dispară ca un laș. 
+sp-eu	- No pudo soportar la presión. - Eligió la salida de los cobardes. 
+sp	- No soportaba la presión. - Se escapó como un cobarde. 
+sv	-Han klarade inte pressen. -Han fegade sig ut. 
+th	- เขารับแรงกดดันไม่ไหว | - เขาเลือกทางออกที่ขี้ขลาด | 
+tr	-Baskıya dayanamadı. -Korkakların yapacağı şeyi seçti. 
+vi	- Ông ta không chịu được sức ép. | - Ông ta tự tử. | 
+zh-long	-他受不了壓力 -他選擇了懦夫的死法 
+zh-short	-他没扛住压力 -他选择了懦弱 
+ru	Он не выдержал стресса. 
+id	- Dia tidak tahan dengan tekanannya. - Dia memilih menjadi pengecut. 
+ja	重圧に負けたのね | 
+

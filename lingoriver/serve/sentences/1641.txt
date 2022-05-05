@@ -1,0 +1,27 @@
+id	Habisi dia! 
+ru	Давай же. 
+ar	&rlm;‏قلها!‏ | 
+da	Sig det! 
+el	Πες το! 
+en	Say it! | 
+fi	Sano se! 
+fr	Dis-le ! 
+he	&rlm;‏תגיד את זה!‏ | 
+it	Finiscilo! 
+nl	Zeg het. 
+pl	Powiedz to! 
+pr-br	Fala! 
+pr	Diz! 
+ro	Spune! 
+sp	¡Acaba con él! 
+sp-eu	¡Dilo! 
+sv	Säg det! 
+th	พูดคำนั้นสิ! | 
+tr	Bitir işini! 
+vi	Nói đi! | 
+zh-long	說！ 
+zh-short	说吧！ 
+ko	끝내버려! | 
+no	Si det! 
+ja	やれ！ | 
+

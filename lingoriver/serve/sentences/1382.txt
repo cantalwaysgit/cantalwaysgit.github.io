@@ -1,0 +1,26 @@
+ar	&rlm;‏لكن الجمل المضحكة هي نفسها،  | &rlm;وقد سمعها الناس بالفعل. | 
+da	Men punchlinene vil være de samme. 
+el	Μα, είναι οι ίδιες ατάκες. 
+en	But the punch lines are the same. | People have heard them already. | 
+fi	Mutta yleisö tietää vitsien kärjet. 
+fr	Avec les mêmes chutes. 
+he	&rlm;‏אבל שורות המחץ הן אותו הדבר.‏ | &rlm;כבר שמעו אותן. | 
+it	Ma le battute sono le stesse. 
+ja	すでにオチがバレてる | 
+no	Men sluttpoenget er det samme. 
+pl	Puenty się nie zmieniają. 
+pr-br	Mas a piada é a mesma. As pessoas já ouviram. 
+pr	Mas as piadas são as mesmas. O público já as conhece. 
+ro	Dar poantele sunt aceleași. 
+sp-eu	Pero la gracia final es la misma. 
+sp	Pero los remates son los mismos. Ya se usaron. 
+sv	Men poängerna är desamma. Folk har redan hört dem. 
+th	แต่ตรงมุกเด็ดเหมือนเดิม | คนเคยได้ยินกันแล้ว | 
+tr	Ama bitiriş sözleri aynı. 
+vi	Nhưng câu thoại cười vẫn thế. | Người ta nghe rồi. | 
+zh-long	但笑點都一樣 觀眾都聽過了 
+zh-short	但梗不变 
+ko	웃긴 부분은 그대로잖아 | 
+ru	Но юмор тот же самый. 
+id	Tapi klimaksnya sama. Orang sudah pernah dengar. 
+

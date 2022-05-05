@@ -1,0 +1,26 @@
+ar	&rlm;‏‏- ها أنت ذا. | &rlm;‏- هذا جيد.‏ | 
+da	-Sådan. -Det er godt. 
+el	-Ορίστε. -Όχι, πήγε καλά. 
+en	-Well, there you go. | -No, it's good. | 
+fi	-Sillä tavalla. -Se on hyvä. 
+fr	- Dommage. - Non, c'est bien. 
+he	&rlm;‏‏הנה לך. | &rlm;‏-זה טוב.‏ | 
+it	- È andata così. - È andata bene. 
+ko	- 안타깝네요 | - 괜찮아 | 
+no	-Sånt skjer. -Det er bra. 
+pl	- No i masz. - To dobrze. 
+pr	- Aí tens. - É bom. 
+pr-br	-É isso aí. -Foi bom. 
+ro	- Poftim! - E bună. 
+sp	- Ahí lo tienes. - Está bien. 
+sp-eu	- Ya está. - Es bueno. 
+sv	-Där hör du. -Det är bra. 
+th	- นั่นเลย | - มันดี | 
+tr	-Al bakalım. -Mesele değil. 
+vi	- Thế đấy. | - Không sao. | 
+zh-long	-真可惜 -其實還不賴 
+zh-short	-听到了吧 -这是好事 
+ru	-Вот так! -Не страшно. 
+id	- Itu hasilnya. - Tidak, itu bagus. 
+ja	仕方ない | 
+

@@ -1,0 +1,57 @@
+id	Kau suka membuat masalah, Sandy? 
+ja	トラブルメーカーね | 
+ar	&rlm;‏أنت تحب إثارة المشاكل، صحيح يا "ساندي"؟ | 
+da	Du kan lide at lave ravage. 
+el	Σ' αρέσει να δημιουργείς προβλήματα. 
+en	You like to make trouble, | don't you, Sandy? | 
+fi	Taidat olla melkoinen häirikkö. 
+fr	Vous êtes un sacré numéro. 
+he	&rlm;‏אתה אוהב לעשות צרות.‏ נכון, סנדי? | 
+it	Ti piace creare problemi. 
+ko	사고 치는 걸 | 좋아하시는군요 | 
+nl	Je veroorzaakt graag problemen. 
+no	Du liker å lage trøbbel. 
+pl	Ale z ciebie mąciwoda. 
+pr-br	Gosta de causar encrencas, certo, Sandy? 
+pr	Gosta de arranjar sarilhos, não gosta? 
+ro	Îți place să creezi necazuri. 
+ru	Вы любите мутить воду. 
+sp-eu	Es un liante, ¿verdad, Sandy? 
+sp	Te gusta causar problemas. 
+sv	Du gillar att ställa till problem. 
+th	คุณนี่ชอบก่อเรื่องสินะ | 
+tr	Sorun çıkarmak hoşuna gidiyor. 
+vi	Anh thích gây chuyện rắc rối. | 
+zh-long	你真的很愛找麻煩，對吧？ 
+zh-short	你喜欢制造麻烦 
+
+pt-br	Adaś. 
+uk	Адась. 
+fi	Adaś. | 
+cs	Áda. 
+da	Adas. | 
+el	Ο Άντας. 
+es	Adam. 
+es-eu	Es Adas. 
+fr	Adaś. 
+he	‫אדאש.‬ | 
+hr	Adaś. 
+hu	Adaś. 
+id	Adaś. 
+it	Adaś. 
+ja	&lrm;アダムよ | 
+ko	&lrm;아담이야 | 
+ms	Adam. 
+nl	Adaś. 
+no	Adaś. 
+pt	O Adaś. 
+ro	Adaś. 
+sv	Adaś. 
+th	&lrm;อดัม | 
+tr	Adam. 
+vi	&lrm;Adaś. | 
+zh-long	是亞達西 
+zh-short	是亚当 
+ru	Адась. 
+en	Adam. 
+

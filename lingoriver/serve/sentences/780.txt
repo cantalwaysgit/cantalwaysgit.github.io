@@ -1,0 +1,26 @@
+ja	体にシャンパンを垂らし | 　　　　　　息を吹きかける | 
+id	Ada hadiah yang bisa kau raih Inti sampanye 
+ru	Это подарок для тебя Мои шампанские глаза 
+ar	&rlm;‏لأنني سأقبلك يا ذات العينين الجميلتين‏ | 
+da	Jeg sender dig blikke Champagne-blikke 
+el	Θα σου δώσω φιλιά, Της σαμπάνιας βλέμμα πλάνο 
+en	♪ As I give you the game | Eyes of champagne ♪ | 
+fi	Saat multa mannaa Silmät kuin samppanjaa 
+fr	Je t'ai donné le frisson T'as les yeux qui pétillent 
+he	&rlm;‏‏כשאני נותן לך את המשחק | &rlm;‏עיניים משמפניה‏ | 
+it	I miei dolci baci Occhi di champagne 
+nl	want ik geef je een kus ogen als champagne 
+pl	Zapodam ci buziaka W oczęta spojrzę 
+pr-br	Pois vou beijar você Olhos de champanhe 
+pr	Dou-te um beijo que te assanhe Olhos de champanhe 
+ro	Când vei fi cu mine Ochi de șampanie 
+sp-eu	Porque te doy todo mi azúcar Ojos de champán 
+sp	Porque azúcar te doy Ojos de champaña 
+sv	För jag ger dig kärlek Bubblor av champagne 
+th	เพราะผมให้จูบ หัวใจแชมเปญ | 
+tr	Çünkü öpeceğim seni Şampanya rengi gözleri 
+vi	Vì anh sẽ trao em | Ánh mắt đa tình | 
+zh-long	我要電暈妳，讓妳甜滋滋 
+zh-short	因为我给你一吻 香槟 
+ko	네게 줄 선물이 있어 | 샴페인 색의 눈 | 
+

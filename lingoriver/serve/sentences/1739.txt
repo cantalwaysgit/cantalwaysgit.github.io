@@ -1,0 +1,30 @@
+ru	-Он меня бросает через тебя? -Ты немного навязчив. 
+ja	僕を切ると？ | 
+en	He's dumping me through you? | 
+id	Dia meninggalkanku melaluimu? 
+ar	&rlm;‏‏- هل سيتركني عن طريقك؟ | &rlm;‏- لا بد أن تعترف أنك كنت مهووساً به.‏ | 
+da	-Dropper han mig igennem dig? -Du har været lidt omklamrende. 
+el	-Σ' έστειλε να μου πεις ότι με παρατάει; -Εδώ που τα λέμε, ήσουν φορτικός. 
+fi	-Lemppaako hän minut kauttasi? -Olet ollut takertuva. 
+fr	- Il passe par toi pour me virer ? - T'es un peu trop collant. 
+he	&rlm;‏‏הוא זורק אותי באמצעותך? | &rlm;‏-היית קצת תלותי.‏ | 
+it	- Ti ha mandato a dirmi che mi molla? - Sei stato un po' appiccicoso. 
+nl	Dumpt hij mij via jou? -Je bent een beetje klef, dat zeg ik je. 
+no	-Dumper ham meg gjennom deg? -Du har vært litt klengete. 
+pl	- Kazał ci mnie rzucić? - Przylepiłeś się do niego, mówię ci. 
+pr-br	-Ele mandou você me demitir? -Você anda muito grudento. 
+pr	- Ele está a deixar-me através de ti? - Tens andado obcecado. 
+ro	- Îmi dă papucii prin tine? - Ai fost un pic prea insistent. 
+sp-eu	- ¿Me deja a través de ti? - Has estado un poco pesado. 
+sp	- ¿Te envió a despedirme? - Has estado un poco inseguro. 
+sv	-Dumpar han mig genom dig? -Du har varit lite klängig. 
+th	- เขาจะทิ้งผมแล้วไปกับคุณเหรอ | - คุณติดหนึบไปหน่อย | 
+tr	-Beni bırakmak için araya seni mi koydu? -Biraz yapışkan olduğunu kabul et. 
+vi	- Anh ta nhờ anh đuổi tôi? | - Phải thừa nhận là anh bám hơi dai. | 
+zh-long	-他派你來炒我魷魚？ -我跟你說，你有點難纏 
+zh-short	-他叫你来跟我说要甩掉我吗？ -你有点粘人 
+ko	- 널 통해서 날 차는 거야? | - 네가 너무 들러붙긴 했잖아 | 
+ja	君の執着心がイヤだと | 
+id	Akuilah, kau agak terlalu akrab. 
+en	You gotta admit, | you've been a bit clingy. I'm telling ya. | 
+

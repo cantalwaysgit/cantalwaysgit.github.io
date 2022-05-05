@@ -1,0 +1,25 @@
+ja	あの夢のように | 　　私の左手に指輪を… | 
+ar	&rlm;‏أرسل لي حلماً رجاءً‏ | 
+el	Σε παρακαλώ, στείλε μου ένα όνειρο 
+en	♪ Please send me a dream ♪ | 
+fi	Anna mun unelma 
+fr	Donne-moi un rêve 
+he	&rlm;‏בבקשה שלח לי חלום‏ | 
+it	Ti prego, mandami un sogno 
+ko	술을 보내주세요 | 
+nl	stuur me een droom 
+pl	Postaw mi drinka 
+pr-br	Por favor, me dê um sonho 
+pr	Manda-me um sonho 
+ro	Trimite-mi un vis, te rog 
+ru	Былью сказку сделай 
+sp-eu	Por favor, mándame un sueño 
+sp	Por favor, dame un sueño 
+sv	Snälla, ge mig en dröm 
+th	ช่วยส่งเครื่องดื่มมาให้ | 
+tr	Lütfen beni bir rüyaya yolla 
+vi	Hãy trao cho em giấc mơ | 
+zh-long	請賜我一杯酒 
+zh-short	请送我一个梦 
+id	Kirimkan aku minuman 
+

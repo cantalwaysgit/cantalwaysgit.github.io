@@ -1,0 +1,26 @@
+ar	&rlm;‏هذا جيد يا "ويلو"!‏ | 
+da	Det er godt, Willow! 
+el	Μπράβο, Γουίλοου! 
+fi	Hyvä, Willow. 
+fr	Pas mal, Willow ! 
+he	&rlm;‏זה טוב, וילו!‏ | 
+it	Questa è buona, Willow! 
+ko	좋아, 윌로우! | 
+no	Den var bra, Willow! 
+pl	Brawo, Willow! 
+pr-br	Muito bom, Willow! 
+pr	Muito bem, Willow! 
+ro	Bravo, Willow! 
+sp	¡Eso está muy bien, Willow! 
+sp-eu	¡Muy bueno, Willow! 
+sv	Den var bra, Willow. 
+th	นั่นดีเลย วิลโลว์ | 
+tr	Çok iyi Willow! 
+vi	Tốt lắm, Willow! | 
+zh-long	這個好，薇羅 
+zh-short	很好 薇洛！ 
+ru	Молодец, Уиллоу! 
+en	Ah, that's good, Willow! | Wieners is good. You're brilliant today. | 
+ja	いいね ウィロー | すごくエッチだ | 
+id	Itu bagus, Willow! 
+

@@ -1,0 +1,24 @@
+en	-[bat chirping] | -What? Oh! | 
+id	Apa? 
+ru	Что? 
+ar	&rlm;‏ماذا؟‏ | 
+da	Hvad? 
+el	Τι; 
+fi	Mitä? 
+fr	Quoi ? 
+he	&rlm;‏מה?‏ | 
+it	Cosa? 
+ko	뭐야? | 
+pl	Co to? 
+pr-br	Quê? 
+pr	O quê? 
+ro	Ce? 
+sp-eu	¿Qué? 
+sp	¿Qué? 
+sv	Vadå? 
+th	อะไรเนี่ย | 
+tr	Ne? 
+vi	Gì cơ? | 
+zh-long	什麼鬼？ 
+zh-short	什么？ 
+

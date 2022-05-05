@@ -1,0 +1,27 @@
+id	Kau pasti bisa. Ya. Baiklah. 
+ru	Ты это можешь. Ну, хорошо. Давай. 
+ja	君ならできるはずだ | 
+ar	&rlm;‏‏تعلمين أنه بمقدورك القيام بذلك. | &rlm;‏حسناً. لا بأس.‏ | 
+da	Du ved, du kan. Okay. 
+el	Ξέρεις ότι μπορείς να το καταφέρεις. Εντάξει, λοιπόν. 
+en	You know... You know you can do that. | Okay. All right. | 
+fi	Onnistut varmasti. 
+fr	Tu peux le faire. Allez. 
+he	&rlm;‏את יודעת שאת מסוגלת. בסדר.‏ | 
+it	Sai di potercela fare. Dai. 
+ko	잘할 수 있지? 좋아 | 
+nl	Je weet dat je het kunt. 
+no	Du vet du kan klare det. Greit. 
+pl	Wiesz, że potrafisz. 
+pr-br	Você sabe que consegue. Está bem. 
+pr	Tu sabes que és capaz. Muito bem. 
+ro	Știi că poți face asta. Bine. 
+sp-eu	Tú puedes hacerlo. Vale. Está bien. 
+sp	Sabes que puedes hacerlo. De acuerdo. Bien. 
+sv	Du vet att du klarar det. 
+th	คุณก็รู้ว่าคุณทำได้ โอเค เอาเลย | 
+tr	Yapabileceğini biliyorsun. Tamam. Pekâlâ. 
+vi	Cô biết cô có thể làm thế. Tốt rồi. | 
+zh-long	妳知道妳可以的，好 
+zh-short	你知道自己能行 好了 
+

@@ -1,0 +1,56 @@
+id	Kau gugup. Kau berkeringat. 
+ru	Ты нервничаешь. Вижу, ты вспотел. 
+el	Είσαι αγχωμένος. Έχεις ιδρώσει. 
+ar	&rlm;‏أنت متوتر. أرى أنك تتعرق.‏ | 
+da	Du er nervøs. Jeg kan se, du sveder. 
+en	You're nervous. | I can see that you're sweating. | 
+fi	Sinua jännittää. Hikoilet. 
+fr	Tu stresses. T'es en sueur. 
+he	&rlm;‏אתה עצבני. אני רואה שאתה מזיע.‏ | 
+it	Sei nervoso. Stai sudando, lo vedo. 
+ko	긴장되겠지 | 땀나는 게 보이네 | 
+nl	Je bent nerveus. Je zweet. 
+no	Du er nervøs. Jeg ser at du svetter. 
+pl	Denerwujesz się. Widzę, że się pocisz. 
+pr-br	Você está nervoso. Vejo que está suando. 
+pr	Estás nervoso. Vejo que estás a suar. 
+ro	Ai emoții. Văd că transpiri. 
+sp	Estás nervioso. Te veo sudar. 
+sp-eu	Estás nervioso. Veo que estás sudando. 
+th	ตื่นเต้นสินะ เห็นแล้วว่าเหงื่อแตก | 
+tr	Gerginsin. Terlediğini görebiliyorum. 
+vi	Cậu đang lo lắng. Tôi thấy cậu vã mồ hôi. | 
+zh-long	你很緊張，我看到你大噴汗 
+zh-short	你很紧张 你在冒汗 
+sv	Du är nervös. Du svettas. 
+
+es	Bueno, hace dos días. 
+id	Dua hari. 
+fi	Pari päivää. | 
+pt-br	Há dois dias. 
+cs	No, druhý den. 
+da	Tja, to dage. | 
+el	Δύο μέρες. 
+en	Well, two days. 
+es-eu	Lleva dos días. 
+fr	Deux jours. 
+he	‫היא כאן כבר יומיים.‬ | 
+hr	Pa, dva dana. 
+hu	Hát, két napja. 
+it	Beh, da due giorni. 
+ja	&lrm;２日になります | 
+ko	&lrm;이틀 됐어요 | 
+ms	Sudah dua hari. 
+nl	Al twee dagen. 
+no	To dager. 
+pt	Há dois dias. 
+ro	De două zile. 
+sv	Tja, i två dagar. 
+th	&lrm;ครับ สองวันแล้ว | 
+tr	İki gündür. 
+uk	Другий день. 
+vi	&lrm;Hai ngày. | 
+zh-long	停兩天了 
+zh-short	嗯 两天了 
+ru	Уже пару дней. 
+

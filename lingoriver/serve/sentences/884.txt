@@ -1,0 +1,28 @@
+no	Kødder du? Rettet du på meg fordi han gikk på San Diego? 
+ar	&rlm;‏‏أتمزح؟ هل صححت قولي الخاطئ | &rlm;‏لأنه ذهب إلى جامعة "سان دييغو"؟‏ | 
+da	Gider du lige? Rettede du mig, fordi han gik på San Diego? 
+el	Σοβαρολογείς τώρα; Με διόρθωσες επειδή φοίτησε στο Σαν Ντιέγκο; 
+fi	Siihenkö sinä tartut? 
+fr	Sérieux ? Tu me reprends pour me dire ça ? 
+he	&rlm;‏‏אתה צוחק? אתה מתקן אותי | &rlm;‏כי הוא למד באוניברסיטת סן דייגו?‏ | 
+it	Mi correggi perché ha studiato all'Università di San Diego? 
+ko	장난해? 그놈이 거기 다녔다고 | 내 말 정정하는 거야? | 
+nl	Echt? Je corrigeerde me omdat hij naar San Diego ging? 
+pl	Żartujesz? Poprawiasz mnie w kwestii uczelni? 
+pr-br	Está brincando? Me corrigiu porque ele estudou na San Diego State? 
+pr	Estás a brincar? Estás a corrigir-me porque estudou na San Diego? 
+ro	Glumești? M-ai corectat fiindcă a învățat la San Diego? 
+sp	¿Bromeas? ¿Me corriges porque fue a San Diego? 
+sp-eu	¿En serio? ¿Me has corregido porque fue a San Diego? 
+sv	Skojar du? Rättade du mig för att han gick på San Diego? 
+th	ล้อเล่นเปล่า ที่แก้ว่า | เขาเรียนที่ซานดิเอโกสเตตน่ะ | 
+tr	Ciddi misin? San Diego'ya gitti diye beni düzeltiyor musun? 
+vi	Anh đùa hả? | Anh sửa tôi vì hắn học trường San Diego? | 
+zh-long	開什麼玩笑？ 念聖地牙哥怎樣？你還糾正我？ 
+zh-short	开什么玩笑？因为他读的是圣迭戈 你就纠正我的话吗？ 
+ru	Ты мне возражаешь, потому что он учился в Сан-Диего? 
+id	Kau bercanda? 
+ja	何だよ　揚げ足を取るな | 
+en	You corrected me | 'cause he went to San Diego State? | 
+id	Kau meralatku? 
+

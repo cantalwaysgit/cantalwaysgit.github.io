@@ -1,0 +1,52 @@
+id	Wasir. 
+ja	イボだよ | 
+ru	Геморрой. 
+th	ริดสีดวง | 
+ar	&rlm;‏بواسير.‏ | 
+da	Hæmorider. 
+el	Αιμορροΐδες. 
+en	Hemorrhoids. | 
+fi	Peräpukamia. 
+fr	Tiens, des hémorroïdes. 
+he	&rlm;‏טחורים.‏ | 
+it	Emorroidi. 
+ko	치질이라고요 | 
+no	Hemorroider. 
+pl	O, hemoroidy. 
+pr-br	Hemorroidas. 
+pr	Hemorroidas. 
+ro	Hemoroizi. 
+sp-eu	Almorranas. 
+sp	Hemorroides. 
+sv	Hemorrojder. 
+tr	Basur. 
+vi	Bệnh trĩ. | 
+zh-long	有痔瘡 
+zh-short	痔疮 
+nl	Aambeien. -Ga nu mijn kont uit. 
+ru	Так, вылезай из моей жопы. Немедленно. 
+ar	&rlm;‏انتظر. اخرج من مؤخرتي. حالاً.‏ | 
+da	Vent. Kom ud af min numse. Kom ud nu. 
+el	Μισό λεπτό. Βγες από τον πισινό μου. Αμέσως. 
+fi	Tule pois ahteristani. 
+fr	Sors de mes fesses. Sur-le-champ. 
+he	&rlm;‏חכה. צא מהתחת שלי. צא מיד.‏ | 
+it	Aspetta. Esci dal mio culo. Esci subito. 
+no	Vent. Kom deg ut av rumpa mi. 
+pl	Wynoś się z mojego tyłka. W tej chwili. 
+pr-br	Espere. Saia do meu rabo agora.  Saia daí já. 
+pr	Espera. Sai já do meu traseiro. 
+ro	Stai așa! Ieși din fundul meu! Ieși acum! 
+sp	Espera. Sal de mi culo. Sal ya mismo. 
+sp-eu	Espera. Sal de mi culo. Sal ahora mismo. 
+sv	Ut ur min rumpa. Ögonblickligen! 
+th	เดี๋ยว ออกมาจากก้นฉันนะ | ออกมาเดี๋ยวนี้ | 
+tr	Dur. Çık oradan. Hemen çık. 
+vi	Khoan. Ra khỏi mông tôi ngay. Ra ngoài. | 
+zh-long	慢著，滾出我的屁眼，快出來 
+zh-short	等等 你从我屁股里出来 立刻出来 
+en	Wait. You get out of my butt. | Get out right now. | 
+ko	잠깐만, 내 엉덩이에서 나와 | 당장 나오라고 | 
+id	Tunggu. Keluarlah dari bokongku. Keluar sekarang. 
+ja	今すぐ出てこい | 僕の肛門から出ろ | 
+

@@ -1,0 +1,27 @@
+id	Baiklah, aku akan berusaha menghormati pendapatmu. 
+ar	&rlm;‏سأحاول احترام رأيك.‏ | 
+da	Jeg prøver at respektere din mening. 
+el	Θα προσπαθήσω να σεβαστώ την άποψή σου. 
+en	Okay. I'm gonna try | to respect your opinion, brother. | 
+fi	Yritän kunnioittaa mielipidettäsi. 
+fr	Je vais essayer de respecter ton opinion. 
+he	&rlm;‏אנסה לכבד את דעתך.‏ | 
+it	Cercherò di rispettare la tua opinione. 
+no	Jeg skal prøve å respektere din mening. 
+pl	Szanuję twoje zdanie. 
+pr-br	Vou tentar respeitar a sua opinião. 
+pr	Vou tentar respeitar a tua opinião. 
+ro	O să încerc să-ți respect părerea. 
+sp-eu	Intentaré respetar tu opinión. 
+sp	Voy a intentar respetar tu opinión. 
+sv	Jag ska försöka respektera din åsikt. 
+th	ผมจะพยายามเคารพความเห็นของคุณ | 
+tr	Fikrine saygı göstermeye çalışacağım. 
+vi	Tôi sẽ cố tôn trọng quan điểm của anh. | 
+zh-long	我尊重你的品味 
+zh-short	我尊重你的想法 
+nl	Ik respecteer je mening. Ik probeer een andere. 
+ja	そう言うなら | 他のワインを出そう | 
+ru	Постараюсь принять твое мнение. Попробуй другое. 
+ko	자네 의견을 존중할게 | 
+

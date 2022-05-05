@@ -1,0 +1,27 @@
+ar	&rlm;‏‏تركنا. يعمل لدى شركة | &rlm;‏"بلوكباستر فيديو" الآن.‏ | 
+da	Han er holdt op. Han arbejder for Blockbuster Video nu. 
+el	Έφυγε. Δουλεύει για την Blockbuster Video τώρα. 
+en	Well, he, uh... he left. | He's working for Blockbuster Video now. | 
+fi	Hän lähti Blockbuster Videon palvelukseen. 
+fr	Il est parti bosser pour Blockbuster Video. 
+he	&rlm;‏הוא עזב. הוא עובד בבלוקבסטר עכשיו.‏ | 
+it	Ha mollato. Lavora da Blockbuster. 
+ko	업계를 떠났어요, 지금은 | 블록버스터 비디오에서 일해요 | 
+nl	Vertrokken. Hij werkt nu voor Blockbuster Video. 
+no	Han sluttet. Nå jobber han for Blockbuster Video. 
+pl	Odszedł. Teraz robi dla Blockbuster Video. 
+pr-br	Ele foi embora. Trabalha na Blockbuster agora. 
+pr	Saiu. Agora trabalha para a Blockbuster Video. 
+ro	A plecat. Acum lucrează la Blockbuster Video. 
+ru	Ушел. Работает в «Блокбастер Видео». 
+sp-eu	Se fue. Ahora trabaja en Blockbuster. 
+sp	Se fue. Ahora trabaja en Blockbuster. 
+sv	Han slutade. Han jobbar för Blockbuster Video nu. 
+th	เขาไปแล้ว | ตอนนี้เขาทำงานให้บล็อกบัสเตอร์วิดีโอ | 
+tr	Gitti. Blockbuster Video'da çalışıyor artık. 
+vi	Anh ta nghỉ rồi. | Giờ làm việc cho Video Bom Tấn. | 
+zh-long	他離職了，現在在百視達影視 
+zh-short	他不干了 去百视达了 
+ja	引退して | ビデオレンタル会社に | 
+id	Dia pergi. Kini dia bekerja untuk Blockbuster Video. 
+

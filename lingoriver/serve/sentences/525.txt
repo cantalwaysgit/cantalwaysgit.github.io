@@ -1,0 +1,25 @@
+ar	&rlm;‏"باري".‏ | 
+da	Barry. 
+el	Μπέρι. 
+en	Barry. | 
+fr	Barry. 
+he	&rlm;‏בארי.‏ | 
+it	Barry. 
+ko	배리 | 
+pr	Barry. 
+pr-br	Barry. 
+ro	Barry. 
+sp	Barry. 
+sp-eu	Barry. 
+sv	Barry. 
+th	แบร์รี่ | 
+tr	Barry. 
+vi	Chào Barry. | 
+zh-long	貝利 
+zh-short	巴里 
+id	Barry. 
+no	Barry. 
+pl	Barry. 
+ru	Барри. 
+ja	バリー？ | 
+

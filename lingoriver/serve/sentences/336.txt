@@ -1,0 +1,29 @@
+en	I don't know anything | about show business, Sandy. | 
+ar	&rlm;‏‏لا أفقه في عمل الاستعراض. | &rlm;‏كيف يمكنني الوثوق بك؟‏ | 
+da	Jeg kender intet til showbusiness. Hvordan kan jeg stole på dig? 
+el	Δεν ξέρω τίποτα για το χώρο του θέαματος. Πώς μπορώ να σε εμπιστευτώ; 
+he	&rlm;‏‏אני לא מבין בעסקי השעשועים. | &rlm;‏איך אני יכול לסמוך עליך?‏ | 
+it	Non so niente dello show business. Perché dovrei fidarmi? 
+ko	연예계는 잘 모르는데 | 당신을 어떻게 믿죠? | 
+nl	Ik weet niets van showbusiness. Kan ik je vertrouwen? 
+pr-br	Não entendo dessa coisa de artista. Como posso confiar em você? 
+pr	Não percebo nada da indústria do espetáculo. Como sei que posso confiar? 
+sp-eu	No sé nada del mundo del espectáculo. ¿Cómo sé que puedo fiarme de usted? 
+sp	No conozco el negocio del entretenimiento. ¿Cómo sé si confiar en usted? 
+sv	Jag vet inget om showbusiness. Kan jag lita på dig? 
+zh-long	我不懂演藝圈，要怎麼相信你？ 
+fr	Je connais pas le showbiz. Pourquoi je vous ferais confiance ? 
+ja	俺は芸能界を知らない | 不安だ | 
+id	Aku buta soal bisnis hiburan, Sandy. 
+no	Jeg vet ikke noe om bransjen. Hvordan kan jeg stole på deg? 
+ru	Я ничего не знаю о шоу-бизнесе... Можно ли вам доверять? 
+vi	Tôi không biết gì về ngành giải trí. | Làm sao tôi tin anh được? | 
+pl	Nie znam się na show-biznesie. Dlaczego miałbym ci ufać? 
+th	ผมไม่รู้อะไรเกี่ยวกับธุรกิจบันเทิง | จะให้เชื่อใจคุณได้ยังไง | 
+tr	Gösteri işinden anlamam. Sana nasıl güveneceğim? 
+zh-short	我不了解演艺行业 怎么能相信你？ 
+fi	En tiedä mitään viihdealasta. Miten voin luottaa sinuun? 
+ro	Nu știu nimic despre showbiz. De ce te-aș crede? 
+id	Bagaimana kau bisa dipercaya? 
+en	How do I know if I can trust you? | 
+

@@ -1,0 +1,27 @@
+id	Cepat sekali. Aku akan segera turun. 
+sv	Det är tidigt. Jag kommer snart. 
+en	Wow. Um, it's early. | I'll be right down, guys. | 
+ja	早いわね　すぐ行くわ | 
+ru	Как рано. Я сейчас спущусь. 
+ar	&rlm;‏إنها مبكرة. سأنزل حالاً.‏ | 
+da	Der er tid. Jeg kommer straks. 
+el	Ήρθε νωρίτερα. Κατεβαίνω σε λίγο. 
+fi	Nyt jo. Tulen kohta. 
+he	&rlm;‏עדיין מוקדם. מיד ארד.‏ | 
+it	Di già. Scendo subito. 
+ko	빨리 왔네, 금방 갈게 | 
+nl	Het is nog vroeg. Ik kom eraan. 
+no	Det er tidlig. Kommer straks. 
+pl	Wcześnie. Zaraz zejdę. 
+pr-br	É cedo. Já desço. 
+pr	Veio cedo. Eu já desço. 
+ro	A venit mai repede. Cobor imediat. 
+sp	Es temprano. Ya bajo. 
+sp-eu	Es pronto. Ahora mismo bajo. 
+th	มาเร็วนะ ฉันจะลงไปเดี๋ยวนี้ | 
+tr	Erken gelmiş. Hemen geliyorum. 
+vi	Còn sớm mà. Tôi sẽ xuống ngay. | 
+zh-long	車子早來了，我馬上下去 
+zh-short	时间还早 我这就下去 
+fr	Elle est en avance. J'arrive ! 
+

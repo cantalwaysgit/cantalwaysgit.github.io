@@ -1,0 +1,26 @@
+id	Kumohon, Nona. Masuklah. 
+ru	Пожалуйста, мисс. Зайдите. 
+ar	&rlm;‏ادخلي رجاءً يا آنسة.‏ | 
+da	Gå venligst ind. 
+el	Σας παρακαλώ, δεσποινίς. Πηγαίνετε μέσα. 
+en	Please, miss, go inside. | 
+fi	Menkää sisälle, neiti. 
+fr	Je vous en prie. Entrez. 
+he	&rlm;‏בבקשה, מיס, תיכנסי פנימה.‏ | 
+it	La prego, signorina. Vada dentro. 
+ko	안으로 들어가시죠 | 
+no	Vær så vennlig, frøken. Gå inn. 
+pl	Proszę wejść do środka. 
+pr-br	Por favor, senhorita. Vá lá. 
+pr	Por favor, menina, entre. 
+ro	Vă rog, domnișoară. Intrați! 
+sp-eu	Por favor, señorita. Pase dentro. 
+sp	Por favor, señorita, entre. 
+sv	Gå in är du snäll. 
+th	คุณครับ กรุณาเข้าไปข้างใน | 
+tr	Lütfen küçük hanım, içeri girin. 
+vi	Cô gái, xin mời vào trong. | 
+zh-long	小姐，請進去吧 
+zh-short	请吧 小姐 请进去吧 
+ja	降りて どうぞ中へ | 
+

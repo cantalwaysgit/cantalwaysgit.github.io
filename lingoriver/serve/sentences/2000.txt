@@ -1,0 +1,27 @@
+id	Kau suka membuat masalah, Sandy? 
+ja	トラブルメーカーね | 
+ru	Ты любишь мутить воду, да, Сэнди? 
+ar	&rlm;‏أنت تحب إثارة المشاكل، صحيح يا "ساندي"؟‏ | 
+da	Du kan lide at skabe problemer, ikke Sandy? 
+el	Σ' αρέσει να δημιουργείς προβλήματα, έτσι δεν είναι; 
+en	You like making trouble, | don't you, Sandy? | 
+fi	Olet varsinainen häirikkö. 
+fr	T'es un sacré numéro, tu sais ? 
+he	&rlm;‏אתה אוהב לעשות צרות, נכון, סנדי?‏ | 
+it	Ti piace creare problemi, vero, Sandy? 
+ko	사고 치는 걸 | 좋아하시는군요 | 
+nl	Je veroorzaakt graag problemen, hè? 
+no	Du liker å lage trøbbel, ikke sant, Sandy? 
+pl	Lubisz mącić, prawda? 
+pr-br	Gosta de causar encrencas, certo, Sandy? 
+pr	Gostas de arranjar problemas, não gostas, Sandy? 
+ro	Îți place să creezi necazuri, nu-i așa, Sandy? 
+sp-eu	Eres un liante, ¿verdad, Sandy? 
+sp	Te gusta causar problemas, ¿no, Sandy? 
+sv	Du gillar att ställa till det, eller hur? 
+th	คุณชอบก่อเรื่องใช่ไหม แซนดี้ | 
+tr	Sorun çıkarmayı seviyorsun, değil mi Sandy? 
+vi	Anh thích gây chuyện, đúng không, Sandy? | 
+zh-long	你真的很愛找麻煩，對吧，山迪？ 
+zh-short	你喜欢制造麻烦 是吧 桑迪？ 
+

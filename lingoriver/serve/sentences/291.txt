@@ -1,0 +1,29 @@
+sv	Du gillar fågel-och-ängel-metaforen. 
+ja	その表現 好きね | 
+ar	&rlm;تحب تشبيه الطائر والملاك ذاك، صحيح؟‏ | 
+da	Du er vist glad for fuglen og englen. 
+el	Σου αρέσει αυτή η παρομοίωση; 
+en	You like the bird and angel thing, | don't you? | 
+fi	Tykkäät tuosta lintu ja enkeli -jutusta. 
+fr	Vous aimez bien cette image. 
+he	&rlm;‏אתה אוהב את העניין עם הציפור והמלאך.‏ | 
+id	Kau suka ungkapan burung dan malaikat itu? 
+it	Ti piace la cosa dell'uccellino e dell'angelo. 
+ko	새랑 천사 이야기를 | 좋아하시나 봐요 | 
+nl	Die vogel en engel vind je leuk, hè? 
+no	Du liker den fugl-og-engel-greia. 
+pl	Lubisz to porównanie, co? 
+pr-br	Curte esse cruzamento de pássaro e anjo. 
+pr	Gosta mesmo disso do pássaro e do anjo. 
+ro	Îți place chestia cu pasărea și îngerul. 
+ru	Вам нравится эта метафора. 
+sp-eu	Le gusta eso del pájaro y el ángel. 
+sp	Te gusta eso del ave y el ángel. 
+th	คุณชอบอุปมานกและนางฟ้านั่นนะ | 
+tr	Kuşla melek olayını sevdin sen. 
+vi	Anh thích nói về chim và thiên nhần nhỉ. | 
+zh-long	你就愛拿鳥兒和天使 做比喻，對吧？ 
+zh-short	你喜欢说鸟儿和天使 
+
+hr	Hvala. 
+

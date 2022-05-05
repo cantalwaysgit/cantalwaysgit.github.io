@@ -1,0 +1,26 @@
+ar	&rlm;‏كانت الحياة تتجاوزني لكنك قلت لي أن أحلق‏ | 
+da	Livet passerede forbi Men du bad mig flyve 
+el	Η ζωή με προσπερνούσε, Αλλά μου είπες να πετάξω 
+en	♪ Life was passing me by | But you told me to fly ♪ | 
+fi	Elämä ohi lipui Sä neuvoit lentämään 
+fr	J'oubliais de vivre Et tu m'as dit de m'envoler 
+he	&rlm;‏‏החיים עברו מעליי | &rlm;‏אבל אתה אמרת לי לעוף‏ | 
+it	La vita mi scorreva accanto Ma tu mi hai detto di volare 
+nl	het leven ging langs me heen maar jij liet me vliegen 
+pl	Życie omijało mnie Ty rozwinąłeś skrzydła me 
+pr	A vida estava a passar por mim Mas disseste-me para voar 
+pr-br	A vida estava passando Mas você disse para eu voar 
+ro	Viața trecea pe lângă mine Dar tu mi-ai zis să zbor 
+sp-eu	La vida se me escapaba Pero tú me mandaste volar 
+sp	La vida me pasaba Pero me dijiste que volara 
+sv	Livet gick mig förbi Men du lärde mig flyga 
+th	ชีวิตผ่านไป แต่คุณบอกให้ฉันโบยบิน | 
+tr	Hayat geçip gidiyordu yanımdan Ama sen uçmamı söyledin 
+vi	Cuộc đời em trôi đi | Nhưng anh đã bảo em cất cánh bay | 
+zh-long	我虛度光陰 你要我展翅翱翔 
+zh-short	生活离我而去 可你告诉我要飞翔 
+ko	인생이 지나가고 있었지만 | 나에게 날아보라고 했어 | 
+ja	今の人生から | 　　飛び立てと言ってくれた | 
+ru	Жизнь проходила мимо Но ты научил меня летать 
+id	Hidupku berlalu begitu saja Tapi kau memintaku terbang 
+

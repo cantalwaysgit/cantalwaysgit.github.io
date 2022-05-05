@@ -1,0 +1,27 @@
+id	Ini pasti akan menarik perhatianmu. 
+ar	&rlm;‏سيثير هذا انتباهك.‏ | 
+da	Den vil få din opmærksomhed. 
+el	Αυτό θα τραβήξει την προσοχή σου. 
+en	Pretty sure this'll get your attention. | 
+fi	Ihastutte siihen. 
+fr	Ça devrait te plaire. 
+he	&rlm;‏זה ישיג את תשומת לבך.‏ | 
+it	Questo catturerà la vostra attenzione. 
+ko	이거면 구미가 당길 거야 | 
+nl	Die zal je aandacht trekken. 
+pl	Zasmakuje ci. 
+pr-br	Isso vai chamar a sua atenção. 
+pr	Vai captar a tua atenção. 
+ro	Ăla îți va trezi interesul. 
+sp	Estoy seguro que este sí te llamará la atención. 
+sp-eu	Eso te llamará la atención. 
+sv	Jag är säker på att du gillar den. 
+tr	Bu, ilgini çekecektir. 
+vi	Anh sẽ thích chai này. | 
+zh-long	一定讓你印象深刻 
+zh-short	这瓶会让你满意的 
+ja	きっと満足する | 
+no	Dette vil vekke interessen din. 
+ru	Это тебе понравится. 
+th	นี่จะทำให้คุณสนใจ | 
+

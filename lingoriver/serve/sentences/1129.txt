@@ -1,0 +1,27 @@
+ja	飼い主の家に | 夜遅く 不審者が現れた | 
+id	aku mendapat panggilan yang sama mengenai penyusup malam hari. 
+ar	&rlm;‏‏وردني اتصال مشابه عن متطفل | &rlm;‏في وقت متأخر من الليل.‏ | 
+da	fik jeg et lignende opkald om en indbrudstyv. 
+el	είχα λάβει μια παρόμοια κλήση για ένα νυχτερινό εισβολέα. 
+en	I got a similar call | about a late-night trespasser. | 
+fi	minulle ilmoitettiin silloinkin öisestä hiipparista. 
+fr	j'ai eu un appel similaire à cause d'un intrus. 
+he	&rlm;‏קיבלתי שיחת טלפון דומה על מסיג גבול לילי.‏ | 
+it	ricevetti una chiamata simile per un invasore notturno. 
+nl	...kreeg ik net zo'n telefoontje over een nachtelijke indringer. 
+no	fikk jeg en lignende telefon om en inntrenger en sen kveld. 
+pl	też do mnie dzwoniono w sprawie takich nocnych gości. 
+pr-br	recebi uma chamada parecida por causa de um invasor na madrugada. 
+pr	recebi uma chamada parecida sobre um intruso durante a noite. 
+ro	am primit un telefon asemănător în legătură cu un delincvent nocturn. 
+sp-eu	recibí una llamada parecida sobre un rondador nocturno. 
+sp	recibí una llamada similar por un intruso nocturno. 
+sv	fick jag ett liknande samtal om en nattlig inkräktare. 
+th	ผมได้รับโทรศัพท์คล้ายกัน | เกี่ยวกับผู้บุกรุกกลางดึก | 
+tr	gece izinsiz giren biriyle ilgili benzer bir telefon aldım. 
+vi	tôi cũng nhận được cuộc gọi tương tự | về một kẻ xâm phạm đêm khuya. | 
+zh-long	大半夜也接過這種電話 
+zh-short	也接到过类似深夜里有人闯入的电话 
+ru	мне тоже сообщили о ночном вторжении. 
+ko	야밤의 무단침입자 일로 | 비슷한 전화를 받았어 | 
+

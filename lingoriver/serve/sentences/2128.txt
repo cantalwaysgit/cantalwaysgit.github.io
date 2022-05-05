@@ -1,0 +1,26 @@
+sv	Att resa runt i landet är så spännande. 
+ja	世界中を旅する | 　　　　ワクワク感 | 
+id	Bepergian ke penjuru negeri Akan sangat menegangkan 
+fi	Kun kiertueelle pääsee Sydän syttyy 
+pl	W trasę jedziesz uśmiechnięty 
+ru	Колесить по стране - Это здорово! 
+nl	het land door reizen is fantastisch, op de bühne staan tijdens de première 
+da	At være på turné Bliver fantastisk 
+ar	&rlm;‏سيكون السفر عبر البلاد مثيراً‏ | 
+el	Το να ταξιδεύεις στη χώρα Θα είναι συναρπαστικό 
+en	♪ Traveling through the country | Will be thrilling ♪ | 
+fr	Traverser le pays, c'est un plaisir 
+he	&rlm;‏‏הנסיעה ברחבי הארץ ‏תהיה מרגשת‏ | 
+it	Viaggiare per il Paese sarà emozionante 
+ko	전국을 누비는 건 | 정말 신날 거야 | 
+pr-br	Viajar pelo país será emocionante 
+pr	Viajar pelo país será emocionante 
+ro	Deplasările prin țară Vor fi palpitante 
+sp-eu	Viajar por todo el país Será emocionante 
+sp	Viajar por el país Será emocionante 
+th	เดินทางไปทั่วประเทศ | จะน่าตื่นเต้น | 
+tr	Heyecanlı olur Ülkeyi baştan sona gezmek 
+vi	Đi khắp đất nước | Lòng đầy hưng phấn | 
+zh-long	巡迴演出好不刺激 
+zh-short	全国巡演令人兴奋 
+

@@ -1,0 +1,27 @@
+id	- Aku mau mengambil jaketku. - Keluar dari sini! 
+ja	ジャケットを取ってくる | 
+en	-No, I just got to get my jacket. | -Out! Get... get out of here. | 
+ar	&rlm;‏‏- يجب أن آخذ سترتي. | &rlm;‏- اخرجا!‏ | 
+da	-Jeg skal bare have min jakke. -Ud! 
+el	-Να πάρω το σακάκι μου. -Φύγε τώρα! 
+fi	-Otan vain takkini. -Ulos! 
+fr	- Je prends ma veste. - Dehors ! 
+he	&rlm;‏‏אני צריך לקחת את המעיל שלי. | &rlm;‏-תסתלק!‏ | 
+it	- Prendo la giacca. - Fuori! 
+nl	Ik ga mijn jas pakken. 
+no	-Jeg må hente jakken min. -Kom deg ut! 
+pl	- Wezmę tylko marynarkę. - Precz! 
+pr-br	-Só tenho que pegar meu paletó. -Vá embora! 
+pr	- Vou só buscar o casaco. - Fora! 
+ro	- Trebuie să-mi iau sacoul. - Afară! 
+sp-eu	- Tengo que coger la chaqueta. - ¡Fuera! 
+sp	- Solo quiero mi chaqueta. - ¡Vete! 
+sv	-Jag ska bara hämta min kavaj. -Försvinn! 
+th	- แค่ขอหยิบเสื้อก่อน | - ออกไป! | 
+tr	-Ceketimi alayım. -Defol! 
+vi	- Tôi phải lấy áo khoác. | - Ra ngoài! | 
+zh-long	-我拿一下大衣 -出去！ 
+zh-short	-我拿下衣服 -出去！ 
+ru	-Только пиджак возьму. -Вон отсюда! 
+ko	- 재킷만 챙기고요 | - 나가! | 
+

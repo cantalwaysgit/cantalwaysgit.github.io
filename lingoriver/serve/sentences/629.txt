@@ -1,0 +1,21 @@
+ar	&rlm;‏"معهد (فان نيس) التقني"‏ | 
+da	VAN NUYS TEKNISKE INSTITUT 
+el	ΤΕΧΝΟΛΟΓΙΚΟ ΙΝΣΤΙΤΟΥΤΟ ΒΑΝ ΝΑΪΣ 
+fi	TEKNINEN INSTITUUTTI 
+he	&rlm;‏- המכון הטכנולוגי של ואן נייס -‏ | 
+ko	“밴 나이즈 기술 연구소” | 
+pl	INSTYTUT TECHNOLOGICZNY W VAN NUYS 
+pr-br	INSTITUTO TÉCNICO VAN NUYS 
+pr	INSTITUTO TECNOLÓGICO VAN NUYS 
+sp-eu	INSTITUTO TECNOLÓGICO VAN NUYS 
+sp	INSTITUTO TECNOLÓGICO VAN NUYS 
+sv	VAN NUYS TEKNISKA INSTITUT 
+th	(สถาบันแวน นุยส์ เทค) | 
+tr	VAN NUYS TEKNOLOJİ ENSTİTÜSÜ 
+vi	VIỆN CÔNG NGHỆ VAN NUYS | 
+zh-long	（梵耐斯技術學院） 
+zh-short	（凡奈录音室） 
+id	INSTITUT TEKNOLOGI VAN NUYS 
+ru	ТЕХНИЧЕСКИЙ ИНСТИТУТ ВАН НАЙС 
+ja	“ヴァンナイズ | 工科専門学校” | 
+

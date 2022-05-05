@@ -1,0 +1,87 @@
+id	Aku berpikir, kau sangat sukses sekarang dengan penonton di teater pantai. 
+ja	君は今や この劇場の | スターとなった | 
+ru	У тебя так хорошо идут дела в пляжном театре. 
+ar	&rlm;‏‏كنت أفكر، تقوم بعمل جيد جداً | &rlm;‏مع جمهور مسرح الشاطئ الآن.‏ | 
+da	Jeg tænkte, du er så god nu med strandteaterpublikummet. 
+el	Σκεφτόμουν ότι θα τα πας περίφημα με το κοινό του παραλιακού θεάτρου. 
+en	And I was thinking, you'd do so well now | with the beach theater crowd. | 
+fi	Ajattelin, että rantateatteriporukka tykkäisi sinusta. 
+fr	Et je pensais, tu fais un tabac avec le public du théâtre de la plage. 
+he	&rlm;‏‏וחשבתי, אתה מצליח כל כך | &rlm;‏עם הקהל של תאטרון החוף.‏ | 
+it	Stai andando alla grande con il pubblico del teatro della spiaggia. 
+ko	생각해 봤는데 | 해변 극장에서도 정말 잘하겠어 | 
+nl	Je doet het nu zo goed met het strandpubliek. 
+no	Og jeg tenkte: Du gjør det så bra her nå. 
+pl	Wiesz, świetnie ci tu idzie. 
+pr-br	Eu estava pensando, você se daria bem com a plateia do teatro praiano. 
+pr	Estava a pensar que te darias tão bem com o pessoal do teatro de praia. 
+ro	Mă gândeam că te descurci de minune acum cu publicul de la teatrul de vară. 
+sp	Estaba pensando que ahora te iría muy bien en el teatro de la playa. 
+sp-eu	Y creo que te iría muy bien con el público del teatro de la playa. 
+sv	Det går ju så bra för dig nu med strandteaterns publik. 
+th	และฉันมาคิดๆ ดู ตอนนี้นายไปได้ดี | กับกลุ่มคนดูละครชายหาด | 
+tr	Düşünüyordum da, sahil tiyatrosu izleyicileriyle iyi anlaşıyorsun. 
+vi	Tôi đang nghĩ rằng, anh sẽ làm rất tốt | với đám khán giả sân khấu nước. | 
+zh-long	我在想，你成功征服了 海灘劇場的觀眾 
+zh-short	我前面在想 你在海滩剧场已经闯出名堂了 
+
+es	¿Quieres volver a buscar aquí? 
+el	Θέλεις να ξαναψάξεις; 
+it	Vuoi cercare di nuovo qui? 
+id	Kau mau mencari di sini lagi? 
+cs	Chceš to tu celé znovu prohledat? 
+da	Vil du lede her igen? | 
+en	Do you want to search here again? 
+es-eu	¿Quieres volver a peinar la zona? 
+fr	Tu veux qu'on cherche encore ? 
+he	‫רוצה לחפש כאן שוב?‬ | 
+hr	Želiš opet tražiti ovdje? 
+hu	Megint körül akarsz nézni? 
+ja	&lrm;もう一度ここで探す？ | 
+ko	&lrm;여길 다시 뒤져 보자고요? | 
+ms	Awak nak cari di sini lagi? 
+nl	Wil je hier nog eens zoeken? 
+no	Vil du lete her igjen? 
+pt-br	Quer procurar de novo? 
+pt	Queres procurar aqui outra vez? 
+ro	Vrei să mai cauți prin zona asta? 
+sv	Vill du leta här igen? 
+th	&lrm;อยากค้นตรงนี้อีกเหรอ | 
+tr	Bir daha inceleyelim mi? 
+uk	Хочеш знову обшукати це місце? 
+vi	&lrm;Cô muốn tìm lại ở đây? | 
+zh-long	妳想來這裡再找一次？ 
+zh-short	你想重新搜查这里吗？ 
+fi	Etsimmekö täältä uudestaan? | -Ehkä jotain jäi huomaamatta. | 
+ru	- Хочешь сама посмотреть? - Вдруг они что-то упустили. 
+it	- Forse si sono persi qualcosa. - Forse. 
+es	- Quizá pasaron algo por alto. - Sí. 
+id	- Mungkin ada yang terlewat. - Mungkin. 
+ja	&lrm;何かあるかも | 
+zh-short	-也许上次漏掉了一些东西 -也许吧 
+cs	- Možná něco přehlédli. - Možná. 
+pt-br	- Podem ter deixado algo passar. - Talvez. 
+hr	-Možda su nešto previdjeli. -Možda. 
+uk	-Раптом вони щось пропустили. -Можливо. 
+da	-Måske har de overset noget. | -Måske. | 
+en	-Maybe they missed something. -Maybe. 
+es-eu	- Quizá se les pasó algo. - Quizá. 
+fr	- Ils ont pu louper un truc. - Oui. 
+he	‫אולי הם פספסו משהו.‬ | ‫-אולי.‬ | 
+ko	&lrm;- 뭔가 놓쳤을 수도 있잖아요 | &lrm;- 어쩌면요 | 
+ms	- Mungkin mereka terlepas pandang. - Mungkin. 
+no	-Kanskje de overså noe. -Kanskje det. 
+ro	- Poate că le-a scăpat ceva. - Poate. 
+sv	-De kanske missade nåt. -Ja, kanske. 
+th	&lrm;- ตำรวจอาจจะพลาดอะไรไป | &lrm;- อาจจะ | 
+vi	&lrm;- Có lẽ họ bỏ lỡ gì đó. | &lrm;- Có thể. | 
+zh-long	-或許他們漏掉什麼了 -也許吧 
+nl	Misschien hebben ze iets gemist. -Wie weet. 
+pt	- Pode ter-lhes escapado algo. - Pois. 
+tr	-Belki bir şey kaçırmışlardır. -Belki. 
+hu	- Hátha valamit nem vettek észre. - Hátha. 
+el	-Ίσως να τους ξέφυγε κάτι. -Ίσως. 
+fi	Voi olla. | 
+ru	Может. 
+ja	&lrm;そうだな | 
+

@@ -1,0 +1,52 @@
+fr	Ton père, Marty ? 
+id	- Ayahmu, Marty? - Ya. 
+ru	-Твой папа, Марти? -Да. 
+ar	&rlm;‏‏- والدك "مارتي"؟ | &rlm;‏- أجل.‏ | 
+da	-Din far, Marty? -Ja. 
+el	-Ο πατέρας σου, Μάρτι; -Ναι. 
+en	-Your father, Marty? | -Yeah. | 
+fi	-Isäsi Marty? -Niin. 
+he	&rlm;‏‏אבא שלך, מרטי? | &rlm;‏-כן.‏ | 
+it	Tuo padre, Marty? 
+ko	- 마티? | - 네 | 
+nl	Je vader, Marty? 
+no	-Faren din, Marty? -Ja. 
+pl	- Marty? - Tak. 
+pr-br	-Seu pai, Marty? -Sim. 
+pr	- O teu pai, Marty? - Sim. 
+ro	- Tatăl tău, Marty? - Da. 
+sp-eu	- ¿Tu padre, Marty? - Sí. 
+sp	- ¿Tu papá, Marty? - Sí. 
+sv	-Din pappa, Marty? -Ja. 
+th	- พ่อคุณเหรอ มาร์ตี้ | - ใช่ | 
+tr	-Baban mı Marty? -Evet. 
+vi	- Bố cậu, Marty? | - Vâng. | 
+zh-long	-你爸，馬蒂？ -對 
+zh-short	-你父亲马蒂吗？ -是的 
+ja	マーティが僕に？ | 父上はすばらしい人だ | 
+id	Sampaikan salamku. Dia pria baik. Cerdas. 
+ar	&rlm;‏أبلغه تحياتي. إنه رجل صالح وذكي.‏ | 
+da	Hils fra mig. Han er en god mand. En kløgtig mand. 
+el	Δώσε του κι από εμένα. Είναι καλός και έξυπνος άνθρωπος. 
+en	Say hi for me. | He's a good man. A smart man. | 
+fi	Kerro terveisiä. Hieno mies. Fiksu mies. 
+fr	Passe-lui le bonjour. C'est un chic type. Un cerveau. 
+he	&rlm;‏תמסור לו ד"ש ממני. הוא איש טוב. איש חכם.‏ | 
+it	Salutamelo. È una brava persona. Un uomo intelligente. 
+ko	안부 전해드려 | 좋은 분이야, 똑똑하지 | 
+nl	Doe hem de groeten terug. Hij is een goede man. Slim. 
+no	Hils ham fra meg. Han er en fin fyr. Smart. 
+pl	Pozdrów go. Dobry z niego człowiek. I mądry. 
+pr-br	Cumprimente-o por mim. Ele é um bom homem, inteligente. 
+pr	Dá-lhe cumprimentos meus. É um bom homem. Um tipo inteligente. 
+ro	Salută-l din partea mea. E un om bun. E deștept. 
+ru	И ему привет. Он хороший парень. Умный. 
+sp-eu	Salúdale de mi parte. Es un buen hombre. Un hombre listo. 
+sv	Hälsa tillbaka. Han är en bra man. Smart. 
+th	ฝากสวัสดีแทนให้ด้วย | พ่อคุณเป็นคนดี คนฉลาด | 
+tr	Benden de selam söyle. O iyi bir adam. Zeki biri. 
+vi	Cho tôi gửi lời chào. | Ông ấy rất giỏi. Một người thông minh. | 
+zh-long	也幫我跟他打個招呼 他是個好人，聰明人 
+zh-short	帮我带个好 他是个好人 聪明人 
+sp	Salúdalo de mi parte. Un buen hombre. Muy astuto. 
+

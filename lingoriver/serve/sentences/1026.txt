@@ -1,0 +1,27 @@
+ja	よし 捜そう | 
+ru	Пошли поищем. 
+en	Uh, yeah, let's find him. | 
+ko	그래, 찾으러 가자 | 
+sv	Vi letar efter honom. 
+id	Ya, mari kita cari. 
+ar	&rlm;‏أجل، لنجده.‏ | 
+da	Ja, lad os finde ham. 
+el	Πάμε να τον βρούμε. 
+fi	Mennään etsimään. 
+fr	Allons le trouver. 
+he	&rlm;‏כן, בואי נמצא אותו.‏ | 
+it	Sì, cerchiamolo. 
+nl	We gaan hem zoeken. 
+no	Vi finner ham. 
+pl	Poszukajmy go. 
+pr-br	Sim, vamos encontrá-lo. 
+pr	Sim, vamos procurá-lo. 
+ro	Da, să-l găsim. 
+sp-eu	Sí, vamos a buscarlo. 
+sp	Sí, busquémoslo. 
+th	ใช่ ไปหาเขากัน | 
+tr	Evet, hadi onu bulalım. 
+vi	Ừ, đi tìm anh ta nào. | 
+zh-long	我們去找他吧 
+zh-short	是啊 我们去找找看 
+

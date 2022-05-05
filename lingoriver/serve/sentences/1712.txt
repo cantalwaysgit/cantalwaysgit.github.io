@@ -1,0 +1,27 @@
+ar	&rlm;‏تمكنها مواعدة من تشاء! هذا أمر يخصها!‏ | 
+da	Hun kan date, hvem hun vil date! Det er op til hende! 
+el	Μπορεί να βγαίνει με όποιον θέλει. Είναι δικό της θέμα! 
+en	She can date whoever she wants to date! | That's her thing! | 
+fi	Seurustelkoon kenen kanssa haluaa! Se on hänen juttunsa! 
+fr	Elle sort avec qui elle veut ! C'est sa vie ! 
+he	&rlm;‏‏היא יכולה לצאת עם מי שהיא רוצה לצאת! | &rlm;‏זה העסק שלה!‏ | 
+it	Lei può frequentare chi vuole! Ne ha tutto il diritto! 
+nl	Ze mag uit met wie ze wil. Haar probleem. 
+no	Hun kan date hvem hun vil! Det er det hun gjør! 
+pl	Może się umawiać, z kim tylko chce! 
+pr-br	Ela pode sair com quem ela quiser! Isso é coisa dela! 
+pr	Ela pode andar com quem quiser! É lá com ela! 
+ro	N-are decât să fie cu cine-o vrea! E treaba ei! 
+sp-eu	¡Puede salir con quien quiera! ¡Es decisión suya! 
+sp	¡Puede salir con quien se le dé la gana! ¡Es cosa de ella! 
+sv	Hon kan dejta vem hon vill. Det är hennes ensak! 
+th	เธอจะไปเดตใครก็ได้ตามใจ | นั่นมันเรื่องของเธอ | 
+tr	Kız kimle isterse çıkar! Bu onun meselesi! 
+vi	Cô ấy muốn hẹn hò với ai thì mặc! | Đó là chuyện của cô ấy! | 
+zh-long	她愛跟誰約會就跟誰約會！ 那是她的事 
+zh-short	她想跟谁交往就跟谁交往！ 那是她的事！ 
+id	Courtney bisa mengencani siapa pun. Itu urusannya. 
+ja	誰と付き合おうが | 彼女の自由だ | 
+ko	원하는 사람이랑 사귀라고 해요 | 그건 자기 마음이니까! | 
+ru	Пусть встречается с кем хочет! Это её дело! 
+

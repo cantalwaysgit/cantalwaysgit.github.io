@@ -1,0 +1,32 @@
+en	[chuckles] | 
+
+pt-br	O que foi? 
+uk	Що таке? 
+el	Τι είναι; 
+es	¿Qué pasa? 
+da	Hvad er det? | 
+es-eu	¿Qué es eso? 
+fr	C'est qui ? 
+he	‫מה זה?‬ | 
+hr	Što je? 
+hu	Mi az? 
+id	Ada apa? 
+it	Cos'è? 
+ja	&lrm;何だ？ | 
+ko	&lrm;무슨 일인데? | 
+nl	Wat is er? 
+no	Hva er det? 
+pt	O que foi? 
+ro	Cine e? 
+sv	Vem är det? 
+th	&lrm;มีอะไร | 
+tr	Ne oldu? 
+vi	&lrm;Gì vậy? | 
+zh-long	什麼事？ 
+zh-short	怎么了？ 
+cs	Co je? 
+fi	Mikä se oli? | 
+en	What is it? 
+ru	Что там? 
+ms	Ada apa? 
+

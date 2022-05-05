@@ -1,0 +1,27 @@
+ru	И ты тоже. Без тебя меня бы здесь не было. 
+id	Kau juga pantas menerimanya. Aku tak akan di sini tanpamu. 
+ar	&rlm;‏وأنت تستحقه أيضاً. لولاك لما كنت هنا.‏ | 
+da	Det gør du også. Jeg var ikke her uden dig. 
+el	Κι εσύ το αξίζεις. Δε θα ήμουν εδώ χωρίς εσένα. 
+en	You deserve it, too. | I wouldn't be here without you. | 
+fi	Sinä myös. En olisi tässä ilman sinua. 
+fr	Tu le mérites tout autant. Je ne serais pas là sans toi. 
+he	&rlm;‏זה מגיע גם לך. לא הייתי מגיעה לכאן בלעדיך.‏ | 
+it	Te lo meriti anche tu. Non sarei qui, senza di te. 
+nl	Jij ook. Zonder jou had ik hier niet gestaan. 
+no	Du fortjener det også. Jeg ville ikke vært her uten deg. 
+pl	Ty też. Bez ciebie bym tu nie dotarła. 
+pr-br	Você também merece. Eu não estaria aqui se não fosse por você. 
+pr	Tu também mereces. Eu não estaria aqui se não fosses tu. 
+ro	Și tu meriți. N-aș fi fost aici fără tine. 
+sp-eu	Tú también te lo mereces. No estaría aquí sin ti. 
+sp	Tú también. No estaría aquí de no ser por ti. 
+sv	Det gör du med. Jag skulle inte vara här utan dig. 
+th	คุณก็สมควรเช่นกัน | ฉันคงมาถึงที่นี่ไม่ได้ถ้าไม่มีคุณ | 
+tr	Sen de öyle. Sen olmasan burada olmazdım. 
+vi	Anh cũng xứng đáng. | Tôi sẽ không được thế nếu không có anh. | 
+zh-long	你也是，沒有你就沒有我 
+zh-short	你也是 没有你就没有我的今天 
+ko	당신도요, 당신이 없었다면 | 오늘 이 자리에 없었을 거예요 | 
+ja	あなたがいたから | 今の私がある | 
+

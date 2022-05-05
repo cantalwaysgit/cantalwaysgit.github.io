@@ -1,0 +1,28 @@
+ru	Не знаю. 
+id	Entahlah. Berbeda. 
+th	ไม่รู้สิ แตกต่างไป | 
+ar	&rlm;‏لا أدري. أمر مختلف.‏ | 
+da	Jeg ved ikke, anderledes. 
+el	Δεν ξέρω. Είσαι διαφορετικός. 
+en	I don't know. Different. | 
+fi	Sinussa on jotain erilaista. 
+fr	Je sais pas. T'es différent. 
+he	&rlm;‏אני לא יודעת, שונה.‏ | 
+it	Non saprei. Sei diverso. 
+ko	글쎄, 달라요 | 
+nl	Ik weet het niet. Je bent anders. 
+no	Jeg vet ikke. Annerledes. 
+pl	Nie wiem. Jesteś jakiś inny. 
+pr-br	Não sei. Diferente. 
+pr	Não sei. Diferente. 
+ro	Nu știu. E ceva diferit. 
+sp-eu	No sé. Estás distinto. 
+sp	No lo sé. Hay algo diferente. 
+sv	Jag vet inte. Annorlunda. 
+tr	Bilmiyorum. Farklı. 
+vi	Tôi không biết. Khác thường. | 
+zh-long	不知道，就是不太一樣 
+zh-short	不知道 不一样 
+ja	分からないけど何か違う | 
+ru	Что-то. 
+

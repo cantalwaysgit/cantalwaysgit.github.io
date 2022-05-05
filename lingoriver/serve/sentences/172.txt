@@ -1,0 +1,94 @@
+en	Kicking the piss out of you? | 
+he	&rlm;‏‏להעיף אותך לכל הרוחות? | &rlm;-לא. | 
+ar	&rlm;‏‏- أن أوسعك ضرباً؟ | &rlm;‏- لا. بل أن تظهر في التلفاز.‏ | 
+da	-Og banke dig gul og blå? -Nej. TV. 
+el	-Να σε πλακώσω στο ξύλο; -Όχι. Να βγεις στην τηλεόραση. 
+fi	-Ja monottaa sinua? -Ei, vaan televisioon. 
+fr	- En te mettant une branlée ? - Non. En faisant de la télé. 
+it	- Prenderti a calci in culo? - No. Alla televisione. 
+ko	- 널 흠씬 패주는 거? | - 아니, TV 말이야 | 
+nl	Je verrot slaan? -Nee. Televisie. 
+pl	- Skopanie ci tyłka? - Nie. Telewizję. 
+pr-br	-Dando um pé na sua bunda? -Não. Indo para televisão. 
+pr	- Gozar contigo? - Não. A televisão. 
+ro	- Să te bat până sună apa în tine? - Nu. Să apari la TV. 
+sp	- Entonces ¿te despedimos? - No. La televisión. 
+sp-eu	- ¿A darte la patada? - No. A la televisión. 
+sv	-Sparka skiten ur dig? -Nej. Television. 
+vi	- Đá mông anh à? | - Không. Truyền hình. | 
+zh-long	-把你打的頭破血流？ -不是，上電視 
+zh-short	-揍你吗？ -不是 是上电视 
+ja	あんたと決別？ | 
+no	-Gi deg grisebank? -Nei. TV. 
+tr	-Seni tepelemek gibi mi? -Hayır. 
+id	Menghajarmu? 
+ru	Набить тебе морду? 
+th	- อัดนายให้เละน่ะเหรอ | - ไม่ใช่ ทีวี | 
+ru	Нет. 
+id	Bukan. Televisi. 
+en	No. Television. | 
+ja	いいや　テレビの世界だ | 
+ru	Телевидение. 
+tr	Televizyon. 
+he	&rlm;טלוויזיה.‏ | 
+
+pt-br	- Está vendo aquele cara com curativo? - Sim. 
+zh-short	看见那个贴着创可贴的人了吗？ 
+ja	&lrm;包帯してる男 | 
+ru	Видишь того мужика с повязкой? 
+el	Βλέπεις τον τύπο με τον επίδεσμο; 
+it	- Vedi quel tizio col cerotto? - Sì. 
+cs	- Vidíš toho zafačovanýho chlapa? - Jo. 
+da	-Kan du se ham med forbindingen? | -Ja. | 
+en	-See that guy with the bandage? -Yes. 
+es-eu	- ¿Ves a ese tipo vendado? - Sí. 
+fr	- Tu vois ce type avec un pansement ? - Oui. 
+he	‫רואה את הבחור עם התחבושת?‬ | ‫-כן.‬ | 
+hr	-Vidiš tipa s previjenim nosom? -Da. 
+hu	- Látod azt a fickót? - Igen. 
+id	- Lihat pria dengan perban itu? - Ya. 
+ko	&lrm;- 붕대를 하고 있는 남자 보여요? | &lrm;- 네 | 
+ms	- Nampak tak lelaki itu? - Nampak. 
+nl	Zie je die vent met dat verband? -Ja. 
+no	-Ser du fyren med bandasje? -Ja. 
+pt	- Vês o tipo de penso? - Sim. 
+ro	- Îl vezi pe tipul cu bandaj? - Da. 
+sv	-Ser du han med bandaget? -Ja. 
+th	&lrm;- เห็นผู้ชายที่มีพลาสเตอร์ปิดแผลมั้ย | &lrm;- เห็น | 
+tr	-Bandajlı adamı görüyor musun? -Evet. 
+uk	-Бачиш чоловіка з перев'язкою? -Так. 
+vi	&lrm;- Thấy gã đeo băng cứu thương không? | &lrm;- Có. | 
+zh-long	-看到那個有繃帶的人了嗎？ -有 
+fi	Näetkö miehen, jolla on side? | 
+es	- ¿Ves a ese tipo vendado? - Sí. 
+ja	&lrm;それが？ | 
+ru	- Да. - Я его ударила той ночью. 
+fi	Näen. | -Löin häntä sinä iltana. | 
+zh-short	-看见了 -那天晚上我打了他 
+el	-Ναι. -Τον χτύπησα εκείνο το βράδυ. 
+it	Quella sera l'ho colpito. 
+cs	Toho jsem praštila já. 
+uk	Це я його вдарила. 
+en	I hit him that night. 
+fr	Je l'ai frappé. 
+hr	Tada sam ga udarila. 
+id	Aku menghajarnya malam itu. 
+ko	&lrm;그날 밤 내가 때린 사람이에요 | 
+ms	Saya pukul dia malam itu. 
+nl	Ik heb hem geslagen. 
+ro	L-am lovit atunci. 
+th	&lrm;คืนนั้นฉันชกเขา | 
+tr	O gece ona vurdum. 
+vi	&lrm;Tôi đã đánh hắn đêm đó. | 
+zh-long	我那天晚上打了他 
+sv	Jag slog honom. 
+he	‫היכיתי אותו באותו לילה.‬ | 
+pt	Bati-lhe naquela noite. 
+da	Jeg ramte ham den aften. | 
+es-eu	Lo golpeé aquella noche. 
+no	Jeg slo ham den kvelden. 
+pt-br	Bati nele naquela noite. 
+hu	Én ütöttem meg aznap este. 
+ja	&lrm;あの男を殴った | 
+es	Lo golpeé esa noche. 
+

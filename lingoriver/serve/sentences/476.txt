@@ -1,0 +1,28 @@
+id	- Bisa kita berlatih dialog? - Ya, untuk itulah aku kemari. 
+ru	-Ну, порепетируем? -Для этого я пришел. 
+ar	&rlm;‏‏- على كل حال، أيمكننا التدرب على الحوار؟ | &rlm;‏- أجل، لهذا أتيت.‏ | 
+da	-Nå, men kan vi gennemgå replikker? -Det er derfor, jeg er her. 
+el	-Μπορούμε να διαβάσουμε το σενάριο; -Γι' αυτό είμαι εδώ. 
+en	-Anyway, can we run lines? | -Yeah, that's why I'm here. | 
+fi	-Käydäänkö replat läpi? -Sitä vartenhan minä tulin. 
+fr	- Bref, on répète ? - Je suis là pour ça. 
+he	&rlm;‏‏בכל מקרה, אנחנו יכולים לעבור על הטקסט? | &rlm;‏-כן, בשביל זה אני כאן.‏ | 
+it	- Possiamo ripassare le battute? - Sono qui per questo. 
+ko	- 아무튼 대본 연습할까요? | - 그래서 온 거잖아 | 
+nl	Kunnen we de tekst doornemen? -Daarom ben ik hier. 
+pl	- Poćwiczymy moje kwestie? - Po to tu jestem. 
+pr-br	-Enfim, podemos repassar as falas? -É por isso que estou aqui. 
+pr	- Podemos ensaiar as falas? - É para isso que aqui estou. 
+ro	- În fine, putem repeta replicile? - Da, de asta am venit. 
+sp-eu	- ¿Podemos repasar mi diálogo? - Sí, por eso estoy aquí. 
+sp	- ¿Practicamos el diálogo? - Sí, para eso vine. 
+sv	-Kan vi köra några repliker? -Det är därför jag är här. 
+th	- เอาเถอะ มาซ้อมบทกันได้ไหม | - ได้สิ เพราะงั้นผมถึงได้มา | 
+tr	-Neyse, replikleri çalışalım mı? -Evet, onun için geldim. 
+vi	- Ta thử lời thoại được chưa? | - Rồi, vì thế mà tôi ở đây mà. | 
+zh-long	-管他的，來練臺詞吧？ -好，我來就是為了這個 
+zh-short	-总之 能对台词了吗？ -好啊 我就是为这个才来的 
+ja	セリフを？ | 
+no	-Uansett, kan vi øve? -Ja, det er derfor jeg kom. 
+ja	ああ 練習してくれ | 
+

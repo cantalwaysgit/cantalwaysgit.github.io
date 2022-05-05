@@ -1,0 +1,27 @@
+ar	&rlm;‏أجل. هذا منطقي.‏ | 
+da	Ja, det giver mening. 
+el	Ναι, έτσι εξηγείται. 
+en	Yeah. That makes sense. | 
+fi	Niin. Se käy järkeen. 
+fr	Oui, ça paraît logique. 
+he	&rlm;‏כן. זה הגיוני.‏ | 
+it	Già. È logico. 
+no	Ja. Det gir mening. 
+pr-br	Sim. Faz sentido. 
+pr	Sim. Faz sentido. 
+ro	Da. E de înțeles. 
+sp-eu	Sí. Eso tiene sentido. 
+sp	Sí. Con razón. 
+th	ใช่ นั่นสิมีเหตุผล | 
+tr	Evet ya. Anlaşıldı. 
+vi	Phải. Cũng dễ hiểu. | 
+zh-long	是呀，難怪 
+zh-short	对 这就说得通了 
+nl	Ja. Dat is logisch. Het is logisch als ik je vermoord, Arsenio. 
+ru	Да. 
+pl	Tak. Ma to sens. 
+id	Ya, itu masuk akal. 
+ko	그래, 이제 이해가 되겠지 | 
+ja	納得だと？ | 
+ru	Теперь ясно. 
+

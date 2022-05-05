@@ -1,0 +1,29 @@
+en	Now, I wouldn't tell you to break a deal | 
+ar	&rlm;‏لن أخبرك أن تلغي صفقة ما لم يوجد عرض أفضل.‏ | 
+da	Jeg ville ikke bede dig bryde en aftale, medmindre der var et bedre tilbud. 
+el	Δε θα σου έλεγα να απορρίψεις κάτι, αν δεν υπήρχε καλύτερη προσφορά. 
+fi	En neuvoisi perumaan sopimusta, ellei parempaa tarjousta ole luvassa. 
+fr	Je te dirais pas de refuser cette offre si j'en avais pas une meilleure. 
+he	&rlm;‏‏לא הייתי אומר לך להפר הסכם | &rlm;‏אם לא הייתי חושב שיש הצעה טובה יותר.‏ | 
+it	Non ti direi di rompere un accordo se non esistesse un'offerta migliore. 
+nl	Ik zou je geen deal laten afzeggen, als er geen beter aanbod zou zijn. 
+no	Jeg ville ikke bedt deg bryte en avtale uten at jeg trodde det fantes noe bedre. 
+pl	Nie doradzałbym ci zerwania umowy, gdybym nie miał czegoś lepszego. 
+pr-br	Eu não diria para você quebrar um acordo se não tivesse uma proposta melhor. 
+pr	Não te dizia para quebrares um acordo se não achasse que havia um melhor. 
+ro	Nu ți-aș spune să te retragi, dacă n-aș avea o afacere mai bună. 
+sp-eu	No te diría que rompieras un trato si no pensara que hay una oferta mejor. 
+sp	No te diría que rompieras un trato a menos que tuvieras una propuesta mejor. 
+sv	Jag skulle aldrig be dig bryta ett avtal, om det inte fanns ett bättre erbjudande. 
+th	ผมจะไม่บอกให้ยกเลิกสัญญา | นอกจากคิดว่าจะมีข้อเสนอที่ดีกว่า | 
+tr	Daha iyi olduğunu düşündüğüm bir teklifim olmasa anlaşmanı bozmanı söylemezdim. 
+vi	Anh sẽ không bảo em phá hợp đồng | trừ phi anh nghĩ là có thỏa thuận hời hơn. | 
+zh-long	要是沒有更好的選擇 我沒資格叫妳放棄 
+zh-short	要是没有更好的合约 我是不会叫你爽约的 
+ru	Я бы не предлагал разорвать контракт, если бы не было лучшего варианта. 
+ja	最高の条件をそろえたから | エリックとの結婚はやめろ | 
+id	Aku tidak akan memintamu membatalkan pernikahan 
+ko	더 좋은 제안이 아니었다면 | 계약 취소하라고 안 할 거야 | 
+en	unless I thought there was | a better offer out there for you. | 
+id	kecuali ada tawaran lebih baik di luar sana untukmu. 
+

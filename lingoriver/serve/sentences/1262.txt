@@ -1,0 +1,27 @@
+id	Kau akan baik-baik saja, Courtney. 
+ja	君は大丈夫だ | 
+ar	&rlm;‏ستكونين بخير يا "كورتني".‏ | 
+da	Du klarer dig. 
+el	Θα είσαι μια χαρά, Κόρτνι. 
+en	You're gonna be all right, Courtney. | 
+fi	Sinulla ei ole mitään hätää. 
+fr	Je m'inquiète pas pour toi. 
+he	&rlm;‏את תהיי בסדר.‏ | 
+it	Andrai alla grande. 
+nl	Het komt goed met je. 
+no	Du klarer deg fint. 
+pl	Poradzisz sobie. 
+pr-br	Você vai ficar bem. 
+pr	Vais ficar bem. 
+ro	O să te descurci. 
+sp	Estarás bien. 
+sp-eu	Todo saldrá bien. 
+sv	Du kommer att klara dig. 
+th	คุณจะไม่เป็นไร | 
+tr	İyi olacaksın. 
+vi	Cô sẽ ổn thôi, Courtney. | 
+zh-long	妳會好好的 
+zh-short	考特尼 你不会有事的 
+ko	괜찮을 거야 | 
+ru	Всё будет хорошо. 
+

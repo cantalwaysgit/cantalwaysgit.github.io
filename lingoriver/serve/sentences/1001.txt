@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- "إيمي باسكين". | &rlm;‏- ما الذي تفعله هنا يا "ساندي"؟‏ | 
+da	-Amy Baskin. -Sandy, hvad laver du her? 
+el	-Έιμι Μπάσκιν. -Σάντι, τι κάνεις εδώ; 
+en	-Amy Baskin. | -Sandy, what are you doing here? | 
+fi	-Amy Baskin. -Mitä sinä täällä teet? 
+fr	- Amy Baskin. - Sandy, que fais-tu ici ? 
+he	&rlm;‏‏איימי בסקין. | &rlm;‏-סנדי, מה אתה עושה כאן?‏ | 
+id	- Amy Baskin. - Sandy, sedang apa di sini? 
+it	- Amy Baskin. -Sandy, che ci fai qui? 
+ko	- 에이미 배스킨 | - 샌디, 여기서 뭐 해요? | 
+nl	Amy Baskin. -Sandy, wat doe je hier? 
+no	-Amy Baskin. -Sandy, hva gjør du her? 
+pl	- Amy Baskin. - Sandy, co ty tu robisz? 
+pr	- Amy Baskin. - Sandy, o que fazes aqui? 
+pr-br	-Amy Baskin. -Sandy, o que está fazendo aqui? 
+ro	- Amy Baskin. - Sandy, ce faci aici? 
+ru	-Эми Баскин! -Сэнди, ты что тут делаешь? 
+sp	- Amy Baskin. - Sandy, ¿qué haces aquí? 
+sp-eu	- Amy Baskin. - Sandy, ¿qué haces aquí? 
+sv	-Amy Baskin? -Vad gör du här? 
+th	- เอมี่ บาสกิน | - แซนดี้ คุณมาทำอะไรที่นี่ | 
+tr	-Amy Baskin. -Sandy, burada ne işin var? 
+vi	- Amy Baskin. | - Sandy, anh làm gì ở đây? | 
+zh-long	-艾咪貝斯金 -山迪，你怎麼會在這裡？ 
+zh-short	-艾米巴斯金 -桑迪 你怎么来了？ 
+ja	エイミー？ | 
+

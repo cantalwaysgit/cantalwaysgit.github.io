@@ -1,0 +1,52 @@
+ar	&rlm;‏كنت أتابع أخبارك. تحسنين العمل.‏ | 
+da	Jeg har fulgt dig. Du klarer dig så flot. 
+el	Παρακολουθώ την πορεία σου. Τα πηγαίνεις περίφημα. 
+en	I have been following you. | You are doing so well. | 
+fi	Olen seurannut menestystäsi. 
+fr	Je suis ce que tu fais. Tu cartonnes. 
+he	&rlm;‏עקבתי אחרייך. את עושה עבודה נהדרת.‏ | 
+it	Ti ho seguita. Stai andando benissimo. 
+nl	Ik heb je gevolgd. Je doet het heel goed. 
+no	Jeg har fulgt med på deg. Du gjør det så bra. 
+pl	Śledziłem twoją karierę. Dobrze sobie radzisz. 
+pr-br	Estou acompanhando você. Você está ótima. 
+pr	Tenho-te seguido. Estás a sair-te muito bem. 
+ro	Te-am urmărit. Te descurci de minune. 
+sp-eu	Te he estado siguiendo. Te va muy bien. 
+sp	Te he estado siguiendo. Te va muy bien. 
+sv	Jag har följt dig. Det går bra för dig. 
+th	ผมติดตามคุณนะ คุณไปได้ดีมาก | 
+tr	Seni takip ediyorum. Çok iyi gidiyorsun. 
+vi	Tôi vẫn dõi theo cô. Cô làm rất tốt. | 
+zh-long	我一直有追蹤妳的動態 妳真的好棒 
+zh-short	我一直有关注你 你干得很出色 
+id	Aku terus mengikutimu. Kau tampil dengan baik. 
+ru	Я за тобой слежу. Ты просто молодец. 
+ko	계속 지켜보고 있었어 | 정말 잘하고 있더라 | 
+ja	いつも見てたけど大活躍だね | 僕の言ったとおりだろ？ | 
+en	The Grammy tonight. Did I tell you | when that was gonna happen, huh? | 
+ar	&rlm;‏‏حفل "غرامي" الليلة. | &rlm;‏هل أخبرتك متى سيحدث ذلك؟‏ | 
+da	Grammy i aften. Sagde jeg ikke, det ville ske? 
+el	Είσαι στα Βραβεία Γκράμι. Σου είχα πει ότι θα τα καταφέρεις. 
+fi	Voitit Grammyn. Niinhän minä sanoin. 
+fr	Les Grammy. Je te l'avais bien dit. 
+he	&rlm;‏הגראמי הערב. לא אמרתי לך שזה יקרה?‏ | 
+it	Lo dicevo che saresti finita ai Grammy. 
+nl	Vanavond de Grammy. Zei ik je wanneer dat ging gebeuren? 
+no	Grammy i kveld. Sa jeg når det kom til å skje? 
+pl	Mówiłem ci, że dostaniesz Grammy. 
+pr-br	O Grammy hoje. Eu disse quando isso aconteceria? 
+pr	O Grammy desta noite. Não te disse que ia acontecer? 
+ro	În seara asta, Grammy. Nu ți-am zis că așa va fi? 
+sp	El Grammy esta noche. ¿Te dije cuándo sucedería eso? 
+sp-eu	El Grammy de esta noche. ¿No te dije que iba a pasar? 
+sv	Grammyn ikväll. Sa jag inte att det skulle ske? 
+th	แกรมมี่คืนนี้ | ผมบอกแล้วใช่ไหมว่ามันจะเกิดขึ้น | 
+tr	Grammy gecesi. Ben sana dememiş miydim? 
+vi	Giải Grammy đêm nay. | Tôi đã nói khi nào sẽ xảy ra chưa? | 
+zh-long	今晚的葛萊美獎 我早跟妳提過了吧？ 
+zh-short	今晚的格莱美奖 我就说会有这么一天吧？ 
+id	Grammy malam ini. Sudah kubilang ini akan terjadi, bukan? 
+ru	Видишь, «Грэмми». Я же говорил, что так будет? 
+ko	그래미까지 오다니 | 내가 이런 날이 올 거랬지? | 
+

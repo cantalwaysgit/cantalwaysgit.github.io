@@ -1,0 +1,52 @@
+ru	Спасибо. 
+id	Terima kasih. Aku pergi ke New York. 
+zh-short	谢谢 我去纽约了 
+th	ขอบคุณ ฉันไปนิวยอร์กนะ | 
+ar	&rlm;‏شكراً لك. سأذهب إلى "نيويورك".‏ | 
+da	Tak skal du have. Jeg er taget til New York. 
+el	Σ' ευχαριστώ. Φεύγω για τη Νέα Υόρκη. 
+en	Thank you. I'm off to New York. | 
+fi	Kiitos. Lähden New Yorkiin. 
+fr	Merci. Je pars pour New York. 
+he	&rlm;‏תודה. אני בדרכי לניו יורק.‏ | 
+it	Grazie. Vado a New York. 
+ko	'고마워요, 전 뉴욕으로 가요' | 
+no	Takk. Jeg drar til New York. 
+pl	Dziękuję. Lecę do Nowego Jorku. 
+pr-br	Obrigada. Estou indo para Nova York. 
+pr	Obrigada. Vou a Nova Iorque. 
+ro	Mulțumesc. Am plecat la New York. 
+sp-eu	Gracias. Me voy a Nueva York. 
+sp	Gracias. Me voy a Nueva York. 
+sv	Tack, jag åker till New York. 
+tr	Sağ ol. New York'a gidiyorum. 
+vi	Cảm ơn anh. Em đi New York đây. | 
+zh-long	謝謝你，我去紐約了 
+nl	Bedankt. Ik ga naar New York. Sandy weet 't het beste. 
+ru	Я улетаю в Нью-Йорк. 
+ja	“助言に従い | ニューヨークに行くわ” | 
+ar	&rlm;‏"ساندي" يعلم أفضل من الجميع.‏ | 
+da	Sandy ved bedst. 
+en	Sandy knows best. | 
+fr	C'est toi l'expert, Sandy. 
+he	&rlm;‏סנדי יודע הכי טוב.‏ | 
+it	Sandy sa cos'è meglio. 
+ko	'샌디가 제일 잘 알잖아요' | 
+no	Sandy vet best. 
+pr-br	Sandy sabe das coisas. 
+pr	O Sandy é que sabe. 
+ro	Sandy știe cel mai bine. 
+sp-eu	Sandy sabe más que nadie. 
+sp	Sandy sabe lo que es mejor. 
+sv	Sandy vet bäst. 
+tr	Sandy en iyisini bilir. 
+vi	Sandy biết tuốt. | 
+zh-long	山迪最懂了 
+id	Sandy tahu yang terbaik. 
+th	แซนดี้รู้ดีที่สุด | 
+zh-short	桑迪最了解情况 
+ru	Сэнди лучше знать. 
+pl	Sandy wie najlepiej. 
+fi	Sandy tietää parhaiten. 
+el	Ο Σάντι ξέρει καλύτερα. 
+

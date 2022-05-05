@@ -1,0 +1,57 @@
+ru	Каждый ураган начинается с ветерка. 
+ja	“巨大竜巻も | そよ風から始まる” | 
+zh-short	浩大的龙卷风始于微风 
+th	ทอร์นาโดสุดโหดเริ่มจากลมน้อยๆ | 
+ar	&rlm;‏يبدأ أعتى إعصار بنسيم صغير.‏ | 
+da	Den største tornado starter med en lille brise. 
+el	Ο πιο ισχυρός ανεμοστρόβιλος ξεκινά μ' ένα μικρό αεράκι. 
+en	[stammers] The mightiest tornado | starts with a small breeze. | 
+fi	Mahtavinkin tornado on alussa vain pieni tuulenvire. 
+fr	La plus grande des tornades commence par une petite brise. 
+he	&rlm;‏הטורנדו החזק ביותר מתחיל עם רוח קלה.‏ | 
+it	I tornado più potenti nascono da una brezza leggera. 
+ko	거대한 토네이도는 | 미풍에서 시작하죠 | 
+nl	De sterkste tornado begint met 'n briesje. 
+no	Den sterkeste tornado begynner med en svak bris. 
+pl	Nawet największe tornado na początku jest zefirkiem. 
+pr-br	O tornado mais forte começa com uma leve brisa. 
+pr	O tornado mais poderoso começa com uma pequena brisa. 
+ro	Cele mai mari tornade pornesc de la o adiere. 
+sp-eu	El más potente tornado empieza por una pequeña brisa. 
+sp	Hasta el tornado más poderoso comienza con una brisa. 
+sv	Den mäktigaste tornadon börjar med en liten bris. 
+tr	En kuvvetli kasırga ufak bir meltemle başlar. 
+vi	Vòi rồng mạnh nhất | bắt đầu là một cơn gió nhẹ. | 
+zh-long	萬丈高樓平地起 
+id	Tornado paling kuat dimulai dengan angin semilir. 
+
+sv	De var nog goda vänner. Det finns många bilder på dem. 
+it	Erano intime, ci sono molte foto di loro insieme. 
+es	Eran cercanas. Se tomaron muchas fotos juntas. 
+fi	He lienevät läheisiä. | Heistä oli paljon kuvia. | 
+cs	Byly si blízké. Společných fotek tam bylo hodně. 
+uk	Здається, вони були близькі, бо багато фотографувалися разом. 
+pt-br	Elas eram próximas, há várias fotos das duas. 
+da	De var nære venner. | Der er mange fotos af dem. | 
+el	Είναι δεμένες. Έχουν πολλές φωτογραφίες μαζί. 
+es-eu	Eran íntimas. Tienen muchas fotos juntas. 
+fr	Elles étaient proches. Il y a plein de photos. 
+he	‫הן היו קרובות. יש הרבה תמונות שלהן.‬ | 
+hr	Bile su bliske. Imaju puno zajedničkih fotki. 
+hu	Biztos jóban voltak. Sok közös kép van róluk. 
+id	Mereka akrab. Ada banyak foto mereka. 
+ko	&lrm;둘이 가까웠어요 | &lrm;같이 찍은 사진이 많아요 | 
+ms	Mereka rapat. Ada banyak gambar mereka. 
+nl	Ze waren hecht. Er zijn veel foto's van hen. 
+no	De var nære. Det er mange bilder av dem. 
+pt	Eram chegadas. Há muitas fotos das duas. 
+ro	Erau apropiate. Sunt multe poze cu ele. 
+ru	Похоже, они были близки. Много совместных фото. 
+th	&lrm;เป็นเพื่อนสนิทกัน มีรูปถ่ายหลายรูปเลย | 
+tr	Yakınlarmış çünkü bir sürü fotoğrafları var. 
+vi	&lrm;Họ rất thân thiết. | &lrm;Có rất nhiều ảnh của họ. | 
+zh-long	她們很要好，有很多她們的合照 
+zh-short	她俩一定很要好 有很多她们的合影 
+ja	&lrm;仲がいいようで | &lrm;たくさんありました | 
+en	They were close. 
+

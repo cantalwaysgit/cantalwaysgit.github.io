@@ -1,0 +1,27 @@
+ar	&rlm;‏ما الذي نفعله هنا؟‏ | 
+da	Hvad laver vi her? 
+el	Τι γυρεύουμε εδώ; 
+en	What are we doing here? | 
+fi	Mitä me täällä teemme? 
+fr	Qu'est-ce qu'on fait ici ? 
+he	&rlm;‏מה אנחנו עושים כאן?‏ | 
+it	Che ci facciamo qui? 
+ko	여기엔 왜 온 거예요? | 
+no	Hva gjør vi her? 
+pr-br	O que estamos fazendo aqui? 
+pr	O que estamos a fazer aqui? 
+sp-eu	¿Qué hacemos aquí? 
+sp	¿Qué hacemos aquí? 
+sv	Vad gör vi här? 
+vi	Chúng ta làm gì ở đây vậy? | 
+zh-long	你載我來這裡幹嘛？ 
+zh-short	来这儿干什么？ 
+nl	Wat doen we hier? -Ga maar naar binnen. 
+ja	ここじゃない | 
+tr	Burada ne işimiz var? 
+id	Kenapa kita di sini? 
+pl	Co my tu robimy? 
+ro	Ce facem aici? 
+ru	Что мы здесь делаем? 
+th	เรามาทำอะไรที่นี่ | 
+

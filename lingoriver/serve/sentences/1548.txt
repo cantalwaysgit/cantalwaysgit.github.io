@@ -1,0 +1,27 @@
+id	Kenapa? Itu untuk mengencangkan paha dan bokong. 
+ru	Он укрепляет бедра и ягодицы. 
+ar	&rlm;‏إنه يشد الفخذين والردفين.‏ | 
+da	Det er for faste lår og balder. 
+el	Είναι για σφιχτούς μηρούς και γλουτούς. 
+en	What? It's for firm thighs and buttocks. | 
+fi	Se kiinteyttää reisiä ja pakaroita. 
+fr	Ça raffermit les cuisses et les fesses. 
+he	&rlm;‏זה בשביל ירכיים וישבן חטובים.‏ | 
+it	Perché? Fa bene a cosce e glutei. 
+ko	허벅지랑 엉덩이 운동이 돼 | 
+nl	Je krijgt er strakke dijen en billen van. 
+no	Den strammer opp lår og rumpe. 
+pl	Ćwiczysz nim uda i pośladki. 
+pr-br	É para coxas e glúteos firmes. 
+pr	É para ter coxas e nádegas firmes. 
+ro	E pentru coapse ferme și fund bățos. 
+sp	Es para tener muslos y nalgas firmes. 
+sp-eu	Es para endurecer muslos y nalgas. 
+sv	Den är för fasta lår och skinkor. 
+th	มันกระชับต้นขาและก้น | 
+tr	Sıkı bacaklar ve kalçalar için. 
+vi	Máy đó dùng để tập đùi và mông. | 
+zh-long	可以緊實大腿和屁屁 
+zh-short	是用来塑腿和屁股的 
+ja	太ももと尻に効く | 
+

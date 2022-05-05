@@ -1,0 +1,53 @@
+id	- Aku suka itu. - Dia tidak buruk rupa. 
+ru	-Именно. -Он не придурочный. 
+ja	それだね | 
+th	- ชอบจัง | - เขาไม่ได้น่าเกลียดงี่เง่า | 
+ar	&rlm;‏‏- أحب ذلك. | &rlm;‏- إنه ليس كذلك.‏ | 
+da	-Jeg er vild med det. -Det er han ikke. 
+el	-Μου αρέσει αυτό! -Δεν έχει ανώμαλη έκφραση. 
+en	-I love that. | -He's not a boner face. | 
+fi	-Mahtavaa. -Eihän vouhota. 
+fr	- J'adore. - Dites pas ça. 
+he	&rlm;‏‏אני אוהב את זה! | &rlm;‏-הוא לא פרצוף זין.‏ | 
+it	- Mi piace. - Non è uno schizzato. 
+ko	- 그거 좋다 | - 진지 대마왕 아니에요 | 
+nl	Leuk. -Hij is geen blije eikel. 
+no	-Digger det. -Han er ikke en dust. 
+pl	- Dobre. - Nieprawda. 
+pr	- Adoro isso. - Ele não é nenhum palerma. 
+pr-br	-Adorei. -Ele não é um cara de cuíca. 
+ro	- Adorabil! - Nu e năuc. 
+sp-eu	- ¡Me encanta! - No es un caraculo. 
+sp	- Me encanta. - No está siempre excitado. 
+sv	-Bra sagt! -Han är inte överentusiastisk. 
+tr	-Buna bayıldım. -Hiç de öyle değil. 
+vi	- Tôi thích từ đó. | - Anh ấy không phải thế. | 
+zh-long	-這個讚 -他才不雞巴 
+zh-short	-这个说法我喜欢 -他才不呢 
+ja	そんなことない | 頼りになるわ | 
+id	- Dia pria tangguh. - Baiklah. 
+ru	-Он крутой. -Окей. 
+fr	C'est un crack. 
+ar	&rlm;‏‏- بل هو صارم. | &rlm;‏- حسناً.‏ | 
+da	-Han er en laban. -Okay. 
+el	-Είναι ζόρικος. -Εντάξει. 
+en	-He's a badass. | -Okay. | 
+fi	-Hän on kova jätkä. -Hyvä on. 
+he	&rlm;‏‏הוא קשוח. | &rlm;‏-בסדר.‏ | 
+it	- È un tipo tosto. - D'accordo. 
+nl	Hij is een bikkel. 
+no	-Han er tøff. -Ok. 
+pl	- To twardziel. - OK. 
+pr-br	-Ele é fodão. -Está bem. 
+pr	- É porreiro. - Está bem. 
+ro	- E un tip dur. - Bine. 
+sp	- Es fantástico. - Está bien. 
+sp-eu	- Es total. - Vale. 
+sv	-Han är grym. -Visst. 
+th	- เขาเจ๋งสุดๆ | - ก็ได้ | 
+tr	-Kıyak adam. -Peki. 
+vi	- Anh ấy tuyệt đấy chứ. | - Thôi được. | 
+zh-long	-他是個狠角色 -好吧 
+zh-short	-他可是个狠角 -好吧 
+ko	- 진짜 멋진 사람이에요 | - 알았어요 | 
+

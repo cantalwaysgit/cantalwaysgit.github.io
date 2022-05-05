@@ -1,0 +1,26 @@
+id	Marc Anthony? 
+ar	&rlm;‏"مارك أنطوني"؟ بربك.‏ | 
+da	Marc Anthony? Hold nu op. 
+el	Ο Μαρκ Άντονι; Έλα τώρα. 
+en	Marc Anthony? Come on, Sandy. | 
+fi	Marc Anthony? 
+fr	Marc Anthony ? Sérieux. 
+he	&rlm;‏מארק אנתוני? בחייך.‏ | 
+it	Marc Anthony? Ma dai. 
+pl	Co ty gadasz? 
+pr-br	Marc Anthony? Qual é. 
+pr	O Marc Anthony? Ora. 
+ro	Marc Anthony? Zău! 
+sp-eu	¿Marc Anthony? Vamos. 
+sp	¿Marc Anthony? Vamos. 
+th	มาร์ค แอนโทนี่เรอะ ไม่เอาน่า | 
+tr	Marc Anthony mi? Hadi ama. 
+vi	Marc Anthony? Thôi nào. | 
+zh-long	馬克安東尼？拜託 
+zh-short	马尔科安东尼？拜托 
+ru	Марк Энтони? Брось. 
+ko	마크 앤서니요? 무슨... | 
+sv	Marc Anthony? Kom igen. Du kan väl bläddra i  People  emellanåt. 
+ja	たまには | ゴシップ誌でも読んだら？ | 
+no	Marc Anthony? Gi deg. 
+

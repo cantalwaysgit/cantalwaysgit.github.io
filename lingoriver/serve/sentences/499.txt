@@ -1,0 +1,27 @@
+ja	こいつが文句を | 
+pl	- Właśnie mówię. - Tak. 
+id	- Itu yang hendak kukatakan. - Ya. 
+fr	C'est ce que je dis. 
+ar	&rlm;‏‏- هذا ما أقوله. | &rlm;‏- أجل.‏ | 
+da	-Det er det, jeg siger. -Ja. 
+el	-Αυτό ακριβώς λέω. -Ναι. 
+en	-That's what I'm trying to tell him. | -Yes. | 
+fi	-Sitä minäkin. -Kyllä. 
+he	&rlm;‏‏זה מה שאני אומר. | &rlm;‏-כן.‏ | 
+it	- È quello che dico io. - Sì. 
+ko	- 내 말이 그 말이야 | - 그래 | 
+nl	Dat bedoel ik. 
+no	-Det er det jeg mener. -Ja. 
+pr-br	-É o que estou dizendo. -Sim. 
+pr	- É o que estou a dizer. - Sim. 
+ro	- Asta ziceam și eu! - Da. 
+sp	- A eso me refiero. - Sí. 
+sp-eu	- Eso digo yo. - Sí. 
+sv	Det är det jag försöker säga. 
+th	- นั่นแหละที่ฉันพูดอยู่ | - ใช่ | 
+tr	-Ben de onu diyorum. -Evet. 
+vi	- Tôi đang nói thế đấy. | - Được rồi. | 
+zh-long	-我就是這個意思 -沒錯 
+zh-short	-我说的就是这个 -是的 
+ru	-Я и говорю. -Ну. 
+

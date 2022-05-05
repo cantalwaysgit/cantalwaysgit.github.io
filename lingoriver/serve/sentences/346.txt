@@ -1,0 +1,28 @@
+id	Menusukmu? 
+ar	&rlm;‏‏أطعنك؟ لست سجيناً يا رجل. | &rlm;‏بل أعمل هنا. ولدي مناوبة ليلية.‏ | 
+da	Stikke dig ned? Jeg sidder ikke inde. Jeg arbejder her. På aftenholdet. 
+el	Δεν είμαι κρατούμενος. Δουλεύω εδώ. Έχω νυχτερινή βάρδια. 
+en	Shiv you? Man, I ain't no inmate. I work | here. I've got... got the night shift. | 
+fi	En ole vanki vaan työntekijä. Olen iltavuorossa. 
+fr	Vous poignarder ? Je suis pas un détenu. Je bosse ici. De nuit. 
+he	&rlm;‏‏לדקור אותך? בנאדם, אני לא אסיר. | &rlm;‏אני עובד פה. יש לי משמרת לילה.‏ | 
+it	Accoltellarti? Non sono un detenuto. Lavoro qui e ho il turno di notte. 
+ko	칼로 긋다니요? | 난 여기 직원이에요 | 
+nl	Je neersteken? Ik ben geen gevangene. Ik werk hier. De nachtdienst. 
+no	Jeg er ikke innsatt. Jeg jobber her. Nattevakt. 
+pl	Kosy? Nie jestem więźniem. Ja tu pracuję, człowieku. 
+pr-br	Apunhalá-lo? Cara, não sou detento. Trabalho aqui. Faço o turno noturno. 
+pr	Esfaqueá-lo? Eu não sou recluso. Trabalho aqui. Faço o turno da noite. 
+ro	Să te tai? Amice, nu sunt deținut. Lucrez aici. Sunt în tura de noapte. 
+ru	Заточкой? Я не заключенный. Я тут работаю. В ночную смену. 
+sp	¿Apuñalarte? No soy un recluso. Trabajo aquí, hago el turno de noche. 
+sp-eu	¿Rajarle? Tío, no soy un recluso. Trabajo aquí. Tengo el turno de noche. 
+sv	Knivhugga? Jag är ingen intern. Jag jobbar här, jag har nattskiftet. 
+th	ปาดเหรอ ให้ตาย ผมไม่ใช่นักโทษ | ผมทำงานที่นี่ มีเวรกะกลางคืน | 
+tr	Şişlemek mi? Ben mahkûm değilim. Burada çalışıyorum. Gece vardiyasındayım. 
+vi	Khử anh? Tôi không phải tù nhân. | Tôi làm việc ở đây. Tôi làm ca đêm. | 
+zh-long	殺你？大哥，我不是犯人 我在這裡上班，今天夜班 
+zh-short	剃了你？老兄 我又不是犯人 我在这里上夜班 
+ja	刺す？ 俺は囚人じゃない | ここの職員だ | 
+id	Bung, aku bukan narapidana. Aku bekerja di sini. Sif malam. 
+

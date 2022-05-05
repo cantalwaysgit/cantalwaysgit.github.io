@@ -1,0 +1,27 @@
+ar	&rlm;‏‏يجب أن أعترف أنها المرة الأولى | &rlm;‏التي أوافق فيها الدمى الرأي.‏ | 
+da	Jeg må sige, det er første gang, at jeg er enig med dukkerne. 
+el	Είναι η πρώτη φορά που συμφωνώ με τις μαριονέτες. 
+en	I gotta tell you, it's the first time | I... I agree with the puppets. | 
+fi	Olen ensi kertaa samaa mieltä nukkejen kanssa. 
+fr	C'est la première fois que je suis d'accord avec eux. 
+he	&rlm;‏‏אני מוכרח לומר לך, זו הפעם הראשונה | &rlm;‏שאני מסכים עם הבובות.‏ | 
+it	È la prima volta che sono d'accordo con i pupazzi. 
+ko	솔직히 꼭두각시 말에 | 동의하는 건 처음이야 | 
+nl	Dit is de eerste keer dat ik het eens ben met de poppen. 
+pl	Muszę przyznać, że po raz pierwszy zgadzam się z lalkami. 
+pr-br	Confesso que é a primeira vez que concordo com as marionetes. 
+pr	Devo dizer que é a primeira vez que concordo com os fantoches. 
+ro	Acum e prima dată când sunt de acord cu păpușile. 
+sp	Debo decirte, es la primera vez que estoy de acuerdo con los muñecos. 
+sp-eu	Tengo que decirte que es la primera vez que estoy de acuerdo con los muñecos. 
+sv	Det är första gången jag håller med dockorna. 
+th	ผมต้องขอบอก เป็นครั้งแรก | ที่ผมเห็นด้วยกับหุ่น | 
+tr	Şunu söylemeliyim ki ilk kez kuklalarla aynı fikirdeyim. 
+vi	Phải nói là lần đầu tiên | tôi đồng ý với mấy con rối. | 
+zh-long	我得說，這是我第一次 認同你的木偶們 
+zh-short	我得跟你说 这是我第一次 赞同这几个木偶说的话 
+ja	初めてパペットたちに | 同意するよ | 
+no	Det er første gang jeg er enig med dukkene. 
+id	Ini kali pertamanya aku setuju dengan para boneka. 
+ru	Знаешь, впервые я согласен с куклами. 
+

@@ -1,0 +1,27 @@
+id	bersama A.J. Jamal. Aku mau pastikan berjalan lancar. 
+ru	с Эй-Джей Джамалом. Надо узнать, как всё прошло. 
+ar	&rlm;‏‏يشاركه البطولة فيه "أيه جيه جمال". | &rlm;‏أريد أن أتأكد من أنه كان ناجحاً.‏ | 
+da	med AJ Jamal som opvarmer. Jeg vil være sikker på, det gik godt. 
+el	με τον Έι Τζέι Τζαμάλ. Θέλω να βεβαιωθώ ότι πήγε καλά. 
+en	co-headlining with AJ Jamal. | I wanna make sure that went well. | 
+fi	AJ Jamalin kanssa. Haluan varmistaa, että se meni hyvin. 
+fr	avec AJ Jamal. Je veux savoir si ça s'est bien passé. 
+he	&rlm;‏‏ככוכב הערב עם איי-ג'יי ג'מאל. | &rlm;‏אני רוצה לוודא שהכול הלך בסדר.‏ | 
+it	da protagonista con A.J. Jamal. Voglio accertarmi che sia andata bene. 
+nl	...samen met AJ Jamal. Ik wil zeker weten dat die goed ging. 
+no	sammen med AJ Jamal. Jeg vil vite om det gikk bra. 
+pl	razem z AJ Jamalem. Muszę wiedzieć, czy dobrze wypadł. 
+pr-br	junto com AJ Jamal. Quero ter certeza de que foi bom. 
+pr	em conjunto com o AJ Jamal. Quero garantir que correu bem. 
+ro	alături de AJ Jamal. Vreau să mă asigur că s-a descurcat. 
+sp-eu	con AJ Jamal. Quiero estar seguro de que ha ido bien. 
+sp	junto a AJ Jamal. Quiero asegurarme de que todo estuvo bien. 
+sv	tillsammans med AJ Jamal. Jag vill veta att det gick bra. 
+th	ร่วมออกหน้ากับเอเจ จามัล | ผมอยากให้แน่ใจว่าออกมาดี | 
+tr	AJ Jamal'la birlikte. İyi geçtiğinden emin olmak istiyorum. 
+vi	biểu diễn chính với AJ Jamal. | Tôi muốn đảm bảo mọi chuyện suôn sẻ. | 
+zh-long	跟AJ賈馬爾同臺演出 我要確定一切順利 
+zh-short	跟AJ贾马尔一起上了头条 我要确保事情进展顺利 
+ko	AJ 자말과 1면 기사에 떴지 | 잘 됐는지 확인해야 해 | 
+ja	何か連絡がくるかも | 
+

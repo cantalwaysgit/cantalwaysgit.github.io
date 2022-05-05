@@ -1,0 +1,27 @@
+id	Tidak apa-apa. Yang manapun tidak masalah. 
+ru	Нет-нет. Я не против. Как хотите. 
+ar	&rlm;‏لا. لا بأس. أنا موافق بالحالتين.‏ | 
+da	Nej, det er fint med mig. 
+el	Όχι, δεν πειράζει. Δεν έχω πρόβλημα. 
+en	No, no, no. That's fine. | Either way, I'm good. | 
+fi	Minulle sopii miten vain. 
+fr	Non, pas de problème. Peu importe. Les deux me vont. 
+he	&rlm;‏לא. זה בסדר. בכל מקרה, אני בסדר.‏ | 
+it	No. Va benissimo in ogni caso. Per me va bene. 
+ko	아니, 됐어요 | 종교는 상관없어요 | 
+nl	Nee. Prima. Allebei. 
+no	Nei. Det går bra. Det er det samme for meg. 
+pl	Dla mnie tam bez różnicy. 
+pr-br	Não, tudo bem. Tanto faz. Estou bem. 
+pr	Não há problema. Por mim, tanto faz. 
+ro	Nu. E-n regulă. Mie-mi convine oricum. 
+sp-eu	No. Tranquilo. Todo vale. No me importa. 
+sp	No está bien. De cualquier manera, no me importa. 
+sv	Nej. Det är bra. Spelar ingen roll vilket. 
+th	ไม่ๆ ไม่เป็นไร | แบบไหนก็ได้ ผมโอเค | 
+tr	Hayır. Sorun yok. İkisi de bana uyar. 
+vi	Không. Không sao. | Thế nào cũng được, con đồng ý. | 
+zh-long	沒關係，都可以，我沒差 
+zh-short	不 没事 我都能接受 
+ja	どっちでもいいよ | 気にしない | 
+

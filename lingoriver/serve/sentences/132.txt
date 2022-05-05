@@ -1,0 +1,32 @@
+en	[lands heavily] | 
+
+es	¿Estás orgulloso de mí? 
+uk	Ти мною пишаєшся? 
+cs	Seš na mě pyšnej? 
+ru	Я умница? 
+fi	Oletko ylpeä minusta? | 
+da	Er du stolt af mig? | 
+en	Are you proud of me? 
+es-eu	¿Orgulloso? 
+fr	Tu es fier de moi ? 
+he	‫אתה גאה בי?‬ | 
+hr	Ponosiš li se mnome? 
+hu	Büszke vagy rám? 
+id	Kau bangga kepadaku? 
+it	Sei orgoglioso di me? 
+ja	&lrm;見直した？ | 
+ko	&lrm;나, 잘했어? | 
+nl	Ben je trots op me? 
+no	Er du stolt av meg? 
+pt-br	Está orgulhoso de mim? 
+pt	Deixei-te orgulhoso? 
+ro	Ești mândru de mine? 
+sv	Är du stolt över mig? 
+th	&lrm;ภูมิใจในตัวฉันมั้ยล่ะ | 
+vi	&lrm;Tự hào về tôi không? | 
+zh-long	你以我為榮嗎？ 
+zh-short	为我感到骄傲吧？ 
+ms	Bangga tak dengan saya? 
+tr	Benimle gurur duydun mu? 
+el	Είσαι περήφανος για μένα; 
+

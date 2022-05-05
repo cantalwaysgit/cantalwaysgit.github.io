@@ -1,0 +1,27 @@
+ja	なるほど　じゃ再生は？ | 
+th	โอเค แล้วตอนนี้จะทำยังไง | 
+id	Baiklah, bagaimana sekarang? 
+ru	И... что теперь делать? 
+ar	&rlm;‏حسناً، ماذا نفعل الآن؟‏ | 
+da	Hvad gør vi så nu? 
+el	Οπότε, τι κάνουμε τώρα; 
+en	Okay, so what do we do now? | 
+fi	Mitä nyt tehdään? 
+fr	On fait quoi, maintenant ? 
+he	&rlm;‏בסדר, אז מה נעשה עכשיו?‏ | 
+it	Bene, e ora che facciamo? 
+ko	이젠 어떡하지? | 
+nl	Wat doen we nu? 
+no	Hva gjør vi nå? 
+pl	No to co teraz? 
+pr-br	Certo, o que vamos fazer agora? 
+pr	Está bem, o que fazemos agora? 
+ro	Bine. Și acum ce facem? 
+sp-eu	¿Y ahora qué hacemos? 
+sp	¿Qué hacemos ahora? 
+sv	Vad gör vi nu? 
+tr	Peki, şimdi ne yapacağız? 
+vi	Thôi được, giờ phải làm sao? | 
+zh-long	好，現在怎麼辦？ 
+zh-short	好吧 那现在怎么办？ 
+

@@ -1,0 +1,27 @@
+el	Ο Γκάρι είναι οικογένεια. 
+id	Gary itu keluarga. 
+ja	“家族”だ | 
+ru	Гэри - наш человек. 
+ar	&rlm;‏"غاري" فرد من العائلة.‏ | 
+da	Gary er familie. 
+en	Gary is family. | 
+fi	Gary on perhettä. 
+fr	Gary, c'est la famille. 
+he	&rlm;‏גארי הוא משפחה.‏ | 
+it	Gary è della famiglia. 
+ko	게리는 가족이야 | 
+nl	Gary is familie. 
+no	Gary er familie. 
+pl	Jest jak rodzina. 
+pr-br	Gary é família. 
+pr	O Gary é da família. 
+ro	Gary e din familie. 
+sp-eu	Gary es familia. 
+sp	Gary es de la familia. 
+sv	Gary tillhör familjen. 
+th	แกรี่คือคนในครอบครัว | 
+tr	Gary aileden biri. 
+vi	Gary là người nhà. | 
+zh-long	蓋瑞是家人 
+zh-short	加里是家人 
+

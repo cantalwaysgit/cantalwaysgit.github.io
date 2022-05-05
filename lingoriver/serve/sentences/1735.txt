@@ -1,0 +1,53 @@
+ja	嫌いだった？ | 
+ar	&rlm;‏‏أعلم أنك لا تحب نادي "أيس هاوس". | &rlm;‏لا أدري سبب ذكري له. آسف.‏ | 
+da	Du kan ikke lide The Ice House. Jeg ved ikke, hvorfor jeg sagde det. 
+el	Ξέρω ότι δε σου αρέσει. Δεν ξέρω γιατί το ανέφερα. 
+en	I know you don't like The Ice House. | I don't know why I said that. I'm sorry. | 
+fi	Et pidä siitä. En tiedä, miksi sanoin sen. 
+fr	T'aimes pas cet endroit, c'est vrai. Pourquoi je t'en parle ? Désolé. 
+he	&rlm;‏‏אתה לא אוהב את ה"אייס האוס". | &rlm;‏אני לא יודע למה אמרתי את זה. סליחה.‏ | 
+it	La Ice House non ti piace. Non so perché l'ho detto. Scusa. 
+nl	Dat vind je niks. Ik weet niet waarom ik dat zei. Sorry. 
+no	Du liker ikke Ice House. Vet ikke hvorfor jeg sa det. Beklager. 
+pl	Nie lubisz Ice House. Nie wiem, czemu to powiedziałem. Wybacz. 
+pr-br	Você não gosta de lá. Não sei por que eu disse isso. Desculpe. 
+pr	Sei que não gosta da Ice House. Não sei porque falei nisso. Desculpe. 
+ro	Știu că nu-ți place la The Ice House. Nu știu ce mi-a venit. Scuze. 
+sp-eu	No te gusta The Ice House. No sé por qué lo he dicho. Lo siento. 
+sp	No te gusta The Ice House. No sé por qué dije eso. Perdón. 
+sv	Du gillar inte Ice House. Vet inte varför jag sa det. Förlåt. 
+th	คุณไม่ชอบไอซ์เฮาส์ | ไม่รู้ว่าทำไมผมพูดแบบนั้น โทษที | 
+tr	Buz Evi'ni sevmezsin ki. Neden öyle dedim bilmiyorum. Kusura bakma. 
+vi	Ông không thích quán The Ice House. | Tôi không hiểu sao tôi nói thế. Xin lỗi. | 
+zh-long	我知道你不喜歡《冰屋》 我講這個幹嘛，抱歉 
+zh-short	你不喜欢冰屋 我不知道自己为什么会这么说 抱歉 
+ko	아이스 하우스 싫으신가 봐요 | 왜 이런 말을 했지? 죄송해요 | 
+ru	Вы не любите «Айс Хауз». Не знаю, зачем я это сказал. Простите. 
+id	Aku tahu kau tak suka  The Ice House. Entah kenapa aku mengatakannya. Maaf. 
+ja	食事中に失礼したね | ケヴィンを見てくる | 
+ru	Ладно, пойду смотреть Кевина. 
+id	Baiklah, aku akan menonton Kevin. 
+ar	&rlm;‏حسناً، سأذهب لأشاهد "كيفن".‏ | 
+el	Πάω να δω τον Κέβιν. 
+en	All right, I'm gonna go watch Kevin. | 
+fi	Lähden katsomaan Keviniä. 
+fr	Je vais voir Kevin. 
+he	&rlm;‏בסדר, אלך לראות את קווין.‏ | 
+it	Va bene, vado a vedere Kevin. 
+nl	Ik ga naar Kevin kijken. 
+no	Jeg går og ser på Kevin. 
+pl	Idę obejrzeć Kevina. 
+pr-br	Certo, vou ver o Kevin. 
+pr	Pronto, vou ver como está o Kevin. 
+ro	Bine. O să merg să mă uit la Kevin. 
+sp-eu	Vale, voy a ver a Kevin. 
+sp	Iré a ver a Kevin. 
+sv	Jag ska gå och se på Kevin. 
+th	เอาละ ผมจะไปดูเควิน | 
+tr	Pekâlâ, gidip Kevin'i izleyeceğim. 
+vi	Được rồi, tôi sẽ ra xem Kevin. | 
+zh-long	好吧，我去看看凱文 
+zh-short	行了 我要去看凯文 
+da	Okay, jeg går ind og ser Kevin. 
+ko	전 이만 가서 | 케빈을 지켜볼게요 | 
+

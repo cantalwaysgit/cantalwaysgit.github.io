@@ -1,0 +1,27 @@
+ja	毎週 給料が払われてる | 最高の職場だ | 
+en	I mean, she got benefits, | a paycheck every week. | 
+ar	&rlm;‏‏لديها ميزات وراتب كل أسبوع. | &rlm;‏ذاك الجبل سحري حقاً.‏ | 
+da	Hun har fordele, løn hver uge. Det bjerg er bare magisk. 
+el	Έχει προνόμια και σταθερή αμοιβή. Το βουνό είναι όντως μαγικό. 
+fi	Hän saa siellä edut ja viikkopalkan. Maagista tosiaan. 
+fr	Avantages sociaux, salaire hebdomadaire. Cette montagne est vraiment magique. 
+he	&rlm;‏‏היא מקבלת הטבות, משכורת כל שבוע. | &rlm;‏ההר הזה באמת קסום.‏ | 
+it	Lì ha dei bonus e una paga settimanale. Quel posto è magico. 
+ko	복리후생에 매주 급료도 나와요 | 진짜 마법 같은 산이죠 | 
+nl	Ze krijgt vergoeding, elke week salaris. Die berg is echt magisch. 
+no	Hun fikk frynsegoder, lønn hver uke. Det fjellet er virkelig magisk. 
+pl	Ma ubezpieczenie, stałą wypłatę. To bardzo ważne. 
+pr-br	Tem benefícios, paga todas as semanas. Aquela montanha é realmente mágica. 
+pr	Ela tem benefícios e recebe à semana. Aquela montanha é mesmo mágica. 
+ro	Acolo avea beneficii, salariu săptămânal. Era un loc minunat de muncă. 
+sp-eu	Le pagan el seguro, tiene nómina. Es una montaña mágica de verdad. 
+sp	Tiene beneficios, cobra todas las semanas. Esa montaña es mágica de verdad. 
+sv	Hon har sjukförsäkring, lön varje vecka. Det berget är magiskt. 
+th	เธอได้สวัสดิการ เงินเดือนทุกอาทิตย์ | ที่นั่นสุดยอด | 
+tr	İkramiyesi var, her hafta maaş ödeniyor. O dağ gerçekten büyülü. 
+vi	Con bé có thu nhập, tiền lương mỗi tuần. | Ngọn núi đó thực sự có phép màu. | 
+zh-long	福利好，每週固定薪水 那座山果然是魔術山 
+zh-short	有员工福利 每周付工资 那座山真的很神奇 
+id	Dia juga dapat fasilitas dan gaji setiap pekan. 
+ru	Ей там неплохо платят. 
+

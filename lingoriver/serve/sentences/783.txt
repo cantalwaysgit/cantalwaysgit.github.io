@@ -1,0 +1,25 @@
+ja	ミスターＤＪ | 
+id	Mr. DJ 
+ar	&rlm;‏"(مستر دي جيه)‏ | 
+el	Κύριε Ντι Τζέι 
+en	♪ Mr. DJ ♪ | 
+fi	Herra DJ 
+fr	Mister DJ 
+he	&rlm;‏מיסטר די ג'יי‏ | 
+it	Mr. DJ 
+ko	미스터 DJ | 
+nl	Mr DJ 
+pl	Panie DJ-u 
+pr-br	Mr. DJ 
+pr	Mr. DJ 
+ro	Domnule DJ 
+ru	Эй, диджей 
+sp-eu	Mr. DJ 
+sp	Sr. DJ 
+sv	Mr DJ 
+th	คุณดีเจ | 
+tr	Mr. DJ 
+vi	Anh chàng DJ | 
+zh-long	DJ先生 
+zh-short	唱片骑师 
+

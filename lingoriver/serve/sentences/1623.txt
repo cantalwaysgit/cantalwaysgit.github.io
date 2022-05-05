@@ -1,0 +1,22 @@
+id	Tidak. 
+ru	Нет! 
+ar	&rlm;‏لا!‏ | 
+da	Nej! 
+el	Όχι! 
+en	No! | 
+fi	Ei! 
+he	&rlm;‏לא!‏ | 
+ko	안 돼! | 
+pl	Nie! 
+pr-br	Não! 
+pr	Não! 
+ro	Nu! 
+sp-eu	¡No! 
+sp	¡No! 
+sv	Nej! 
+th	ไม่นะ | 
+tr	Hayır! 
+vi	Không! | 
+zh-long	不！ 
+zh-short	不！ 
+

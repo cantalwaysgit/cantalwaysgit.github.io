@@ -1,0 +1,68 @@
+ar	&rlm;‏"جادة (سنست)"‏ | 
+el	ΣΑΝΣΕΤ ΜΠΟΥΛΕΒΑΡΝΤ 
+he	&rlm;‏- שדרות סאנסט -‏ | 
+ko	“선셋 대로” | 
+th	(ซันเซต บูเลอวาร์ด) | 
+tr	SUNSET BULVARI 
+vi	ĐẠI LỘ HOÀNG HÔN | 
+zh-long	（日落大道） 
+zh-short	（日落大道） 
+en	[rock music playing] | 
+ja	“サンセット大通り” | 
+ru	САНСЕТ БУЛЬВАР 
+
+it	Stavano pensando a un trapianto. 
+es	Hasta se consideró un trasplante. 
+cs	Dokonce uvažovali o transplantaci. 
+da	Man har overvejet transplantation. | 
+el	Πρότειναν μέχρι και μεταμόσχευση. 
+es-eu	Se sopesó un trasplante. 
+fi	Lääkärit harkitsivat elinsiirtoa. | 
+fr	Ils ont même envisagé une greffe. 
+he	‫אפילו שקלו השתלה.‬ | 
+hr	Čak su pomišljali na presađivanje. 
+hu	Még az átültetés is szóba került. 
+id	Bahkan mungkin perlu transplantasi. 
+ja	&lrm;移植も考えました | 
+ko	&lrm;이식까지 고려했을 정도예요 | 
+ms	Mereka mencadangkan pemindahan. 
+pt	Até falaram em transplante. 
+pt-br	Até consideraram um transplante. 
+ro	Medicii au vrut să facă transplant. 
+th	&lrm;ปีที่แล้วเคยคิดจะปลูกถ่ายอวัยวะด้วย | 
+tr	Bir yıl önce nakil bile düşünüldü. 
+vi	&lrm;Họ thậm chí còn cân nhắc ghép gan. | 
+zh-long	一年前院方甚至考慮動移植手術 
+zh-short	一年前医生甚至考虑过肝移植 
+en	They even considered a transplant a year ago. 
+uk	Рік тому їй рекомендували пересадку. 
+no	De vurderte til og med transplantasjon. Hun tar dyre medisiner, men la dem hjemme. 
+ru	Возможно, нужна пересадка. Она не взяла дорогие лекарства, которые принимает. 
+it	Prendeva farmaci costosi, ma li ha lasciati a casa. 
+es	Toma medicamentos caros, pero no se los llevó. 
+nl	Ze slikt dure medicijnen, maar die lagen nog thuis. 
+fi	Hän jätti kalliit lääkkeensä kotiin. | 
+cs	Bere drahé léky, které si nechala doma. 
+da	Hun tager dyr medicin | men efterlod den derhjemme. | 
+el	Παίρνει ακριβά φάρμακα, αλλά τα άφησε στο σπίτι. 
+es-eu	Toma medicamentos caros que se dejó en casa. 
+fr	Elle a laissé ses médicaments à la maison. 
+he	‫היא נוטלת תרופות יקרות,‬ | ‫אבל השאירה אותן בבית.‬ | 
+hr	Pije skupocjene lijekove, no ostavila ih je doma. 
+hu	Nagyon drága gyógyszert szed, de otthon hagyta. 
+id	Dia minum obat mahal, tapi dia meninggalkannya di rumah. 
+ja	&lrm;高価な薬も | &lrm;家に置いたままです | 
+ko	&lrm;엄청 비싼 약을 먹는데 | &lrm;집에 두고 갔다고요 | 
+ms	Dia ambil ubat mahal, tapi ditinggalkan di rumah. 
+pt-br	Ela toma remédios caros, mas os deixou em casa. 
+pt	Toma medicamentos caros, mas deixou-os em casa. 
+ro	Tratamentul e scump și nu l-a luat cu ea. 
+sv	Hon äter dyra läkemedel, som hon lämnade hemma. 
+th	&lrm;ค่ายาแพงมาก แต่เธอดันทิ้งยาไว้ที่บ้าน | 
+tr	Pahalı ilaçlarının hepsini evde bırakmış. 
+vi	&lrm;Cô ấy dùng thuốc đắt tiền | &lrm;nhưng đã để ở nhà. | 
+zh-long	她吃了很貴的藥物 但院方讓她留在家裡 
+zh-short	她在吃很贵的药 但她把药留在家里了 
+uk	Вона приймає дорогі ліки, але залишила їх удома. 
+en	She's taking expensive medication, but she left it at home. 
+

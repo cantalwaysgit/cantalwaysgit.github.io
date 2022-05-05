@@ -1,0 +1,27 @@
+id	Kau seperti bintang. 
+ja	スターみたいだ | 
+ru	Ты выглядишь как звезда. 
+zh-short	你看起来像明星一样 
+th	คุณอย่างกับดารา | 
+ar	&rlm;‏تبدين نجمة.‏ | 
+da	Du ligner en stjerne. 
+el	Σαν σταρ είσαι. 
+en	You look like a star. | 
+fi	Näytät ihan tähdeltä. 
+fr	Une vraie star. 
+he	&rlm;‏את נראית כמו כוכבת.‏ | 
+it	Sembri una vera stella. 
+ko	스타 같아 | 
+nl	Je ziet eruit als een ster. 
+no	Du ser ut som en stjerne. 
+pl	Wyglądasz jak gwiazda. 
+pr-br	Você parece uma estrela. 
+pr	Pareces uma estrela. 
+ro	Arăți ca o vedetă. 
+sp-eu	Pareces una estrella. 
+sp	Pareces una estrella. 
+sv	Du ser ut som en stjärna. 
+tr	Tıpkı bir yıldız gibisin. 
+vi	Trông cô như một ngôi sao. | 
+zh-long	妳看起來像個大明星 
+

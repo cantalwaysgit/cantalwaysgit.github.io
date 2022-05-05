@@ -1,0 +1,26 @@
+ar	&rlm;‏أريد جعة زنجبيل.‏ | 
+da	Jeg tager en diet ginger ale. 
+el	Μια τζιτζιμπίρα διαίτης. 
+en	I'll take a diet ginger ale. | 
+fi	Kevytinkivääriolut. 
+fr	Une limonade sans sucre. 
+he	&rlm;‏אקח דיאט ג'ינג'ר אייל.‏ | 
+id	Aku mau minuman jahe bebas gula. 
+it	Un ginger ale senza zucchero. 
+ko	난 다이어트 진저 에일로 줘요 | 
+no	Jeg tar en ingefærøl light. 
+pl	Dla mnie napój imbirowy. 
+pr-br	Quero um refrigerante diet. 
+pr	Quero um  ginger ale   diet. 
+ro	Eu o să beau o gingerată. 
+ru	Диетический имбирный эль. 
+sp-eu	Yo quiero un ginger ale light. 
+sp	Yo quiero  ginger ale  dietética. 
+sv	Jag tar en light-ginger ale. 
+th	ผมขอไดเอตจินเจอร์เอล | 
+tr	Diyet zencefilli gazoz alayım. 
+vi	Tôi dùng rượu gừng ăn kiêng. | 
+zh-long	我喝零卡薑汁汽水 
+zh-short	无糖姜汁汽水 
+ja	ダイエット･ | ジンジャーエールを | 
+

@@ -1,0 +1,27 @@
+en	Oh, thanks, man. Well, you know, | you're the one who put it all together. | 
+ar	&rlm;‏شكراً. أنت من حقق كل ذلك.‏ | 
+da	Tak. Det var dig, der fandt på det. 
+el	Σ' ευχαριστώ. Άλλωστε, εσύ τα σκέφτηκες όλα. 
+fi	Kiitos. Sinähän sen keksit. 
+fr	Merci. C'est toi qui m'as lancé. 
+he	&rlm;‏תודה. אתה זה שחיבר את הכול.‏ | 
+it	Grazie. Sei tu che hai dato un senso a tutto. 
+no	Takk. Det var du som ga meg ideen. 
+pl	Dzięki. To wszystko dzięki tobie. 
+pr-br	Obrigado. Tudo graças a você. 
+pr	Obrigado. Foi tudo graças a ti. 
+ro	Mersi. Toate sunt datorită ție. 
+sp-eu	Gracias. Tú fuiste quien lo hizo cuajar. 
+sp	Gracias. Tú fuiste el que armó todo. 
+sv	Tack. Det var du som ordnade allt. 
+th	ขอบคุณ นายเป็นคนที่เอามันมารวมกัน | 
+tr	Sağ ol. Hepsini bir araya getiren sensin. 
+vi	Cảm ơn. Anh chính là người | tạo nên thành công đó. | 
+zh-long	謝謝，是你啟發了我 
+zh-short	谢谢 那其实都是你想出来的 
+nl	Bedankt. Allemaal dankzij jou. Weet je nog wat je zei? 
+ru	Спасибо. Это всё благодаря тебе. 
+ja	すべて君のおかげさ | 
+id	Terima kasih, Bung. Kaulah yang mewujudkan semuanya. 
+ko	고마워, 다 네 덕분이지 | 
+

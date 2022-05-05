@@ -1,0 +1,51 @@
+ja	ニューアルバムか？ | プレーヤーがあるならかけて | 
+ru	Это пластинка? Можно её поставить? 
+id	Itu CD-nya? Bisa kau putarkan? 
+ar	&rlm;‏أهذه هي الاسطوانة؟ أيمكنك تشغيلها؟‏ | 
+da	Er det pladen? Vil du spille den? 
+el	Ο δίσκος είναι αυτός; Μπορείς να τον βάλεις; 
+en	Is that the record? Can you play it? | 
+fi	Onko tuo se levy? Pannaan soimaan. 
+fr	C'est ça, ton album ? Vous me faites écouter ? 
+he	&rlm;‏זה התקליט? את יכולה להשמיע אותו?‏ | 
+it	È il nuovo disco? Possiamo ascoltarlo? 
+ko	음반인가요?  | 틀어줄래요? | 
+no	Er det platen? Kan du spille den? 
+pl	To ta płyta? Mogę odsłuchać? 
+pr-br	Esse é o disco? Pode tocá-lo? 
+pr	É esse o disco? Pode pôr a tocar? 
+ro	Ăla e albumul? Vrei să-l pui? 
+sp	¿Ese es el disco? ¿Puedes ponerlo? 
+sp-eu	¿Es el disco? ¿Puedes ponerlo? 
+sv	Är det skivan? Får jag spela den? 
+th	นั่นแผ่นเสียงใช่ไหม เปิดได้ไหม | 
+tr	Albüm mü bu? Çalabilir misiniz? 
+vi	Đĩa nhạc đấy à? Cô mở được không? | 
+zh-long	就是這張專輯？可以放來聽聽嗎？ 
+zh-short	是那张新专辑吗？能放一下吗？ 
+nl	Is dat het album? Kun je het opzetten? Is er een cd-speler hier? 
+id	- Ada pemutar musik di kamar ini? - Ya. 
+ar	&rlm;‏‏- أيوجد مشغل أسطوانات في الغرفة؟ | &rlm;‏- أجل.‏ | 
+da	-Er der en afspiller her? -Ja. 
+el	-Υπάρχει συσκευή στο δωμάτιο; -Ναι. 
+en	-Is there a player in the room? | -Yeah. | 
+fi	-Onko täällä soitinta? -On. 
+fr	Y a un lecteur CD ? 
+he	&rlm;‏‏יש נגן בחדר? | &rlm;‏-כן.‏ | 
+it	- C'è un lettore in camera? - Sì. 
+no	-Er det en spiller på rommet? -Ja. 
+pl	- Jest tu odtwarzacz? - Tak. 
+pr-br	-Tem um aparelho no quarto? -Sim. 
+pr	- Há algum leitor no quarto? - Sim. 
+ro	- Avem vreun CD-player aici? - Da. 
+sp-eu	- ¿Hay un reproductor en el cuarto? - Sí. 
+sp	- ¿Hay un reproductor en la habitación? - Sí. 
+sv	-Finns det en CD-spelare här? -Ja. 
+th	- มีเครื่องเล่นในห้องหรือเปล่า | - มีค่ะ | 
+tr	-Odada müzik çalar var mı? -Evet. 
+vi	- Có máy nghe nhạc trong phòng không? | - Có. | 
+zh-long	-這裡有播放器嗎？ -有 
+zh-short	-这里有播放机吗？ -有 
+ko	- CD 플레이어 있나요? | - 네 | 
+ru	-Здесь есть проигрыватель? -Да. 
+

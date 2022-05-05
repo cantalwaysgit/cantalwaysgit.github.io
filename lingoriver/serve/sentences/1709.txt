@@ -1,0 +1,30 @@
+id	Tuan, kau mau bunuh diri? 
+en	[man] Sir, are you committing suicide? | 
+ar	&rlm;‏هل ستنتحر؟ لا يُسمح لي بتصوير ذلك!‏ | 
+da	Begår du selvmord? Det må jeg ikke filme! 
+el	Επιχειρείτε να αυτοκτονήσετε; Δε μου επιτρέπεται να το τραβήξω αυτό! 
+fi	Teetkö itsemurhan? En saa kuvata sitä. 
+fr	C'est un suicide ? J'ai pas le droit de filmer ça ! 
+he	&rlm;‏אדוני, אתה מתאבד? אסור לי לצלם את זה!‏ | 
+it	Vuole suicidarsi? Non sono autorizzato a filmare! 
+ko	자살하려는 건가요? | 그런 건 찍을 수 없는데요! | 
+nl	Pleegt u zelfmoord? Dat mag ik vast niet filmen. 
+no	Begår du selvmord? Jeg har ikke lov til å filme det! 
+pl	Chce pan popełnić samobójstwo? Nie mogę tego nakręcić! 
+pr-br	Vai cometer suicídio? Pois não posso filmar isso! 
+pr	Vai suicidar-se? Acho que não posso filmar isso! 
+ro	Vreți să vă sinucideți? Nu pot filma asta! 
+sp-eu	¡Señor! ¿Va a suicidarse? ¡No tengo permiso para rodarlo! 
+sp	¿Va a suicidarse? ¡No puedo filmar eso! 
+sv	Ska du begå självmord? Jag får nog inte filma det. 
+th	คุณจะฆ่าตัวตายใช่ไหม | ผมไม่ได้รับอนุญาตให้ถ่ายนะ | 
+tr	İntihar mı edeceksiniz? Bunu filme çekmem yasak! 
+vi	Anh định tự tử à? | Tôi không được quay phim cảnh đó! | 
+zh-long	你要自殺嗎？我不能拍自殺鏡頭 
+zh-short	你要自杀吗？那个我不能拍！ 
+ru	Ты хочешь покончить с собой? 
+ja	死んだりしないよな？ | 放送できない | 
+en	'Cause I don't think | I'm allowed to film that! | 
+id	Karena kurasa aku tidak boleh merekamnya! 
+ru	Я не могу это снимать! 
+

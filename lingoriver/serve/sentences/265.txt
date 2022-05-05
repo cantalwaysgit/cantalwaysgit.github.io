@@ -1,0 +1,57 @@
+id	Kita bisa bicara di tempat lain? Aku manajer artis. 
+ru	Мы можем поговорить? Я музыкальный менеджер. 
+ja	タレントマネジャーなんだ | 
+ar	&rlm;‏اسمعي، أيمكننا أن نتحدث؟ أنا مدير مواهب.‏ | 
+da	Hør, kan vi snakke sammen? Jeg er impresario. 
+el	Μπορούμε να μιλήσουμε κάπου; Είμαι μάνατζερ ταλέντων. 
+en	Listen, can we talk somewhere? | I'm a talent manager. | 
+fi	Voisimmeko jutella? Olen manageri. 
+fr	Ce serait possible qu'on discute ? Je suis imprésario. 
+he	&rlm;‏‏תקשיבי, אנחנו יכולים לדבר? | &rlm;‏אני מנהל כישרונות.‏ | 
+it	Possiamo parlare? Faccio il manager per gli artisti. 
+ko	얘기 좀 할 수 있을까요? | 전 탤런트 매니저예요 | 
+nl	Kunnen we praten? Ik ben talentenmanager. 
+no	Kan vi ta en prat? Jeg er talentmanager. 
+pl	Możemy pogadać? Jestem menedżerem. 
+pr-br	Podemos conversar? Sou empresário. 
+pr	Ouça, podemos conversar? Sou empresário de artistas. 
+ro	Putem discuta undeva? Sunt impresar. 
+sp-eu	¿Podemos hablar? Soy mánager de artistas. 
+sp	¿Podemos hablar? Soy representante de artistas. 
+sv	Kan vi snackas vid? Jag är talangmanager. 
+th	ฟังนะ ขอคุยด้วยได้ไหม | ผมเป็นผู้จัดการดารา | 
+tr	Konuşabilir miyiz? Ben yetenek menajeriyim. 
+vi	Ta nói chuyện được chứ? | Tôi là người quản lý tài năng. | 
+zh-long	方便聊聊嗎？我是星探 
+zh-short	听着 我们能谈谈吗？我是个经纪人 
+
+uk	Почитати тобі? 
+fi	Lukisinko sinulle? | 
+zh-short	我可以读睡前故事给你听 
+el	Αν θες, θα σου διαβάσω. 
+es	Si quieres, puedo leerte. 
+cs	Jestli chceš, můžu ti číst. 
+pt-br	Se quiser, eu leio pra você. 
+ru	Хочешь, я тебе почитаю? 
+da	Jeg kan læse for dig. | 
+en	If you want, I'll read to you. 
+es-eu	Si quieres, te leo. 
+fr	Je peux te faire la lecture. 
+he	‫אם תרצי, אקריא לך.‬ | 
+hr	Ako želiš, čitat ću ti. 
+hu	Ha akarod, olvasok neked. 
+id	Mau Ayah bacakan cerita? 
+it	Se vuoi, leggerò per te. 
+ko	&lrm;책 읽어 줄까? | 
+ms	Kalau kamu nak, ayah akan bacakan. 
+pt	Se quiseres, eu leio para ti. 
+ro	Dacă vrei, îți citesc. 
+sv	Jag läser för dig om du vill. 
+th	&lrm;พ่ออ่านหนังสือให้ฟังได้นะ | 
+tr	İstersen kitap okuyabilirim. 
+vi	&lrm;Nếu con muốn, bố sẽ đọc cho con nghe. | 
+zh-long	如果妳願意，我會講故事給妳聽 
+ja	&lrm;何か読もうか？ | 
+nl	Als je wil, zal ik je voorlezen. 
+no	Om du vil, kan jeg lese for deg. 
+

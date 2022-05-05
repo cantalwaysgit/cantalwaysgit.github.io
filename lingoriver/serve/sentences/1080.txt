@@ -1,0 +1,27 @@
+id	Aku mendengar setiap lagu di semua saluran radio. 
+ru	Песни крутили на всех станциях. 
+ja	ラジオをつければ流れてた | 
+ar	&rlm;‏سمعت كل أغنية في كل إذاعة.‏ | 
+da	Jeg hørte alle sange på alle stationer. 
+el	Άκουγα όλα τα τραγούδια σε κάθε σταθμό. 
+en	I heard every song | on every station of every radio. | 
+fi	Joka kappaletta soitettiin joka kanavalla. 
+fr	Toutes les chansons passaient à la radio. 
+he	&rlm;‏שמעתי את כל השירים בכל תחנות הרדיו.‏ | 
+it	Tutte le canzoni erano su tutte le radio. 
+nl	Ik hoorde elk nummer op elke zender. 
+no	Jeg hørte alle sangene på alle kanaler. 
+pl	Wszędzie puszczali jej piosenki. 
+pr-br	Ouvi todas as músicas em todas as estações. 
+pr	Ouvi todas as canções em todas as estações. 
+ro	Am auzit toate cântecele la toate posturile de radio. 
+sp-eu	Escuché todas las canciones en todas las emisoras. 
+sp	Oía todas sus canciones en todas las radios. 
+sv	Jag hörde alla låtar på alla stationer. 
+th	ฉันได้ยินทุกเพลงจากทุกสถานี | 
+tr	Şarkıların tümünü her kanalda duydum. 
+vi	Tôi nghe mọi bài hát trên mọi kênh. | 
+zh-long	各家電臺放個不停 
+zh-short	所有电台都在播那张专辑的歌 
+ko	라디오 채널마다 | 코트니 곡을 전부 틀었어요 | 
+

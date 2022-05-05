@@ -1,0 +1,26 @@
+id	Memakai celanaku. 
+ja	ズボンは はいてる | 
+ar	&rlm;‏وأنا أرتدي سروالي.‏ | 
+da	Med bukserne på. 
+el	Φορώντας το παντελόνι μου. 
+en	With my pants on. | 
+fi	Housut jalassa. 
+fr	Avec mon futal. 
+he	&rlm;‏עם המכנסיים.‏ | 
+it	Con i pantaloni addosso. 
+ko	바지 입고요 | 
+no	Med buksa på. 
+pl	Ze spodniami na tyłku. 
+pr-br	Com as minhas calças. 
+pr	Com as calças vestidas. 
+ro	Cu pantalonii pe mine. 
+ru	В штанах. 
+sp	Con los pantalones puestos. 
+sp-eu	Con los pantalones puestos. 
+sv	Med byxorna på. 
+th	ใส่กางเกงอยู่ด้วย | 
+tr	Pantolonum üstümdeydi. 
+vi	Có mặc quần. | 
+zh-long	褲子穿好好 
+zh-short	我可没脱裤子 
+

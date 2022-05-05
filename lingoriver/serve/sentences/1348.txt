@@ -1,0 +1,23 @@
+id	Ya, baiklah. 
+ar	&rlm;‏أجل، حسناً.‏ | 
+da	Ja, okay. 
+el	Εντάξει. 
+en	Yeah. | 
+fi	Selvä. 
+he	&rlm;‏כן, בסדר.‏ | 
+it	Certo, bene. 
+ko	알았어요 | 
+pl	Dobra. 
+pr-br	Sim, beleza. 
+pr	Sim, está bem. 
+ro	Bine. 
+sp-eu	Sí, vale. 
+sp	Sí, está bien. 
+sv	Ja, visst. 
+th	ใช่ | 
+tr	Evet, tamam. 
+vi	Vâng, được rồi. | 
+zh-long	好吧 
+zh-short	好吧 
+ru	Да, конечно. 
+

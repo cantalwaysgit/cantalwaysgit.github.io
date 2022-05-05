@@ -1,0 +1,25 @@
+ja	世間から | 　　冷たくされても― | 
+id	Kau bisa terdampar di cuaca dingin 
+ar	&rlm;‏قد تعلق في البرد في الخارج‏ | 
+da	Og du bliver smidt ud af salonen 
+el	Μπορεί να είσαι ολομόναχος στο κρύο 
+en	♪ You may be stranded out in the cold ♪ | 
+fi	Ja kylmä kyyti odottaa 
+fr	Même si tu passes la nuit dehors en hiver 
+he	&rlm;‏אתה עלול להיות תקוע בקור‏ | 
+it	Potresti rimanere fuori al freddo 
+pl	I na bruk lecisz bęc 
+pr-br	Pode acabar quebrando a cara 
+pr	Estás sujeito a ficar ao frio 
+ro	Poate vei tremura în frig 
+sp-eu	Puede que estés tirado en la calle 
+sp	Quizá quedes en la nada 
+th	คุณอาจถูกทิ้งหนาวอยู่ข้างนอก | 
+tr	Kapının önüne konacağını bilsen bile 
+vi	Bạn có thể bị mắc kẹt trong lạnh giá | 
+zh-long	寧受寒風刺骨 
+zh-short	让你在寒冷中束手无策 
+sv	Du är kanske strandsatt i kylan 
+ko	추운 날씨에 오도 가도 | 못할 수 있어 | 
+ru	И окажешься без дома, на морозе 
+

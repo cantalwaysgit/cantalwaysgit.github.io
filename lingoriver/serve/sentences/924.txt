@@ -1,0 +1,26 @@
+id	Apa-apaan, Sandy? 
+ar	&rlm;‏ما هذا؟‏ | 
+da	For fanden! 
+el	Τι στην ευχή, Σάντι; 
+en	What the hell, Sandy? | 
+fi	Mitä pirua? 
+fr	Purée, mec ! 
+he	&rlm;‏מה לעזאזל?‏ | 
+it	Ma che diavolo fai? 
+no	Hva i helvete? 
+pl	Co ty robisz? 
+pr-br	Mas que diabos? 
+pr	Mas que raio? 
+ro	Ce naiba? 
+sp-eu	¿Qué cojones? 
+sp	¿Qué carajos? 
+sv	Vad i helvete? 
+th	นี่มันบ้าอะไร | 
+tr	Ne oluyor be? 
+vi	Cái quái gì thế? | 
+zh-long	搞屁喔 
+zh-short	搞什么？ 
+ja	何してる！ | 
+ru	Сэнди, ну что за хрень? 
+ko	무슨 짓이야? | 
+

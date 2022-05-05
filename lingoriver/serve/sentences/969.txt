@@ -1,0 +1,27 @@
+ru	Он пострадал? 
+ar	&rlm;‏‏- هل تأذى؟ | &rlm;‏- من؟‏ | 
+da	-Kom han til skade? -Hvem? 
+el	-Τραυματίστηκε; -Ποιος; 
+en	-Oh, he got hurt? | -Who did? | 
+fi	-Loukkaantuiko hän? -Kuka? 
+fr	- Il a été blessé ? - Qui ça ? 
+he	&rlm;‏‏הוא נפגע? | &rlm;‏-מי?‏ | 
+id	- Dia terluka? - Siapa? 
+it	- Si è fatto male? - Chi? 
+ko	- 다쳤어요? | - 누가? | 
+nl	Raakte hij gewond? -Wie? 
+no	-Ble han skadet? -Hvem? 
+pl	- Oberwał? - Kto? 
+pr-br	-Ele se machucou? -Quem? 
+pr	- Ficou magoado? - Quem? 
+ro	- A fost rănit? - Cine? 
+sp-eu	- ¿Se hizo daño? - ¿Quién? 
+sp	- ¿Se lastimó? - ¿Quién? 
+sv	-Blev han skadad? -Vem då? 
+th	- เขาบาดเจ็บเหรอ | - ใครบาดเจ็บ | 
+tr	-Yaralandı mı? -Kim? 
+vi	- Anh ta bị thương à? | - Ai cơ? | 
+zh-long	-他受傷了？ -誰？ 
+zh-short	-他受伤了吗？ -谁受伤了？ 
+ja	ケガした？ | 
+

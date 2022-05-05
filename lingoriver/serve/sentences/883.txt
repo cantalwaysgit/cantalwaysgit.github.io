@@ -1,0 +1,27 @@
+ar	&rlm;‏‏لقد درس في كلية ولاية | &rlm;‏"سان دييغو" في الواقع.‏ | 
+da	Han gik faktisk på San Diego State. 
+el	Για την ακρίβεια, φοίτησε στο Σαν Ντιέγκο. 
+fi	Hän opiskeli kylläkin San Diego Statessa. 
+fr	San Diego State, c'est pas si réputé. 
+he	&rlm;‏למעשה הוא למד באוניברסיטת סן דייגו.‏ | 
+it	A dire il vero, è andato all'Università statale di San Diego. 
+ko	샌디에이고 주립대 나왔을걸 | 
+nl	Eigenlijk ging hij naar San Diego State. 
+pl	Kończył studia na uniwersytecie San Diego. 
+pr-br	Na verdade, ele estudou na San Diego State. 
+pr	Na verdade, ele andou na San Diego State. 
+ro	De fapt, a studiat la Universitatea San Diego. 
+sp	En realidad, fue a San Diego State. 
+sp-eu	En realidad fue a la universidad pública de San Diego. 
+sv	Han gick på San Diego State. 
+th	จริงๆ แล้วเขาเรียนที่ซานดิเอโกสเตต | 
+tr	Aslında San Diego Eyalet Üniversitesi'nde okumuş. 
+vi	Thực ra anh ta học trường San Diego State. | 
+zh-long	其實他是聖地牙哥大學畢業的 
+zh-short	他其实读的是圣迭戈州立大学 
+en	-He went to San Diego State... actually. | -You're kidding me right now, right? | 
+ru	Он учился в Сан-Диего. 
+no	Han gikk på San Diego State. 
+id	Dia berkuliah di San Diego State. 
+ja	実際はサンディエゴ州立大を | 出てるらしい | 
+

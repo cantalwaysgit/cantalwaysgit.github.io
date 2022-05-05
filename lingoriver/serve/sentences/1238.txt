@@ -1,0 +1,26 @@
+id	Terima kasih, Sandy. 
+ja	ありがとう | 
+ar	&rlm;‏شكراً يا "ساندي".‏ | 
+da	Tak, Sandy. 
+el	Σ' ευχαριστώ, Σάντι. 
+en	Thank you, Sandy. | 
+fi	Kiitos. 
+fr	Merci, Sandy. 
+he	&rlm;‏תודה, סנדי.‏ | 
+it	Grazie, Sandy. 
+ko	고마워요, 샌디 | 
+no	Takk, Sandy. 
+pl	Dziękuję. 
+pr-br	Obrigada, Sandy. 
+pr	Obrigada, Sandy. 
+ro	Mulțumesc, Sandy. 
+sp-eu	Gracias, Sandy. 
+sp	Gracias, Sandy. 
+sv	Tack, Sandy. 
+th	ขอบคุณนะ แซนดี้ | 
+tr	Sağ ol Sandy. 
+vi	Cảm ơn anh, Sandy. | 
+zh-long	謝謝，山迪 
+zh-short	谢谢 桑迪 
+ru	Спасибо, Сэнди. 
+

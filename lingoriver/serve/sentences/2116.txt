@@ -1,0 +1,26 @@
+ar	&rlm;‏الصداع ووجع القلب ووجع الظهر والفشل‏ | 
+da	Hovedpine, hjertesorg Rygsmerter, deficitter 
+el	Οι πόνοι στο κεφάλι, την καρδιά, Την πλάτη και οι αποτυχίες 
+en	♪ The headaches, the heartaches | The backaches, the flops ♪ | 
+fi	Päänsäryt, sydänsäryt Selkäsäryt, flopit 
+fr	Les migraines, les chagrins d'amour Les lumbagos et les ratages 
+he	&rlm;‏‏כאבי הראש, כאבי הלב | &rlm;‏כאבי הגב, הטעויות‏ | 
+id	Sakit kepala, sakit jantung Sakit punggung, orang gagal 
+it	I mal di testa, la tristezza, I mal di schiena, i flop 
+ko	두통, 고민, 요통, 실패작 | 
+pl	Bóle głowy i zawody Bóle pleców i klapy 
+pr	As enxaquecas, as mágoas As dores, os fracassos 
+pr-br	As dores de cabeça, corações partidos Dores nas costas, fiascos 
+ro	Durerile de cap, de inimă De spate, eșecurile 
+ru	Боль в голове, боль в сердце Боль в спине, падения 
+sp-eu	Los dolores de cabeza, de corazón De espalda y de fracaso 
+sp	Las migrañas, las desilusiones El dolor de espalda, los fracasos 
+sv	Huvudvärken, hjärtesorgerna Ryggontet, flopparna 
+th	เรื่องปวดหัว ปวดใจ ปวดหลัง งานแป้ก | 
+tr	Baş ağrısı, kalp sızısı Sırt ağrısı, fiyaskolar 
+vi	Đau đầu, đau tim | Đau lưng, những thất bại | 
+zh-long	頭痛、心痛、背痛、票房下滑 
+zh-short	头痛 心痛 背痛 失败 
+nl	pijn in je hoofd, je hart en rug, de flops de sheriff die je de stad uit begeleidt 
+ja	頭痛に心臓の痛み | 
+

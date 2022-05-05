@@ -1,0 +1,28 @@
+en	Come over here. Come on. | 
+id	- Kemarilah. Ayo. - Dengan atau tanpa kacamata? 
+zh-short	-过来 来嘛 -我戴不戴眼镜？ 
+ru	-Давай, давай. -Очки снять или оставить? 
+ar	&rlm;‏‏- هيا. | &rlm;‏- هل أرتدي نظارتي أم أخلعها؟‏ | 
+da	-Kom her. -Skal jeg beholde brillerne på? 
+el	-Έλα εδώ. -Να βγάλω τα γυαλιά μου; 
+fi	-Ala tulla. -Riisunko lasit? 
+fr	- Approche, allez. - Avec ou sans mes lunettes ? 
+he	&rlm;‏‏בוא הנה. קדימה. | &rlm;‏-עם משקפיים או שאוריד אותם?‏ | 
+it	- Vieni. Dai. - Tengo gli occhiali o li tolgo? 
+ko	- 어서 와요 | - 안경은 어쩔까? 벗어? | 
+no	-Kom hit. Kom igjen. -Med eller uten briller? 
+pl	- Chodź. Śmiało. - Mam zdjąć okulary? 
+pr-br	-Venha aqui. -Com ou sem óculos? 
+pr	- Vem cá. Anda. - Uso os óculos ou tiro-os? 
+ro	- Hai! - Să-mi las ochelarii sau să-i scot? 
+sp-eu	- Ven aquí. Vamos. - ¿Me pongo las gafas o me las quito? 
+sp	- Ven aquí. Vamos. - ¿Me dejo los anteojos o me los saco? 
+sv	-Kom hit nu. -Ska jag ha på mig glasögonen, eller inte? 
+th	- มานี่ มาเร็ว | - ให้ใส่แว่นหรือไม่ใส่แว่นล่ะ | 
+tr	-Gel buraya. Hadi. -Gözlüğüm kalsın mı çıkarayım mı? 
+vi	- Lại đây nào. | - Tôi đeo kính hay bỏ ra? | 
+zh-long	-上來 -我要不要戴眼鏡？ 
+nl	Mag ik mijn bril ophouden of moet hij af? -Dat boeit niemand. 
+ja	メガネ 取ったほうがいい？ | 
+en	Do I wear my glasses, | or do I take them off? Or... | 
+

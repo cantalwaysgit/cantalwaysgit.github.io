@@ -1,0 +1,27 @@
+ar	&rlm;‏ها هو. يغدو الأمر حقيقياً.‏ | 
+da	Der er det. Nu er det virkeligt. 
+el	Να τος. Δυσκολεύουν τα πράγματα. 
+en	There it is. Now it's getting real. | 
+fi	Nyt alkoi tapahtua. 
+fr	Voilà. Il se rebiffe. 
+he	&rlm;‏הנה הוא. זה נהיה אמיתי.‏ | 
+id	Bagus. Ini baru dimulai. 
+it	Ecco. Adesso è un incontro vero. 
+ko	내려왔네, 진짜로 싸운다 | 
+nl	Daar is ie. Het wordt echt. 
+no	Der har vi det. Nå er det alvor. 
+pl	Rozkręca się. 
+pr-br	Lá está ele. Está esquentando. 
+pr	Lá está ele. Agora é a sério. 
+ro	Așa, acum e pe bune. 
+ru	Вот так. Это уже серьезно. 
+sp	Allí está. Esto se está volviendo real. 
+sp-eu	Ahí está. Se pone serio. 
+sv	Där är det. Det är på allvar. 
+th	นั่นแหละเขา ทีนี้ของจริงแล้ว | 
+tr	İşte orada. İş ciddiye bindi. 
+vi	Cậu ta đấy. Bắt đầu rồi. | 
+zh-long	很好，玩真的了 
+zh-short	他开始动真格的了 
+ja	いいぞ　ノッてきた | 
+

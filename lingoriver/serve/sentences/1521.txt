@@ -1,0 +1,25 @@
+ar	&rlm;‏السؤال هو، لماذا نفعل ذلك؟‏ | 
+da	Spørgsmålet er, hvorfor gør vi det? 
+el	Το θέμα είναι η αιτία. 
+en	The question is, why are we doing it? | 
+fi	Voi kysyä, minkä takia. 
+fr	La question, c'est pourquoi ? 
+he	&rlm;‏השאלה היא, למה אנחנו עושים את זה?‏ | 
+id	Pertanyaannya, kenapa mabuk? 
+it	La domanda è: perché? 
+no	Spørsmålet er hvorfor. 
+pl	Pytanie brzmi: dlaczego? 
+pr-br	A questão é: por que fazemos isso? 
+pr	O importante é saber porque o fazemos. 
+ro	Întrebarea e de ce o facem. 
+sp-eu	La pregunta es: ¿por qué lo hacemos? 
+sp	La pregunta es ¿por qué lo hacemos? 
+sv	Frågan är varför vi blir det? 
+th	ปัญหาคือ ทำไมเราถึงทำอย่างนั้น | 
+tr	Asıl mesele bunu neden yaptığımızdır. 
+vi	Câu hỏi là, vì sao ta lại làm thế? | 
+zh-long	問題是，為什麼？ 
+zh-short	问题在于为什么会喝醉？ 
+ko	궁금한 건 | 네가 왜 그랬느냐는 거지 | 
+ru	Вопрос в том, зачем нам это. 
+

@@ -1,0 +1,27 @@
+id	Bagaimana? Mau bergabung? 
+ru	Ну, что скажете? По рукам? 
+ja	組んでみないか？ | 
+ar	&rlm;‏ما قولك؟ أتودين أن نغدو فريقاً؟‏ | 
+da	Hvad siger du? Vil du med på holdet? 
+el	Τι λες; Θες να συνεργαστούμε; 
+en	What do you say? Wanna team up? | 
+fi	Mitäs sanot? Tehdäänkö yhteistyötä? 
+fr	Alors ? Emballée ? 
+he	&rlm;‏מה את אומרת? רוצה לעבוד יחד?‏ | 
+it	Che ne dici? Ci mettiamo insieme? 
+ko	어때요? 같이 일할까요? | 
+nl	Wat zeg je ervan? Doe je het? 
+no	Hva sier du? Er du med? 
+pl	To jak? Działamy razem? 
+pr-br	O que acha? Quer trabalhar comigo? 
+pr	O que diz? Quer fazer equipa comigo? 
+ro	Ce zici? Facem echipă? 
+sp-eu	¿Qué me dice? ¿Nos asociamos? 
+sp	¿Qué dices? ¿Quieres que nos asociemos? 
+sv	Vad säger du? Ska vi bli ett team? 
+th	ว่าไงครับ อยากร่วมทีมกันไหม | 
+tr	Ne diyorsun? Birlikte çalışalım mı? 
+vi	Cô thấy sao? Muốn hợp tác chứ? | 
+zh-long	怎麼樣？要不要合作？ 
+zh-short	怎么说？要合作吗？ 
+

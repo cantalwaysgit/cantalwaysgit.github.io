@@ -1,0 +1,27 @@
+ru	Прекрасно выглядите. 
+id	Kau tampak sangat cantik. 
+nl	Je ziet er prachtig uit. 
+ar	&rlm;‏‏- تبدين جميلة جداً. | &rlm;‏- شكراً.‏ | 
+da	-Du ser meget smuk ud. -Tak. 
+el	-Είστε πολύ όμορφη. -Ευχαριστώ. 
+en	-You look very beautiful. | -Thanks. | 
+fi	-Näytätte kauniilta. -Kiitos. 
+fr	- Vous êtes ravissante. - Merci. 
+he	&rlm;‏‏אני נראית יפה מאוד. | &rlm;‏-תודה.‏ | 
+it	- È molto bella. - Grazie. 
+ko	- 정말 아름다우세요 | - 고마워요 | 
+no	-Du er kjempefin. -Takk. 
+pl	- Wygląda pani ślicznie. - Dzięki. 
+pr-br	-Você está linda. -Obrigada. 
+pr	- Está muito bonita. - Obrigada. 
+ro	- Sunteți foarte frumoasă. - Mersi. 
+sp-eu	- Está muy guapa. - Gracias. 
+sp	- Te ves muy hermosa. - Gracias. 
+sv	-Du är vacker. -Tack. 
+th	- คุณสวยมาก | - ขอบคุณ | 
+tr	-Çok güzel görünüyorsunuz. -Teşekkürler. 
+vi	- Cô đẹp lắm. | - Cảm ơn. | 
+zh-long	-妳很美 -謝謝 
+zh-short	-你看起来美极了 -谢谢 
+ja	きれいですよ | 
+

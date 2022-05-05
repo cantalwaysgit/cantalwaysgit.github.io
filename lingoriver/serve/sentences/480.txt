@@ -1,0 +1,52 @@
+id	Aku tahu. Tadi aku berimprovisasi. 
+ja	即興で演じただけさ | 
+ru	Знаю. Я импровизировал. 
+ar	&rlm;‏أعلم. كنت أرتجل.‏ | 
+da	Jeg improviserede. 
+el	Το ξέρω, αυτοσχεδίαζα. 
+en	I know. I was improvising. | 
+fi	Tiedän. Improvisoin. 
+fr	Je sais. C'était de l'impro. 
+he	&rlm;‏אני יודע. אלתרתי.‏ | 
+it	Lo so. Stavo improvvisando. 
+ko	알아, 애드리브 친 거야 | 
+no	Jeg vet det. Jeg improviserte. 
+pl	Wiem. Improwizowałem. 
+pr-br	Eu sei. Eu estava improvisando. 
+pr	Eu sei. Estava a improvisar. 
+ro	Știu. Improvizam. 
+sp-eu	Lo sé. Estaba improvisando. 
+sp	Lo sé. Estaba improvisando. 
+sv	Jag vet. Jag improviserade. 
+th	รู้แล้ว ผมแค่ด้นสด | 
+tr	Biliyorum. Doğaçlama yapıyordum. 
+vi	Tôi biết. Tôi đang ứng tác. | 
+zh-long	我知道，我即興演出 
+zh-short	我知道 我在即兴发挥 
+nl	Weet ik. Ik improviseerde. Maar wil je deze zin? 
+ru	Тебе эту реплику? 
+id	Tapi kau mau dialog ini? 
+ja	台本どおりがいい？ | 
+zh-short	但你要的是这句吗？ 
+th	แต่คุณต้องการบทตามนี้ใช่ไหม | 
+ar	&rlm;‏لكن أتريدين هذه الجملة؟‏ | 
+da	Vil du have denne replik? 
+el	Θες τη συγκεκριμένη ατάκα; 
+en	But you want this line? Um... | 
+fi	Haluat, että sanon tämän. 
+fr	Tu veux que je lise ça ? 
+he	&rlm;‏אבל את רוצה את השורה הזו?‏ | 
+it	Vuoi che segua il copione? 
+ko	하지만 이 대사를 원해? | 
+no	Men vil du ha denne replikken? 
+pl	Moja kwestia, tak? 
+pr-br	Mas quer esta fala? 
+pr	Mas queres esta fala? 
+ro	Dar vrei replica asta? 
+sp-eu	¿Quieres esta frase? 
+sp	Pero tú quieres ¿este diálogo? 
+sv	Men du vill ha den här repliken? 
+tr	Ama bu repliği mi istersin? 
+vi	Cô thích câu này chứ? | 
+zh-long	妳要我照劇本演？ 
+

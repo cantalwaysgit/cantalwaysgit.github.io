@@ -1,0 +1,26 @@
+sv	Vill du gifta dig med mig? 
+ar	&rlm;‏هلا تتزوجينني؟‏ | 
+da	Vil du giftes med mig? 
+el	Θα με παντρευτείς; 
+en	Will you marry me? | 
+fi	Tuletko vaimokseni? 
+fr	Veux-tu m'épouser ? 
+he	&rlm;‏האם תינשאי לי?‏ | 
+it	Mi vuoi sposare? 
+pl	Wyjdziesz za mnie? 
+pr-br	Quer se casar comigo? 
+pr	Casas comigo? 
+ro	Te măriți cu mine? 
+sp-eu	¿Quieres casarte conmigo? 
+sp	¿Te casarías conmigo? 
+th	จะแต่งงานกับผมไหม | 
+tr	Benimle evlenir misin? 
+vi	Em sẽ cưới anh chứ? | 
+zh-long	妳願意嫁給我嗎？ 
+zh-short	你愿意嫁给我吗？ 
+no	-Vil du gifte deg med meg? -Du hadde meg med "shalom". 
+ru	Выйдешь за меня? 
+ja	結婚してくれ | 
+id	Maukah kau menikahiku? 
+ko	결혼해 줄래? | 
+

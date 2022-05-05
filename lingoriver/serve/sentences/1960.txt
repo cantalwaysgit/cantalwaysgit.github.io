@@ -1,0 +1,26 @@
+ar	&rlm;‏يجب أن أتوقف. سأتوقف!‏ | 
+da	Jeg må stoppe! 
+el	Πρέπει να σταματήσω. Θα το κάνω! 
+en	I gotta stop. I'm gonna stop! | 
+fi	Minun pitää lopettaa. 
+fr	Faut que j'arrête. Je vais arrêter ! 
+he	&rlm;‏אני מוכרח להפסיק. אני אפסיק!‏ | 
+it	Devo smetterla. Non lo farò più! 
+ko	그만둬야 해 | 
+nl	Ik moet stoppen. Ik ga stoppen. 
+no	Jeg må slutte. Jeg skal slutte! 
+pl	Muszę z tym skończyć. Muszę! 
+pr-br	Tenho que parar. Vou parar! 
+pr	Tenho de parar. Eu vou parar! 
+ro	Trebuie să mă opresc. O să mă opresc! 
+sp-eu	Tengo que parar. ¡Voy a parar! 
+sp	Tengo que parar. ¡Debo parar! 
+sv	Jag måste sluta! 
+th	ฉันต้องหยุด ต้องหยุด | 
+tr	Durmalıyım. Durmam lazım! 
+vi	Tôi phải dừng lại. Sẽ dừng lại! | 
+zh-long	到此為止，我不能再這樣下去！ 
+zh-short	我必须停止这样 必须停止！ 
+ru	Надо прекратить. 
+id	Aku harus berhenti. Aku akan berhenti! 
+

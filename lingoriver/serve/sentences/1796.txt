@@ -1,0 +1,27 @@
+ru	-Я не это имел в виду. -Я умею петь, Тед. 
+ar	&rlm;‏‏- ليس هذا ما عنيته. | &rlm;‏- يمكنني أن أغني يا "تيد".‏ | 
+da	-Det var ikke det, jeg mente. -Jeg kan godt synge, Ted. 
+el	-Δεν εννοούσα αυτό. -Μπορώ να τραγουδήσω εγώ, Τεντ. 
+en	-That is not what I meant. | -I can sing, Ted. | 
+fi	-En tarkoittanut sitä. -Minä voin laulaa. 
+fr	- J'ai pas dit ça. - Je peux chanter. 
+he	&rlm;‏‏זה לא מה שהתכוונתי. | &rlm;‏-אני יכולה לשיר, טד.‏ | 
+it	- Non intendevo questo. - Io so cantare, Ted. 
+ko	- 그런 말이 아니야 | - 내가 할 수 있어 | 
+nl	Dat bedoelde ik niet. -Ik kan zingen. 
+no	-Det var ikke det jeg mente. -Jeg kan synge, Ted. 
+pl	- Nie to miałem na myśli. - Ja mogę zaśpiewać, Ted. 
+pr-br	-Não foi isso que quis dizer. -Eu sei cantar, Ted. 
+pr	- Não queria dizer isso. - Eu posso cantar, Ted. 
+ro	- Nu asta am vrut să zic. - Știu eu să cânt, Ted. 
+sp-eu	- No me refería a eso. - Yo sé cantar, Ted. 
+sp	- No quise decir eso. - Yo puedo cantar, Ted. 
+sv	-Jag menade inte så. -Jag kan sjunga. 
+th	- ไม่ได้หมายความอย่างนั้น | - ฉันร้องเพลงได้ เท็ด | 
+tr	-Öyle demek istemedim. -Ben şarkı söyleyebilirim Ted. 
+vi	- Tôi không có ý đó. | - Tôi hát được, Ted. | 
+zh-long	-我不是這個意思 -我會唱歌，泰德 
+zh-short	-我不是这个意思 -我可以唱 泰德 
+id	- Bukan itu maksudku. - Aku bisa bernyanyi, Ted. 
+ja	誤解だ | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏لا، أظن في الواقع أن تصويته كان الحاسم.‏ | 
+da	Jeg tror faktisk, hans stemme var den afgørende. 
+el	Νομίζω ότι η ψήφος του έπαιξε αποφασιστικό ρόλο. 
+en	No, actually I think | that his was the deciding vote. | 
+fi	Hänen äänensä oli ilmeisesti ratkaiseva. 
+fr	C'est son vote qui a été décisif. 
+he	&rlm;‏‏לא, למעשה אני חושב | &rlm;‏שהקול שלו היה הקול המכריע.‏ | 
+it	No, credo che il suo voto sia stato decisivo. 
+ko	아마 아버지가 | 결정적인 반대표를 던지셨을걸요? | 
+nl	Ik denk dat zijn stem de doorslag gaf. 
+no	Nei, jeg tror faktisk hans stemme avgjorde det. 
+pl	Nie, to właśnie jego głos zadecydował. 
+pr-br	Não, acho que o voto dele foi decisivo. 
+pr	Não, acho que o voto decisivo foi dele. 
+ro	Nu. De fapt, cred că votul lui a fost cel decisiv. 
+sp-eu	No, creo que él tenía el voto decisivo. 
+sp	No, de hecho, creo que su voto fue decisivo. 
+sv	Nej, jag tror att han fällde  avgörande rösten. 
+th	ไม่ใช่ ผมคิดว่า | เสียงโหวตของพ่อคือเสียงตัดสิน | 
+tr	Hayır, aslında galiba kararı belirleyen onun oyu olmuş. 
+vi	Không, thực sự tôi nghĩ | ông ấy có lá phiếu quyết định? | 
+zh-long	他好像就是關鍵的那一票 
+zh-short	不 我觉得他那票才是决定性的 
+id	Tidak, bukankah itu karena keputusannya? 
+ru	Да нет, его голос был решающим. 
+ja	父の１票で落選が決まった | 
+

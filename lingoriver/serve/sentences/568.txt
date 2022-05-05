@@ -1,0 +1,27 @@
+id	Hai, Cindy! 
+ru	Привет, Синди! 
+ar	&rlm;‏مرحباً يا "سيندي"!‏ | 
+da	Hej, Cindy! 
+el	Γεια σου, Σίντι! 
+en	Hi, Cindy! | 
+fi	Hei, Cindy. 
+fr	Salut, Cindy ! 
+he	&rlm;‏היי, סינדי!‏ | 
+it	Ciao, Cindy! 
+ko	안녕하세요, 신디! | 
+nl	Hoi, Cindy. 
+no	Hei, Cindy! 
+pl	Cześć, Cindy! 
+pr-br	Oi, Cindy! 
+pr	Olá, Cindy! 
+ro	Bună, Cindy! 
+sp-eu	¡Hola, Cindy! 
+sp	¡Hola, Cindy! 
+sv	Hej, Cindy. 
+th	หวัดดีครับซินดี้ | 
+tr	Selam Cindy! 
+vi	Chào Cindy! | 
+zh-long	嗨，辛蒂！ 
+zh-short	嗨 辛迪！ 
+ja	やあ シンディ | 
+

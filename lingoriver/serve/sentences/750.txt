@@ -1,0 +1,27 @@
+th	- ช่วยยืนห่างๆ ได้ไหม แซนดี้ | - ได้ | 
+id	- Bisa minggir, Sandy? - Baik. 
+ja	ちょっとどいて | 
+ru	-Можешь отойти? -Конечно. 
+ko	- 옆으로 좀 나와주실래요? | - 그러지 | 
+pl	- Odsuniesz się? - Pewnie. 
+ar	&rlm;‏‏- هلا تبتعد يا "ساندي"؟ | &rlm;‏- بالتأكيد.‏ | 
+da	-Gider du flytte dig, Sandy? -Ja. 
+en	-[Bling] Can you step aside, Sandy? | -Sure. | 
+fi	-Väistyisitkö? -Toki. 
+fr	- Tu peux te décaler ? - Bien sûr. 
+he	&rlm;‏‏אתה יכול לזוז, סנדי? | &rlm;‏-בטח.‏ | 
+it	- Puoi spostarti, Sandy? - Certo. 
+no	-Kan du gå til siden, Sandy? -Ja. 
+pr-br	-Pode sair daí, Sandy? -Claro. 
+pr	- Podes afastar-te, Sandy? - Claro. 
+ro	- Vrei să faci un pas, Sandy? - Sigur. 
+sp-eu	- ¿Puedes apartarte, Sandy? - Claro. 
+sp	- ¿Puedes salirte de ahí, Sandy? - Claro. 
+vi	- Anh tránh ra được chứ, Sandy? | - Được. | 
+zh-long	-山迪，麻煩讓讓？ -好呀 
+zh-short	-你能往边上站一下吗 桑迪？ -当然 
+el	-Κάνεις στην άκρη, Σάντι; -Φυσικά. 
+nl	Kun je even opzij gaan? 
+sv	-Kan du flytta dig, Sandy? -Visst. 
+tr	-Kenara çekilebilir misin Sandy? -Tabii. 
+

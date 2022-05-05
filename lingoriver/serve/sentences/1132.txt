@@ -1,0 +1,29 @@
+ja	作り話ね | 
+ru	Ты это придумал. 
+id	- Kau mengada-ada. - Tidak, kurasa itu benar. 
+ar	&rlm;‏‏- أنت تختلق هذا. | &rlm;‏- لا، أظن هذا حقيقياً.‏ | 
+da	-Det er noget, du finder på. -Nej, jeg tror, det er sandt. 
+el	-Τώρα το επινόησες αυτό. -Όχι, είναι αλήθεια. 
+en	-You're making that up. | -No, no, no, I think that's true. | 
+fi	-Keksit tuon. -Kyllä se taitaa olla totta. 
+fr	- T'inventes. - Non, je crois que c'est vrai. 
+he	&rlm;‏‏אתה ממציא את זה. | &rlm;‏-לא, אני חושב שזו האמת.‏ | 
+it	- È una balla. - No, credo che sia vero. 
+ko	- 지어내신 거죠? | - 실화일걸 | 
+nl	Dat verzin je. -Nee, dat is waar. 
+no	-Det er bare en skrøne. -Nei, jeg tror det er sant. 
+pl	- Zmyślasz. - Myślę, że nie. 
+pr-br	-Você está inventando isso. -Não, acho que é verdade. 
+pr	- Estás a inventar. - Não, acho que é verdade. 
+ro	- Inventezi. - Nu. Cred că e adevărat. 
+sp	- Estás inventando. - No, creo que es cierto. 
+sp-eu	- Te lo estás inventando. - No, creo que es verdad. 
+sv	-Du hittar på. -Nej, jag tror att det är sant. 
+th	- คุณแต่งเรื่องนั้นขึ้นมา | - ไม่ใช่ คิดว่านั่นเป็นเรื่องจริง | 
+tr	-Uyduruyorsun. -Hayır, bu doğru. 
+vi	- Anh đang bịa chuyện. | - Không, tôi nghĩ là thật. | 
+zh-long	-你瞎掰的 -沒有，是真的 
+zh-short	-你这是在瞎编 -不是 是真的 
+ja	いいや 実話だ | 
+ru	Нет, кажется, нет. 
+

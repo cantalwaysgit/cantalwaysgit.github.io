@@ -1,0 +1,27 @@
+ja	歌手がよく知ってるな | 
+id	Bagaimana bisa kau tahu tentang sejarah gulat? 
+ar	&rlm;‏كيف تفقهين بتاريخ المصارعة | &rlm;وأنت التي تحققين أفضل المبيعات؟‏ | 
+da	Hvad ved din røv om wrestling? 
+el	Πώς ξέρεις τόσα πολλά για την πάλη; 
+en	How does your platinum-selling ass | know about wrestling history? | 
+fi	Mitä sinä muka painista tiedät? 
+fr	T'y connais quoi en catch ? 
+he	&rlm;‏מאיפה את מבינה בהיאבקות?‏ | 
+nl	Hoezo weet jij iets van worstelen? 
+no	Hvordan vet du noe om fribryting? 
+pl	Co ty wiesz o wrestlingu? 
+pr-br	Como você entende de luta? 
+pr	Como é que percebes tanto de luta livre? 
+ro	Ce știi tu despre wrestling? 
+sp	¿Cómo sabes tanto de lucha? 
+sp-eu	¿Tú por qué sabes de lucha libre? 
+sv	Hur kan du veta nåt om wrestling? 
+tr	Sen güreşi nereden biliyorsun? 
+vi	Làm thế quái nào mà cô biết về đấu vật? | 
+zh-long	妳怎麼會對摔角這麼熟？ 
+zh-short	你这个卖白金唱片的人 怎么懂摔角历史？ 
+it	Che ne sa di wrestling il tuo culo da dischi di platino? 
+th	เธอจะไปรู้เรื่องมวยปล้ำได้ยังไง | 
+ru	А ты что знаешь о рестлинге? 
+ko	레슬링을 어떻게 | 그렇게 잘 알아요? | 
+

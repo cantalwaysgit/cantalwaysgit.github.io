@@ -1,0 +1,48 @@
+id	Dengar... 
+ru	Слушай... 
+tr	Dinle, 
+zh-short	听着 
+el	Άκου, 
+pl	Słuchaj, 
+th	ฟังนะ | 
+ar	&rlm;‏اسمعي،‏ | 
+da	Hør her, 
+en	Listen, | 
+fi	Kuule, 
+fr	Écoute, 
+he	&rlm;‏תקשיבי,‏ | 
+it	Ascolta, 
+pr-br	Ouça, 
+pr	Escuta, 
+sp	Escucha. 
+sp-eu	Escucha, 
+vi	Nghe này, | 
+zh-long	聽我說 
+ko	잘 들어 | 
+ro	Ascultă, dacă e să facem afaceri împreună, trebuie să stabilim niște limite. 
+nl	Luister, als we zakendoen, hebben we grenzen nodig. 
+no	Hør her, hvis vi skal jobbe sammen, må vi ha grenser. 
+sv	Hör på, om vi ska ha affärer ihop, måste vi ha gränser. 
+ja	仕事のパートナーとなる以上 | 境界線が必要だ | 
+id	jika ingin berbisnis bersama, kita harus menentukan batas. 
+ru	...если мы работаем вместе, нужны границы. 
+ar	&rlm;‏‏إن كنا سنعمل معاً، | &rlm;‏فيجب أن توجد حدود بيننا.‏ | 
+da	hvis vi skal lave forretning sammen, skal der være grænser. 
+el	αν είναι να συνεργαστούμε, πρέπει να βάλουμε όρια. 
+en	if we're gonna do business together, | we gotta have boundaries. | 
+fi	jos aiomme tehdä yhteistyötä, meidän pitää sopia rajoista. 
+fr	si on doit bosser ensemble, il faut fixer des limites. 
+he	&rlm;‏‏אם אנחנו הולכים לעבוד יחד, | &rlm;‏אנחנו צריכים גבולות.‏ | 
+it	per essere soci in affari, dobbiamo stabilire dei limiti. 
+pr-br	se vamos trabalhar juntos, precisamos de limites. 
+pr	se vamos trabalhar juntos, temos de ter limites. 
+sp-eu	si vamos a trabajar juntos, hay que poner unos límites. 
+sp	Si vamos a hacer negocios juntos, necesitamos límites. 
+th	ถ้าเราจะทำธุรกิจร่วมกัน | เราต้องมีขอบเขต | 
+tr	birlikte iş yapacaksak sınırlara ihtiyacımız var. 
+vi	nếu làm việc với nhau, | ta cần có ranh giới. | 
+zh-long	如果我們要合作，就要謹守分際 
+zh-short	如果我们要合作 就要分清界线 
+pl	jeśli mamy razem pracować, trzeba ustalić pewne granice. 
+ko	같이 일을 할 거면 | 선을 그어야 해 | 
+

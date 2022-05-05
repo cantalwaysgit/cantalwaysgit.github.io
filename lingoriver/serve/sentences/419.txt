@@ -1,0 +1,28 @@
+id	Aku tidak suka es krim itu. Itu ide buruk. 
+ar	&rlm;‏‏لا أحب المثلجات. | &rlm;‏إنها فكرة سيئة. تبدو رهيبة.‏ | 
+da	Jeg kan ikke lide isen. Dårlig idé. Det ser skrækkeligt ud. 
+el	Δε μου αρέσει το παγωτό. Είναι κακή ιδέα. Δείχνει απαίσιο. 
+en	You know what? I don't like the ice cream. | It's a bad idea. Looks terrible. | 
+fi	Minusta jäätelö on huono idea. Se näyttää kamalalta. 
+fr	J'aime pas le cornet de glace. C'est nul. Ça rend pas bien. 
+he	&rlm;‏‏את יודעת מה, אני לא אוהב את הגלידה. | &rlm;‏זה רעיון גרוע. נראה איום.‏ | 
+it	Il gelato non mi piace. Pessima idea. È orribile. 
+ko	아이스크림이 마음에 안 들어요 | 잘못 생각했어요, 끔찍해요 | 
+nl	Het ijsje vind ik niks. Slecht idee. Ziet er niet uit. 
+pl	Lód wylatuje. Kiepski pomysł. 
+pr-br	Não gosto do sorvete. É uma péssima ideia. Está péssimo. 
+pr	Sabes, não gosto do gelado. É má ideia. Fica horrível. 
+sp-eu	No me gusta el helado. Es una mala idea. Queda fatal. 
+sp	No me gusta el helado. Es una mala idea. Se ve mal. 
+sv	Jag gillar inte glassen. Dålig idé. Det ser hemskt ut. 
+vi	Tôi không thích kem. | Ý tưởng tồi. Chán chết. | 
+zh-long	知道嗎？我不喜歡冰淇淋 是個餿主意，超恐怖的 
+zh-short	我不喜欢那个冰淇淋 看着不咋样 太难看了 
+ja	ソフトクリームはやめよう | ひどすぎる | 
+no	Jeg liker ikke iskremen. Dårlig idé. Det ser fryktelig ut. 
+tr	Dondurmayı sevmedim. Kötü bir fikir. Berbat görünüyor. 
+ro	Știi ce? Mie nu-mi place înghețata. E o idee proastă. Arată groaznic. 
+ru	Мне не нравится мороженое. Плохая идея. Выглядит ужасно. 
+th	ผมไม่ชอบไอศกรีม ความคิดไม่ดี ดูแย่ | 
+id	Tampak buruk. 
+

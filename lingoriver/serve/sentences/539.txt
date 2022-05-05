@@ -1,0 +1,28 @@
+id	Apa? 
+ja	俺を認めてくれる | 
+ar	&rlm;‏تحدث معي عندما كنت مجرد مساعد.‏ | 
+da	Han talte rent faktisk til mig, da jeg bare var assistent. 
+el	Μου μιλούσε, όταν ήμουν απλά ένας βοηθός. 
+en	[stammers] He actually talked to me | when I was just an assistant. | 
+fi	Hän puhui kanssani, kun olin pelkkä assistentti. 
+fr	Il m'adressait la parole alors que j'étais qu'un assistant. 
+he	&rlm;‏הוא ממש דיבר איתי כשהייתי רק עוזר.‏ | 
+it	Parlava con me anche se ero solo un assistente. 
+ko	내가 일개 조수일 때도 | 나한테 말을 걸어주셨거든 | 
+nl	Hij praatte met me toen ik nog een assistent was. 
+no	Han snakket til meg da jeg bare var assistent. 
+pl	Rozmawiał ze mną, choć byłem tylko asystentem. 
+pr-br	Ele falou comigo quando eu era só um assistente. 
+pr	Ele falava comigo quando eu era um mero assistente. 
+ro	Chiar mi-a dat atenție, când eram un simplu asistent. 
+sp-eu	Hablaba conmigo cuando no era más que ayudante. 
+sp	Me hablaba cuando yo era solo un asistente. 
+sv	Han pratade faktiskt med mig när jag var assistent. 
+th	จริงๆ แล้วเขาคุยกับผม | ตอนที่ผมเป็นแค่ผู้ช่วย | 
+tr	Ben sadece bir asistanken bile benimle konuşurdu. 
+vi	Anh ấy nói chuyện với anh | hồi anh chỉ là một trợ lý. | 
+zh-long	我還是小助理 他就很願意跟我說話 
+zh-short	在我还是个小助理时 他就跟我聊天 
+id	Dia bicara kepadaku pada saat aku masih seorang asisten. 
+ru	Он разговаривал со мной, когда я был ассистентом. 
+

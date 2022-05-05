@@ -1,0 +1,27 @@
+ar	&rlm;‏هل أتعرض إلى المنافسة الآن؟ ما كان ذلك؟‏ | 
+da	Tager du gas på mig? Hvad var det? 
+el	Με δουλεύεις; Τι ήταν αυτό; 
+en	Am I being hustled right now? | What was that? | 
+fi	Huijataanko minua? Mitä ihmettä? 
+fr	Tu t'es fichue de moi ? D'où tu sors ce coup ? 
+he	&rlm;‏האם את עובדת עליי עכשיו? מה זה היה?‏ | 
+it	È un imbroglio? Cos'era? 
+nl	Word ik belazerd? Wat was dat? 
+no	Blir jeg svindlet nå? Hva var det for noe? 
+pl	Zakpiłaś sobie ze mnie? Co to było? 
+pr-br	Estou sendo enganado? O que foi aquilo? 
+pr	Estás a gozar comigo? O que foi aquilo? 
+ro	Mă păcălești acum? Ce a fost asta? 
+sp-eu	¿Me estabas tomando el pelo? ¿Qué ha sido eso? 
+sp	¿Me estás engañando? ¿Qué fue eso? 
+sv	Blir jag lurad här? Vad var det? 
+th	นี่หลอกกันใช่ไหมเนี่ย | นั่นมันอะไร | 
+tr	Üçkâğıda mı geldim? Neydi o? 
+vi	Tôi đang bị lừa à? Cái gì thế? | 
+zh-long	我是被耍了嗎？剛是怎樣？ 
+zh-short	我是被耍了吗？这算什么？ 
+id	Aku sedang ditipu? Pukulan apa itu? 
+ja	初めてって言わなかった？ | 
+ru	Меня что, разыграли? Что это было? 
+ko	지금까지 날 속인 거야? | 어떻게 된 거야? | 
+

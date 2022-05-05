@@ -1,0 +1,30 @@
+en	I don't care. I'm about to be lit on fire! | 
+id	Aku tidak peduli. Aku akan dibakar. 
+ar	&rlm;‏‏- لا يهمني. أنا على وشك أن أحترق! | &rlm;‏- قال ما قاله.‏ | 
+da	-Og? Der bliver sat ild til mig! -Det sagde han! Han sagde, hvad han sagde. 
+el	-Δε θέλω να πιάσω φωτιά! -Το είπε. Αυτό που είπε. 
+fi	-Entä sitten? Minut sytytetään tuleen! -Kyllä hän sanoi niin. 
+fr	- Et alors ? Je vais être immolé ! - Si, il a bien dit ça ! 
+he	&rlm;‏‏אז מה? אני עומד לבעור! | &rlm;‏-הוא אמר את זה! הוא אמר מה שאמר.‏ | 
+it	- E allora? Io sto per prendere fuoco! - Sì, ha detto così! 
+ko	- 그래서요? 나는 어쩌고요? | - 그렇게 말한 거 맞아 | 
+nl	En? Ik sta zo in brand. -Hij zei het. 
+no	-Hva så? Jeg skal bli påtent! -Han sa det! Han sa det han sa. 
+pl	- Mam to gdzieś. Zaraz będę płonął! - Tak powiedział i już. 
+pr-br	-E daí? Estou prestes a pegar fogo! -Foi isso que ele disse. 
+pr	- E daí? Eu vou estar a arder! - Ele disse o que disse. 
+ro	- Și? Eu o să iau foc! - A zis! A zis ce a zis. 
+sp-eu	- ¿Y? ¡Van a prenderme fuego! - ¡Lo dijo! Dijo lo que dijo. 
+sp	- ¿Y? Yo estoy por prenderme fuego. - ¡Él dijo lo que dijo! 
+sv	-Jag bryr mig inte. Jag ska brinna! -Det är vad han sa! 
+th	- แล้วไง ผมกำลังจะโดนจุดไฟเผา | - เขาพูดอย่างนั้น เขาพูดอย่างที่พูด | 
+tr	-Yani? Birazdan alev alacağım! -Öyle dedi! Ne dediyse dedi. 
+vi	- Thì sao? Tôi sắp bị thiêu đây! | - Anh ta nói thế! Đó là anh ta nói vậy. | 
+zh-long	-我要在身上點火耶！ -他是這麼說的！就這樣 
+zh-short	-所以呢？就要在我身上点火了！ -他说的！他是那么说的 
+ja	命が懸かってる | 
+ru	-И что? Меня сейчас подожгут! -Он так сказал! Это его слова. 
+ja	大丈夫だ　安全だよ | 
+en	He said it! He said what he said. | 
+id	Dia bilang itu. Dia mengatakannya. 
+

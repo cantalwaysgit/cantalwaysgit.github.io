@@ -1,0 +1,27 @@
+ja	決まり！ | 
+ru	Договорились. 
+th	ตกลง | 
+ar	&rlm;‏اتفقنا.‏ | 
+da	Aftale. 
+el	Σύμφωνοι. 
+en	Deal. | 
+fi	Sovittu. 
+fr	Vendu. 
+he	&rlm;‏עשינו עסק.‏ | 
+id	Sepakat. 
+it	Affare fatto. 
+ko	좋아요 | 
+nl	Afgesproken. 
+no	Greit. 
+pl	Zgoda. 
+pr-br	Fechado. 
+pr	De acordo. 
+ro	S-a făcut! 
+sp-eu	Trato hecho. 
+sp	Trato hecho. 
+sv	Taget. 
+tr	Anlaştık. 
+vi	Đồng ý. | 
+zh-long	成交 
+zh-short	成交 
+

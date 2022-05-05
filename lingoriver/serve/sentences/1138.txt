@@ -1,0 +1,27 @@
+ar	&rlm;‏لا. ربما يجب أن تستديري.‏ | 
+da	Nej. Måske skulle du vende dig om. 
+el	Μάλλον είναι καλύτερα να γυρίσεις από την άλλη. 
+en	No. Maybe you should turn around. | 
+fi	Ehkä sinun on parasta kääntyä. 
+fr	Non. Tourne-toi, c'est mieux. 
+he	&rlm;‏לא. אולי כדאי שתסתובבי.‏ | 
+id	Tidak. Sebaiknya kau berbalik. 
+it	No. È meglio se ti volti. 
+nl	Nee. Draai je maar om. 
+no	Nei. Kanskje du burde snu deg. 
+pr-br	Não. Talvez devesse se virar. 
+pr	Não. Talvez seja melhor virares-te. 
+ro	Nu. Poate că ar trebui să te întorci. 
+sp-eu	No. Mejor te das la vuelta. 
+sp	No. Quizá debas darte la vuelta. 
+sv	Nej. Du kanske ska vända dig om. 
+th	ไม่ บางทีคุณน่าจะหันหลังซะ | 
+tr	Hayır. Belki de arkanı dönsen iyi olur. 
+vi	Không. Có lẽ cô nên quay mặt đi. | 
+zh-long	沒啦，妳還是轉過去好了 
+zh-short	不 或许你该转过去 
+ko	아니, 뒤돌아서는 게 좋겠어 | 
+ja	冗談だ　後ろを向いて | 
+ru	Нет. Лучше отвернись. 
+pl	Nie. Po prostu się odwróć. 
+

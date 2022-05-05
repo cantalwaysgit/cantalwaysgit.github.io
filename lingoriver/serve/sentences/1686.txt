@@ -1,0 +1,27 @@
+ja	ニューヨークへ行け | 
+ar	&rlm;‏اذهبي إلى "نيويورك".‏ | 
+da	Tag til New York. 
+el	Πήγαινε στη Νέα Υόρκη. 
+en	Go to New York. | 
+fi	Mene New Yorkiin. 
+fr	Va à New York. 
+he	&rlm;‏סעי לניו יורק.‏ | 
+it	Vai a New York. 
+nl	Ga naar New York. 
+no	Dra til New York. 
+pl	Leć do Nowego Jorku. 
+pr-br	Vá para Nova York. 
+pr	Vai a Nova Iorque. 
+ro	Du-te la New York. 
+sp-eu	Ve a Nueva York. 
+sp	Ve a Nueva York. 
+sv	Åk till New York. 
+tr	New York'a git. 
+vi	Đi New York. | 
+zh-long	去紐約吧 
+zh-short	去纽约 
+th	ไปนิวยอร์ก | 
+id	Lalu pergi ke New York. 
+ru	Езжай в Нью-Йорк. 
+ko	뉴욕으로 가 | 
+

@@ -1,0 +1,25 @@
+ar	&rlm;‏‏- "زيغي مارلي". | &rlm;‏- "بولي شور".‏ | 
+da	-Ziggy Marley. -Pauly Shore. 
+el	-Τον Ζίγκι Μάρλεϊ. -Τον Πόλι Σορ. 
+en	-Ziggy Marley. | -Pauly Shore. | 
+fi	-Ziggy Marley. -Pauly Shore. 
+fr	- Ziggy Marley. - Pauly Shore. 
+he	&rlm;‏‏זיגי מארלי. | &rlm;‏-פולי שור.‏ | 
+id	- Ziggy Marley. - Pauly Shore. 
+it	- Ziggy Marley. - Pauly Shore. 
+ko	- 지기 말리 | - 폴리 쇼어 | 
+nl	Ziggy Marley. -Pauly Shore. 
+no	-Ziggy Marley. -Pauly Shore. 
+pr-br	-Ziggy Marley. -Pauly Shore. 
+pr	- Ziggy Marley. - Pauly Shore. 
+ro	- Ziggy Marley. - Pauly Shore. 
+sp-eu	- Ziggy Marley. - Pauly Shore. 
+sp	- Ziggy Marley. - Pauly Shore. 
+sv	-Ziggy Marley. -Pauly Shore. 
+th	- ซิกกี้ มาร์ลีย์ | - พอลี่ ชอร์ | 
+tr	-Ziggy Marley. -Pauly Shore. 
+vi	- Ziggy Marley. | - Pauly Shore. | 
+zh-long	-理奇馬利 -波利舒爾 
+zh-short	-利奇马利 -保利肖尔 
+ja	Ｚ･マーリー | 
+

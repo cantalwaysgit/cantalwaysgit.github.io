@@ -1,0 +1,26 @@
+ar	&rlm;‏‏لم نعرف حتى أنه كان لديك | &rlm;‏زبائن آخرين حتى اليوم.‏ | 
+da	Vi vidste ikke, du havde andre klienter, før i dag. 
+el	Μόλις σήμερα μάθαμε ότι έχεις κι άλλους πελάτες. 
+en	We didn't even know | you had other clients until today. | 
+fi	Tiesimme toisista asiakkaistasi vasta tänään. 
+fr	On ne savait même pas que tu avais d'autres clients. 
+he	&rlm;‏‏אפילו לא ידענו עד היום | &rlm;‏שיש לך לקוחות אחרים.‏ | 
+id	Kami bahkan baru tahu kau punya klien lain hari ini. 
+it	Finora non sapevamo nemmeno che avessi altri clienti. 
+ko	다른 고객이 있다는 걸 | 오늘 처음 알았어요 | 
+nl	We wisten niet eens dat je andere cliënten had. 
+no	Vi visste ikke at du hadde andre klienter før i dag. 
+pl	Dziś dowiedzieliśmy się, że masz innych klientów. 
+pr-br	Só ficamos sabendo que você tinha outros clientes hoje. 
+pr	Só descobrimos hoje que tinhas outros clientes. 
+sp-eu	Nosotras nos acabamos de enterar de que tienes otros clientes. 
+sp	Hasta hoy no sabíamos que tenías otros clientes. 
+sv	Vi visste inte att du hade andra klienter förrän idag. 
+th	เราไม่รู้ว่า | มีคนอื่นในสังกัดจนกระทั่งวันนี้ | 
+tr	Bugüne dek temsil ettiğin başka birileri olduğunu bilmiyorduk. 
+vi	Hôm nay chúng tôi mới biết | là có những khách hàng khác. | 
+zh-long	我們今天才知道你有其他客戶 
+zh-short	我们今天才知道你还有其他客户 
+ja	皆に会うのは今日が初めて | 
+ru	что у тебя есть другие клиенты. 
+

@@ -1,0 +1,28 @@
+id	Tahu berapa orang meneleponku 
+ar	&rlm;‏‏أتعرف كم اتصالاً وردني | &rlm;‏بعد أن طردكم "كوينسي جونز" من حفلته؟‏ | 
+da	Ved du, hvor mange opkald jeg fik efter Quincy Jones' fest? 
+el	Ξέρεις πόσα τηλεφωνήματα έλαβα μετά το πάρτι του Κουίνσι Τζόουνς; 
+en	You know how many calls I got after | Quincy Jones threw you out of his party? | 
+fi	Tiedätkö, montako puhelua tuli Jonesin juhlien jälkeen? 
+fr	T'as idée du bazar qu'il y a eu après la soirée de Quincy ? 
+he	&rlm;‏‏אתה יודע כמה טלפונים קיבלתי | &rlm;‏אחרי המסיבה של קווינסי ג'ונס?‏ | 
+it	Sai quante telefonate ho ricevuto dopo la festa di Quincy Jones? 
+ja	クインシーを怒らせただろ？ | 
+ko	그날 파티 이후 얼마나 | 전화가 많이 왔는지 아세요? | 
+nl	Weet je hoe vaak ik gebeld ben na Quincy Jones' feest? 
+no	Vet du hvor mange som ringte etter Quincys fest? 
+pl	Wydzwaniali do mnie, gdy Quincy was wyrzucił. 
+pr-br	Sabe quantas ligações recebi depois da festa de Quincy Jones? 
+pr	Sabes quantas chamadas recebi depois do Quincy Jones te expulsar? 
+ro	Știi câte telefoane am dat după petrecerea lui Quincy Jones? 
+ru	Знаешь, сколько мне звонили после вечеринки Куинси? 
+sp-eu	¿Sabes cuántas llamadas tuve tras la fiesta de Quincy Jones? 
+sp	¿Sabes cuántas llamadas recibí después de lo de Quincy Jones? 
+sv	Vet du hur många samtal jag fått efter Quincy Jones fest? 
+th	รู้ไหมผมรับโทรศัพท์เยอะแค่ไหน | หลังงานปาร์ตี้ควินซี่ โจนส์ | 
+tr	Quincy Jones'un partisinden sonra kaç telefon geldi dersin? 
+vi	Biết tôi nhận được bao nhiêu cú điện | sau tiệc Quincy Jones? | 
+zh-long	你知道昆西瓊斯那場派對後 我接了幾通電話？ 
+zh-short	知道昆西琼斯那次派对之后 我接到多少通电话吗？ 
+id	setelah Quincy Jones mengusirmu? 
+

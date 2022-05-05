@@ -1,0 +1,26 @@
+id	Segalanya soal hal menarik 
+ru	Всё в нем привлекает 
+ar	&rlm;‏كل ما يتعلق به جذاب‏ | 
+el	Τα πάντα σ' αυτόν είναι ελκυστικά 
+en	♪ Everything about it is appealing ♪ | 
+fi	Siinä kaikki viehättää 
+fr	Tout y est fascinant 
+he	&rlm;‏הכול בו מושך‏ | 
+it	Tutto ciò che lo riguarda è affascinante 
+ko	연예계는 모든 것이 매력적이지 | 
+pl	Wszystko w niej jest piękne 
+pr-br	Tudo nele é atraente 
+pr	É tudo tão atraente 
+ro	E atrăgător în toate modurile 
+sp	Es muy atrayente 
+sp-eu	Todo lo que tiene es atractivo 
+th	ทุกอย่างเกี่ยวกับมันน่าสนใจ | 
+tr	Her bakımdan çekicidir 
+vi	Mọi thứ đều phải quyến rũ | 
+zh-long	一切如此魅惑動人 
+zh-short	引人入胜 
+da	Der er intet så skønt 
+sv	Allt med den är tilltalande 
+nl	alles is even aanlokkelijk, alles wat het publiek graag wil zien 
+ja	人の好奇心をそそる世界 | 
+

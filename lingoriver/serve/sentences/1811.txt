@@ -1,0 +1,25 @@
+ja	契約しよう | すぐにでもテレビに出したい | 
+ru	Обговорим условия. 
+id	Mari kita bicarakan kontrak. 
+ar	&rlm;‏سنعقد اتفاقاً.‏ | 
+da	Så laver vi en aftale. 
+el	Θα υπογράψουμε τη συμφωνία 
+en	We'll hammer out a deal. | 
+fi	niin tehdään diili. 
+fr	On négociera un contrat. 
+he	&rlm;‏נגבש עסקה.‏ | 
+it	Prepariamo un contratto. 
+no	Vi lager en avtale. 
+pl	Ustalimy warunki. 
+pr-br	Vamos fazer um acordo. 
+pr	Vamos alinhavar um acordo. 
+ro	O să batem palma. 
+sp	Cerraremos un trato. 
+sp-eu	Cerraremos el trato. 
+th	เราจะตกลงทำสัญญากัน | 
+tr	Bir sözleşme yapalım. 
+vi	Chúng ta sẽ thống nhất hợp đồng. | 
+zh-long	我們來敲定合約 
+zh-short	我们把合同敲定 
+ko	계약서에 도장 찍자고 | 
+

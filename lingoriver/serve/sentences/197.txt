@@ -1,0 +1,57 @@
+ar	&rlm;‏‏عشت هنا لمدة 4 سنوات بالفعل. | &rlm;‏يجب أن تعرفاني بحلول الآن.‏ | 
+da	Jeg har boet her i fire år. I burde kende mig. 
+el	Μένω τέσσερα χρόνια εδώ. Θα έπρεπε να με γνωρίζετε πια. 
+en	I've lived here for four years already. | You should know me by now. | 
+fi	Olen asunut täällä neljä vuotta. Teidän pitäisi tuntea minut. 
+fr	J'habite ici depuis quatre ans. Vous devriez me connaître. 
+it	Vivo qui già da quattro anni. Ormai dovreste conoscermi. 
+ko	여기 산 지도 4년이나 됐는데 | 얼굴을 알 때도 됐잖아? | 
+nl	Ik woon hier al vier jaar. Je zou me moeten kennen. 
+no	Jeg har bodd her i fire år. Dere burde kjenne meg nå. 
+pl	Mieszkam tu od czterech lat. Powinniście mnie już znać. 
+pr-br	Eu moro aqui há quatro anos. Já deveriam me conhecer. 
+pr	Moro aqui há quatro anos. Já me deviam conhecer. 
+ro	Locuiesc aici de patru ani deja! Ar fi trebuit să mă cunoașteți. 
+sp-eu	Llevo cuatro años viviendo aquí. Ya deberíais conocerme. 
+sp	Hace cuatro años que vivo aquí. Deberían conocerme. 
+sv	Jag har bott här i fyra år. Ni borde känna igen mig. 
+tr	Dört yıldır burada yaşıyorum. Artık beni tanımanız lazım. 
+vi	Tao sống ở đây bốn năm rồi. | Chúng mày phải quen tao chứ. | 
+zh-long	我在這裡住四年了 應該認識我了吧 
+zh-short	我已经在这里住了四年了 你们也该认识我了 
+he	&rlm;‏‏אני גר כאן כבר ארבע שנים. | &rlm;‏אתה אמור כבר להכיר אותי.‏ | 
+ja	もう４年だぞ | いい加減 顔を覚えろ | 
+id	Aku sudah tinggal di sini empat tahun. Seharusnya kalian mengenaliku. 
+ru	Я тут четыре года живу! Могли бы меня запомнить. 
+th	ฉันอยู่ที่นี่มาสี่ปีแล้วนะ | ตอนนี้น่าจะรู้จักกันแล้ว | 
+
+nl	Er komen hier veel mensen. 
+hu	Sokan megfordulnak itt. 
+it	Vengono molte persone. 
+ru	Здесь много кто бывает. 
+uk	Тут буває багато людей. 
+da	Her kom mange. | 
+el	Έρχεται πολύ κόσμος. 
+en	A lot of people come here. 
+es-eu	Viene mucha gente. 
+fr	Je vois plein de gens. 
+he	‫באים לכאן הרבה אנשים.‬ | 
+hr	Mnogi dolaze ovamo. 
+id	Banyak orang datang ke sini. 
+ja	&lrm;客が多いから | 
+ko	&lrm;많은 사람이 오죠 | 
+ms	Ramai orang datang ke sini. 
+no	Mange kommer hit. 
+pt-br	Muita gente vem aqui. 
+pt	Vem cá muita gente. 
+ro	Vin mulți pe aici. 
+sv	Många kommer hit. 
+th	&lrm;มีคนมาที่นี่ตั้งเยอะแยะ | 
+tr	Gelen gidenimiz çok. 
+vi	&lrm;Nhiều người đến đây lắm. | 
+zh-long	來這裡洗車的人很多 
+zh-short	来这里的人很多 
+fi	Täällä ravaa ihmisiä. | 
+es	Veo a mucha gente por día y no recuerdo ni la cara de mi madre. 
+cs	Sem jezdí mraky lidí. 
+

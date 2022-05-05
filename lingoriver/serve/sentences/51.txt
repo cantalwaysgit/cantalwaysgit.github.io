@@ -1,0 +1,79 @@
+ru	Думаю, никто его не вызывал. 
+id	Kurasa tidak ada yang menyeranta dia. 
+el	Δε νομίζω ότι τον καλούσε κανείς. 
+ar	&rlm;‏‏لا أظن أحداً من أولئك الناس | &rlm;‏كانوا يرسلون له نداءً.‏ | 
+da	Jeg tror ikke, nogen bippede ham. 
+en	I don't think any of those people | were really beeping him. | 
+fr	Personne ne le bipait. 
+he	&rlm;‏אני לא חושב שאף אחד שלח לו הודעות.‏ | 
+it	In realtà non lo cercava mai nessuno. 
+pl	Nikt do niego nie dzwonił. 
+pr	Acho que ninguém lhe enviava mensagens, 
+pr-br	Acho que ninguém o estava bipando. 
+ro	Nu cred că-l căuta nimeni. 
+sp	Creo que nadie lo buscaba nunca. 
+sp-eu	No creo que le llamara nadie. 
+th	คิดว่าไม่มีใครส่งเพจเจอร์มาหาเขา | 
+tr	Bence kimse ona çağrı atmıyordu. 
+vi	Tôi không nghĩ ai đó gọi anh ta. | 
+zh-long	應該沒人傳呼他吧 
+zh-short	我觉得没人呼他 
+ko	샌디한테 삐삐치는 사람은 | 없었을 거예요 | 
+fi	Ei häntä piipattu. Hän teeskenteli. "Jessus, Mackenzie Phillips." 
+nl	Niemand riep hem op. Want hij zei: 'Jee, Mackenzie Phillips.' 
+no	Tror ikke noen sendte ham meldinger. Han sa: "Jøss, Mackenzie Phillips." 
+sv	Jag tror inte att nån sökte honom. Han kunde säga: "Oj, Mackenzie Philips." 
+ja	あのポケベルはウソさ | “Ｍ･フィリップスからだ” | 
+ru	Он такой: «Боже, Маккензи Филлипс!» 
+id	Karena dia hanya bilang, "Astaga, Mackenzie Phillips." 
+el	Ξαφνικά, έλεγε "με καλεί η Μακένζι Φίλιπς". 
+ar	&rlm;‏لأنه قد يقول، "يا إلهي، (ماكينزي فيليبس)."‏ | 
+da	For han sagde: "Jøsses, Mackenzie Phillips." 
+en	'Cause he would just go, like, | "Oh, jeez, Mackenzie Phillips." | 
+fr	Il était là : "Purée, Mackenzie Phillips." 
+he	&rlm;‏כי הוא היה אומר, "אלוהים, מקנזי פיליפס".‏ | 
+it	Diceva: "Cavolo, Mackenzie Phillips". 
+pl	Mówił tylko: „To Mackenzie Phillips”. 
+pr-br	Pois ele dizia: "Nossa, é Mackenzie Phillips." 
+pr	porque ele dizia: "Caramba, a Mackenzie Phillips." 
+ro	Zicea: "Doamne! Mackenzie Phillips." 
+sp-eu	Decía: "Vaya, es Mackenzie Phillips". 
+sp	Porque decía: "Dios, es Mackenzie Phillips". 
+th	เพราะเขาคงพูดว่า | "ให้ตาย แมคเคนซี ฟิลลิปส์" | 
+tr	Çünkü şöyle derdi, "Vay, Mackenzie Phillips." 
+vi	Vì anh ta sẽ nói, | "Trời, là Mackenzie Phillips." | 
+zh-long	他老愛說 “哎呀，麥肯琪菲利浦耶” 
+zh-short	因为他会说 “天啊 麦肯锡菲利普斯” 
+ko	쓱 보고도 이렇게 말하거든요 | ‘어이쿠, 매켄지 필립스네’ | 
+
+ms	- Boleh hantar saya? - Boleh. 
+no	-Kan du kjøre meg? -Ja visst. 
+es	- ¿Podrías? - Claro. 
+ja	&lrm;乗せて | 
+cs	- Mohla bys? - Jasně. 
+da	-Gider du? | -Ja. | 
+el	-Μπορείς; -Φυσικά. 
+en	-Could you? -Sure. 
+es-eu	- ¿Puedes? - Sí. 
+fi	Voitko viedä minut? | -Toki. | 
+fr	- C'est possible ? - Oui. 
+he	‫תוכלי לקחת אותי?‬ | ‫-בטח.‬ | 
+hr	-Bi li mogla? -Da. 
+hu	- El tudsz? - Persze. 
+id	- Bisa mengantarku? - Ya. 
+it	- Puoi portarmi? - Certo. 
+ko	&lrm;- 데려다 주실래요? | &lrm;- 그래 | 
+nl	Kan dat? -Zeker. 
+pt-br	- Pode me levar? - Claro. 
+pt	- Podes levar-me? - Claro. 
+ro	- Ai putea? - Sigur. 
+ru	- А тебе удобно? - Конечно. 
+th	&lrm;- ได้มั้ยคะ | &lrm;- ได้สิ | 
+tr	-Bırakabilir misin? -Tabii. 
+uk	-А можна? -Авжеж. 
+vi	&lrm;- Đưa con đi nhé? | &lrm;- Tất nhiên. | 
+zh-long	-妳能帶我去嗎？ -當然 
+zh-short	-可以送我去吗？ -当然 
+sv	-Går det bra? -Ja. 
+ja	&lrm;いいわ | 
+

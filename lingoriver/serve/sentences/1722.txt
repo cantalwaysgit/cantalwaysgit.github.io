@@ -1,0 +1,22 @@
+ru	Давай. 
+id	Baiklah. 
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	Okay. Okay. | 
+he	&rlm;‏בסדר.‏ | 
+it	Bene. 
+ko	알았어요 | 
+pr-br	Está bem. 
+pr	Pronto. 
+ro	Bine. 
+sp	Está bien. 
+sp-eu	Vale. 
+sv	Okej. 
+th	โอเค โอเค | 
+tr	Tamam, tamam. 
+vi	Được rồi. | 
+zh-long	好… 
+zh-short	好的 
+ru	Давай. 
+

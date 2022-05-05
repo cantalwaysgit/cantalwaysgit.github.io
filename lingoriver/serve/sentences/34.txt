@@ -1,0 +1,85 @@
+ar	&rlm;‏هل رأيتك من قبل؟‏ | 
+da	Har jeg set dig før? 
+el	Γνωριζόμαστε; 
+en	Have I seen you before? | 
+fi	Olemmeko tuttuja? 
+fr	On se connaît ? 
+he	&rlm;‏האם כבר נפגשנו?‏ | 
+id	Kita pernah bertemu? 
+it	Ci conosciamo? 
+ko	절 보신 적 있나요? | 
+nl	Kennen we elkaar? 
+no	Har jeg sett deg før? 
+pl	Znamy się? 
+pr-br	Eu já o vi? 
+pr	Já te tinha visto antes? 
+ro	Ne cunoaștem? 
+ru	А мы знакомы? 
+sp-eu	¿Nos conocemos? 
+sp	¿Te conozco? 
+sv	Har vi träffats förr? 
+th	เราเคยเจอกันมาก่อนเหรอ | 
+tr	Tanışıyor muyuz? 
+vi	Tôi gặp anh rồi à? | 
+zh-long	我認識你嗎？ 
+zh-short	我们认识吗？ 
+ja	前に会った？ | 
+
+it	Avete trovato altro? 
+es	¿Encontraron algo más? 
+id	Apa kalian menemukan hal lain? 
+nl	Heeft u nog iets anders gevonden? 
+pt-br	Encontraram algo mais? 
+uk	Ви ще щось знайшли? 
+zh-short	你们还有别的发现吗？ 
+cs	Našli jste ještě něco? 
+el	Βρήκατε τίποτα άλλο; 
+fi	Löytyikö mitään muuta? | 
+ru	Больше ничего не нашли? 
+da	Har De fundet andet? | 
+en	Have you found anything else? 
+es-eu	¿Han encontrado algo más? 
+fr	Vous avez trouvé autre chose ? 
+he	‫מצאתם עוד משהו?‬ | 
+hr	Jeste li još nešto našli? 
+hu	Mást nem találtak? 
+ja	&lrm;他には？ | 
+ko	&lrm;다른 건요? | 
+ms	Awak ada jumpa apa-apa lagi? 
+no	Har dere funnet noe annet? 
+pt	Encontraram mais alguma coisa? 
+ro	Altceva ați mai găsit? 
+th	&lrm;เจออะไรอีกบ้างคะ | 
+tr	Başka bir şey buldunuz mu? 
+vi	&lrm;Các cô tìm thấy gì không? | 
+zh-long	你們有找到其他東西嗎？ 
+sv	-Har ni hittat nåt annat? -Inget som tyder på att er son är skadad. 
+it	Niente che suggerisca che vostro figlio sia stato ferito. 
+es	Nada que sugiera que alguien hirió a su hijo. 
+da	Intet, som indikerer, | Deres barn er kommet til skade. | 
+el	Τίποτα που να υποδεικνύει ότι το παιδί σας έχει πάθει κακό. 
+en	Nothing that would suggest your child has been hurt. 
+es-eu	Nada que indique que le haya pasado algo. 
+fi	Mikään ei viittaa siihen, | että lapsenne olisi loukkaantunut. | 
+fr	Rien qui suggère que votre fils a été blessé. 
+he	‫שום דבר שיצביע על כך שקרה לו משהו.‬ | 
+hr	Ništa što bi upućivalo na to da je vaše dijete ozlijeđeno. 
+hu	Semmit, ami arra utalna, hogy a gyerekük megsérült. 
+id	Tak ada yang menunjukkan anakmu terluka. 
+ja	&lrm;負傷してると | &lrm;示すものはありません | 
+ko	&lrm;아이가 다쳤다는 증거는 없었어요 | 
+ms	Tiada apa-apa yang menunjukkan anak kamu cedera. 
+nl	Niets dat erop wijst dat uw kind gewond is geraakt. 
+no	Ingenting som tyder på at barnet deres er skadet. 
+pt-br	Nada que indique que seu filho tenha sido ferido. 
+pt	Nada que sugira que o vosso filho foi ferido. 
+ro	Nimic care să sugereze că ar fi rănit. 
+ru	Ничего, что указывало бы на то, что ваш ребенок пострадал. 
+th	&lrm;ไม่มีอะไรที่บ่งชี้ว่าลูกของคุณบาดเจ็บ | 
+tr	Çocuğunuzun zarar gördüğüne dair bir şey bulmadık. 
+uk	Нічого, що вказувало б на те, що ваша дитина постраждала. 
+vi	&lrm;Không có gì cho thấy | &lrm;con anh chị bị hại. | 
+zh-long	沒有能證明你們孩子受傷的證據 
+zh-short	没有证据表明你们的孩子受到了伤害 
+cs	Nic, co by naznačovalo, že vašemu dítěti někdo ublížil. 
+

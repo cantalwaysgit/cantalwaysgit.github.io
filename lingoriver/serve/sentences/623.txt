@@ -1,0 +1,76 @@
+ja	ヤだ | 
+id	Astaga. 
+ru	Боже. 
+th	โอ๊ย ตายละ | 
+pl	Boże. 
+ar	&rlm;‏يا إلهي.‏ | 
+da	Åh gud. 
+el	Ω, Θεέ μου. 
+en	Oh, my God. | 
+fi	Voi luoja. 
+fr	J'y crois pas. 
+he	&rlm;‏אלוהים.‏ | 
+it	Mio Dio. 
+ko	세상에 | 
+pr-br	Ah, meu Deus. 
+pr	Meu Deus. 
+ro	Dumnezeule! 
+sp	Dios mío. 
+sp-eu	Madre mía. 
+sv	Herregud. 
+tr	Aman Tanrım. 
+vi	Chúa ơi. | 
+zh-long	媽媽咪呀 
+zh-short	天啊 
+no	-Herregud. -Hva? Det er et godt bilde. 
+ja	いい写真よ | 
+id	Apa? Itu foto yang bagus. 
+ru	Что? Хорошее фото. 
+ar	&rlm;‏ماذا؟ إنها صورة جيدة.‏ | 
+da	Det er da et godt billede. 
+el	Γιατί; Είναι καλή φωτογραφία. 
+en	What? It's a good picture. | 
+fi	Tämähän on hyvä kuva. 
+fr	Quoi ? Elle est jolie. 
+he	&rlm;‏מה? זו תמונה טובה.‏ | 
+it	Che c'è? È una bella foto. 
+pl	Co? To ładne zdjęcie. 
+pr-br	Quê? É uma foto legal. 
+pr	O que foi? É uma boa fotografia. 
+ro	Ce e? E o fotografie reușită. 
+sp-eu	¿Qué? Es una buena foto. 
+sp	¿Qué? Es una buena foto. 
+sv	Vadå? Det är en bra bild. 
+th	อะไร รูปนี้ดีนะ | 
+tr	Ne? Bu güzel bir fotoğraf. 
+vi	Sao? Ảnh đó đẹp mà. | 
+zh-long	怎樣？那張很棒呀 
+zh-short	怎么？拍得挺好的 
+ko	왜요? 잘 나왔잖아요 | 
+nl	Wat? Het is een goede foto. -Dat heeft Sandy ook al gevraagd. 
+ja	サンディにも頼まれた | 
+id	Sandy sudah memintaku memilihnya. 
+ru	Сэнди тоже его попросил. 
+ar	&rlm;‏‏طلب مني "ساندي" القيام بذلك | &rlm;‏من أجله بالفعل.‏ | 
+da	Sandy har allerede bedt mig gøre det. 
+el	Ο Σάντι μου έχει ήδη ζητήσει να το κάνω για εκείνον. 
+en	Sandy already asked me to do that for him. | 
+fi	Sandy pyysi sitä jo itselleen. 
+fr	Sandy m'a demandé la même chose. 
+he	&rlm;‏סנדי כבר ביקש ממני להדפיס אותה בשבילו.‏ | 
+it	Me ne ha chiesto una copia anche Sandy. 
+no	Sandy har allerede bedt meg gjøre det. 
+pl	Sandy już mnie o nie poprosił. 
+pr-br	Sandy já me pediu para fazer para ele. 
+pr	O Sandy já me pediu para lhe fazer isso. 
+ro	Sandy mi-a zis deja că vrea el poza aia. 
+sp-eu	Sandy ya me ha pedido que se la amplíe. 
+sp	Sandy también me la pidió para él. 
+th	แซนดี้ขอให้ผมทำแบบนั้นให้เขาแล้ว | 
+tr	Sandy de aynısından istedi. 
+vi	Sandy đã bảo tôi phóng cái đó cho anh ta. | 
+zh-long	山迪也選了同樣一張 
+zh-short	刚才桑迪也放大了这张 
+sv	Sandy har redan bett mig göra det åt honom. 
+ko	샌디도 같은 부탁을 하던데요 | 
+

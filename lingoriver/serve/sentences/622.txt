@@ -1,0 +1,28 @@
+id	Bisa perbesar yang itu? 
+ja	あと これを | 現像してくれる？ | 
+ru	И можно увеличить... 
+ar	&rlm;‏وأيمكنك تكبير هذه؟‏ | 
+da	Og kan du forstørre det dér? 
+el	Μπορείς να μεγεθύνεις κι αυτή εδώ; 
+en	And can you blow up... that one? | 
+fi	Voitko suurentaa tuon? 
+fr	Et tu peux me tirer celle-là en grand ? 
+he	&rlm;‏ואתה יכול להדפיס את זו?‏ | 
+it	E puoi ingrandire quella? 
+ko	이 사진도 확대해 주실래요? | 
+nl	En kun je die uitvergroten? 
+no	Og kan du forstørre dette? 
+pl	I wywołaj dla mnie też to. 
+pr-br	Você pode ampliar esta? 
+pr	E podes aumentar aquela? 
+ro	Și poți s-o mărești pe aia? 
+sp-eu	¿Y puedes ampliar esta? 
+sp	¿Puede agrandar esa? 
+sv	Kan du förstora den där? 
+th	แล้วช่วยขยายรูปนั้นได้ไหม | 
+tr	Bir de şunu büyütür müsün? 
+vi	Anh phóng to cái đó được chứ? | 
+zh-long	可以麻煩你放大嗎？ 
+zh-short	能放大一下吗？ 
+ru	...эту? 
+

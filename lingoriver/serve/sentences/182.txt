@@ -1,0 +1,58 @@
+ar	&rlm;‏كان منزله قصراً.‏ | 
+da	Det var et palads. 
+el	Το σπίτι του ήταν παλάτι. 
+en	The place was a palace. | 
+fi	Se oli palatsi. 
+fr	C'était un vrai palais. 
+he	&rlm;‏הבית היה ארמון.‏ | 
+id	Tempat itu istana. 
+it	Era una vera reggia. 
+ko	궁전 같은 곳이었죠 | 
+nl	Een paleis. 
+no	Det var et slott. 
+pl	Prawdziwy pałac. 
+pr	Aquilo era um palácio. 
+pr-br	A casa dele era um palácio. 
+ro	Avea un palat! 
+ru	Это был просто дворец. 
+sp	El lugar era un palacio. 
+sp-eu	Era un palacio. 
+sv	Det var ett palats. 
+th	มันเป็นวังเลย | 
+tr	Orası bir saraydı. 
+vi	Nơi đó là một cung điện. | 
+zh-long	根本就是皇宮來著 
+zh-short	那里就是座宫殿 
+ja	まるで宮殿 | 
+
+ja	&lrm;いいえ | 
+da	-Nej. | -Ingen kameraer? | 
+el	-Όχι. -Καμία; Δεν έχετε κάμερες; 
+en	-No. -None? No cameras? 
+es-eu	- No. - ¿Ninguna? 
+fr	- Non. - Aucune caméra ? 
+he	‫לא.‬ | ‫-אף לא מצלמה אחת?‬ | 
+hr	-Ne. -Ništa? Nema kamera? 
+id	- Tidak. - Tidak ada? Tak ada kamera? 
+ko	&lrm;- 아뇨 | &lrm;- 하나도요? 카메라가 없어요? | 
+nl	Nee. -Geen camera's? 
+no	-Nei. -Ingen kameraer? 
+pt-br	- Não. - Não? Nenhuma câmera? 
+pt	- Não. - Nenhuma? Não há câmaras? 
+ro	- Nu. - Niciuna? Nicio cameră? 
+ru	- Нет. - Вообще? Ни одной камеры? 
+sv	-Nej. -Inga kameror alls? 
+th	&lrm;- ไม่มี | &lrm;- ไม่มีกล้องสักตัวเลยเหรอ | 
+vi	&lrm;- Không. | &lrm;- Không? Không có máy quay? | 
+zh-long	-沒有 -沒有？沒有攝影機？ 
+zh-short	-没有 -没有？没有摄像头？ 
+uk	-Ні. -Жодної? Зовсім немає камер? 
+es	- No. - ¿Ninguna? ¿No hay cámaras? 
+hu	- Nincsenek. - Hogy? Nincsenek kamerák? 
+it	- No. - Nessuna? Niente telecamere? 
+ms	- Tak. - Tiada? Tiada kamera? 
+cs	- Ne. - Nic? Žádné kamery? 
+fi	Ei. | -Eikö yhtään kameraa? | 
+tr	-Hiç kameranız yok mu? -Efendim, saatlik oda kiralıyoruz. 
+ja	&lrm;ないんですか？ | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏هذا كثير يا طفلة. آسف.‏ | 
+da	Det er rigtig meget. Beklager. 
+el	Είναι δύσκολο, μικρή. Λυπάμαι. 
+en	It's a lot, kid. I'm sorry. | 
+fr	C'est trop, désolé. 
+he	&rlm;‏זה הרבה, ילדה. אני מצטער.‏ | 
+it	Non ce la faccio, piccola, mi dispiace. 
+no	Det er mye. Jeg er lei for det. 
+pr-br	Isso é demais, garota. Sinto muito. 
+pr	É muito, miúda. Lamento. 
+sp	Es mucho, señorita. Lo siento. 
+sp-eu	Es demasiado, chavala. Lo siento. 
+th	มันเยอะมาก ผมเสียใจ | 
+tr	Bu çok fazla geliyor evlat. Üzgünüm. 
+zh-long	難以負荷，小鬼，我很抱歉 
+fi	Siinä on paljon työtä. Olen pahoillani. 
+nl	Het is veel. Het spijt me. 
+pl	Przykro mi, mała. 
+ro	Sunt multe, puștoaico. Îmi pare rău. 
+sv	Det är för mycket. Förlåt. 
+vi	Rất nhiều chuyện. Tôi xin lỗi. | 
+zh-short	这样事太多了 孩子 抱歉 
+id	Itu cukup berat. Maaf. 
+ko	미안하지만 손이 많이 가 | 
+ja	悪いがもうムリだ | 
+ru	Их много, детка. Прости. 
+

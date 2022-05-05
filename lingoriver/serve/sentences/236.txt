@@ -1,0 +1,84 @@
+id	Anak-anak, lewat sini. Ikuti aku. 
+ru	Нам сюда. Сюда. 
+ja	こっちだ　２人とも | 
+ar	&rlm;‏من هنا. تعاليا معي.‏ | 
+da	Denne vej. Kom med mig. 
+el	Από δω, παιδιά. Ελάτε μαζί μου. 
+en	Hey, guys, this way. | This way. Come with me. | 
+fi	Tännepäin. Tulkaa. 
+fr	Par ici, les filles. Venez là. 
+he	&rlm;‏היי, בנות, מכאן. בואו איתי.‏ | 
+it	Da questa parte, bambine. Venite con me. 
+nl	Deze kant op. Kom mee. 
+no	Denne veien. Bli med meg. 
+pl	Dziewczyny, tędy. Chodźcie ze mną. 
+pr-br	Meninas, por aqui. Venham comigo. 
+pr	Meninas, por aqui. Venham comigo. 
+ro	Pe aici! Veniți cu mine! 
+sp	Chicas, por aquí. Vengan conmigo. 
+sp-eu	Chicas, por aquí. Por aquí. Venid conmigo. 
+sv	Den här vägen, hörni. Följ mig. 
+th	นี่หนู ทางนี้ มากับฉันทางนี้ | 
+tr	Çocuklar, bu taraftan. Bu taraftan. Benimle gelin. 
+vi	Nào, các cháu, lối này. Đi theo chú. | 
+zh-long	小朋友，這邊，跟我來 
+zh-short	嘿 孩子们 这边 跟我来 
+ko	얘들아, 이쪽이야, 따라와 | 
+ja	来て | 
+ru	Идемте. 
+
+es	Nadie sabrá que fue tu culpa. Ni una palabra. 
+id	Orang tak perlu tahu. Rahasiakan. 
+pt-br	Ninguém precisa saber que foi culpa sua. Confie em mim. 
+fi	Kukaan ei saa tietää, | että se oli sinun syysi." | 
+cs	Nikdo nemusí vědět, žes to zavinil ty. Drž se. 
+el	Κανείς δεν πρέπει να μάθει ότι έφταιγες εσύ. 
+en	"Nobody has to know it was your fault. Hold tight." 
+es-eu	Nadie sabrá que fue culpa tuya. Ni una palabra. 
+fr	"Personne ne doit savoir que c'était ta faute. 
+he	‫אף אחד לא צריך לדעת שזו היתה אשמתך.‬ | ‫תחזיק חזק.‬ | 
+hr	Nitko ne mora znati da si ti kriv. Ostani smiren. 
+hu	„Senki sem tudja, hogy te tehetsz róla. Nyugi!” 
+it	Nessuno deve sapere che è colpa tua. Fidati di me. 
+ko	&lrm;'네 잘못이란 거 | &lrm;아무도 알 필요 없어, 버텨' | 
+ms	Tiada orang perlu tahu itu salah awak. Bersabarlah. 
+nl	'Niemand hoeft te weten dat het jouw schuld was.' 
+no	"Ingen må vite at det var din feil. Hold tett." 
+pt	Ninguém tem de saber que a culpa foi tua. Bico calado. 
+ro	Nu o să se afle că a fost vina ta. Fii tare!” 
+ru	Никто не должен знать, что это твоя вина. Держись. 
+th	&lrm;"ไม่ต้องมีใครรู้ว่า | &lrm;เป็นความผิดของเธอ อย่าเผลอ" | 
+tr	Suçlu olduğunu bilmeleri gerekmiyor, sakin ol. 
+uk	Ніхто не дізнається, що це через тебе. Тримайся. 
+vi	&lrm;"Không ai cần biết | &lrm;đó là lỗi của cậu. Hãy vững vàng". | 
+zh-long	不必讓別人知道是你的錯 什麼都別說 
+zh-short	“没必要让别人知道 是你的错 别担心” 
+ja	&lrm;“お前のせいだとバレない | &lrm;慌てるな” | 
+da	Ingen behøver at få at vide, | det var din skyld. Hold tæt. Guru." | 
+sv	Ingen behöver få veta att det var ditt fel. Guru." 
+el	Γκουρού". 
+en	"Guru." 
+es-eu	Guru". 
+es	Gurú". 
+fi	Se on "Gurulta". | 
+fr	"Guru." 
+he	‫גורו."‬ | 
+hr	Guru.” 
+id	Guru." 
+it	Guru." 
+ja	&lrm;“グル” | 
+ko	&lrm;'구루' | 
+ms	Guru." 
+no	"Guru." 
+pt-br	Guru." 
+pt	Guru." 
+ro	„Guru”. 
+th	&lrm;"กูรู" | 
+tr	Guru." 
+uk	Гуру». 
+vi	&lrm;"Sư Phụ". | 
+zh-long	大師” 
+zh-short	“大师” 
+cs	Guru.“ 
+ru	Гуру». 
+

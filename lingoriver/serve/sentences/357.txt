@@ -1,0 +1,28 @@
+en	-Is this bison, or is it moose meat? | -[laughing] | 
+ar	&rlm;‏‏أهذا لحم ثور أم موظ؟ | &rlm;‏ما الذي يجعلها لذيذة جداً؟‏ | 
+da	Er det bison- eller elgkød? Hvorfor smager den så godt? 
+el	Είναι από βίσονα ή άλκη; Τι το κάνει τόσο καλό; 
+fi	Onko tämä biisonin vai hirven lihaa? Miten tämä on näin hyvää? 
+fr	C'est du bison ou de l'élan ? C'est quoi, le secret ? 
+he	&rlm;‏‏זה בשר של ביזון או של מוס? | &rlm;‏מה עושה אותו טוב כל כך?‏ | 
+id	Ini daging bison atau rusa? Kenapa enak sekali? 
+it	È carne di bisonte o di alce? Come fa a essere così buono? 
+ko	무슨 고기지? 들소? 무스? | 뭘 넣어서 이렇게 맛있어? | 
+nl	Is het bizon- of elandvlees? Wat maakt het zo lekker? 
+pl	Co to za mięso? Bizon? Łoś? Dlaczego jest taki pyszny? 
+pr-br	Isso é carne de bisão ou alce? Por que está tão bom? 
+pr	É carne de bisonte ou de alce? O que o torna tão bom? 
+ro	E carne de bizon sau de elan? De ce e așa de bun? 
+ru	Он из бизона или лося? Почему он такой вкусный? 
+sp	¿Esto es carne de bisonte o de alce? ¿Por qué es tan rica? 
+sp-eu	¿Es de bisonte o de alce? ¿Por qué es tan buena? 
+sv	Är det bisonkött eller älgkött? Vad gör den så god? 
+th	เป็นเนื้อกระทิงไบซอนหรือเนื้อกวาง | อะไรทำให้อร่อยขนาดนี้ | 
+tr	Bizon mu yoksa geyik eti mi? Neden bu kadar leziz? 
+vi	Là thịt bò rừng hay thịt nai sừng tấm thế? | Sao ngon vậy? | 
+zh-long	這是野牛肉還是麋鹿肉？ 怎麼這麼好吃？ 
+zh-short	这是北美野牛肉还是驼鹿肉的？ 怎么这么好吃？ 
+ja	バイソンかヘラジカの肉？ | 本当にうまい | 
+no	Er det bison eller elgkjøtt? Hva gjør det så godt? 
+en	[stammers] What's making it so good? | 
+

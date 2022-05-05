@@ -1,0 +1,27 @@
+ar	&rlm;‏هذا هراء. يُفترض أن أفوز.‏ | 
+da	Det her er for latterligt. Jeg skal vinde. 
+el	Ανοησίες. Εγώ θα νικήσω. 
+en	This is bullshit. | I'm supposed to win. | 
+fi	Paskat. Minun kuuluu voittaa. 
+fr	C'est n'importe quoi. Je suis censé gagner. 
+he	&rlm;‏זה שטויות. אני אמור לנצח.‏ | 
+it	Che stronzata. Avrei dovuto vincere. 
+ko	말도 안 돼 | 내가 이기는 건데 | 
+nl	Wat een onzin. Ik hoor te winnen. 
+no	Pisspreik. Jeg skal jo vinne. 
+pl	Pieprzenie. Ja powinienem wygrać. 
+pr-br	Isso é bobagem. Eu tenho que ganhar. 
+pr	Que treta. Eu devia vencer. 
+ro	Ce porcărie! Eu trebuie să câștig. 
+sp	Esto es una estupidez. Yo debía ganar. 
+sp-eu	Y una mierda. Se supone que tengo que ganar. 
+sv	Det är skitsnack. Jag ska vinna. 
+th	บ้าไปแล้ว เกมนี้ฉันต้องชนะสิ | 
+tr	Saçmalık bu. Benim kazanmam gerekiyordu. 
+vi	Vớ vẩn. Mình phải thắng mà. | 
+zh-long	搞什麼鬼，我應該要贏的 
+zh-short	胡扯 应该是我赢 
+id	Omong kosong. Seharusnya aku menang. 
+ru	Что за фигня? Я должен выиграть. 
+ja	俺が勝つ予定だったのに | 
+

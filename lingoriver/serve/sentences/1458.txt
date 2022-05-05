@@ -1,0 +1,27 @@
+en	Oh. Hang on, guys. | My cellular device is ringing. | 
+id	Tunggu dulu, Semuanya. Ponselku berdering. 
+ja	ごめんよ | 携帯電話が鳴ってる | 
+pr-br	Esperem, meu dispositivo de telefone móvel está tocando. 
+ru	Минуточку. Мое сотовое устройство звонит. 
+ar	&rlm;‏انتظروا. جهازي الخلوي يرن.‏ | 
+da	Vent lidt, gutter. Min mobiltingest ringer. 
+el	Μισό λεπτό, παιδιά. Χτυπάει το κινητό μου. 
+fi	Hetki. Matkapuhelinlaitteeni soi. 
+fr	Une minute. Mon cellulaire sonne. 
+he	&rlm;‏חכו רגע, חבר'ה. המתקן הסלולרי שלי מצלצל.‏ | 
+it	Un attimo, ragazzi. Il mio dispositivo cellulare sta suonando. 
+nl	Wacht even, mijn mobiele telefoon gaat over. 
+no	Vent litt. Mobilenheten min ringer. 
+pl	Chwileczkę. Moje urządzenie komórkowe dzwoni. 
+pr	O meu dispositivo telefónico está a tocar. 
+ro	Stați așa! Dispozitivul meu celular sună. 
+sp	Esperen, muchachos. Está sonando mi aparato celular. 
+sp-eu	Esperad, chicos. Suena mi dispositivo celular. 
+sv	Vänta lite. Min mobilapparat ringer. 
+th	เดี๋ยวก่อน มือถือผมดัง | 
+tr	Durun millet. Cep telefonum çalıyor. 
+vi	Chờ chút, mọi người. Tôi có điện thoại. | 
+zh-long	大家等一下，我的手機響了 
+zh-short	等等 各位 我的手机响了 
+ko	기다려 봐요 | 휴대 전화가 울리네요 | 
+

@@ -1,0 +1,25 @@
+id	Ya. 
+ja	ええ | 
+ru	Да. 
+fi	Olen. 
+pl	Tak. 
+tr	Evet. 
+zh-short	是的 
+th	ใช่ | 
+ar	&rlm;‏أجل.‏ | 
+da	Ja. 
+el	Ναι. 
+en	Yeah. | 
+he	&rlm;‏כן.‏ | 
+it	Sì. 
+no	Ja. 
+pr-br	Sim. 
+pr	Sim. 
+ro	Da. 
+sp-eu	Sí. 
+sp	Sí. 
+sv	Ja. 
+vi	Vâng. | 
+zh-long	對 
+ko	네 | 
+

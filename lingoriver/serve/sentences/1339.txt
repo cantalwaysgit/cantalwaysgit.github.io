@@ -1,0 +1,53 @@
+id	- Ikutlah. Duduklah di sini. - Apa ini? 
+ru	-Идем. Садись. -Что это? 
+ja	座ってちょうだい | 
+en	-Come along. | -Hey, what's this? | 
+pl	- Usiądź sobie. - O co chodzi? 
+ar	&rlm;‏‏- تعال. اجلس هنا. | &rlm;‏- ما هذا؟‏ | 
+da	-Kom nu med. Sid her. -Hvad er det? 
+el	-Έλα μαζί μου. Κάθισε εδώ. -Τι είναι; 
+fi	-Istu siihen. -Mitä nyt? 
+fr	- Viens. Assieds-toi ici. - Quoi ? 
+he	&rlm;‏‏בוא איתי. פשוט שב כאן. | &rlm;‏-מה זה?‏ | 
+it	- Vieni. Siediti qui. - Di che si tratta? 
+no	-Bli med. Sitt her. -Hva er dette? 
+pr-br	-Venha. Sente-se aqui. -O que é isso? 
+pr	- Vem. Senta-te aqui. - O que é isto? 
+ro	- Hai! Stai aici. - Ce e asta? 
+sp-eu	- Ven. Siéntate aquí. - ¿Qué es esto? 
+sp	- Vamos. Siéntate aquí. - ¿Qué es esto? 
+sv	-Kom. Sätt dig. -Vad är detta? 
+th	- มาสิ มานั่งนี่ | - นี่อะไร | 
+tr	-Gel. Buraya otur. -Ne oluyor? 
+vi	- Đi nào. Ngồi đây. | - Cái gì thế? | 
+zh-long	-來嘛，坐下 -什麼東西？ 
+zh-short	-来 坐在这里 -这是什么？ 
+nl	Kom mee. Ga hier zitten. -Wat is dit? 
+ko	- 따라와요, 일단 앉아요 | - 뭔데요? | 
+en	-[stammers] Just sit here. Now, sit. | -Oh! Oh, yeah. | 
+pl	Siadaj. 
+ar	&rlm;‏‏- اجلس الآن. | &rlm;‏- أجل.‏ | 
+da	-Sid ned. -Ja. 
+el	Κάθισε. 
+fi	-Istu. -Selvä. 
+fr	Assis. 
+he	&rlm;‏‏עכשיו, שב. | &rlm;‏-כן.‏ | 
+it	- Siediti. - Sì. 
+pr-br	-Sente-se. -Sim. 
+pr	- Senta-te. - Sim. 
+ro	- Stai jos! - Da! 
+sp	- Ahora, siéntate. - Sí. 
+sp-eu	- Ahora, siéntate. - Sí. 
+sv	-Sitt. -Oj då. 
+th	- ทีนี้ นั่งลง | - ครับ | 
+tr	-Otur hadi. -Peki. 
+vi	- Giờ ngồi xuống. | - Vâng. | 
+zh-long	-坐 -喔耶 
+zh-short	-坐下 -好棒 
+id	- Duduklah. - Ya. 
+no	-Sett deg. -Ja. 
+ru	-Ну, сядь! -Да. 
+ja	座って | 
+ko	- 앉으라고요 | - 그래요 | 
+en	Aye, aye, aye! Yeah! | 
+

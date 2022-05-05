@@ -1,0 +1,82 @@
+id	Dia sangat peduli terhadap kliennya. 
+ko	진심으로 고객을 돌봤죠 | 
+ru	Он правда болел за своих клиентов. 
+ar	&rlm;‏اهتم حقاً بزبائنه.‏ | 
+da	Han kerede sig om sine klienter. 
+en	He really cared about his clients. | 
+fi	Hän välitti asiakkaistaan. 
+fr	Il était aux petits soins avec ses clients. 
+he	&rlm;‏היה לו באמת אכפת מהלקוחות שלו.‏ | 
+it	Teneva molto ai suoi clienti. 
+nl	Hij gaf echt om zijn cliënten. 
+no	Han brød seg virkelig om klientene. 
+pl	Troszczył się o klientów. 
+pr-br	Ele se preocupava muito com os seus clientes. 
+pr	Preocupava-se mesmo com os clientes. 
+ro	Chiar ținea la clienții lui. 
+sp-eu	Le importaban sus clientes. 
+sp	Le importaban mucho sus clientes. 
+sv	Han brydde sig om sina klienter. 
+th	เขาแคร์คนที่เขาดูแลจริงจัง | 
+tr	Temsil ettiği sanatçıları çok önemserdi. 
+vi	Anh ta thực sự chu đáo với khách hàng. | 
+zh-long	他對他的藝人真的盡心盡力 
+zh-short	他真正关心自己的客户 
+el	Νοιαζόταν πολύ για τους πελάτες του. 
+ja	心からタレントのことを思い | “家族”になる | 
+id	Seperti keluarganya. Dia selalu bersama mereka. 
+ru	Они ему были как родные. Он всегда был с ними. 
+ko	가족처럼 대한 거예요 | 늘 함께했죠 | 
+ar	&rlm;‏جعلهم عائلته. كان معهم دوماً.‏ | 
+da	Han gjorde dem til sin familie og var altid hos dem. 
+en	He made them his family. | He was with them all the time. | 
+fi	Hän piti heitä perheenään ja oli aina rinnalla. 
+fr	C'était sa famille. Il était toujours là pour eux. 
+he	&rlm;‏‏הוא הפך אותם לבני משפחתו. | &rlm;‏הוא היה איתם תמיד.‏ | 
+it	Erano la sua famiglia. Stava sempre con loro. 
+nl	Ze waren als familie voor hem. Hij was er altijd. 
+pl	Byli dla niego jak rodzina. Spędzał z nimi czas. 
+pr-br	Ele fazia deles a sua família. Estava sempre com eles. 
+pr	Fazia deles a sua família. Estava sempre com eles. 
+ro	Erau familia lui. Era cu ei mereu. 
+sp	Eran como su familia. Siempre estaba con ellos. 
+sp-eu	Los convertía en su familia. Siempre los acompañaba. 
+sv	De blev hans familj. Han var med dem jämt. 
+tr	Onları aileden biri gibi görürdü. Hep yanlarındaydı. 
+vi	Anh ta xem họ như người nhà. | Luôn ở bên họ. | 
+zh-long	把他們當成家人，隨侍左右 
+zh-short	把客户当成家人 一直支持他们 
+th	เขาทำให้ทุกคนเป็นคนในครอบครัว | เขาจะอยู่ด้วยเสมอ | 
+no	Gjorde dem til familien sin, var alltid med dem. 
+el	Τους θεωρούσε οικογένειά του και ήταν συνεχώς μαζί τους. 
+
+es	tomara esa decisión. 
+fi	ja hänen päätökseensä. | 
+pt-br	as decisões dele. 
+uk	його рішення. 
+cs	na jeho rozhodnutí. 
+da	…hans beslutning. | 
+el	και την απόφασή του. 
+en	his decision. 
+es-eu	y a lo que hizo. 
+fr	entraîné son geste. 
+he	‫ועל ההחלטה שלו.‬ | 
+hr	njegovu odluku. 
+hu	a döntését. 
+id	dan keputusannya. 
+it	la sua decisione. 
+ja	&lrm;追い込んだ | 
+ko	&lrm;영향을 미쳤어 | 
+ms	keputusannya. 
+nl	…beïnvloedde. 
+no	…hans avgjørelse. 
+pt	… a decisão dele. 
+ro	decizia aia. 
+ru	это решение. 
+sv	…hans beslut. 
+th	&lrm;การตัดสินใจของเขา | 
+tr	…bir şey. 
+vi	&lrm;quyết định của nó. | 
+zh-long	和他的決定 
+zh-short	他的决定 
+

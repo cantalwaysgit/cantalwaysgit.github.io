@@ -1,0 +1,25 @@
+en	[chuckles] Later, dawg. | 
+ar	&rlm;‏أراك لاحقاً يا صديقي.‏ | 
+da	Ses, makker. 
+el	Τα λέμε, φίλε. 
+fi	Nähdään. 
+fr	À plus, mec. 
+he	&rlm;‏להתראות, אחי.‏ | 
+it	Ci vediamo. 
+no	Ses. 
+pr	Até logo. 
+pr-br	Até mais, mano. 
+ro	Pa, barosane! 
+sp-eu	Hasta luego, colega. 
+sp	Hasta luego, amigo. 
+th	เจอกันนะ เพื่อน | 
+tr	Görüşürüz moruk. 
+vi	Tạm biệt. | 
+zh-long	掰啦 
+zh-short	回见 朋友 
+sv	-Vi hörs, polarn. -Ja. Det fattar du. 
+id	Sampai jumpa, Bung. 
+ru	Пока, чувак. 
+ko	잘 지내요, 샌디 | 
+pl	Narka. 
+

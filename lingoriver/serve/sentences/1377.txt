@@ -1,0 +1,27 @@
+ru	Через год будешь. CBS видит, что твои шутки смешные. 
+ja	これで君の才能が証明された | 
+id	Tahun depan giliranmu. CBS tahu leluconmu jenaka sekarang. 
+pl	W przyszłym roku będziesz. CBS zrozumie, że dobrze piszesz. 
+ar	&rlm;‏‏سيكون الأمر هكذا السنة القادمة. | &rlm;‏ترى محطة "سي بي إس" نكاتك مضحكة الآن.‏ | 
+da	Det er det næste år. CBS synes, dine vittigheder virker nu. 
+el	Θα είσαι του χρόνου. Το CBS βλέπει ότι τα αστεία σου έχουν επιτυχία. 
+en	Next year, it will be. | CBS sees your jokes work now. | 
+fi	Ensi vuonna oletkin. CBS näkee, että vitsisi toimivat. 
+fr	L'an prochain. CBS voit que ton humour fonctionne, là. 
+he	&rlm;‏‏בשנה הבאה זה תהיה אתה. | &rlm;‏סי-בי-אס רואים עכשיו שהבדיחות שלך עובדות.‏ | 
+it	L'anno prossimo ci sarai tu. Ora alla CBS sanno che le tue battute funzionano. 
+nl	Volgend jaar sta je er. CBS ziet nu dat jouw grappen werken. 
+no	Neste år blir det det. CBS ser vitsene dine slå an nå. 
+pr-br	Estará no ano que vem. CBS agora vê que as suas piadas são boas. 
+pr	Para o ano, és tu. A CBS vê agora as tuas piadas a resultar. 
+ro	Vei fi la anul. CBS îți va auzi bancurile acum. 
+sp-eu	El año que viene serás tú. Ahora la CBS ve que tus chistes funcionan. 
+sp	Será el año que viene. CBS ve cómo funcionan tus chistes ahora. 
+sv	Nästa år är det du. CBS ser att dina skämt funkar. 
+th	ปีหน้าก็จะเป็น | ตอนนี้ซีบีเอสมองเห็นมุกของนายแล้ว | 
+tr	Gelecek yıl sen olacaksın. CBS şimdi esprilerini görecek. 
+vi	Sang năm, sẽ là anh. | CBS biết là trò của anh hay. | 
+zh-long	明年就換你了 CBS會發現你的笑話好笑 
+zh-short	明年就是你了 哥伦比亚公司现在知道你的厉害了 
+ko	내년엔 올라갈 거야 | CBS에도 이제 먹히니까 | 
+

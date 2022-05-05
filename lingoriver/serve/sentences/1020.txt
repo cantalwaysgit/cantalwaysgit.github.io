@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- أحان وقت الذهاب؟ | &rlm;‏- أريد رؤية "جونزي".‏ | 
+da	-Tid til at gå? -Jeg vil møde Jonesy. 
+el	-Ώρα να φύγουμε; -Θέλω να δω τον Τζόουνζι. 
+en	-Time to go? | -I wanna see Jonesy. | 
+fi	-Eiköhän lähdetä? -Haluan tavata Jonesyn. 
+fr	- On s'en va ? - Je veux voir Jonesy. 
+he	&rlm;‏‏הגיע הזמן ללכת? | &rlm;‏-אני רוצה לראות את ג'ונסי.‏ | 
+it	- Vogliamo andare? - Voglio conoscere Jonesy. 
+nl	Zullen we gaan? -Ik wil Jonesy zien. 
+no	-Skal vi gå? -Jeg vil treffe Jonesy. 
+pl	- Wracamy? - Chcę poznać Jonesy'ego. 
+pr-br	-Está na hora de ir embora? -Quero ver Jonesy. 
+pr	- Está na hora de ir embora? - Quero ver o Jonesy. 
+ro	- Plecăm? - Vreau să-l văd pe Jonesy. 
+sp-eu	- ¿Nos vamos? - Quiero ver a Jonesy. 
+sp	- ¿Nos vamos? - Quiero ver a Jonesy. 
+sv	-Dags att dra? -Jag vill träffa Jonesy. 
+th	- ได้เวลากลับหรือยัง | - ฉันอยากเจอโจนซี่ | 
+tr	-Gitme vakti geldi mi? -Jonesy'yi görmek istiyorum. 
+vi	- Về được chưa? | - Tôi muốn gặp Jonesy. | 
+zh-long	-該走了吧？ -我想見瓊斯兄 
+zh-short	-要走吗？ -我想见见琼斯 
+ru	-Пойдем? -Я хочу увидеть Джонси. 
+id	- Saatnya pergi? - Aku mau bertemu Jonesy. 
+ko	- 이제 갈까? | - 존지를 만나고 싶어요 | 
+ja	ジョンジーは？ | 
+

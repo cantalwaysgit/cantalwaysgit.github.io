@@ -1,0 +1,58 @@
+id	Bagus? 
+ru	Ну, как оно? 
+ja	好きかい？ | 
+ar	&rlm;‏هل أحدها جيد؟‏ | 
+da	Noget godt? 
+el	Έχει καμιά καλή; 
+en	Any good? | 
+fi	Onko se hyvä? 
+fr	C'est bien ? 
+he	&rlm;‏שווה משהו?‏ | 
+it	Le piace? 
+nl	Is het iets? 
+no	Noe bra? 
+pl	Coś dobrego? 
+pr-br	Achou algo bom? 
+pr	Vale alguma coisa? 
+ro	E bun? 
+sp-eu	¿Es bueno? 
+sp	¿Vale la pena? 
+sv	Nåt bra? 
+th	ดีไหม | 
+tr	İyi mi bari? 
+vi	Có gì hay ho không? | 
+zh-long	有好康的嗎？ 
+zh-short	有什么好的吗？ 
+ko	괜찮은 거 찾았어요? | 
+
+ja	&lrm;どうも | 
+cs	- Dobrý den. - Dobrý den. 
+da	-Goddag. | -Goddag. | 
+el	-Γεια σας. -Γεια σας. 
+en	-Hello. -Hello. 
+es-eu	- Hola. - Hola. 
+es	- Hola. - Hola. 
+fi	Hei. | -Hei. | 
+fr	- Bonjour. - Bonjour. 
+he	‫שלום.‬ | ‫-שלום.‬ | 
+hr	-Dobar dan. -Dobar dan. 
+hu	- Helló! - Helló! 
+id	- Halo. - Halo. 
+it	- Ciao. - Ciao. 
+ko	&lrm;- 안녕하세요 | &lrm;- 안녕하세요 | 
+nl	Hallo. -Hallo. 
+no	-Hallo. -Hallo. 
+pt-br	- Oi. - Oi. 
+pt	- Olá. - Olá. 
+ro	- Salut! - Bună! 
+ru	- Привет. - Привет. 
+sv	-Hej. -Hej. 
+th	&lrm;- หวัดดีค่ะ | &lrm;- หวัดดี | 
+tr	-Merhaba. -Merhaba. 
+uk	-Привіт. -Привіт. 
+vi	&lrm;- Xin chào. | &lrm;- Xin chào. | 
+zh-long	-妳好 -妳好 
+zh-short	-你好 -你好 
+ms	- Helo. - Helo. 
+ja	&lrm;こんにちは | 
+

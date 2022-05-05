@@ -1,0 +1,76 @@
+id	Entahlah. 
+ja	なぜかしら | 
+ar	&rlm;‏لا أدري.‏ | 
+da	Det ved jeg ikke. 
+en	I don't know. | 
+fi	En tiedä. 
+fr	Je sais pas. 
+he	&rlm;‏אני לא יודעת.‏ | 
+it	Non lo so. 
+ko	글쎄요 | 
+no	Jeg vet ikke. 
+pr-br	Não sei. 
+pr	Não sei. 
+ro	Nu știu. 
+sp-eu	No lo sé. 
+sp	No lo sé. 
+vi	Tôi không biết. | 
+zh-long	不知道 
+nl	Ik weet het niet. Ik voel me pas leven wanneer ik zing. 
+ru	Не знаю. 
+th	ฉันไม่รู้ | 
+zh-short	我不知道 
+tr	Bilmem. 
+el	Δεν ξέρω. 
+pl	Nie wiem. 
+sv	Jag vet inte. Jag känner mig bara  riktigt levande när jag sjunger. 
+ja	歌ってる時は気分がいいの | 
+ar	&rlm;‏أشعر بأنني حية عندما أغني وحسب.‏ | 
+da	Jeg føler mig i live, når jeg synger. 
+el	Μόνο όταν τραγουδάω νιώθω πραγματικά ζωντανή. 
+en	The only time I really feel alive | is when I'm singing. | 
+fi	Tunnen eläväni vain laulaessani. 
+fr	Je ne me sens vivre que quand je chante. 
+he	&rlm;‏אני מרגישה בחיים רק כשאני שרה.‏ | 
+id	Aku hanya merasa hidup saat sedang bernyanyi. 
+it	Mi sento viva soltanto quando canto. 
+ko	노래를 부를 때 | 진짜 살아있는 기분이 들거든요 | 
+no	Jeg føler meg bare levende når jeg synger. 
+pl	Tylko kiedy śpiewam, czuję, że naprawdę żyję. 
+pr-br	Só me sinto viva quando estou cantando. 
+pr	Só me sinto realmente viva quando estou a cantar. 
+ro	Simt că trăiesc numai când cânt. 
+ru	Когда я пою, то чувствую себя живой. 
+sp-eu	Solo me siento viva cuando canto. 
+sp	Solo me siento viva cuando canto. 
+th	แค่รู้สึกมีชีวิตชีวาตอนที่ร้องเพลง | 
+tr	Sadece şarkı söylerken gerçekten yaşadığımı hissediyorum. 
+vi	Chỉ khi hát tôi mới thấy mình đang sống. | 
+zh-long	只有在唱歌時 我才有活著的感覺 
+zh-short	只有唱歌时我才觉得自己真正活着 
+
+pt-br	Claro. 
+da	Selvfølgelig. | 
+el	Φυσικά. 
+en	Of course. 
+es-eu	Claro. 
+he	‫כמובן.‬ | 
+hr	Naravno. 
+id	Tentu. 
+it	Certo. 
+ko	&lrm;물론이죠 | 
+ms	Mestilah. 
+no	Selvsagt. 
+pt	Claro. 
+ru	Конечно. 
+th	&lrm;รู้ครับ | 
+tr	Tabii. 
+uk	Звісно. 
+zh-long	當然 
+zh-short	当然 
+hu	Persze. 
+es	Por supuesto. 
+cs	Samozřejmě. 
+ja	&lrm;知ってます | 
+ro	Sigur că da. 
+

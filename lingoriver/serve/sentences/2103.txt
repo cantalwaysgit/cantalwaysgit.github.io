@@ -1,0 +1,25 @@
+da	Alt er så grønt 
+id	Segala yang diizinkan tayangan 
+ru	Если публика позволяет 
+sv	Allt som trafiken tillåter 
+ar	&rlm;‏كل شيء يسمح به ذاك الزحام‏ | 
+el	Όλα όσα θα επιτρέψει η κίνηση 
+en	♪ Everything that traffic will allow ♪ | 
+fi	Siinä kaikki sallitaan 
+fr	Tant que ça ne bouchonne pas 
+he	&rlm;‏כל מה שהתנועה תרשה‏ | 
+it	Tutto ciò che il traffico permetterà 
+ko	모든 게 탄탄대로야 | 
+pl	Absolutnie wszystko 
+pr-br	Tudo que o trânsito permitir 
+pr	Tudo o que o trânsito permite 
+ro	Oriunde vei ajunge 
+sp-eu	Todo lo que el tráfico permita 
+sp	Todo está permitido 
+th	ทุกอย่างที่การจราจรจะอนุญาต | 
+tr	Trafiğin izin verdiği her şey 
+vi	Mọi thứ mà giao thông cho phép | 
+zh-long	一切如此百無禁忌 
+zh-short	众人追捧 
+ja	どんな交渉も可能 | 
+

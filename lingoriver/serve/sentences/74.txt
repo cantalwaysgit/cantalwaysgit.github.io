@@ -1,0 +1,32 @@
+en	[laughing] | 
+
+it	È molto gentile da parte vostra. 
+hu	Ez nagyon kedves tőletek. 
+es	Es muy amable de su parte. 
+ms	Kamu sangat baik hati. 
+cs	To je od vás moc hezké. 
+da	Det er virkelig pænt af jer. | 
+el	Είναι πολύ ευγενικό εκ μέρους σας. 
+en	This is really very nice of you. 
+es-eu	Sois muy amables. 
+fi	Tämä on todella huomaavaista. | 
+fr	C'est vraiment très gentil de votre part. 
+he	‫זה ממש נחמד מצדכם.‬ | 
+hr	To je vrlo lijepo od vas. Zbilja. 
+id	Kalian baik sekali. 
+ja	&lrm;みんな　本当にありがとう | 
+ko	&lrm;고맙구나 | 
+nl	Dit is heel aardig van jullie. 
+no	Det er veldig snilt av dere. 
+pt-br	É muito legal da parte de vocês. 
+pt	É muito simpático da vossa parte. 
+ro	Drăguț din partea voastră! 
+ru	Вы такие молодцы… 
+sv	Det är väldigt snällt av er. 
+th	&lrm;พวกเธอน่ารักมากจ้ะ | 
+tr	Gerçekten çok düşüncelisiniz. 
+uk	Це дуже люб'язно з вашого боку. 
+vi	&lrm;Các cháu thật tốt. | 
+zh-long	你們真的太好心了 
+zh-short	你们费心了 
+

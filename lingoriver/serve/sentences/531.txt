@@ -1,0 +1,28 @@
+ja	全然 止まらなくて | ひたすら しゃっくりしてた | 
+ru	Да он не просто икал. 
+id	Ceguknya bukan sekadar ceguk, tapi ceguk hebat. 
+en	Well, listen, | he didn't just have the hiccups, | 
+ko	그냥 딸꾹질한 게 아니라 | 
+ar	&rlm;‏اسمعي، لم تصبه الحازوقات وحسب،‏ | 
+da	Han ikke bare hikkede, 
+el	Δεν είχε απλώς λόξυγγα. 
+fi	Se ei ollut mikään tavallinen hikka. 
+fr	C'était plus que ça, 
+he	&rlm;‏תקשיבי, לא היו לו רק שיהוקים,‏ | &rlm;אלא שיהוקים של ממש, | 
+it	Non solo gli veniva il singhiozzo, 
+no	Ikke bare hadde han hikke, 
+pl	To nie była zwykła czkawka. 
+pr-br	Ele não tinha apenas soluços, 
+pr	Ele não teve só soluços, 
+ro	Nu era orice sughiț. 
+sp-eu	No solo tenía hipo, 
+th	ฟังนะ เขาไม่ได้แค่สะอึก | 
+tr	Hıçkırık tutmakla kalmamıştı, 
+vi	Này, cậu ta không chỉ bị nấc, | 
+zh-long	拜託，他不只打嗝 
+zh-short	听着 他不仅打嗝 
+nl	Hij had niet gewoon de hik, hij ging maar door. 
+sp	Cuando le daba hipo, era en serio. No paraba. 
+sv	Det var inte bara så att han hickade... Han slutade aldrig hicka. 
+en	-he had the hiccups. | -[both chuckle] | 
+

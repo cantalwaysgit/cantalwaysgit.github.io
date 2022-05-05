@@ -1,0 +1,29 @@
+ja	すばらしい | 
+ru	Потрясающе. 
+nl	Ongelooflijk. 
+ar	&rlm;‏‏- هذا مذهل. | &rlm;‏- صحيح؟‏ | 
+da	-Det er fantastisk. -Ja, ikke? 
+el	-Είναι εκπληκτικό. -Δεν είναι; 
+en	-[Sandy] That's amazing. | -[Courtney] Right? | 
+fi	-Upeaa. -Eikö olekin? 
+fr	- C'est extra. - Pas vrai ? 
+he	&rlm;‏‏זה מדהים. | &rlm;‏-נכון?‏ | 
+it	- Straordinario. - Vero? 
+ko	- 정말 멋지네 | - 그렇죠? | 
+no	-Det er fantastisk. -Ikke sant? 
+pl	- Niezwykłe. - Prawda? 
+pr-br	-É incrível. -Não é? 
+pr	- É incrível. - Não é? 
+ro	- E grozav. - Nu-i așa? 
+sp	- Es increíble. - ¿Cierto? 
+sp-eu	- Es increíble. - ¿Verdad? 
+sv	-Det är fantastiskt. -Eller hur? 
+th	- นั่นมหัศจรรย์จัง | - ใช่ไหม | 
+tr	-Müthiş. -Değil mi? 
+vi	- Tuyệt quá. | - Đúng vậy nhỉ? | 
+zh-long	-太棒了 -是吧？ 
+zh-short	-太美了 -是吧？ 
+id	- Menakjubkan. - Benar? 
+ja	でしょ？ | 
+ru	Правда? 
+

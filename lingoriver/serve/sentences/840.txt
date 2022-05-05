@@ -1,0 +1,27 @@
+id	Jangan bertanya "siapa itu". 
+ru	Вот не надо мне этого. 
+ja	知らないフリか？ | ファルースだよ | 
+ar	&rlm;‏لا تقل "من أنت" يا رجل.‏ | 
+da	Drop det der "hvem er det". 
+el	Μη μου λες εμένα "ποιος είναι". 
+en	Don't "who's that" me, man. | 
+fi	Älä kysele. 
+fr	Tu sais très bien. 
+he	&rlm;‏אל תגיד לי "מי זה", בנאדם.‏ | 
+it	Non chiedermi chi sono. 
+pl	Nie tym tonem. 
+pr-br	Não me pergunte quem sou, cara. 
+pr	Não me venhas com essa. 
+ro	Nu mă lua cu "cine e acolo"! 
+sp	A mí no me digas: "¿Quién es?". 
+sp-eu	No me vengas con esas, tío. 
+th	อย่ามา "นั่นใคร" กับฉันนะ | 
+tr	"Kim o?" deme bana. 
+vi	Đừng hỏi tôi "ai vậy." | 
+zh-long	還敢問我是誰 
+zh-short	别问我“是谁” 老兄 
+nl	Zeg dat niet tegen mij. Waarom belazer je Firuz? 
+no	Ikke spør hvem det er. Hvorfor kødder du med Firuz? 
+sv	Säg inte "vem är det" till mig. Varför lurar du Firuz? 
+ko	누구냐니? | 
+

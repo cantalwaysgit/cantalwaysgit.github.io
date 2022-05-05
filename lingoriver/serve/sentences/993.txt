@@ -1,0 +1,23 @@
+id	Sandy. 
+ja	サンディじゃないか | 
+ru	Сэнди! 
+ar	&rlm;‏"ساندي".‏ | 
+el	Σάντι, Σάντι, Σάντι. 
+en	Sandy, Sandy, Sandy. | 
+he	&rlm;‏סנדי, סנדי, סנדי... | 
+it	Sandy. 
+ko	샌디 | 
+no	Sandy, Sandy. 
+pl	Sandy. 
+pr-br	Sandy. 
+pr	Sandy. 
+ro	Sandy! 
+sp-eu	Sandy. 
+sp	Sandy. 
+sv	Sandy. 
+th	แซนดี้ๆ | 
+tr	Sandy. 
+vi	Sandy. | 
+zh-long	山迪… 
+zh-short	桑迪 
+

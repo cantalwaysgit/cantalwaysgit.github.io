@@ -1,0 +1,76 @@
+ja	心から君を思ってる　家族だ | 
+pl	Bo wiesz, że cię kocham. Jesteś jak rodzina. 
+id	Karena kau tahu aku menyayangimu dan aku keluargamu. 
+ar	&rlm;‏لأنك تعرف أنني أحبك وأنني عائلتك.‏ | 
+da	Fordi du ved, jeg elsker dig, og jeg er din familie. 
+el	Γιατί ξέρεις ότι σε αγαπάω κι είμαι η οικογένειά σου. 
+en	Because you know I love ya | and I'm your family. | 
+fi	Tiedät, että tykkään sinusta, ja olen perhettäsi. 
+fr	Parce que tu sais que je t'aime et que tu es de la famille. 
+he	&rlm;‏‏כי אתה יודע שאני אוהב אותך | &rlm;‏ושאני המשפחה שלך.‏ | 
+it	Perché sai che ti voglio bene e che sono la tua famiglia. 
+ko	난 널 사랑하는 가족이니까 | 
+nl	Omdat ik van je hou en ik je familie ben. 
+no	For du vet jeg er glad i deg, og jeg er familien din. 
+pr-br	Porque eu amo você e sou a sua família. 
+pr	Porque sabes que te adoro e sou a tua família. 
+ro	Fiindcă știi că te iubesc și ești din familia mea. 
+sp-eu	Porque sabes que te quiero y soy tu familia. 
+sp	Porque sabes que te quiero, y soy como de tu familia. 
+sv	Du vet att jag älskar dig. Du är min familj. 
+th	เพราะนายรู้ว่าฉันรักนาย | และฉันเป็นครอบครัวของนาย | 
+tr	Çünkü seni sevdiğimi ve aileden biri olduğumu biliyorsun. 
+vi	Vì anh biết tôi yêu anh | và tôi là người nhà của anh. | 
+zh-long	你知道我愛你，我是你的家人 
+zh-short	因为你知道我爱你 是你的家人 
+ru	Потому что я тебя люблю, и ты мне как родной. 
+ar	&rlm;‏حسناً، حظاً موفقاً.‏ | 
+da	Held og lykke. 
+el	Εντάξει, καλή τύχη. 
+en	All right, good luck. | 
+fi	Lykkyä tykö. 
+fr	Allez, bonne chance. 
+he	&rlm;‏בסדר. בהצלחה.‏ | 
+it	Ci siamo, buona fortuna. 
+ko	좋아, 잘해 봐 | 
+no	Ja vel, lykke til. 
+pl	Powodzenia. 
+pr-br	Está bem, boa sorte. 
+pr	Pronto, boa sorte. 
+ro	Bine. Baftă! 
+sp	Buena suerte. 
+sp-eu	Está bien, buena suerte. 
+sv	Lycka till. 
+th	เอาละ โชคดีนะ | 
+tr	Pekâlâ, iyi şanslar. 
+vi	Được rồi, chúc may mắn. | 
+zh-long	好啦，祝你好運 
+zh-short	好了 祝你好运 
+id	Semoga berhasil. 
+ja	さあ 行ってこい | 
+ru	Ну, удачи. Давай, иди! 
+id	Bersenang-senanglah. Ayo! 
+ar	&rlm;‏اذهب إلى هناك!‏ | 
+da	Ud med dig! 
+el	Πήγαινε! 
+en	Get out there! | 
+fi	Ala painua! 
+fr	Vas-y ! 
+he	&rlm;‏צא לשם!‏ | 
+it	Vai! 
+ko	나가 봐! | 
+nl	Ga op. 
+no	Kom deg ut dit! 
+pl	Idź! 
+pr-br	Dê o fora daqui! 
+pr	Vai para ali! 
+ro	Du-te acolo! 
+sp-eu	¡Sal ahí! 
+sp	¡Ve allí afuera! 
+sv	Ut med dig! 
+th	ออกไปเลย | 
+tr	Çık oraya! 
+vi	Ra đó đi! | 
+zh-long	上去給他好看！ 
+zh-short	去吧！ 
+

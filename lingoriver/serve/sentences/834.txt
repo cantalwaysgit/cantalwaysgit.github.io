@@ -1,0 +1,28 @@
+ja	君はまた今度 | 君たち全員 大好きだよ | 
+id	Bukan kalian. Kalian luar biasa. Aku menyayangi kalian, paham? 
+en	And... and it's not you guys. | You're doing great. | 
+ar	&rlm;‏ليس أنتم. تحسنون العمل. أحبكم، مفهوم؟‏ | 
+da	Det er ikke jeres skyld. I klarer det fint. Jeg elsker jer. 
+el	Δε φταίτε εσείς, παιδιά. Τα πάτε περίφημα. Σας αγαπώ. 
+fi	Vika ei ole teissä. Olette upeita. 
+fr	C'est pas contre vous. Vous êtes super. Je vous aime, les gars. 
+he	&rlm;‏‏זה לא אתם, חבר'ה. אתם נהדרים. | &rlm;‏אני אוהב אתכם, בסדר?‏ | 
+it	Non è colpa vostra. Andate alla grande. Vi voglio bene, capito? 
+ko	너희 탓이 아니야 | 다들 잘하고 있어, 사랑해 | 
+nl	Het ligt niet aan jullie. Ik hou van jullie. 
+no	Det er ikke deres skyld. Dere er flotte. Glad i dere. 
+pl	To nie wasza wina. Jesteście wspaniali. Kocham was. 
+pr	A culpa não é vossa. Estão ótimos. Adoro-vos, está bem? 
+pr-br	Não são vocês. Estão indo bem. Eu amo vocês. 
+ro	Nu e vina voastră. Voi sunteți minunate. Vă iubesc pe toate, da? 
+sp-eu	No sois vosotras. Sois geniales. Os quiero, ¿vale? 
+sp	No es su culpa, chicos. Ustedes están bien. Los quiero. 
+sv	Det är inte ert fel. Ni sköter er bra. Jag älskar er. 
+th	ไม่ใช่พวกนาย พวกนายเจ๋ง | ฉันรักพวกนาย เข้าใจนะ | 
+tr	Sizin suçunuz değil. Siz harikasınız. Sizi seviyorum, tamam mı? 
+vi	Không phải chúng mày. Mày ngoan lắm. | Tao yêu chúng mày, được chứ? | 
+zh-long	不是你們，你們好棒棒 我愛你們 
+zh-short	不是说你们 你们干得很棒 我爱你们 好吗？ 
+ru	Дело не в вас. Вы молодцы. Я вас всех люблю. 
+en	I love you guys. | I love you guys, all right? | 
+

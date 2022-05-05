@@ -1,0 +1,28 @@
+en	-[execs chuckling] | -Oh. Well, no, | 
+ja	彼女には | 相当の商業価値がある | 
+id	Dalam hal suara dan komersialitas, sudah pasti. 
+ar	&rlm;‏‏فيما يتعلق بالصوت | &rlm;‏والقابلية للتسويق، بالتأكيد.‏ | 
+da	Hvad angår lyd og salgbarhed, absolut. 
+el	Όσον αφορά τον ήχο και την εμπορικότητα, απολύτως. 
+fi	Soundin ja kaupallisuuden puolesta ehdottomasti. 
+fr	Non, je ne parle pas du succès commercial. 
+he	&rlm;‏מבחינת סאונד ויכולת למכור, בהחלט.‏ | 
+it	In termini di suono e di potenzialità commerciali 
+ko	목소리나 상업성을 따지자면 | 당연히 가능해 | 
+nl	Qua geluid en commercieel gezien, absoluut. 
+no	Når det gjelder lyd og salgbarhet, absolutt. 
+pl	Jeśli chodzi o skalę głosu i sprzedaż, to tak. 
+pr-br	Em relação à música e comercialidade, com certeza. 
+pr	Em termos de som e valor comercial, sem dúvida. 
+ro	În ceea ce privește muzica și vânzările, sigur. 
+sp	En cuanto al sonido y comerciabilidad, claro que sí. 
+sp-eu	En cuestión de sonido y comercial, desde luego. 
+th	ในแง่ของเสียงและความขายได้ แน่นอน | 
+tr	Ses ve satış olanakları açısından, kesinlikle. 
+vi	Tất nhiên là về mặt âm thanh | và tính chất thương mại. | 
+zh-long	以聲音和賣點而言，無庸置疑 
+zh-short	在声音和商业性方面 绝对是 
+sv	När det gäller ljud och kommersiellitet  är det definitivt Whitney, till 100 %. 
+ru	Если говорить о звуке и коммерческом успехе - да. 
+en	in terms of sound | and commerciability, absolutely. | 
+

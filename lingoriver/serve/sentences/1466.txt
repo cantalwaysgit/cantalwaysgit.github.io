@@ -1,0 +1,26 @@
+ru	Что ты хотел? 
+ja	用件は何だ？ | 
+id	Kenapa kau menelepon? 
+ar	&rlm;‏لماذا تتصل بي؟‏ | 
+da	Hvorfor ringer du? 
+el	Γιατί με κάλεσες; 
+en	What are you calling for? | 
+fi	Miksi soitit? 
+fr	Que puis-je pour toi ? 
+he	&rlm;‏למה אתה מתקשר?‏ | 
+it	Perché mi hai chiamato? 
+ko	무슨 일로 전화한 거야? | 
+no	Hvorfor ringer du? 
+pl	Czemu dzwonisz? 
+pr-br	Por que está ligando? 
+pr	Porque estás a ligar? 
+ro	De ce mă suni? 
+sp-eu	¿Por qué me llamas? 
+sp	¿Por qué llamas? 
+sv	Varför ringer du? 
+th	ทำไมถึงโทรมาล่ะ | 
+tr	Neden aramıştın? 
+vi	Cậu gọi có chuyện gì thế? | 
+zh-long	找我有什麼事嗎？ 
+zh-short	你怎么打电话来了？ 
+

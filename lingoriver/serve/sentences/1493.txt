@@ -1,0 +1,27 @@
+ar	&rlm;‏هذا صحيح. نامي وحسب.‏ | 
+da	Sådan. Bare sove. 
+el	Αυτό ακριβώς. Κοιμήσου. 
+en	That's right. Just sleep. Sleep, sleep. | 
+fr	Voilà. Dors. 
+he	&rlm;‏בדיוק כך. רק לישון.‏ | 
+it	Bene. Adesso dormi. 
+nl	Zo, ja. Ga maar slapen. 
+pr-br	Certo. Durma. 
+pr	Isso mesmo. Dorme. 
+ro	Așa. Dormi liniștită. 
+sp	Así. Solo duerme. 
+sp-eu	Eso es. A dormir. 
+sv	Så där ja. Sov du. 
+tr	İşte böyle. Sadece uyu. Uyu. 
+vi	Được rồi. Cứ ngủ đi. | 
+zh-long	很好，睡吧 
+zh-short	行了 好好睡吧 
+ja	よし　ゆっくり眠って | 
+no	Det stemmer. Bare sov. 
+fi	Nuku sinä vain. 
+id	Benar. Tidurlah. 
+ru	Вот так. Ну спи. 
+pl	Właśnie tak. Śpij sobie. 
+th	นั่นอย่างนั้น แค่หลับๆ | 
+ko	그래, 그냥 푹 자 | 
+

@@ -1,0 +1,21 @@
+ar	&rlm;‏نداء.‏ | 
+da	Bip. 
+el	Μπιπ. 
+en	Beep. | 
+fi	Piippaa. 
+he	&rlm;‏ביפ.‏ | 
+it	Bip. 
+pr-br	Bipe. 
+ro	Bip. 
+sp	Bip. 
+sp-eu	Bip. 
+sv	Pip. 
+th	เพจตอนนี้เลย | 
+tr	Bip. 
+zh-long	保重 
+zh-short	哔 
+id	Sayang. 
+ja	鳴ってる | 
+pl	Dryń. 
+no	Pip. 
+

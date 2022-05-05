@@ -1,0 +1,26 @@
+id	Baiklah. Mari kita lakukan. 
+ru	Ну давай. 
+ja	よし 行こう | 
+ar	&rlm;‏لنقم بذلك.‏ | 
+da	Lad os gøre det. 
+el	Πάμε να το κάνουμε. 
+en	All right. Let's get that done. | 
+fi	Mennään sitten. 
+fr	Ça marche. 
+he	&rlm;‏בואי נעשה את זה.‏ | 
+it	Non c'è problema. 
+ko	그러지 뭐 | 
+no	Da gjør vi det. 
+pl	Dobra. 
+pr-br	Vamos resolver logo isso. 
+pr	Vamos tratar disso. 
+ro	S-o facem și pe asta! 
+sp-eu	Vamos a resolver eso. 
+sp	Hagámoslo. 
+sv	Då gör vi det. 
+th	งั้นก็ไปกันเลย | 
+tr	Hadi görelim. 
+vi	Vậy thì gặp. | 
+zh-long	那就去見吧 
+zh-short	我们这就去见他 
+

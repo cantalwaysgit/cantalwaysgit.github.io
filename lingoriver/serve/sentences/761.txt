@@ -1,0 +1,26 @@
+ar	&rlm;‏"حلمت حلماً الليلة الماضية‏ | 
+da	I nat drømte jeg 
+el	Χθες το βράδυ ονειρεύτηκα 
+en	♪ Last night I had a dream ♪ | 
+fi	Viime yönä unta näin 
+fr	Cette nuit, j'ai fait un rêve 
+he	&rlm;‏אמש חלמתי חלום‏ | 
+id	Tadi malam aku bermimpi 
+it	Stanotte ho fatto un sogno 
+ko	어젯밤 꿈을 꿨어 | 
+nl	vannacht had ik een droom 
+pl	Ostatniej nocy śniłam że 
+pr	A noite passada tive um sonho 
+pr-br	Ontem à noite eu tive um sonho 
+ro	Aseară am visat ceva 
+sp	Anoche soñé 
+sp-eu	Anoche tuve un sueño 
+sv	Igår hade jag en dröm 
+th	เมื่อคืนฉันฝันถึง | 
+tr	Dün gece bir rüya gördüm 
+vi	Tối qua em có một giấc mơ | 
+zh-long	昨晚我做了個夢 
+zh-short	我昨晚做了个梦 
+ja	17歳の頃の | 　　懐かしい夢を見たの | 
+ru	Вчера мне снился сон 
+

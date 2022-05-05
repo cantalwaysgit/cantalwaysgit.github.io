@@ -1,0 +1,25 @@
+da	Fortsætter du resten af sæsonen 
+id	Mari lanjutkan acaranya 
+ru	Продолжаем шоу! 
+sv	Vi fortsätter föreställningen 
+ar	&rlm;‏لنتابع العرض"‏ | 
+el	Ας συνεχίσουμε την παράσταση 
+en	♪ Let's go on with the show ♪ | 
+fi	Ja aina jatkuu show 
+fr	Que le spectacle continue 
+he	&rlm;‏הבה נמשיך במופע‏ | 
+it	Andiamo avanti con lo show 
+ko	계속해서 쇼를 하자 | 
+pl	Niech przedstawienie dalej trwa 
+pr-br	Vamos prosseguir com o show 
+pr	Vamos prosseguir com o espetáculo 
+ro	Să continuăm cu spectacolul 
+sp	Continuemos con el show 
+sp-eu	Sigamos con el espectáculo 
+th	มาแสดงโชว์กันเถอะ | 
+tr	Haydi, şov devam etsin 
+vi	Hãy cùng tham gia biểu diễn | 
+zh-long	就讓表演繼續吧 
+zh-short	让我们继续表演事业吧 
+ja	さあ ショーを続けよう | 
+

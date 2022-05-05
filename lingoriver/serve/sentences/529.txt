@@ -1,0 +1,26 @@
+ja	ブバチ！ | 
+ru	Бубаци! 
+id	Bubatzi! 
+ar	&rlm;‏"بوباتزي"!‏ | 
+da	Bubatzi! 
+el	Μπουμπάτσι! 
+en	Bubatzi! | 
+fi	Bubatzi! 
+fr	Bubatzi ! 
+he	&rlm;‏בבאצי!‏ | 
+it	Bubatzi! 
+ko	부바치! | 
+no	Bubatzi! 
+pl	Bubatzi! 
+pr-br	Bubatzi! 
+pr	Bubatzi! 
+ro	Bubatzi! 
+sp	¡Bubatzi! 
+sp-eu	¡Bubatzi! 
+sv	Bubatzi! 
+th	บูบาต์ซี่ | 
+tr	Bubatzi! 
+vi	Bubatzi! | 
+zh-long	布巴茲！ 
+zh-short	布巴兹！ 
+

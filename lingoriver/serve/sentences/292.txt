@@ -1,0 +1,57 @@
+id	Aku sudah mengatakannya? 
+ru	Я уже это говорил? 
+ar	&rlm;‏أقلت ذلك بالفعل؟‏ | 
+da	Har jeg allerede sagt det? 
+el	Το είπα ξανά; 
+en	I said that already? | 
+fi	Sanoinko sen jo? 
+fr	Je l'avais déjà dit ? 
+he	&rlm;‏כבר אמרתי את זה?‏ | 
+it	L'avevo già detta? 
+ko	이미 얘기했던가요? | 
+nl	Heb ik dat al gezegd? 
+no	Har jeg sagt det alt? 
+pl	Już tak mówiłem? 
+pr-br	Eu já tinha dito isso? 
+pr	Já tinha dito? 
+ro	Am zis-o deja? 
+sp-eu	¿Ya lo había dicho? 
+sp	¿Ya lo dije? 
+sv	Har jag redan använt den? 
+th	ผมพูดไปแล้วเหรอ | 
+tr	Daha önce söylemiş miydim? 
+vi	Tôi nói thế à? | 
+zh-long	我剛講過了？ 
+zh-short	我已经说过了吗？ 
+ja	もう言った？ | 
+
+es	Me voy, Gajos. Ya tuve suficiente. 
+it	Gajos, vado, ne ho abbastanza. 
+fi	Minä lähden. Minulle riittää. | 
+id	Gajos, aku pergi. Aku mau pulang. 
+cs	Gajosi, já jdu. Už mám dost. 
+da	Gajos, jeg går nu. Jeg har fået nok. | 
+el	Γκαγιός, φεύγω. Κουράστηκα. 
+en	Gajos, I'm leaving. I've had enough. 
+es-eu	Gajos, me voy. Ya me he cansado. 
+fr	Gajos, je m'en vais. J'en ai assez. 
+he	‫גאיוס, אני הולכת. נמאס לי.‬ | 
+hr	Gajose, odlazim. Dosta mi je. 
+hu	Gajos, én megyek. Elég volt. 
+ja	&lrm;ガヨス　私 もう帰る | 
+ko	&lrm;가요스, 난 갈게, 많이 마셨어 | 
+ms	Gajos, saya nak balik. Tak larat. 
+no	Gajos, jeg drar. Jeg har fått nok. 
+pt-br	Gajos, estou indo. Por hoje, chega. 
+pt	Gajos, vou-me embora. Estou farta. 
+ru	Гаёс, я пошла. Мне уже хватит. 
+th	&lrm;กาโยส ไปละนะ ฉันพอละ | 
+tr	Ben gidiyorum Gajos, yeter. 
+vi	&lrm;Gajos, em đi đây. Em uống đủ rồi. | 
+zh-long	賈耶斯，我要走了，我夠了 
+uk	-Гайосе, я піду. З мене годі. -Побудь ще. Я підвезу тебе додому. 
+nl	Gajos, ik ga. Ik heb er genoeg van. -Ik breng je naar huis. 
+sv	-Gajos, jag går nu. Jag har fått nog. -Stanna, så kör jag dig hem. 
+zh-short	加耶斯 我要走了 我受够了 
+ro	Gajos, plec. M-am săturat. 
+

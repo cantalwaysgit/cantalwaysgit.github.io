@@ -1,0 +1,21 @@
+pl	Pa, tato. 
+th	ไปก่อนค่ะพ่อ | 
+ar	&rlm;‏أبي. إلى اللقاء.‏ | 
+da	Far. Farvel. 
+el	Μπαμπά. Αντίο. 
+en	Dad. Bye. | 
+fr	Papa. À tout à l'heure. 
+he	&rlm;‏אבא. ביי.‏ | 
+it	Papà. Ciao. 
+nl	Pap. Dag. 
+no	Pappa. Ha det. 
+pr-br	Pai. Tchau. 
+pr	Pai. Adeus. 
+ro	Tată. Pa! 
+sp-eu	Papá. Adiós. 
+sv	Pappa. Hej då. 
+tr	Görüşürüz baba. 
+vi	Bố. Tạm biệt. | 
+zh-long	爸，再見 
+zh-short	爸爸 再见 
+

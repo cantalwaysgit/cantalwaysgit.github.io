@@ -1,0 +1,27 @@
+ko	태보 수업을 너무 | 격하게 들어서 그래, 괜찮아 | 
+pl	Nikt. Miałem intensywny trening tae-bo. Nic mi nie jest. 
+ru	Я был на тренировке по тай-бо. Всё в порядке. 
+tr	Tae Bo kursunda oldu. Sorun yok. 
+da	Det skete til Tae Bo. Det er okay. 
+ar	&rlm;‏هذا بسبب ضربة قوية في درس تايبو. لا بأس.‏ | 
+el	Το έπαθα στα μαθήματα τάι μπο. Δεν είναι τίποτα. 
+en	No, this was a high-impact | Tae Bo class I took. It's fine. | 
+fi	Olin rajulla tae bo -tunnilla. Ei hätää. 
+fr	Entraînement intensif de Tae Bo. C'est rien. 
+he	&rlm;‏זה היה שיעור טאי בו קשה במיוחד. זה בסדר.‏ | 
+it	Ho fatto un corso di Tae Bo a impatto elevato. Tutto a posto. 
+nl	Een intensieve Tae Bo-cursus. 
+no	Det er fra en Tae Bo-time. Det går bra. 
+pr-br	Foi uma aula forte de Tae Bo que eu fiz. Tudo bem. 
+pr	Isto foi numa aula de Tae Bo de alto impacto. Está tudo bem. 
+ro	Ceea ce vezi e urmarea unei lecții de Tae Bo. E-n regulă. 
+sp	Es de una clase de Tae Bo de alto impacto que tomé. Estoy bien. 
+sp-eu	Es por una clase de Tae Bo que he hecho. No pasa nada. 
+sv	Det var en närstrid på Tae Bo-kursen. Det är lugnt. 
+vi	Chỉ là buổi tập Tae Bo thôi mà. Không sao. | 
+zh-long	我在上高級拳擊有氧啦，沒事 
+zh-short	是我上韵律搏击课弄的 没什么事 
+id	Ini karena kelas  Tae Bo  intens yang kuikuti. Bukan masalah. 
+th	แค่ไทโบประชิดตัวแรงที่ผมไปเรียน | ไม่มีอะไร | 
+ja	高級スポーツクラブで | テコンドー･エクササイズを | 
+

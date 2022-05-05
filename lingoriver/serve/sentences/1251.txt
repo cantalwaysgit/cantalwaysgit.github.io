@@ -1,0 +1,28 @@
+ja	すべての時間と力を | 君のために使えないんだ | 
+ru	Не могу... 
+id	Aku tidak bisa berkomitmen penuh jika ada hal lain yang kupikirkan, 
+ar	&rlm;‏‏لا يمكنني أن ألتزم معك بالكامل | &rlm;‏إن كانت أمور أخرى تشغلني،‏ | 
+da	Jeg kan ikke hellige mig dig 100 procent, hvis jeg har andre ting at tænke på, 
+el	Δεν μπορώ να αφοσιωθώ σ' εσένα, αν έχω άλλα πράγματα στο μυαλό μου 
+en	I can't commit to you 100% | if I got other things on my mind, | 
+fi	En voi omistautua sinulle täysin, jos minulla on muuta ajateltavaa, 
+fr	Je peux pas m'investir à fond si je dois penser à autre chose, 
+he	&rlm;‏‏אני לא יכול להתמסר לך ב-100 אחוז | &rlm;‏אם יש לי דברים אחרים על הראש,‏ | 
+it	Non posso dedicarmi a te completamente se penso anche ad altro, 
+nl	Ik kan me niet 100% aan jou wijden als ik andere dingen aan m'n hoofd heb. 
+no	Jeg kan ikke gi deg 100 % hvis jeg har andre ting å tenke på, 
+pl	Nie mogę poświęcić się tobie w 100%, jeśli głowę zaprzątają mi inne rzeczy. 
+pr-br	Não posso me comprometer 100% com você se eu tiver outras coisas em mente, 
+pr	Não me posso comprometer a 100 % se tiver outras coisas em mente, 
+ro	Nu mă pot concentra pe deplin la tine dacă mai am și altele pe cap 
+sp-eu	No puedo comprometerme al 100 % contigo si tengo otras cosas en la cabeza. 
+sp	No puedo dedicarme 100 % si tengo otras cosas en la cabeza, 
+sv	Jag kan inte engagera mig i dig till 100 % om jag tänker på annat, 
+th	ผมให้คุณเต็มร้อยไม่ได้ | หากผมมีเรื่องอื่นในใจ | 
+tr	Aklımda diğer şeyler varken kendimi %100 sana veremiyorum. 
+vi	Tôi không thể tận tâm với cô | nếu còn phải lo việc khác, | 
+zh-long	我有其他事要煩惱 無法全心全意為妳付出 
+zh-short	如果我心有旁骛就没法专注在你身上 
+ko	다른 걸 신경 쓰면 | 너한테 100% 전념 못 해 | 
+ru	...на все сто быть с тобой, если у меня есть другие дела, 
+

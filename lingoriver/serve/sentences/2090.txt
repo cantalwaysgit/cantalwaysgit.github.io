@@ -1,0 +1,27 @@
+id	Sambutlah, untuk kali pertama... 
+ru	И я впервые представляю вам 
+ar	&rlm;‏‏رحبوا رجاءً، لأول مرة، بالسيد والسيدة | &rlm;‏"ساندي" و"كورتني ويكسلر".‏ | 
+da	For første gang nogensinde, byd Sandy og Courtney Wexler velkommen. 
+el	Υποδεχτείτε, για πρώτη φορά στα χρονικά, τον κύριο και την κυρία Γουέξλερ. 
+en	Please welcome, for the first time ever, | Mr. and Mrs. Sandy and Courtney Wexler. | 
+fi	Toivottakaa tervetulleiksi herra ja rouva Sandy ja Courtney Wexler. 
+fr	Veuillez accueillir, pour la 1re fois, Sandy et Courtney Wexler. 
+he	&rlm;‏‏בבקשה קבלו בברכה, בפעם הראשונה מעולם, | &rlm;‏מר וגברת סנדי וקורטני וקסלר.‏ | 
+it	Diamo il benvenuto, per la prima volta, ai signori Sandy e Courtney Wexler. 
+ko	열렬히 맞아주세요 | 샌디와 코트니 웩슬러 부부! | 
+nl	Verwelkom voor de allereerste keer: Mr en Mrs Sandy en Courtney Wexler. 
+no	En applaus for Mr. og Mrs. Sandy og Courtney Wexler. 
+pl	Powitajmy wszyscy państwa Sandy i Courtney Wexlerów. 
+pr-br	Deem as boas-vindas pela primeira vez ao Sr. Sandy e à Sra. Courtney Wexler. 
+pr	Deem as boas-vindas, pela primeira vez, aos Sr. e Sra. Sandy e Courtney Wexler. 
+ro	Aplaudați-i, pentru prima oară, pe dl și dna Sandy și Courtney Wexler. 
+sp	Denle la bienvenida, por primera vez, al Sr. y la Sra. Sandy y Courtney Wexler. 
+sp-eu	Por favor, recibamos, por primera vez, a los señores Sandy y Courtney Wexler. 
+sv	För första gången, en applåd för mr och mrs Sandy och Courtney Wexler. 
+th	กรุณาต้อนรับเป็นครั้งแรก นายแซนดี้ | และนางคอร์ทนี่ย์ เวกซ์เลอร์ | 
+tr	Karşınızda ilk kez Bay ve Bayan Sandy ve Courtney Wexler. 
+vi	Xin chào mừng, lần đầu tiên, | ông bà Sandy và Courtney Wexler. | 
+zh-long	讓我們隆重歡迎，韋克斯勒夫婦 
+zh-short	第一次 有请桑迪和考特尼韦克斯勒夫妇 
+ja	では盛大な拍手を | 
+

@@ -1,0 +1,27 @@
+en	[chuckles] With all due respect, Sandy, | I understand that, | 
+sv	Med all respekt. Jag förstår det, 
+ar	&rlm;‏مع فائق الاحترام يا "ساندي"، أفهم ذلك،‏ | 
+da	Med al respekt, Sandy, det forstår jeg, 
+el	Μ' όλο το σεβασμό, το καταλαβαίνω, 
+fr	Sauf ton respect, Sandy, je comprends bien, 
+he	&rlm;‏עם כל הכבוד, סנדי, אני מבין את זה,‏ | 
+it	Con tutto il rispetto, ti capisco, 
+no	Med all respekt, Sandy, jeg forstår det, 
+pr-br	Com todo respeito, Sandy, entendo isso, 
+pr	Com o devido respeito, eu compreendo, 
+ro	Cu tot respectul, Sandy, te înțeleg, 
+sp	Con todo respeto, Sandy, lo entiendo, 
+sp-eu	Con el debido respeto, Sandy, lo entiendo, 
+th	ด้วยความนับถือนะ แซนดี้ | เรื่องนั้นผมเข้าใจ | 
+tr	Kusura bakma, bunu anlıyorum Sandy 
+vi	Với tất cả sự tôn trọng, | tôi hiểu điều đó, | 
+zh-long	恕我直言，山迪，我懂 
+zh-short	恕我直言 我明白 
+ru	При всем уважении, Сэнди, 
+id	Dengan segala hormat, Sandy, aku paham soal itu. 
+ko	이해는 하지만 | 
+fi	Ei pahalla, mutta viime levy pysyy listoilla monta kuukautta. 
+nl	Met alle respect, maar haar huidige album zal nog maanden in de hitlijsten staan. 
+pl	Rozumiem cię, ale jej obecna płyta będzie długo na top listach. 
+ja	今の曲が売れてるのに― | 
+

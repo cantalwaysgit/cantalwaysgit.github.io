@@ -1,0 +1,27 @@
+ja	問題ない | 
+id	Kau baik-baik saja. 
+ru	Все будет хорошо. 
+ar	&rlm;‏ستكونين بخير.‏ | 
+da	Du klarer den. 
+el	Θα γίνεις καλά. 
+en	You'll be all right. | 
+fi	Ei mitään hätää. 
+fr	Ça va aller. 
+he	&rlm;‏את תהיי בסדר.‏ | 
+it	Ti riprenderai. 
+nl	Het komt wel goed. 
+no	Det ordner seg. 
+pl	Nic ci nie będzie. 
+pr-br	Você vai ficar bem. 
+pr	Vais ficar bem. 
+ro	O să-ți revii. 
+sp	Estarás bien. 
+sp-eu	Te pondrás bien. 
+sv	Du repar dig. 
+th	คุณจะไม่เป็นไร | 
+tr	İyi olacaksın. 
+vi	Cô sẽ ổn thôi. | 
+zh-long	妳會沒事的 
+zh-short	你没事 
+ko	괜찮을 거야 | 
+

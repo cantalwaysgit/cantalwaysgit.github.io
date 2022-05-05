@@ -1,0 +1,27 @@
+ja	私の恩人はＶＩＰ扱いよ | 
+ar	&rlm;‏الدرجة الأولى لصديقي "ساندمان".‏ | 
+da	Første klasse til min Sandman. 
+el	Κάθε πολυτέλεια για τον Σάντι μου. 
+en	First class all the way for my Sandman. | 
+fi	Sandmanilleni kelpaa vain ykkösluokka. 
+fr	Mon Sandy mérite le top. 
+he	&rlm;‏מחלקה ראשונה לסנדי שלי.‏ | 
+it	Sempre la prima classe, per il mio Sandy. 
+ko	우리 샌디를 위해서라면 | 1등급으로 해야죠 | 
+nl	Alleen eerste klas voor mijn Sandman. 
+no	Bare første klasse for min Sandman. 
+pl	Mój Sandman dostaje to, co najlepsze. 
+pr-br	Sempre primeira classe para o meu Sandy. 
+pr	Para o meu Sandman, só a primeira classe. 
+ro	Clasa întâi până la capăt pentru Sandman al meu. 
+sp-eu	Siempre primera clase para mi Sandman. 
+sp	Primera clase para mi señor . 
+sv	Första klass hela vägen för min Sandman. 
+th	ชั้นหนึ่งตลอดสำหรับแซนด์แมนของฉัน | 
+tr	Sandman'im birinci sınıfa layık. 
+vi	Phòng hạng nhất cho Sandman của em. | 
+zh-long	我的山迪哥就該住頭等艙 
+zh-short	给桑迪全套都要是最好的 
+id	Kelas satu untuk Sandman-ku. 
+ru	Только лучшее для моего Сэндмена! 
+

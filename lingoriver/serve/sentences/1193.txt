@@ -1,0 +1,28 @@
+ja	サンディ | ＰＲ担当が必要な理由は君だ | 
+ru	Сэнди... 
+id	Sandy, kaulah alasan dia membutuhkan publisis. 
+ar	&rlm;‏"ساندي"، أنت سبب حاجتها إلى وكيل دعاية.‏ | 
+da	Sandy, du er grunden til, hun har brug for et PR-bureau. 
+el	Εξαιτίας σου χρειάζεται υπεύθυνο δημοσίων σχέσεων. 
+en	Sandy, you are the reason | she needs a publicist. | 
+fi	Sinä olet se syy, miksi hän tarvitsee PR-edustajan. 
+fr	Sandy, s'il lui faut un attaché de presse, c'est à cause de toi. 
+he	&rlm;‏סנדי, אתה הסיבה שהיא צריכה יחצ"ן.‏ | 
+it	Sandy, tu sei il motivo per cui le serve un addetto stampa. 
+ko	샌디, 당신 때문에 | 홍보 담당자가 필요한 거예요 | 
+no	Sandy, du er grunnen til at hun trenger PR-agent. 
+pl	To właśnie przez ciebie potrzebuje agenta prasowego. 
+pr-br	Sandy, é por sua causa que ela precisa  de um assessor de imprensa. 
+pr	Sandy, é por tua causa que ela precisa de um agente publicitário. 
+ro	Sandy, din cauza ta are nevoie de un editor. 
+sp-eu	Sandy, si necesita un publicista es por tu culpa. 
+sp	Sandy, tú eres la razón por la cual ella necesita un publicista. 
+sv	Du är orsaken till att hon behöver en reklamagent. 
+th	แซนดี้ คุณคือเหตุผล | ที่เธอต้องมีนักประชาสัมพันธ์ | 
+tr	Sandy, reklamcıya ihtiyacı olmasının sebebi sensin. 
+vi	Sandy, anh chính là lý do | cô ấy cần một buổi họp báo. | 
+zh-long	山迪，就是因為你 她更需要公關 
+zh-short	桑迪 因为你她才需要开宣传会 
+nl	Door jou heeft ze een publiciteitsagent nodig. 
+ru	...это из-за тебя ей нужен пиарщик. 
+

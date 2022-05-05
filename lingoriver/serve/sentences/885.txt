@@ -1,0 +1,27 @@
+id	Tidak, aku setuju denganmu. 
+ar	&rlm;‏لا، أوافقك الرأي.‏ | 
+da	Nej, jeg er enig med dig. 
+el	Όχι, συμφωνώ μαζί σου. 
+en	No, I'm agreeing with you. | 
+fi	Olen toki samaa mieltä. 
+fr	Non, j'acquiesce. 
+he	&rlm;‏לא, אני מסכים איתך.‏ | 
+it	No, sono d'accordo con te. 
+nl	Nee, ik ben het met je eens. 
+no	Jeg var enig med deg. 
+pl	Przyznaję ci rację. 
+pr-br	Não, concordo com você. 
+pr	Não, estou a concordar contigo. 
+ro	Nu, sunt de acord cu tine. 
+sp-eu	No, estoy de acuerdo contigo. 
+sp	No, estoy de acuerdo contigo. 
+sv	Nej, jag håller med dig. 
+th	ไม่เลย ฉันเห็นด้วยกับนาย | 
+tr	Hayır, sana katılıyorum. 
+vi	Không, tôi đồng ý với anh mà. | 
+zh-long	沒有，你說的都對 
+zh-short	不是 我是在附和你说的 
+ko	아니, 네 말에 동의하는 거야 | 
+ru	Нет, я соглашаюсь. 
+ja	君に同意しただけさ | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏تتشوق لأن يكون لديك من تشاركه معه.‏ | 
+da	Man længes efter nogen at dele den med. 
+el	Λαχταράς κάποιον να τη μοιραστείς μαζί του. 
+en	That's why you kinda long | for someone to share it with. | 
+fi	Sitä kaipaa toista ihmistä, jonka kanssa sen voi jakaa. 
+fr	On cherche tous quelqu'un avec qui le partager. 
+he	&rlm;‏אתה משתוקק לחלוק אותה עם מישהו.‏ | 
+it	E cerchi qualcuno con cui condividerlo. 
+ko	그래서 뭔가를 공유할 수 있는 | 사람을 갈구하게 되죠 | 
+nl	Daarom verlang je naar iemand om het mee te delen. 
+no	Du lengter etter noen å dele det med. 
+pl	Dlatego chce się go z kimś dzielić. 
+pr	Ansiamos por alguém com quem o partilhar. 
+pr-br	Você anseia compartilhar com alguém. 
+ro	Tânjești la cineva cu care să-l împarți. 
+ru	Хочется его с кем-то разделить. 
+sp	Deseas tener con quien compartirlo. 
+sp-eu	Quieres alguien con quien compartirlo. 
+sv	Man längtar efter nån att dela den med. 
+th	คุณอยากให้มีคนมาร่วมแบ่งปัน | 
+tr	Paylaşacak birini ararsınız. 
+vi	Bạn mong có người chia sẻ. | 
+zh-long	會渴望有人可以分享 
+zh-short	所以你才会想要跟人分享 
+id	Karena itu kita harus membaginya dengan seseorang. 
+ja	似た者同士 くっつく | 
+

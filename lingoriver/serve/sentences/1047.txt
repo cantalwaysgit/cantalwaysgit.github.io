@@ -1,0 +1,27 @@
+ar	&rlm;‏ظننت أن مذاقه جيد.‏ | 
+da	Jeg syntes, det var cool. 
+el	Εγώ το βρήκα ζόρικο. 
+en	I thought it was cool. | 
+fi	Minusta se oli siistiä. 
+fr	J'ai trouvé ça cool. 
+he	&rlm;‏חשבתי שזה היה מגניב.‏ | 
+id	Kupikir tidak apa-apa. 
+it	A me sembrava buono. 
+ko	멋지던데요 | 
+nl	Ik vond het cool. 
+no	Jeg syntes det var kult. 
+pl	Podobało mi się to. 
+pr-br	Achei que foi legal. 
+pr	Eu achei bom. 
+ro	Mie mi-a plăcut. 
+ru	Мне понравилось. 
+sp	A mí me pareció genial. 
+sp-eu	A mí me ha parecido bueno. 
+sv	Jag tyckte det var coolt. 
+th	ฉันคิดว่ามันเจ๋ง | 
+tr	Bence harikaydı. 
+vi	Tôi nghĩ là không sao. | 
+zh-long	我覺得滿酷的 
+zh-short	我觉得那酒挺好的 
+ja	ステキだった | 
+

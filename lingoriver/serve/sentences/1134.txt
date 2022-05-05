@@ -1,0 +1,28 @@
+id	Apa? Tunggu, di sini? 
+ru	Что? 
+ar	&rlm;‏ماذا؟ هنا؟‏ | 
+da	Hvad? Her? 
+el	Τι; Εδώ; 
+en	What? What, right here? | 
+fi	Tässäkö? 
+fr	Quoi ? Ici ? 
+he	&rlm;‏מה? כאן?‏ | 
+it	Cosa? Qui? 
+no	Hva? Her? 
+pr-br	Quê? Aqui? 
+pr	O quê? Espera, aqui? 
+ro	Poftim? Aici? 
+sp-eu	¿Qué? ¿Aquí? 
+sp	¿Qué? ¿Aquí? 
+tr	Ne? Burada mı? 
+vi	Gì cơ? Ngay đây à? | 
+zh-long	什麼？在這裡？ 
+zh-short	什么？在这儿吗？ 
+nl	Wat? Hier? -Ik zal niet kijken. 
+th	อะไรนะ ตรงนี้เลยเหรอ | 
+ko	뭐? 여기서? | 
+pl	- Tak tutaj? - Nie będę patrzeć. 
+sv	-Vadå? På direkten? -Jag ska inte kika. 
+ja	ここで？ | 
+ru	Прямо здесь? 
+

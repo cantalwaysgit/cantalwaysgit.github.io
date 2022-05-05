@@ -1,0 +1,27 @@
+id	Celana sudah dilepaskan. 
+ru	Снимаю штаны. 
+ja	じゃ ズボンを脱ぐよ | 
+ar	&rlm;‏سأخلع السروال.‏ | 
+da	Nu tager jeg bukserne af. 
+el	Λοιπόν, κατεβάζω το παντελόνι μου. 
+en	So, pants are coming down. | 
+fi	Housut alas. 
+fr	Je baisse mon pantalon. 
+he	&rlm;‏אז המכנסיים יורדים.‏ | 
+it	Giù i pantaloni. 
+ko	바지 벗는다 | 
+nl	De broek gaat naar beneden. 
+no	Så buksa er av. 
+pl	Portki w dół. 
+pr-br	Estou tirando as calças. 
+pr	Então, as calças estão a sair. 
+ro	Pantalonii cad. 
+sp-eu	Los pantalones están bajando. 
+sp	Pantalones abajo. 
+sv	Byxorna är på väg av. 
+th	ถอดกางเกงออกมาแล้ว | 
+tr	Pantolon çıkıyor. 
+vi	Tôi đang tụt quần đấy. | 
+zh-long	脫褲子囉 
+zh-short	那么 裤子脱好了 
+

@@ -1,0 +1,14 @@
+ar	&rlm;‏"صفحات الدمية - السيد (باتنز)"‏ | 
+he	&rlm;‏‏- עיתון הבובות | &rlm;‏מר כפתורים -‏ | 
+pr-br	PÁGINAS DE UMA MARIONETE SR. BOTÕES 
+ro	PAGINILE PĂPUȘILOR DL BUTTONS 
+sp-eu	LOS SÁBADOS SON DEL SR. BOTONES 
+sp	LAS PÁGINAS DEL TÍTERE 
+th	(พัปเพตเพจส์) | (คุณบัตตันส์) | 
+tr	KUKLA SAYFALARI BAY DÜĞME 
+vi	TÌM HIỂU MÚA RỐI | NGÀI BUTTONS | 
+zh-long	（木偶特輯 鈕扣先生） 
+zh-short	（《木偶戏篇章》 巴顿斯先生） 
+el	ΕΝΘΕΤΟ ΓΙΑ ΜΑΡΙΟΝΕΤΕΣ Ο Κ. ΜΠΑΤΟΝΣ 
+ko	“‘꼭두각시 페이지’ | 미스터 버튼스” | 
+

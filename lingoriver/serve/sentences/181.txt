@@ -1,0 +1,57 @@
+ar	&rlm;‏ما يعجبني بـ"ساندي" هو منزله.‏ | 
+da	Min yndlingsting ved Sandy var hans hus. 
+el	Το αγαπημένο μου πράγμα ήταν το μέρος που ζούσε. 
+en	My favorite thing about Sandy | is where he lived. | 
+fi	Sandyssä oli hauskinta paikka, jossa hän asui. 
+fr	Ce que je préférais chez Sandy, c'était sa maison. 
+he	&rlm;‏הדבר הכי אהוב עליי אצל סנדי זה הבית שלו.‏ | 
+it	La cosa che preferivo di Sandy era la casa. 
+ko	가장 마음에 드는 건 | 샌디의 집이에요 | 
+nl	Het leukste van Sandy vond ik zijn huis. 
+no	Det beste ved Sandy, er stedet han bodde. 
+pl	Najbardziej podobał mi się dom Sandy'ego. 
+pr-br	O que mais gosto no Sandy é a casa dele. 
+pr	Do que mais gostava no Sandy era onde ele vivia. 
+ro	La Sandy, cel mai mult îmi plăcea casa lui. 
+sp-eu	Lo que más me gustaba de Sandy era donde vivía. 
+sp	Mi cosa favorita sobre Sandy es su casa. 
+sv	Min favoritgrej med Sandy var hans hem. 
+th	ที่ผมชอบที่สุดเกี่ยวกับแซนดี้ | คือบ้านของเขา | 
+tr	Sandy'nin en sevdiğim yanı, yaşadığı yerdi. 
+vi	Điều tôi thích nhất ở Sandy là nhà anh ấy. | 
+zh-long	關於山迪我最愛的是他的家 
+zh-short	桑迪最让我喜欢的地方就是他家了 
+id	Yang paling kusuka dari Sandy adalah tempat tinggalnya. 
+ru	Больше всего мне нравился дом Сэнди. 
+ja	彼の住まいがすごい | 
+
+es	¿Tienen cámaras de seguridad? 
+id	Kau punya kamera keamanan? 
+uk	А маєте камери спостереження? 
+da	Er her overvågningskameraer? | 
+en	Do you have security cameras? 
+es-eu	¿Tienen cámaras de seguridad? 
+fr	Vous avez des caméras de surveillance ? 
+he	‫יש לכם מצלמות אבטחה?‬ | 
+hu	Vannak biztonsági kamerák? 
+ja	&lrm;防犯カメラはあります？ | 
+ko	&lrm;감시 카메라 있습니까? | 
+nl	Heeft u beveiligingscamera's? 
+no	Har dere overvåkingskameraer? 
+pt-br	Você tem câmeras de segurança? 
+pt	Há câmaras de vigilância? 
+sv	Har ni övervakningskameror? 
+th	&lrm;มีกล้องวงจรปิดมั้ย | 
+vi	&lrm;Anh có máy quay an ninh không? | 
+ro	Aveți camere de supraveghere? 
+ms	Awak ada kamera keselamatan? 
+it	Avete telecamere di sicurezza? 
+ru	Здесь есть камеры наблюдения? 
+tr	-Güvenlik kameranız var mı? -Yok. 
+el	Έχετε κάμερες ασφαλείας; 
+hr	Imate li nadzor? 
+cs	Máte tady bezpečnostní kamery? 
+fi	Onko täällä valvontakameroita? | 
+zh-long	你們有監視器嗎？ 
+zh-short	这里有监控摄像头吗？ 
+

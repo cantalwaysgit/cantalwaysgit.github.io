@@ -1,0 +1,27 @@
+ar	&rlm;‏جميل. شكراً لك يا "ساندي". ابتعد.‏ | 
+da	Smukt. Tak, Sandy. Ud af billedet med dig. 
+el	Πολύ όμορφο. Ευχαριστώ, Σάντι. Βγες από το κάδρο τώρα. 
+en	Beautiful. Thank you, Sandy. | Clear out of frame. | 
+fi	Hienoa. Kiitos, Sandy. Häivy. 
+fr	Magnifique. Merci, Sandy. Vire du cadre. 
+he	&rlm;‏יפה. תודה, סנדי. צא מהתמונה.‏ | 
+id	Cantik. Terima kasih, Sandy. Keluar dari bingkai. 
+it	Bellissimo. Grazie, Sandy. Ora esci dall'inquadratura. 
+ko	멋져요, 고마워요, 샌디 | 이제 비켜 주세요 | 
+nl	Prachtig. Bedankt, Sandy. Ga het beeld uit. 
+no	Nydelig. Takk, Sandy. Ut av bildet. 
+pl	Pięknie. Dziękuję, Sandy. Zmykaj z kadru. 
+pr-br	Lindo. Obrigado, Sandy. Saia daí. 
+pr	Lindo. Obrigado, Sandy. Sai daí. 
+ro	Frumos! Mersi, Sandy. Ieși din cadru. 
+sp-eu	Precioso. Gracias, Sandy. Fuera del plano. 
+sp	Hermoso. Gracias, Sandy. Sal del cuadro. 
+sv	Snyggt. Flytta på dig nu. 
+th	สวยงาม ขอบคุณ แซนดี้ ออกจากเฟรมสิ | 
+tr	Güzel. Sağ ol Sandy. Çerçeveden çık. 
+vi	Đẹp lắm. Cảm ơn, Sandy. Ra ngoài đi. | 
+zh-long	漂亮，山迪謝謝，出鏡頭 
+zh-short	好极了 谢谢 桑迪 到镜头外面去 
+ru	Чудесно. 
+ja	美しい！ | 
+

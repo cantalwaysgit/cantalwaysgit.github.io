@@ -1,0 +1,61 @@
+he	&rlm;הפוסטר שלך של אניטה בריאנט לא נחשב.‏ | 
+id	Poster Anita Bryant milikmu tak termasuk. 
+ru	Постер с Анитой Брайант не считается. 
+en	Your Anita Bryant poster doesn't count. | 
+ja	ポスター相手はナシだ | 
+
+fi	Ehkä siellä kävi muitakin, | 
+es	¿Quizá, además de Beata y la policía, 
+da	Måske var der andre end Beata og politiet? | 
+fr	Il y avait quelqu'un en plus de la police ? 
+he	‫אולי באטה והמשטרה הם לא היחידים שהיו שם?‬ | 
+id	Mungkin bukan hanya Beata dan polisi yang ada di sana? 
+it	Forse non c'erano solo Beata e la polizia? 
+ko	&lrm;베아타와 경찰 말고도 | &lrm;누가 더 있었나 보죠? | 
+nl	Misschien waren er meer mensen? 
+ru	Может, там были не только Беата и полиция? 
+th	&lrm;บางทีอาจไม่ใช่แค่เบียต้าที่ไป | &lrm;ตำรวจก็อาจจะไปด้วย | 
+uk	Може, там були не лише Беата і поліція? 
+vi	&lrm;Có lẽ không chỉ Beata và cảnh sát ở đó? | 
+zh-long	也許當時不只有貝塔和警察在場？ 
+zh-short	也许除了贝塔和警察 当时还有其他人在场？ 
+cs	Nebyl tam kromě Beaty a policie ještě někdo? 
+no	Kanskje ikke bare Beata og politiet var der? 
+hu	Talán nem csak Beata és a rendőrség járt ott. 
+el	Μήπως δεν ήταν εκεί μόνο η Μπεάτα κι η αστυνομία; 
+en	Maybe someone else was there, not just Beata and the police. 
+ms	Mungkin bukan hanya Beata dan polis ada di sana? 
+pt-br	Talvez houvesse mais alguém lá, além da polícia e Beata. 
+ro	Poate că nu doar Beata și poliția au fost acolo. 
+es-eu	Quizá no solo Beata y la policía estuvieran allí. 
+pt	Terá estado lá alguém além da Beata e da Polícia? 
+hr	Možda nisu samo Beata i policija bili ondje? Prije negoli su odnijeli tijelo. 
+ja	&lrm;ベアタと警察以外に | &lrm;誰かいたのでは？ | 
+sv	Andra kanske var där innan de forslade bort kroppen. 
+tr	Belki naaş alınmadan önce orada Beata ve polislerden başka biri vardı. 
+it	Prima di prendere il corpo. 
+es	alguien más vio el cuerpo? 
+da	Før de fjernede liget. | 
+el	Προτού πάρουν το πτώμα. 
+es-eu	Antes de llevárselo. 
+fi	kun ruumis oli siellä. | 
+fr	Avant qu'on enlève le corps. 
+he	‫לפני שפינו את הגופה?‬ | 
+hu	Mielőtt elvitték Igort. 
+id	Sebelum jasadnya diambil. 
+ko	&lrm;시신을 가져가기 전에요 | 
+ms	Sebelum mereka ambil mayat. 
+no	Før de tok liket. 
+pt	Antes de levarem o corpo. 
+pt-br	Antes de levarem o corpo. 
+ro	Înainte să ia trupul. 
+th	&lrm;ก่อนที่พวกเขาจะเอาศพออกไป | 
+uk	До того, як забрали тіло. 
+vi	&lrm;Trước khi họ đưa xác đi. | 
+zh-long	在他們帶走屍體之前 
+zh-short	在他们搬走尸体之前 
+nl	Voor ze het lichaam meenamen. -Beata denkt van niet. 
+cs	Než to tělo odnesli? 
+ru	- До того как они забрали тело. - Беата так не считает. 
+en	Before they took the body away. 
+

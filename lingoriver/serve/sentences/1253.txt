@@ -1,0 +1,27 @@
+id	Sandy, jangan bahas ini sekarang. 
+ru	Сэнди, давай не спешить. 
+ar	&rlm;‏دعنا لا نفعل هذا الآن يا "ساندي".‏ | 
+da	Sandy, det skal vi ikke i aften. 
+el	Σάντι, ας μην το κάνουμε αυτό τώρα. 
+en	Sandy, let's not do this right now. | 
+fi	Ei päätetä siitä nyt. 
+fr	Sandy, ne décidons pas de ça maintenant. 
+he	&rlm;‏סנדי, בוא לא נעשה את זה עכשיו.‏ | 
+it	Sandy, non deciderlo subito. 
+ko	샌디, 우리 지금 | 이러지 말아요 | 
+nl	Laten we dit niet nu doen. 
+no	Sandy, la oss ikke gjøre dette nå. 
+pl	Nie mówmy teraz o tym. 
+pr-br	Sandy, não vamos resolver nada agora. 
+pr	Sandy, não vamos fazer isto agora. 
+ro	Sandy, hai să nu facem asta acum. 
+sp-eu	Sandy, vamos a posponer esto. 
+sp	Sandy, no hagamos esto ahora. 
+sv	Vi behöver inte prata om det nu. 
+th	แซนดี้ อย่าตัดสินใจกันตอนนี้เลย | 
+tr	Sandy, bunu şimdi konuşmayalım. 
+vi	Sandy, đừng làm thế lúc này. | 
+zh-long	山迪，現在先別談這件事 
+zh-short	桑迪 我们别这么草率 
+ja	サンディ　まだ決めないで | 
+

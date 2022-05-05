@@ -1,0 +1,27 @@
+ar	&rlm;‏إنه سعيد جداً.‏ | 
+da	Han er så glad. 
+el	Είναι τόσο ευτυχισμένος. 
+en	He's so happy. | 
+fi	Hän on tosi onnellinen. 
+fr	Qu'il est heureux. 
+he	&rlm;‏הוא כל כך שמח.‏ | 
+it	È davvero felice. 
+ko	정말 행복한가 보네 | 
+nl	Hij is zo gelukkig. 
+pl	Jest taki szczęśliwy. 
+pr-br	Ele está muito feliz. 
+pr	Ele está tão feliz. 
+ro	E atât de fericit! 
+sp	Está muy feliz. 
+sp-eu	Qué contento está. 
+sv	Han är så lycklig. 
+tr	Çok mutlu. 
+vi	Anh ấy rất vui. | 
+zh-long	他好開心 
+zh-short	他好开心 
+no	Han er så lykkelig. 
+ja	幸せそうだ | 
+ru	Он так счастлив! 
+th	เขาแฮปปีจัง | 
+id	Dia sangat bahagia. 
+

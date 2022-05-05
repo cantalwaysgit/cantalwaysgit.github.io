@@ -1,0 +1,57 @@
+ja	水分補給しろよ ヨシ | 今日は暑いぞ | 
+id	Pastikan kau minum, Yoshi. Hari ini panas. 
+ar	&rlm;‏‏تأكد من أن تشرب سوائل كثيرة | &rlm;‏يا "يوشي"! اليوم حار!‏ | 
+da	Sørg for at drikke vand, Yoshi! Det er varmt i dag! 
+el	Φρόντισε να ενυδατωθείς, Γιόσι. Κάνει ζέστη σήμερα. 
+en	Make sure you hydrate, Yoshi! | It's a hot day! | 
+fi	Muista juoda nesteitä, Yoshi. Tänään on kuuma. 
+fr	N'oublie pas de boire, Yoshi ! Ça tape dur, aujourd'hui ! 
+he	&rlm;‏תוודא שאתה שותה מספיק, יושי! חם היום!‏ | 
+it	Devi idratarti, Yoshi! Oggi fa caldo! 
+nl	Zorg dat je genoeg drinkt, Yoshi. Het is heet. 
+no	Husk å få i deg væske, Yoshi! Det er varmt i dag! 
+pl	Pij dużo wody, Yoshi. Upał dzisiaj! 
+pr-br	Beba água, Yoshi! Está um calorão. 
+pr	Hidrata-te bem, Yoshi! Está uma brasa. 
+ro	Să nu uiți să te hidratezi, Yoshi! E foarte cald azi! 
+ru	Пей больше воды, Йоси. Сегодня жарко. 
+sp	¡Asegúrate de hidratarte, Yoshi! ¡Hace calor! 
+sp-eu	¡Hidrátate, Yoshi! ¡Hoy hace calor! 
+sv	Se till att dricka vatten, Yoshi! Det är varmt idag. 
+th	กินน้ำเยอะๆ นะ โยชิ วันนี้อากาศร้อน | 
+tr	Su içmeyi unutma Yoshi! Sıcak bir gün! 
+vi	Nhớ uống nước nhé, Yoshi! | Hôm nay nóng đấy! | 
+zh-long	記得喝水，耀西，今天很熱 
+zh-short	一定要多喝水 笈田！天很热！ 
+ko	물을 충분히 마셔, 요시 | 날이 덥네 | 
+
+es	Ahora. 
+pt-br	Agora. 
+cs	Jděte! 
+da	Nu. | 
+el	Τώρα. 
+en	Now! 
+es-eu	Ahora. 
+fr	Tout de suite. 
+he	‫קדימה.‬ | 
+hr	Odmah! 
+hu	Most, ha lehet. 
+id	Sekarang. 
+it	Subito! 
+ko	&lrm;지금이요 | 
+ms	Sekarang. 
+nl	Nu graag. 
+no	Nå. 
+pt	Já. 
+ro	În clipa asta. 
+ru	Давай живее. 
+sv	Gärna nu. 
+th	&lrm;เดี๋ยวนี้เลย | 
+tr	Şimdi. 
+uk	Швидше. 
+vi	&lrm;Đi luôn đi. | 
+zh-long	馬上過去 
+zh-short	现在就去 
+ja	&lrm;さあ　どうぞ | 
+fi	Nyt heti. | 
+

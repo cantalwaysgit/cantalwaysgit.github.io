@@ -1,0 +1,56 @@
+en	-[Gary groans] | -Oh, shit! | 
+ar	&rlm;‏اللعنة!‏ | 
+da	Pis! 
+el	Γαμώτο! 
+fr	Merde ! 
+he	&rlm;‏שיט!‏ | 
+it	Merda! 
+ko	이런! | 
+pr-br	Ah, merda! 
+pr	Porra! 
+sp-eu	¡Mierda! 
+sp	¡Mierda! 
+sv	Helvete! 
+tr	Kahretsin! 
+vi	Chết tiệt! | 
+zh-long	靠 
+zh-short	该死！ 
+pl	Ja pierdzielę! 
+ro	Fir-ar! 
+th	เวรแล้ว! | 
+ja	マズい！ | 
+id	Sial! 
+ru	О черт! 
+fi	Voi paska! 
+no	Faen! 
+
+fi	Älä edes yritä. | 
+pt-br	Nem ouse tentar, porra. 
+cs	Opovaž se, kurva. 
+da	Det kan du godt droppe. | 
+el	Μην προσπαθήσεις καν. 
+en	Don't even fucking try. 
+es-eu	Ni lo sueñes, joder. 
+fr	Arrête ça tout de suite. 
+he	‫אל תנסי אפילו.‬ | 
+hr	I ne pokušavaj, jebemti. 
+hu	Meg ne próbáld, baszki! 
+id	Jangan coba-coba. 
+it	Non provarci neanche. 
+ja	&lrm;調子に乗るな | 
+ko	&lrm;까불지 마 | 
+nl	Waag het niet. 
+no	Ikke prøv. 
+pt	Nem sequer tentes, porra. 
+ro	Nici să nu încerci! 
+ru	И думать забудь, сучка. 
+sv	Försök för fan inte ens. 
+th	&lrm;อย่าลองดี | 
+uk	Навіть не намагайся. 
+vi	&lrm;Đừng mơ nhé. | 
+zh-long	妳想都別想 
+zh-short	想都别想 
+es	Ni siquiera lo intentes. 
+tr	Aklından geçirme ulan. 
+ms	Jangan nak cuba-cuba. 
+

@@ -1,0 +1,26 @@
+id	Dari Wexler Fartists? 
+ja	屁(へ)クスラー？ | 
+ru	Из «Шмекслер Шмартистс»? 
+pl	Z Wexler Srartists? 
+ar	&rlm;‏من شركة "ويكسلر للضراط"؟‏ | 
+da	Fra Wexler Prutartister? 
+el	Των Κωλιτεχνών Γουέξλερ; 
+fi	Wexler Fartistsista? 
+fr	De chez Wexler et ses Foutristes ? 
+he	&rlm;‏מווקסלר פלצנים?‏ | 
+it	Della Wexler Scoreggioni? 
+ko	웩슬러 방귀 파티의 샌디? | 
+nl	Van Wexler Fartists. 
+no	Fra Wexler Fartists? 
+pr-br	Da Peidistas Wexler? 
+pr	Da Wexler Peidistas? 
+ro	De la Bășinoșii Wexler? 
+sp	¿De Artritis Wexler? 
+sp-eu	¿De Carteristas Wexler? 
+sv	Från Wexler Brakartists? 
+th	จากเวกซ์เลอร์ฟาร์ทิสต์สใช่ไหม | 
+tr	Wexler Salakları'ndan mı? 
+vi	Ở Công ty Wexler Xì hơi? | 
+zh-long	韋斯屁經紀公司？ 
+zh-short	韦克斯勒放屁人公司的？ 
+

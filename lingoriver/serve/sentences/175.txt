@@ -1,0 +1,57 @@
+id	Dengar, anak-anak suka boneka dan aku tahu ada peminatnya. 
+ru	Дети любят марионеток. Я знаю, что на них есть спрос. 
+ar	&rlm;‏‏اسمع، يحب الأطفال الدمى. | &rlm;‏وأعلم أنه يوجد جمهور لها.‏ | 
+da	Børn elsker dukkerne. Og jeg ved, der er et publikum til det. 
+el	Τα παιδιά αγαπούν τις μαριονέτες και ξέρω ότι υπάρχει ανάλογο κοινό. 
+en	Now, look, kids love the puppets. | And I know there's an audience for that. | 
+fi	Muksut tykkäävät nukeista. Niille löytyisi yleisö. 
+fr	Les enfants adorent les marionnettes. Je sais qu'il y a un public. 
+he	&rlm;‏‏תראה, ילדים אוהבים את הבובות. | &rlm;‏ואני יודע שיש לזה קהל.‏ | 
+it	I bambini adorano i pupazzi. So che c'è un pubblico. 
+ko	애들은 꼭두각시를 좋아해 | 분명히 관객이 있을 거야 | 
+nl	Kinderen zijn gek op de poppen. En er is publiek voor. 
+no	Barna elsker dukkene. Og jeg vet det finnes et publikum for det. 
+pl	Dzieciaki lubią lalki. Zawsze chętnie zobaczą taki występ. 
+pr-br	Crianças amam marionetes. E sei que tem público para isso. 
+pr	Os miúdos adoram os fantoches. E eu sei que há público. 
+ro	Copiii adoră păpușile. Știu că există un public. 
+sp	A los chicos les encantan los muñecos. Y sé que hay público para eso. 
+sp-eu	A los críos les encantan las marionetas. Y sé que hay público para eso. 
+sv	Ungar älskar dockor. Jag vet att det finns en publik för det. 
+th	ฟังนะ เด็กๆ ชอบหุ่น | และฉันรู้ว่ามีคนดูกลุ่มนั้น | 
+tr	Bak, çocuklar kuklalara bayılıyor. Bunun izleyici kitlesi olduğunu biliyorum. 
+vi	Nghe này, trẻ em thích con rối. | Và tôi biết có khán giả cho thể loại đó. | 
+zh-long	聽我說，小朋友喜歡木偶 應該會有觀眾群 
+zh-short	听着 小孩儿喜欢木偶剧 而且我知道木偶剧会有观众 
+ja	子供はパペットが好きだ | 視聴者の需要はある | 
+
+hu	Jó napot! 
+el	Γεια σας. 
+fi	Hei. | 
+pt-br	Olá. 
+ru	Здравствуйте. 
+uk	Добрий день. 
+es	Hola. 
+cs	Zdravím. 
+da	Goddag. | 
+en	Hello. 
+es-eu	Hola. 
+fr	Bonjour. 
+he	‫שלום.‬ | 
+hr	Dobar dan. 
+id	Halo. 
+it	Salve. 
+ja	&lrm;こんにちは | 
+ko	&lrm;안녕하세요 | 
+ms	Helo. 
+nl	Hallo. 
+no	Hallo. 
+pt	Olá. 
+ro	Bună! 
+sv	Hej. 
+th	&lrm;หวัดดีครับ | 
+tr	Merhaba. 
+vi	&lrm;Xin chào. | 
+zh-long	你好 
+zh-short	你好 
+

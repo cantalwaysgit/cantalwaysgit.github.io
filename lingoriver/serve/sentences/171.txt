@@ -1,0 +1,76 @@
+id	Aku tidak mau kehilangan itu. 
+ru	Я не хочу это терять. 
+ja	そろそろ | 次の段階に進まないか？ | 
+th	ฉันไม่อยากเสียนั่นไป | 
+ar	&rlm;‏لا أريد أن أخسره.‏ | 
+da	Det vil jeg ikke miste. 
+el	Δε θέλω να το χάσω αυτό. 
+en	I don't wanna lose that. | 
+fi	En halua menettää sitä. 
+fr	J'y tiens. 
+he	&rlm;‏אני לא רוצה לאבד את זה.‏ | 
+it	Voglio che continui. 
+ko	그건 놓치고 싶지 않아 | 
+nl	Dat wil ik niet kwijt. 
+no	Jeg vil ikke miste det. 
+pl	Nie chcemy tego stracić. 
+pr-br	Não quero perder isso. 
+pr	Não quero perder isso. 
+ro	Nu vreau să renunțăm la el. 
+sp-eu	No quiero perderlo. 
+sp	No quiero perder eso. 
+tr	Bunu kaybetmek istemem. 
+vi	Tôi không muốn bỏ lỡ nó. | 
+zh-long	我希望保持這現狀 
+zh-short	我可不想丢了那份工 
+sv	Det vill jag inte förlora. Det kanske är dags att gå till nästa nivå. 
+id	Mungkin sudah saatnya beralih ke tingkatan berikutnya. 
+ru	Но пора переходить на новый уровень. 
+ar	&rlm;‏ربما حان الوقت لتنتقل إلى المستوى التالي.‏ | 
+da	Det er måske på tide at tage det næste skridt. 
+el	Ίσως είναι καιρός να περάσεις στο επόμενο επίπεδο. 
+en	It might be time | to move on to the next level. | 
+fi	Sinun on ehkä aika siirtyä seuraavalle tasolle. 
+fr	Il est peut-être temps de passer au niveau supérieur. 
+he	&rlm;‏ייתכן שהגיע הזמן להמשיך לשלב הבא.‏ | 
+it	Forse dovremmo puntare a un livello superiore. 
+ko	다음 단계로 | 넘어갈 때인 것 같아 | 
+nl	Misschien is het tijd voor de volgende stap. 
+no	Det kan være på tide å ta det videre. 
+pl	Pora na kolejny krok. 
+pr-br	Talvez seja hora de subir o nível. 
+pr	Talvez esteja na hora de avançar para o nível seguinte. 
+ro	Ar fi momentul să mai facem un pas. 
+sp-eu	Quizá debas pasar al próximo nivel. 
+sp	Quizás sea hora de pasar al siguiente nivel. 
+th	อาจถึงเวลาขยับขึ้นอีกขั้นแล้ว | 
+tr	Bir sonraki seviyeye geçme vakti gelmiş olabilir. 
+vi	Có lẽ đến lúc lên đời rồi. | 
+zh-long	也許該往下個階段邁進了 
+zh-short	也许是时候更进一步了 
+
+pt-br	O que foi? 
+ru	Ты чего? 
+el	Τι έγινε; 
+fi	Mitä nyt? | 
+uk	Що таке? 
+cs	Co je? 
+es-eu	¿Qué pasa? 
+es	¿Qué ocurre? 
+fr	Quoi ? 
+he	‫מה יש?‬ | 
+hr	Što je? 
+hu	Mi az? 
+it	Cosa c'è? 
+ja	&lrm;どうした？ | 
+ko	&lrm;왜 그래요? | 
+ms	Ada apa? 
+no	Hva er det? 
+pt	O que foi? 
+th	&lrm;มีอะไร | 
+tr	Ne oldu? 
+vi	&lrm;Là gì vậy? | 
+zh-long	怎麼了？ 
+zh-short	怎么了？ 
+en	What is it? 
+

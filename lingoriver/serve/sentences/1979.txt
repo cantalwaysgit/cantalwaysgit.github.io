@@ -1,0 +1,26 @@
+ja	意外だと？ | 
+ar	&rlm;‏أيفاجئك ذلك؟‏ | 
+da	Overrasker det dig? 
+el	Εκπλήσσεσαι; 
+en	[yells] That surprises you? | 
+fi	Oletko yllättynyt? 
+fr	Et ça te surprend ? 
+he	&rlm;‏זה מפתיע אותך?‏ | 
+it	Ti sorprende? 
+nl	Verbaast je dat? 
+no	Er du overrasket? 
+pl	Dziwisz się? 
+pr-br	Está surpreso com isso? 
+pr	Estás admirado? 
+ro	Și te surprinde? 
+sp-eu	¿Te sorprende? 
+sp	¿Te sorprende? 
+sv	Överraskar det dig? 
+th	ประหลาดใจเหรอ | 
+tr	Bu seni şaşırttı mı? 
+vi	Anh ngạc nhiên à? | 
+zh-long	很驚訝嗎？ 
+zh-short	让你吃惊了吗？ 
+id	Kau terkejut? 
+ko	그래서 놀랐냐? | 
+

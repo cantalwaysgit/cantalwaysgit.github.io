@@ -1,0 +1,27 @@
+en	[stammering] And if you're available | to speak, you know, and now's the time, | 
+ar	&rlm;‏‏إن كنت غير مشغول لنتحدث، | &rlm;‏والوقت مناسب الآن،‏ | 
+da	Hvis De har tid, og tidspunktet passer Dem, 
+el	Αν μπορείτε να μιλήσετε και είναι η κατάλληλη ώρα, 
+fi	Jos ehditte puhumaan ja nyt on sopiva hetki, 
+fr	Si vous avez du temps pour parler et que maintenant vous convient, 
+he	&rlm;‏אם אתה יכול לדבר, ויש לך זמן,‏ | 
+it	Se è disponibile ed è un buon momento, 
+pl	Jeśli ma pan czas, żeby o tym porozmawiać, 
+pr-br	Se estiver disponível para falar, agora é a hora, 
+pr	Se estiver disponível e for boa altura, 
+ro	Dacă aveți timp, iar momentul e potrivit, 
+sp-eu	Si puede hablar y no es mal momento, 
+th	ถ้าคุณว่าง ตอนนี้คือโอกาสคุย | 
+tr	Konuşacak durumdaysanız hazır buradayken 
+vi	Nếu ông có thể nói chuyện, | thì ta bắt đầu thôi, | 
+zh-long	如果你方便談的話，現在談剛好 
+zh-short	要是你得空聊聊 那现在正是时候 
+nl	Als je wilt praten en het een goed moment is, wil ik graag praten. 
+no	Hvis du har anledning til å prate nå, vil jeg gjerne ha en samtale. 
+sp	Si puede hablar, y ahora es el momento, me encantaría tener una conversación. 
+sv	Om du kan prata nu och har tid, så skulle jag vilja ha ett samtal. 
+id	Jika ada waktu bicara dan ini saat yang tepat, 
+ja	もしお話ししてもよければ | 今ここでお話ししたい | 
+ru	Если у вас есть время, а оно, видимо, есть, 
+ko	말씀 나누실 수 있다면 | 지금이 적기네요 | 
+

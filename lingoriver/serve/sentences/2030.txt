@@ -1,0 +1,27 @@
+ar	&rlm;‏أن تكوني نفسك وحسب،‏ | 
+da	Han vil kun have, at du er dig selv, 
+el	Το μόνο που θέλει είναι να είσαι ο εαυτός σου. 
+en	All he wants in return | is for you to be you, | 
+fi	Vain sen, että olet oma itsesi. 
+fr	Il veut juste que tu sois fidèle à toi-même. 
+he	&rlm;‏כל מה שהוא רוצה בתמורה הוא שתהיי את,‏ | 
+id	Yang dia inginkan hanyalah kau menjadi diri sendiri. 
+it	Vuole soltanto che tu sia te stessa. 
+ko	그냥 네가 | 너 자신이 되길 원한대 | 
+nl	Alleen dat jij jezelf bent. 
+pl	Żebyś była sobą. 
+pr-br	A única coisa que ele quer em troca é que você seja você mesma, 
+pr	Em troca, ele só quer que sejas tu mesma, 
+ro	Nu-și dorește decât să fii tu însăți. 
+ru	Он хочет только, чтобы ты была собой. 
+sp-eu	Lo único que quiere a cambio es que tú seas tú. 
+sp	Solo quiere que seas tú misma. 
+sv	Allt han vill är att du är du. 
+th	ที่เขาต้องการเป็นการตอบแทนก็คือ | ให้คุณเป็นตัวคุณเอง | 
+tr	Karşılığında istediği tek şey kendin olman. 
+vi	Anh ta chỉ muốn em luôn là em, | 
+zh-long	他唯一想要的就是妳做回妳自己 
+zh-short	他只希望你能做自己 
+no	Alt han vil ha, er at du er deg selv, akkurat slik du er, for han elsker deg. 
+ja	君が君でいることだ | 
+

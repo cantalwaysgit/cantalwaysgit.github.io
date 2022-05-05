@@ -1,0 +1,26 @@
+ar	&rlm;‏لا يوجد أناس كمن يعملون في الاستعراض‏ | 
+da	Der er ingen som performere 
+el	Δεν υπάρχουν άνθρωποι Όπως αυτοί του θεάματος. 
+en	♪ There's no people like show people ♪ | 
+fi	On showväki omanlaisensa väki 
+fr	Rien ne vaut les gens du show-biz 
+he	&rlm;‏אין אנשים כאנשי השעשועים‏ | 
+it	Non c'è gente Come quella dello spettacolo 
+ko	연예인 같은 사람도 없지 | 
+pl	Wszyscy w show-biznesie są wspaniali 
+pr-br	Não há ninguém como os artistas 
+pr	Não há gente como a do espetáculo 
+ro	Artiștii sunt unici 
+sp-eu	No hay mejor gente Que la gente del espectáculo 
+sp	No hay gente como la del espectáculo 
+sv	Det finns inga människor som showmänniskor 
+tr	Yoktur şov dünyasındakiler gibisi 
+vi	Không ai như người làm nghề giải trí | 
+zh-long	演藝人員無與倫比 
+zh-short	没人像演员一样 
+ja	ショービジネス界の | 　　　　　　　スターは | 
+ru	Нигде больше нет 
+id	Tiada orang seperti penghibur 
+th	ไม่มีใครเหมือนคนในวงการบันเทิง | 
+ru	Таких людей 
+

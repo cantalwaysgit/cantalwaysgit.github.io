@@ -1,0 +1,57 @@
+id	Ingatlah bahwa dulu tidak ada YouTube ataupun Vine. 
+fi	Silloin ei ollut YouTubea eikä Vinejä. 
+vi	Bạn phải nhớ là | ngày đó không có YouTube, Vines. | 
+zh-short	要知道那时没有YouTube 也没有Vines 
+ru	Тогда еще не было ни YouTube, ни Vine. 
+ar	&rlm;‏‏يجب أن تتذكروا أنه لم يكن يوجد | &rlm;‏"يوتيوب" أو أفلام "فاين".‏ | 
+da	Man skal huske på, der var ingen YouTube, ingen Vines. 
+el	Την εποχή εκείνη, δεν υπήρχε YouTube ή Vine. 
+en	You know, you gotta remember | there was no YouTube, there was no Vines. | 
+fr	À cette époque, il n'y avait ni YouTube ni Vine. 
+he	&rlm;‏אתה צריך לזכור שלא היו יוטיוב, ויין.‏ | 
+it	Non c'erano né YouTube, né Vine. 
+ko	당시는 유튜브나 바인 같은 게 | 없었다는 걸 기억하셔야 해요 | 
+no	Du må huske at det var før YouTube og Vine. 
+pl	To były czasy bez YouTube'a i Vine. 
+pr-br	Na época não havia YouTube, Vines. 
+pr	É preciso ter em conta que não havia YouTube, não havia Vines. 
+ro	Trebuie să ne amintim că nu existau YouTube sau Vines. 
+sp-eu	Recordad que no existía YouTube, no había Vine. 
+th	ต้องอย่าลืมว่าไม่มียูทูบหรือไวนส์ | 
+tr	Unutmayın, o zamanlar ne YouTube vardı ne Vines. 
+zh-long	要知道當時沒有YouTube 沒有Vine 
+sv	Det fanns ju inget YouTube eller Vine. Inga av dessa sociala medier. 
+sp	Recuerden que no existía YouTube ni Vines. No había redes sociales. 
+nl	Vergeet niet dat er geen YouTube was. Geen social media. 
+ja	昔はユーチューブとかの | 動画サービスがなくて― | 
+
+es	¿Llamó a sus parientes? 
+fi	Oletteko soittanut sukulaisille? | 
+id	Kau sudah menelepon kerabatmu? 
+cs	Obvolal jste příbuzné? 
+da	Har De ringet til familien? | 
+el	Πήρατε τους συγγενείς σας; 
+en	Have you called your relatives? 
+es-eu	¿Ha llamado a su familia? 
+fr	Vous avez appelé vos proches ? 
+he	‫התקשרת לקרובי משפחה?‬ | 
+hr	Jeste li zvali rodbinu? 
+hu	A rokonokat már kérdezte? 
+it	Ha chiamato i suoi parenti? 
+ko	&lrm;친척들한테는 연락해 보셨습니까? | 
+ms	Encik dah telefon saudara-mara? 
+nl	Heeft u uw familie gebeld? 
+no	Har du ringt slektningene dine? 
+pt-br	Você ligou para seus parentes? 
+pt	Ligou à sua família? 
+ro	V-ați sunat rudele? 
+ru	Родственникам звонили? 
+sv	Har ni ringt släkten? 
+th	&lrm;คุณโทรหาญาติๆ หรือยัง | 
+tr	Akrabalarınızı aradınız mı? 
+uk	Ви дзвонили родичам? 
+vi	&lrm;Anh đã gọi cho họ hàng chưa? | 
+zh-long	你有打電話給親戚嗎？ 
+zh-short	你打电话问过亲戚吗？ 
+ja	&lrm;親戚に電話しました？ | 
+

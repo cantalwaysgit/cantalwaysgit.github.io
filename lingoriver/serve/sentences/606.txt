@@ -1,0 +1,26 @@
+en	You know, "I'm fun. | I'm complicated. I'm sexy." | 
+id	Yaitu, "Aku menyenangkan, rumit, seksi..." 
+sv	"Jag är kul, komplicerad, sexig..." 
+ko	‘난 재미있고 | 복잡하고 섹시해’ | 
+ar	&rlm;‏"أنا ممتعة ومعقدة ومثيرة."‏ | 
+da	"Jeg er sjov, kompliceret og sexet..." 
+el	"Είμαι διασκεδαστική, πολύπλοκη, σέξι..." 
+fi	"Olen hauska, monisäikeinen, seksikäs." 
+fr	"Je suis cool, compliquée, sexy..." 
+he	&rlm;‏"אני כיפית, אני מורכבת, אני סקסית."‏ | 
+it	"Sono simpatica, complessa e sexy." 
+nl	'Ik ben leuk, ingewikkeld en sexy.' 
+no	"Jeg er morsom og komplisert og sexy." 
+pr-br	"Sou divertida, complicada, sexy." 
+pr	"Sou divertida, complicada, sensual." 
+ro	"Sunt amuzantă, complicată, sexy..." 
+sp-eu	"Soy divertida, complicada, sexi". 
+sp	"Soy divertida, soy complicada, soy sexi...". 
+th	"ฉันเป็นคนสนุก ฉันซับซ้อน | ฉันเซ็กซี่..." | 
+tr	"Eğlenceliyim, karmaşığım, seksiyim." 
+vi	"Tôi vui vẻ, phức tạp, quyến rũ." | 
+zh-long	“我風趣、個性又性感…” 
+zh-short	“我风趣 难以捉摸 性感” 
+pl	„Jestem fajna, skomplikowana, seksowna”. 
+ru	«Я веселая, сложная, я секси». 
+

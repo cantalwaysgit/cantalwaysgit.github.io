@@ -1,0 +1,27 @@
+id	Semua baik-baik saja? 
+ru	Все в порядке? 
+ar	&rlm;‏هل الأمور على ما يرام؟‏ | 
+da	Er alt i orden? 
+el	Όλα καλά εκεί μέσα; 
+en	Is everything okay out there? | 
+fi	Onko kaikki hyvin? 
+fr	Tout va bien ? 
+he	&rlm;‏הכול בסדר?‏ | 
+it	Va tutto bene? 
+ko	무슨 문제 있나요? | 
+nl	Is alles in orde? 
+pl	Wszystko w porządku? 
+pr-br	Está tudo bem? 
+pr	Está tudo bem? 
+ro	E totul în ordine acolo? 
+sp	¿Está todo bien ahí? 
+sp-eu	¿Va todo bien? 
+sv	Är allt okej? 
+th	ทุกอย่างโอเคไหม | 
+tr	Her şey yolunda mı? 
+vi	Mọi chuyện ổn chứ? | 
+zh-long	沒事吧？ 
+zh-short	没什么事吧？ 
+ja	どうかした？ | 
+no	Er alt i orden? 
+

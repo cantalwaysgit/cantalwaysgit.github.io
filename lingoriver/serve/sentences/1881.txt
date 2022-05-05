@@ -1,0 +1,29 @@
+ja	優しくて強いハートの持ち主 | 
+ru	и лучшее сердце в этом вшивом городишке. 
+ar	&rlm;‏في هذه المدينة البائسة بأسرها. وهذه حقيقة.‏ | 
+da	i hele denne elendige by. Og det er et faktum. 
+el	σ' αυτήν τη θλιβερή πόλη κι αυτό είναι γεγονός. 
+en	in this whole miserable town. | And that's a fact. | 
+fi	tässä kurjassa kaupungissa, ja se on varma. 
+fr	de toute cette pitoyable ville. Je te le garantis. 
+he	&rlm;‏בכל העיר העלובה הזו. וזו עובדה.‏ | 
+it	di tutta questa miserabile città. È un dato di fatto. 
+nl	...van deze hele ellendige stad. Dat is een feit. 
+no	i hele denne elendige byen. Og det er fakta. 
+pl	w całym tym żałosnym mieście. Takie są fakty. 
+pr-br	de toda esta cidade desgraçada. Isto é fato. 
+pr	desta cidade desprezível. Isso é um facto. 
+ro	din tot orașul ăsta nefericit. Și chiar așa e. 
+sp	de toda esta ciudad triste. Y es cierto. 
+sp-eu	de toda esta miserable ciudad. Y eso es un hecho. 
+sv	i denna sorgliga stad. Det är fakta. 
+th	ในเมืองเฮงซวยนี่ และนั่นคือความจริง | 
+tr	en büyük, en iyi, en güçlü kalbe sahipsin. Bu bir gerçek. 
+vi	trong cái thị trấn thảm hại này. | Đó là sự thật. | 
+zh-long	這座悲慘城市無人能比 事實如此 
+zh-short	最健康最强壮的 而且这是事实 
+id	di seluruh kota menyedihkan ini dan itulah faktanya. 
+ko	정말 크고 강한 | 최고의 심장을 가졌어요 | 
+ru	Это факт. 
+ja	だから大丈夫 | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏ما رأيك يا عزيزتي؟‏ | 
+da	Hvad synes du, skat? 
+el	Πώς σου φαίνεται, γλυκιά μου; 
+en	What do you think, honey? | 
+fi	Mitä arvelet, muru? 
+fr	Alors, ma belle ? 
+he	&rlm;‏מה את חושבת, מתוקה?‏ | 
+it	Allora, che ne dici? 
+ko	맛이 어때요? | 
+nl	Wat vind je ervan, schat? 
+no	Hva synes du? 
+pl	I jak, skarbie? 
+pr-br	O que acha, querida? 
+pr	O que achas, querida? 
+ro	Ce zici, scumpo? 
+sp-eu	¿Qué te parece, cielo? 
+sp	¿Qué opinas, cariño? 
+sv	Vad tycker du, raring? 
+th	คิดว่าไง ที่รัก | 
+tr	Nasıl buldun hayatım? 
+vi	Cô thấy thế nào, cưng? | 
+zh-long	怎麼樣，親愛的？ 
+zh-short	你觉得如何 亲爱的？ 
+id	Bagaimana, Sayang? 
+ru	Что скажешь? 
+ja	どうだい？ | 
+

@@ -1,0 +1,25 @@
+id	Baiklah, Sandy. 
+ja	分かりました | 
+ru	Хорошо, Сэнди. 
+ar	&rlm;‏حسناً يا "ساندي".‏ | 
+da	Okay, Sandy. 
+el	Εντάξει, Σάντι. 
+en	[scoffs] Okay, Sandy. | 
+fi	Selvä juttu. 
+he	&rlm;‏בסדר, סנדי.‏ | 
+it	Va bene, Sandy. 
+no	Ok, Sandy. 
+pl	Dobrze. 
+pr-br	Está bem, Sandy. 
+pr	Está bem, Sandy. 
+ro	Bine, Sandy. 
+sp	De acuerdo, Sandy. 
+sp-eu	Está bien, Sandy. 
+sv	Okej, Sandy. 
+th	โอเค แซนดี้ | 
+tr	Peki, Sandy. 
+vi	Vâng, Sandy. | 
+zh-long	好的，山迪 
+zh-short	好的 桑迪 
+ko	알았어요 | 
+

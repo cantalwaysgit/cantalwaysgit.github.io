@@ -1,0 +1,27 @@
+ar	&rlm;‏حقاً؟ أحسنت صنعاً.‏ | 
+da	Har du? Godt for dig. 
+el	Αλήθεια; Μπράβο, καλά έκανες. 
+en	Oh, you did? Good. Good. Good for you. | 
+fi	Niinkö? Hieno juttu. 
+fr	Ah ouais ? Super. Tant mieux. 
+he	&rlm;‏באמת? טוב. כל הכבוד.‏ | 
+it	Ah, sì? Bene. Buon per te. 
+ko	그래? 잘했네 | 
+nl	O, ja? Goed van je. 
+pl	Naprawdę? To bardzo dobrze. 
+pr	A sério? Boa. Ainda bem para ti. 
+pr-br	Já? Ótimo. Bom para você. 
+ro	Da? Bravo ție! 
+sp-eu	¿Sí? Bien. Bien por ti. 
+sp	¿Tú? Bien. Muy bien por ti. 
+sv	Har du? Det låter ju bra. 
+tr	Öyle mi? Güzel. Aferin sana. 
+vi	Thế à? Tốt quá. Thật tốt. | 
+zh-long	是喔，那很好呀 
+zh-short	是吗？很好 你真行 
+ja	そうか？ ご苦労なことで | 
+no	Har du? Bra. Bra for deg. 
+id	Sudah? Bagus. Syukurlah. 
+ru	Да? Хорошо. Молодец. 
+th	งั้นเรอะ ดี ทำดีมากเลย | 
+

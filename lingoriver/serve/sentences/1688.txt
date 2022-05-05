@@ -1,0 +1,27 @@
+id	Kau berengsek. 
+ru	Ты козел. 
+th	คุณเนี่ยแย่ | 
+ja	酷い人ね | 
+ar	&rlm;‏أنت سافل.‏ | 
+da	Du er et fjols. 
+el	Είσαι κόπανος. 
+en	You're a jerk. | 
+fi	Olet mäntti. 
+fr	T'es un enfoiré. 
+he	&rlm;‏אתה אידיוט.‏ | 
+it	Sei uno stronzo. 
+nl	Je bent een eikel. 
+no	Du er en dust. 
+pl	Palant z ciebie. 
+pr-br	Você é um canalha. 
+pr	És um idiota. 
+ro	Ești un ticălos. 
+sp	Eres un desgraciado. 
+sp-eu	Eres idiota. 
+sv	Du är dum. 
+tr	Sersemin tekisin. 
+vi	Anh là đồ ngốc. | 
+zh-long	你是個混蛋 
+zh-short	你是个混蛋 
+ko	당신 진짜 바보예요 | 
+

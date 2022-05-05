@@ -1,0 +1,27 @@
+id	Tambahkan Miami Sound Machine atau lainnya. 
+ru	Включи хоть «Miami Sound Machine». 
+ar	&rlm;‏اسمع بعض موسيقى "ميامي ساوند ماشين".‏ | 
+da	Miks lidt Miami Sound Machine i. 
+el	Βάλε και λίγο Miami Sound Machine. 
+en	I mean, mix in a little | Miami Sound Machine or something. | 
+fi	Soita välillä Miami Sound Machinea. 
+fr	Mets Miami Sound Machine de temps en temps. 
+he	&rlm;‏תערבב קצת "מיאמי סאונד מאשין".‏ | 
+it	Almeno alternala con i Miami Sound Machine. 
+ko	마이애미 사운드 머신이랑 | 조금 섞어 봐 | 
+nl	Mix het met wat Miami Sound Machine. 
+no	Få inn litt Miami Sound Machine. 
+pl	Dodaj trochę Miami Sound Machine. 
+pr	Alterna com um pouco de Miami Sound Machine. 
+pr-br	Faça mixagem com Miami Sound Machine. 
+ro	Mai pune și puțin Miami Sound Machine. 
+sp	Agrega un poco de Miami Sound Machine. 
+sp-eu	Mete un poco de Miami Sound Machine. 
+sv	Blanda med lite Miami Sound Machine. 
+th	ผสมเพลงไมอามี่เซานด์แมชีนหน่อยสิ | 
+tr	Araya biraz Miami Sound Machine kat. 
+vi	Nghe cùng với bài | của nhóm Miami Sound Machine đi. | 
+zh-long	也要聽一點 “邁阿密之音”的歌吧 
+zh-short	也放放迈阿密之音听听 
+ja	マイアミ･サウンド･ | マシーンは？ | 
+

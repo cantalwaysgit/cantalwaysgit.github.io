@@ -1,0 +1,50 @@
+ar	&rlm;‏قدمي لي معروفاً.‏ | 
+da	Gør mig en tjeneste. 
+el	Μου κάνεις μια χάρη; 
+en	Can you do me a favor? | 
+fr	Rendez-moi un service. 
+he	&rlm;‏תעשי לי טובה.‏ | 
+it	Fammi un favore. 
+pr-br	Me faça um favor. 
+pr	Faz-me um favor. 
+sp-eu	Hazme un favor. 
+sp	Hazme un favor. 
+sv	Gör mig en tjänst. 
+tr	Bana bir iyilik yap. 
+vi	Làm ơn giúp tôi đi. | 
+zh-long	幫我個忙 
+zh-short	帮我个忙 
+nl	Doe me een plezier. Courtney Clarke was hier net. Kijk waar ze heen is. 
+ko	부탁 하나만 들어주실래요? | 
+ja	コートニーがいたはずだが | 見なかったか？ | 
+fi	Tee palvelus. 
+pl	Mam prośbę. 
+ro	Te rog ceva. 
+th	ช่วยอะไรหน่อยสิ | 
+id	Bisa bantu aku? 
+ru	Будьте добры, там была Кортни Кларк - 
+no	Courtney Clarke var der inne. Finn ut hvor det ble av henne. 
+zh-short	考特尼克拉克之前刚进去 去看看她去哪儿了 
+ar	&rlm;‏‏كانت "كورتني كلارك" هناك. | &rlm;‏اعرفي إلى أين ذهبت.‏ | 
+da	Courtney Clarke var derinde. Find ud af, hvor hun gik hen. 
+el	Πριν, ήταν εδώ η Κόρτνι Κλαρκ. Μπορείς να δεις πού πήγε; 
+en	Courtney Clarke was just in there. | Uh, could you find out where she went? | 
+fi	Courtney Clarke oli siellä. Selvitä, minne hän meni. 
+fr	Courtney Clarke vient de partir. Dites-moi où elle est passée. 
+he	&rlm;‏קורטני קלארק הייתה פה. תגלי לאן היא הלכה.‏ | 
+it	C'era qui Courtney Clarke. Cerca di sapere dov'è andata. 
+pl	W środku była Courtney Clarke. Zobaczy pani, dokąd poszła? 
+pr	A Courtney Clarke estava lá dentro. Descobre onde ela se meteu. 
+pr-br	Courtney Clarke estava ali. Pode descobrir aonde ela foi? 
+ro	Courtney Clarke era pe aici. Vrei să afli unde s-a dus? 
+sp	Courtney Clarke estaba allí. ¿Puedes averiguar adónde fue? 
+sp-eu	Courtney Clarke ha entrado ahí. Averigua adónde ha ido. 
+sv	Courtney Clarke var där inne. Ta reda på vart hon tog vägen. 
+th	คอร์ทนี่ย์ คลาร์กอยู่ในนั้น | ช่วยตามหาเธอให้ที | 
+tr	Courtney Clarke oradaydı. Nereye gittiğini öğreniver. 
+vi	Courtney Clarke ở trong đó. | Tìm xem cô ta đi đâu. | 
+zh-long	寇妮克拉克剛在裡面 幫我看看她跑去哪了 
+id	Courtney Clarke tadi ada di sini. Kau tahu dia ke mana? 
+ko	코트니 클라크가 안에 있었는데 | 어디로 갔는지 좀 봐주세요 | 
+ru	узнайте, куда она ушла. 
+

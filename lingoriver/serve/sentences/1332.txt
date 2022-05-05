@@ -1,0 +1,52 @@
+id	Hei, itu wajar. 
+ru	Нет, это естественно. 
+ja	自然なことだ | 
+ar	&rlm;‏لا. هذا طبيعي.‏ | 
+da	Det er kun naturligt. 
+el	Φυσιολογικό το βρίσκω. 
+en	Hey, no, that's natural. | 
+fi	Sehän on luonnollista. 
+fr	Tout à fait naturel. 
+he	&rlm;‏היי, לא, זה טבעי.‏ | 
+it	Come no, è naturale. 
+ko	그건 자연스러운 거예요 | 
+no	Det er helt naturlig. 
+pl	To normalne. 
+pr-br	Claro, isso é natural. 
+pr	Isso é uma coisa natural. 
+ro	E normal. 
+sp	Claro, sí, es natural. 
+sp-eu	Oye, no, es normal. 
+sv	Visst, det är naturligt. 
+th	ใช่ มันเป็นเรื่องธรรมชาติ | 
+tr	Tabii, bu doğal. 
+vi	Không, đó là lẽ tự nhiên mà. | 
+zh-long	那很正常 
+zh-short	嘿 没事 这是正常的 
+nl	Dat is normaal. -Ben jij een man? 
+ar	&rlm;‏هل أنت رجل يا "ساندي"؟‏ | 
+da	Er du en mand, Sandy? 
+el	Είσαι άνδρας, Σάντι; 
+en	Are you a man, Sandy? | 
+fi	Oletko sinä mies? 
+fr	Es-tu un homme ? 
+he	&rlm;‏אתה גבר, סנדי?‏ | 
+it	Tu sei un uomo, Sandy? 
+pl	Jesteś mężczyzną? 
+pr-br	Você é homem, Sandy? 
+pr	És um homem, Sandy? 
+ro	Ești bărbat, Sandy? 
+sp	¿Eres un hombre, Sandy? 
+sp-eu	¿Eres un hombre, Sandy? 
+sv	Är du en man, Sandy? 
+th	คุณเป็นผู้ชายหรือเปล่า แซนดี้ | 
+tr	Sen erkek misin Sandy? 
+vi	Anh có phải đàn ông không, Sandy? | 
+zh-long	你是男人嗎，山迪？ 
+zh-short	你是男人吗 桑迪？ 
+ko	당신 남자인가요? | 
+ru	Ты мужчина, Сэнди? 
+id	Kau seorang pria, Sandy? 
+ja	あなたは男？ | 
+no	Er du en mann, Sandy? 
+

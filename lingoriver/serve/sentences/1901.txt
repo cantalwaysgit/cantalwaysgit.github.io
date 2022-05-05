@@ -1,0 +1,27 @@
+id	Nona Clarke, maaf aku mengganggumu, tapi bisakah? 
+ru	Мисс Кларк, извините, что беспокою. Можно? 
+ar	&rlm;‏‏آسفة على إزعاجك يا آنسة "كلارك"، | &rlm;‏هل تمانعين؟‏ | 
+da	Frk. Clarke, undskyld jeg forstyrrer, men vil du? 
+el	Δις Κλαρκ, συγγνώμη για την ενόχληση, αλλά μήπως θα μπορούσατε; 
+en	Miss Clarke, I'm so sorry to bother you, | but would you? | 
+fi	Anteeksi häiriö, mutta voisitteko? 
+fr	Mlle Clarke, désolée de vous embêter, mais vous pouvez... 
+he	&rlm;‏‏מיס קלארק, אני מצטערת להטריד אותך, | &rlm;‏אבל את מוכנה?‏ | 
+it	Sig.na Clarke, scusi se la disturbo, le dispiacerebbe? 
+ko	방해해서 죄송하지만 | 사인해 주시겠어요? | 
+nl	Sorry dat ik u lastigval, maar kunt u... 
+pl	Przepraszam, że przeszkadzam, pani Clarke. Podpisze mi pani? 
+pr-br	Srta. Clarke, desculpe incomodá-la, mas pode me dar um autógrafo? 
+pr	Menina Clarke, lamento incomodá-la, mas será que podia? 
+ro	Dră Clarke, îmi pare rău că vă deranjez, dar îmi dați un autograf? 
+sp-eu	Srta. Clarke, siento molestarla, pero ¿le importaría? 
+sp	Srta. Clarke, lamento molestarla, pero ¿le importaría? 
+sv	Jag är ledsen att behöva störa er, men kan du? 
+th	คุณคลาร์ก ฉันขอโทษที่มารบกวน | แต่จะกรุณาได้ไหม | 
+tr	Bayan Clarke, rahatsız ettiğim için üzgünüm ama imzalar mıydınız? 
+vi	Chị Clarke, xin lỗi vì làm phiền chị, | chị có thể ký không? | 
+zh-long	克拉克小姐，抱歉打擾 麻煩妳幫我簽名好嗎？ 
+zh-short	克拉克小姐 很抱歉打扰你 能给我签个名吗？ 
+ja	よかったら | サインしてください | 
+no	Miss Clarke, beklager at jeg forstyrrer, men kan du? 
+

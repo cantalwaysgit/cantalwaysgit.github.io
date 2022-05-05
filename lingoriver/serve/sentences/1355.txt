@@ -1,0 +1,52 @@
+ar	&rlm;‏أعتبر "بيتر" صديقاً،‏ | 
+da	Jeg betragter Peter som en ven, 
+el	Θεωρώ τον Πίτερ φίλο μου, 
+fi	Peter on ystäväni, 
+fr	Peter est un ami, 
+he	&rlm;‏אני מחשיב את פיטר כחבר,‏ | 
+it	Per me Peter è un amico, 
+nl	Ik zie Peter als een vriend... 
+no	Jeg ser på Peter som en venn. 
+pl	Peter jest moim przyjacielem. 
+pr-br	Eu considero Peter um amigo, 
+pr	Eu considero o Peter um amigo, 
+ro	Îl consider prieten pe Peter, 
+sp-eu	Considero a Peter mi amigo, 
+sp	Peter es mi amigo, 
+th	ผมถือว่าปีเตอร์เป็นเพื่อนคนหนึ่ง | 
+tr	Peter dostumdur, 
+vi	Tôi xem Peter như một người bạn, | 
+zh-long	我把彼得當朋友 
+zh-short	我把彼得当成是朋友 
+ru	Я считаю Питера другом, 
+en	[stammers] I consider Peter a friend, | 
+ko	난 피터를 친구로 생각해요 | 
+ja	ピーターは大切な友人だ | 
+id	Aku menganggap Peter temanku, 
+sv	Jag ser Peter som en vän, oavsett om han är död, levande eller en grönsak. 
+ja	生きてても死んでても | 闘病中でもね | 
+id	entah dia hidup, mati, ataupun saat dalam kondisi lumpuh. 
+ru	здоров он, болен или в вегетативном состоянии. 
+en	whether he's alive or dead | or in a vegetative state. | 
+ar	&rlm;‏سواءً أكان حياً أو ميتاً أو معاقاً.‏ | 
+da	hvad enten han er levende eller død eller bare en grøntsag. 
+el	είτε ζωντανό είτε νεκρό ή σε κωματώδη κατάσταση. 
+fi	oli hän sitten elossa, kuollut tai vegetatiivinen. 
+fr	qu'il soit mort, vivant ou à l'état de légume. 
+he	&rlm;‏אם הוא חי או מת או במצב של צמח.‏ | 
+it	che sia vivo, morto, o in stato vegetativo. 
+ko	살아있든 죽었든 | 식물인간이든 상관없어요 | 
+nl	...levend, dood of in vegetatieve toestand. 
+no	Enten han er levende eller død, eller en grønnsak. 
+pl	Bez względu na to, czy żyje, czy nie, lub czy jest warzywem. 
+pr-br	esteja ele vivo,  morto ou em estado vegetativo. 
+pr	quer esteja vivo, morto ou em estado vegetativo. 
+ro	fie viu, mort, fie în stare vegetativă. 
+sp	esté vivo, muerto o en estado vegetativo. 
+sp-eu	esté vivo, muerto o en estado vegetativo. 
+th	ไม่ว่าเขามีชีวิตอยู่หรือไม่ | หรืออยู่ในสภาพผัก | 
+tr	ister sağ, ister ölü, ister bitkisel hayatta olsun. 
+vi	dù ông ấy sống hay chết, | hay ở trạng thái sống thực vật. | 
+zh-long	不管他是死是活 或是植物人狀態 
+zh-short	不管他是死是活还是是植物人 
+

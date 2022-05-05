@@ -1,0 +1,27 @@
+ja	じゃ ビーフか | 
+ar	&rlm;‏لحم بقر وقرنبيط.‏ | 
+da	Bøf og broccoli. 
+el	Βοδινό με μπρόκολο. 
+en	All right, beef and broccoli. | 
+fi	Naudanlihaa ja parsakaalia. 
+fr	Bœuf et brocoli. 
+he	&rlm;‏בשר וברוקולי.‏ | 
+it	Carne con broccoli? 
+nl	Vlees en broccoli. 
+pl	Wołowina i brokuły. 
+pr	Bife e brócolos. 
+pr-br	Carne e brócolis. 
+ro	Vită și broccoli. 
+sp	Carne y brócoli. 
+sp-eu	Ternera y brócoli. 
+sv	Biff och broccoli. 
+th	เนื้อวัวกับบรอกโคลี | 
+tr	Biftek ve brokoli. 
+vi	Thịt bò và súp lơ. | 
+zh-long	花椰菜炒牛肉 
+zh-short	牛肉和西蓝花 
+no	-Storfe og brokkoli. -Samtalen er bedre når bare jeg prater. 
+ko	소고기랑 브로콜리 | 
+ru	Говядина и брокколи. 
+id	Daging sapi dan brokoli. 
+

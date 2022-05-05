@@ -1,0 +1,27 @@
+el	Βάζεις το χέρι σου στο πιγούνι. 
+pl	Ręka pod brodę. 
+sv	Vila hakan mot handen. 
+th	เอามือเท้าคาง | 
+ar	&rlm;‏ضع يدك على ذقنك.‏ | 
+da	Hånden på hagen. 
+en	-You put your hand on the chin. | -Uh-huh. | 
+fi	Käsi leualle. 
+he	&rlm;‏שים את היד על הסנטר.‏ | 
+it	Metti la mano sul mento. 
+ko	턱에 손 올리고 | 
+pr-br	Ponha a mão no queixo. 
+pr	Pões a mão no queixo. 
+sp-eu	Ponte la mano en la barbilla. 
+sp	Llévate la mano al mentón. 
+tr	Elini çenene koy. 
+vi	Cô đặt tay lên cằm. | 
+zh-long	手放下巴 
+zh-short	把手放到下巴上 
+nl	Je doet je hand op je kin. En je denkt gewoon. 
+id	Letakkan tanganmu di dagu. 
+fr	La main sur le menton. 
+no	Legg hånden på haken. 
+ja	手をアゴにやって 想像する | 
+ru	Руку на подбородок. 
+ro	Îți pui mâna la bărbie. 
+

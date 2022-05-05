@@ -1,0 +1,89 @@
+ru	Ты образцовая американская мать. «Оскар Майер» должен тебя взять. 
+id	Kau contoh klasik ibu Amerika. 
+ar	&rlm;‏‏أنت الأم الأميركية النموذجية. | &rlm;‏سيكون "أوسكار ماير" مجنوناً بتركك.‏ | 
+da	Du er en fuldkommen amerikansk mor. Oscar Mayer er tosset, hvis han siger nej. 
+el	Είσαι η απόλυτη Αμερικανίδα μητέρα. Ο Μάιερ θα είναι τρελός αν σ' απορρίψει. 
+en	You're the quintessential American mother. | Oscar Mayer would be crazy to pass on you. | 
+fi	Olet amerikkalaisen äidin perikuva. Oscar Mayer pestaa sinut varmasti. 
+fr	Tu es la mère américaine par excellence. Oscar Mayer serait fou de te dire non. 
+he	&rlm;‏‏את מופת של אימא אמריקנית. | &rlm;‏אוסקר מאייר יהיה משוגע לוותר עלייך.‏ | 
+it	Sei la quintessenza della madre americana. Oscar Mayer non può non approfittarne. 
+ja	アメリカの母親の鑑(かがみ)だ | 食肉会社はほっとかない | 
+ko	전형적인 미국 어머니네 | 오스카 마이어도 못 당하겠어 | 
+nl	Jij bent de perfecte Amerikaanse moeder. Oscar Mayer moet jou nemen. 
+no	Du er en typisk amerikansk mor. Oscar Mayer er gal om han sier nei. 
+pl	Jesteś wzorową amerykańską matką. W kanapkarni na pewno cię zatrudnią. 
+pr-br	Você é uma típica mãe americana. Oscar Mayer vai adorar aprová-la. 
+pr	És a mãe americana por excelência. A Oscar Mayer seria doida se te recusasse. 
+ro	Ești modelul mamei americane. Oscar Mayer ar fi nebun să te refuze. 
+sp	Eres la típica madre estadounidense. Oscar Mayer seguro te contratará. 
+sp-eu	Eres la madre estadounidense perfecta. Oscar Mayer estaría loco si no te cogiera. 
+sv	Du är den äkta amerikanska modern. Oscar Mayer vore dum om han sa nej. 
+th	คุณเป็นแม่อเมริกันตัวอย่าง | ออสการ์ เมเยอร์คงโง่ถ้าปฏิเสธคุณ | 
+tr	Sen tam bir Amerikan annesinin. Oscar Mayer bunu es geçemez. 
+vi	Cô là một người mẹ Mỹ tuyệt vời. | Oscar Mayer có điên mới cho cô trượt. | 
+zh-long	妳是位獨特的美國老媽 熱狗老牌奧斯卡梅耶一定超愛妳 
+zh-short	你是典型的美国妈妈 绝对是奥斯卡梅尔广告的不二人选 
+id	Oscar Mayer pasti gila jika tidak meloloskanmu. 
+
+es	Respondió: "No quiero el apoyo de nadie. 
+pt-br	Ele disse: "Não quero apoio porque não confio nos adultos." 
+fi	Hän sanoi: "En halua heiltä tukea, | 
+zh-short	他说：“我不想要任何支持 
+cs	Řekl: „Já žádnou podporu nechci, protože dospělým nevěřím.“ 
+da	Han sagde: "Jeg vil ikke have støtte, | jeg stoler ikke på voksne." | 
+el	Είπε "Δεν θέλω στήριξη, γιατί δεν εμπιστεύομαι τους ενήλικες". 
+en	He said, "I don't want any support, because I don't trust adults." 
+es-eu	Contestó: "No lo quiero porque no me fío de los adultos". 
+fr	Il a dit : "Je ne veux pas de soutien, je me méfie des adultes." 
+he	‫הוא אמר, "אני לא רוצה שום תמיכה,‬ | ‫כי אני לא בוטח במבוגרים".‬ | 
+hr	Rekao je: „Ne želim potporu jer ne vjerujem odraslima.” 
+hu	Azt mondta, „Nem kell támogatás, mert nem bízom a felnőttekben.” 
+id	Dia bilang, "Aku tak mau dukungan, karena aku tak percaya orang dewasa." 
+it	Ha detto: "Non voglio sostegno, perché non mi fido degli adulti". 
+ja	&lrm;“大人を信用してないから | &lrm;必要ない” | 
+ko	&lrm;그러더군요, '필요없어요 | &lrm;난 어른들을 안 믿으니까' | 
+ms	Katanya, "Saya tak mahu sokongan kerana saya tak percayakan orang dewasa." 
+nl	Hij zei: 'Ik wil geen steun, want ik vertrouw volwassenen niet.' 
+no	Han sa: "Jeg vil ikke ha støtte, for jeg stoler ikke på voksne." 
+pt	Ele disse: "Não quero apoio nenhum, não confio em adultos." 
+ro	A zis că nu vrea sprijin, că nu are încredere în adulți. 
+sv	Då sa han: "Jag vill inte ha stöd. Jag litar inte på vuxna." 
+th	&lrm;เขาตอบว่า "ผมไม่อยากได้การสนับสนุน | &lrm;เพราะผมไม่ไว้ใจพวกผู้ใหญ่" | 
+tr	"Destek istemiyorum, yetişkinlere güvenmiyorum" dedi. 
+uk	Він сказав: «Я не хочу підтримки, бо не довіряю дорослим». 
+vi	&lrm;Cậu ấy nói: "Cháu không muốn ai hỗ trợ | &lrm;vì cháu không tin người lớn". | 
+zh-long	他說：“我不要任何支持 因為我不信任大人” 
+ru	Он ответил: «Мне не нужна поддержка, потому что я не доверяю взрослым». 
+es	No confío en los adultos". 
+zh-short	因为我不相信大人” 
+fi	sillä en luota aikuisiin." | -Olemme aina tukeneet häntä. | 
+cs	Vždyť my ho vždycky podporujeme. 
+da	Men vi støtter ham altid. | 
+en	But we always support him. 
+es-eu	Siempre lo hemos apoyado. 
+fr	Mais on le soutient toujours. 
+he	‫אבל תמיד תמכנו בו.‬ | 
+hr	Ali uvijek ga podupiremo. 
+hu	De mi mindig támogatjuk. 
+id	Tapi kami selalu mendukungnya. 
+it	Ma noi lo sosteniamo sempre. 
+ja	&lrm;常にサポートしてる | 
+ko	&lrm;하지만 우린 항상 아이 편이었어요 | 
+ms	Tapi kami sentiasa sokong dia. 
+pt	Mas nós apoiamo-lo sempre. 
+ro	Dar noi îl sprijinim mereu. 
+sv	Vi stöttar honom alltid. 
+th	&lrm;แต่เราสนับสนุนเขาเสมอ | 
+tr	Ama onu hep destekliyoruz. 
+vi	&lrm;Nhưng chúng tôi luôn hỗ trợ nó. | 
+zh-long	但我們總是支持他 
+zh-short	但我们一直是支持他的 
+el	-Μα πάντα τον στηρίζουμε. -Είπε ότι δεν μας εμπιστεύεται; 
+nl	Maar we steunen hem altijd. -Vertrouwt hij ons niet? 
+pt-br	- Mas sempre o apoiamos. - Ele disse que não confia em nós? 
+uk	-Ми завжди його підтримуємо. -Він сказав, що не довіряє нам? 
+no	-Men vi støtter ham alltid. -Sa han at han ikke stoler på oss? 
+ru	Но мы всегда его поддерживаем. 
+es	Pero siempre lo apoyamos. 
+

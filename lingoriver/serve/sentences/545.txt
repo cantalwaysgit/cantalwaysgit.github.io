@@ -1,0 +1,74 @@
+id	Ya, aku membuat tato. 
+ja	タトゥーを入れたんだ | 
+ru	-Сделал татуировку. -Какую? 
+ar	&rlm;‏حصلت على وشم.‏ | 
+da	Ja, jeg er blevet tatoveret. 
+el	Έκανα ένα τατουάζ. 
+fi	Otin tatuoinnin. 
+fr	Je me suis fait tatouer. 
+he	&rlm;‏עשיתי קעקוע.‏ | 
+it	Mi sono fatto un tatuaggio. 
+ko	문신 하나 새겼어 | 
+pl	Zrobiłem sobie tatuaż. 
+pr-br	Eu fiz uma tatuagem. 
+pr	Pois, fiz uma tatuagem. 
+ro	M-am tatuat. 
+sp-eu	Me he hecho un tatuaje. 
+sp	Me hice un tatuaje. 
+sv	Jag har tatuerat mig. 
+th	ผมไปสักมาน่ะ | 
+tr	Dövme yaptırdım da. 
+vi	Ừ, tôi vừa mới xăm. | 
+zh-long	我剛去弄了個刺青 
+zh-short	我纹身了 
+en	-Yeah, I got myself a tattoo. | -What'd you get? | 
+nl	Ik heb een tattoo laten zetten. -Wat is het? 
+ar	&rlm;‏ما هو الرسم؟‏ | 
+da	Hvad har du fået? 
+el	Τι σχέδιο έκανες; 
+fi	Millaisen? 
+fr	Quoi ? 
+he	&rlm;‏מה עשית?‏ | 
+it	Di che tipo? 
+ko	어떤 거로요? | 
+pl	Jaki? 
+pr-br	O que fez? 
+pr	De quê? 
+ro	Cu ce? 
+sp-eu	¿Qué te has hecho? 
+sp	¿Qué es? 
+sv	Vadå för nåt? 
+th	สักลายอะไรล่ะ | 
+tr	Ne yaptırdın? 
+vi	Anh xăm hình gì? | 
+zh-long	刺什麼圖案？ 
+zh-short	纹的什么？ 
+id	Tato apa? 
+ja	何の？ | 
+no	-Hva tok du? -Den er av et hundebitt. 
+en	Uh... it is that of a dog bite. | 
+id	Bentuk gigitan anjing. 
+ja	犬の歯形のタトゥーさ | 
+ar	&rlm;‏عضة كلب.‏ | 
+da	Et hundebid. 
+el	Τη δαγκωματιά ενός σκύλου. 
+fi	Koiran pureman. 
+fr	Ça représente une morsure de chien. 
+he	&rlm;‏נשיכה של כלב.‏ | 
+it	È il morso di un cane. 
+nl	Een soort hondenbeet. 
+pl	Ugryzienia psa. 
+pr-br	Uma mordida de cachorro. 
+pr	É uma tatuagem de mordidela de cão. 
+ro	Cu mușcătura unui câine. 
+sp-eu	El dibujo de un mordisco de perro. 
+sp	La mordedura de un perro. 
+sv	Det är ett hundbett. 
+th	เป็นรอยหมากัด | 
+tr	Köpek ısırığı. 
+vi	Là vết chó cắn. | 
+zh-long	狗的咬痕 
+zh-short	狗牙印 
+ko	개한테 물린 모습으로 | 
+ru	Собачий укус. 
+

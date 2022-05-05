@@ -1,0 +1,64 @@
+en	[Henry] He lived | on the biggest property in Bel Air. | 
+ar	&rlm;‏عاش في أكبر منزل في "بيل أير".‏ | 
+da	Han boede på den største grund i Bel Air. 
+el	Ζούσε στο μεγαλύτερο ακίνητο του Μπελ Ερ. 
+fi	Hän asui Bel Airin isoimmalla tontilla. 
+fr	Il habitait la plus grande propriété de Bel Air. 
+he	&rlm;‏הוא גר בנכס הגדול ביותר בבל אייר.‏ | 
+it	Viveva nella più grande proprietà di Bel Air. 
+ko	벨에어에서도 | 가장 큰 집에 살았어요 | 
+nl	Hij woonde in het grootste huis van Bel Air. 
+no	Han bodde på den største tomten i Bel Air. 
+pl	Największa posiadłość w Bel Air. 
+pr-br	Ele morava na maior mansão de Bel Air. 
+pr	Ele vivia na maior propriedade de Bel Air. 
+ro	Locuia în cea mai mare proprietate din Bel Air. 
+ru	Он жил в самом большом доме в Бель-Эйр. 
+sp-eu	Vivía en la casa más grande de Bel Air. 
+sp	Vivía en la propiedad más grande en Bel Air. 
+sv	Han bodde på den största  egendomen i Bel Air. 
+th	เขาอยู่ในบ้านที่ใหญ่ที่สุดในเบลแอร์ | 
+tr	Bel Air'deki en büyük mülkte yaşardı. 
+vi	Anh ta sống | trên mảnh đất rộng nhất ở Bel Air. | 
+zh-long	他住在貝萊爾最大的豪宅裡 
+zh-short	他家占地是贝尔艾尔区最大的 
+id	Dia tinggal di properti terbesar 
+ja	敷地面積はベルエアで一番 | 
+id	- di Bel Air. - Ya. 
+en	[actor] Yeah. | 
+
+cs	Pane, 
+zh-long	警官 
+es	Agente, alquilamos habitaciones por hora. 
+el	Κύριε, 
+fi	Ei. | 
+ru	Слушайте, 
+zh-short	先生 
+da	Vi udlejer værelser på timebasis. | 
+en	Sir, we rent rooms by the hour. 
+es-eu	Alquilamos las habitaciones por horas. 
+fr	Monsieur, on loue des chambres à l'heure. 
+he	‫אדוני, אנחנו משכירים חדרים לפי שעה.‬ | 
+hr	Gospodine, iznajmljujemo sobe po satu. 
+hu	Uram, órára adunk ki szobákat. 
+id	Pak, kami menyewakan kamar per jam. 
+it	Signore, affittiamo le stanze a ore. 
+ja	&lrm;うちは時間貸しの | &lrm;ホテルなんでね | 
+ko	&lrm;'짧은 밤' 손님들이니 | 
+ms	Encik, kami sewakan bilik ikut jam. 
+nl	Meneer, we verhuren kamers per uur. 
+no	Vi leier ut rom på timebasis. 
+pt-br	Senhor, alugamos quartos por hora aqui. 
+pt	Nós alugamos quartos à hora. 
+ro	Închiriem camerele cu ora. 
+th	&lrm;คุณตำรวจ เราให้เช่าห้องพักรายชั่วโมง | 
+uk	Пане, тут можна зняти номер погодинно. 
+vi	&lrm;Anh à, thuê phòng theo giờ. | 
+sv	Vi hyr ut våra rum per timme. Folk föredrar att inte bli filmade. 
+fi	Vuokraamme huoneita tuntitaksalla. | 
+ru	у нас тут почасовая аренда комнат. 
+cs	my pronajímáme pokoje na hodinu. 
+el	νοικιάζουμε δωμάτια με την ώρα. 
+zh-short	我们酒店都是小时房 
+zh-long	我們的客房是以小時計費 
+

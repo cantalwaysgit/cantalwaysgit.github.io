@@ -1,0 +1,20 @@
+ru	-Да? -Да. 
+pr-br	-Está bem? -Está bem. 
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	Okay. | 
+fi	Selvä. 
+he	&rlm;‏בסדר.‏ | 
+ko	알았어요 | 
+pr	Está bem. 
+ro	Bine. 
+sp	De acuerdo. 
+sp-eu	Vale. 
+sv	Okej. 
+th	โอเค | 
+tr	Tamam. 
+vi	Vâng. | 
+zh-long	好 
+zh-short	好的 
+

@@ -1,0 +1,58 @@
+id	Menurut Sandy aku bisa menjadi Patrick Swayze berikutnya. 
+ru	Сэнди сказал, что я стану новым Патриком Суэйзи. 
+ar	&rlm;‏‏قال "ساندي" إنني قد أكون | &rlm;‏"باتريك سوايزي" التالي.‏ | 
+da	Sandy sagde, jeg kunne blive den næste Patrick Swayze. 
+el	Μου είπε ότι μπορώ να γίνω ο επόμενος Πάτρικ Σουέιζι. 
+en	Sandy said I could be | the next Patrick Swayze. [scoffs] | 
+fi	Sandy sanoi, että voisin olla seuraava Patrick Swayze. 
+fr	Pour Sandy, j'étais le futur Patrick Swayze. 
+he	&rlm;‏‏סנדי אמר שאני יכול להיות | &rlm;‏פטריק סווייזי הבא.‏ | 
+it	Sandy mi disse che avrei potuto essere il nuovo Patrick Swayze. 
+ko	제가 차세대 패트릭 스웨이지가 | 될 수도 있다고 했어요 | 
+nl	Sandy zei dat ik de nieuwe Patrick Swayze zou worden. 
+no	Sandy sa jeg kunne bli den neste Patrick Swayze. 
+pl	Mówił, że mogę zostać drugim Patrickiem Swayze. 
+pr-br	Sandy disse que eu poderia ser o próximo Patrick Swayze. 
+pr	O Sandy disse que eu podia ser o próximo Patrick Swayze. 
+ro	Sandy a zis că aș putea fi următorul Patrick Swayze. 
+sp-eu	Sandy me dijo que podía ser el próximo Patrick Swayze. 
+sp	Sandy dijo que yo podría ser el próximo Patrick Swayze. 
+sv	Han sa att jag kunde bli nästa Patrick Swayze. 
+th	แซนดี้บอกว่าผมอาจเป็น | แพทริค สเวย์ซีคนต่อไป | 
+tr	Sandy geleceğin Patrick Swayze'si olabileceğimi söylemişti. 
+vi	Sandy nói tôi có thể trở thành | Patrick Swayze kế cận. | 
+zh-long	山迪曾說 我是下一個派屈克史威茲 
+zh-short	桑迪曾说我会是下一个 帕特里克斯韦兹 
+ja	僕を | “Ｐ･スウェイジの再来”と | 
+
+es	- ¿Había desaparecido antes? - Nunca. 
+ja	&lrm;過去には？ | 
+da	-Er det sket før? | -Aldrig. | 
+el	-Έχει ξανακάνει κάτι τέτοιο; -Ποτέ. 
+es-eu	- ¿Lo había hecho antes? - Nunca. 
+fi	Katoileeko hän joskus? | -Ei koskaan. | 
+fr	- C'est déjà arrivé ? - Jamais. 
+he	‫זה קרה בעבר?‬ | ‫-מעולם לא.‬ | 
+hr	-Je li to već činila? -Nikada. 
+id	- Itu pernah terjadi? - Tak pernah. 
+ko	&lrm;- 전에도 이런 적이 있습니까? | &lrm;- 전혀요 | 
+ms	- Dia pernah buat begini? - Tak. 
+nl	Is dit eerder gebeurd? -Nooit. 
+pt-br	- Ela já fez isso antes? - Nunca. 
+pt	- Ela já tinha feito isso? - Nunca. 
+ro	- S-a mai întâmplat asta? - Nu. 
+sv	-Har det hänt förut? -Nej. 
+th	&lrm;- เธอเคยทำแบบนี้มั้ย | &lrm;- ไม่เคย | 
+tr	-Bunu hiç yapmış mıydı? -Asla. 
+uk	-Вона раніше так робила? -Ніколи. 
+vi	&lrm;- Cô ấy từng làm vậy chưa? | &lrm;- Chưa từng. | 
+zh-long	-她有突然失蹤過嗎？ -從來沒有 
+zh-short	-她以前发生过这种事吗？ -没有 
+cs	- Už takhle někdy zmizela? - Ne. 
+en	-She done anything like this before? -Never. 
+hu	- Csinált már ilyet? - Soha. 
+it	- L'aveva già fatto prima? - Mai. 
+no	-Hadde hun gjort det før? -Aldri. 
+ru	- Раньше такое бывало? - Никогда. 
+ja	&lrm;ないです | 
+

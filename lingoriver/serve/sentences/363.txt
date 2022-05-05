@@ -1,0 +1,30 @@
+ja	私はどれ？ | 
+en	Show me which star I am. | 
+ar	&rlm;‏‏- أية نجمة أنا؟ | &rlm;‏- أتودين معرفة أية نجمة أنت؟‏ | 
+da	-Hvilken stjerne er jeg? -Vil du vide, hvilken stjerne du er? 
+el	-Ποιο αστέρι είμαι εγώ; -Θέλεις να μάθεις; 
+fi	-Mikä tähti minä olen? -Haluatko tietää? 
+fr	- Laquelle je suis ? - Quelle étoile tu es ? 
+he	&rlm;‏‏איזה כוכב אני? | &rlm;‏-את רוצה לדעת איזה כוכב את?‏ | 
+it	- Io quale stella sono? - Vuoi sapere quale sei? 
+nl	Welke ster ben ik? -Wil je dat weten? 
+no	-Hvilken stjerne er jeg? -Vil du vite hvilken? 
+pl	- Którą jestem gwiazdą? - Chcesz wiedzieć? 
+pr-br	-Que estrela eu sou? -Quer saber que estrela é? 
+pr	- Que estrela sou? - Queres saber que estrela és? 
+ro	- Care stea sunt eu? - Vrei să știi care stea ești tu? 
+sp	- ¿Cuál estrella soy yo? - ¿Quieres saber cuál eres? 
+sp-eu	- ¿Cuál soy yo? - ¿Quieres saber qué estrella eres? 
+sv	-Vilken stjärna är jag? -Vill du veta det? 
+th	- ฉันเป็นดาวดวงไหนล่ะ | - อยากรู้หรือว่าดวงไหน | 
+tr	-Ben hangi yıldızım? -Hangisi olduğunu mu merak ediyorsun? 
+vi	- Tôi là ngôi sao nào? | - Cô muốn biết mình là sao nào? | 
+zh-long	-我是哪顆星？ -妳想知道？ 
+zh-short	-我是哪颗星？ -想知道你是哪颗星吗？ 
+id	Tunjukkan bintangnya. 
+ru	-Какая из них - я? -Какая ты звезда? 
+ko	- 전 어떤 별인데요? | - 어떤 별인지 궁금해? | 
+ja	どの星かって？ そうだな | 
+id	- Kau mau tahu bintangmu yang mana? - Ya. 
+en	-You wanna know which star you are? | -Yeah. | 
+

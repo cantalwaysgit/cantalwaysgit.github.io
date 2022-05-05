@@ -1,0 +1,26 @@
+ar	&rlm;‏أيعجبك يا "سانفورد"؟‏ | 
+da	Sanford, kan du lide den? 
+el	Εσένα σου αρέσει, Σάνφορντ; 
+en	And, Sanford, you likey? | 
+it	Sanford, ti piace? 
+ko	샌디, 마음에 들어? | 
+nl	Vind jij hem lekker, Sanford? 
+pr-br	Gostou, Sandy? 
+pr	E tu, Sanford, gostas? 
+sp-eu	Sanford, ¿te gusta? 
+sp	Y, Sanford, ¿te gusta? 
+sv	Sanford, gillar du det? 
+tr	Sen beğendin mi Sanford? 
+vi	Còn, Sanford, anh thích chứ? | 
+zh-long	山迪，喜歡嗎？ 
+zh-short	桑福德 你喜欢吗？ 
+he	&rlm;‏וסנפורד, אתה אוהב אותו?‏ | 
+ja	サンディは？ | 
+fi	Tykkääkö Sanford? 
+fr	Sanford, ça te plaît ? 
+id	Sanford, kau suka? 
+pl	A tobie smakuje? 
+ro	Sanford, îți place? 
+ru	Сэнфорд, а тебе как? 
+th	แล้วก็ แซนฟอร์ด ชอบมะ | 
+

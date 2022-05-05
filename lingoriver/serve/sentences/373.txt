@@ -1,0 +1,27 @@
+id	Sekarang aku paham. 
+ja	なるほど | 
+ru	Ну конечно. 
+ar	&rlm;أستطيع ملاحظة ذلك الآن. | 
+da	Det ser jeg nu. 
+el	Έπρεπε να το καταλάβω. 
+en	I can see that now. | 
+fi	Nyt huomaankin. 
+fr	Ça se voit, en fait. 
+he	&rlm;‏אני רואה את זה עכשיו.‏ | 
+it	Ora è tutto chiaro. 
+nl	Nu zie ik het. 
+no	Nå ser jeg det. 
+pl	Teraz to widzę. 
+pr	Agora já percebo. 
+pr-br	Agora entendi. 
+ro	Îmi dau seama acum. 
+sp	Ahora entiendo. 
+sp-eu	Ahora lo veo. 
+sv	Nu ser jag det. 
+th	ชักมองเห็นแล้วละ | 
+tr	Şimdi anlıyorum. 
+vi	Giờ thì tôi thấy rồi. | 
+zh-long	有點像 
+zh-short	现在我看出来了 
+ko	이제 알겠어요 | 
+

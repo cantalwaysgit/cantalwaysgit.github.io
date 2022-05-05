@@ -1,0 +1,28 @@
+id	Lalu kau bisa mengirim dokumen ke komputer lainnya 
+ar	&rlm;‏‏ويمكنك إرسال وثيقة | &rlm;‏إلى حاسوب آخر عبر البلاد‏ | 
+da	...og du kan sende et dokument til en anden computer i hele landet 
+el	και μπορείς να στείλεις ένα αρχείο σ' έναν άλλο υπολογιστή στη χώρα. 
+en	...and you could send a document to | another computer clear across the country | 
+fi	ja asiakirja voidaan lähettää toiseen tietokoneeseen maan poikki - 
+fr	et tu peux envoyer un document à un ordi de l'autre côté du pays. 
+he	&rlm;‏‏ואתה יכול לשלוח מסמך ישירות למחשב אחר | &rlm;‏בצד השני של ארה"ב‏ | 
+it	E puoi spedire un documento a un computer dalla parte opposta del Paese 
+nl	...en dan kun je een document versturen naar een andere computer... 
+no	...og du kan sende et dokument til en annen PC på den andre siden av landet 
+pl	I możesz przesłać dokument komuś na drugim końcu kraju. 
+pr-br	e manda um documento para outro computador do outro lado do país 
+pr	e podes enviar um documento para um computador no outro lado do país 
+ro	și poți trimite un document la alt computer din capătul opus al țării 
+sp-eu	...y puedes mandar un documento a otro ordenador en el otro extremo del país 
+sp	y puedes enviar documentos a otra computadora del otro lado del país 
+sv	och så kan man skicka ett dokument till en annan dator tvärsöver landet, 
+th	แล้วสามารถส่งข้อความข้ามประเทศ | ไปที่คอมพิวเตอร์อีกเครื่อง | 
+tr	ve ülkenin öbür ucundaki başka bir bilgisayara belgeler gönderebiliyorsun. 
+vi	và anh có thể gửi một tài liệu cho | máy tính khác ở đầu kia của đất nước | 
+zh-long	就可以把資料寄給另一臺電腦 不管它在哪裡 
+zh-short	就可以跨越全国 把文件发到另一台电脑上 
+ja	他のパソコンに | 文書を送れるんだ | 
+ru	и посылаешь документ 
+ko	전국 컴퓨터로 | 문서를 보낼 수 있어요 | 
+ru	на другой компьютер 
+

@@ -1,0 +1,27 @@
+id	Kau pantas menerimanya. Sungguh. 
+ru	Ты это заслужила. 
+ja	実力がある | 
+en	You deserve it all. You really do. | 
+ar	&rlm;‏تستحقين كل ذلك حقاً.‏ | 
+da	Du fortjener det hele. 
+el	Το αξίζεις πραγματικά. 
+fi	Ansaitset kaiken. 
+fr	C'est amplement mérité. 
+he	&rlm;‏מגיע לך בגדול.‏ | 
+it	Te lo meriti proprio. 
+ko	충분한 자격이 있으니까 | 
+nl	Je verdient het allemaal. 
+no	Du fortjener alt sammen. 
+pl	Zasługujesz na to. 
+pr-br	Você merece tudo isso. 
+pr	Mereces isso tudo. Mereces mesmo. 
+ro	Meriți cu vârf și îndesat. 
+sp-eu	Te lo mereces todo. 
+sp	Te mereces todo. 
+sv	Du förtjänar allt. 
+th	คุณสมควรกับทุกอย่าง | 
+tr	Hepsini hak ettin. 
+vi	Cô rất xứng đáng. Thật đấy. | 
+zh-long	妳實至名歸 
+zh-short	你绝对配得上 
+

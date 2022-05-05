@@ -1,0 +1,57 @@
+en	If you land on your feet-- | 
+ar	&rlm;‏‏- إن نجحت مغامرتك... | &rlm;‏- كم ستستغرق من الوقت؟‏ | 
+da	-Hvis du lander på fødderne... -Varer det længe? 
+el	-Αν ανακάμψεις... -Πόση ώρα θα μιλήσεις; 
+fi	-Jos hyvin käy... -Kauanko sinulla menee? 
+fr	- Si tu remontes la pente... - T'en as pour longtemps ? 
+he	&rlm;‏‏אם תנחת על הרגלים... | &rlm;‏-כמה זמן זה עוד ייקח?‏ | 
+it	- Se cadrai in piedi... - Quanto ci vorrà? 
+ko	- 어려움을 이겨내시면... | - 언제까지 통화할 거예요? | 
+nl	Als je goed terechtkomt... -Hé, hoelang duurt het nog? 
+no	-Lander du på bena... -Hvor lenge skal du prate? 
+pl	- Chcesz spaść na cztery łapy... - Długo jeszcze? 
+pr	- Se te voltares a erguer... - Vai demorar muito? 
+ro	- Dacă aterizezi în picioare... - Amice, cât mai durează? 
+sp-eu	- Si tienes suerte... - ¿Cuánto le queda? 
+sp	- Si tienes suerte... - ¿Cuánto se demorará? 
+sv	-Om du landar på fötterna... -Är du klar snart? 
+th	- ถ้าคุณโชคดี... | - จะคุยอีกนานไหม | 
+tr	-Ayaklarının üstüne düşersen... -Daha ne kadar sürecek? 
+vi	- Nếu cậu lại gặt hái được... | - Anh định nói bao lâu nữa? | 
+zh-long	-如果你腳踏實地… -你還要講多久？ 
+zh-short	-如果你成功了… -你要打多久？ 
+id	- Jika kau mengatasinya... - Bung, berapa lama lagi? 
+ru	-Если тебе повезет... -Вы скоро? 
+pr-br	-Se você se reerguer... -Vai demorar muito? 
+ja	足で着地を… | 
+
+es	KASIA: OYE, NO VENGAS A MI FIESTA DE CUMPLEAÑOS. 
+cs	KASIA: HEJ, HLAVNĚ NECHOĎ NA MOJI OSLAVU NAROZEK. 
+da	KASIA: HEJ. KOM IKKE | TIL MIN FØDSELSDAGSFEST | 
+el	ΚΑΣΙΑ: ΜΗΝ ΕΡΘΕΙΣ ΣΤΟ ΠΑΡΤΙ ΓΕΝΕΘΛΙΩΝ ΜΟΥ 
+en	KASIA: HEY. DON'T COME TO MY BIRTHDAY PARTY 
+es-eu	KASIA: NO VENGAS A MI CUMPLEAÑOS. 
+fi	KASIA: HEI. ÄLÄ TULE SYNTTÄREILLENI | 
+fr	KASIA : NE VIENS PAS À MA FÊTE D'ANNIVERSAIRE 
+he	‫- קסיה: היי, אל תבואי‬ | ‫למסיבת יום ההולדת שלי -‬ | 
+hr	KASIA: HEJ. NEMOJ DOĆI NA MOJ ROĐENDAN 
+hu	KASIA: HALI, NE GYERE A SZÜLINAPI BULIMRA 
+id	HEI. JANGAN DATANG KE PESTA ULANG TAHUNKU. KASIA. 
+it	KASIA: EHI, NON VENIRE ALLA MIA FESTA DI COMPLEANNO 
+ja	&lrm;“カシャ： | &lrm;誕生パーティーに来ないで” | 
+ko	&lrm;"카시아: 내 생파에 오지 마!" | 
+ms	KASIA: JANGAN DATANG KE PARTI HARI JADI AKU 
+nl	KASIA: KOM NIET NAAR MIJN VERJAARDAGSFEESTJE 
+no	IKKE KOM PÅ FESTEN MIN. KASIA 
+pt-br	KASIA: OI, NÃO VÁ AO MEU ANIVERSÁRIO 
+pt	KASIA: OLÁ. NÃO VENHAS À MINHA FESTA DE ANOS. 
+ro	KASIA: SĂ NU VII LA ZIUA MEA 
+ru	КАСЯ: ЭЙ! НЕ ПРИХОДИ КО МНЕ НА ДЕНЬ РОЖДЕНИЯ. 
+sv	KASIA: DU, KOM INTE PÅ MIN FÖDELSEDAGSFEST 
+th	&lrm;(กาเซีย: ไม่ต้องมาปาร์ตี้วันเกิดฉันนะ) | 
+tr	KASIA: DOĞUM GÜNÜ PARTİME GELEMEZSİN 
+uk	КАСЯ: НЕ ПРИХОДЬ НА МІЙ ДЕНЬ НАРОДЖЕННЯ. 
+vi	&lrm;KASIA: NÀY. | &lrm;ĐỪNG ĐẾN TIỆC SINH NHẬT TỚ ĐẤY | 
+zh-long	（凱夏：別來參加我的生日派對） 
+zh-short	（卡莎：嘿 别来参加我的生日派对） 
+

@@ -1,0 +1,57 @@
+id	Sukses berkelanjutan, Arsenio! 
+ar	&rlm;‏أتمنى لك نجاحاً مستمراً يا "آرسينيو"!‏ | 
+da	Fortsat god succes, Arsenio! 
+el	Διαρκής επιτυχία, Αρσένιο! 
+en	Continued success, Arsenio! | 
+fi	Toivotan menestystä! 
+fr	Bonne continuation, Arsenio ! 
+he	&rlm;‏תמשיך להצליח, ארסיניו!‏ | 
+it	Un successo continuo, Arsenio! 
+ko	계속 성공하길 빌게! | 
+nl	Blijvend succes. 
+pl	Życzę sukcesów, Arsenio! 
+pr-br	Sucesso contínuo, Arsenio! 
+pr	Votos de continuação de sucesso, Arsenio! 
+ro	Succes în continuare, Arsenio! 
+sp-eu	¡Sigue triunfando, Arsenio! 
+sp	¡Que sigan los éxitos, Arsenio! 
+sv	Fortsatt framgång! 
+th	สำเร็จต่อไปนะ อาเซนนิโอ | 
+tr	Başarılarının devamını diliyorum Arsenio! 
+vi	Tiếp tục thành công nhé, Arsenio! | 
+zh-long	要一直大紅大紫喔，阿塞尼奧 
+zh-short	要一直成功下去 阿塞尼奥！ 
+ru	Так держать, Арсенио! 
+ja	成功し続けろ　アーセニオ！ | 
+no	Varig suksess, Arsenio! 
+
+uk	Певно, щось сталося. 
+cs	Něco se muselo stát, tati. 
+fi	Hänelle on sattunut jotain. | 
+pt-br	Algo deve ter acontecido, pai. 
+da	Der må være sket noget. | 
+el	Κάτι πρέπει να συνέβη. 
+en	Something must have happened. 
+es	Debe haberle pasado algo. 
+es-eu	Tiene que haberle pasado algo. 
+fr	Il a dû se passer un truc. 
+he	‫משהו בטח קרה.‬ | 
+hr	Sigurno se nešto dogodilo. 
+hu	Biztos történt vele valami. 
+id	Pasti terjadi sesuatu. 
+ja	&lrm;何かあったのよ | 
+ko	&lrm;무슨 일이 있는 게 틀림없어요 | 
+ms	Tentu ada sesuatu yang berlaku. 
+nl	Er moet iets gebeurd zijn. 
+no	Noe må ha skjedd. 
+pt	Aconteceu alguma coisa, pai. 
+ro	Sigur s-a întâmplat ceva. 
+ru	Видимо, что-то случилось, папа. 
+sv	Det måste ha hänt nåt. 
+th	&lrm;ต้องเกิดอะไรขึ้นแน่ๆ ค่ะพ่อ | 
+tr	Başına bir şey gelmiş olmalı. 
+vi	&lrm;Hẳn là có chuyện rồi. | 
+zh-long	一定是出事了 
+zh-short	肯定发生了什么事 
+it	Dev'essere successo qualcosa. 
+

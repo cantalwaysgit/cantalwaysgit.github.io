@@ -1,0 +1,27 @@
+fi	Mukavaa, että tulit. 
+ar	&rlm;‏‏- نشعر بالسرور لقدومك. | &rlm;‏- جيد.‏ | 
+da	-Vi er glade for, du er her. -Godt. 
+el	-Χαιρόμαστε που είσαι εδώ. -Ωραία. 
+en	-All right. We're glad you're here. | -Okay. Good. | 
+fr	- Ravi que tu sois là. - Super. 
+he	&rlm;‏‏אנחנו שמחים שאתה פה. | &rlm;‏-טוב.‏ | 
+it	- È bello che tu sia qui. - Bene. 
+nl	We zijn blij dat je er bent. 
+no	-Vi er glad du er her. -Bra. 
+pl	- Cieszymy się, że jesteś. - Dobrze. 
+pr-br	-Que bom que você está aqui. -Ótimo. 
+pr	- Estamos felizes por estares cá. - Ótimo. 
+ro	- Ne bucurăm că ai venit. - Bine. 
+sp-eu	- Nos alegramos de que estés aquí. - Bien. 
+sp	- Nos da gusto que estés aquí. - Bien. 
+sv	-Vi är glada att du är här. -Bra. 
+th	- เราดีใจที่คุณมาที่นี่ | - ดี | 
+tr	-Gelmene sevindik. -Güzel. 
+vi	- Rất vui vì anh ở đây. | - Tốt. | 
+zh-long	-很高興你過來 -好 
+zh-short	-我们很高兴你来了 -很好 
+ja	会えてよかった | 
+id	Kami senang kau datang. 
+ru	-Мы рады, что вы здесь. -Да. 
+ko	- 와 주셔서 고마워요 | - 그래 | 
+

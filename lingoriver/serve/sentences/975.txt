@@ -1,0 +1,26 @@
+ja	今日 Ｊ･カーソンから | 電話があり― | 
+id	Dengar, aku mendapat panggilan dari Johnny Carson hari ini. 
+ru	Мне сегодня звонил Джонни Карсон. 
+ar	&rlm;‏وردني اتصال من "جوني كارسون" اليوم.‏ | 
+da	Johnny Carson ringede i dag. 
+el	Μου τηλεφώνησε ο Τζόνι Κάρσον σήμερα. 
+en	I got a call from Johnny Carson | today, actually. | 
+fi	Johnny Carson soitti tänään. 
+fr	J'ai eu un coup de fil de Johnny Carson. 
+he	&rlm;‏קיבלתי היום טלפון מג'וני קרסון.‏ | 
+it	Mi ha chiamato Johnny Carson. 
+nl	Johnny Carson belde me vandaag. 
+no	Johnny Carson ringte meg i dag. 
+pl	Dzwonił dziś do mnie Johnny Carson. 
+pr-br	Recebi uma ligação de Johnny Carson hoje. 
+pr	Hoje recebi um telefonema do Johnny Carson. 
+ro	M-a sunat Johnny Carson azi. 
+sp-eu	Hoy me ha llamado Johnny Carson. 
+sp	Hoy me llamó Johnny Carson. 
+th	วันนี้ผมได้รับโทรศัพท์ | จากจอห์นนี่ คาร์สัน | 
+tr	Bugün Johnny Carson aradı. 
+vi	Tôi vừa nhận điện của Johnny Carson. | 
+zh-long	我今天接到強尼卡森的電話 
+zh-short	今天强尼卡尔森给我打了电话 
+ko	오늘 자니 카슨이 전화했어 | 
+

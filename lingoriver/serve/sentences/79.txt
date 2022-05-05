@@ -1,0 +1,56 @@
+id	- Aku tidak tahu. - Bagus. 
+ru	-Не знаю. -Молодцы! 
+nl	Geen idee. -Goed werk. 
+ar	&rlm;‏‏- لا أدري. | &rlm;‏- أحسنتم العمل.‏ | 
+da	-Ingen anelse. -Godt gået. 
+el	-Δεν ξέρω. -Μπράβο, παιδιά. 
+en	-No. I don't know. | -Good job, guys. | 
+fi	-En tiedä. -Loistavaa. 
+fr	- Je sais pas. - Bravo. 
+he	&rlm;‏‏אני לא יודע. | &rlm;‏-עבודה טובה.‏ | 
+it	- Non lo so. - Ottimo lavoro. 
+no	-Vet ikke. -Bra jobba. 
+pl	- Nie wiem. - Brawo. 
+pr-br	-Não sei. -Muito bem. 
+pr	- Não sei. - Bom trabalho. 
+ro	- Nu știu. - Bravo! 
+sp-eu	- No lo sé. - Buen trabajo. 
+sp	- No lo sé. - Buen trabajo. 
+sv	-Jag vet inte. -Snyggt. 
+th	- ไม่รู้ | - ทำได้ดี | 
+tr	-Bilmiyorum. -Aferin. 
+vi	- Tôi không biết. | - Tốt lắm. | 
+zh-long	-不清楚 -大家好棒 
+zh-short	-我不知道 -干得好 
+ko	- 몰라요 | - 잘했어요 | 
+
+es	Les agradezco. 
+cs	Děkujeme. 
+da	Tak. | 
+el	Ευχαριστούμε. 
+en	Thank you. 
+es-eu	Gracias. 
+fi	Kiitos. | 
+fr	Merci. 
+he	‫תודה.‬ | 
+hr	Hvala vam. 
+hu	Köszönjük. 
+id	Terima kasih. 
+it	Grazie. 
+ja	&lrm;ありがとう | 
+ko	&lrm;고맙다 | 
+ms	Terima kasih. 
+nl	Bedankt. 
+no	Takk. 
+pt-br	Obrigada. 
+pt	Obrigada. 
+ro	Mulțumesc. 
+ru	Спасибо. 
+sv	Tack. 
+th	&lrm;ขอบใจนะ | 
+tr	Teşekkür ederiz. 
+uk	Дякую. 
+vi	&lrm;Cảm ơn các cháu. | 
+zh-long	謝謝你們 
+zh-short	谢谢你们 
+

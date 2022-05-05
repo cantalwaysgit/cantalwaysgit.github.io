@@ -1,0 +1,27 @@
+id	sejak aku diserang di Ventura Place. 
+ja	老人ホームで襲われて以来な | 
+ru	с тех пор, как на меня напали у Вентура-Плэйс! 
+ar	&rlm;‏‏منذ تعرضت إلى هجوم | &rlm;‏في منتجع "فينتورا بليس".‏ | 
+da	efter jeg blev overfaldet på Ventura Place. 
+el	από τότε που μου επιτέθηκαν στο Βεντούρα Πλέις. 
+en	ever since I was attacked | on Ventura Place. | 
+fi	siitä asti, kun päälleni käytiin Ventura Placella. 
+fr	depuis mon agression sur Ventura Place. 
+he	&rlm;‏מאז שהתקיפו אותי בוונטורה פלייס.‏ | 
+it	da quando mi hanno aggredito a Ventura Place. 
+nl	...sinds ik ben aangevallen op Ventura Place. 
+no	...siden jeg ble angrepet på Ventura Place. 
+pl	od kiedy mnie napadli na Ventura Place. 
+pr-br	desde que fui atacado no shopping. 
+pr	desde que fui atacado em Ventura Place. 
+ro	de când am fost atacat pe strada Ventura Place. 
+sp	desde que me atacaron en Ventura Place. 
+sp-eu	desde que me atacaron en Ventura Place. 
+sv	ända sen jag attackerades på Ventura Place. 
+th	ตั้งแต่โดนทำร้ายที่เวนทูราเพลซ | 
+tr	arka koltuğumda ne taşıdığıma bak. 
+vi	từ khi tao bị tấn công | ở Ventura Place này. | 
+zh-long	自從在范杜拉購物中心遭受攻擊 我就一直帶著 
+zh-short	我的车上都放着什么 
+ko	벤추라 플레이스에서 | 공격당한 뒤로 싣고 다니지 | 
+

@@ -1,0 +1,26 @@
+ar	&rlm;‏لم يكن باسوراً، بل شقاً شرجياً.‏ | 
+da	Det var ikke en hæmoride, det var en sprække. 
+el	Δεν ήταν αιμορροΐδες, αλλά ραγάδες. 
+en	That wasn't a hemorrhoid, | that was a fissure. | 
+fi	Se oli kylläkin pykimä. 
+fr	C'était une fissure anale. 
+he	&rlm;‏אלה לא היו טחורים, זה היה פיסורה.‏ | 
+it	Non erano emorroidi, erano ragadi. 
+ko	치질이 아니라 열창이었어요 | 
+nl	Geen aambei, het was een kloof. 
+no	Det var ikke hemorroider, det var fissur. 
+pl	To była szczelina odbytu. 
+pr-br	Não era hemorroida, era uma fissura. 
+pr	Não era uma hemorroida, era uma fissura. 
+ro	N-a fost hemoroid, a fost fisură. 
+sp	Eso no era hemorroides, era una fisura. 
+sp-eu	No era una almorrana, era una fisura. 
+sv	Det var inte hemorrojder, det var en fissur. 
+th	นั่นไม่ใช่ริดสีดวง เป็นรอยแตก | 
+tr	Basur değildi, ufak bir çatlaktı. 
+vi	Không phải bệnh trĩ, mà là vết nứt. | 
+zh-long	那不是痔瘡，是皮膚太乾 
+zh-short	不是痔疮 是肛裂 
+ja	イボじゃなくて切れ痔だ | 
+id	Itu bukan wasir, tapi luka. 
+

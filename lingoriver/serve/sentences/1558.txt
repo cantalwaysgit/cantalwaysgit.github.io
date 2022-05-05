@@ -1,0 +1,26 @@
+id	Lihatlah. 
+ru	Вот видишь? 
+ja	ほら 大丈夫だ | 
+ar	&rlm;‏انظري إلى هذا.‏ | 
+da	Se lige der. 
+el	Είδες; 
+fi	Kappas vain. 
+fr	Regarde ça. 
+he	&rlm;‏תראי את זה.‏ | 
+it	Hai visto? 
+ko	성공적이네 | 
+no	Se på det. 
+pl	Widzisz. 
+pr-br	Veja só. 
+pr	Vejam só. 
+ro	Ca să vezi! 
+sp-eu	Fíjate en eso. 
+sp	Mira eso. 
+sv	Ser man på. 
+th	ดูนั่นสิ ดูนั่น | 
+tr	Şuna bak. 
+vi	Xem kìa. | 
+zh-long	妳看看… 
+zh-short	看啊 
+en	Look at that. Look at that. Huh? | 
+

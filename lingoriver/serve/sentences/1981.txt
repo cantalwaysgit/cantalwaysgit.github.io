@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- وصلت سيارتك الليموزين. | &rlm;‏- حان وقت العرض يا فتاة.‏ | 
+da	-Din limo er her. -Så er det showtime. 
+el	-Ήρθε η λιμουζίνα σου. -Είναι ώρα, κορίτσι μου. 
+en	-Courtney, your limo is here. | -It's showtime, girl. | 
+fi	-Limusiini tuli. -Show alkaa. 
+fr	- La limousine est arrivée. - C'est l'heure, ma belle. 
+he	&rlm;‏‏הלימוזינה שלך הגיע. | &rlm;‏-ההצגה מתחילה, ילדה.‏ | 
+id	- Courtney, limosinmu tiba. - Saatnya tampil. 
+it	- È arrivata la limousine. - Si va in scena, fanciulla. 
+ko	- 리무진 왔어 | - 이제 가는 거야 | 
+nl	Je limo is er. -Showtime, meid. 
+no	-Limoen er her. -Nå skjer det. 
+pl	- Limuzyna już jest. - Zaczynamy. 
+pr	- A limusina chegou. - Está na hora, miúda. 
+pr-br	-Sua limusine chegou. -É hora do show, garota. 
+ro	- A venit limuzina. - E momentul. 
+ru	-Лимузин прибыл. -Твой выход, девочка. 
+sp-eu	- Tu limusina ha llegado. - Es la hora del espectáculo. 
+sp	- Tu limo está aquí. - Es hora del show, nena. 
+sv	-Din limo är här. -Det är dags. 
+th	- รถมารับแล้ว | - ได้เวลาแล้ว | 
+tr	-Limuzin geldi. -Şov zamanı kızım. 
+vi	- Xe limo đến rồi. | - Đến giờ rồi, cô gái. | 
+zh-long	-禮車來了 -上場囉，妹子 
+zh-short	-房车到了 -要出去了 姑娘 
+ja	迎えが来た | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏سيد "ويكسلر"، أنا "تشيبي"  | &rlm;من مطعم "دان تاناس".‏ | 
+da	Hr. Wexler, det er Chippy fra Dan Tana's. 
+el	Κύριε Γουέξλερ, είμαι ο Τσίπι από το Νταν Τάνας. 
+en	Mr. Wexler, it is Chippy from Dan Tana's. | 
+fi	Täällä Chippy Dan Tana'sista. 
+fr	M. Wexler, c'est Chippy de Dan Tana's. 
+he	&rlm;‏מר וקסלר, מדבר צ'יפי מדן טאנה'ס.‏ | 
+id	Tuan Wexler, ini Chippy dari Restoran Dan Tana. 
+it	Sig. Wexler, sono Chippy del Dan Tana. 
+ko	웩슬러 씨 | 댄 타나의 치피예요 | 
+nl	Mr Wexler, met Chippy van Dan Tana's. 
+no	Mr. Wexler, det er Chippy fra Dan Tana's. 
+pl	Panie Wexler, mówi Chippy z Dan Tana's. 
+pr-br	Sr. Wexler, aqui é Chippy do restaurante Dan Tana's. 
+pr	Sr. Wexler, fala o Chippy, do Dan Tana's. 
+ro	Dle Wexler, sunt Chippy, de la Dan Tana's. 
+ru	Мистер Уэкслер, это Чиппи из «Дэн Тана». 
+sp-eu	Señor Wexler, soy Chippy de Dan Tana's. 
+sp	Sr. Wexler, soy Chippy de Dan Tana. 
+sv	Jag heter Chippy från Dan Tana's. 
+th	คุณเวกซ์เลอร์ | นี่ชิปปี้จากแดน ทาน่าส์ | 
+tr	Bay Wexler, ben Dan Tana's'tan Chippy. 
+vi	Anh Wexler, tôi là Chippy | ở nhà hàng Dan Tana's. | 
+zh-long	韋克斯勒先生 我是丹塔娜小館的齊普 
+zh-short	韦克斯勒先生 是丹塔纳餐厅的奇皮 
+ja	“ダンタナ”のチッピーです | 
+

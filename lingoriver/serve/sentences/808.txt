@@ -1,0 +1,27 @@
+ru	Нельзя ли засунуть его в ящик? Он меня пугает. 
+ar	&rlm;‏أيمكننا وضعه في درج؟ إن منظره مخيف.‏ | 
+da	Kan vi lægge ham i en skuffe? Det er jo skrækkeligt. 
+el	Μπορούμε να τον βάλουμε σ' ένα συρτάρι; Είναι τρομακτικό. 
+en	Can we put him in a drawer or something? | That's horrifying. | 
+fi	Pannaan hänet laatikkoon. Tuo on kammottavaa. 
+fr	On peut le ranger quelque part ? C'est horrible. 
+he	&rlm;‏אפשר לשים אותו במגרה? זה מחריד.‏ | 
+it	Non potremmo metterlo in un cassetto? È terrificante. 
+nl	Kunnen we hem in een la stoppen? Het is afschuwelijk. 
+no	Kan vi legge ham i en skuff? Det er skrekkelig. 
+pl	Schowajmy go do szuflady. Strach patrzeć. 
+pr-br	Podemos colocá-lo em uma gaveta? Isso é horrível. 
+pr	Podemos metê-lo numa gaveta? É horrível. 
+ro	Îl putem băga într-un sertar? E groaznic. 
+sp-eu	¿Podemos meterlo en un cajón? Es horroroso. 
+sp	¿Podemos guardarlo en un cajón o algo? Es horrible. 
+sv	Kan vi lägga honom i en låda? Det är läskigt. 
+th	เอาเขาไปใส่ในลิ้นชักหรืออะไรได้ไหม | มันขนลุก | 
+tr	Onu çekmeceye falan sokabilir miyiz? İnsanı korkutuyor. 
+vi	Có thể bỏ anh ta vào ngăn kéo không? | Nhìn ghê quá. | 
+zh-long	可以把他塞進抽屜之類的嗎？ 太可怕了 
+zh-short	能把他关进抽屉里吗？太吓人了 
+id	Bisa masukkan dia ke laci? Mengerikan. 
+ko	서랍 안에 넣으면 안 돼요? | 정말 끔찍하네요 | 
+ja	どこかにしまっとけ　怖いよ | 
+

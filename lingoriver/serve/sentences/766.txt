@@ -1,0 +1,46 @@
+ar	&rlm;‏"ركعت على ركبتك‏ | 
+el	Γονάτισες 
+fi	Sä olit polvillas 
+fr	Tu as mis un genou à terre 
+he	&rlm;‏כרעת ברך‏ | 
+it	Ti sei inginocchiato 
+ko	한쪽 무릎을 꿇고는 | 
+nl	je knielde voor me 
+pl	Uklęknąłeś 
+pr-br	Você ficou de joelhos 
+pr	E tu vieste ajoelhar 
+ro	Ai îngenuncheat 
+sp	De rodillas te ponías 
+sp-eu	Te pusiste de rodillas 
+sv	Du gick ner på knä 
+th	คุณคุกเข่าลง | 
+tr	Diz çöktün 
+vi	Anh đã quỳ gối | 
+zh-long	你單膝下跪 
+zh-short	你单膝下跪 
+da	Du gik ned på knæ Vi skulle giftes 
+en	♪ You got down on bended knee | Said you wanna marry me ♪ | 
+id	Kau berlutut dan bilang mau menikahiku 
+ru	Ты встал на колено передо мной И попросил моей руки 
+ja	プロポーズの言葉も | 　　　夢だったのかしら | 
+ar	&rlm;‏وقلت إنك تريد الزواج بي‏ | 
+el	Είπες ότι θες να με παντρευτείς 
+fi	Ja kuulin kosinnan 
+fr	Et m'a demandée en mariage 
+he	&rlm;‏אמרת שברצונך לשאת אותי‏ | 
+it	E mi hai chiesto di sposarti 
+ko	내게 결혼하고 싶다고 했지 | 
+nl	en zei dat je met me wilde trouwen 
+pl	Oświadczyłeś się 
+pr-br	E disse que queria se casar comigo 
+pr	E disseste que querias casar 
+ro	Ai zis că vrei să te însori cu mine 
+sp	Decías que casarte querías 
+sp-eu	Me dijiste que querías casarte conmigo 
+sv	Du ville gifta dig med mig 
+th	บอกว่าอยากแต่งงานกับฉัน | 
+tr	Bana evlenme teklif ettin 
+vi	Nói rằng muốn cưới em | 
+zh-long	說嫁給我吧 
+zh-short	说要娶我 
+

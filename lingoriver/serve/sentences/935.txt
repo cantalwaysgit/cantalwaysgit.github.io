@@ -1,0 +1,26 @@
+ko	고마워요! | 
+ja	ありがとう | 
+ar	&rlm;‏شكراً لك!‏ | 
+da	Tak! 
+el	Ευχαριστώ! 
+en	Thank you! | 
+fi	Kiitos. 
+fr	Merci ! 
+he	&rlm;‏תודה.‏ | 
+id	Terima kasih! 
+it	Grazie! 
+no	Takk! 
+pl	Dziękuję! 
+pr-br	Obrigada! 
+pr	Obrigada! 
+ro	Mulțumesc! 
+ru	Спасибо! 
+sp-eu	¡Gracias! 
+sp	¡Gracias! 
+sv	Tack! 
+th	ขอบคุณค่ะ | 
+tr	Teşekkür ederim! 
+vi	Cảm ơn anh! | 
+zh-long	謝謝！ 
+zh-short	谢谢！ 
+

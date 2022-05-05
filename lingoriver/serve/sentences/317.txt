@@ -1,0 +1,26 @@
+ja	お前に会えば元気満々さ | 
+id	Ayah selalu senang melihat putri Ayah. 
+ru	Отлично. Я же вижу мою детку. 
+ar	&rlm;‏إنه يوم رائع عندما أرى ابنتي.‏ | 
+da	Det er en god dag, når jeg ser min pige. 
+el	Πάντα είμαι καλά, όταν βλέπω το κοριτσάκι μου. 
+en	Oh, it's always a great day | when I see my little girl. | 
+fi	Hyvää, kun näen tyttäreni. 
+fr	Ça me fait plaisir de te voir. 
+he	&rlm;‏זה יום נהדר כשאני רואה את הילדה שלי.‏ | 
+it	Sempre bene quando vedo la mia fanciulla. 
+ko	우리 딸을 보니 아주 좋구나 | 
+nl	Altijd goed wanneer ik m'n meisje zie. 
+no	Bra når jeg får se jenta mi. 
+pl	Zawsze miło zobaczyć córeczkę. 
+pr-br	É sempre um ótimo dia quando vejo a minha filha. 
+pr	É sempre um bom dia quando vejo a minha menina. 
+ro	Ziua în care îmi văd fata e minunată. 
+sp	Es un gran día si veo a mi niña. 
+sp-eu	Siempre que veo a mi niña es un gran día. 
+th	มันคือวันเยี่ยมเสมอเมื่อเจอลูก | 
+tr	Kızımı gördüm ya, daha ne isterim? 
+vi	Thật tốt vì bố được gặp con gái. | 
+zh-long	看到我家小寶貝什麼都好 
+zh-short	见到女儿总是让人高兴的 
+

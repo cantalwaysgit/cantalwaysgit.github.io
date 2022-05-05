@@ -1,0 +1,26 @@
+ru	Потерпи. 
+ja	いいからやれ | 
+ar	&rlm;‏قم بذلك وحسب.‏ | 
+da	Kom nu i gang. 
+en	Just get on it. | 
+fi	Tee se. 
+fr	Fais un effort. 
+he	&rlm;‏פשוט תעשה את זה.‏ | 
+it	Fallo e basta. 
+nl	Doe het maar. 
+no	Bare gjør det. 
+pl	Lulaj go. 
+pr-br	Encare e pronto. 
+pr	Faz lá isso. 
+ro	Fă-o și gata! 
+sp-eu	Tú hazlo. 
+sp	Solo hazlo y ya. 
+sv	Sätt igång bara. 
+th	ทำเถอะน่า | 
+tr	İdare ediver. 
+vi	Cứ làm đi. | 
+zh-long	搖就對了 
+zh-short	做就是了 
+ko	그냥 해 | 
+id	Lakukan saja. 
+

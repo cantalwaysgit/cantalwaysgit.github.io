@@ -1,0 +1,27 @@
+id	Genius. 
+ru	Гениально! 
+ar	&rlm;‏أنت عبقري.‏ | 
+da	Genialt. 
+el	Ιδιοφυές. 
+en	-Genius. | -Huh? | 
+fi	Nerokasta. 
+fr	Du génie. 
+he	&rlm;‏גאון.‏ | 
+it	Geniale. 
+ko	천재야 | 
+nl	Geniaal. 
+no	Genialt. 
+pl	Genialne. 
+pr-br	Genial. 
+pr	És um génio. 
+ro	Genial! 
+sp-eu	Genial. 
+sp	Genial. 
+sv	Genialt. 
+th	อัจฉริยะ | 
+tr	Dâhice. 
+vi	Thiên tài. | 
+zh-long	天才 
+zh-short	绝了 
+ja	天才だ | 
+

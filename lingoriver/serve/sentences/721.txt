@@ -1,0 +1,54 @@
+id	Terima kasih. 
+ru	-Спасибо. -Ну вот! 
+el	-Ευχαριστώ. -Αυτό ακριβώς. 
+ar	&rlm;‏‏- شكراً. | &rlm;‏- انتهى الأمر.‏ | 
+da	-Tak. -Det er det. 
+en	-Thank you. | -That's it. | 
+fi	Kiitos. 
+fr	- Merci. - Parfait. 
+he	&rlm;‏‏תודה. | &rlm;‏-זהו זה.‏ | 
+it	- Grazie. - Esatto. 
+ko	- 고맙습니다 | - 그거야 | 
+pl	- Dzięki. - Tak. 
+pr-br	-Obrigada. -É isso. 
+pr	- Obrigada. - É isso. 
+ro	- Mersi. - Asta e! 
+sp-eu	- Gracias. - Eso es. 
+sp	- Gracias. - Listo. 
+sv	-Tack. -Just det. 
+th	- ขอบคุณ | - นั่นแหละ | 
+tr	-Teşekkürler. -Öyle. 
+vi	- Cảm ơn. | - Đúng vậy. | 
+zh-long	-謝謝 -沒錯 
+zh-short	-谢谢 -就这样 
+ja	それなら何の問題もない | 
+id	Kami hanya memedulikan lagunya. 
+ru	Песня - это главное. 
+en	The song is all we're worried about. | 
+zh-short	-我们担心的只有歌曲 -得把老套的三角铁去掉 
+ar	&rlm;‏‏- نشعر بالقلق من الأغنية وحسب. | &rlm;‏- تجب إزالة صوت المثلث السخيف.‏ | 
+da	-Vi er bekymret for sangen. -Den underlige triangel skal væk. 
+fi	-Kappale meitä vain huolettikin. -Se korni triangeli veks. 
+fr	- C'est tout ce qui compte. - Faut virer le triangle, c'est ringard. 
+he	&rlm;‏‏השיר הוא הדבר היחיד שאכפת לנו ממנו. | &rlm;‏-צריך להוציא את המשולש הקיטשי.‏ | 
+it	- L'importante è la canzone. - Elimina quel triangolo sdolcinato. 
+ko	- 노래만 걱정했거든 | - 진부한 트라이앵글은 빼세요 | 
+nl	We denken alleen aan het nummer. -Maar die duffe triangel moet eruit. 
+no	-Det er sangen vi tenker på. -Det teite triangelet må vekk. 
+pl	- Piosenka jest najważniejsza. - Ale ten durny trójkąt musi wylecieć. 
+pr-br	-Só estamos preocupados com a música. -Precisa tirar o triângulo brega. 
+pr	- É só a canção que nos interessa. - O triângulo piroso tem de sair. 
+ro	- Numai cântecul ne interesează. - Trebuie să renunțați la trianglul ăla. 
+sp-eu	- La canción era lo que nos preocupaba. - Hay que quitar ese triángulo cursi. 
+sp	- Solo nos preocupa la canción. - Hay que sacar ese triángulo cursi. 
+sv	-Sången är det vi oroade oss för. -Men skippa den töntiga triangeln. 
+th	- เพลงคือเรื่องเดียวที่เราเป็นห่วง | - ต้องโยนสามเหลี่ยมเลี่ยนๆ นั่นทิ้ง | 
+tr	-Bizim derdimiz şarkı. -O banal üçgen zili çıkarın ama. 
+vi	- Bài hát là điều chúng ta lo lắng. | - Cần phải bỏ thanh kẻng tam giác nhàm đi. | 
+zh-long	-我們擔心的就是歌唱的部分 -拜託拿掉俗氣的三角鐵 
+el	-Το τραγούδι είναι αυτό που μετράει. -Πάντως το σαχλό τρίγωνο πρέπει να φύγει. 
+id	Tapi buang bagian segitiga noraknya. 
+ru	Дурацкий треугольник надо убрать. 
+en	You gotta lose the corny triangle, | though, man. | 
+ja	トライアングルはダサい | 
+

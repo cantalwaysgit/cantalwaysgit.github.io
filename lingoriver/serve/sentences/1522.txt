@@ -1,0 +1,27 @@
+id	Entahlah. 
+ru	Не знаю. 
+zh-short	我不知道 
+fr	Je sais pas. 
+no	Jeg vet ikke. 
+tr	Bilmiyorum. 
+th	ฉันไม่รู้ | 
+pl	Sama nie wiem. 
+vi	Tôi không biết nữa. | 
+el	Δεν ξέρω. 
+en	I don't know. I... | 
+ja	さあね　ビリーと別れたの | 
+sv	Jag vet inte. Jag gjorde slut med Billy. 
+ar	&rlm;‏لا أدري.‏ | 
+da	Jeg ved det ikke. 
+fi	En tiedä. 
+he	&rlm;‏אני לא יודעת.‏ | 
+it	Non lo so. 
+pr-br	Não sei. 
+pr	Não sei. 
+ro	Nu știu. 
+sp-eu	No lo sé. 
+sp	No lo sé. 
+zh-long	不曉得 
+nl	Ik weet het niet. Het is uit met Billy. 
+ko	모르겠어요 | 
+

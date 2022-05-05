@@ -1,0 +1,51 @@
+id	Ya, mereka menemukanku. 
+ru	Да, нашли. 
+ar	&rlm;‏أجل، وجدوني.‏ | 
+da	Ja, de fandt mig. 
+el	Ναι, με βρήκαν. 
+en	Yeah, they found me. | 
+fi	Kyllä löysivät. 
+fr	Oui. 
+he	&rlm;‏כן, הם מצאו אותי.‏ | 
+it	Sì, mi hanno trovato. 
+ko	그래, 찾았어 | 
+no	Ja, de fant meg. 
+pl	Znaleźli. 
+pr-br	Sim, eles me encontraram. 
+pr	Sim, encontraram. 
+ro	Normal că m-au găsit. 
+sp-eu	Sí, me han encontrado. 
+sp	Sí, me encontraron. 
+sv	Ja, de hittade mig. 
+th	ใช่ พวกเขาตามผมเจอ | 
+tr	Evet, beni buldular. 
+vi	Phải, họ tìm được tôi rồi. | 
+zh-long	他們找到我了 
+zh-short	对 他们找到我了 
+nl	Ja, ze hebben me gevonden. Blijf daar zitten. 
+ja	呼び出されたんだ | 動かないで そのままでいろ | 
+id	Tetap di sini, paham? Jangan ke mana-mana. 
+ru	Ты сиди, хорошо? Сиди тут. 
+ar	&rlm;‏ابقي مكانك، مفهوم؟ ابقي حيث أنت.‏ | 
+da	Du bliver lige her. 
+el	Μείνε εκεί που είσαι, εντάξει; 
+en	You just stay put, okay? | You stay right there. | 
+fi	Pysy siinä. Älä liiku. 
+fr	Reste tranquille. Ne bouge pas. 
+he	&rlm;‏פשוט תישארי במקום, בסדר? תישארי כאן.‏ | 
+it	Tu non ti muovere, d'accordo? Resta lì. 
+no	Bare vent her. Bli der. 
+pl	Zostań. Nie ruszaj się stąd. 
+pr-br	Fique aí. Não saia daí. 
+pr	Não saias daí, está bem? Fica aí. 
+ro	Tu rămâi acolo, da? Nu te mișca. 
+sp-eu	Tú no te muevas, ¿vale? Quédate ahí. 
+sp	Quédate quieta, ¿sí? Quédate allí. 
+sv	Ta det lugnt bara. Stanna där du är. 
+th	อยู่ตรงนี้ เข้าใจไหม อยู่ตรงนี้นะ | 
+tr	Bir yere kıpırdama, tamam mı? Orada kal. 
+vi	Đừng đi đâu nhé? Cô ở yên đấy. | 
+zh-long	妳別亂動，好嗎？乖乖待著 
+zh-short	你别动 好吗？待着别动 
+ko	그대로 있어, 알았지? | 가만히 있으라고 | 
+

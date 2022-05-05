@@ -1,0 +1,53 @@
+id	Baiklah. Aku akan berjalan-jalan saja. 
+ru	Ну ладно. 
+ja	続けてくれ　散歩してくる | 
+ru	Пойду прогуляюсь тогда. 
+ko	산책 가든가 할게 | 
+ar	&rlm;‏سأذهب في نزهة.‏ | 
+da	Jeg går en tur eller noget. 
+el	Θα πάω να περπατήσω ή κάτι τέτοιο. 
+en	I'll go take a walk or something. | 
+fi	Käyn kävelyllä tai jossain. 
+fr	Je vais aller me promener. 
+he	&rlm;‏אצא לסיבוב או משהו.‏ | 
+it	Andrò a fare una passeggiata. 
+no	Jeg skal gå en tur eller noe. 
+pl	Pójdę się przejść czy coś. 
+pr-br	Vou dar uma volta. 
+pr	Eu vou dar uma volta. 
+ro	O să merg la o plimbare. 
+sp-eu	Iré a dar un paseo o algo. 
+sp	Iré a dar un paseo o algo. 
+sv	Jag ska ta en promenad. 
+th	ผมจะไปเดินเล่นหรือทำอย่างอื่น | 
+tr	Ben yürüyüşe falan çıkayım. 
+vi	Tôi sẽ đi dạo một lát. | 
+zh-long	我去散散步之類的 
+zh-short	我去散散步 
+nl	Ik ga een stukje wandelen. Ik wens je de beste avond van je leven. 
+id	Nikmatilah malam terbaik dalam hidupmu, Sandy. 
+ja	人生最高の夜を過ごせ | 
+ru	Нескучной тебе ночи, Сэнди. 
+ar	&rlm;‏احظ بأفضل ليلة في حياتك يا "ساندي".‏ | 
+da	Må du få den bedste aften i dit liv. 
+el	Να περάσεις την καλύτερη βραδιά της ζωής σου. 
+en	Have the best night of your life, Sandy. | 
+fi	Vietä elämäsi paras yö. 
+fr	Passe une très bonne nuit, Sandy. 
+it	Passa la notte migliore della tua vita. 
+ko	인생 최고의 밤을 보내 | 
+no	Ha ditt livs beste kveld. 
+pl	Życzę miłego wieczoru życia. 
+pr-br	Tenha a melhor noite de sua vida. 
+pr	Que seja a melhor noite da tua vida, Sandy. 
+ro	Să ai cea mai frumoasă noapte din viața ta! 
+sp-eu	Pasa la mejor noche de tu vida. 
+sp	Ten la mejor noche de tu vida, Sandy. 
+sv	Ha en underbar natt. 
+th	ขอให้มีค่ำคืนที่เยี่ยมที่สุดในชีวิต | 
+tr	Hayatının en iyi gecesini yaşa Sandy. 
+vi	Chúc có một đêm tuyệt vời nhất trong đời. | 
+zh-long	你好好享受 這輩子最美好的夜晚 
+zh-short	桑迪 好好享受你 人生中最美好的一晚 
+he	&rlm;‏אני מאחל לך את הלילה הכי טוב בחייך, סנדי.‏ | 
+

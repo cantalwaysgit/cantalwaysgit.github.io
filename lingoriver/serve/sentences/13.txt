@@ -1,28 +1,32 @@
-ar	&rlm;‏أين أبدأ؟‏ | 
-da	Hvor skal jeg begynde? 
-el	Από πού να αρχίσω; 
-en	[smacks lips] Where do I begin? | 
-it	Da dove posso iniziare? 
-ko	어디서부터 시작할까요? | 
-nl	Waar zal ik beginnen? 
-pl	Od czego zacząć? 
-pr-br	Por onde começo? 
-pr	Por onde começo? 
-sp-eu	¿Por dónde empiezo? 
-sp	¿Por dónde comenzar? 
-sv	Var ska jag börja? 
-zh-long	該從何說起呢？ 
-zh-short	我从哪开始呢？ 
-de	&lrm;-妳有打給他的乾媽嗎？ | &lrm;-有 | 
-he	&rlm;‏איפה להתחיל?‏ | 
-fr	Par où commencer ? 
-id	Dari mana aku mulai? 
-no	Hvor starter jeg? 
-vi	Tôi bắt đầu từ đâu nhỉ? | 
-ja	何 話そう | 
-fi	Mistä aloittaisin? 
-ru	С чего начать? 
-th	เริ่มตรงไหนดี | 
-tr	Nereden başlasam? 
-ro	Cu ce să încep? 
+ja	サンディ･ウェクスラー | 
+
+cs	Kde? 
+da	Hvor? | 
+el	Πού; 
+en	Where? 
+es	¿Dónde? 
+es-eu	¿Dónde? 
+fi	Mistä? | 
+fr	Où ça ? 
+he	‫איפה?‬ | 
+hr	Gdje? 
+hu	Hol? 
+id	Di mana? 
+it	Dove? 
+ja	&lrm;どこで？ | 
+ko	&lrm;어디요? | 
+ms	Di mana? 
+nl	Waar? 
+no	Hvor? 
+pt-br	Onde? 
+pt	Onde? 
+ro	Unde? 
+ru	Где? 
+sv	Var då? 
+th	&lrm;ที่ไหน | 
+tr	Nerede? 
+uk	Де? 
+vi	&lrm;Ở đâu? | 
+zh-long	在哪裡？ 
+zh-short	在哪里？ 
 

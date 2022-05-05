@@ -1,0 +1,52 @@
+id	Belakangan ini aku memikirkan caramu menggarap materi anak-anak. 
+ar	&rlm;‏‏كنت أفكر في كيفية عملك | &rlm;‏على عرض مناسب للأطفال.‏ | 
+da	Jeg har tænkt på, hvordan du kan arbejde på dit børnevenlige materiale. 
+el	Σκεφτόμουν ότι μπορείς να εξελίξεις το παιδικό σου ρεπερτόριο. 
+en	I've been thinking about how you | can work on your kid-friendly material. | 
+fi	Olen pohtinut, miten voit kehittää lapsiystävällistä matskua. 
+fr	J'ai une idée pour travailler tes blagues pour les enfants. 
+he	&rlm;‏‏חשבתי על האופן שבו אתה יכול לעבוד | &rlm;‏על חומר לילדים.‏ | 
+it	Ho pensato a come potresti proporre il tuo materiale per bambini. 
+ko	아이 친화적인 내용으로 가면 | 어떨까 생각 중이야 | 
+nl	Ik heb nagedacht over je kindvriendelijke materiaal. 
+no	Jeg har tenkt på hvordan du kan lage barnevennlig materiale. 
+pl	Zastanawiałem się, jak możesz ulepszyć swoje występy dla dzieci. 
+pr-br	Andei pensando em como você pode trabalhar seu material infantil. 
+pr	Estive a pensar como podes trabalhar o teu material para crianças. 
+ro	M-am gândit cum ți-ai putea alcătui materialul pentru copii. 
+ru	Я подумал, что тебе нужно поработать с детьми. 
+sp	Estuve pensando en cómo puedes ensayar el material para niños. 
+sp-eu	He estado pensando en cómo puedes escribir tu material para niños. 
+sv	Jag har tänkt på hur du kan jobba med barnvänligt material. 
+th	ฉันกำลังคิดว่า | นายจะทำงานที่เหมาะกับเด็กได้ยังไง | 
+tr	Çocuklara uygun malzemeni nasıl geliştirebileceğini düşünüyordum. 
+vi	Tôi đang nghĩ cách để anh | tham gia chương trình dành cho trẻ nhỏ. | 
+zh-long	我在想你要怎麼善用 你的兒童素材 
+zh-short	我一直在考虑演哪些适合儿童的题材 
+ja	子供にウケる腹話術を | 遊園地でやってみては？ | 
+id	Mungkin ke Magic Mountain. 
+el	Να πας στο Μαγικό Βουνό. 
+sv	Åk till Magic Mountain. 
+ar	&rlm;‏اذهب إلى منتزه "ماجيك ماونتن".‏ | 
+da	Måske tage til Magic Mountain. 
+en	Maybe go to Magic Mountain. | 
+fi	Mene Magic Mountainiin. 
+fr	Va au Parc de la montagne magique. 
+he	&rlm;‏לך ל"מג'ק מאונטיין".‏ | 
+it	Vai al Magic Mountain. 
+ko	매직 마운틴에 가 봐 | 
+nl	Ga naar Magic Mountain. 
+no	Dra til Magic Mountain. 
+pl	W parku Magic Mountain. 
+pr-br	Vá para o Magic Mountain. 
+pr	Talvez possas ir à Magic Mountain. 
+ro	Mergi în parcul de distracții. 
+sp-eu	Podrías ir a Magic Mountain. 
+sp	Ve a la Montaña Mágica. 
+th	ไปที่แมจิกเมาน์เทน | 
+tr	Büyülü Dağ'a gidebilirsin. 
+vi	Đến Công viên Núi Phép màu. | 
+zh-long	可以去六旗魔術山 
+zh-short	去魔术山看看 
+ru	Иди в «Волшебную гору». 
+

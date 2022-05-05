@@ -1,0 +1,27 @@
+ru	Ну что, детка? 
+ar	&rlm;‏ما قولك يا طفلة؟‏ | 
+da	Hvad siger du, stump? 
+el	Τι λες, μικρή; 
+en	What do you say, kid? | 
+fi	Mitäs sanot? 
+fr	Qu'est-ce que t'en dis ? 
+he	&rlm;‏מה את אומרת, ילדה?‏ | 
+it	Che ne dici, piccola? 
+no	Hva sier du? 
+pl	Co ty na to? 
+pr-br	O que diz, garota? 
+pr	O que dizes, miúda? 
+ro	Ce zici, puștoaico? 
+sp-eu	¿Qué me dices, chavala? 
+sp	¿Qué dice, señorita? 
+sv	Vad säger du, vännen? 
+th	ว่าไง เด็กน้อย | 
+tr	Ne diyorsun evlat? 
+vi	Em nói sao, nhóc? | 
+zh-long	怎麼樣，小鬼？ 
+zh-short	怎么样 孩子？ 
+ko	어떻게 생각해? | 
+nl	Wat zeg je? Wil je met me trouwen? 
+ja	コートニー | 
+id	Bagaimana, Nak? 
+

@@ -1,0 +1,26 @@
+en	Nobody gives a shit. Come on. | 
+id	Tidak ada yang peduli. Ayo. 
+ru	Всем насрать. 
+ja	どうでもいい | 
+ar	&rlm;‏لا أحد يهتم.‏ | 
+da	Vi er skideligeglade. 
+el	Κανείς δε νοιάζεται. 
+fi	Aivan sama. 
+fr	On s'en fout. 
+he	&rlm;‏לאף אחד לא אכפת.‏ | 
+it	Non frega a nessuno. 
+ko	아무도 신경 안 써요 | 
+no	Ingen bryr seg. 
+pl	Olej to. 
+pr-br	Ninguém liga. Vamos. 
+pr	Ninguém quer saber disso. 
+ro	Nu-i pasă nimănui. 
+sp-eu	A nadie le importa. 
+sp	No importa un carajo. 
+sv	Ingen som bryr sig. 
+th	ไม่มีใครสนหรอก | 
+tr	Kimsenin umurunda değil. 
+vi	Ai thèm quan tâm. | 
+zh-long	沒差啦，來吧 
+zh-short	无所谓 
+

@@ -1,0 +1,30 @@
+id	Salah satunya milikku. 
+ru	Какой-то из них мой. 
+ar	&rlm;‏أحدها لي. هل لون هذا كحلي أم أسود؟‏ | 
+da	Én af disse er min. Er den her mørkeblå eller sort? 
+el	Ένα από αυτά είναι. Αυτό είναι μπλε ή μαύρο; 
+en	Man, one of these is mine. | Is this navy or black? | 
+fi	Jokin näistä on minun. Onko tämä tummansininen vai musta? 
+fr	Y en a une à moi. Ça, c'est bleu ou noir ? 
+he	&rlm;‏בנאדם, אחד מאלה שלי. זה כחול כהה או שחור?‏ | 
+it	Una di queste è mia. Sarà quella blu o quella nera? 
+ko	이중 어딘가에 있을 텐데 | 이게 남색인가 검은색인가? | 
+nl	Een van deze is van mij. Is dit blauw of zwart? 
+pl	Która jest moja? To granatowa czy czarna? 
+pr-br	Cara, um desses é meu. Isto é azul ou preto? 
+pr	Um destes é meu. Isto é azul ou preto? 
+ro	Unul dintre astea e al meu. Ăsta e albastru sau negru? 
+sp-eu	Una de estas es mía. ¿Esta es azul o negra? 
+sp	Viejo, una de estas es mía. ¿Es azul o negra? 
+sv	En av dem är min. Är den marinblå eller svart? 
+tr	Bunlardan biri benim. Bu lacivert mi, siyah mı? 
+vi	Có một chiếc của tôi ở đây. | Cái này màu xanh lục hay màu đen nhỉ? | 
+zh-long	天啊，哪件是我的 這是藍色還黑色？ 
+zh-short	老兄 其中一个是我的 这是深蓝色的还是黑色的？ 
+ja	僕のはどれ？ | 
+no	En av disse er min. Er denne blå eller svart? 
+th	ตัวหนึ่งเป็นของผม สีน้ำเงินหรือดำนะ | 
+id	Ini warna biru tua atau hitam? 
+ru	Это синий или черный? 
+ja	これは黒かネイビーか？ | 
+

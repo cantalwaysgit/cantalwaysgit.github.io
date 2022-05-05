@@ -1,0 +1,27 @@
+el	Απάνω τους, μικρή. 
+fi	Anna mennä. 
+fr	Déchire tout. 
+id	Lakukanlah, Nak. 
+nl	Ga ervoor. 
+no	Sett i gang. 
+pl	Dajesz, mała. 
+ru	Покажи им всем. 
+th	ลุยเลย เด็กน้อย | 
+tr	Yık ortalığı evlat. 
+vi	Bắt đầu đi, cô gái. | 
+ja	キメて | 
+ar	&rlm;‏عليك بهم يا طفلة.‏ | 
+da	Giv det en skalle. 
+en	Go get 'em, kiddo. | 
+he	&rlm;‏תראי להם, ילדונת.‏ | 
+it	Dacci dentro, piccola. 
+pr-br	Mande ver, garota. 
+pr	Vamos a isso, miúda. 
+ro	Uimește-i, puștoaico! 
+sp-eu	A por ellos, chavalita. 
+sp	Vamos por ellos, señorita. 
+sv	Ge järnet nu, vännen. 
+zh-long	上吧，小鬼 
+zh-short	来吧 孩子 
+ko	잘해 봐 | 
+

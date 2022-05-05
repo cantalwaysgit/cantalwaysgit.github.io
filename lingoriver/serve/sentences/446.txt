@@ -1,0 +1,27 @@
+ja	いいね　最高だ | 
+id	Ya, itu brilian. 
+ar	&rlm;‏أجل، هذا رائع.‏ | 
+da	Ja, det er genialt. 
+el	Υπέροχο. 
+en	[Yuri] Yes, that's brilliant. | 
+fi	Loistavaa. 
+fr	C'est super. 
+he	&rlm;‏כן, זה מדהים.‏ | 
+it	Sì, ottimo. 
+ko	훌륭하네요 | 
+nl	Ja, dat is briljant. 
+no	Ja, det er fantastisk. 
+pl	Wspaniale. 
+pr-br	Isso, brilhante. 
+pr	Sim, excelente. 
+ro	Da, e genial! 
+sp-eu	Sí, eso es genial. 
+sp	Sí, eso es brillante. 
+sv	Det är fantastiskt. 
+th	ใช่เลย สุดยอด | 
+tr	Evet, bu harika. 
+vi	Tuyệt, tuyệt vời. | 
+zh-long	很好 
+zh-short	对 非常好 
+ru	Да, гениально. 
+

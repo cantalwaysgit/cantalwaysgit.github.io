@@ -1,0 +1,18 @@
+ar	&rlm;‏"جوائز (غرامي) لعام 1995"‏ | 
+el	ΒΡΑΒΕΙΑ ΓΚΡΑΜΙ 1995 
+he	&rlm;‏- פרסי הגראמי, 1995 -‏ | 
+id	PENGHARGAAN GRAMMY 1995 
+ko	“1995년 그래미 시상식” | 
+pl	NAGRODY GRAMMY 1995 
+ro	PREMIILE GRAMMY, 1995 
+ru	ВРУЧЕНИЕ «ГРЭММИ», 1995 
+sp	PREMIOS GRAMMY 1995 
+sv	GRAMMYGALAN 1995 
+th	(ปี 1995 งานแจกรางวัลแกรมมี่) | 
+tr	1995 GRAMMY ÖDÜLLERİ 
+vi	LỄ TRAO GIẢI GRAMMY 1995 | 
+zh-long	（1995年葛萊美獎） 
+zh-short	（1995年格莱美奖） 
+ja	1995年　グラミー賞 | 
+sp-eu	PREMIOS GRAMMY 1995 
+

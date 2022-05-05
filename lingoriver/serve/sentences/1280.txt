@@ -1,0 +1,27 @@
+ja	ジェリー･ロジャーズに | 拍手を！ | 
+ar	&rlm;‏"جيري روجيرز"، سيداتي وسادتي.‏ | 
+da	Gary Rodgers, mine damer og herrer. 
+el	Κυρίες και κύριοι, ο Τζέρι Ρότζερς. 
+en	Gary Rodgers, ladies and gentlemen. | 
+fi	Gary Rodgers, hyvä yleisö. 
+fr	Jerry Rodgers, mesdames et messieurs. 
+he	&rlm;‏ג'רי רוג'רס, גבירותיי ורבותיי! | 
+it	Jerry Rodgers, signore e signori. 
+nl	Jerry Rodgers, dames en heren. 
+no	Jerry Rodgers, mine damer og herrer. 
+pr-br	Senhoras e senhores, Jerry Rodgers. 
+pr	Jerry Rodgers, senhoras e senhores. 
+ro	Jerry Rodgers, doamnelor și domnilor! 
+sp-eu	Jerry Rodgers, señoras y señores. 
+sp	Jerry Rodgers, damas y caballeros. 
+sv	Jerry Rodgers, mina damer och herrar. 
+tr	Jerry Rodgers, hanımlar ve beyler. 
+vi	Jerry Rodgers, thưa quý vị. | 
+zh-long	各位先生女士，傑瑞羅傑 
+zh-short	杰里罗杰斯 女士们先生们 
+id	Jerry Rodgers, hadirin sekalian. 
+pl	Jerry Rodgers, proszę państwa. 
+ru	Гэри Роджерс, дамы и господа! 
+th	แกรี่ รอดเจอร์ ทุกท่าน | 
+ko	게리 로저스였습니다 | 신사 숙녀 여러분 | 
+

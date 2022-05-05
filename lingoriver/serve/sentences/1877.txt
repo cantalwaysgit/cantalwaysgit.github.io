@@ -1,0 +1,27 @@
+id	Kau membuat album baru? 
+ru	У тебя вышел новый альбом? 
+ja	ニューアルバムを？ | 
+th	คุณออกอัลบั้มใหม่เหรอ | 
+ar	&rlm;‏هل أصدرت ألبوماً جديداً؟‏ | 
+da	Har du lavet et nyt album? 
+el	Κυκλοφόρησες νέο δίσκο; 
+en	You did a new album? | 
+fi	Tuliko sinulta uusi levy? 
+fr	T'as sorti un nouvel album ? 
+he	&rlm;‏הוצאת אלבום חדש?‏ | 
+it	Hai fatto un nuovo album? 
+ko	새 앨범을 냈어? | 
+nl	Heb je een nieuw album? 
+no	Har du laget et nytt album? 
+pl	Nagrałaś nową płytę? 
+pr-br	Você gravou um novo álbum? 
+pr	Fizeste um álbum novo? 
+ro	Ai scos un album nou? 
+sp-eu	¿Has sacado nuevo álbum? 
+sp	¿Grabaste un nuevo álbum? 
+sv	Har du ett nytt album? 
+tr	Yeni bir albüm mü yaptın? 
+vi	Em ra album mới à? | 
+zh-long	妳出新專輯啦？ 
+zh-short	你出了新专辑？ 
+

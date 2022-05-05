@@ -1,0 +1,58 @@
+en	It was like, "Why are you fake laughing? | 
+id	Katanya, "Kenapa pura-pura tertawa? Itu Eddie Murphy. Dia lucu." 
+ru	«Зачем ты притворяешься? Это Эдди Мерфи! Он смешной». 
+ar	&rlm;‏‏أقول، "لماذا تتظاهر بالضحك؟ | &rlm;‏(إدي مورفي) مضحك فعلاً."‏ | 
+da	"Hvorfor griner du falsk? Det er Eddie Murphy. Han er sjov." 
+el	Αναρωτιόμουν, "γιατί γελάει ψεύτικα; Ο Έντι Μέρφι είναι όντως αστείος". 
+fi	"Miksi tekonaurat? Eddie Murphy on oikeasti hauska." 
+fr	Genre : "Pourquoi tu fais semblant ? C'est Eddie Murphy. Il est drôle." 
+he	&rlm;‏‏כאילו, "למה צחוק מזויף? | &rlm;‏זה אדי מרפי. הוא מצחיק".‏ | 
+it	"Perché fingi di ridere? È Eddie Murphy. Fa ridere sul serio." 
+ko	왜 거짓 웃음소리를 내죠? | 에디 머피예요, 재밌잖아요 | 
+nl	'Waarom lach je nep? Het is Eddie Murphy. Die is grappig.' 
+no	"Hvorfor ler du falskt? Det er Eddie Murphy. Han er morsom." 
+pl	„Czemu udajesz? To Eddie Murphy. On jest zabawny naprawdę”. 
+pr-br	Tipo: "Por que está forçando a risada? É o Eddie Murphy. Ele é engraçado." 
+pr	"Porque estás a rir a fingir? É o Eddie Murphy. Ele tem piada." 
+ro	Îl întrebam de ce râde și răspundea că Eddie Murphy e amuzant. 
+sp-eu	"¿Por qué te sale la risa falsa? Es Eddie Murphy. Es gracioso". 
+sp	"¿Por qué finges la risa? Es Eddie Murphy. Es gracioso". 
+sv	Typ: "Varför fejkskrattar du? Det är Eddie Murphy. Han är kul." 
+th	แบบ "ทำไมถึงแกล้งหัวเราะล่ะ | มันแบบเอ็ดดี้ เมอร์ฟีย์ จี้ดี" | 
+tr	Sahte kahkahaya ne gerek var? Adam Eddie Murphy. Zaten komik. 
+vi	Kiểu, "Sao anh lại cười nhạt? | Là Eddie Murphy đấy. Hài thật mà." | 
+zh-long	比如說，“你幹嘛假笑？” “是艾迪墨菲耶，他本來就很好笑呀” 
+zh-short	我就想问：“你为什么要假笑？ 这可是艾迪墨菲 他很搞笑” 
+ja	面白いなら | 普通に笑えばいいのに | 
+en	-It's Eddie Murphy. He's funny." | -[Dana Carvey] Right! | 
+
+it	Gli ho parlato lunedì dopo gli allenamenti. 
+es	Hablé con él el lunes luego de su entrenamiento. 
+id	Aku bicara dengannya hari Senin setelah latihan. 
+sv	Jag pratade med honom i måndags efter träningen. 
+ms	Saya berbual dengannya pada hari Isnin selepas latihan. 
+fi	Juttelin Adamin kanssa maanantaina. | 
+hr	Razgovarali smo u ponedjeljak nakon treninga. 
+pt-br	Falei com ele na segunda-feira, após do treino. 
+uk	Я говорила з ним у понеділок після тренування. 
+cs	Mluvila jsem s ním v pondělí po tréninku. 
+da	Jeg talte med ham i mandags efter træning. | 
+el	Του μίλησα τη Δευτέρα μετά την προπόνηση. 
+en	I talked to him on Monday after practice. 
+es-eu	Hablé con él el lunes tras el entrenamiento. 
+fr	Je lui ai parlé lundi après l'entraînement. 
+he	‫דיברתי איתו ביום שני אחרי האימון.‬ | 
+hu	Hétfőn beszéltem vele edzés után. 
+ja	&lrm;月曜の練習後 話したわ | 
+ko	&lrm;월요일에 연습 끝나고 | &lrm;아담과 얘기했어요 | 
+nl	Ik sprak hem maandag na de training. 
+no	Jeg snakket med ham på mandag etter trening. 
+pt	Falei com ele na segunda a seguir ao treino. 
+ro	Am vorbit cu el luni, după antrenament. 
+ru	Я говорила с ним в понедельник на тренировке. 
+th	&lrm;ฉันคุยกับเขาเมื่อวันจันทร์หลังซ้อมบาส | 
+tr	Pazartesi antrenmandan sonra konuştuk. 
+vi	&lrm;Tôi đã nói chuyện với cậu ta | &lrm;vào thứ Hai, sau buổi tập. | 
+zh-long	星期一練習後我有跟他聊過 
+zh-short	周一训练结束后 我跟他谈过 
+

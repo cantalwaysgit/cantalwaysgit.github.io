@@ -1,0 +1,24 @@
+ar	&rlm;‏لا!‏ | 
+da	Nej! 
+el	Όχι! 
+en	-No, no! | -[stammering] | 
+fi	Älä! 
+he	&rlm;‏לא!‏ | 
+it	No! 
+ko	안 돼! | 
+no	Nei! 
+pl	Nie! 
+pr-br	Não! 
+pr	Não! 
+ro	Nu! 
+sp-eu	¡No! 
+sp	¡No! 
+sv	Nej! 
+th	อย่า อย่านะ! | 
+tr	Hayır, hayır! 
+vi	Không! | 
+zh-long	不行！ 
+zh-short	不！ 
+id	Jangan! 
+ru	Нет, нет! 
+

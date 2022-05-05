@@ -1,0 +1,27 @@
+id	Aku bukan penari, Sandy. 
+ar	&rlm;‏لا أتقن الرقص.‏ | 
+da	Jeg er ikke danser. 
+el	Δεν είμαι χορεύτρια. 
+en	I'm not a dancer, Sandy. | 
+fi	En ole tanssija. 
+fr	Je suis pas danseuse. 
+he	&rlm;‏אני לא רקדנית.‏ | 
+it	Non sono una ballerina. 
+ko	전 춤 못 춰요 | 
+nl	Ik kan niet dansen. 
+no	Jeg er ikke danser. 
+pl	Nie jestem tancerką. 
+pr-br	Não sou dançarina. 
+pr	Não sou bailarina. 
+ro	Nu sunt dansatoare! 
+ru	Я не танцую. 
+sp-eu	No soy bailarina. 
+sp	No soy bailarina. 
+th	ฉันไม่ใช่นักเต้น | 
+tr	Ben dansçı değilim. 
+vi	Tôi không phải vũ công. | 
+zh-long	我不會跳舞 
+zh-short	我不是舞者 
+sv	-Jag är ingen dansare. -Det spelar ingen roll. 
+ja	ダンスは… | 
+

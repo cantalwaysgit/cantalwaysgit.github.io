@@ -1,0 +1,26 @@
+ja	どうも | 
+id	Terima kasih banyak. 
+ar	&rlm;‏جزيلاً.‏ | 
+da	Mange tak. 
+el	Πάρα πολύ. 
+en	Very much. | 
+fi	Kovasti. 
+fr	Beaucoup. 
+he	&rlm;‏רבה.‏ | 
+it	Grazie mille. 
+no	Tusen takk. 
+pl	Bardzo. 
+pr-br	Muito obrigado. 
+pr	Muito. 
+ro	Foarte mult. 
+ru	Большое. 
+sp-eu	Muchas gracias. 
+sp	Muchas gracias. 
+sv	...så mycket. 
+th	มากเลย | 
+tr	Hem de çok. 
+vi	Rất nhiều. | 
+zh-long	非常感謝 
+zh-short	非常感谢 
+ko	정말로요 | 
+

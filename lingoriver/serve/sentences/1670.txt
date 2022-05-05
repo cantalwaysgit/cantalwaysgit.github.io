@@ -1,0 +1,26 @@
+id	Ini hari terbaik yang pernah kualami dalam hidupku. 
+no	Dette er den beste dagen jeg har hatt på årevis. 
+ja	久々に楽しい一日だった | 
+ar	&rlm;‏هذا أفضل يوم حظيت به منذ سنوات.‏ | 
+da	Det er den bedste dag, jeg har haft i årevis. 
+el	Είναι η καλύτερη μέρα που πέρασα εδώ και χρόνια. 
+en	This is the best day I've had in years. | 
+fi	Tämä on ollut paras päivä vuosikausiin. 
+fr	C'est la plus belle journée que j'aie eue depuis des années. 
+he	&rlm;‏זה היום הכי טוב שהיה לי זה שנים.‏ | 
+it	Da anni non stavo così bene. 
+ko	이렇게 즐거운 날은 | 몇 년 만에 처음이에요 | 
+pl	Dawno się tak dobrze nie bawiłam. 
+pr-br	Não tenho um dia bom como este há anos. 
+pr	Foi o melhor dia que tive em vários anos. 
+ro	E cea mai frumoasă zi pe care am avut-o după mulți ani. 
+ru	Это мой лучший день за много лет. 
+sp	Es el mejor día que tuve en años. 
+sp-eu	Ha sido el mejor día que he tenido en años. 
+sv	Det är den bästa dan jag haft på länge. 
+th	นี่เป็นวันดีที่สุดของฉันในหลายปีนี้ | 
+tr	Yıllardır geçirdiğim en güzel gündü. 
+vi	Lâu lắm rồi | tôi mới có một ngày tuyệt vời thế. | 
+zh-long	這是我這幾年來 最開心的一天 
+zh-short	这是几年来我过的最开心的一天 
+

@@ -1,0 +1,26 @@
+id	Gembira... 
+th	ผีเสื้อ... | 
+ru	Бабочки 
+ar	&rlm;‏إثارة"‏ | 
+da	Sommerfugle 
+el	Πεταλούδες... 
+en	♪ Butterflies ♪ | 
+fi	Perhoset 
+fr	Mon corps frissonne 
+he	&rlm;‏פרפרים‏ | 
+it	Farfalle... 
+ko	설렘 | 
+nl	vlinders 
+pl	Motylki 
+pr	Arrepios 
+pr-br	Arrepios 
+ro	Fluturi 
+sp-eu	Mariposas 
+sp	Mariposas... 
+sv	Fjärilar 
+tr	Kelebekler 
+vi	Xao động... | 
+zh-long	蝴蝶呀… 
+zh-short	紧张不安 
+ja	バタフライ | 
+

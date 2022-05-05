@@ -1,0 +1,27 @@
+ar	&rlm;‏هذا ما قاله السافل لنا أيضاً.‏ | 
+da	Det sagde han også til os. 
+el	Αυτό είπε και σ' εμάς. 
+fi	Hän sanoi meillekin niin. 
+fr	Pareil avec nous. 
+he	&rlm;‏זה מה שהוא אמר לנו.‏ | 
+id	Itu kata si Berengsek. 
+it	Lo ha detto anche a noi. 
+ko	우리한테도 그랬는데 | 
+nl	Dat zei hij ook tegen ons. 
+no	Det sa han til oss også. 
+pl	Nam też to powiedział. 
+pr-br	Foi o que ele nos disse. 
+pr	O cabrão disse-nos o mesmo. 
+ro	Și nouă ne-a zis la fel! 
+ru	И нам говорил. 
+sp	Eso nos dijo a nosotros. 
+sp-eu	Eso nos dijo a nosotros. 
+sv	Det sa han till oss också. 
+th	เขาก็บอกเราแบบนั้น | 
+tr	Bize de öyle dedi. 
+vi	Anh ta cũng bảo chúng tôi thế. | 
+zh-long	他也跟我們這麼說 
+zh-short	他也是这么跟我们说的 
+en	-That's what the prick told us, too. | -[laughs] | 
+ja	俺らにも | 
+

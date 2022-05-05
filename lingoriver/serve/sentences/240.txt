@@ -1,0 +1,56 @@
+ar	&rlm;‏خشية مما قد يقوله الآخرون‏ | 
+da	Bange for hvad andre måtte sige 
+el	Φοβόταν τι θα πουν οι άλλοι 
+en	♪ Afraid of what others might say ♪ | 
+fi	Toisten sanoja peläten 
+fr	Craignant la réaction des gens 
+he	&rlm;‏פחד מה אחרים עלולים להגיד‏ | 
+id	Takut terhadap ucapan orang lain 
+it	Temendo ciò che gli altri Avrebbero detto 
+ko	다들 무슨 말을 할지 | 두려워하면서 | 
+nl	voor wat anderen zouden zeggen 
+pl	Bał się, co inni powiedzą 
+pr-br	Receoso dos comentários alheios 
+pr	Com medo do que pudessem dizer 
+ro	Înfricoșată de ceea ce s-ar fi putut spune 
+ru	Боясь недоброй молвы 
+sp-eu	Temiendo lo que pudieran decir 
+sp	Temiendo lo que otros podrían decir 
+sv	Rädd för vad andra skulle säga 
+th	กลัวคำที่คนอื่นจะว่า | 
+tr	Korktu, başkaları ne der, diye 
+vi	Sợ những lời kẻ khác sẽ nói | 
+zh-long	害怕他人嘲笑 
+zh-short	担心别人说三道四 
+ja	悪口を言われるから | 
+
+el	Έδωσα σ' αυτό το μέρος το όνομα του σκυλιού μου. 
+no	Jeg oppkalte dette stedet etter min avdøde hund. 
+es	Llamé a este lugar en honor a mi difunto perro. 
+cs	Tohle místo se jmenuje po mém mrtvém psovi. 
+da	Jeg opkaldte stedet efter min afdøde hund. | 
+es-eu	Le puse el nombre de mi difunto perro. 
+fi	Nimesin paikan kuolleen koirani mukaan. | 
+fr	Cet endroit porte le nom de mon chien. 
+he	‫המקום הזה קרוי על שם הכלב שלי שמת.‬ | 
+hr	Nazvala sam ovo mjesto prema pokojnom psu. 
+hu	A néhai kutyámról neveztem el ezt a helyet. 
+id	Aku menamai tempat ini dengan nama mendiang anjingku. 
+it	Ho chiamato questo posto come il mio cane. 
+ja	&lrm;グルは 死んだ飼い犬の名前 | 
+ko	&lrm;이곳 이름은 | &lrm;죽은 내 개 이름을 따서 지었죠 | 
+ms	Tempat ini sempena nama anjing saya. 
+nl	Ik heb dit vernoemd naar mijn overleden hond. 
+pt-br	Batizei este lugar em homenagem a meu falecido cão. 
+pt	Dei o nome do meu falecido cão a este sítio. 
+ro	Am numit locul ăsta așa după câinele meu. 
+sv	Namnet kommer från min numera döda hund. 
+th	&lrm;ฉันตั้งชื่อที่นี่ตามชื่อหมาของฉันที่ตายไป | 
+tr	Buraya ölen köpeğimin adını verdim. 
+uk	Я назвала це місце на честь померлого пса. 
+vi	&lrm;Tôi đặt tên nơi này | &lrm;theo tên con chó đã chết của tôi. | 
+zh-long	這個地方是以我已故的狗兒命名 
+zh-short	我是以我死掉的爱犬的名字 为这里命名的 
+en	I named this place after my dead dog. 
+ru	Я назвала это место в честь покойной собаки. 
+

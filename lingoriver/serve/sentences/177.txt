@@ -1,0 +1,57 @@
+id	Bagaimana kalau begini? 
+ja	そこでだ | 
+ru	Как тебе идея... 
+ko	이건 어때? | 
+zh-short	那这样呢？ 
+ar	&rlm;‏ما رأيك بهذا؟‏ | 
+da	Men hør her. 
+el	Τι λες γι' αυτό; 
+en	Well, what about this? | 
+fi	Entäpä tämä? 
+fr	Écoute ça. 
+he	&rlm;‏מה בקשר לזה?‏ | 
+it	Senti la mia proposta. 
+nl	Wat dacht je hiervan? 
+no	Hva sier du til dette? 
+pl	To może tak. 
+pr-br	Ei, tive uma ideia. 
+pr	Então e isto? 
+ro	Ce zici de asta? 
+sp-eu	¿Qué te parece esto? 
+sp	¿Qué te parece esto? 
+sv	Vad sägs om det här? 
+th	เอาอย่างงี้ไหม | 
+tr	Şuna ne dersin? 
+vi	Thế này thì sao? | 
+zh-long	這樣好了 
+
+cs	Vy tady pracujete sám? 
+da	Arbejder De her alene? | 
+el	Μόνος σας δουλεύετε εδώ; 
+en	Do you work here alone? 
+es-eu	¿Trabaja aquí solo? 
+fi	Työskenteletkö yksin? | 
+fr	Vous travaillez seul ? 
+he	‫אתה עובד כאן לבד?‬ | 
+hr	Radite li sami ovdje? 
+hu	Egyedül dolgozik itt? 
+id	Kau bekerja di sini sendirian? 
+it	Lavora qui da solo? 
+ja	&lrm;お１人で経営？ | 
+ko	&lrm;혼자 근무하십니까? | 
+ms	Awak seorang bekerja di sini? 
+nl	Werkt u hier alleen? 
+no	Jobber du her alene? 
+pt-br	Trabalha sozinho aqui? 
+pt	Trabalha aqui sozinho? 
+ro	Lucrezi singur aici? 
+ru	Один здесь работаешь? 
+sv	Arbetar ni här ensam? 
+th	&lrm;คุณทำงานที่นี่คนเดียวเหรอ | 
+tr	Yalnız mı çalışıyorsunuz? 
+uk	Тут працюєте тільки ви? 
+vi	&lrm;Anh làm ở đây một mình à? | 
+zh-long	你一個人在這裡工作嗎？ 
+zh-short	就你一个人在这里上班吗？ 
+es	¿Trabaja solo en el hotel? 
+

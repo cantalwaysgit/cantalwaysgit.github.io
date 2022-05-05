@@ -1,0 +1,27 @@
+en	Whoo! Cannonball! | 
+ar	&rlm;‏قنبلة مدفع!‏ | 
+da	Kanonkugle! 
+el	Οβίδα! 
+fi	Tykinkuula! 
+fr	Bombe ! 
+he	&rlm;‏פגז מים!‏ | 
+id	Peluru meriam! 
+it	Palla di cannone! 
+ko	입수! | 
+nl	Bommetje. 
+no	Bomba! 
+pl	Bomba! 
+pr	Bomba! 
+pr-br	Bala de canhão! 
+ro	Ghiulea! 
+ru	Берегись! 
+sp	¡Bomba! 
+sp-eu	¡Bomba va! 
+sv	Kanonkula! 
+th	ระเบิดตู้ม! | 
+tr	Gülle! 
+vi	Đại bác này! | 
+zh-long	撐竿跳水嘍！ 
+zh-short	炮弹！ 
+ja	抱え飛び込み！ | 
+

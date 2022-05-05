@@ -1,0 +1,53 @@
+id	- Kevin Connors. - Kevin! 
+ru	Кевин Коннорс. 
+ja	ケヴィン･コナーズ | 
+fr	Kevin Connors. 
+ar	&rlm;‏‏- بل "كيفن كونورز". | &rlm;‏- "كيفن"!‏ | 
+da	-Kevin Connors. -Kevin! 
+el	-Κέβιν Κόνερς. -Κέβιν! 
+en	-Kevin Connors. | -Kevin! | 
+fi	-Kevin Connors. -Kevin! 
+he	&rlm;‏‏קווין קונורס. | &rlm;‏-קווין!‏ | 
+it	- Kevin Connors. - Kevin! 
+no	-Kevin Connors. -Kevin! 
+pl	- Kevin Connors. - Kevin! 
+pr-br	-Kevin Connors. -Kevin! 
+pr	- Kevin Connors. - Kevin! 
+ro	- Kevin Connors. - Kevin! 
+sp-eu	- Kevin Connors. - ¡Kevin! 
+sp	- Kevin Conners. - ¡Kevin! 
+sv	-Kevin Connors. -Kevin! 
+th	- เควิน คอนเนอร์ส | - เควิน | 
+tr	-Kevin Connors. -Kevin! 
+vi	- Kevin Connors. | - Kevin! | 
+zh-long	-凱文康納 -凱文！ 
+zh-short	-凯文康纳斯 -凯文！ 
+ko	- 케빈 코너스야 | - 케빈! | 
+ru	Кевин! 
+ja	あなたがホストをやるべきよ | 
+id	Seharusnya kau menjadi pembawa acaranya. 
+ru	Лучше бы шоу вел ты. 
+ar	&rlm;‏يجب أن تقدم أنت الحفل.‏ | 
+da	Du burde være vært for showet. 
+el	Έπρεπε να παρουσιάσεις εσύ την τελετή. 
+en	They should have had you host this show. | 
+fi	Sinun olisi pitänyt olla illan isäntänä. 
+fr	T'aurais dû animer la soirée. 
+he	&rlm;‏אתה היית צריך להנחות את ההופעה.‏ | 
+it	Avresti dovuto presentare tu. 
+nl	Jij had de show moeten presenteren. 
+no	Du burde være vert for showet. 
+pl	Ty powinieneś poprowadzić galę. 
+pr-br	Você deveria ter apresentado o programa. 
+pr	Devias ter sido tu a apresentar o espetáculo. 
+ro	Tu trebuia să prezinți spectacolul. 
+sp-eu	Deberías haber presentado el espectáculo. 
+sp	Tú deberías estar conduciendo el show. 
+sv	Du skulle ha varit värd. 
+th	คุณควรขึ้นเวทีคืนนี้ | 
+tr	Şovu sen sunmalıymışsın. 
+vi	Lẽ ra họ phải để anh dẫn chương trình. | 
+zh-long	他們應該找你上去的 
+zh-short	应该让你来主持 
+ko	당신이 진행을 맡았어야죠 | 
+

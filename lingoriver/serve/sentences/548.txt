@@ -1,0 +1,52 @@
+ja	賢いね | 音楽業界は浮き沈みがある | 
+id	Pilihan yang cerdas. Bisnis musik ada pasang surutnya, 
+ar	&rlm;‏حركة ذكية. العمل في الموسيقى متقلب،‏ | 
+el	Έξυπνη κίνηση. Η μουσική βιομηχανία έχει σκαμπανεβάσματα, 
+en	Smart move. | The music business has its ups and downs, | 
+fi	Fiksu veto. Musiikkiala on ailahteleva. 
+fr	Bien vu. L'industrie de la musique, ça connaît des hauts et des bas, 
+he	&rlm;‏‏מהלך חכם. | &rlm;‏בתעשיית המוזיקה יש עליות וירידות,‏ | 
+it	Bella mossa. L'industria musicale ha i suoi alti e bassi, 
+ko	잘 생각했네 | 음악 업계는 기복이 심하지만 | 
+nl	Slimme zet. De muziekbusiness heeft ups en downs... 
+no	Smart. Det går opp og ned i musikkbransjen, 
+pl	Mądre posunięcie. Branża muzyczna miewa wzloty i upadki, 
+pr-br	Ótima escolha. A indústria musical tem seus altos e baixos, 
+pr	Foi inteligente. O negócio da música tem altos e baixos, 
+ro	Ce bine s-a orientat! Industria muzicală e cu dus și întors, 
+ru	Молодец. Музыка - неровный бизнес, 
+sp	Astuto. El negocio de la música tiene sus altos y bajos, 
+sp-eu	Muy listo. El negocio de la música tiene altibajos, 
+sv	Smart drag. Musikbranschen går upp och ner, 
+th	ฉลาดดีนี่ | ธุรกิจดนตรีมีขึ้นมีลง | 
+tr	Akıllıca. Müzik işi çalkantılıdır 
+vi	Khôn ngoan đấy. | Ngành âm nhạc thất thường lắm, | 
+zh-long	明智之舉，音樂圈起起伏伏的 
+zh-short	明智 音乐事业有起有伏 
+da	Smart træk. Musikbranchen går op og ned, men Blockbuster er kommet for at blive. 
+id	tapi Blockbuster Video ada untuk jangka panjang. 
+ja	レンタル業界は伸びる一方だ | 
+ar	&rlm;‏لكن مستقبل "بلوكباستر فيديو" مديد.‏ | 
+el	αλλά η Blockbuster Video θα έχει μεγαλύτερη διάρκεια. 
+en	but Blockbuster Video's here | for the long haul. | 
+fi	Blockbuster Video on pitkän linjan yritys. 
+fr	mais la location vidéo, c'est l'avenir. 
+he	&rlm;‏‏אבל הווידאו של בלוקבסטר | &rlm;‏הולך להישאר איתנו הרבה זמן.‏ | 
+it	ma Blockbuster è destinata a durare. 
+ko	블록버스터 비디오는 | 장기간 할 만하지 | 
+nl	...maar Blockbuster Video gaat wel een tijdje mee. 
+no	men Blockbuster Video har en lys fremtid. 
+pl	a wypożyczalnie kaset przetrwają wieki. 
+pr-br	mas a Blockbuster vai durar muito. 
+pr	mas a Blockbuster Video está para durar. 
+ro	dar filmele pe casete video sunt de viitor. 
+sp-eu	pero los videoclubs durarán para siempre. 
+sp	pero Blockbuster llegó para quedarse. 
+sv	men Blockbuster Video  är här för att stanna. 
+th	แต่บล็อกบัสเตอร์วิดีโอคงอยู่อีกนาน | 
+tr	ama Blockbuster Video uzun vadeli bir iş. 
+vi	nhưng Video Bom Tấn thì còn phát dài dài. | 
+zh-long	百視達影視卻歷久不衰 
+zh-short	但百视达是长期饭票 
+ru	но «Блокбастер Видео» на рынке всерьез и надолго. 
+

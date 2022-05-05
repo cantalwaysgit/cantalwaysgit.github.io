@@ -1,0 +1,56 @@
+ja	４分でいいから話そう | 
+ar	&rlm;‏سيستغرق الأمر 4 دقائق. الأمر هام.‏ | 
+da	Det tager fire minutter. Det er det værd. 
+el	Αρκούν τέσσερα λεπτά. Αξίζει τον κόπο. 
+en	It'll take four minutes of your time. | It'll be worth it. | 
+fi	Siihen menisi vain neljä minuuttia. Se kannattaisi. 
+fr	Ça prendra quatre minutes. Vous le regretterez pas. 
+he	&rlm;‏זה ייקח ארבע דקות. זה שווה את זה.‏ | 
+id	Empat menit saja dari waktumu. Ini akan sepadan. 
+it	Mi conceda quattro minuti. Ne vale la pena. 
+ko	4분이면 돼요 | 시간이 아깝지 않을 겁니다 | 
+nl	Vier minuten. Het is de moeite waard. 
+pl	Zajmę cztery minuty. Nie pożałujesz. 
+pr-br	Vai levar quatro minutos. Vale a pena. 
+pr	Só lhe tomo quatro minutos. Vai valer a pena. 
+ro	Nu durează decât patru minute. Merită. 
+ru	Четыре минуты. Вы не пожалеете. 
+sp-eu	Solo serán cuatro minutos. Valdrá la pena. 
+sp	Serán solo cuatro minutos. Vale la pena. 
+sv	Det tar fyra minuter. Det är värt det. 
+th	ขอแค่สี่นาที มันจะคุ้มค่าเวลาคุณ | 
+tr	Dört dakikanı alır. Buna değer. 
+vi	Chỉ bốn phút thôi. Đáng mà. | 
+zh-long	只要四分鐘的時間，很值得的 
+zh-short	就四分钟时间 值得 
+
+da	Jeg behøver ingen bog | for at læse om Gnavpotta. | 
+el	Δεν χρειάζομαι βιβλίο για να διαβάσω για τη Μουτρωμένη. 
+en	I don't need a book to read about Malevolent. 
+es-eu	No lo necesito para hablarte de Gruñona. 
+es	No necesito un libro para contarte el cuento de Malévola. 
+fr	Pas besoin de livre pour raconter l'histoire de Diabolique. 
+he	‫אני לא צריך ספר בשביל "הזועמת".‬ | 
+hr	Ne trebam knjigu da bih ti čitao o Nesretnici. 
+hu	Ahhoz nem kell könyv, hogy Pukkancsról meséljek. 
+id	Ayah tak butuh buku untuk membacakan dongeng. 
+it	Non mi serve un libro per leggere di Malevola. 
+ko	&lrm;아빠가 지어낸 얘기니까 | &lrm;책은 필요 없어 | 
+nl	Ik heb geen boek nodig om te vertellen over Malevolent. 
+no	Jeg trenger ikke bok for å lese om jenta vår. 
+pt	Não preciso de um livro para ler sobre a Maléfica. 
+ro	Pot să-ți spun povestea lui Reavoință și fără carte. 
+sv	Jag behöver ingen bok för att berätta om den ondskefulla. 
+th	&lrm;ไม่ต้องมีหนังสือ | &lrm;พ่อก็อ่านเรื่องสาวน้อยแสนเศร้าได้ | 
+tr	Aksi Kız'ı  kitap olmadan da hatırlarım. 
+vi	&lrm;Bố không cần truyện | &lrm;mới đọc được về Malevolent. | 
+zh-long	講氣呼呼小姐的故事不需要書 
+zh-short	讲愤怒女孩的故事不需要书 
+ja	&lrm;「マレボラント」なら | &lrm;本は要らない | 
+pt-br	Não preciso de um livro para ler a história da Malevolente. 
+cs	Můžu ti vyprávět o Zlobilce, na to knížku nepotřebuju. 
+uk	Мені не потрібна книжка, щоб почитати про Злючку. 
+fi	En tarvitse kirjaa | kertoakseni Pahansuovasta. | 
+ru	А мне не нужна книга. Историю про Злюку я знаю наизусть. 
+ms	Ayah tak perlukan buku untuk cerita tentang Malevolent. 
+

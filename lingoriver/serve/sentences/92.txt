@@ -1,0 +1,32 @@
+en	[chewing loudly] | 
+
+it	Ricordi le foto mostrate a scuola? 
+pt-br	Se lembra das fotos do vídeo na escola? 
+nl	Herinner je je de foto's op school nog? Eén van die foto's is die avond gemaakt. 
+zh-short	还记得在学校播放的那些照片吗？ 
+ms	Ingat tak gambar-gambar di sekolah hari itu? 
+cs	Pamatuješ na ty fotky ve škole? 
+el	Θυμάσαι τις φωτογραφίες στο σχολείο; 
+en	Remember the photos shown at school? 
+es-eu	¿Recuerdas las fotos del vídeo? 
+fr	Tu te souviens des photos au lycée ? 
+he	‫זוכרת את התמונות שהראו בבית הספר?‬ | 
+hr	Sjećaš se onih fotografija iz škole? 
+hu	Emlékszel a fotókra az iskolában? 
+id	Ingat foto-foto di sekolah? 
+ja	&lrm;学校の写真 覚えてる？ | 
+ko	&lrm;학교에서 본 사진 기억 나요? | 
+no	Husker du bildene på skolen? 
+pt	Lembras-te das fotos que mostraram na escola? 
+ro	Ții minte pozele de la școală? 
+th	&lrm;จำรูปในคลิปที่โรงเรียนได้มั้ย | 
+vi	&lrm;Nhớ mấy bức ảnh ở trường chứ? | 
+zh-long	記得學校那些照片嗎？ 
+uk	Пам'ятаєш фото, які показували у школі? 
+da	Husker du de fotos, de viste på skolen? | Et af dem blev taget den aften. | 
+es	Una de las fotos que mostraron en la escuela fue tomada esa noche. 
+ru	Помнишь, в школе показывали фотографии? Одна из них сделана той ночью. 
+sv	Minns du bilderna som visades i skolan? En av dem togs samma kväll. 
+tr	Okulda gösterdikleri fotoğraflar vardı ya? Birisi o gece çekilmişti. 
+fi	Muistatko ne koulussa näytetyt kuvat? | 
+

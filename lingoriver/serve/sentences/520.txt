@@ -1,0 +1,24 @@
+id	SEPULUH DESAINER GAUN TERBAIK 
+ru	10 ЛУЧШИХ МОДЕЛЬЕРОВ 
+sv	TIO BÄSTA KLÄDDESIGNERNA 
+sp-eu	LOS DIEZ MEJORES DISEÑADORES DE MODA 
+vi	MƯỜI NHÀ THIẾT KẾ VÁY GIỎI NHẤT | 
+ar	&rlm;‏"أفضل 10 مصممي فساتين"‏ | 
+da	TI BEDSTE KJOLEDESIGNERE 
+el	ΔΕΚΑ ΚΟΡΥΦΑΙΟΙ ΣΧΕΔΙΑΣΤΕΣ 
+fr	LES DIX PLUS BELLES ROBES 
+he	&rlm;‏- מעצבי השמלות הטובים ביותר -‏ | 
+it	I DIECI MIGLIORI STILISTI 
+ko	“최고의 드레스 디자이너 | 10인” | 
+nl	TIEN BESTE ONTWERPERS 
+no	TI BESTE KJOLEDESIGNERE 
+pl	NAJMODNIEJSZE SUKIENKI 
+pr-br	DEZ MELHORES ESTILISTAS 
+pr	OS DEZ MELHORES VESTIDOS DE MARCA 
+ro	CEI MAI BUNI ZECE DESIGNERI 
+sp	LOS DIEZ MEJORES DISEÑADORES 
+th	(สิบนักออกแบบชุดยอดเยี่ยม) | 
+tr	EN İYİ ON ELBİSE TASARIMCISI 
+zh-long	（本季十大最佳服裝設計師） 
+zh-short	《十佳服装设计师》 
+

@@ -1,0 +1,27 @@
+id	Lagu yang bagus, bukan? 
+ru	Как вам эта песня? 
+ja	この曲 いいだろ？ | 
+ar	&rlm;‏ما رأيكما بهذه الأغنية، أيها الرجلان؟‏ | 
+da	Er det ikke en god sang, gutter? 
+el	Ωραίο κομμάτι, δε συμφωνείτε; 
+en	How about this song? Huh, guys? | 
+fi	Mitäs tuumaatte tästä kappaleesta? 
+fr	Elle est ouf, cette chanson, non ? 
+he	&rlm;‏מה אתם אומרים על השיר הזה, חבר'ה?‏ | 
+it	Che ne dite di questo pezzo? 
+nl	Wat een nummer, hè, jongens? 
+no	For en sang, hva? 
+pl	Niezła piosenka, co? 
+pr-br	E essa música, hein, pessoal? 
+pr	Que tal esta canção? 
+ro	Ce ziceți de cântecul ăsta, băieți? 
+sp-eu	¿Qué os parece esta canción, chicos? 
+sp	¿Qué les parece esta canción, muchachos? 
+sv	Vad säger ni om låten, grabbar? 
+th	เพลงนี่เป็นไง เพื่อน | 
+tr	Bu şarkıyı nasıl buldunuz? 
+vi	Bài hát này thế nào, mấy anh? | 
+zh-long	這首歌好聽吧？ 
+zh-short	这首歌怎么样 各位？ 
+ko	노래 어때요? | 
+

@@ -1,0 +1,26 @@
+ru	Бабочки летают 
+da	Du giver mig sommerfugle Helt ind i sjælen 
+id	Kau membuatku gembira, gembira Hingga ke dalam jiwaku 
+ar	&rlm;‏تجعلني أشعر بالإثارة تصل إلى روحي‏ | 
+el	Στέλνεις πεταλούδες, Πεταλούδες στην ψυχή μου 
+en	♪ You give me butterflies, butterflies | Down to my soul ♪ | 
+fi	Olet perhonen, perhonen Sielussain 
+fr	Mon corps frissonne Jusqu'à mon âme 
+he	&rlm;‏‏אתה עושה לי פרפרים, פרפר | &rlm;‏בעמקי נשמתי‏ | 
+it	Fai volare farfalle, farfalla Nella mia anima 
+ko	내 영혼까지 설레게 해주지 | 
+nl	je geeft me vlinders in mijn ziel 
+pl	Czuję motylki w mojej duszy 
+pr-br	Você me dá arrepios na alma 
+pr	Provocas-me arrepios No fundo da minha alma 
+ro	Cu tine sunt înconjurată de fluturi Până în adâncul sufletului 
+sp-eu	Siento mariposas, mariposas Hasta en el alma 
+sp	Me causas mariposas, mariposas En el alma 
+sv	Du ger mig fjärilar i magen 
+th	คุณทำให้ผีเสื้อกระพือปีก | จนถึงก้นบึ้งหัวใจฉัน | 
+tr	Kelebekler uçuşuyor ruhumda 
+vi	Anh làm em xao động | Tận sâu trong tâm hồn | 
+zh-long	你讓我心靈無比悸動 
+zh-short	你让我紧张不安 在我内心深处 
+ja	こんなにも胸がときめく | 
+

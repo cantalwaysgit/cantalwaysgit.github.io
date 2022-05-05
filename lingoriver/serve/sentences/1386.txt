@@ -1,0 +1,51 @@
+id	- Aku akan membunuhmu. - Bisa berhenti? Aku tidak pernah... 
+ar	&rlm;‏سأقتلك إن فعلت ذلك.‏ | 
+da	Ellers slår jeg dig ihjel. 
+el	Θα σε σκοτώσω. 
+en	I'm gonna kill you | if you say "in my voice." | 
+fi	Tapan sinut. 
+fr	Je vais te buter. 
+he	&rlm;‏אני אהרוג אותך אם תגיד את זה שוב.‏ | 
+it	Altrimenti ti uccido. 
+nl	Dan vermoord ik je. 
+no	Da dreper jeg deg. 
+pr-br	Vou matá-lo se disser. 
+pr	Vou matar-te se disseres. 
+ro	O să te omor dacă mai repeți asta. 
+sp-eu	Te mataré si lo haces. 
+sp	Te mataré si lo haces. 
+sv	Då dödar jag dig. 
+th	ฉันจะฆ่านายถ้าพูดแบบนั้น | 
+tr	Söylersen seni gebertirim. 
+vi	Tôi sẽ giết anh nếu anh làm thế. | 
+zh-long	再說就掐死你 
+zh-short	再说我就杀了你 
+pl	Przestań. 
+ru	Хватит. Я не могу... 
+ja	僕はただ… | 
+ar	&rlm;‏‏- توقف. لا يمكنني أبداً... | &rlm;‏- "ساندي"؟‏ | 
+da	-Stop. Jeg kan aldrig... -Sandy? 
+el	-Πάψε. Δεν μπορώ να... -Σάντι; 
+en	-Would you stop? I can't ever-- | -Sandy? | 
+fi	-Lopeta. En voi... -Sandy? 
+fr	Allez, quoi. Je peux pas... 
+he	&rlm;‏‏תפסיק. אני לא יכול... | &rlm;‏-סנדי?‏ | 
+it	- Basta. Non posso... - Sandy? 
+no	-Slutt. Jeg kan aldri... -Sandy? 
+pr-br	-Pare. Não posso... -Sandy? 
+pr	- Para. Não consigo... - Sandy? 
+ro	- Încetează! Nu mai pot să... - Sandy? 
+sp	- Detente. No puedo ni... - ¿Sandy? 
+sp-eu	- Para. No puedo... - ¿Sandy? 
+sv	-Jag kan inte ens... -Sandy? 
+tr	-Dur. Ben hiç... -Sandy? 
+vi	- Thôi đi. Tôi không thể... | - Sandy? | 
+zh-long	-別說了，我總不能… -山迪？ 
+zh-short	-住嘴 我没法… -桑迪？ 
+th	- หยุด ฉันไม่อาจ... | - แซนดี้เหรอ | 
+ko	- 그만해, 내가 어떻게... | - 샌디? | 
+ru	Сэнди? 
+id	Sandy? 
+pl	Sandy? 
+ja	サンディ？ | 
+

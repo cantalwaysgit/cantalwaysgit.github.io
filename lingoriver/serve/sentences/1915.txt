@@ -1,0 +1,26 @@
+ar	&rlm;‏لكنك رأيتني‏ | 
+da	Men du så mig 
+el	Όμως με είδες 
+en	♪ But you saw me ♪ | 
+fi	Mutta sä näit mut 
+fr	Mais tu m'as vue 
+he	&rlm;‏אבל אתה ראית אותי‏ | 
+it	Ma tu mi hai visto 
+ko	당신은 나를 봤어 | 
+nl	maar jij zag me 
+pl	Ale dostrzegłeś mnie 
+pr-br	Mas você me viu 
+pr	Mas tu viste-me 
+ro	Dar tu m-ai văzut 
+sp-eu	Pero tú me viste 
+sp	Pero tú me viste 
+sv	Men du såg mig 
+tr	Ama sen beni gördün 
+vi	Nhưng anh đã nhìn thấy em | 
+zh-long	但你看見了我 
+zh-short	可你看好我 
+ja	でもあなたは見つけてくれた | 
+id	Namun, kau melihatku 
+ru	Но ты увидел меня 
+th	แต่คุณเห็นฉัน | 
+

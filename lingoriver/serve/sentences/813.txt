@@ -1,0 +1,5 @@
+id	Itu bukan bagian ritualnya! 
+ru	Нет! Это не входит в ритуал! 
+en	No, that's not part of the ritual! | 
+ja	待て　ダメだ | 
+

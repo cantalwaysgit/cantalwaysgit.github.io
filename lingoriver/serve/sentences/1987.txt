@@ -1,0 +1,27 @@
+id	Terima kasih. Bagaimana lalu lintasnya? 
+ru	Спасибо. Пробок много? 
+ja	ありがとう　渋滞は？ | 
+ar	&rlm;‏كيف الزحام؟‏ | 
+da	Hvordan er trafikken? 
+el	Έχει κίνηση; 
+en	How is traffic out there? | 
+fi	Onko ruuhkaa? 
+fr	Ça roule bien ? 
+he	&rlm;‏איך התנועה?‏ | 
+it	C'è molto traffico? 
+ko	교통은 어때요? | 
+nl	Is er veel verkeer? 
+no	Hvordan er trafikken? 
+pl	Jak dziś korki? 
+pr-br	Como está o trânsito? 
+pr	Como está o trânsito? 
+ro	Cum se circulă? 
+sp	¿Cómo está el tráfico? 
+sp-eu	¿Qué tal está el tráfico? 
+sv	Hur är trafiken? 
+th	จราจรเป็นไงบ้าง | 
+tr	Trafik nasıl? 
+vi	Giao thông thế nào? | 
+zh-long	路況怎麼樣？ 
+zh-short	交通状况如何？ 
+

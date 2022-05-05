@@ -1,0 +1,28 @@
+ja	チャンピオンだぞ　やったな | 
+ru	Ну что, чемпион? 
+id	Bagaimana, Juara? Aku bangga kepadamu. 
+ar	&rlm;‏ما قولك يا بطل؟ أنا فخور بك.‏ | 
+da	Hvad siger du, mester? Stolt af dig. 
+el	Τι λες, πρωταθλητή; Είμαι υπερήφανος για εσένα. 
+en	What do you say, champ? Proud of ya. | 
+fi	Mitäs sanot, mestari? Olen ylpeä sinusta. 
+fr	Alors, champion ? Je suis fier de toi. 
+he	&rlm;‏מה אתה אומר, אלוף? אני גאה בך.‏ | 
+it	Che ne dici, campione? Sono fiero di te. 
+nl	Ik ben trots op je. 
+no	Hva sier du, mester? Stolt av deg. 
+pl	Jestem z ciebie dumny, mistrzu. 
+pr-br	O que diz, campeão? Estou orgulhoso de você. 
+pr	O que dizes, campeão? Estou orgulhoso de ti. 
+ro	Ce zici, campionule? Sunt mândru de tine. 
+sp-eu	¿Qué me dices, campeón? Estoy orgulloso de ti. 
+sp	¿Qué dices, campeón? Estoy orgulloso de ti. 
+th	ว่าไง แชมป์ ภูมิใจในตัวนายนะ | 
+tr	Ne diyorsun şampiyon? Seninle gurur duyuyorum. 
+vi	Anh nói sao, nhà vô địch? | Rất tự hào về anh. | 
+zh-long	怎麼樣，冠軍哥？我以你為榮 
+zh-short	你觉得呢 冠军？为你骄傲 
+ko	어때, 챔피언? | 네가 자랑스러워 | 
+sv	Vad säger du, mästaren? Jag är stolt över dig. 
+ru	Горжусь тобой. 
+

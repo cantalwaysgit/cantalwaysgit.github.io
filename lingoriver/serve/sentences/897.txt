@@ -1,0 +1,79 @@
+id	Selama kau berjanji tampil bagus di panggung malam ini 
+ru	Главное, выйди сегодня на сцену 
+ar	&rlm;‏طالما أنك ستظهره على المسرح الليلة،‏ | 
+da	Så længe du tager det med på scenen i aften, 
+el	Αρκεί να δείξεις την οργή σου και στη σκηνή απόψε, 
+en	As long as you promise to bring it | on the stage with you tonight, | 
+fi	Kunhan vedät settisi tänään hyvin - 
+fr	Tant que tu assures ce soir sur scène 
+he	&rlm;‏כל עוד תעשה עבודה טובה על הבמה הערב,‏ | 
+it	Se porterai la rabbia sul palco con te stasera 
+ko	오늘 밤 무대 위에서 잘해내서 | 
+nl	Zolang je optreden vanavond maar goed is... 
+no	Så lenge du presterer på scenen i kveld, 
+pl	Bylebyś pokazał to dziś na scenie. 
+pr-br	Basta que você arrase no palco hoje à noite 
+pr	Desde que esta noite faças um grande espetáculo 
+ro	Dar trebuie să ai energia asta pe scenă, diseară, 
+sp-eu	Siempre que cumplas sobre el escenario esta noche 
+sp	Mientras esta noche te entregues en el escenario 
+sv	Bara du lovar att ta med det på scenen ikväll, 
+th	ตราบเท่าที่คืนนี้นายจะแสดงบนเวทีได้ | 
+tr	Yeter ki bu gece sahnede parla 
+vi	Miễn là anh thể hiện tốt | trên sân khấu tối nay, | 
+zh-long	只要今晚上臺保持這種精神 
+zh-short	只要你今晚能好好演 
+ja	今夜のステージで | ＨＢＯに見せつけろ | 
+id	dan tunjukkan kepada HBO, mereka tidak perlu menemukanmu. 
+ru	и покажи HBO, что тебя не надо «открывать». 
+en	-and you show HBO... | -I promise. | 
+ar	&rlm;‏‏وأن تثبت لمحطة "إيتش بي أو" | &rlm;‏أنهم لا يحتاجون إلى اكتشافك.‏ | 
+da	og du viser HBO, at de ikke behøver opdage dig. 
+el	αποδεικνύοντας στο ΗΒΟ ότι δε χρειάζεται να σε ανακαλύψουν. 
+fi	ja näytät HBO:lle, ettei sen tarvitse löytää sinua. 
+fr	et que tu montres à HBO que tu n'as pas besoin d'eux. 
+he	&rlm;‏‏ותראה לאייץ'-בי-או | &rlm;‏שהם לא צריכים לגלות אותך.‏ | 
+it	e la mostrerai a quelli di HBO, non avranno più bisogno di scoprirti. 
+nl	...en je HBO laat zien dat ze je niet hoeven te ontdekken. 
+no	og viser HBO, så trenger de ikke å oppdage deg. 
+pl	HBO zrozumie, że nie musi cię odkrywać. 
+pr-br	e mostre para a HBO que não precisam descobrir você. 
+pr	e mostres à HBO que não precisam de te descobrir. 
+ro	și să le arăți celor de la HBO că nu trebuie să te descopere ei. 
+sp-eu	y demuestres a HBO que no te tienen que descubrir. 
+sp	y le demuestres a HBO que no necesitan descubrirte. 
+sv	och visar HBO att de inte behöver upptäcka dig. 
+th	และแสดงให้เอชบีโอเห็นว่า | พวกเขาไม่ต้องค้นพบนาย | 
+tr	ve HBO'ya seni keşfetmelerine ihtiyacın olmadığını göster. 
+vi	và anh cho HBO thấy, | họ không cần khám phá anh. | 
+zh-long	讓HBO瞧瞧 你不需要他們發掘你 
+zh-short	让家庭影院频道的人知道 你不需要他们来发掘 
+ko	HBO에 보여준다면 | 발굴되길 기다릴 필요 없잖아 | 
+en	...they don't need to discover you. | 
+ja	“発掘してくれなくても | 自分で発掘する”ってな | 
+id	Kevin Connors akan temukan dirinya sendiri. Terima kasih banyak. 
+ar	&rlm;‏"كيفن كونورز" سيكتشف نفسه. شكراً لكم.‏ | 
+da	Kevin Connors vil opdage sig selv. Tak. 
+el	Ο Κέβιν Κόνερς θα ανακαλυφθεί από μόνος του. Ευχαριστώ. 
+en	Kevin Connors will discover himself. | Thank you very much. | 
+fi	Kevin Connors löytää itse itsensä. 
+fr	Kevin Connors se dénichera lui-même. Merci bien. 
+he	&rlm;‏קווין קונורס יגלה את עצמו. תודה.‏ | 
+it	Kevin Connors si scopre da solo. Grazie mille. 
+nl	Kevin Connors ontdekt zichzelf. Bedankt. 
+no	Kevin Connors vil oppdage seg selv. Takk. 
+pl	Kevin Connors sam się odkryje. Dziękuję. 
+pr-br	Kevin Connors irá se descobrir sozinho. Obrigado. 
+pr	O Kevin Connors descobre-se sozinho. Muito obrigado. 
+ro	Kevin Connors se va descoperi singur. Mersi și la revedere! 
+sp-eu	Kevin Connors se descubre solo. Gracias. 
+sp	Kevin Connors se descubrirá solo. Gracias. 
+sv	Kevin Connors upptäcker sig själv. Tack ska du ha. 
+th	เควิน คอนเนอร์สจะค้นพบตัวเขาเอง | ขอบคุณ | 
+tr	Kevin Connors kendini keşfeder. Rica ederim yani. 
+vi	Kevin Connors sẽ tự khám phá bản thân. | Cảm ơn. | 
+zh-long	凱文康納會發掘自己，謝謝 
+zh-short	凯文康纳斯自己就能红 谢谢 
+ru	Кевин Коннорс сам себя откроет. Спасибо. 
+ko	케빈 코너스는 | 자기 자신을 발굴했어 | 
+

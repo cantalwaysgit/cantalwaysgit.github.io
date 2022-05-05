@@ -1,0 +1,50 @@
+ar	&rlm;‏أجل، هذا هو الدور الرئيسي.‏ | 
+da	Ja, det er hovedrollen. 
+el	Δεν το λες και πρωταγωνίστρια. 
+fi	Päärooli tosiaan. 
+fr	Premier rôle, tu parles. 
+he	&rlm;‏כן, זה התפקיד הראשי.‏ | 
+id	Ya, itu yang utama. 
+it	Proprio la protagonista. 
+ko	그게 무슨 주인공이야? | 
+pl	No, główna rola. 
+pr-br	Uma protagonista e tanto. 
+pr	É mesmo o papel principal. 
+ro	Da, rolul principal... 
+ru	Да, это главная роль. 
+sp-eu	Sí, esa es la protagonista. 
+sp	Sí, es la protagonista. 
+sv	Ja, det är huvudrollen. 
+th	ใช่เป็นบทนำ | 
+tr	Evet, başrol o tabii. 
+vi	Thế mà bảo vai chính. | 
+zh-long	那就是大角色喔 
+zh-short	是啊 她是主演 
+nl	Ja, de hoofdrol. -Ja, ze is de hoofdfeestganger. 
+ja	それが主役？ | 
+no	-Ja, det er hovedrollen. -Det er det. Hun er hovedgjesten. 
+id	Benar. Dia peserta pesta utama. 
+ru	Да. Главной гостьи. 
+ar	&rlm;‏أجل. إنها مرتادة الحفلة الرئيسية.‏ | 
+da	Ja, hun er festdeltager nummer et. 
+el	Είναι. Θα παίξει την πρώτη Καλεσμένη. 
+en	It is. She's... she's the lead partygoer. | 
+fi	Hän on pääjuhlija. 
+fr	Si. C'est la première à arriver à la fête. 
+he	&rlm;‏נכון, היא חיית מסיבות ראשית.‏ | 
+it	Sì. L'invitata protagonista. 
+ko	맞아, 파티광 중 1번이잖아 | 
+pl	Będzie głównym uczestnikiem. 
+pr-br	Sim, é a protagonista das baladeiras. 
+pr	Pois é. É o papel principal dos convidados. 
+ro	Așa e. E prima la petrecere. 
+sp-eu	Lo es. Es la invitada protagonista. 
+sp	Sí. Es la invitada protagonista. 
+sv	Det är det. Hon är huvud-festdeltagare. 
+th	ใช่แล้ว นำในบทคนไปงานปาร์ตี้ | 
+tr	Öyle. Partiye gidenlerin başında. 
+vi	Đúng mà. Là người dự sự kiện hàng đầu. | 
+zh-long	是呀，她是一號耶 
+zh-short	是主演 她是头号派对狂 
+ja	最も重要な客なのさ | 
+

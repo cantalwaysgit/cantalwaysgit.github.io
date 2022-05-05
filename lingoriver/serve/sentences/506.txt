@@ -1,0 +1,27 @@
+ar	&rlm;‏شكراً لك يا "مارتن".‏ | 
+da	Tak, Martin. 
+el	Σ' ευχαριστώ, Μάρτιν. 
+en	[Ed McMahon on TV] | Thank you, Martin. | 
+fr	Merci, Martin. 
+it	Grazie, Martin. 
+ko	고마워요, 마틴 | 
+pr-br	Obrigado, Martin. 
+pr	Obrigado, Martin. 
+sp-eu	Gracias, Martin. 
+sp	Gracias, Martin. 
+sv	Tack, Martin. 
+tr	Sağ ol Martin. 
+vi	Cảm ơn, Martin. | 
+zh-long	謝謝馬汀 
+zh-short	谢谢 马丁 
+he	&rlm;‏תודה, מרטין.‏ | 
+pl	Dziękuję, Martin. 
+th	ขอบคุณ มาร์ติน | 
+fi	Kiitos, Martin. 
+nl	Bedankt, Martin. 
+id	Terima kasih, Martin. 
+ro	Mulțumesc, Martin. 
+ru	Спасибо, Мартин. 
+ja	今夜の「スター誕生」は | どちらが勝つのでしょうか | 
+no	Takk, Martin. 
+

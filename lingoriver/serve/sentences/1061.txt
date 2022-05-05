@@ -1,0 +1,28 @@
+ar	&rlm;‏‏- بصراحة؟ | &rlm;‏- ماذا غيرها يا رجل؟‏ | 
+da	-Helt ærligt? -Hvad ellers? 
+el	-Ειλικρινά; -Τι άλλο θες; 
+en	-Honestly? | -What else, man? | 
+fi	-Sanonko rehellisesti? -Miten muutenkaan? 
+fr	- Franchement ? - Bien sûr ! 
+he	&rlm;‏‏בכנות? | &rlm;‏-מה אם לא, בנאדם?‏ | 
+it	- Sinceramente? - Come no. 
+nl	Eerlijk? -Wat anders? 
+no	-Helt ærlig? -Hva ellers? 
+pl	- Szczerze? - No pewnie. 
+pr-br	-Sinceramente? -Fale, cara. 
+pr	- Sinceramente? - O que havia de ser? 
+ro	- Sincer? - Ce mai e acum? 
+sp-eu	- ¿En serio? - Claro, tío. 
+sp	- ¿Quieres la verdad? - Claro, viejo. 
+sv	-Ärligt talat? -Vad annars? 
+th	- เอาจริงๆ หรือครับ | - ก็ใช่นะสิ เพื่อน | 
+tr	-Açık konuşayım mı? -Ya ne olacaktı? 
+vi	- Nói thật nhé? | - Còn sao nữa? | 
+zh-long	-說實話嗎？ -不然呢？ 
+zh-short	-说实话吗？ -不然呢 老兄？ 
+id	- Sejujurnya? - Bagaimana lagi? 
+ja	本音で？ | 
+ru	-Честно? -Ну а как же? 
+ko	- 솔직하게요? | - 당연하지 | 
+ja	当然だ | 
+

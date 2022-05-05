@@ -1,0 +1,51 @@
+ar	&rlm;‏لا! "فيروز" هو مالك المنزل.‏ | 
+da	Nej, Firuz er min udlejer. 
+el	Είναι ο σπιτονοικοκύρης μου. 
+en	No, Firuz is my landlord. | 
+fi	Firuz on vuokraisäntäni. 
+fr	Non. Firuz, c'est mon proprio. 
+he	&rlm;‏לא, פיירוז הוא בעל הבית שלי.‏ | 
+it	Firuz è il padrone di casa. 
+ko	아니, 퍼루즈는 이 집주인이야 | 
+no	Nei, Firuz er utleieren min. 
+pl	Nie, właściciel domu. 
+pr-br	Não, Firuz é o dono da casa. 
+pr	Não! O Firuz é o meu senhorio. 
+ro	Nu. Firuz e proprietarul meu. 
+sp-eu	No, Firuz es mi casero. 
+sp	No, Firuz es el dueño de la casa. 
+sv	Nej! Firuz är min hyresvärd. 
+th	ไม่ใช่ ไฟรูซคือเจ้าของบ้านฉัน | 
+tr	Hayır, Firuz benim ev sahibim. 
+vi	Không, Firuz là chủ nhà tôi. | 
+zh-long	不是！菲魯茨是我房東 
+zh-short	没有！菲鲁兹是我的房东 
+nl	Nee, Firuz is mijn huisbaas. Van hem mogen we niet in het zwembad. 
+ru	Нет! Фируз - домовладелец. 
+id	Bukan! Firuz itu tuan tanahku. 
+ja	ファルースは家主だ | “プールには入るな”と | 
+ru	Он не разрешает в бассейн. Это запрещено. 
+id	Dia melarang kita di kolam. Tempat itu terlarang. 
+ar	&rlm;‏لا يسمح لنا باستخدام البركة. هذا ممنوع.‏ | 
+da	Han forbyder, at vi bruger poolen. Det er forbudt. 
+el	Δεν επιτρέπει να μπούμε στην πισίνα. Απαγορεύεται. 
+en	He does not allow us in the pool. | It is forbidden. | 
+fi	Hän on kieltänyt altaan käytön. 
+fr	Il ne veut pas qu'on aille dans la piscine. 
+he	&rlm;‏הוא לא מרשה לנו להיכנס לבריכה. זה אסור.‏ | 
+it	E non ci permette di usare la piscina. È proibito. 
+ko	수영장에 들어가지 말라고 했어 | 금지된 일이라니까 | 
+no	Han lar oss ikke bruke bassenget. Det er forbudt. 
+pr-br	Ele não deixa entrar na piscina. É proibido. 
+pr	Não permite que usemos a piscina. É proibido. 
+ro	Nu ne permite să intrăm în piscină. E interzis. 
+sp-eu	No nos permite meternos en la piscina. Está prohibido. 
+sp	No nos deja meternos en la piscina. Está prohibido. 
+sv	Han tillåter inte att vi är i poolen. Det är förbjudet. 
+tr	Havuza girmemize izin vermiyor. Yasak. 
+vi	Anh ta không cho phép ta dùng bể bơi. | Đó là lệnh. | 
+zh-long	他不准我用泳池，那是禁區 
+zh-short	他不让我们进泳池 这是禁止的 
+pl	Zabronił wchodzić do basenu. Nie możemy. 
+th	เขาไม่อนุญาตให้เราใช้สระว่ายน้ำ | ของต้องห้าม | 
+

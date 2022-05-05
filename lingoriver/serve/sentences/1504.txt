@@ -1,0 +1,26 @@
+ar	&rlm;‏لا، يحبه الأطفال.‏ | 
+da	Nej, børn elsker ham. 
+el	Τα παιδιά τον λατρεύουν. 
+en	No, kids love him. | 
+fr	Les enfants l'adorent. 
+he	&rlm;‏לא, ילדים אוהבים אותו.‏ | 
+it	No, i bambini lo adorano. 
+pr	As crianças adoram-no. 
+pr-br	Não, as crianças o amam. 
+ro	Copiii îl adoră. 
+sp-eu	A los niños les encanta. 
+sp	No, los niños lo adoran. 
+sv	Ungarna älskar honom. 
+th	ไม่ เด็กๆ ชอบเขา | 
+tr	Çocuklar bayılıyor. 
+vi	Không, bọn trẻ thích anh ta. | 
+zh-long	小朋友愛死他了 
+zh-short	不 孩子们喜欢他 
+fi	Lapset tykkäävät hänestä. Siksi tarjoan häntä. 
+ja	絶対 子供にウケるから | 使ってくれ | 
+id	Tidak, anak-anak menyukainya. 
+pl	Dzieci go uwielbiają. 
+no	Unger elsker ham. 
+ru	Нет, дети в восторге. 
+ko	아니요, 애들이 | 얼마나 좋아하는데요 | 
+

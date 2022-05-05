@@ -1,0 +1,59 @@
+ja	素質があるなら | もうなってる | 
+no	Hvis jeg kunne bli noen, hadde jeg vært henne nå. 
+ar	&rlm;‏لو كنت سأغدو مشهورة،  | &rlm;لأصبحت كذلك بحلول الآن.‏ | 
+da	Så var jeg det allerede. 
+el	Αν ήταν να γίνω κάποια, θα είχα ήδη γίνει. 
+en	Come on. If I was gonna be anybody, | I'd be her by now. | 
+fi	Kai se olisi jo tapahtunut. 
+fr	Si c'était vrai, je ne serais déjà plus ici. 
+he	&rlm;‏‏אם הייתי אמורה להיות מישהי, | &rlm;‏הייתי כבר צריכה להיות היא.‏ | 
+id	Ayolah, jika memang bisa, aku sudah terkenal sekarang. 
+it	Se fosse stato possibile, sarei già qualcuno. 
+ko	대단한 사람이 될 거였으면 | 이미 됐겠죠 | 
+nl	Als ik iemand kon worden, was ik dat al geweest. 
+pl	Gdybym była dobra, już bym to osiągnęła. 
+pr-br	Se fosse para eu ser famosa, já seria agora. 
+pr	Se eu tivesse de ser alguém, já seria. 
+ro	Dacă era să mă realizez, o făceam până acum. 
+sp-eu	Si mi destino era ser alguien, ya lo sería. 
+sp	Si pudiera, ya habría llegado. 
+sv	Om jag kunde bli någon, hade jag varit det nu. 
+th	ถ้าฉันจะดัง ตอนนี้ก็คงดังไปแล้ว | 
+tr	Ünlü olacak olsam, şimdiye dek olurdum. 
+vi	Nếu có thể, thì tôi đã nổi tiếng rồi. | 
+zh-long	少來了，如果我真的可以成名 我早就出名了 
+zh-short	要真是这样 我现在就已经该成功了 
+ru	Если бы могла, уже добилась бы. 
+
+it	Al centro di una radura troveremo il Re Albero. 
+es	En medio de un claro, veremos al Rey Árbol. Él nos ayudará". 
+pt-br	Chegaremos a uma clareira. Lá, o Rei Árvore nos ajudará." 
+fi	Kun tulemme aukiolle, | tapaamme Puukuninkaan. | 
+zh-short	“在一片空地的中央 我们会见到树王 他会帮我们” 
+cs	Až na mýtinu, kde stojí Král stromů. Ten nám pomůže.“ 
+uk	На галявині буде Король Дерево. Він нам допоможе». 
+ru	Когда выйдем на поляну, увидим там Древесного Короля. Он нам поможет». 
+da	Midt i en lysning vil vi træffe Trækongen. | Han vil hjælpe os." | 
+el	Στο ξέφωτο, θα δούμε τον Βασιλιά των Δέντρων. Θα μας βοηθήσει". 
+en	"In the middle of a clearing, we'll see the Tree King. He'll help us." 
+es-eu	En un claro, encontraremos al Rey Árbol. Él nos ayudará". 
+fr	"Au milieu d'une clairière, on verra le Roi des arbres. Il nous aidera." 
+he	‫באמצע קרחת יער נפגוש את מלך העצים.‬ | ‫הוא יעזור לנו."‬ | 
+hr	Nasred proplanka vidjet ćemo Kralja drveća. On će nam pomoći.” 
+hu	„Egy tisztás közepén meglátjuk a Fakirályt. Ő segít nekünk.” 
+id	Di tengah padang, akan ada Raja Pohon. Dia akan membantu kita." 
+ko	&lrm;'빈터에서 나무의 왕을 볼 거야 | &lrm;그가 우릴 도와줄 거야' | 
+ms	Di tengah cerang, kita akan jumpa Raja Pokok. Dia akan bantu kita." 
+no	Midt i en lysning får vi se trekongen. Han hjelper oss." 
+pt	No meio de uma clareira, verás o Rei das Árvores. Ele ajuda-nos." 
+ro	În mijlocul unui luminiș, o să fie regele Copac. El o să ne ajute.»” 
+sv	Och i en glänta ska vi träffa trädkungen. Han ska hjälpa oss." 
+th	&lrm;"เมื่อถึงกลางป่า เราจะพบราชาต้นไม้ | &lrm;เขาจะช่วยเราได้" | 
+tr	Bir açıklığın ortasında Ağaç Kral'ı göreceğiz, bize yardım edecek." 
+vi	&lrm;"Ở giữa bãi đất trống, ta sẽ thấy Vua Cây. | &lrm;Ông ấy sẽ giúp ta". | 
+zh-long	森林中有一片空地 樹王就在那裡，它會幫助我們” 
+nl	In het midden van een open plek zien we de Boomkoning. Hij helpt ons wel.' 
+ja	&lrm;“真ん中の空き地にいる | &lrm;木の王様が助けてくれる” | 
+fi	Hän auttaa meitä." | 
+it	Lui ci aiuterà". 
+

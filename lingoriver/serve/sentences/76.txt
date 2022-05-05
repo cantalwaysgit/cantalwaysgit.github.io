@@ -1,0 +1,32 @@
+en	[laughs] | 
+
+da	Gå ind og hvil dig. | 
+el	Αγάπη μου, ξεκουράσου. 
+en	Honey, go rest. 
+es-eu	Cariño, ve a descansar. 
+es	Ve a descansar, cariño. 
+fi	Mene lepäämään, kulta. | 
+fr	Chérie, va te reposer. 
+he	‫מותק, לכי לנוח.‬ | 
+hr	Dušo, idi se odmoriti. 
+id	Sayang, istirahatlah. 
+it	Tesoro, vai a riposare. 
+ja	&lrm;休んでおいで | 
+ko	&lrm;여보, 좀 쉬어 | 
+ms	Sayang, pergi berehat. 
+nl	Lieverd, ga rusten. 
+no	Hvil deg litt, vennen. 
+pt-br	Querida, vá descansar. 
+pt	Querida, vai descansar. 
+ro	Du-te să te odihnești! 
+ru	Тебе надо отдохнуть. 
+sv	Gå och vila, du. 
+th	&lrm;ที่รัก ไปพักผ่อนเถอะ | 
+tr	Sen dinlen tatlım. 
+uk	Кохана, іди відпочинь. 
+vi	&lrm;Em yêu, đi nghỉ đi. | 
+zh-long	親愛的，回去休息 
+zh-short	亲爱的 去歇着吧 
+hu	Drágám, menj, pihenj le! 
+cs	Jdi si odpočinout. 
+

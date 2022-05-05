@@ -1,0 +1,27 @@
+id	Kau menelepon Bling juga? 
+ja	ブリングも呼んだ？ | 
+ru	Ты и Блингу позвонила? 
+ar	&rlm;‏هل اتصلت بالمبهرج "بلينغ" أيضاً؟‏ | 
+da	Har du også ringet til Bling? 
+el	Τηλεφώνησες και στον Μπλινγκ; 
+en	You called Bling, too? | 
+fi	Soititko Blingillekin? 
+fr	T'as appelé Bling, aussi ? 
+he	&rlm;‏התקשרת גם אל בלינג?‏ | 
+it	Hai chiamato anche Bling? 
+ko	블링도 불렀어? | 
+nl	Heb je Bling ook gebeld? 
+no	Ringte du Bling også? 
+pl	Zadzwoniłaś też do Blinga? 
+pr-br	Ligou para o Bling também? 
+pr	Também ligaste ao Bling? 
+ro	L-ai sunat și pe Bling? 
+sp-eu	¿También has llamado a Bling? 
+sp	¿Llamaste a Bling también? 
+sv	Ringde du Bling också? 
+th	คุณโทรบอกบลิงก์ด้วยเหรอ | 
+tr	Bling'i de mi aradın? 
+vi	Cô cũng gọi cả Bling à? | 
+zh-long	你也打給閃金老闆？ 
+zh-short	你也给闪金哥打电话了吗？ 
+

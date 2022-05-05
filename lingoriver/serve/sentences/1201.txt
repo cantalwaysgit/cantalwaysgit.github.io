@@ -1,0 +1,27 @@
+id	Kita mendapatkan acaranya, bukan? 
+ru	-Ну она же туда попала? -Благодаря мне! 
+en	We got the show, didn't we? | 
+ar	&rlm;‏‏- ألم نحصل على مشاركتها فيه؟ | &rlm;‏- لأنني أصلحت الأمر!‏ | 
+da	-Hun kom med i showet. -Fordi jeg ordnede det! 
+el	-Θα πάει στην εκπομπή, όμως. -Γιατί το διόρθωσα εγώ! 
+fi	-Pääsihän hän siihen. -Koska minä korjasin asian! 
+fr	- On va la faire, l'émission. - Grâce à moi ! 
+he	&rlm;‏‏השגנו את התכנית, לא? | &rlm;‏-כי אני סידרתי את זה!‏ | 
+it	- Poi ci siamo andati, no? - Perché ci ho pensato io. 
+ko	- 출연 확정한 거 아니야? | - 제가 손 썼으니까요! | 
+nl	We kregen de show, toch? -Omdat ik het opgelost heb. 
+no	-Vi ble jo booket. -Fordi jeg fikset det! 
+pl	- I tak u niego wystąpi. - Bo to naprawiłem! 
+pr-br	-Conseguimos o programa, não? -Porque eu dei um jeito! 
+pr	- Conseguimos ir ao programa, não foi? - Porque eu resolvi! 
+ro	- Dar a apărut, nu? - Fiindcă am aranjat eu! 
+sp	- Conseguimos el show, ¿no? - ¡Porque yo lo solucioné! 
+sp-eu	- Conseguimos el programa, ¿no? - ¡Porque yo lo arreglé! 
+sv	-Vi fick ju vara med. -För att jag fixade det. 
+th	- เราได้ไปออกรายการนั้นไม่ใช่เหรอ | - เพราะผมจัดการให้น่ะสิ | 
+tr	-Programa çıktık, değil mi? -Çünkü ben hallettim! 
+vi	- Ta vẫn có chương trình đó mà? | - Vì tôi can thiệp đấy! | 
+zh-long	-最後還不是去了？ -我去爭取來的 
+zh-short	-我们上节目了 不是吗？ -因为是我挽救回来的！ 
+ja	無事に済んだ | 
+

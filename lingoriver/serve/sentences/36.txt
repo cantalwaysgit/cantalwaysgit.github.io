@@ -1,0 +1,85 @@
+ja	ダグとダニーと | 言葉当てゲームをした | 
+id	Saat itu, kalian bermain  hangman . 
+ru	Вы играли в «Виселицу». 
+ar	&rlm;‏كنتم تلعبون لعبة تخمين الكلمات.‏ | 
+da	I spillede Galgespil. 
+el	Παίζατε κρεμάλα. 
+en	You guys were playing hangman. | 
+fi	Pelasitte hirsipuuta. 
+fr	Vous faisiez un pendu. 
+he	&rlm;‏אתם שיחקתם "איש תלוי".‏ | 
+it	Giocavate all'impiccato. 
+ko	행맨 하면서 놀았지 | 
+nl	Jullie speelden galgje. 
+no	Dere spilte hangman. 
+pl	Graliście w wisielca. 
+pr-br	Vocês estavam jogando forca. 
+pr	Vocês estavam a jogar à forca. 
+ro	Voi ați jucat Spânzurătoarea. 
+sp	Estaban jugando al ahorcado. 
+sp-eu	Estabais jugando al ahorcado. 
+sv	Ni spelade "hänga gubben". 
+th	พวกคุณกำลังเล่นเกมแฮงก์แมน | 
+tr	Adam asmaca oynuyordunuz. 
+vi	Các cậu đang chơi trò người treo cổ. | 
+zh-long	你們在玩吊死鬼遊戲 
+zh-short	你们当时正在玩猜字 
+
+it	Ci ho provato. 
+es	Lo intenté. 
+nl	Dat probeerde ik. 
+fi	Yritin kyllä. | 
+da	Jeg prøvede. | 
+el	Προσπάθησα. 
+en	I tried. 
+es-eu	Lo intenté. 
+fr	J'ai essayé. 
+he	‫ניסיתי.‬ | 
+hr	Pokušala sam. 
+hu	Próbáltam. 
+id	Sudah kucoba. 
+ja	&lrm;しました | 
+ko	&lrm;안 했겠어요? | 
+no	Jeg prøvde. 
+pt-br	Eu tentei. 
+pt	Eu tentei. 
+ro	Am încercat. 
+ru	Я пыталась. 
+th	&lrm;ฉันพยายามแล้ว | 
+tr	Etmeye çalıştım. 
+uk	Я намагалася. 
+vi	&lrm;Tôi đã cố. | 
+zh-long	我有報警 
+zh-short	我试过 
+cs	Zkoušela jsem to. 
+ms	Saya dah cuba. 
+sv	Jag försökte, men dina kollegor gissade att han var hos sin flickvän. 
+uk	Ваші колеги припустили, що він ночує у дівчини. 
+zh-short	你的同事认为他在他女朋友家 
+ru	Ваши коллеги предположили, что он у своей девушки. 
+el	Οι συνάδελφοί σας είπαν ότι ήταν στην κοπέλα του. 
+es	Sus colegas dijeron que seguro estaba con su novia. 
+cs	Vaši kolegové mi řekli, že je nejspíš u přítelkyně. 
+da	Deres kolleger foreslog, | han var hos sin kæreste. | 
+en	Your colleagues suggested he was at his girlfriend's. 
+es-eu	Sus compañeros insinuaron que estaba con su novia. 
+fr	Vos collègues ont dit qu'il devait être chez sa copine. 
+he	‫החברים שלך אמרו שהוא אולי אצל החברה שלו.‬ | 
+hr	Vaši su kolege sugerirali da je kod svoje djevojke. 
+hu	A kollégái szerint a barátnőjénél volt. 
+it	Secondo i suoi colleghi era dalla sua ragazza. 
+ko	&lrm;경찰에선 애가 여친 집에 | &lrm;있을 거라더군요 | 
+ms	Rakan sekerja awak kata Adam di rumah teman wanitanya. 
+nl	Uw collega's zeiden dat hij vast bij z'n vriendin was. 
+no	Kollegene dine foreslo at han var hos kjæresten sin. 
+pt-br	Seus colegas insinuaram que ele estava com a namorada. 
+pt	Os seus colegas disseram que ele estaria na namorada. 
+th	&lrm;เพื่อนร่วมงานคุณแนะว่าเขาอาจอยู่ที่บ้านแฟน | 
+tr	Meslektaşlarınız "Sevgilisinin evindedir" dedi. 
+vi	&lrm;Đồng nghiệp của cô | &lrm;gợi ý rằng nó ở nhà bạn gái. | 
+zh-long	妳的同事認為他在女友家 
+fi	Kolleganne arvelivat | hänen olevan tyttöystävänsä luona. | 
+id	Rekan-rekanmu bilang mungkin dia ada di rumah pacarnya. 
+ja	&lrm;カノジョといるだろうと | &lrm;言われて | 
+ro	Colegii dv. au sugerat că e la iubita lui. 
+

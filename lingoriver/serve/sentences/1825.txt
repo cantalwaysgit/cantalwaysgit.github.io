@@ -1,0 +1,27 @@
+ja	早く病院へ | ブンブン 救急車を | 
+id	Kita harus membawamu ke RS. Boom Boom, telepon ambulans! 
+ru	Надо срочно в больницу. Вызови скорую! 
+ar	&rlm;‏يجب أن نذهب إلى المستشفى.  | &rlm;اتصل بالإسعاف يا "بوم بوم"!‏ | 
+da	Vi skal på hospitalet. Ring efter en ambulance. 
+el	Πρέπει να σε πάμε στο νοσοκομείο. Κάλεσε ένα ασθενοφόρο! 
+en	We... we gotta get you to a hospital. | Boom Boom, call an ambulance! | 
+fi	Äkkiä sairaalaan. Soita ambulanssi! 
+fr	On doit t'emmener à l'hosto. Appelle une ambulance ! 
+he	&rlm;‏‏אנחנו צריכים לקחת אותך לבית חולים. | &rlm;‏בום בום, תתקשר לאמבולנס!‏ | 
+it	Deve andare all'ospedale. Boom Boom, chiama un'ambulanza. 
+nl	We moeten naar het ziekenhuis. Bel een ambulance. 
+no	Vi må på sykehuset. Tilkall ambulanse! 
+pl	Musi jechać do szpitala. Wezwij karetkę! 
+pr-br	Temos que ir para o hospital. Chame uma ambulância! 
+pr	Temos de te levar para um hospital. Chama uma ambulância! 
+ro	Trebuie să te ducem la spital! Cheamă Salvarea! 
+sp	Debemos ir al hospital. ¡Llama una ambulancia! 
+sp-eu	Hay que ir a un hospital. ¡Pide una ambulancia! 
+sv	Vi måste till sjukhuset. Ring en ambulans! 
+th	เราต้องไปโรงพยาบาล | โทรเรียกรถพยาบาล | 
+tr	Hastaneye gitmeliyiz. Boom Boom, ambulans çağır! 
+vi	Phải đưa anh ấy vào viện. | Boom Boom, gọi xe cứu thương đi! | 
+zh-long	我們得趕快送他去醫院 叫救護車！ 
+zh-short	我们得去医院 叫救护车！ 
+ko	병원으로 가야 해 | 구급차를 불러! | 
+

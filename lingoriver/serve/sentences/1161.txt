@@ -1,0 +1,49 @@
+ar	&rlm;‏‏- هل أسكبه لك؟ | &rlm;‏- سأتولى الأمر.‏ | 
+da	-Skal jeg hælde det på? -Nej, tak. 
+el	-Θες να σου βάλω; -Θα το κάνω εγώ. 
+en	-Here. You want me to put it on for you? | -I got it. | 
+fi	-Laitanko minä? -Ei tarvitse. 
+fr	- Je la verse pour toi ? - Ça ira. 
+he	&rlm;‏‏רוצה שאשים לך? | &rlm;‏-אני בסדר.‏ | 
+it	- Vuoi che te la serva? - Faccio io. 
+no	-Skal jeg helle? -Jeg kan. 
+pl	- Polać? - Nie. 
+pr-br	-Quer que coloque para você? -Pode deixar. 
+pr	- Queres que ponha? - Eu ponho. 
+ro	- Vrei să ți-l torn eu? - Mă descurc. 
+sp-eu	- ¿Quieres que te la eche? - No. 
+sp	- ¿Te sirvo? - No, gracias. 
+th	- อยากให้เทให้ไหม | - ฉันทำได้ค่ะ | 
+tr	-Koyayım mı? -Ben yaparım. 
+vi	- Cần rưới lên không? | - Tôi làm được. | 
+zh-long	-需要我效勞嗎？ -我自己來 
+zh-short	-要我帮你浇上吗？ -我自己来 
+ko	- 덜어줄까? | - 제가 할게요 | 
+id	- Ingin kutuangkan? - Aku bisa. 
+ru	-Положить тебе? -Нет. 
+nl	Zal ik het doen? Doe je het zelf? 
+sv	Ska jag hälla på lite? Tar du den? 
+ja	かけてあげようか？ | 
+ru	-Ты сама? -Да. 
+id	- Kau bisa? - Ya. 
+th	- ได้นะ | - ค่ะ | 
+ar	&rlm;‏‏- أتوليت الأمر؟ | &rlm;‏- أجل.‏ | 
+da	-Det gør du selv? -Ja. 
+el	-Μπορείς; -Ναι. 
+en	-You got it? | -Yeah. | 
+fr	C'est bon ? 
+he	&rlm;‏‏את תעשי את זה? | &rlm;‏-כן.‏ | 
+it	- Fai tu? - Sì. 
+no	-Tar du det? -Ja. 
+pl	Nie trzeba? 
+pr-br	-Você coloca? -Sim. 
+pr	- Pões? - Sim. 
+ro	- Te descurci? - Da. 
+sp	- ¿Está bien? - Sí. 
+sp-eu	- ¿Tú te encargas? - Sí. 
+tr	-Yapar mısın? -Evet. 
+vi	- Cô làm được? | - Vâng. | 
+zh-long	-妳自己來？ -對 
+zh-short	-你自己来？ -是的 
+ko	- 할 수 있겠어? | - 네 | 
+

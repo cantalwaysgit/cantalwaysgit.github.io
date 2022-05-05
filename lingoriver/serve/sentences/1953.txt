@@ -1,0 +1,27 @@
+sv	Du säger till folk vad du tror att de vill höra. 
+ja	調子のいいことしか言わない | 
+ru	Ты говоришь то, что люди якобы хотят слышать. 
+id	Kau mengatakan yang menurutmu ingin didengar orang. 
+tr	Herkes ne duymak istiyor sanıyorsan onu söylüyorsun. 
+pl	Mówisz to, co myślisz, że chcemy usłyszeć. 
+ar	&rlm;‏أنت تقول للناس ما تظنهم يودون سماعه.‏ | 
+da	Du fortæller folk, hvad du tror, de vil høre. 
+el	Λες αυτό που νομίζεις ότι θέλει ο άλλος να ακούσει. 
+en	Sandy, you tell people | what you think they want to hear. | 
+fi	Sanot, mitä luulet ihmisten haluavan kuulla. 
+fr	Tu dis aux gens ce qu'ils veulent entendre. 
+he	&rlm;‏‏אתה אומר לאנשים | &rlm;‏מה שאתה חושב שהם רוצים לשמוע.‏ | 
+it	Tu dici alle persone ciò che credi vogliano sentirsi dire. 
+ko	다들 듣고 싶어 하는 것 같은 | 말만 하잖아 | 
+nl	Je vertelt mensen wat je denkt dat ze willen horen. 
+no	Du sier det du tror folk ønsker å høre. 
+pr-br	Você diz às pessoas o que acha que querem ouvir. 
+pr	Tu dizes às pessoas o que achas que querem ouvir. 
+ro	Ba tu le spui oamenilor ce crezi că vor ei să audă. 
+sp-eu	Le dices a la gente  lo que crees que quiere oír. 
+sp	Tú le dices a la gente lo que quiere oír. 
+th	นายพูดในสิ่งที่คนเขาอยากได้ยิน | 
+vi	Anh nói với mọi người | điều anh nghĩ họ muốn nghe. | 
+zh-long	你老愛跟大家說 你以為他們想聽的話 
+zh-short	你跟人说你认为他们想听的话 
+

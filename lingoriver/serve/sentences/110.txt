@@ -1,0 +1,108 @@
+id	hadir untuk melawan gravitasi. 
+ru	Он готов преодолеть притяжение! 
+ar	&rlm;‏أتى لتحدي الجاذبية،‏ | 
+da	her for at trodse tyngdekraften, 
+el	μαζί μας, για να αψηφήσει τη βαρύτητα, 
+en	here to defy gravity, | 
+fi	luvassa on painovoiman uhmausta. 
+fr	voici l'homme qui va défier la gravité. 
+he	&rlm;‏כדי לקרוא תיגר על כוח המשיכה,‏ | 
+it	è pronto a sconfiggere la gravità, 
+ko	중력을 거스르러 온 | 
+nl	...om de zwaartekracht te tarten... 
+no	han vil trosse tyngdekraften, 
+pl	przeczący prawu grawitacji, 
+pr	aqui presente para desafiar a gravidade, 
+pr-br	desafiando a gravidade, 
+ro	a venit să sfideze gravitația, 
+sp	aquí para desafiar a la gravedad, 
+sp-eu	ha venido a desafiar a la gravedad, 
+sv	här för att trotsa tyngdlagarna, 
+th	มาเพื่อท้าทายแรงโน้มถ่วงโลก | 
+tr	birazdan yer çekimini yenecek olan 
+vi	cuộc chơi chống lại trọng lực, | 
+zh-long	地心引力殺手來了 
+zh-short	为挑战地球引力 
+ja	拍手で迎えましょう | 重力なんて無関係 | 
+ru	Встречайте: 
+id	Mari kita sambut Gary Roberts Liar! 
+ar	&rlm;‏رحبوا رجاءً بـ"غاري روبرتس" الجامح!‏ | 
+da	giv en stor hånd til Wild Gary Roberts! 
+el	σας παρακαλώ, υποδεχτείτε τον Άγριο Γκάρι Ρόμπερτς! 
+en	please let's welcome Wild Gary Roberts! | 
+fi	Annetaan aplodit Villi Gary Robertsille! 
+fr	Veuillez applaudir le Prodigieux Gary Roberts ! 
+he	&rlm;‏בואו נקבל בבקשה את גארי רוברטס הפראי!‏ | 
+it	diamo il benvenuto a Gary Roberts il Selvaggio! 
+ko	와일드 게리 로버츠를 | 환영해 주세요! | 
+nl	...is hier Wild Gary Roberts. 
+no	ta godt imot Wild Gary Roberts! 
+pl	Dziki Gary Roberts! 
+pr-br	por favor, vamos dar as boas-vindas ao Gary Roberts Selvagem! 
+pr	vamos dar as boas-vindas a Gary Roberts, o Selvagem! 
+ro	vă rog să-l aplaudați pe Sălbaticul Gary Roberts! 
+sp-eu	demos la bienvenida a Gary "el Salvaje" Roberts. 
+sp	por favor, ¡démosle la bienvenida a Wild Gary Roberts! 
+sv	ge Wild Gary Roberts en stor applåd! 
+th	กรุณาต้อนรับแกรี่ โรเบิร์ตส์ สุดซ่า | 
+tr	Çılgın Gary Roberts'ı alkışlayalım! 
+vi	xin chào đón Gary Roberts Khùng! | 
+zh-long	熱烈掌聲歡迎 狂野小子蓋瑞羅伯！ 
+zh-short	有请“狂徒”加里罗伯茨！ 
+ru	Дикий Гэри Робертс! 
+ja	ワイルド･ゲイリー･ | ロバーツ！ | 
+
+es	¿Y qué te inquieta? 
+hu	Hogy érted ezt? 
+ja	&lrm;つまり？ | 
+el	Τι εννοείς; 
+ms	Apa maksud awak? 
+cs	Co tím chceš říct? 
+da	Hvad mener du? | 
+en	What are you saying? 
+fr	Où tu veux en venir ? 
+he	‫אז מה את אומרת?‬ | 
+hr	Što želiš reći? 
+id	Apa maksudmu? 
+it	Cosa vuoi dire? 
+ko	&lrm;그게 무슨 뜻이죠? | 
+no	Hva er det du sier? 
+pt-br	O que quer dizer? 
+ro	Ce vrei să spui? 
+ru	Что ты хочешь сказать? 
+th	&lrm;หมายความว่าไง | 
+tr	Ne demek istiyorsun? 
+uk	Що ти маєш на увазі? 
+vi	&lrm;Cô đang nói gì vậy? | 
+zh-long	妳想表達什麼？ 
+zh-short	你想说什么？ 
+es-eu	- ¿Qué dices? - Las velas están donde estaba el cuerpo. 
+fi	Mistä sinä puhut? | -Ruumis oli tuossa kynttilöiden kohdalla. | 
+nl	Wat bedoel je? -De kaarsen staan waar zijn lichaam lag. 
+pt	- O que dizes? - As velas estão no sítio onde ele estava. 
+sv	-Vad menar du? -Ljusen står precis där kroppen hittades. 
+ja	&lrm;遺体のあった場所に | &lrm;ろうそくが | 
+es	Las velas están exactamente donde estaba el cuerpo. 
+el	Τα κεριά είναι εκεί που βρέθηκε το πτώμα. 
+hu	A gyertyák pont ott vannak, ahol feküdt. 
+ms	Lilin itu di tempat mayat ditemui. 
+cs	Ty svíčky jsou přesně tam, kde leželo. 
+da	Lysene står, præcis hvor liget lå. | 
+en	The candles are exactly where his body was. 
+fr	Les bougies sont là où était son corps. 
+he	‫הנרות מסודרים בדיוק איפה שהגופה היתה.‬ | 
+hr	Svijeće su ondje gdje je bilo tijelo. 
+id	Lilinnya persis di tempat jasadnya. 
+it	Le candele sono dov'era il suo corpo. 
+ko	&lrm;딱 시신이 있던 자리에 | &lrm;초가 있어요 | 
+no	Lysene er akkurat der han var. 
+pt-br	As velas estão exatamente na posição do corpo. 
+ro	Lumânările sunt fix unde a fost el. 
+ru	Свечи как раз там, где он лежал. 
+th	&lrm;เทียนอยู่ที่เดียวกับศพอิกอร์พอดี | 
+tr	Mumlar tam da naaşının olduğu yerde. 
+uk	Свічки саме там, де було його тіло. 
+vi	&lrm;Những ngọn nến ở chính xác | &lrm;tư thế thi thể của nó. | 
+zh-long	蠟燭正好放在他遺體的位置 
+zh-short	蜡烛正摆在当时尸体所在的位置 
+

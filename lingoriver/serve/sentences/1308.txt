@@ -1,0 +1,26 @@
+id	Yang benar saja. 
+ar	&rlm;‏اكتفيت بالفعل.‏ | 
+da	Hold nu op. 
+el	Έλεος πια. 
+en	Come on, already. | 
+fi	Pois siitä. 
+fr	Ça suffit. 
+he	&rlm;‏באמת, מספיק.‏ | 
+it	Chiuso. 
+no	Gi deg nå. 
+pl	Wystarczy. 
+pr-br	Chega disso. 
+pr	Pronto. 
+ro	Hai odată! 
+ru	Прекратите это. 
+sp-eu	Por favor. 
+sp	Suficiente, ya basta. 
+sv	Kom igen. 
+th	ไม่เอาน่า พอที | 
+tr	Hadi ama. 
+vi	Thôi đi. | 
+zh-long	真是夠了 
+zh-short	已经够了 
+ja	たくさんだ | 
+ko	안 되겠어 | 
+

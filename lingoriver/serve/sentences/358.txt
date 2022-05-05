@@ -1,0 +1,82 @@
+en	It's a hamburger, crazy man. | 
+ru	Обычный гамбургер. 
+ar	&rlm;‏‏- إنها شطيرة لحم خنزير أيها المجنون. | &rlm;‏- شطيرة لحم خنزير؟‏ | 
+da	-Det er en hamburger, din tosse. -En hamburger? 
+el	-Ένα απλό χάμπουργκερ είναι, τρελέ. -Χάμπουργκερ; 
+fr	- C'est un steak haché classique. - Vraiment ? 
+he	&rlm;‏‏זה המבורגר, איש מטורף. | &rlm;‏-המבורגר?‏ | 
+it	- È un hamburger, matto. - Un hamburger? 
+ko	- 햄버거예요, 이 양반아 | - 햄버거? | 
+nl	Het is een hamburger, gek. 
+no	-Det er en hamburger, gærning. -Hamburger? 
+pl	- To zwykły hamburger. - Hamburger? 
+pr-br	-É um hambúrguer, seu louco. -Um hambúrguer? 
+pr	- É um hambúrguer, seu maluco. - Um hambúrguer? 
+ro	- E doar un hamburger, nebunule. - Un hamburger? 
+sp	- Es una hamburguesa, loco. - ¿Una hamburguesa? 
+sp-eu	- Es una hamburguesa, pirado. - ¿Una hamburguesa? 
+sv	Det är en hamburgare, din tok. 
+th	- แค่แฮมเบอร์เกอร์ คนบ้า | - แฮมเบอร์เกอร์เหรอ | 
+tr	-Hamburger işte deli adam. -Hamburger mi? 
+vi	- Chỉ là hamburger thôi mà, đồ khùng. | - Hamburger? | 
+zh-long	-就是漢堡，怪咖 -漢堡？ 
+zh-short	-这是汉堡 疯子 -汉堡？ 
+id	- Itu hamburger, Orang Gila. - Hamburger? 
+fi	Se on hampurilainen, sekopää. Jäät paitsi, kun et syö sämpylää. 
+ja	普通の牛肉よ | バンズなしのハンバーガー | 
+en	-A hamburger? | -And you're missing out without the bun. | 
+ru	-Гамбургер? -Без булочки не так вкусно. 
+ar	&rlm;‏‏- ويفوتك الكثير من دون الخبز. | &rlm;‏- الخبز،‏ | 
+da	-Og du går glip af brødet. -Brødet... 
+el	-Και δεν αξίζει χωρίς το ψωμάκι. -Σχετικά μ' αυτό... 
+fr	- Et tu devrais manger le pain. - Pour le pain... 
+he	&rlm;‏‏ואתה מפסיד בלי הלחמנייה. | &rlm;‏-עכשיו, הלחמנייה...‏ | 
+it	- E senza pane ti perdi qualcosa. - Per il pane... 
+ko	- 빵을 같이 먹어야죠 | - 빵이라... | 
+nl	En zonder broodje mis je iets. -Het broodje... 
+no	-Du går glipp av noe uten brødet. -Brødet... 
+pl	- Z bułką byłby lepszy. - No tak... 
+pr-br	-Está perdendo sem o pão. -O pão... 
+pr	- E ficas a perder ao não comer o pão. - O pão... 
+ro	- Și e mai bun cu chiflă. - În legătură cu chifla... 
+sp-eu	- Y es mejor aún con el pan. - El pan... 
+sp	- Te estás perdiendo el pan. - El pan... 
+sv	-Du går miste om nåt utan brödet. -Och brödet... 
+th	- ไม่กินขนมปังมันขาดอะไรไปนะ | - ทีนี้ ขนมปัง... | 
+tr	-Ekmeği olmayınca aynı şey değil tabii. -Ekmeği... 
+vi	- Không khen bánh kẹp là thiếu sót đấy. | - À, bánh... | 
+zh-long	-不夾麵包吃少了一味 -麵包呀… 
+zh-short	-加上面包才好吃 -面包 
+id	- Tidak lengkap tanpa roti. - Rotinya... 
+ru	Булочки... 
+en	Now, the bun... | 
+ja	あと２キロ 痩せたら | バンズも食べる | 
+id	Jika aku turun dua kilogram lagi, aku makan rotinya. 
+ru	-Если похудею, вернусь к булочкам. -Боже... 
+en	If I lose five more pounds, | it's back to the buns. | 
+nl	Als ik nog twee kilo afval, mag ik weer broodjes. 
+fi	Jos laihdun vielä pari kiloa, voin syödä niitä. 
+ar	&rlm;‏‏- إن نقص وزني كيلوغرامين، سأعود لتناوله. | &rlm;‏- يا إلهي.‏ | 
+da	-Tre kilo, og jeg spiser brød igen. -Åh gud. 
+el	-Μόλις χάσω δυόμισι κιλά, θα το τρώω. -Θεέ μου. 
+fr	- J'ai encore deux kilos à perdre. - J'hallucine. 
+he	&rlm;‏‏אם אוריד שני קילו, אוכל שוב לחמניות. | &rlm;‏-אלוהים.‏ | 
+it	- Prima devo perdere altri due chili. - Oddio. 
+ko	- 2kg 빼면 먹을게 | - 세상에 | 
+no	-To kilo til, så kan jeg spise brød igjen. -Herregud. 
+pl	- Zrzucę dwa kilo i wrócę do bułek. - Boże. 
+pr-br	-Se eu perder mais 2,5 kg, volto ao pão. -Ah, meu Deus. 
+pr	- Se perder dois quilos, volto ao pão. - Meu Deus. 
+ro	- Să mai slăbesc vreo două kilograme. - Dumnezeule! 
+sp-eu	- Si pierdo un par de kilos, comeré pan. - Dios. 
+sp	- Si adelgazo tres kilos, como pan. - Dios mío. 
+sv	-Om jag går ner två kilo, tar jag bröd. -Herregud. 
+th	- ถ้าลดได้สองกิโล จะกลับไปกินขนมปัง | - ให้ตายสิ | 
+tr	-İki kilo daha verirsem yine ekmek yerim. -Aman Tanrım. 
+vi	- Nếu giảm hai cân, tôi sẽ ăn bánh. | - Chúa ơi. | 
+zh-long	-再減個兩公斤就能吃麵包 -天啊 
+zh-short	-要是我瘦四斤半 那就吃面包 -天啊 
+ja	変なの | 
+en	Oh, my God. | 
+id	Astaga. 
+

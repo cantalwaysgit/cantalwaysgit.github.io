@@ -1,0 +1,32 @@
+en	You sound like a fortune cookie. | 
+id	Kau seperti kue keberuntungan. 
+ar	&rlm;‏‏- كلامك يشبه عبارات كعكة الحظ. | &rlm;‏- كنت وكيل شخص كتب جملها.‏ | 
+da	-Du lyder som en lykkekage. -Jeg repræsenterede en fyr, der skrev dem. 
+el	-Μιλάς σαν κουλουράκι της τύχης. -Εκπροσωπούσα κάποιον που τα έγραφε. 
+fi	-Kuulostat onnenkeksiltä. -Edustin miestä, joka kirjoitti niitä. 
+fr	- On dirait un dicton de biscuit chinois. - J'ai représenté un type qui en écrivait. 
+he	&rlm;‏‏אתה נשמע כמו עוגיית מזל. | &rlm;‏-ייצגתי בחור שכתב אותן.‏ | 
+it	- Sono frasi da biscotto della fortuna. - Le scriveva un mio cliente. 
+ko	- 포춘 쿠키 점괘 같네요 | - 그 작가도 제 고객이에요 | 
+nl	Je klinkt als een gelukskoekje. -De schrijver ervan was mijn cliënt. 
+no	-Du høres ut som en lykkekake. -Jeg representerte en som skrev dem. 
+pl	- Brzmisz jak wróżba z ciastka. - Miałem klienta, który je pisał. 
+pr-br	-Você parece um biscoito da sorte. -Eu representava um cara que escreve isso. 
+pr	- Parece um biscoito da sorte. - Já representei um tipo que os escrevia. 
+sp-eu	- Parece una galleta de la fortuna. - Representé al tío que las escribía. 
+sp	- Suenas a galleta de la fortuna. - Representaba a un tipo que las escribía. 
+sv	-Du låter som en lyckokaka. -Jag företrädde en kille som skrev dem. 
+tr	-Kurabiyeden çıkan fallar gibi konuştun. -Onları yazan bir adamı temsil ediyordum. 
+vi	- Anh cứ như bánh tiên tri ấy. | - Tôi từng đại diện cho gã viết thứ đó. | 
+zh-long	-你講話活像幸運餅乾 -我以前是幸運餅乾寫手的經紀人 
+zh-short	-你说的像是幸运饼干里的签语 -我以前的一个客户常常写签语的 
+ja	クッキーのおみくじ？ | 
+ro	- Parcă citești răvașe. - Am reprezentat un tip care scria răvașe. 
+ru	-Звучит, как предсказание из печенья. -Их писал мой клиент. 
+th	- คุณพูดเหมือนในคุกกี้เสี่ยงทายเลย | - ผมเคยดูแลคนที่เขียนพวกนั้น | 
+en	I used to represent a guy | who wrote fortune cookies. | 
+id	Aku pernah mewakili orang yang menulis kue itu. 
+ja	書いてたのは僕の担当だ | 
+
+en	There are a lot of photos of them together. 
+

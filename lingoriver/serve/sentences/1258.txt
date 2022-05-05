@@ -1,0 +1,27 @@
+id	Jadi, begitu saja? 
+ru	Значит, всё? 
+ja	これっきり？ | 
+ar	&rlm;‏أقُضي الأمر إذاً؟‏ | 
+da	Er det det? 
+el	Αυτό είναι, λοιπόν; 
+en	So that's it? | 
+fi	Siinäkö kaikki? 
+fr	Ça s'arrête comme ça ? 
+he	&rlm;‏אז זהו זה?‏ | 
+it	Finisce così? 
+nl	Is dat het dan? 
+no	Så det var det? 
+pl	To koniec? 
+pr-br	Então é isso? 
+pr	Então, é assim? 
+ro	Deci, gata? 
+sp	¿Esto es todo? 
+sp-eu	¿Ya está? 
+sv	Så, det var det? 
+th	งั้นก็แค่นี้เหรอ | 
+tr	Bitti mi yani? 
+vi	Chỉ thế thôi sao? | 
+zh-long	就這樣？ 
+zh-short	这就结束了吗？ 
+ko	이거로 끝인가요? | 
+

@@ -1,0 +1,27 @@
+ru	Ты тренируешься? 
+ar	&rlm;‏هل تتدرب؟‏ | 
+da	Træner du? 
+el	Γυμνάζεσαι; 
+fi	Treenaatko sinä? 
+fr	Tu fais du sport, toi ? 
+he	&rlm;‏אתה מתעמל?‏ | 
+it	Tu ti alleni? 
+nl	Sport jij? 
+no	Trener du? 
+pl	Ty ćwiczysz? 
+pr-br	Você treina? 
+pr	Fazes exercício? 
+ro	Te antrenezi? 
+sp-eu	¿Haces deporte? 
+sp	¿Tú haces deporte? 
+sv	Tränar du? 
+th	คุณออกกำลังกายเหรอ | 
+tr	Egzersiz mi yapıyorsun? 
+vi	Anh tập thể hình à? | 
+zh-long	你有在健身？ 
+zh-short	你健身吗？ 
+ja	エクササイズ？ | 
+ko	운동도 하세요? | 
+en	You work out? [laughs] | 
+id	Kau berolahraga? 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏أنباء رائعة. مات السيد "باتنز"!‏ | 
+da	Skønne nyheder. Hr. Buttons er død! 
+el	Έχω υπέροχα νέα. Πέθανε ο κ. Μπάτονς! 
+en	Wonderful news. Mr. Buttons is dead! | 
+fi	Hienoja uutisia! Herra Nappi on kuollut! 
+fr	Grande nouvelle. Monsieur Boutons est mort ! 
+he	&rlm;‏חדשות נהדרות. מר כפתורים מת!‏ | 
+it	Grandi notizie. Sig. Buttons è morto! 
+ko	좋은 소식이야 | 미스터 버튼스가 죽었대! | 
+nl	Geweldig nieuws. Mr Buttons is dood. 
+no	Gode nyheter. Mr. Buttons er død! 
+pl	Mam wspaniałe wieści. Pan Buttons nie żyje! 
+pr-br	Ótimas notícias, o Sr. Botões está morto! 
+pr	Ótimas notícias. O Mr. Buttons está morto! 
+ro	Am o veste grozavă! Dl Buttons a murit! 
+sp-eu	¡Gran noticia, el Sr. Botones ha muerto! 
+sp	Maravillosas noticias. ¡El Sr. Botones está muerto! 
+sv	Underbara nyheter. Mr Buttons är död! 
+th	ข่าวดี คุณบัตตันส์ตายแล้ว | 
+tr	Haberler harika. Bay Düğme öldü! 
+vi	Tin tuyệt vời đây. Ngài Buttons chết rồi! | 
+zh-long	好消息，鈕扣先生死了！ 
+zh-short	好消息 巴顿斯先生死了！ 
+id	Kabar baik! Tuan Buttons meninggal! 
+ru	Отличные новости! Мистер Пуговиц умер! 
+ja	朗報だ | ミスター･バトンズが死んだ | 
+

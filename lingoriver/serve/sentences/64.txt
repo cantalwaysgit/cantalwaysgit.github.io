@@ -1,0 +1,34 @@
+ja	彼女ナシ | 
+
+ja	&lrm;勘違いです | 
+fi	Erehdytte henkilöstä. | 
+cs	- To jste si mě asi spletla. - Spletla? 
+da	-De tager fejl. | -Fejl? | 
+el	-Λάθος κάνετε. -Λάθος; 
+en	-You must be mistaken, miss. -Mistaken? 
+es	- Creo que se equivoca. - ¿Me equivoco? 
+es-eu	- Se confunde. - ¿Me confundo? 
+fr	- Vous devez faire erreur. - Quoi ? 
+he	‫יש לך טעות.‬ | ‫-טעות?‬ | 
+hr	-Zabunili ste se. -Zabunila sam se? 
+hu	- Ez valami tévedés. - „Tévedés”? 
+id	- Kau pasti keliru. - Begitu? 
+it	- Ci dev'essere un errore. - Un errore? 
+ko	&lrm;- 오해가 있으시군요 | &lrm;- 오해? | 
+ms	- Puan dah tersilap. - Tersilap? 
+nl	Je vergist je vast. -Pardon? 
+no	-Du tar nok feil. -Feil? 
+pt-br	- Deve estar enganada. - Enganada? 
+pt	- Deve estar enganada. - Enganada? 
+ro	- Cred că vă înșelați. - Adică? 
+ru	- Вы обознались. - Обозналась? 
+th	&lrm;- คุณเข้าใจผิดแล้ว | &lrm;- เข้าใจผิดอะไร | 
+uk	-Ви, мабуть, помиляєтеся. -Помиляюся? 
+vi	&lrm;- Chắc cô nhầm rồi. | &lrm;- Nhầm sao? | 
+zh-long	-妳一定是誤會了 -誤會？ 
+zh-short	-你一定是搞错了 -搞错？ 
+sv	-Nu misstar ni er. -Jaså? Det gör jag definitivt inte! 
+tr	-Başkasıyla karıştırdınız. -Karıştırmak mı? Kesinlikle hayır! 
+ja	&lrm;勘違いなことない | 
+fi	Erehdynkö? | 
+

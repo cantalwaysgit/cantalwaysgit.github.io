@@ -1,0 +1,27 @@
+sv	Jag skäms å hans vägnar. 
+ar	&rlm;‏أشعر بالإحراج من أجله.‏ | 
+da	Jeg er flov på hans vegne. 
+el	Ντρέπομαι για εκείνον. 
+en	I'm embarrassed for him. | 
+fi	Minua nolottaa hänen puolestaan. 
+he	&rlm;‏אני נבוך בשבילו.‏ | 
+it	Sono imbarazzato per lui. 
+nl	Ik schaam me voor hem. 
+pl	Wstyd mi za niego. 
+pr-br	Estou constrangido por ele. 
+pr	Estou envergonhado por ele. 
+ro	Mi-e rușine de rușinea lui. 
+sp-eu	Me da vergüenza ajena. 
+sp	Me da vergüenza por él. 
+tr	Onun adına utanıyorum. 
+vi	Tôi thấy xấu hổ cho anh ta. | 
+zh-long	有夠丟臉 
+zh-short	我真替他难为情 
+id	Dia membuatku malu. 
+th	ผมขายหน้าแทนเขา | 
+ru	Мне за него неловко. 
+ja	いい年して | 
+no	Jeg er flau på hans vegne. 
+fr	J'ai honte pour lui. 
+ko	창피해 | 
+

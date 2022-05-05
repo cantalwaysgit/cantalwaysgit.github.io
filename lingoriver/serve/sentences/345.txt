@@ -1,0 +1,27 @@
+en	Oh, that's right. I'm sorry. | Please don't shiv me. | 
+ko	참, 맞다, 죄송해요 | 칼로 긋지 말아 주세요 | 
+sv	Det är sant. Förlåt mig. Knivhugg mig inte, tack. 
+ja	悪気はなかった　刺さないで | 
+da	Nej, det er rigtigt. Beklager. Stik mig ikke ned. 
+pr-br	Certo. Sinto muito. Por favor, não me apunhale. 
+vi	Phải rồi. Tôi xin lỗi. Đừng khử tôi. | 
+el	Με συγχωρείς.  Σε παρακαλώ, μη με μαχαιρώσεις. 
+pl	Fakt. Niech mi pan nie wsadza kosy. 
+ru	Верно. Извините. Прошу, не пыряйте заточкой. 
+ar	&rlm;‏هذا صحيح. آسف. لا تطعني رجاءً.‏ | 
+fi	Ai niin. Anteeksi. Älä puukota minua. 
+fr	C'est vrai. Navré. Me poignardez pas. 
+he	&rlm;‏נכון. סליחה. אל תדקור אותי.‏ | 
+id	Benar. Maaf. Tolong jangan tusuk aku. 
+it	Mi dispiace. Non mi accoltelli, la prego. 
+nl	Dat is waar. Sorry. Steek me niet neer. 
+no	Det stemmer. Beklager. Ikke knivstikk meg. 
+pr	Pois é. Peço desculpa. Não me esfaqueie, por favor. 
+ro	Așa e. Vă cer scuze. Vă rog să nu mă tăiați. 
+sp	Es cierto. Lo siento. Por favor, no me apuñale. 
+sp-eu	Es verdad. Lo siento. No me raje, por favor. 
+th	ใช่สิ ผมขอโทษ กรุณาอย่าปาดคอผม | 
+tr	Doğru. Özür dilerim. Lütfen beni şişlemeyin. 
+zh-long	對喔，抱歉，拜託別殺我 
+zh-short	是啊 抱歉 请不要拿刀剃了我 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏‏أهذا هو العجوز الذي يحقق الأمنيات | &rlm;‏الذي كنت تخبرينني عنه؟‏ | 
+da	Er det den gamle Make-A-Wish-fyr, du fortalte mig om? 
+el	Αυτός είναι ο παππούς από το Κάνε Μια Ευχή που μου έλεγες; 
+en	Oh, is this the old Make-A-Wish guy | you were telling me about? | 
+fi	Onko tämä se Make-A-Wish-äijä, josta kerroit? 
+fr	C'est le type qui est venu grâce à Make-A-Wish ? 
+he	&rlm;‏זה הזקן מ"משאלת לב" שסיפרת לי עליו?‏ | 
+it	È il vecchio che hai aiutato tramite l'organizzazione Make-A-Wish? 
+nl	Is dit die doe-een-wens-man over wie je het had? 
+pl	To właśnie życzenie tego typka spełniasz? 
+pr-br	Esse é o cara do Make-A-Wish que você me disse? 
+pr	Este é o tipo do Make-A-Wish de que me falaste? 
+ro	El e tipul de la fundația umanitară despre care îmi spuneai? 
+sp	¿Este es el viejo de Make-A-Wish del que me hablaste? 
+sp-eu	¿Este es el tío de Make-A-Wish del que me hablabas? 
+sv	Är det här välgörenhetskillen du snackade om? 
+th	นี่คือคนจากเมก-อะ-วิช | ที่คุณเล่าให้ฟังใช่ไหม | 
+tr	Bana anlattığın Bir Dilek Tut'çu adam mı? 
+vi	Đây chính là gã trong dự án Điều-Ước | mà em kể à? | 
+zh-long	他就是你跟我說的 那個許願老頭？ 
+zh-short	是你之前跟我说的那个幻想家吗？ 
+ko	이 분이 자원봉사한다는 | 그 영감님이셔? | 
+no	-Er dette den gamle fyren du snakket om? -Nei. Vi jobbet sammen. 
+ja	彼が例の | “足長おじさん”か？ | 
+id	Ini pria pengabul permintaan yang pernah kau bicarakan? 
+ru	Это тот чудотворец, о котором ты говорила? 
+

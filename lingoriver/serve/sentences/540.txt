@@ -1,0 +1,27 @@
+ja	ただの助手の俺にも | 敬意を払ってくれてた | 
+fr	Tu me respectais. 
+ar	&rlm;‏عاملتني باحترام يا "ساندي".‏ | 
+da	Du behandlede mig med respekt. 
+el	Μου φερόταν με σεβασμό. 
+en	You treated me with respect, Sandy. | 
+fi	Kohtelit minua arvostavasti. 
+he	&rlm;‏התייחסת אליי בכבוד.‏ | 
+it	Mi portavi rispetto. 
+ko	절 존중해 주셨어요 | 
+pl	Szanowałeś mnie. 
+pr-br	Você me tratou com respeito. 
+pr	Tratavas-me com respeito. 
+ro	M-ai respectat. 
+sp-eu	Me tratabas con respeto. 
+sp	Me tratabas con respeto. 
+th	เขายอมรับและดีกับผม | 
+tr	Bana saygı gösterirdin. 
+vi	Anh luôn tôn trọng tôi. | 
+zh-long	真心把我當一回事 
+zh-short	你非常尊重我 
+nl	Je behandelde me met respect. Dat deden niet veel mensen. 
+no	Du behandlet meg med respekt. Det var få som gjorde det. 
+sv	Du behandlade mig med respekt. Inte många gjorde det. 
+id	Kau menghormatiku, Sandy. 
+ru	Ты меня уважал. 
+

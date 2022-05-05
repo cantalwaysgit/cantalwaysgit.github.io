@@ -1,0 +1,27 @@
+ar	&rlm;‏حسناً، ارجع إلى هناك يا بطل!‏ | 
+da	Tilbage med dig! 
+el	Γύρισε στο ρινγκ! 
+en	Okay, get back there, champ! | 
+fi	Nousehan. 
+he	&rlm;‏בסדר, תחזור לשם, אלוף!‏ | 
+id	Baiklah. Kembalilah, Bung! 
+it	Tirati su, campione! 
+ko	괜찮아, 링 위로 올라가! | 
+nl	Ga terug, kampioen. 
+pl	Wracaj do niego! 
+pr-br	Ei, volte lá, campeão! 
+pr	Pronto, volta para lá, grandalhão! 
+ro	Întoarce-te acolo, campionule! 
+ru	Так, возвращайся! 
+sp	De acuerdo, ¡regresa, campeón! 
+sp-eu	¡Vale, vuelve ahí! 
+sv	In med dig igen! 
+th	โอเค กลับเข้าไปเลย เพื่อน | 
+tr	Tamam, yerine dön şampiyon! 
+vi	Quay lại sàn đấu đi, nhà vô địch! | 
+zh-long	回場子去！ 
+zh-short	好了 回到台上去 老兄！ 
+ja	立て　戦うんだ！ | 
+no	Kom deg inn igjen! 
+fr	Remonte sur le ring ! 
+

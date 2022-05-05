@@ -1,0 +1,27 @@
+ru	-Мне очень жаль. Ты... -Не надо. 
+ar	&rlm;‏‏- أنا آسف جداً. هذا... | &rlm;‏- لا تتأسف.‏ | 
+da	-Det er jeg ked af. -Det skal du ikke være. 
+el	-Λυπάμαι πολύ. Αυτό είναι... -Δε χρειάζεται. 
+en	-Well, I'm so sorry. That's-- | -Don't be. | 
+fi	-Ikävä kuulla. -Mitäs tuosta. 
+fr	- Désolé de l'apprendre. - Pas besoin. 
+he	&rlm;‏‏אני מצטער. זה... | &rlm;‏-אל תהיה.‏ | 
+it	- Mi dispiace molto. - Figurati. 
+ko	- 안타깝네, 그것참... | - 그럴 필요 없어요 | 
+nl	Dat spijt me. Dat is... -Hoeft niet. 
+pl	- Bardzo mi przykro. - Niepotrzebnie. 
+pr-br	-Bem, sinto muito. É... -Tudo bem. 
+pr	- Lamento muito. Isso é... - Não lamentes. 
+ro	- Îmi pare rău. Asta e... - Să nu-ți fie! 
+sp-eu	- Lo siento mucho. Es... - No lo sientas. 
+sp	- Lo siento. Es... - No, está bien. 
+sv	-Jag är ledsen. Det är... -Var inte det. 
+th	- เสียใจด้วยจริงๆ นั่น... | - ไม่ต้องเลย | 
+tr	-Üzüldüm. Bu... -Üzülme. 
+vi	- Tôi rất tiếc. Thật là... | - Không cần đâu. | 
+zh-long	-真遺憾，實在是… -不會啦 
+zh-short	-很遗憾 那太… -不必 
+ja	別れたのは残念だけど | 物事には理由がある | 
+no	-Det var leit. Det er... -Nei da. 
+id	- Aku sungguh prihatin. Itu... - Tidak perlu. 
+

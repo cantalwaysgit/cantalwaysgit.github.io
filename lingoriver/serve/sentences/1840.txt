@@ -1,0 +1,27 @@
+ar	&rlm;‏لماذا تعاملني كمغفل إذاً؟‏ | 
+da	Hvorfor behandler du mig så sådan? 
+el	Τότε γιατί μου φέρεσαι σαν να είμαι; 
+en	Then why are you treating me like one? | 
+fi	Miksi sitten puhut kuin ääliölle? 
+fr	Pourquoi tu fais comme si, alors ? 
+he	&rlm;‏אז למה אתה מתייחס אליי ככה?‏ | 
+id	Lalu kenapa kau memperlakukanku seperti itu? 
+it	Allora perché mi tratti come se lo fossi? 
+nl	Waarom behandel je me dan zo? 
+no	Så hvorfor behandler du meg som en? 
+pl	To czemu mnie tak traktujesz? 
+pr-br	Então por que está me tratando como um? 
+pr	Então, porque me tratas como se fosse? 
+ro	Atunci, de ce te porți așa cu mine? 
+sp	Entonces ¿por qué me tratas como si lo fuera? 
+sp-eu	¿Entonces por qué me tratas como tal? 
+sv	Varför behandlar du mig som en då? 
+th	งั้นทำไมถึงทำกับผมแบบนี้ล่ะ | 
+tr	O zaman neden öyle davranıyorsun? 
+vi	Vậy sao anh đối xử với tôi như tên ngốc? | 
+zh-long	那你幹嘛把我當白痴看？ 
+zh-short	那你干吗像对待笨蛋一样对我？ 
+ru	Так почему так со мной обращаешься? 
+ko	그런데 왜 바보 취급하시죠? | 
+ja	じゃ なんでバカ扱いする？ | 
+

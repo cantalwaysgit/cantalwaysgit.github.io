@@ -1,0 +1,27 @@
+id	Kenapa tidak? 
+ja	どうして？ | 
+ar	&rlm;‏لم لا تفعل؟‏ | 
+da	Hvorfor ikke? 
+el	Γιατί δεν το κάνεις; 
+en	Why won't you? | 
+fi	Mikset? 
+fr	Pourquoi ? 
+he	&rlm;‏למה לא?‏ | 
+it	Perché no? 
+nl	Waarom niet? 
+no	Hvorfor ikke? 
+pl	Dlaczego nie? 
+pr-br	Por que não diz? 
+pr	Porquê? 
+ro	De ce nu vrei? 
+ru	Ну почему? 
+sp-eu	¿Por qué no? 
+sp	¿Por qué no? 
+sv	Varför inte då? 
+th	ทำไมถึงไม่ล่ะ | 
+tr	Neden söylemiyorsun? 
+vi	Sao anh không nói? | 
+zh-long	為什麼？ 
+zh-short	为什么不行？ 
+ko	어째서요? | 
+

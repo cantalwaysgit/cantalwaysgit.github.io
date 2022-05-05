@@ -1,0 +1,57 @@
+ar	&rlm;‏ولم يكن يُسمح له بدخول المنزل الرئيسي.‏ | 
+da	Han måtte ikke gå ind i hovedhuset. 
+el	Δεν του επιτρεπόταν να μπαίνει στο κυρίως σπίτι. 
+en	And he was not allowed in the main house. | 
+fi	Sandy ei saanut mennä päärakennukseen. 
+fr	Il n'avait pas le droit d'entrer dans la maison. 
+he	&rlm;‏והיה אסור לו להיכנס לבית הראשי.‏ | 
+it	Non poteva entrare nella dimora principale. 
+ko	본관에는 못 들어가게 했죠 | 
+nl	Hij mocht niet in de villa komen. 
+no	Og han fikk ikke bruke hovedhuset. 
+pl	Sandy miał zakaz wstępu do domu. 
+pr-br	Mas ele não podia entrar na mansão. 
+pr	E ele não podia entrar na casa principal. 
+ro	El n-avea voie să intre în casă. 
+sp-eu	Pero no le dejaban entrar en la casa principal. 
+sp	No podía entrar en la casa principal. 
+sv	Och han fick inte gå in i huvudbyggnaden. 
+th	และเขาไม่ได้รับอนุญาต | ให้เข้าไปในตัวบ้านใหญ่ | 
+tr	Sandy'nin ana eve girmesine izin yoktu. 
+vi	Và anh ta không được phép | ở trong căn nhà chính. | 
+zh-long	他不能踏進主屋 
+zh-short	而且他不许桑迪进正房 
+id	Dia tidak diizinkan memasuki bangunan utama. 
+ru	В главный особняк его не пускали. 
+ja	母屋には― | 
+
+hu	Kirakhatnék pár szórólapot? 
+es	¿Podría poner aquí estos carteles? 
+pt-br	Posso colocar estes cartazes aqui? 
+da	Må jeg sætte løbesedler op her? | 
+el	Μπορώ να κολλήσω κάποια φυλλάδια; 
+en	Could I put up these flyers here? 
+es-eu	¿Puedo poner esto por aquí? 
+fi	Saanko laittaa tänne ilmoituksen? | 
+fr	Je peux mettre ces affiches ici ? 
+he	‫אפשר לתלות כאן את הפליירים האלה?‬ | 
+hr	Mogu li postaviti ove letke? 
+id	Boleh kupasang selebaran ini di sini? 
+ja	&lrm;貼ってもいいですか？ | 
+ko	&lrm;여기 전단 좀 붙여도 될까요? | 
+ms	Boleh saya letak risalah di sini? 
+nl	Mag ik deze flyers ophangen? 
+no	Kan jeg henge opp plakatene her? 
+pt	Posso pôr estes cartazes aqui? 
+sv	Får jag sätta upp flygblad här? 
+th	&lrm;ขอติดประกาศที่นี่ได้มั้ยคะ | 
+tr	Bu ilanları asabilir miyim? 
+uk	Можна тут розклеїти ці листівки? 
+vi	&lrm;Cháu dán mấy tờ rơi ở đây được không? | 
+zh-long	請問我可以把傳單貼在這裡嗎？ 
+zh-short	我能把寻人启事贴在这里吗？ 
+it	Posso appendere questi volantini? 
+ru	Можно повесить у вас объявления? 
+cs	Můžu vám sem pověsit letáky? 
+ro	Pot să pun afișele astea aici? 
+

@@ -1,0 +1,27 @@
+id	- Bernyanyilah di acaraku. - Tentu saja aku... 
+nl	Graag. 
+ru	-Я бы с радостью. -Слушай. 
+ar	&rlm;‏‏- أود ذلك. | &rlm;‏- اسمعا.‏ | 
+da	-Det vil jeg gerne. -Hør her. 
+el	-Θα χαρώ πολύ... -Άκουσε. 
+en	-I would love to. | -Oh, well, listen. | 
+fi	-Mielelläni. -Kuule. 
+fr	- Ce serait avec plaisir. - Attends. 
+he	&rlm;‏‏אשמח. | &rlm;‏-תקשיב.‏ | 
+it	- Mi piacerebbe tanto. - Ascolta. 
+no	-Ja, gjerne. -Hør her. 
+pl	- Chętnie. - Słuchaj. 
+pr	- Adoraria. - Ouve. 
+pr-br	-Eu adoraria. -Ouça. 
+ro	- Mi-ar plăcea. - Ascultă! 
+sp-eu	- Me encantaría. - Escucha. 
+sp	- Me encantaría. - Escucha. 
+th	- ฉันก็อยาก... | - ฟังนะ | 
+tr	-Çok isterim. -Dinle. 
+vi	- Tôi muốn. | - Nghe này. | 
+zh-long	-我很樂意… -那個 
+zh-short	-我很乐意 -听着 
+ko	- 저야 그러면... | - 잘 들어 | 
+sv	-Det vill jag hemskt gärna. -Hördu. Johnny Carson ringde idag. 
+ja	ぜひ… | 
+

@@ -1,0 +1,27 @@
+ja	絨毯(じゅうたん)が汚れちゃうね | 
+ru	Разуться... А, ковер. Да. 
+id	Lepas... Karena karpetmu. Ya. 
+ar	&rlm;‏أخلع... من أجل سجادك؟ أجل.‏ | 
+da	Tager skoene... På grund af gulvtæppet? Ja. 
+el	Να βγάλω τα... Α, για τη μοκέτα σου. 
+en	Take off my... Oh, for your rug? | 
+fi	Riisuisinko... Ai jaa, maton takia. 
+fr	Mes chaussures... Pour le tapis ? D'accord. 
+he	&rlm;‏לחלוץ את ה... בשביל השטיח שלך? כן.‏ | 
+it	Togliermi... Per il tappeto. Certo. 
+no	Ta av... På grunn av teppet? Ja. 
+pl	Co? A, przez dywan. 
+pr-br	Tirar meus... Por causa do tapete? Sim. 
+pr	Descalçar... Por causa do tapete? Sim. 
+ro	Să-mi scot... Din cauza covorului? Da. 
+sp-eu	Que me quite... ¿Para tu alfombra? Sí. 
+sp	Sacarme los zapatos... ¿Por la alfombra? Sí. 
+sv	Tar av mig... För mattans skull. 
+th	ถอดรองเท้า พรมคุณ อ๋อใช่ | 
+tr	Çıkarayım... Halın için. Tabii. 
+vi	Cởi giày... Thảm của chị? Phải rồi. | 
+zh-long	脫鞋子…免得弄髒地毯 
+zh-short	脱掉我的… 免得弄脏地毯吗？好的 
+nl	Voor het kleed? M'n schoenen zijn eigenlijk schoner dan mijn sokken, maar... 
+ko	양탄자 때문이군요, 그래요 | 
+

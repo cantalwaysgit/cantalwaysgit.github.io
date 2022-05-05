@@ -1,0 +1,27 @@
+id	Sandy! Mereka menemukanmu. 
+ja	サンディ　来てくれたの？ | 
+ru	Сэнди! Они тебя нашли! 
+ar	&rlm;‏"ساندي"! لقد وجدوك!‏ | 
+da	Sandy! De fandt dig! 
+el	Σάντι! Σε βρήκαν! 
+en	Sandy! They found you! | 
+fi	Sandy! He löysivät sinut. 
+fr	Sandy ! Ils t'ont trouvé ! 
+he	&rlm;‏סנדי! הם מצאו אותך!‏ | 
+it	Sandy! Ti hanno trovato! 
+ko	샌디! 찾았군요! | 
+nl	Ze hebben je gevonden. 
+no	Sandy! De fant deg! 
+pl	Sandy! Znaleźli cię! 
+pr-br	Sandy! Eles acharam você! 
+pr	Sandy! Eles encontraram-te! 
+ro	Sandy! Te-au găsit! 
+sp-eu	¡Sandy! ¡Te han encontrado! 
+sp	¡Sandy! ¡Te encontraron! 
+sv	De hittade dig! 
+th	แซนดี้ พวกเขาตามคุณมาแล้ว | 
+tr	Sandy! Seni bulmuşlar! 
+vi	Sandy! Họ tìm được anh rồi! | 
+zh-long	山迪！他們找到你了！ 
+zh-short	桑迪！他们找到你了！ 
+

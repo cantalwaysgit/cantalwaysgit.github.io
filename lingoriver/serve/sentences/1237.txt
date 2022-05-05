@@ -1,0 +1,27 @@
+ar	&rlm;‏‏أنت تسعدين العالم يا "كورتني". | &rlm;‏هذا كل ما يتعين أن تقلقي بشأنه.‏ | 
+da	Du gør verden glad, Courtney. Det er alt, hvad du skal tænke på. 
+el	Κάνεις τον κόσμο ευτυχισμένο, Σάντι. Αυτό πρέπει να σε απασχολεί. 
+en	You make the world happy, Courtney. | That's all you need to worry about. | 
+fi	Sinä miellytät koko maailmaa. Keskity vain siihen. 
+fr	Tes fans sont satisfaits, Courtney. C'est ce qui compte. 
+he	&rlm;‏‏את עושה את העולם שמח, קורטני. | &rlm;‏זה כל מה שאת צריכה לעשות.‏ | 
+id	Kau membuat dunia ini bahagia, Courtney. Pikirkan itu saja. 
+it	Tu rendi felice il mondo, Courtney. Non devi pensare ad altro. 
+ko	넌 세상을 행복하게 해 | 그것만 신경 쓰면 돼 | 
+nl	Je maakt de wereld blij. Meer hoef je niet te doen. 
+pl	Ty uszczęśliwiasz cały świat. Myśl tylko o tym. 
+pr-br	Você deixa o mundo feliz, Courtney. Só tem que se preocupar com isso. 
+pr	Tu fazes o mundo feliz, Courtney. É só com isso que tens de te preocupar. 
+ro	Mulțumești o lume întreagă, Courtney. Numai la asta trebuie să te gândești. 
+ru	Слушатели довольны. Это самое главное. 
+sp-eu	Tú haces feliz al mundo, Courtney. Es lo único que tiene que preocuparte. 
+sp	Tú haz feliz al mundo, Courtney. Es lo único que debe preocuparte. 
+sv	Du gör världen glad. Det är allt du behöver oroa dig för. 
+th	คุณทำให้โลกแฮปปี คอร์ทนี่ย์ | แค่นั้นแหละที่ต้องกังวล | 
+tr	Bütün dünyayı mutlu ediyorsun Courtney. Başka bir şey düşünmene gerek yok. 
+vi	Cô làm cho thế giới vui, Courtney. | Cô chỉ cần lo việc đó. | 
+zh-long	妳讓全世界都開心，寇妮 妳只要擔心這個就好 
+zh-short	你让全世界的人都开心 考特尼 你只要担心这个就行了 
+ja	歌で世界を | 満足させることだけ考えろ | 
+no	Du gleder verden, Courtney. Det er alt du trenger å tenke på. 
+

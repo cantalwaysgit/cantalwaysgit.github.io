@@ -1,0 +1,57 @@
+ar	&rlm;‏أستشعرين بأنك حية آنذاك؟‏ | 
+da	Ville du så ikke føle dig i live? 
+el	Θα ένιωθες ζωντανή τότε; 
+en	You think you'd feel alive then? | 
+fi	Tuntisitko eläväsi? 
+fr	Vous vous sentiriez vivante ? 
+he	&rlm;‏זה היה גורם לך להרגיש בחיים?‏ | 
+id	Kau akan merasa hidup? 
+it	Pensi che ti sentiresti viva? 
+ko	그때도 살아있는 것 같을까요? | 
+nl	Zou je je dan levend voelen? 
+no	Ville du følt deg levende da? 
+pl	Czułabyś się wtedy żywa? 
+pr-br	Você se sentiria viva? 
+pr	Iria sentir-se viva? 
+ro	Atunci ai simți că trăiești? 
+ru	Почувствуете себя живой? 
+sp-eu	¿Se sentiría viva entonces? 
+sp	¿Te sentirías viva? 
+sv	Skulle du känna dig levande då? 
+th	จะรู้สึกมีชีวิตชีวาไหม | 
+tr	Yaşadığını hisseder miydin? 
+vi	Cô sẽ thấy như đang sống chứ? | 
+zh-long	那樣會有活著的感覺嗎？ 
+zh-short	你会感觉自己活着吗？ 
+ja	最高じゃないか？ | 
+
+id	Maaf, aku harus pergi. 
+hu	Elnézést, ki kell mennem. 
+pt-br	Perdão, tenho que ir. 
+cs	Omluvte mě, prosím. 
+da	Undskyld, jeg må gå. | 
+en	Sorry, I have to leave. 
+es-eu	Perdón. Tengo que salir. 
+es	Perdón, debo salir. 
+fr	Désolé, je dois sortir. 
+he	‫מצטער, אני חייב לצאת.‬ | 
+hr	Oprostite, moram otići. 
+it	Scusate, devo andare. 
+ja	&lrm;失礼します | 
+ko	&lrm;죄송합니다, 갈게요 | 
+ms	Maaf, saya keluar dulu. 
+nl	Sorry, ik moet weg. 
+no	Beklager, jeg må dra. 
+ro	Scuze! Trebuie să plec. 
+sv	Ursäkta, jag måste gå. 
+th	&lrm;ขอโทษครับ ผมขอตัว | 
+tr	Üzgünüm, gitmeliyim. 
+vi	&lrm;Xin lỗi, tôi phải đi. | 
+zh-long	抱歉，我得走了 
+zh-short	抱歉 我得走了 
+pt	Desculpem, tenho de sair. 
+el	Συγγνώμη, πρέπει να φύγω. 
+uk	Вибачте, мені треба вийти. 
+ru	Простите, я выйду. 
+fi	Anteeksi, minun on mentävä. | 
+

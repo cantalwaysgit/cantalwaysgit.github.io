@@ -1,0 +1,51 @@
+ru	Ни за что. 
+id	Aku tidak mau. 
+no	-Det gjør jeg ikke. -...og husk hvor du kom fra. 
+ar	&rlm;‏لن أرتديها.‏ | 
+da	Det gør jeg ikke. 
+el	Δε θα το φορέσω. 
+en	I am not putting that hat on. | 
+fi	En varmasti. 
+fr	Pas question. 
+he	&rlm;‏אני לא חובשת את זה.‏ | 
+it	Non lo indosserò. 
+ko	안 쓸 거예요 | 
+nl	Dat doe ik niet. 
+pl	Nie założę. 
+pr-br	Nem pensar. 
+pr	Não vou pôr isso. 
+ro	Nici vorbă. 
+sp-eu	No pienso ponérmelo. 
+sp	No me pondré eso. 
+sv	Det gör jag inte. 
+th	ฉันจะไม่ใส่ | 
+tr	Takmam. 
+vi	Tôi sẽ không đội. | 
+zh-long	我才不要咧 
+zh-short	我不要 
+ja	イヤよ　あなたがかぶって | 
+pl	Wspomnisz swe początki. 
+ru	...и вспомни, с чего начинала. 
+ar	&rlm;‏وذكري نفسك ببداياتك.‏ | 
+da	...og tænker på, hvor du kom fra. 
+el	να θυμηθείς από πού ξεκίνησες. 
+en	...to remind yourself where you come from. | 
+fi	Muista, mistä kaikki alkoi. 
+fr	...pour te rappeler d'où tu viens. 
+he	&rlm;‏ותזכירי לעצמך מאיפה הגעת.‏ | 
+it	...per ricordarti da dove vieni. 
+nl	Dan weet je weer waar het begon. 
+pr-br	...assim se lembrará de suas origens. 
+pr	... para te lembrares de onde vens. 
+ro	...să-ți amintești de unde ai plecat. 
+sp-eu	...para recordar de dónde vienes. 
+sp	...para recordar de dónde vienes. 
+sv	...för att minnas var du började. 
+th	เพื่อเตือนใจว่าคุณมาจากไหน | 
+vi	...nhắc cô về xuất thân của mình. | 
+zh-long	…提醒自己妳從哪裡來 
+zh-short	提醒自己你是从哪儿来的 
+ko	예전 생활을 떠올려 보는 거야 | 
+id	- untuk ingatkan asalmu. - Kau saja. 
+tr	-...nereden geldiğini hatırlayacaksın. -Sen tak. 
+

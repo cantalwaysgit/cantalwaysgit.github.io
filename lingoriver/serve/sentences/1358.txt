@@ -1,0 +1,27 @@
+ja	静電気だ！ | やっぱり靴下のせいだ | 
+id	Aku tersetrum! Sudah kuduga... Kaus kaki ini. 
+ar	&rlm;‏تعرضت إلى صدمة! عرفت ذلك. إنها الجوارب.‏ | 
+da	Jeg fik stød! Jeg vidste det... Strømperne. 
+el	Ηλεκτρίστηκα! Ήμουν σίγουρος... οι κάλτσες φταίνε. 
+en	I got the shock! I knew I... The socks. | 
+fi	Sain sähköiskun! Arvasin. Sukat. 
+fr	Une décharge ! Je le savais... Les chaussettes. 
+he	&rlm;‏קיבלתי זרם! ידעתי שאני... הגרביים.‏ | 
+it	Ho preso la scossa! Lo sapevo. I calzini. 
+ko	전기 통했어요! | 양말 때문에... | 
+nl	Ik kreeg een schok. Ik wist het. De sokken. 
+no	Jeg fikk støt! Jeg visste det... Sokkene. 
+pl	Strzeliło mnie! Wiedziałem. To te skarpetki. 
+pr	Apanhei o choque! Eu sabia... As meias. 
+pr-br	Levei um choque! Eu sabia... Essas meias. 
+ro	M-am electrocutat! Știam eu... Șosetele. 
+sp-eu	¡Me ha dado un calambrazo! Lo sabía... Los calcetines. 
+sp	¡Me dio electricidad! Lo sabía... Las medias. 
+sv	Jag fick en stöt! Jag visste det... Strumporna. 
+th	โดนไฟช็อตเลย | ผมรู้เลย ถุงเท้านั่นเอง | 
+tr	Elektrik çarptı! Biliyordum... Çoraplar. 
+vi	Tôi bị điện giật! Tôi biết là... | Tại đôi tất. | 
+zh-long	我被電到了！我就知道 
+zh-short	我被电到了！我就知道 袜子 
+ru	Дернуло током! Я знал... Носки. 
+

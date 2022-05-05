@@ -1,0 +1,27 @@
+ja	今夜 ケヴィンが | Ａ･Ｊ･ジャマールと共演した | 
+id	Kevin Connors tampil di Brea malam ini 
+ru	Кевин Коннорс сегодня выступал в Бреа 
+ar	&rlm;‏‏قدم "كيفن كونورز" عرضاً | &rlm;‏في نادي "بريا" الليلة،‏ | 
+da	Kevin Connors optrådte på Brea i aften 
+el	Ο Κέβιν Κόνερς είχε παράσταση στη Λα Μπρέα απόψε, 
+en	Kevin Connors did a show on Brea tonight, | 
+fi	Kevin Connors esiintyi tänään Brealla - 
+fr	Kevin Connors se produisait à La Brea, ce soir, 
+he	&rlm;‏קווין קונורס הופיע ב"בריאה" הערב,‏ | 
+it	Stasera Kevin Connors ha fatto uno spettacolo su La Brea, 
+nl	Kevin Connors deed een show in Brea vanavond... 
+no	Kevin Connors opptrådte på Brea i kveld, 
+pl	Kevin Connors występował dziś na La Brea 
+pr-br	Kevin Connors fez um show no La Brea hoje 
+pr	O Kevin Connors fez um espetáculo esta noite em Brea, 
+ro	Kevin Connors a apărut la Brea în seara asta, 
+sp-eu	Kevin Connors ha hecho un espectáculo en Brea esta noche 
+sp	Kevin Connors hizo un show en Brea esta noche, 
+sv	Kevin Connors gjorde en show på Brea ikväll, 
+th	คืนนี้เควิน คอนเนอร์สแสดงในบรี | 
+tr	Kevin Connors bu akşam Brea'de bir gösteri yaptı, 
+vi	Kevin Connors biểu diễn ở Brea tối nay, | 
+zh-long	凱文康納今晚在布雷亞 
+zh-short	凯文康纳斯今晚在拉布雷亚上了电视 
+ko	오늘 밤 케빈 코너스가 | 브레아에서 공연을 했어 | 
+

@@ -1,0 +1,29 @@
+pr-br	Mas você... Não é a sua praia. 
+ar	&rlm;‏أما الآن فقد تجاوز الأمر قدراتك.‏ | 
+da	Men nu er du bare... Du kan ikke følge med. 
+el	Τώρα, όμως, είσαι... έξω από τα νερά σου. 
+en	But now you're just... | You're out of your depth. | 
+fi	Mutta nyt kykysi eivät enää riitä. 
+fr	Mais là, tu... T'es plus l'homme de la situation. 
+he	&rlm;‏אבל עכשיו זה פשוט... מעבר ליכולת שלך.‏ | 
+it	Ma adesso è fuori dalla tua portata. 
+ko	하지만 이제는... | 역량이 부족해요 | 
+no	Men nå er du bare... Du er på dypt vann. 
+pl	Teraz to dla ciebie za wysokie progi. 
+pr	Mas agora... Isto é de mais para ti. 
+ro	Dar acum... Ești depășit de situație. 
+sp-eu	Pero ahora estás... Esto te sobrepasa. 
+sp	Pero ahora eres solo... Se te fue de control. 
+sv	Men nu är du bara... Du är ute på djupt vatten. 
+th	แต่ตอนนี้คุณแค่... | มันเกินความสามารถคุณไปแล้ว | 
+tr	Ama artık... Bu iş seni aşıyor. 
+vi	Nhưng bây giờ anh... | Anh hết tiềm năng rồi. | 
+zh-long	你現在…幫不了她 
+zh-short	可现在你只会… 现在已经超出你的能力了 
+nl	Maar dit gaat je boven je pet. Laat je ego niet in de weg staan. 
+id	Tapi kini kau hanya... 
+ru	Но теперь... 
+ja	だがもう 君には扱えない | 
+id	Ini bukan tingkatanmu. 
+ru	Ты недотягиваешь. 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏كانت تلك طقوساً مميزة أيضاً.‏ | 
+da	Der var også en ceremoni. 
+el	Ασυνήθιστη τελετή, επίσης. 
+en	No, um... that was, uh, | some ceremony, too. | 
+fr	À part ça, très belle cérémonie. 
+he	&rlm;‏עכשיו, זה היה חתיכת טקס.‏ | 
+it	Bella la cerimonia. 
+pl	Ceremonia był niezła. 
+pr-br	Também foi uma cerimônia e tanto. 
+pr	Foi uma cerimónia incrível. 
+ro	Și ceremonia a fost pe cinste. 
+sp	Esa fue una gran ceremonia. 
+sp-eu	Menuda ceremonia hemos tenido. 
+sv	Vilken ceremoni. 
+vi	Đó là một nghi lễ kỳ quặc. | 
+zh-long	剛剛的婚禮真是感人 
+zh-short	那也算是某种仪式了 
+id	Upacaranya hebat juga. 
+ko	그때도 대단한 결혼식이었어요 | 
+nl	Dat was een aparte ceremonie. Wel vreemd, de priester en de rabbijn samen. 
+ja	さっきの結婚式は | ぎこちなかったな | 
+fi	Seremonia oli melkoinen. 
+no	Det var litt av et bryllup. 
+th	ทีนี้ นั่นเป็นพิธีไม่ใช่เล่นอีกด้วย | 
+ru	Да, церемония была та еще. 
+tr	Tören de ne törendi ama. 
+

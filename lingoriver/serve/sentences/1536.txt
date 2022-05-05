@@ -1,0 +1,52 @@
+ar	&rlm;‏لا يمكنني السير 3 أمتار حتى | 
+da	Jeg kan ikke engang gå ti meter, 
+el	Δεν μπορώ να διανύσω ούτε τρία μέτρα, 
+en	I can't even go ten feet | 
+fr	Je fais pas trois mètres 
+he	&rlm;‏אני לא יכולה אפילו ללכת שלושה מטר‏ | 
+it	Non riesco a fare tre metri 
+pr-br	Não posso nem dar um passo 
+pr	Não consigo dar dois passos 
+sp-eu	No puedo caminar tres metros 
+sp	No puedo dar dos pasos 
+sv	Jag kan inte ens gå tio steg 
+tr	Paparazzi peşime takılmadan, 
+vi	Tôi thậm chí không thể bước mười bước | 
+zh-long	我只要一出門 
+zh-short	没狗仔队跟着拍照窥探 
+ko	어디든 3m도 못 가서 | 
+nl	Ik kan geen stap doen zonder dat paparazzi me volgen en foto's van me nemen. 
+ja	外へ出れば | パパラッチに追われ― | 
+no	Jeg kan ikke gå tre meter 
+fi	En voi kulkea muutamaa metriä ilman, 
+ro	Nu pot face nici trei pași 
+th	ออกไปไหนไม่ถึงสามเมตร | 
+pl	Trzech metrów nie przejdę 
+ru	Я десяти шагов не могу пройти без папарацци, 
+id	Aku bahkan tidak bisa pergi sejauh tiga meter tanpa paparazi mengikuti 
+ar	&rlm;‏‏من دون أن يتبعني مصورو الصحافة | &rlm;‏وأن يلتقطوا صوري ويتجسسوا علي.‏ | 
+da	uden paparazzierne følger efter, tager billeder og udspionerer mig. 
+el	χωρίς να με ακολουθούν και να με φωτογραφίζουν οι παπαράτσι. 
+en	without the paparazzi following me, | taking pictures of me, spying on me. | 
+fr	que les paparazzi sont sur mes basques à me mitrailler et m'espionner. 
+he	&rlm;‏‏בלי פפראצי שעוקב אחריי, | &rlm;‏מצלם אותי, מרגל אחריי.‏ | 
+it	senza avere alle costole paparazzi che mi fotografano e mi spiano. 
+no	uten å bli forfulgt av paparazzier som tar bilder og spionerer på meg. 
+pr-br	sem que paparazzi me sigam, tirem fotos e me espionem. 
+pr	sem ter os  paparazzi  a seguir-me, a tirar-me fotografias e a espiar-me. 
+ro	fără să fiu urmărită de paparazzi care îmi fac poze și mă spionează. 
+sp-eu	sin me que sigan los paparazzi, me saquen fotos, me espíen. 
+sp	sin que me sigan los  paparazzi. Me sacan fotos, me espían. 
+sv	utan att paparazzi förföljer mig, fotar mig, spionerar på mig. 
+th	ก็มีปาปารัสซีตาม | คอยถ่ายรูป คอยแอบดูแล้ว | 
+tr	fotoğrafımı çekip beni gözetlemeden üç metre gidemiyorum. 
+vi	mà không có thợ săn ảnh bám theo, | chụp ảnh, rình rập thôi. | 
+zh-long	就有一堆狗仔跟著我 拍個不停，監視著我 
+zh-short	我寸步难行 
+pl	bez śledzących mnie paparazzi, robiących zdjęcia, szpiegujących mnie. 
+ko	파파라치가 따라붙어 | 사진 찍고 난리예요 | 
+fi	että paparazzi seuraa, ottaa kuvia ja kyttää. 
+ja	写真を撮られる | 
+ru	которые меня снимают, шпионят за мной. 
+id	untuk mengambil fotoku dan mengintaiku. 
+

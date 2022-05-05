@@ -26,4 +26,13 @@ pr-br
 sp
 sv
 
+es
+uk
+cs
+es-eu
+hr
+hu
+ms
+pt-br
+pt
 

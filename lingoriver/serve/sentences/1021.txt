@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- من "جونزي"؟ | &rlm;‏- "كوينسي"؟‏ | 
+da	-Hvem er Jonesy? -Quincy? 
+el	-Ποιος είναι αυτός; -Ο Κουίνσι; 
+en	-Who's Jonesy? | -Quincy? | 
+fi	-Kenet? -Quincyn. 
+fr	- Qui c'est ? - Quincy ? 
+he	&rlm;‏‏מי זה ג'ונסי? | &rlm;‏-קווינסי?‏ | 
+id	- Siapa Jonesy? - Quincy? 
+it	- Chi è Jonesy? - Quincy? 
+ko	- 존지가 누구야? | - 퀸시요 | 
+nl	Wie is Jonesy? -Quincy? 
+no	-Hvem er Jonesy? -Quincy? 
+pl	- Kogo? - Quincy'ego? 
+pr-br	-Quem é Jonesy? -Quincy? 
+pr	- Quem é o Jonesy? - O Quincy? 
+ro	- Cine e Jonesy? - Quincy? 
+sp-eu	- ¿Quién es Jonesy? - ¿Quincy? 
+sp	- ¿Quién es Jonesy? - ¿Quincy? 
+sv	-Vem är Jonesy? -Quincy? 
+th	- ใครล่ะโจนซี่ | - ควินซี่ไง | 
+tr	-Jonesy kim? -Quincy? 
+vi	- Jonesy nào? | - Quincy? | 
+zh-long	-瓊斯兄是誰？ -昆西 
+zh-short	-琼斯是谁？ -昆西？ 
+ru	-Какого Джонси? -Куинси. 
+ja	誰？ | 
+

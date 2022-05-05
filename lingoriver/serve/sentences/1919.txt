@@ -1,0 +1,26 @@
+id	Aku membutuhkanmu 
+ru	Знай, что ты мне нужен 
+ar	&rlm;‏سأخبرك أنني بحاجة إليك‏ | 
+da	Lade dig vide jeg har brug for dig 
+el	Θα σου λέω ότι σε χρειάζομαι 
+en	♪ Let you know that I need you ♪ | 
+fi	Sua tarvitsen 
+fr	Sache que j'ai besoin de toi 
+he	&rlm;‏אגרום לך לדעת שאני צריכה אותך‏ | 
+it	Devi sapere che ho bisogno di te 
+ko	내게 당신이 필요하다는 걸 | 알려주고 싶어 | 
+nl	omdat ik je nodig heb 
+pl	Tak bardzo potrzebowałam cię 
+pr-br	Saiba que preciso de você 
+pr	Vou dizer-te que preciso de ti 
+ro	Trebuie să știi că am nevoie de tine 
+sp	Debes saber que te necesito 
+sp-eu	Tienes que saber que te necesito 
+sv	Du ska veta att jag behöver dig 
+th	บอกให้คุณรู้ว่าฉันต้องการคุณ | 
+tr	Sana ihtiyacım olduğunu bileceksin 
+vi	Để anh biết rằng em cần anh | 
+zh-long	我要你知道，我需要你 
+zh-short	让你知道我需要你 
+ja	あなたが必要だと | 　　　　伝えたかった | 
+

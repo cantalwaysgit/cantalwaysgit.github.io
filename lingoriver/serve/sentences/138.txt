@@ -1,0 +1,54 @@
+ar	&rlm;‏"(تيد رافيرتي) وأصدقاؤه"‏ | 
+da	TED RAFFERTY & VENNER 
+el	Ο ΤΕΝΤ ΡΑΦΕΡΤΙ ΚΑΙ ΟΙ ΦΙΛΟΙ ΤΟΥ 
+en	[people laughing] | 
+he	&rlm;‏- טד רפרטי וחברים -‏ | 
+it	TED RAFFERTY E AMICI 
+ko	“테드 래퍼티와 친구들” | 
+no	TED RAFFERTY & VENNER 
+pl	TED RAFFERTY I PRZYJACIELE 
+pr-br	TED RAFFERTY E AMIGOS 
+pr	TED RAFFERTY E AMIGOS 
+ro	TED RAFFERTY ȘI PRIETENII 
+sp-eu	TED RAFFERTY Y AMIGOS 
+sp	TED RAFFERTY Y AMIGOS 
+sv	TED RAFFERTY & VÄNNER 
+th	(เท็ด รัฟเฟอร์ตี้และเพื่อน) | 
+tr	TED RAFFERTY VE DOSTLARI 
+vi	TED RAFFERTY &amp; NHỮNG NGƯỜI BẠN | 
+zh-long	（泰德與好友） 
+zh-short	（特德拉弗蒂和朋友们） 
+id	TED RAFFERTY DAN KAWAN-KAWAN 
+ru	ТЕД РАФФЕРТИ И ДРУЗЬЯ 
+ja	〝テッドと仲間たち〞 | 
+
+hu	Nem tűnt el. Két nap és visszajön, én meg lejárom a lábam. 
+it	No, tornerà tra due giorni, ma a me cadranno le gambe. 
+uk	Ні, він через два дні повернеться, а я вже ніг не чую. 
+cs	Nezmizel. Za pár dní je zpět. Mně zatím odpadnou nohy. 
+es	Volverá en dos días. A mí se me caerán las piernas. 
+da	Han kommer snart tilbage, | og jeg er øm i fødderne. | 
+es-eu	No. Aparecerá en unos días y yo estaré reventado. 
+fr	Non, il va revenir bientôt. Je n'ai plus de jambes. 
+he	‫הוא לא. הוא יחזור בעוד יומיים,‬ | ‫בדיוק כשאפול מהרגליים.‬ | 
+hr	Nije. Vratit će se za dva dana. Kladim se. 
+id	Tidak. Dia akan kembali dalam dua hari, tapi kakiku akan rontok. 
+ja	&lrm;２日すれば戻るさ | &lrm;俺は足が痛い | 
+ko	&lrm;실종은 무슨, 이틀이면 올 건데 | &lrm;다리만 열라 아프다고 | 
+ms	Dia tak hilang. Lagi dua hari dia balik, tapi kaki saya dah lenguh. 
+nl	Hij komt vast over twee dagen terug, maar mijn benen sterven af. 
+pt	Não. Ele volta daqui a uns dias, mas eu fico sem pernas. 
+ro	O să apară el, dar mie o să-mi cadă picioarele. 
+sv	Han är snart tillbaka, men jag har snart inga ben. 
+th	&lrm;ไม่ได้หาย อีกสองวันมันก็กลับมาเอง | &lrm;แต่ฉันเดินจนขาจะหลุดแล้ว | 
+tr	Değil, iki güne döner. Ama benim bacaklarım koptu. 
+vi	&lrm;Không. Hai ngày nữa cậu ta sẽ về | &lrm;nhưng chân tôi sắp rụng rời đây. | 
+zh-long	沒有，他兩天後會回來 但是我的腿就廢了 
+zh-short	他没有失踪 过两天他就回来了 但我的腿疼死了 
+ru	Вернется через пару дней. А у меня ноги отваливаются. 
+en	He isn't. He'll be back in two days, and my feet are killing me. 
+no	Nei. Han kommer tilbake om to dager, men jeg blir sliten i beina. 
+el	Θα γυρίσει σε δυο μέρες, αλλά εγώ θα έχω ξεποδαριαστεί. 
+pt-br	Daqui a dois dias, ele aparece, mas meus pés estão me matando. 
+fi	Hän palaa kyllä. Jalkani kramppaavat. | 
+

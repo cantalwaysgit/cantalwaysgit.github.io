@@ -1,0 +1,56 @@
+ja	身を潜めていた | 
+id	Dia menyembunyikan dirinya 
+ru	Он скрывался 
+ar	&rlm;‏أخفى نفسه‏ | 
+da	Gemte han sig 
+el	Έκρυβε τον εαυτό του 
+en	♪ He hid himself away ♪ | 
+fi	Se pysyi piilossa 
+fr	Il restait bien caché 
+he	&rlm;‏הוא הסתתר‏ | 
+it	Si nascondeva 
+ko	그는 자신을 숨겼지 | 
+nl	verstopte hij zich 
+pl	Pod ziemię zapadł się 
+pr-br	Ele se escondeu 
+pr	Ele tratou de se esconder 
+ro	S-a ascuns 
+sp	Él se ocultaba 
+sp-eu	Se ocultó 
+sv	Gömde han sig för världen 
+th	เขาซ่อนตัวอยู่ | 
+tr	Sakladı kendini 
+vi	Chú vịt lẩn trốn | 
+zh-long	他躲了起來 
+zh-short	他把自己藏起来 
+
+hu	Nem én vagyok Guru. 
+da	Jeg er ikke Guru. | 
+es-eu	No soy Guru. 
+es	No soy Gurú. 
+he	‫אני לא גורו.‬ | 
+hr	Nisam ja Guru. 
+id	Aku bukan Guru. 
+it	Non sono Guru. 
+ja	&lrm;違います | 
+ko	&lrm;구루는 제가 아니에요 | 
+ms	Saya bukan Guru. 
+nl	Ik ben Guru niet. 
+no	Jeg er ikke Guru. 
+pt	Não sou o Guru. 
+ro	Eu nu sunt Guru. 
+th	&lrm;ฉันไม่ใช่กูรู | 
+tr	Guru ben değilim. 
+vi	&lrm;Tôi không phải Sư Phụ. | 
+zh-long	我不是大師 
+zh-short	我不叫大师 
+fr	Je ne suis pas Guru. Je m'appelle Joanna Makowska. 
+sv	Jag är inte Guru. Jag heter Joanna Makowska. 
+cs	Já nejsem Guru. 
+fi	En ole Guru. | 
+pt-br	Não sou Guru. 
+uk	Я не Гуру. 
+en	I'm not Guru. 
+el	Δεν είμαι ο Γκουρού. Με λένε Ζοάνα Μακόφσκα. 
+ru	Я не Гуру. 
+

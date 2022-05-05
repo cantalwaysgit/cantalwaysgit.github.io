@@ -1,0 +1,27 @@
+id	Kau tahu itu terdengar bodoh? 
+ar	&rlm;‏أتعرف كيف يبدو ذلك غبياً؟‏ | 
+da	Ved du, hvor dumt det lyder? 
+el	Ξέρεις πόσο χαζό ακούγεται; 
+en	Do you know how dumb that sounds? | 
+fi	Tajuatko, miten tyhmältä se kuulostaa? 
+fr	C'est débile ce que tu dis ! 
+he	&rlm;‏אתה יודע כמה טיפשי זה נשמע?‏ | 
+it	Ti rendi conto di quanto sia stupido? 
+ko	그게 얼마나 | 어이없는 소린지 알아? | 
+nl	Weet je wel hoe dom dat klinkt? 
+pl	To głupota. 
+pr-br	Vê como isso parece idiota? 
+pr	Tens ideia do idiota que isso é? 
+ro	Știi cât de idiot sună asta? 
+sp-eu	¿Sabes lo tonto que suena eso? 
+sp	¿Sabes lo estúpido que suena eso? 
+sv	Vet du hur korkat det låter? 
+tr	Bu ne kadar aptalca, haberin var mı? 
+vi	Anh có biết câu đó nghe ngu cỡ nào không? | 
+zh-long	你知道這話聽起來有多蠢嗎？ 
+zh-short	知道这话听着多蠢吗？ 
+ja	バカみたいだ | 
+no	Vet du hvor dumt det høres ut? Ikke klikk. Hvorfor klikker du? Slutt! 
+ru	Ты понимаешь, как это тупо? 
+th	รู้ไหมว่ามันฟังดูโง่แค่ไหน | 
+

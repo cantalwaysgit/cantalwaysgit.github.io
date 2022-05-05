@@ -1,0 +1,27 @@
+id	Apa katanya? 
+ru	Что он сказал? 
+ar	&rlm;‏ماذا قال؟‏ | 
+da	Hvad sagde han? 
+el	Τι είπε; 
+en	What'd he say? | 
+fi	Mitä hän sanoi? 
+fr	Il a dit quoi ? 
+he	&rlm;‏מה הוא אמר?‏ | 
+it	E che ha detto? 
+ko	뭐래? | 
+nl	Wat zei hij? 
+no	Hva sa han? 
+pl	Co powiedział? 
+pr-br	O que ele disse? 
+pr	O que disse ele? 
+ro	Ce a zis? 
+sp-eu	¿Qué ha dicho? 
+sp	¿Qué dijo? 
+sv	Vad sa han? 
+th	แล้วเขาว่าไง | 
+tr	Ne dedi? 
+vi	Anh ta bảo sao? | 
+zh-long	他怎麼說？ 
+zh-short	他怎么说？ 
+ja	彼は何て？ | 
+

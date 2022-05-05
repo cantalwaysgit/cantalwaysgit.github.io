@@ -1,0 +1,57 @@
+ja	ウソばっかりね | 
+en	Will you get a load of this bullcrap. | 
+ar	&rlm;‏‏- احصل على كمية من هذا الهراء. | &rlm;‏- فعلت ذلك.‏ | 
+da	-Har du hørt mage til nonsens? -Det var jeg. 
+el	-Ακούστε τι ανοησίες λέει. -Όντως ήμουν. 
+fi	-Äijä puhuu sontaa. -Kyllä olin. 
+fr	- Il se fout de nous, hein ? - Je t'assure. 
+he	&rlm;‏‏תפסיק עם השטויות האלה. | &rlm;‏-הייתי.‏ | 
+it	- Avete mai sentito tante idiozie? - È vero. 
+ko	- 헛소리 들었지? | - 정말이야 | 
+nl	Geloof jij het? -Echt. 
+no	-Hør på dette pisspreiket. -Jeg var det. 
+pl	- Bujda na resorach. - Naprawdę byłem. 
+pr-br	-Quanta mentira. -Eu estava, sim. 
+pr	- Isso é tudo treta. - A sério que estive. 
+ro	- Te ții numai de vrăjeli! - Chiar am fost. 
+sp-eu	- Menudo trolero. - Estaba. 
+sp	- Mira cómo miente. - Estuve ahí. 
+sv	-Det är bara en massa skitsnack. -Jag var där. 
+th	- ฟังคำโกหกพวกนั้นสิ | - ฉันอยู่นะ | 
+tr	-Atıyorsun. -Oradaydım. 
+vi	- Anh nhìn vào thứ bỏ đi này đi. | - Tôi đã ở đó. | 
+zh-long	-你聽聽看他說的這些屁話 -真的 
+zh-short	-你真能胡扯 -我真的是从头看到尾的 
+id	Kalian percaya omong kosong ini? 
+ru	Может, хватит врать? 
+
+it	E se a volte fosse meglio non fare certe domande? 
+hu	Néha jobb, ha nem teszünk fel bizonyos kérdéseket. 
+nl	Misschien moeten we bepaalde dingen met rust laten? 
+no	Kanskje det er bedre å ikke stille visse spørsmål? 
+zh-short	也许有些问题还是不要问的好 
+id	Mungkin sebaiknya jangan meminta hal tertentu. 
+es-eu	Quizá sea mejor no hacer ciertas preguntas. 
+fi	Jotkut kysymykset | on paras jättää kysymättä. | 
+hr	Možda je bolje ne postaviti neka pitanja. 
+el	Ίσως είναι καλύτερα να μη ρωτάς κάποια πράγματα. 
+es	A veces, es mejor no hacer ciertas preguntas. 
+pt-br	Às vezes, é melhor não fazer certas perguntas. 
+da	Måske skal man sommetider | ikke stille spørgsmål? | 
+fr	Mieux vaut ne pas poser certaines questions. 
+he	‫אולי עדיף לא לשאול שאלות מסוימות?‬ | 
+ja	&lrm;探らない方がいいかも | 
+ko	&lrm;어떤 질문은 안 하는 게 | &lrm;낫지 않나요? | 
+ms	Mungkin lebih baik jangan tanya soalan tertentu? 
+pt	Não será melhor não fazer certas perguntas? 
+ro	Poate e mai bine să nu pui anumite întrebări. 
+th	&lrm;บางคำถามเก็บไว้ไม่ต้องถามอาจจะดีกว่านะ | 
+tr	Bazen bazı soruları sormamak daha iyi olabilir. 
+vi	&lrm;Có lẽ có vài câu ta không nên hỏi nhỉ? | 
+zh-long	也許有時候 別問特定的問題比較好？ 
+sv	Det kanske är bättre att inte ställa vissa frågor. 
+cs	Nemohla by sis některé otázky odpustit? 
+uk	Може, деякі запитання краще не ставити? 
+ru	Может, некоторые вопросы лучше не задавать? 
+en	Sometimes it's better not to ask certain questions. 
+

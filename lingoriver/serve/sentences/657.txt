@@ -1,0 +1,28 @@
+ru	Прости, это наша вина. 
+ja	すまないが | もう一度 歌ってくれるか？ | 
+ko	미안해, 우리 잘못이야 | 한 번만 더 해보자 | 
+id	Maaf. Salah kami, bukan kau. Sekali lagi saja. 
+ar	&rlm;‏آسف. إنها غلطتنا، لا غلطتك. مرة أخرى.‏ | 
+da	Beklager. Vores fejl, ikke din. Bare én gang til. 
+el	Με συγχωρείς. Εμείς φταίμε. Πάμε μια φορά ακόμη. 
+en	I'm sorry. On us, not you. | Just one more time. | 
+fi	Se oli meidän mokamme. Otetaan vielä kerran. 
+fr	Désolé. C'est notre faute. Refais la même chose. 
+he	&rlm;‏‏אני מתנצל. טעות שלנו, לא שלך. | &rlm;‏פעם אחת נוספת.‏ | 
+it	Scusa. È colpa nostra, non tua. Un'altra volta e basta. 
+nl	Sorry. Onze schuld, niet de jouwe. Nog één keer. 
+no	Beklager. Vår feil, ikke din. Bare en gang til. 
+pl	Przepraszamy. To nasza wina. Zaśpiewaj jeszcze raz. 
+pr-br	Sinto muito. Foi culpa nossa, não sua. Só mais uma vez. 
+pr	Desculpa. A culpa foi nossa. Só mais uma vez. 
+ro	Îmi pare rău. E vina noastră, nu a ta. Încă o dată! 
+sp-eu	Lo siento. Ha sido culpa nuestra. Una vez más. 
+sp	Perdón. Fue culpa nuestra, no tuya. Una vez más. 
+sv	Jag är ledsen. Vårt fel, inte ditt. En gång till. 
+th	ขอโทษนะ เราผิดเอง ไม่ใช่คุณ | แค่อีกครั้งหนึ่งนะ | 
+tr	Özür dilerim. Bizim hatamız, senin değil. Bir kere daha yapalım. 
+vi	Tôi xin lỗi. Tại chúng tôi, | không phải tại cô. Lại lần nữa nhé. | 
+zh-long	很抱歉，是我們的錯，不是妳的問題 我們再來一次 
+zh-short	抱歉 错在我们 不在你 再录一次就好 
+ru	Еще разочек. 
+

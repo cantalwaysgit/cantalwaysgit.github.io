@@ -1,0 +1,57 @@
+ar	&rlm;‏بصدق يا سيدي، منذ متى أنت ميت؟‏ | 
+da	Men helt ærligt, hvor længe har du været død? 
+el	Ειλικρινά, όμως, πόσο καιρό είστε νεκρός; 
+en	But honestly, sir, | how long have you been dead for? | 
+fi	Kertokaapa, kauanko olette ollut kuolleena. 
+fr	Plus sérieusement, depuis quand vous êtes mort ? 
+he	&rlm;‏אבל באמת, כמה זמן אתה כבר מת?‏ | 
+id	Tapi jujur saja, Tuan, sudah berapa lama kau mati? 
+it	Sinceramente, da quanto tempo sei morto? 
+ko	솔직히 말해주세요 | 죽은 지 얼마 됐죠? | 
+nl	Maar hoelang ben je al dood? 
+no	Men helt ærlig: Hvor lenge har du vært død? 
+pl	A teraz tak serio. Od dawna nie żyjesz? 
+pr-br	Mas, sinceramente, há quanto tempo está morto? 
+pr	Sinceramente, há quanto tempo está morto? 
+ro	Dar, sincer, de cât timp ești mort? 
+ru	Нет, серьезно, вы давно умерли? 
+sp-eu	En serio, ¿cuánto tiempo lleva muerto? 
+sp	La verdad, ¿cuánto hace que moriste? 
+sv	Men ärligt talat, hur länge har du varit död? 
+th	แต่ถามจริง นายตายมานานแค่ไหนแล้ว | 
+tr	Ama cidden, ne zamandır tık yok? 
+vi	Nhưng nói thật đi, anh chết bao lâu rồi? | 
+zh-long	說真的，大哥，你死多久了？ 
+zh-short	说真的 你这么无趣多久了？ 
+ja	ところで | いつから死んでる？ | 
+
+nl	Misschien heeft ze de kaarsen zelf neergezet. 
+hu	Lehet, hogy ő rendezte el a gyertyákat. 
+es	Quizá ella misma colocó las velas. 
+id	Mungkin dia yang memasang lilinnya. 
+fi	Ehkä hän teki asetelman itse. | 
+zh-short	也许那些蜡烛是她自己摆的 
+el	Μπορεί να τοποθέτησε μόνη της τα κεριά. 
+en	Maybe she arranged the candles herself. 
+es-eu	Quizá ella puso las velas allí. 
+fr	Elle a peut-être mis les bougies elle-même. 
+he	‫אולי היא זו שסידרה את הנרות.‬ | 
+hr	Možda je sama složila svijeće. 
+it	Forse ha sistemato lei le candele. 
+ja	&lrm;彼女が | &lrm;ろうそくを置いたかも | 
+ko	&lrm;베아타가 초를 놨을 수도 있죠 | 
+ms	Mungkin dia sendiri yang susun lilin itu. 
+no	Kanskje hun ordnet lysene selv. 
+pt-br	Talvez ela mesma tenha colocado as velas. 
+pt	Pode ter sido ela a pôr lá as velas. 
+ro	Poate că ea a aranjat lumânările așa. 
+sv	Hon kanske ställde dit ljusen själv. 
+th	&lrm;เธออาจจะวางเทียนเองก็ได้ | 
+tr	Belki mumları kendisi dizdi. 
+vi	&lrm;Có lẽ cô ấy tự xếp nến. | 
+zh-long	也許蠟燭是她自己排的 
+da	Måske har hun selv placeret lysene. | Hvis det var Adam, ændrer det så noget? | 
+uk	Може, вона сама поставила свічки. Навіть якщо це зробив Адам, що це змінює? 
+cs	Ty svíčky tam mohla dát i ona. 
+ru	Она могла и сама расставить свечи. 
+

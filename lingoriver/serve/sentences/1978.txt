@@ -1,0 +1,51 @@
+ru	Как я выгляжу? 
+id	Bagaimana penampilanku? 
+ar	&rlm;‏كيف أبدو؟‏ | 
+da	Hvordan ser jeg ud? 
+el	Πώς είμαι; 
+en	How am I looking? | 
+fi	Miltä näytän? 
+fr	Je suis bien ? 
+he	&rlm;‏איך אני נראה?‏ | 
+it	Come sto? 
+ko	어때 보여? | 
+pl	Jak wyglądam? 
+pr-br	Como estou? 
+pr	Como estou? 
+ro	Cum îmi stă? 
+sp	¿Cómo estoy? 
+sp-eu	¿Qué tal estoy? 
+sv	Hur ser jag ut? 
+th	ฉันเป็นไง | 
+tr	Nasıl görünüyorum? 
+vi	Trông tôi thế nào? | 
+zh-long	我看起來怎麼樣？ 
+zh-short	我看着怎么样？ 
+nl	Hoe zie ik eruit? -Eigenlijk wel goed. 
+ja	どうだ？ | 
+no	-Hvordan ser jeg ut? -Du er faktisk flott. 
+ru	-Ты знаешь, хорошо. -Тебя это удивляет? 
+ja	意外といいね | 
+id	Kau sungguh tampan, Sandy. 
+ar	&rlm;‏تبدو وسيماً في الواقع.‏ | 
+da	Du ser faktisk godt ud. 
+el	Για την ακρίβεια, καλός. 
+en	You actually look good, Sandy. | 
+fi	Oikeastaan ihan hyvältä. 
+fr	Je dois avouer que oui. 
+he	&rlm;‏אתה למעשה נראה טוב.‏ | 
+it	Decisamente bene. 
+pl	Nawet dobrze. 
+pr-br	Você está ótimo. 
+pr	Por acaso, estás muito bem. 
+ro	De fapt, îți stă chiar bine. 
+sp-eu	La verdad es que bien. 
+sp	Luces muy bien. 
+sv	Du ser faktiskt bra ut. 
+th	จริงๆ แล้วคุณดูดีมาก | 
+tr	Aslında iyi görünüyorsun. 
+vi	Trông ổn lắm. | 
+zh-long	讓人眼睛一亮 
+zh-short	桑迪 你很帅 
+ko	멋지네요 | 
+

@@ -1,0 +1,28 @@
+id	- Pria yang berwajah bayi itu? - Dia berwajah kekanak-kanakan, benar. 
+en	Like, the guy with the face of a baby? | 
+ar	&rlm;‏‏- الرجل ذو الوجه الطفولي؟ | &rlm;‏- وجهه طفولي جداً، هذا صحيح.‏ | 
+da	-Ham med et ansigt som en baby? -Han har et ungt ansigt, ja. 
+el	-Που έχει πρόσωπο μωρού; -Έχει όντως παιδικό πρόσωπο. 
+fi	-Se beibifeissi? -Hän on kyllä sitäkin. 
+fr	- Le type qui a un visage de poupon. - Il est très juvénile, c'est vrai. 
+he	&rlm;‏‏כאילו הבחור עם פני התינוק? | &rlm;‏-יש לו פנים של ילד, זה נכון.‏ | 
+it	- Quello con la faccia da bimbo? - Ha un viso infantile, è vero. 
+ko	- 아기 얼굴을 한 그 남자? | - 얼굴이 앳되긴 해 | 
+nl	De man met de babyface? -Hij heeft een kinderlijk gezicht, ja. 
+no	-Fyren med babyansiktet? -Ja, han har et veldig barneaktig ansikt. 
+pl	- Facet o twarzy dziecka? - Fakt, przypomina dziecko. 
+pr-br	-Como o cara com cara de bebê? -Sim, ele tem cara de bebê. 
+pr	- O tipo com cara de bebé? - É verdade que tem uma cara pueril. 
+ro	- Tipul cu față de copil? - Are o față foarte infantilă, așa e. 
+ru	-Парень с личиком как у бэбика? -Да, он очень моложав. 
+sp	- ¿El tipo con cara de bebé? - Tiene cara de niño, es cierto. 
+sp-eu	- ¿El que tiene cara de bebé? - Sí que tiene cara de niño. 
+sv	-Killen med ansiktet som är som en bebis? -Han har faktiskt ett barnlikt ansikte. 
+th	- อย่างหมอที่หน้าเหมือนเบบี๋ใช่ปะ | - หน้าเขาเหมือนเด็ก เรื่องจริง | 
+tr	-Yüzü bebek gibi olan adam hani? -Çok çocuksu bir yüzü var, doğru. 
+vi	- Gã có mặt như em bé? | - Đúng vậy, như trẻ con. | 
+zh-long	-有張娃娃臉的那傢伙？ -他的臉是真的還滿稚氣的 
+zh-short	-长着娃娃脸的人？ -他的确长得很嫩 真的 
+en	He has a very childlike face, it's true. | 
+ja	子供のような顔をしてる | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏هل تخلصت من القصة‏ في مجلة "أنكوايرر" | 
+da	Fik du stoppet historien 
+el	Σταμάτησες το άρθρο 
+en	Did you squash the story in the Enquirer | 
+fr	Tu as étouffé l'affaire 
+he	&rlm;‏האם עצרת את הסיפור‏ | 
+it	Hai smentito tu la notizia secondo cui 
+nl	Kocht jij het verhaal af... 
+no	Dysset du ned historien 
+pl	Wyciszyłeś to, 
+pr-br	Você abafou a história 
+pr	Desmentiste a notícia de um tabloide 
+ro	Ai înnăbușit subiectul 
+sp	¿Acallaste la historia 
+sp-eu	¿Acallaste la historia 
+tr	Babasının bir hapishane isyanında 
+vi	Anh đã chặn câu chuyện trên tờ Enquirer | 
+zh-long	監獄暴動時 
+zh-short	你把她做监狱官的爸爸在监狱暴动时 
+ja	父親の不祥事が書かれた | 記事をもみ消したか？ | 
+ru	Ты замял историю, 
+th	คุณปิดข่าว | 
+fi	Estitkö lehtijutun - 
+id	Kau meredakan isu yang merebak 
+sv	Dödade du storyn om att hennes pappa somnade under ett fängelseuppror? 
+ko	교도소 폭동 중에 | 
+

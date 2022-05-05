@@ -1,0 +1,27 @@
+id	Hei, di mana Peter? Melakukan latihan fisik? 
+ru	А где Питер? Физиотерапия? 
+ar	&rlm;‏أين "بيتر"؟ أذهب لتلقي علاج طبيعي؟‏ | 
+da	Hvor er Peter? Er han til fysioterapi? 
+el	Γεια. Πού είναι ο Πίτερ; Κάνει φυσιοθεραπεία; 
+en	Hey. Where's Peter? Is he doing PT? | 
+fi	Missä Peter on? Fysiossako? 
+he	&rlm;‏היי, איפה פיטר? הוא עושה פיזיותרפיה?‏ | 
+it	Dov'è Peter? A fare fisioterapia? 
+nl	Waar is Peter? Fysio aan het doen? 
+no	Hei. Hvor er Peter? I fysioterapi? 
+pl	A gdzie Peter? Na rehabilitacji? 
+pr-br	Ei, onde está o Peter? Ele está fazendo fisioterapia? 
+pr	Onde está o Peter? Está a fazer fisioterapia? 
+ro	Bună! Unde e Peter? Face fizioterapie? 
+sp	¿Dónde está Peter? ¿Está haciendo terapia física? 
+sp-eu	Hola. ¿Dónde está Peter? ¿Está en fisioterapia? 
+sv	Var är Peter? Har han sjukgymnastik? 
+th	เฮ่ ปีเตอร์อยู่ไหน | กำลังทำกายภาพอยู่เหรอ | 
+tr	Merhaba. Peter nerede? Egzersiz mi yapıyor? 
+vi	Ông Peter đâu? | Ông ấy đang vật lý trị liệu à? | 
+zh-long	嘿，彼得呢？ 他現在改做兼職啦？ 
+zh-short	嘿 彼得呢？他在接受物理治疗吗？ 
+ko	피터는 어디 있죠? | 트레이닝 받으러 갔나요? | 
+fr	Où est Peter ? En rééducation ? 
+ja	ピーターの調子はどうだ？ | 
+

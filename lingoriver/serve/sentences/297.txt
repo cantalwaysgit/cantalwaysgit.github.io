@@ -1,0 +1,56 @@
+ar	&rlm;‏‏أنت موهوبة أكثر من أن تعملي هنا. | &rlm;‏حان الوقت لتحلقي.‏ | 
+da	Du er for stor til den her andedam. Det er tid til at flyve væk. 
+el	Είσαι πολύ ταλαντούχα. Ήρθε η ώρα να απογειωθείς. 
+en	You're too big for this duck pond. | It's time to fly. | 
+fi	Olet liian suuri tähän ankkalampeen. Nouse siivillesi. 
+fr	Vous devez quitter le nid. Il faut prendre votre envol. 
+he	&rlm;‏‏את גדולה מיד לאגם הברווזים הזה. | &rlm;‏הגיע הזמן לעוף.‏ | 
+it	Questo stagno non ti basta più. Devi volare via. 
+ko	오리 연못에 있기엔 아까워요 | 재능이 너무 많잖아요 | 
+nl	Je bent te groot voor deze vijver. Het is tijd om te vliegen. 
+no	Du er for stor for denne andedammen. På tide å fly. 
+pl	Jesteś za dobra na ten stawik. Czas rozwinąć skrzydła. 
+pr-br	Você é muito talentosa para essa lagoa de patos. É hora de voar. 
+pr	Tem demasiado potencial para isto. Está na hora de voar. 
+ro	Ești prea talentată pentru heleșteu. E timpul să zbori. 
+sp	Eres demasiado para este lugar. Es hora de volar. 
+sp-eu	Es demasiado grande para este estanque. Le toca volar. 
+sv	Du är för stor för ankdammen. Det är dags att flyga. 
+th	คุณยิ่งใหญ่เกินกว่าบ่อเป็ดนี้ | ถึงเวลาโบยบินแล้ว | 
+tr	Bu ördek havuzu için fazla muhteşemsin. Uçma vaktin geldi. 
+vi	Cô thừa tài năng cho cái ao vịt này. | Đến lúc bay đi rồi. | 
+zh-long	妳在這小鴨池塘是大材小用 該展翅翱翔了 
+zh-short	你在这太屈才了 该出去大显身手了 
+id	Kau terlalu besar untuk tempat ini. Sudah saatnya terbang. 
+ru	Вы переросли это озеро. Пора взлетать. 
+ja	アヒルの池から飛び立つ時だ | 
+
+es	Sí. Adiós. 
+fi	Nähdään siellä. Heippa. | 
+ms	Ya. Selamat tinggal. 
+el	Ναι. Αντίο. 
+cs	Přesně. Čau. 
+da	Ja. Hej. | 
+es-eu	Sí, adiós. 
+fr	Oui. Salut. 
+he	‫כן. ביי.‬ | 
+hr	Da. Bok. 
+hu	Aha. Sziasztok! 
+id	Ya. Dah. 
+it	Sì, ciao. 
+ja	&lrm;そうね　じゃあ | 
+ko	&lrm;그래, 안녕 | 
+nl	Ja. Dag. 
+no	Ja. Ha det. 
+pt	Pois. Adeus. 
+ro	Da. Pa! 
+ru	Ага. Пока. 
+sv	Ja. Hej då. 
+th	&lrm;อือ บาย | 
+tr	Evet, görüşürüz. 
+uk	Так. Бувай. 
+vi	&lrm;Ừ. Tạm biệt. | 
+zh-long	是啊，再見 
+zh-short	好的 再见 
+en	Yeah. Bye. 
+

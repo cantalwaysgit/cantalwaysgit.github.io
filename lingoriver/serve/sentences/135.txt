@@ -1,0 +1,84 @@
+id	Sandy. 
+ja	サンディ | 
+ru	Сэнди! 
+ar	&rlm;‏"ساندي".‏ | 
+da	Sandy. 
+el	Σάντι. 
+en	[straining] Sandy. | 
+fi	Sandy! 
+he	&rlm;‏סנדי.‏ | 
+it	Sandy. 
+no	Sandy. 
+pl	Sandy. 
+pr-br	Sandy. 
+pr	Sandy. 
+ro	Sandy... 
+sp-eu	Sandy. 
+sp	Sandy. 
+sv	Sandy! 
+th	แซนดี้ | 
+tr	Sandy. 
+vi	Sandy. | 
+zh-long	山迪 
+zh-short	桑迪 
+ko	샌디 | 
+
+es	- ¿No es mucho brillo? - ¿Por qué? ¿Estás celosa? 
+ja	&lrm;派手な はさみ | 
+cs	- Co to máš za cetku? - Proč? Závidíš? 
+da	-Er det ikke for meget bling-bling? | -Misundelig? | 
+en	-Aren't those a bit flashy? -Why? Jealous? 
+es-eu	- ¿Y ese brilli-brilli? - ¿Por? ¿Estás celosa? 
+fr	- C'est quoi, ce "bling-bling" ? - Jalouse ? 
+he	‫זה לא מפואר מדי?‬ | ‫-למה? את מקנאת?‬ | 
+hr	-Nije li to prenapadno? -Zašto? Zavidna si? 
+hu	- Mi ez a sok csilivili? - Miért? Irigykedsz? 
+id	- Tidakkah itu berlebihan? - Kenapa? Iri? 
+it	- Cos'è quella cosa di lusso? - Perché? Gelosa? 
+ko	&lrm;- 그거 완전 블링블링인데? | &lrm;- 왜, 샘 나? | 
+ms	- Apa yang mengerlip itu? - Kenapa? Cemburu? 
+nl	Wat is dat voor blingbling? -Hoezo? Jaloers? 
+no	-For mye bling? -Hvorfor det? Sjalu? 
+pt	- Isso não é de rico? - Porquê? Tens inveja? 
+ro	- Aia-i foarfecă de aur? - Ești geloasă? 
+ru	- Что это за антиквариат? - А что? Завидуешь? 
+th	&lrm;- นั่นไม่เยอะไปหน่อยเหรอ | &lrm;- ทำไม อิจฉาเหรอ | 
+uk	-Ого, які ножиці. -А ти заздриш? 
+vi	&lrm;- Gì mà điệu thế? | &lrm;- Tại sao? Ghen tị à? | 
+zh-long	-會不會太閃亮了一點？ -為什麼？嫉妒嗎？ 
+zh-short	-怎么还亮闪闪的？ -怎么了？羡慕吧？ 
+fi	Noissa on liikaa bling-blingiä. | -Oletko kateellinen? | 
+sv	-Värst vad den blänker, då. -Hur så? Är du avis? 
+el	-Τι χλιδάτο ψαλίδι είναι αυτό; -Γιατί; Ζηλεύεις; 
+pt-br	- Isso não é meio demais? - Por quê? Está com inveja? 
+tr	-O ne öyle? Pırıl pırıl. -Niye, kıskandın mı? 
+ja	&lrm;いいでしょ　欲しい？ | &lrm;おばあちゃんがくれた | 
+el	Μου το έδωσε η γιαγιά μου. 
+cs	Dala mi je babička. 
+da	Min bedstemor gav mig den. | 
+en	My grandma gave them to me. 
+es-eu	Me lo regaló mi abuela. 
+es	Me la regaló mi abuela. 
+fi	Sain ne mummilta. | 
+fr	Cadeau de ma grand-mère. 
+he	‫סבתא שלי נתנה לי את זה.‬ | 
+hr	Baka mi ih je dala. 
+hu	A nagymamámtól kaptam. 
+id	Ini pemberian nenekku. 
+it	Me l'ha data mia nonna. 
+ko	&lrm;할머니한테 받았지 | 
+ms	Nenek saya yang beri. 
+nl	Van mijn oma gekregen. 
+no	Bestemor ga den til meg. 
+pt	A minha avó deu-ma. 
+pt-br	Ganhei da minha avó. 
+ro	O am de la bunica. 
+sv	Jag fick den av mormor. 
+th	&lrm;ยายฉันให้มา | 
+tr	Büyükannem verdi. 
+uk	Це подарунок від бабусі. 
+vi	&lrm;Bà tôi tặng tôi đấy. | 
+zh-long	我爸給我的 
+zh-short	我奶奶给我的 
+ru	Бабушкины. 
+

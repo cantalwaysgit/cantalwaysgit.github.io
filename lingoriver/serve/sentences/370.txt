@@ -1,0 +1,27 @@
+ja	つらい経験で学んだ | 
+ru	Я это знаю из горького опыта. 
+ar	&rlm;‏آسف، لكنني تعلمت ذلك بالطريقة الصعبة.‏ | 
+da	Beklager, jeg lærte det på den hårde måde. 
+el	Λυπάμαι, αλλά έχω πικρή πείρα. 
+en	I'm sorry, | but I learned that the hard way. | 
+fi	Opin kantapään kautta. 
+fr	Désolé, mais j'ai déjà donné. 
+he	&rlm;‏סליחה, למדתי את זה בדרך הקשה.‏ | 
+id	Maaf, aku belajar dari pengalaman. 
+it	L'ho imparato sulla mia pelle. 
+pr-br	Desculpe, mas aprendi pelo modo difícil. 
+pr	Lamento, mas aprendi isso da pior forma. 
+ro	Îmi pare rău, am avut experiențe neplăcute. 
+sp-eu	Lo siento, lo aprendí por las duras. 
+sp	Perdón, pero lo aprendí de la manera difícil. 
+sv	Jag lärde mig det den hårda vägen. 
+th	โทษที ผมเรียนรู้จากประสบการณ์ลำบาก | 
+tr	Kusura bakma, ben bunu zor yoldan öğrendim. 
+vi	Xin lỗi, tôi từng có bài học xương máu. | 
+zh-long	抱歉，我受過慘痛教訓 
+zh-short	抱歉 这可是我学来的惨痛教训 
+nl	Sorry, slechte ervaring. -Een nare scheiding? 
+no	-Beklager. Har lært av bitter erfaring. -Stygt brudd? 
+pl	Miałem bolesną lekcję. 
+ko	미안 | 고생해서 배운 교훈이거든 | 
+

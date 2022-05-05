@@ -1,0 +1,24 @@
+id	Aku putus dengan Billy. 
+ru	Я порвала с Билли. 
+ar	&rlm;‏انفصلت عن "بيلي" للتو.‏ | 
+da	Jeg slog op med Billy. 
+el	Χώρισα με τον Μπίλι. 
+en	I just broke up with Billy. | 
+fi	Tuli bänät Billyn kanssa. 
+fr	J'ai rompu avec Billy. 
+he	&rlm;‏נפרדתי מבילי.‏ | 
+it	Ho rotto con Billy. 
+no	Jeg slo opp med Billy. 
+pl	Zerwałam z Billym. 
+pr-br	Terminei com o Billy. 
+pr	Terminei tudo com o Billy. 
+ro	M-am despărțit de Billy. 
+sp-eu	He roto con Billy. 
+sp	Rompí con Billy. 
+th	ฉันเพิ่งเลิกกับบิลลี่ | 
+tr	Billy'den ayrıldım. 
+vi	Tôi chia tay với Billy. | 
+zh-long	我跟比利分手了 
+zh-short	我跟比利分手了 
+ko	빌리랑 헤어졌어요 | 
+

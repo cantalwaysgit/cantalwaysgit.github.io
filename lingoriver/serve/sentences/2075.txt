@@ -1,0 +1,23 @@
+ar	&rlm;‏‏- مرحباً! | &rlm;‏- يا إلهي! مرحباً!‏ | 
+da	-Hallo! -Gud! Hej! 
+el	-Γεια! -Ω, Θεέ μου! Γεια! 
+en	-Hey! | -Oh, my God! Hi! | 
+fi	-Hei! -Voi luoja! 
+he	&rlm;‏‏היי! | &rlm;‏-אלוהים! היי!‏ | 
+it	- Ehi! - Oddio! Ciao! 
+ko	- 안녕! | - 세상에! 안녕! | 
+no	-Hei! -Herregud! Hei! 
+pr-br	-Ei! -Ah, meu Deus! Oi! 
+pr	- Olá! - Meu Deus! Olá! 
+ro	- Bună! - Doamne! Bună! 
+sp-eu	- ¡Hola! - Dios mío. ¡Hola! 
+sp	- ¡Hola! - ¡Dios mío! 
+sv	-Hej! -Herregud, hej! 
+tr	-Selam! -Aman Tanrım! Merhaba! 
+vi	- Xin chào! | - Chúa ơi! Xin chào! | 
+zh-long	-嘿！ -天啊！嗨！ 
+zh-short	-嘿！ -天啊！嗨！ 
+ru	-Привет! -Боже! Привет! 
+th	- เฮ่ | - โอ้ ตายแล้ว ว่าไง | 
+id	- Hei! - Astaga! Hai! 
+

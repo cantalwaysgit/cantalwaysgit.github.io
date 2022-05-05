@@ -1,0 +1,30 @@
+en	No, no, what is the dial number? | 
+ru	Какая кнопка? 
+ar	&rlm;‏‏- ما هو رقم المحطة؟ | &rlm;‏- عن ماذا تتحدث؟‏ | 
+da	-Hvilken frekvens? -Hvorfor flipper du ud? 
+el	-Ποιος είναι ο αριθμός; -Τι φρίκη έχεις φάει, φίλε; 
+fi	-Mikä kanavan numero on? -Mitä sekoilet? 
+fr	- C'est quoi, la fréquence ? - C'est quoi, ton délire ? 
+he	&rlm;‏‏מה התדר של התחנה? | &rlm;‏-מה אתה מקשקש, אחי?‏ | 
+it	- Mi dica la frequenza! - Stai delirando, fratello? 
+ko	- 다이얼 번호가 뭐냐고요 | - 대체 왜 그러는 거예요? | 
+nl	Wat is het nummer? -Waar heb je last van, man? 
+no	-Hva er frekvensen? -Hva er det med deg? 
+pl	- Jaka to częstotliwość? - Co się tak ekscytujesz, koleś? 
+pr-br	-Qual é a frequência? -Está chapado, irmão? 
+pr	- Qual é a frequência? - Está a falar de quê? 
+ro	- Ce frecvență are postul? - Despre ce bați câmpii acolo? 
+sp-eu	- ¿En qué dial estás? - ¿Por qué flipas, colega? 
+sp	- ¿Qué número en el dial? - ¿De qué hablas, amigo? 
+sv	-Vad är det för station? -Vad går du på? 
+th	- ช่องเบอร์อะไร | - คุณพูดบ้าอะไรไม่ทราบ | 
+tr	-Hangi frekansta? -Ne sayıklıyorsun birader? 
+vi	- Tần số bao nhiêu? | - Anh đang phê thuốc gì đấy? | 
+zh-long	-妳聽哪一臺？ -你是嗑了什麼藥，大哥？ 
+zh-short	-频段号？ -你在嚷嚷什么 老兄？ 
+ja	ラジオの周波数は？ | 
+id	- Berapa nomornya? - Apa yang kau katakan, Bung? 
+en	What are you tripping about, bro? | 
+ru	Да что ты так психуешь? 
+ja	何が言いたいの？ | 
+

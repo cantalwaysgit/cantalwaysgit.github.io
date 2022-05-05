@@ -1,0 +1,27 @@
+en	-[shutter clicks] | -Very good. | 
+ar	&rlm;‏جيد جداً.‏ | 
+da	Rigtigt godt. 
+el	Πολύ καλό. 
+fi	Oikein hyvä. 
+fr	Très bien. 
+he	&rlm;‏טוב מאוד.‏ | 
+id	Bagus sekali. 
+it	Molto bene. 
+ko	아주 좋네요 | 
+nl	Heel goed. 
+no	Veldig bra. 
+pl	Bardzo ładnie. 
+pr-br	Muito bom. 
+pr	Muito bem. 
+ro	Foarte bine. 
+sp-eu	Muy bien. 
+sp	Muy bien. 
+sv	Mycket bra. 
+th	ดีมาก | 
+tr	Çok iyi. 
+vi	Tốt lắm. | 
+zh-long	很好 
+zh-short	非常好 
+ja	いいね | 
+ru	Очень хорошо. 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏‏يكون المرء مغموراً، ثم يغدو مشهوراً. | &rlm;‏فيسعى الجميع إليك.‏ | 
+da	Du er ingen, så er du nogen. Alle råber på dig. 
+el	Ξαφνικά, γίνεσαι κάποιος και όλοι ζητωκραυγάζουν για εσένα. 
+en	You're nobody, and then you're somebody, | and everyone's clamoring after you. | 
+fi	Nollasta huipulle. Yhtäkkiä kaikki haluavat jotain. 
+fr	Tu deviens une star. Tout le monde te réclame. 
+he	&rlm;‏‏את אף אחת, ואז את מישהי. | &rlm;‏כולם מחזרים אחרייך.‏ | 
+id	Dari nol menjadi terkenal dan semuanya memuji dirinya. 
+it	Dal nulla diventi una celebrità. E tutti parlano di te. 
+ko	무명에서 일류 스타가 됐죠 | 모두가 이름을 외쳤어요 | 
+nl	Je bent opeens iemand. Iedereen schreeuwt om je. 
+no	Du er ingen, så er du noen. Alle vil møte deg. 
+pl	Nagle stała się wielką gwiazdą. Wszyscy zabiegali o jej względy. 
+pr-br	Você não é ninguém e de repente fica famosa. Todos querem você. 
+pr	Não és ninguém, passas a ser alguém e toda a gente grita por ti. 
+ro	Ești un nimeni, apoi ajungi cineva. Toată lumea urlă după tine. 
+ru	Ты никто. Раз - и вдруг ты кто-то. Вокруг тебя поднимают шум. 
+sp-eu	No eres nadie y de repente eres alguien. Todo el mundo te quiere. 
+sp	No eres nadie, de pronto eres alguien. Todos claman tu nombre. 
+sv	Man är ingen, sen är man någon. Alla kräver nåt av en. 
+th	เป็นคนธรรมดาๆ แล้วก็เป็นคนดัง | ที่ทุกคนวุ่นวายตามติด | 
+tr	Bir hiçken birden tanınıyorsunuz. Herkes çığlık çığlığa peşinizde. 
+vi	Bạn đang vô danh, đột nhiên nổi tiếng. | Ai cũng lớn tiếng phản đối bạn. | 
+zh-long	本來默默無名，突然聲名大噪 所有人追著妳跑 
+zh-short	从默默无闻到名声大噪 万人追捧 
+ja	一気にスターになって | 注目を浴びる | 
+

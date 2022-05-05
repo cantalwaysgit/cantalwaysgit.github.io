@@ -1,27 +1,60 @@
-id	- Bicara kepadamu atau lensa itu? - Terserah. 
-ar	&rlm;‏‏- أتحدث إليك أم إلى الكاميرا؟ | &rlm;‏- لا بأس بكليهما.‏ | 
-el	-Να μιλήσω σ' εσένα ή στο φακό; -Το ίδιο είναι. 
-en	-Talk to you, or talk to the lens? | -[man] Either way. | 
-fi	-Puhunko sinulle vai kameralle? -Ihan miten vain. 
-fr	- Je regarde la caméra ou vers toi ? - Peu importe. 
-he	&rlm;‏‏לדבר אליך, או לדבר למצלמה? | &rlm;‏-לא משנה.‏ | 
-it	- Parlo a te o alla videocamera? - È lo stesso. 
-nl	Praat ik tegen jou of tegen de camera? -Mag allebei. 
-pl	- Do ciebie czy do kamery? - Bez różnicy. 
-pr-br	-Olho para você ou para a câmera? -Tanto faz. 
-pr	- Falo para ti ou para a câmara? - Tanto faz. 
-ro	- Vorbesc cu tine sau spre cameră? - E bine oricum. 
-sp-eu	- ¿Te hablo a ti o a la cámara? - Lo que prefieras. 
-sp	- ¿Te hablo a ti o a la cámara? - Como quieras. 
-th	- ให้ผมพูดกับคุณหรือกับกล้อง | - ยังไงก็ได้ | 
-tr	-Size mi objektife mi konuşayım? -İkisi de olur. 
-vi	- Nhìn anh, hay ống kính? | - Thế nào cũng được. | 
-zh-long	-對著你還是對著鏡頭講？ -都可以 
-zh-short	-对你说还是对着镜头说？ -都行 
-ru	-Смотреть на вас или в камеру? -Как хотите. 
-sv	-Prata med dig eller kameran? -Båda funkar. 
-da	-Taler jeg til dig eller til linsen? -Det er ligegyldigt. 
-no	-Snakke til deg eller kamera? -Det er det samme. 
-ko	- 어딜 보고 말하면 되죠? | - 상관없습니다 | 
-ja	カメラ目線で？ | 
+ja	何だい？ コメントか | 
+id	Kita akan melakukan itu. Baiklah. 
+ru	А, уже пора. Вы начнете? 
+en	Oh, oh! We're gonna do the thing. Okay. | 
+ar	&rlm;هل ‏سنقوم بالأمر؟ حسناً. أتود أن تبدأ؟‏ | 
+da	Vi skal lave det der. Vil du begynde? 
+el	Να κάνουμε αυτό που λέγαμε; Θες να ξεκινήσεις; 
+fi	Ai, se juttu. Aloitatko? 
+fr	C'est maintenant. Tu commences ? 
+he	&rlm;‏אנחנו הולכים לעשות את זה. אתה רוצה להתחיל?‏ | 
+it	Dobbiamo fare quella cosa. Inizi tu? 
+nl	We gaan het doen. Wil jij beginnen? 
+no	Vi skal gjøre greia. Vil du begynne? 
+pl	Nagrywamy już. Zaczniesz? 
+pr-br	Vamos fazer aquilo. Quer começar? 
+pr	Vamos fazer aquilo. Queres começar? 
+ro	O să înregistrăm. Vrei să începi tu? 
+sp-eu	Vamos a hacer la cosa esa. ¿Quieres empezar? 
+sp	Vamos a hacerlo. ¿Quieres comenzar? 
+sv	Vi ska köra grejen. Vill du börja? 
+th	เราจะเริ่มแล้ว คุณอยากเริ่มไหม | 
+tr	Yapıyoruz, tamam. Başlamak ister misin? 
+vi	Chúng tôi sẽ làm. Anh muốn bắt đầu chưa? | 
+zh-long	要開始了，你先來吧？ 
+zh-short	我们要拍了 你要开始吗？ 
+ko	시작하는군요 | 먼저 하실래요? | 
+id	Baiklah. Kau mau memulainya? 
+en	All right, you want to start it off? | 
+ja	君から | 
+
+es	Todo estará bien. 
+id	Semua akan baik-baik saja. 
+pt-br	Vai ficar tudo bem. 
+uk	Усе буде добре. 
+zh-short	不会有事的 
+fi	Kaikki järjestyy. | 
+ru	Всё будет хорошо. 
+cs	To bude dobrý. 
+da	Det ordner sig. | 
+el	Όλα θα πάνε καλά. 
+en	It's going to be okay. 
+es-eu	Todo irá bien. 
+fr	Ça va aller. 
+he	‫יהיה בסדר.‬ | 
+hr	Bit će sve u redu. 
+hu	Nem lesz semmi baj. 
+it	Andrà tutto bene. 
+ja	&lrm;大丈夫だ | 
+ko	&lrm;괜찮을 거야 | 
+ms	Semuanya akan selamat. 
+nl	Het komt goed. 
+no	Det går bra. 
+pt	Vai ficar tudo bem. 
+ro	O să fie bine. 
+sv	Det ordnar sig. 
+th	&lrm;ไม่เป็นไรนะ | 
+vi	&lrm;Sẽ ổn thôi. | 
+zh-long	不會有事的 
+tr	Her şey yoluna girecek. 
 

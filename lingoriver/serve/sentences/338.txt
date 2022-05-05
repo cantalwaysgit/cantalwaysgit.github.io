@@ -1,0 +1,27 @@
+id	Aku akan selalu melakukan yang terbaik untuk putrimu. 
+ja	娘さんのことを一番に考え | 全力を尽くす | 
+ru	я всегда буду делать то, что лучше для вашей дочери. 
+ar	&rlm;‏سأفعل دوماً الأفضل لابنتك.‏ | 
+da	Jeg vil altid gøre, hvad der er bedst for Deres datter. 
+el	Θα κάνω πάντα το καλύτερο για την κόρη σου. 
+en	I will always do what's best | for your daughter. | 
+fi	Toimin aina tyttärenne parhaaksi. 
+fr	Je ferai toujours ce qu'il y a de mieux pour votre fille. 
+he	&rlm;‏אעשה תמיד מה שהכי טוב למען הבת שלך.‏ | 
+it	Io farò sempre ciò che è meglio per sua figlia. 
+nl	Ik zal altijd doen wat het beste is voor je dochter. 
+no	Jeg skal alltid gjøre det som er best for datteren din. 
+pl	Zawsze będę robił to, co dla pana córki najlepsze. 
+pr-br	Vou sempre fazer o melhor para a sua filha. 
+pr	eu farei sempre o que é melhor para a sua filha. 
+ro	Voi face mereu tot ce e mai bine pentru fata dv. 
+sp-eu	Siempre haré lo que sea mejor para su hija. 
+sp	Siempre haré lo mejor para su hija. 
+sv	Jag kommer alltid att göra det bästa för din dotter. 
+th	ผมจะทำสิ่งที่ดีที่สุด | สำหรับลูกสาวคุณเสมอ | 
+tr	Daima kızınız için en iyisini yapacağım. 
+vi	Tôi sẽ luôn làm điều tốt đẹp nhất | cho con gái ông. | 
+zh-long	我會做出對你女兒最好的決定 
+zh-short	我会一直以您女儿的利益为先 
+ko	따님을 위해서라면 | 항상 최선을 다하겠습니다 | 
+

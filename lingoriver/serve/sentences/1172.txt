@@ -1,0 +1,27 @@
+id	Apa itu? 
+ru	А что это? 
+ar	&rlm;‏‏- ما هو؟ | &rlm;‏- ألا تعرف ما هو البريد الإلكتروني؟‏ | 
+da	-Hvad er det? -Kender du ikke til e-mail? 
+el	-Τι είναι αυτό; -Δεν ξέρεις τι είναι το e-mail; 
+en	-What is that? | -Oh, you're not familiar with e-mail? | 
+fi	-Mitä se tarkoittaa? -Etkö tiedä, mikä sähköposti on? 
+fr	- C'est quoi ? - Tu connais pas les e-mails ? 
+he	&rlm;‏‏מה זה? | &rlm;‏-אתה לא יודע מה זה אימייל?‏ | 
+it	- E cosa sarebbe? - Non conosci l'email? 
+nl	Wat is dat? -Weet je niet wat e-mail is? 
+no	-Hva er det? -Kjenner du ikke til e-post? 
+pl	- Co to? - Nie słyszałeś o niej? 
+pr-br	-E o que é isso? -Não sabe o que é um e-mail? 
+pr	- O quê? - Não sabes o que é um  e-mail? 
+ro	- Ce e aia? - Nu ai auzit de e-mail? 
+sp-eu	- ¿Qué es eso? - ¿No sabes lo que es el e-mail? 
+sp	- ¿Qué es eso? - ¿No sabes qué es un  e-mail ? 
+sv	-Vad är det? -Känner du inte till e-post? 
+th	- นั่นอะไร | - ไม่คุ้นเคยกับอีเมลเหรอ | 
+tr	-Nedir o? -E-posta nedir, bilmiyor musun? 
+vi	- Gì cơ? | - Anh không quen dùng email à? | 
+zh-long	-什麼玩意？ -你不知道電子郵件？ 
+zh-short	-那是什么？ -没听说过电子邮件吗？ 
+ko	- 그게 뭔데? | - 이메일 모르세요? | 
+ja	何だって？ | 
+

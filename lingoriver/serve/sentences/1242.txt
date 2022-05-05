@@ -1,0 +1,27 @@
+id	Aku agak terpaksa melakukan pengorbanan 
+ja	君のために | 多くの犠牲を払わされてる | 
+ru	Мне приходится идти на жертвы, на которые, 
+pl	Zmuszasz mnie do poświęceń, 
+ar	&rlm;‏أنا مرغم على تقديم تضحيات،‏ | 
+da	Jeg er tvunget til at ofre nogle ting, 
+el	Κατά κάποιο τρόπο, αναγκάζομαι να κάνω θυσίες, 
+en	I'm being kind of forced here | to make sacrifices that, | 
+fi	Joudun tekemään uhrauksia, 
+fr	Ça m'oblige à faire des sacrifices 
+he	&rlm;‏אני נאלץ לעשות ויתורים‏ | 
+it	Sarei costretto a sacrificare delle cose che, 
+ko	내가 어느 정도 | 희생을 해야 하는데 | 
+nl	Ik word gedwongen offers te brengen die... 
+no	Jeg blir tvunget til å ofre ting 
+pr-br	mas estou sendo obrigado a fazer sacrifícios que, 
+pr	Estou a ser obrigado a fazer sacrifícios que, 
+ro	Sunt cam obligat să fac sacrificii 
+sp-eu	...me veo obligado a hacer sacrificios que, 
+sp	Siento que debo hacer sacrificios que, 
+sv	Jag tvingas att göra uppoffringar, 
+th	ผมกำลังถูกบีบให้เสียสละ | 
+tr	Bazı fedakârlıklar yapmak zorunda kalıyorum 
+vi	tôi rơi vào tình thế buộc phải hy sinh, | 
+zh-long	我不得不來這裡，做出犧牲 
+zh-short	我其实是被迫做出牺牲 
+

@@ -1,0 +1,25 @@
+en	-[phone ringing] | -Oh... Come on. | 
+id	Ayolah. 
+ru	Да ладно. 
+vi	Thôi nào. | 
+fi	No voihan. 
+tr	Hadi be. 
+pl	Nie teraz. 
+th	ให้ได้ยังงั้นสิ | 
+zh-short	不是吧 
+ar	&rlm;‏هيا.‏ | 
+da	Gider du lige. 
+el	Έλα τώρα. 
+fr	Sérieux ? 
+he	&rlm;‏באמת.‏ | 
+it	Ma dai. 
+ko	뭐야, 또 | 
+no	Ærlig talt. 
+pr-br	Qual é? 
+pr	Por favor. 
+ro	Zău așa! 
+sp-eu	Vamos. 
+sp	Vamos. 
+sv	Lägg av. 
+zh-long	搞什麼！ 
+

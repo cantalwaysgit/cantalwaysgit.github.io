@@ -1,0 +1,27 @@
+id	Tolong jangan menghalangi jalan. 
+ja	通路を塞がないで | 
+ar	&rlm;‏أيمكنك ألا تسد الممر بأكمله رجاءً؟‏ | 
+el	Μπορείς να μην κλείνεις όλο τον διάδρομο; 
+en	Could you please | not block the whole aisle? | 
+fi	Älä tuki käytävää. 
+fr	Vous êtes au milieu de l'allée. 
+he	&rlm;‏אתה מוכן בבקשה לא לחסום את כל המעבר?‏ | 
+it	Potrebbe non bloccare il corridoio? 
+no	Ikke sperr veien, er du snill. 
+pl	Blokuje pan przejście. 
+pr-br	Pode não bloquear o corredor todo? 
+pr	Importa-se de não bloquear o corredor? 
+ro	Vrei să nu blochezi tot culoarul? 
+sp-eu	¿Le importa no bloquear el paso? 
+sp	No bloquees el pasillo, ¿sí? 
+sv	Kan du sluta blockera gången? 
+th	กรุณาอย่าขวางช่องทางเดินได้ไหม | 
+tr	Koridoru kapatmayın lütfen. 
+vi	Làm ơn đừng chặn lối đi được chứ? | 
+zh-long	麻煩別擋在走道上 
+zh-short	麻烦别把过道都挡住了 
+da	Lad være med at fylde hele gangen. 
+nl	Wil je niet de hele gang blokkeren? 
+ru	Можно не загораживать проход? 
+ko	통로는 막지 마세요 | 
+

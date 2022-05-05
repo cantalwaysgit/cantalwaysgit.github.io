@@ -1,0 +1,27 @@
+ru	Значит, все сначала. 
+fr	On va devoir recommencer. 
+nl	Dus we moeten het opnieuw doen. 
+ar	&rlm;‏‏- يتعين أن نسجله مجدداً إذاً. | &rlm;‏- حسناً.‏ | 
+da	-Vi skal altså gøre det igen? -Okay. 
+el	-Δηλαδή, πρέπει να το ξανακάνουμε; -Εντάξει. 
+en	-So we'll have to do it again. | -Okay. | 
+fi	-Eli pitää ottaa uudestaan. -Sopii. 
+he	&rlm;‏‏אז נצטרך לעשות את זה שוב. | &rlm;‏-בסדר.‏ | 
+id	- Kita harus melakukannya lagi. - Baiklah. 
+it	- Quindi dobbiamo rifarla. - Va bene. 
+ko	- 그럼 다시 해야겠네 | - 알았어요 | 
+no	-Så vi må gjøre det på nytt. -Greit. 
+pl	- Czyli musimy nagrać jeszcze raz. - Tak. 
+pr-br	-Então vamos ter que repetir. -Tudo bem. 
+pr	- Vamos ter de repetir? - Está bem. 
+ro	- Deci va trebui să repetăm? - Bine. 
+sp-eu	- Entonces tendremos que repetir. - Vale. 
+sp	- Tendremos que hacerlo otra vez. - De acuerdo. 
+sv	-Då måste vi göra om det? -Okej. 
+th	- งั้นเราจะต้องอัดใหม่อีกครั้ง | - โอเค | 
+tr	-Tekrar yapmamız gerekecek. -Peki. 
+vi	- Vậy là ta sẽ thu lại. | - Được thôi. | 
+zh-long	-所以我們要重來一次 -好呀 
+zh-short	-所以我们得重录 -好的 
+ja	じゃ やり直し？ | 
+

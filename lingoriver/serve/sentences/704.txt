@@ -1,0 +1,27 @@
+sv	Han beklagar att du inte kom in på Hillcrest Country Club. 
+en	Um, he felt bad that you didn't get | into Hillcrest Country Club this year. | 
+id	Dia merasa tak enak kau tak bisa ke Klub Janapada Hillcrest. 
+ja	クラブの会員になれず | 残念だと | 
+pl	Żałował, że nie dostałeś się do Hillcrest Country Club. 
+ru	Он огорчен, что ты не попал в клуб «Хиллкрест». 
+ar	&rlm;‏‏استاء لأنك لم تتمكن من الانضمام | &rlm;‏إلى نادي "هيلكرست" الريفي هذا العام.‏ | 
+da	Han beklagede, at du ikke kom ind i Hillcrest Country Club. 
+el	Ένιωσε άσχημα που δεν μπήκες στη Λέσχη Χίλκρεστ φέτος. 
+fi	Hän harmittelee, ettet päässyt Hillcrest Country Clubiin. 
+fr	Il regrette que t'aies pas pu intégrer le country club Hillcrest. 
+he	&rlm;‏‏הוא הרגיש רע שלא קיבלו אותך | &rlm;‏להילקרסט קאנטרי קלאב.‏ | 
+it	È dispiaciuto che non ti abbiano preso all'Hillcrest Country Club. 
+nl	Hij vond het rot dat je Hillcrest Country Club niet inkwam. 
+no	Han var lei for at du ikke kom inn på Hillcrest Country Club. 
+pr-br	Ele ficou mal por você não ter entrado no Hillcrest Country Club. 
+pr	Ficou com pena de não teres entrado no Hillcrest Country Club. 
+ro	I-a părut rău că n-ai fost admis în Hillcrest Country Club. 
+sp-eu	Se siente mal porque no te admitieran en el Club de Campo Hillcrest. 
+sp	Se sintió mal cuando no te aceptaron en el club de campo Hillcrest. 
+th	พ่อรู้สึกแย่ที่คุณไม่ได้เข้าร่วม | ฮิลเครสต์คันทรีคลับ | 
+tr	Hillcrest Country Club'a girememene üzülmüş. 
+vi	Ông ấy áy náy vì anh không gia nhập | Câu lạc bộ Đồng quê Hillcrest. | 
+zh-long	害你進不了希爾克雷斯特 鄉村俱樂部，他很內疚 
+zh-short	他很遗憾你 今年没能进到山顶乡村俱乐部 
+ko	샌디가 힐크레스트 컨트리클럽에 | 가입 못 하셔서 안타까워하셨죠 | 
+

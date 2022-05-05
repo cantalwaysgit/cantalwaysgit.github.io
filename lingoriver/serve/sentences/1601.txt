@@ -1,0 +1,27 @@
+ja	気分はどう？ | 
+id	Bagaimana perasaanmu? 
+ru	Как настроение? 
+ar	&rlm;‏كيف حالك؟‏ | 
+da	Hvordan har du det? 
+el	Πώς νιώθεις; 
+en	How you feeling anyway? | 
+fi	Miltä tuntuu? 
+fr	Tu te sens comment ? 
+he	&rlm;‏איך אתה מרגיש?‏ | 
+it	Come ti senti? 
+ko	기분이 어때? | 
+nl	Hoe voel je je? 
+no	Hvordan føler du deg? 
+pl	Jak się czujesz? 
+pr-br	Como você está? 
+pr	Como te sentes? 
+ro	Cum te simți? 
+sp	¿Cómo te sientes? 
+sp-eu	¿Cómo te encuentras? 
+sv	Hur mår du? 
+th	รู้สึกยังไง | 
+tr	Nasılsın bu arada? 
+vi	Anh cảm thấy thế nào? | 
+zh-long	感覺怎麼樣？ 
+zh-short	你感觉怎么样？ 
+

@@ -1,0 +1,52 @@
+ja	完璧に踊れてる | 
+id	- Gadis ini bisa semuanya. - Rasakan. 
+pl	- Potrafi wszystko. - Poczujcie to. 
+ru	-Она все умеет. -Прочувствуйте это. 
+ko	- 뭐든 할 수 있어 | - 느껴 봐요 | 
+ar	&rlm;‏‏- بمقدورها القيام بكل شيء. | &rlm;‏- اشعروا بها.‏ | 
+da	-Den pige kan alt. -Mærk det. 
+el	-Μπορεί να κάνει τα πάντα. -Νιώστε το. 
+fi	-Tyttö pystyy mihin vain. -Fiiliksellä. 
+fr	- Elle sait tout faire. - Ressentez-le. 
+he	&rlm;‏‏הילדה הזו יכולה לעשות הכול. | &rlm;‏-תרגישו את זה.‏ | 
+it	- Questa ragazza sa fare tutto. - Con passione. 
+nl	Zij kan alles. 
+no	-Den jenta klarer alt. -Føl det. 
+pr-br	-Esta garota sabe tudo. -Sintam. 
+pr	- Esta miúda consegue fazer tudo. - Sente. 
+ro	- Fata asta poate face de toate. - Simte! 
+sp	- Esta chica sabe hacer todo. - Siéntelo. 
+sp-eu	- Esta chica sabe hacer de todo. - Siéntelo. 
+sv	-Den tjejen kan allt. -Känn pulsen. 
+th	- ผู้หญิงคนนี้ทำได้ทุกอย่าง | - รู้สึกกับมัน | 
+tr	-Bu kız her şeyi yapar. -Hisset. 
+vi	- Cô gái này sẽ thành công. | - Cảm nhận đi. | 
+zh-long	-她可以的 -感覺一下 
+zh-short	-这姑娘无所不能 -用心去感受 
+en	-This girl can do it all. | -Feel it. And stop! | 
+id	Berhenti. 
+ar	&rlm;‏وتوقفوا!‏ | 
+da	Og stop! 
+el	Και σταματήστε. 
+fi	Ja seis. 
+fr	Et stop ! 
+he	&rlm;‏ולעצור!‏ | 
+it	Stop! 
+nl	En stoppen. 
+no	Og stopp! 
+pl	Stop! 
+pr-br	Parem! 
+pr	E para! 
+ro	Și... Stop! 
+ru	И стоп! 
+sp-eu	¡Y ya! 
+sp	Y ¡detente! 
+sv	Och sluta! 
+th	และหยุด | 
+tr	Ve dur! 
+vi	Dừng lại! | 
+zh-long	停 
+zh-short	停 
+ko	그리고 멈춰요 | 
+ja	ストップ！ | 
+

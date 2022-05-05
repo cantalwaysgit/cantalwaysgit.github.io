@@ -1,0 +1,26 @@
+id	Alat musik! 
+ar	&rlm;‏أعني الآلة الموسيقية!‏ | 
+da	Instrumentet! 
+el	Για το όργανο λέω! 
+en	The instrument! | 
+fi	Sen soittimen! 
+fr	L'instrument ! 
+he	&rlm;‏כלי הנגינה!‏ | 
+it	Lo strumento! 
+no	Instrumentet! 
+pl	To taki instrument! 
+pr-br	O instrumento! 
+pr	O instrumento! 
+ro	Instrumentul! 
+ru	Инструмент! 
+sp	¡El instrumento! 
+sp-eu	¡El instrumento! 
+sv	Instrumentet! 
+th	เครื่องดนตรี | 
+tr	Çalgıdan söz ediyorum! 
+vi	Nhạc cụ! | 
+zh-long	三角鐵啦！ 
+zh-short	是乐器！ 
+ko	악기 말이야! | 
+ja	楽器のことだ | 
+

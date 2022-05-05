@@ -1,0 +1,27 @@
+ja	今 聴いてるラジオ局は？ | 
+pl	Jakiej słuchasz stacji? 
+en	This... What station are you listening to? | The number? | 
+id	Radio apa yang kau dengarkan? Nomornya. 
+ru	Какую станцию вы слушаете? 
+ar	&rlm;‏إلى أية محطة إذاعية تستمعين؟‏ | 
+da	Hvilken station lytter du til? 
+el	Ποιο σταθμό ακούς; 
+fi	Mitä kanavaa kuuntelet? 
+fr	C'est quoi, votre station ? 
+he	&rlm;‏לאיזו תחנה את מאזינה?‏ | 
+it	Che radio sta ascoltando? 
+nl	Naar welke zender luister je? 
+no	Hvilken kanal hører du på? 
+pr-br	Qual estação está ouvindo? 
+pr	Qual é a estação que está a ouvir? 
+ro	Ce post asculți? 
+sp-eu	¿Qué emisora escuchas? 
+sp	¿Qué estación está escuchando? 
+sv	Vilken station lyssnar du på? 
+th	คุณฟังสถานีอะไรอยู่ | 
+tr	Hangi kanalı dinliyorsunuz? 
+vi	Cô đang nghe đài gì thế? | 
+zh-long	妳在聽哪一臺？ 
+zh-short	你在听什么频道？ 
+ko	어느 방송국 채널 들으세요? | 
+

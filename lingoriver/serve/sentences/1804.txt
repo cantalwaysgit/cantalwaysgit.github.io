@@ -1,0 +1,27 @@
+ar	&rlm;‏توجد يرقانة على وجهك.‏ | 
+da	Du har en larve i ansigtet. 
+el	Έχεις μια κάμπια στο πρόσωπο. 
+en	Hey! There's a caterpillar on your face. | 
+fi	Naamallasi on toukka. 
+fr	Hé, t'as un mille-pattes sur la tronche. 
+he	&rlm;‏היי! יש לך זחל על הפנים.‏ | 
+it	Ehi! Hai un bruco sul viso. 
+ko	얼굴에 애벌레가 붙었어 | 
+nl	Hé. Er zit een rups op je gezicht. 
+pl	Masz na twarzy gąsienicę. 
+pr-br	Ei! Tem uma lagarta na sua cara. 
+pr	Tens uma lagarta na cara. 
+ro	Ai o omidă pe față. 
+sp-eu	¡Oye! Tienes una oruga en la cara. 
+sp	¡Oye! Tienes una oruga en la cara. 
+sv	Du har en larv i ansiktet. 
+th	เฮ่ มีตัวบุ้งบนหน้านาย | 
+tr	Hey! Yüzünde tırtıl var. 
+vi	Này! Có con sâu bướm trên mặt anh. | 
+zh-long	嘿！你臉上有隻毛毛蟲 
+zh-short	嘿！你脸上有条毛毛虫 
+ru	У тебя гусеница на лице. 
+id	Hei, ada ulat di wajahmu. 
+ja	鼻の下に毛虫が | 
+no	Du har en larve i ansiktet. 
+

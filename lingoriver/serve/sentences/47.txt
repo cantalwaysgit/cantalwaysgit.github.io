@@ -1,0 +1,86 @@
+id	Jadi, bagaimana, Arsenio? Kau mau senang bersama? 
+ru	Ну так что, Арсенио? Будем счастливы вместе? 
+ar	&rlm;‏‏ما رأيك يا "آرسينيو"؟ | &rlm;‏أتريد أن نغدو سعيدين معاً؟‏ | 
+da	Hvad siger du, Arsenio? Skal vi være glade sammen? 
+en	So what do you say, Arsenio? | You wanna get happy together? | 
+fi	Mitäs sanot? Löydetäänkö onni yhteinen? 
+fr	T'en dis quoi, Arsenio, ça te dit d'être heureux avec moi ? 
+he	&rlm;‏‏אז מה אתה אומר, ארסיניו, | &rlm;‏אתה רוצה להיות מאושר יחד איתי?‏ | 
+it	Allora, Arsenio, vuoi essere felice con me? 
+ko	그러니, 아세니오 | 함께 행복해 보겠어? | 
+nl	Dus, Arsenio, wil je samen blij worden? 
+no	Så hva sier du, Arsenio, skal vi bli lykkelige sammen? 
+pl	To jak będzie? Popracujemy razem? 
+pr-br	Então, o que diz, Arsenio, quer ser feliz comigo? 
+pr	O que dizes, Arsenio, vamos ser felizes juntos? 
+ro	Ce zici, Arsenio, vrei să ne mulțumim unul pe celălalt? 
+sp-eu	¿Qué me dices, Arsenio? ¿Nos alegramos el uno al otro? 
+sp	¿Qué dices, Arsenio? ¿Quieres que seamos felices juntos? 
+sv	Vad säger du, Arsenio, ska vi bli nöjda tillsammans? 
+th	ว่าไงล่ะ อาเซนนิโอ | อยากแฮปปีด้วยกันไหม | 
+tr	Ne dersin Arsenio, birlikte mutlu olalım mı? 
+vi	Thế nào, cậu nghĩ sao, Arsenio, | muốn ta cùng nhau vui chứ? | 
+zh-long	怎樣，阿塞尼奧 要不要跟我一起幸福？ 
+zh-short	所以 怎么样 阿塞尼奥 合作吗？ 
+el	Τι λες, Αρσένιο; Θες να γίνουμε ευτυχισμένοι μαζί; 
+ja	僕と幸せをつかまないか？ | 
+
+es	Lo siento. 
+hu	Ne haragudj! 
+uk	Вибач. 
+zh-short	对不起 
+el	Συγγνώμη. 
+cs	Promiň. 
+fi	Anteeksi. | 
+ru	Прости. 
+da	Undskyld. | 
+en	I'm sorry. 
+es-eu	Lo siento. 
+fr	Désolée. 
+he	‫אני מצטערת.‬ | 
+hr	Oprosti. 
+id	Maaf. 
+it	Scusa. 
+ja	&lrm;ごめん | 
+ko	&lrm;죄송해요 | 
+ms	Maafkan saya. 
+nl	Het spijt me. 
+no	Beklager. 
+pt-br	Desculpe. 
+pt	Desculpa. 
+ro	Îmi pare rău. 
+th	&lrm;หนูขอโทษค่ะ | 
+tr	Çok üzgünüm. 
+vi	&lrm;Con xin lỗi. | 
+zh-long	對不起 
+sv	Förlåt, men jag känner Adam. Han skulle inte bara försvinna. 
+es	Es que conozco a Adam. No me dejaría sin darme una explicación. 
+zh-short	只是我了解亚当 
+da	Jeg kender Adam. Han ville ikke | forlade mig uden forklaring. | 
+el	Απλώς ξέρω τον Άνταμ. Δεν θα έφευγε ποτέ χωρίς εξήγηση. 
+en	It's just that I know Adam. He wouldn't leave without an explanation. 
+es-eu	Conozco a Adam. No se iría sin una explicación. 
+fi	Mutta tunnen Adamin. | Hän ei jättäisi minua antamatta selitystä. | 
+fr	Je connais Adam. Il ne partirait pas sans explication. 
+he	‫אני פשוט מכירה את אדם.‬ | ‫הוא לא היה נעלם בלי הסבר.‬ | 
+hr	Poznajem Adama i znam da me ne bi ostavio bez riječi. 
+hu	Csak ismerem Adamot. Magyarázat nélkül nem menne el. 
+id	Hanya saja aku mengenal Adam. Dia tak akan pergi tanpa penjelasan. 
+it	È solo che conosco Adam. Non se ne andrebbe senza spiegazioni. 
+ja	&lrm;何も言わずに消えるなんて | &lrm;アダムらしくない | 
+ko	&lrm;아담을 알아요 | &lrm;말 없이 사라질 애가 아니에요 | 
+ms	Saya kenal Adam. Dia takkan pergi tanpa beri penjelasan. 
+nl	Ik ken Adam gewoon. Hij zou nooit weggaan zonder iets te zeggen. 
+no	Jeg kjenner Adam. Han ville ikke dratt uten å si hvorfor. 
+pt-br	É que eu conheço Adam, ele não sumiria sem uma explicação. 
+pt	Mas eu conheço o Adam. Ele não desaparecia sem explicação. 
+ro	Îl cunosc pe Adam. Nu ar pleca fără să dea explicații. 
+th	&lrm;หนูรู้จักอดัมดี เขาไม่มีวันหนีไปโดยไม่บอกกล่าว | 
+tr	Adam'ı tanıyorum. Açıklama yapmadan beni bırakmazdı. 
+uk	Просто я знаю Адама. Він не кинув би мене, нічого не пояснивши. 
+vi	&lrm;Chỉ là con hiểu Adam. | &lrm;Anh ấy không đi mà không nói gì. | 
+zh-long	只是以我對亞當的了解 他不會不解釋就離開我 
+ru	Я знаю Адама. Он бы не ушел вот так, ничего не объяснив мне. 
+cs	Já jen, že vím, jaký je. Nikdy by takhle beze slova nezmizel. 
+zh-short	他不会一声不吭地离开 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏سيفوتك ذلك، إذاً.‏ | 
+da	Så går du glip af noget. 
+el	Εσύ θα χάσεις. 
+en	Well, you'll be missing out, then. | 
+fi	Jäät paljosta paitsi. 
+fr	Tu serais pas déçue, pourtant. 
+he	&rlm;‏אם כך תפסידי.‏ | 
+it	Ti perderai qualcosa. 
+ko	아까운 구경거리 놓치겠네 | 
+nl	Dan mis je wel wat. 
+pl	No to twoja strata. 
+pr-br	Bem, o azar é seu. 
+pr	Vais ficar a perder. 
+ro	Pierderea ta, atunci. 
+sp	Entonces vas a perdértelo. 
+sp-eu	Entonces tú te lo pierdes. 
+sv	Då missar du nåt. 
+tr	O zaman çok şey kaçırırsın. 
+vi	Vậy cô sẽ bỏ lỡ đấy. | 
+zh-long	那妳損失大了 
+zh-short	那你可就错过好戏了 
+ja	見ないと後悔する | 
+no	Verst for deg. 
+id	Kau akan rugi melewatkannya. 
+ru	Ты много потеряешь. 
+th	งั้นจะเสียดายนะ | 
+

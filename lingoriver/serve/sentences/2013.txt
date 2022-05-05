@@ -1,0 +1,26 @@
+ar	&rlm;‏سيصل "ساندي" إلى ذلك. اسمعي وحسب.‏ | 
+da	Det kommer Sandy til. Lyt nu bare. 
+el	Θα σου εξηγήσει ο Σάντι. Απλά άκου. 
+en	Sandy's gettin' to that part. | You just listen. | 
+fi	Sandy selittää. Kuuntele. 
+fr	Sandy va t'expliquer. Écoute. 
+he	&rlm;‏סנדי מגיע לזה. פשוט תקשיבי.‏ | 
+id	Sandy akan mengatakannya. Dengarkan saja. 
+it	Sandy sta arrivando al punto. Ascolta. 
+ko	샌디가 얘기할 테니 들어봐 | 
+no	Sandy kommer til det. Bare hør. 
+pl	Sandy zaraz ci wyjaśni. 
+pr-br	Sandy vai chegar lá. Só ouça. 
+pr	O Sandy já vai chegar lá. Ouve. 
+ro	O să afli de la Sandy. Tu ascultă. 
+ru	Сэнди всё скажет. Ты слушай. 
+sp-eu	Sandy está llegando a eso. Escucha. 
+sp	Sandy está por llegar a esa parte. Escúchalo. 
+sv	Sandy kommer till det. Lyssna bara. 
+th	แซนดี้กำลังจะพูดถึงเรื่องนั้น | แค่ฟัง | 
+tr	Sandy oraya da gelecek. Dinle hele. 
+vi	Sandy sắp nói đến phần đó đấy. Nghe đi. | 
+zh-long	山迪快講到重點了，妳聽好了 
+zh-short	桑迪会说的 你听下去就是了 
+ja	今は彼の話を聞け | 
+

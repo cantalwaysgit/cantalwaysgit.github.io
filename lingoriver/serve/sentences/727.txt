@@ -1,0 +1,27 @@
+ko	얼마나 멍청한 놈이길래 | 
+ar	&rlm;‏أعني، كم يجب أن تكون سخيفاً لتقول،‏ | 
+da	Hvor stor en idiot skal man være, hvis man siger: 
+el	Θέλω να πω, πόσο ηλίθιος πρέπει να είσαι για να πεις 
+en	I mean, how big of an asshole | do you have to be to say, | 
+fi	Millainen kusipää tuumaa: 
+fr	Faut vraiment être un connard pour dire : 
+he	&rlm;‏איזה אידיוט אתה צריך להיות כדי לומר,‏ | 
+it	Devi essere proprio un gran coglione 
+nl	Wat een eikel moet je zijn als je zegt: 
+no	Hvor stor kødd må du være for å si: 
+pl	Jakim trzeba być debilem, żeby powiedzieć: 
+pr-br	Só um puta idiota diria: 
+pr	É preciso ser muito idiota para dizer: 
+ro	Cât de idiot trebuie să fii ca să spui: 
+sp-eu	Hay que ser gilipollas para decir: 
+sp	¿Qué tan idiota puedes ser para decir: 
+sv	Hur stor skitstövel måste man vara för att säga: 
+tr	İnsan nasıl bir hıyar olmalı ki, 
+vi	Sao lại có thể ngu ngốc tới mức nói là, | 
+zh-long	什麼樣的王八蛋會說出 
+zh-short	我是说 得多混才能说出这种话 
+ja	どれだけアホなら | 思いつくんだ？ | 
+th	ต้องงี่เง่าแค่ไหนกันถึงจะพูดว่า | 
+id	Orang berengsek macam apa yang mengatakan, 
+ru	Каким говнюком надо быть, чтобы сказать: 
+

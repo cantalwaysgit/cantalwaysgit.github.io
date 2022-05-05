@@ -1,0 +1,50 @@
+ru	Просто постарайся получить удовольствие. 
+id	Maukah kau menerima semua itu dan bersenang-senang? 
+ja	とにかく楽しんで戦ってこい | 最高の夜になるから | 
+no	Kan du bare love meg å ha det gøy? Dette er en stor kveld for deg. Se på meg. 
+ar	&rlm;‏هلا تتقبل الأمر وتعد بأن تستمتع؟‏ | 
+da	Få nu bare en god oplevelse, og mor dig godt. 
+el	Ηρέμησε και υποσχέσου μου ότι θα διασκεδάσεις. 
+en	Will you just take it all in | and promise me you'll have fun? | 
+fi	Lupaa, että annat palaa ja pidät hauskaa. 
+fr	Prends sur toi et profite, tu veux ? 
+he	&rlm;‏‏האם אתה מוכן לעכל את זה | &rlm;‏ולהבטיח לי שתעשה חיים?‏ | 
+it	Potresti rilassarti e promettermi che ti divertirai? 
+ko	그냥 받아들이고 | 나가서 즐기면 안 되겠어? | 
+pl	Zrobisz to dla mnie i będziesz się dobrze bawił? 
+pr-br	Pode dar o máximo e prometer que vai se divertir? 
+pr	Queres aproveitar isto e prometer-me que te divertes? 
+ro	Vrei să te destinzi și să-mi promiți că o să te distrezi? 
+sp-eu	¿Quieres hacerme caso? Tú diviértete. 
+sp	¿Vas a calmarte y prometes que te divertirás? 
+sv	Kan du inte bara ta in allt och lova att ha kul? 
+th	ฟังเอาไว้แล้วสัญญาว่าจะออกไปสนุก | 
+tr	Artık çeneni kapatıp eğlenmene bakar mısın? 
+vi	Anh cứ chơi hết mình và hứa là sẽ vui chứ? | 
+zh-long	你就接受事實，好好打一場吧？ 
+zh-short	你能听进去并保证好好表现吗？ 
+nl	Neem het in je op en heb gewoon plezier. Dit is een belangrijke avond voor je. 
+id	Ini malam akbar bagimu. Lihat aku. 
+ar	&rlm;‏هذه ليلة هامة لك. انظر إلي.‏ | 
+da	Det er en stor aften for dig. Se på mig. 
+el	Είναι μεγάλη βραδιά για σένα. Κοίταξέ με. 
+en	This is a big night for you. | Look at me. | 
+fi	Tämä on tärkeä ilta. Katso minua. 
+fr	C'est une grande soirée pour toi. Regarde-moi. 
+he	&rlm;‏זה ערב גדול בשבילך. תסתכל עליי.‏ | 
+it	Sarà una grande serata. Guardami. 
+pl	To dla ciebie ważny wieczór. 
+pr-br	Esta é uma noite importante para você. Olhe para mim. 
+pr	É uma grande noite para ti. Olha para mim. 
+ro	E o seară importantă pentru tine. Uită-te la mine! 
+sp	Esta es una gran noche para ti. Mírame. 
+sp-eu	Es una gran noche para ti. Mírame. 
+sv	Det är en viktig kväll för dig. 
+th	นี่เป็นคืนสำคัญของนาย มองฉัน | 
+tr	Bu senin için önemli bir gece. Bana bak. 
+vi	Đây là đêm quan trọng của anh. | Nhìn tôi này. | 
+zh-long	今晚是你的大日子，看著我 
+zh-short	今晚对你来说很重要 看着我 
+ko	오늘은 너한테 중요한 날이야 | 날 봐 | 
+ru	Это твой вечер. Посмотри на меня. 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏أنت محق. حسناً.‏ | 
+da	Du har ret. 
+el	Έχεις δίκιο. Εντάξει. 
+en	-You're right. Okay. | -[applause] | 
+fi	Olette oikeassa. 
+fr	Vous avez raison. 
+he	&rlm;‏אתם צודקים. בסדר.‏ | 
+id	Kau benar. Baiklah. 
+it	Avete ragione. 
+ko	맞아요, 좋습니다 | 
+nl	Je hebt gelijk. 
+no	Du har rett. Ok. 
+pl	Macie rację. 
+pr-br	Você tem razão. Está bem. 
+pr	Têm razão. Pronto. 
+ro	Așa e. Bine. 
+ru	Ты прав. Да. 
+sp-eu	Tenéis razón. Vale. 
+sp	Tienes razón. Está bien. 
+sv	Ni har rätt. Okej. 
+tr	Haklısınız. Tamam. 
+vi	Anh nói đúng. Thôi được. | 
+zh-long	說得沒錯，好 
+zh-short	说的对 好吧 
+ja	分かった | 
+th	พูดถูก โอเค | 
+

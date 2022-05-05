@@ -1,0 +1,27 @@
+th	อยู่ในรั้วฟากโน้น" | 
+nl	Aan jouw kant van het hek.' 
+ar	&rlm;‏في جانبك من السور."‏ | 
+da	...din side af hegnet." 
+el	Στη δική του πλευρά. 
+en	On your side of the fence." | 
+fi	omalla puolellasi aitaa." 
+fr	De ton côté de la clôture." 
+he	&rlm;‏בצד שלך של הגדר."‏ | 
+it	dalla tua parte". 
+no	På din side av gjerdet." 
+pl	Został po swojej stronie płotu. 
+pr-br	Do seu lado da cerca." 
+pr	... do teu lado da cerca." 
+ro	În curtea lui. 
+sp	...de tu lado de la cerca". 
+sp-eu	En tu lado de la valla". 
+sv	...på din sida av staketet." 
+tr	Çitin öteki tarafında kal." 
+vi	phía bên kia hàng rào của mày." | 
+zh-long	圍牆的那一邊” 
+zh-short	待在栅栏那边不许越界” 
+ru	...по ту сторону забора». 
+ja	“森にいろ”と | 
+id	Di sisi lain dari pagarmu itu." 
+ko	울타리 밖으로만 다니라고 했어 | 
+

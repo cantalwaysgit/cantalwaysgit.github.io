@@ -1,0 +1,79 @@
+id	Saat makan bersama Sandy, dia... 
+ru	Когда Сэнди садился за стол... 
+pr-br	Quando se tratava de comer com o Sandy... 
+ar	&rlm;‏عندما تعلق الأمر بالأكل مع "ساندي"،‏ | 
+da	Når man spiste sammen med Sandy... 
+el	Όταν έτρωγες με τον Σάντι... 
+en	When it came to eating | with Sandy, he, um... | 
+fr	Sandy, niveau bouffe... 
+he	&rlm;‏כשזה הגיע לאכילה עם סנדי, הוא...‏ | 
+it	Se ti ritrovavi a tavola con Sandy, 
+ko	샌디랑 같이 식사해보면 | 
+no	Å spise med Sandy var... 
+pl	Posiłki z Sandym... 
+pr	Quando se tratava de comer com o Sandy, ele... 
+ro	Dacă te așezai la masă cu Sandy, el... 
+sp	Cuando ibas a comer con Sandy... 
+sp-eu	A la hora de comer con Sandy... 
+th	มาถึงเรื่องกินอาหารกับแซนดี้ เขา... | 
+tr	Sandy'yle yemek yemeye gelince... 
+vi	Khi đi ăn với Sandy, anh ta... | 
+zh-long	跟山迪吃飯，他… 
+zh-short	跟桑迪吃饭时 
+sv	När man var ute och åt med Sandy, så... Han hade ett smörgåsbord i ansiktet. 
+fi	Jos Sandyn kanssa kävi syömässä, hänen naamansa oli kuin voileipäpöytä. 
+nl	Eten met Sandy was... Dan zat het buffet op zijn gezicht. 
+ja	サンディの食事は | “肉しかないビュッフェ”だ | 
+id	Seperti ada hamparan hidangan di wajahnya. 
+ru	У него был шведский стол на лице. 
+pr-br	A cara dele era um bufê. 
+ko	얼굴에 온갖 음식을 | 다 묻히고 먹어요 | 
+ar	&rlm;‏كان وجهه ملطخاً بجميع أنواع الطعام.‏ | 
+da	Der var en buffet i hans ansigt. 
+el	το πρόσωπό του έμοιαζε με μπουφέ. 
+en	It was like a smorgasbord on his face. | 
+fr	Il finissait avec un buffet sur la tronche. 
+he	&rlm;‏זה היה בופה על הפנים שלו.‏ | 
+it	lo vedevi abbuffarsi di tutto. 
+no	Han hadde et koldtbord i ansiktet. 
+pl	Miał na twarzy szwedzki stół. 
+pr	A cara dele parecia um bufete. 
+ro	Fața lui arăta ca un bufet suedez. 
+sp	Era como un bufet completo en su cara. 
+sp-eu	Era como si llevara el bufet libre en la cara. 
+th	เขากินมูมมามมากเลย | 
+tr	Yüzü türlü şekillere girerdi. 
+vi	mặt anh ta dính đầy thức ăn. | 
+zh-long	感覺滿臉大雜燴 
+zh-short	他的吃相惨不忍睹 
+
+es	Estuvo involucrado en la muerte de Igor. 
+el	Ο Άνταμ είχε σχέση με τον θάνατο του Ίγκορ. 
+pt-br	Ele está envolvido na morte do Igor. 
+uk	Адам причетний до смерті Ігоря. 
+fi	Hän liittyy jotenkin Igorin kuolemaan. | 
+en	He had something to do with Igor's death. 
+hr	Adam ima veze s Igorovom smrću. 
+ms	Adam ada kaitan dengan kematian Igor. 
+ro	E implicat în moartea lui Igor. 
+cs	Adam má s Igorovou smrtí něco společného. 
+da	Han var indblandet i Igors død. | 
+es-eu	Tuvo algo que ver con la muerte de Igor. 
+fr	Il est mêlé à la mort d'Igor. 
+he	‫יש לו קשר למוות של איגור.‬ | 
+hu	Van valami köze Igor halálához. 
+id	Dia terkait dengan kematian Igor. 
+it	C'entra qualcosa con la morte di Igor. 
+ko	&lrm;아담은 이고르의 죽음과 | &lrm;관련이 있어요 | 
+nl	Hij heeft iets te maken met Igors dood. 
+no	Han hadde noe med Igors død å gjøre. 
+pt	Está metido na morte do Igor. 
+sv	Han har nåt med Igors död att göra. 
+th	&lrm;เขามีส่วนพัวพันกับการตายของอิกอร์ | 
+tr	Igor'un ölümüyle bir ilişkisi var. 
+vi	&lrm;Cậu ta liên quan đến cái chết của Igor. | 
+zh-long	伊格爾的死跟他有關 
+zh-short	他跟伊戈尔的死有关 
+ja	&lrm;アダムは息子の死に | &lrm;関わってる | 
+ru	Адам как-то причастен к смерти Игоря. 
+

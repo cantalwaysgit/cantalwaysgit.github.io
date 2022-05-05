@@ -1,0 +1,52 @@
+el	-Αυτό είναι. -Υπέροχο. 
+sv	-Så där ja. -Det är underbart. 
+zh-short	-对 就这样 -非常好 
+ar	&rlm;‏‏- أجل، أحسنت. | &rlm;‏- هذا رائع.‏ | 
+da	-Ja, sådan. -Flot. 
+en	[Sandy] Yes, that's it. | 
+fi	-Juuri noin. -Upeaa. 
+fr	- Voilà, c'est bien. - Superbe. 
+he	&rlm;‏‏כן, זהו זה. | &rlm;‏-ה נחמד.‏ | 
+it	- Sì, così. - Fantastica. 
+nl	Dat is heel leuk. 
+no	-Sånn ja. -Nydelig. 
+pl	- Właśnie tak. - Cudownie. 
+pr-br	-Sim, é isso aí. -Que amor. 
+pr	- Sim, isso mesmo. - Adorável. 
+ro	- Da. Așa! - Minunat! 
+sp	- ¡Así me gusta! - Maravilloso. 
+sp-eu	- Sí, eso es. - Precioso. 
+tr	-Evet, işte bu. -Çok hoş. 
+vi	- Phải, đúng thế. | - Thật tuyệt. | 
+zh-long	-就是這樣 -很好 
+ko	그거예요 | 
+th	- ใช่ นั่นแหละใช่เลย | - นั่นสวยมาก | 
+ru	Да! Вот так. 
+id	Ya, bagus. 
+ja	いいよ　すごくセクシーだ | 
+id	Ya. Sekarang aku melihat seksi. 
+ar	&rlm;‏أجل، أرى الإثارة الآن.‏ | 
+da	Ja, nu ser jeg sexet. 
+en	[Yuri] Yes, now I see sexy. | 
+fi	Nyt näyttää seksikkäältä. 
+fr	Oui, ça, c'est sexy. 
+he	&rlm;‏כן, עכשיו אני רואה סקסי.‏ | 
+it	Ecco la sensualità. 
+nl	Ja, dat is sexy. 
+no	Ja, nå ser jeg sexy. 
+pl	Teraz widzę seks. 
+pr-br	Sim. Agora vejo sensualidade. 
+pr	Sim, agora vejo sensualidade. 
+ro	Da. Acum ești sexy. 
+sp-eu	Sí. Ahora veo sexi. 
+sp	Sí, ahora veo sexi. 
+tr	Evet, şimdi seksi oldu işte. 
+vi	Tốt, tôi thấy quyến rũ rồi đấy. | 
+zh-long	好，我看到性感了 
+el	Τώρα βλέπω τη σέξι πόζα. 
+sv	Nu ser jag sexigheten. 
+th	ใช่ ตอนนี้แหละเซ็กซี่ | 
+zh-short	是的 现在展现出性感了 
+ko	이제 섹시하네요 | 
+ru	Вот это секси. 
+

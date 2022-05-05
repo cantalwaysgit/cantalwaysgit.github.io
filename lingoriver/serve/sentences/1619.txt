@@ -1,0 +1,21 @@
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	Okay. | 
+he	&rlm;‏בסדר.‏ | 
+it	Bene. 
+ko	어이구 | 
+pr-br	Certo. 
+pr	Pronto. 
+ro	Bine. 
+sp	De acuerdo. 
+sp-eu	Vale. 
+sv	Okej. 
+th	โอเค | 
+tr	Tamam. 
+vi	Được rồi. | 
+zh-long	好吧 
+zh-short	好吧 
+id	Baiklah. 
+ru	Так... 
+

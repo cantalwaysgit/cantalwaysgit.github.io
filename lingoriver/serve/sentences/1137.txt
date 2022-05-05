@@ -1,0 +1,26 @@
+en	Oh, really? | 
+ja	あら そう？ | 
+ko	그래요? | 
+id	Sungguh? 
+pl	Czyżby? 
+ru	Правда? 
+zh-short	是吗？ 
+ro	Serios? 
+sv	Verkligen? 
+ar	&rlm;‏حقاً؟‏ | 
+da	Er det rigtigt? 
+el	Αλήθεια; 
+fi	Niinkö? 
+fr	Sérieux ? 
+he	&rlm;‏באמת?‏ | 
+it	Ma davvero? 
+no	Seriøst? 
+pr	A sério? 
+pr-br	Sério? 
+sp	¿De veras? 
+sp-eu	¿En serio? 
+th	จริงเรอะ | 
+tr	Sahi mi? 
+vi	Thật sao? | 
+zh-long	真的呀？ 
+

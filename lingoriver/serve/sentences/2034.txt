@@ -1,0 +1,27 @@
+id	Kau bintangku, Courtney. 
+ja	君は僕のスター | 
+ru	Ты моя звезда, Кортни. 
+ar	&rlm;‏أنت نجمتي يا "كورتني".‏ | 
+da	Du er min stjerne, Courtney. 
+el	Είσαι το αστέρι μου, Κόρτνι. 
+en	You're my star, Courtney. | 
+fi	Olet tähteni. 
+fr	Tu es mon étoile, Courtney. 
+he	&rlm;‏את הכוכב שלי, קורטני.‏ | 
+it	Sei la mia stella, Courtney. 
+ko	넌 내 별이야, 코트니 | 
+nl	Jij bent mijn ster, Courtney. 
+no	Du er stjernen min, Courtney. 
+pl	Jesteś moją gwiazdą. 
+pr-br	Você é a minha estrela, Courtney. 
+pr	És a minha estrela, Courtney. 
+ro	Ești steaua mea, Courtney. 
+sp-eu	Eres mi estrella, Courtney. 
+sp	Tú eres mi estrella, Courtney. 
+sv	Du är min stjärna. 
+th	คุณคือดวงดาวของผม คอร์ทนี่ย์ | 
+tr	Sen benim yıldızımsın Courtney. 
+vi	Em là ngôi sao của anh, Courtney. | 
+zh-long	妳是我的星星，寇妮 
+zh-short	你就是我的星星 考特尼 
+

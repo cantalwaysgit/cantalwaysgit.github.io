@@ -1,0 +1,27 @@
+id	Ya, tapi ini bukan waktu yang tepat. 
+ru	Это не самый подходящий момент. 
+ar	&rlm;‏‏- لكن الآن ليس الوقت المناسب. | &rlm;‏- أعلم.‏ | 
+da	-Det er ikke just et godt tidspunkt. -Det ved jeg. 
+el	-Δεν είναι και η πιο κατάλληλη στιγμή. -Το ξέρω. 
+en	-Yeah, but now's not exactly a good time. | -I know. | 
+fi	-Nyt ei ole oikein hyvä hetki. -Tiedän. 
+fr	- C'est pas vraiment le moment. - Je sais. 
+he	&rlm;‏‏כן, אבל זה לא הזמן הטוב ביותר. | &rlm;‏-אני יודע.‏ | 
+it	- Sì, ma non è proprio il momento adatto. - Lo so. 
+ko	- 네, 지금 이러면 안 되죠 | - 알아 | 
+nl	Maar dit is geen goed moment. -Weet ik. 
+no	-Ja, men det passer litt dårlig nå. -Jeg vet det. 
+pl	- To trochę kiepska pora. - Wiem. 
+pr-br	-Sim, mas agora não é uma boa hora. -Eu sei. 
+pr	- Sim, mas não é boa altura. - Eu sei. 
+ro	- Da, dar nu e tocmai momentul potrivit. - Știu. 
+sp-eu	- Ya, pero este no es buen momento. - Lo sé. 
+sp	- No es el mejor momento. - Lo sé. 
+sv	-Ja, men det passar inte så bra nu. -Jag vet. 
+th	- ใช่ แต่ไม่ใช่เวลาที่เหมาะเลยนะ | - ผมรู้ | 
+tr	-Evet ama şimdi hiç sırası değil. -Biliyorum. 
+vi	- Vâng, nhưng giờ không đúng lúc. | - Anh biết. | 
+zh-long	-但現在時機不太對吧 -我知道 
+zh-short	-是啊 可现在不行 -我知道 
+ja	今はそれどころじゃないの | 
+

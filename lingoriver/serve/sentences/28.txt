@@ -1,0 +1,42 @@
+ru	ЛОС-АНДЖЕЛЕС, 1994 
+ar	&rlm;‏"(لوس أنجلوس)، 1994"‏ | 
+el	ΛΟΣ ΑΝΤΖΕΛΕΣ, 1994 
+he	&rlm;‏- לוס אנג'לס, 1994 -‏ | 
+ko	“1994년, 로스앤젤레스” | 
+sp	LOS ÁNGELES, 1994 
+th	(ลอสแอนเจลิส ปี 1994) | 
+zh-long	（1994年，洛杉磯） 
+zh-short	（洛杉矶 1994年） 
+ja	ロサンゼルス | １９９４年 | 
+
+es	Aunque creyéramos lo que usted insinúa, que no le importó su familia, 
+no	Selv om vi følger tankegangen om at hun ikke bryr seg om familien sin, 
+fi	Vaikka olisitte oikeassa siinä, | että hän ei välitä perheestään, | 
+pt-br	Mesmo seguindo sua teoria de que ela não se importa com a família, 
+cs	I kdyby se podle vaší teorie vybodla na celou vlastní rodinu, 
+da	Selv hvis vi følger tankegangen, | at hun blæser på familien, | 
+el	Ακόμα κι αν θεωρήσουμε ότι δεν νοιάζεται για την οικογένειά της, 
+es-eu	Aunque sea como dice, que su familia le da igual, 
+fr	Même si elle ne tenait pas à sa famille, comme vous le pensez, 
+he	‫אפילו אם נלך עם התאוריה‬ | ‫שלא אכפת לה מהמשפחה שלה,‬ | 
+hr	Čak i da prihvatim vašu teoriju da je boli dupe za mene i djecu, 
+hu	Még ha feltételeznénk is, amit mond, és a családjával nem törődik, 
+id	Meski kau benar bahwa dia tak memedulikan keluarganya, 
+ja	&lrm;あなたの言うような | &lrm;家族を見捨てる― | 
+ko	&lrm;아내가 가족은 안중에도 없다는 | &lrm;형사님 추론을 따르더라도 | 
+ms	Walaupun jika tuan kata dia tak sayang keluarganya, 
+pt	Mesmo que achemos como o senhor que ela não quer saber da família, 
+ro	Chiar dacă mergem pe ideea că nu îi pasă de familia ei, 
+ru	Даже если допустить, что она наплевала на меня и наших детей, 
+sv	Även om hon nu inte skulle bry sig om sin familj, 
+th	&lrm;ต่อให้เราเห็นด้วยกับคุณว่าเธอไม่สนใจครอบครัว | 
+tr	İddia ettiğiniz gibi beni ve çocukları takmasa bile 
+uk	Навіть якщо подумати, що їй начхати на мене та дітей, 
+vi	&lrm;Cả khi theo lập luận của anh | &lrm;rằng cô ấy không quan tâm đến gia đình, | 
+zh-long	就算我們聽信你的想法 相信她不在乎家人 
+zh-short	就算真像你想的那样 她不把家人放在心上 
+it	Anche se ammettessimo che non le importa di me e dei bambini, 
+en	Even if we follow your train of thought 
+nl	Laten we zoals u aannemen dat ze niets om haar gezin geeft. 
+en	that she doesn't care about her family, 
+

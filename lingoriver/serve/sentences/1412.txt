@@ -1,0 +1,29 @@
+en	I, uh, would love to. | 
+ru	Я бы рад. 
+ar	&rlm;‏أحب ذلك. لكن يجب أن أذهب إلى مكان ما.‏ | 
+da	Det ville jeg gerne. Men jeg skal noget andet. 
+el	Θα το ήθελα πολύ, αλλά έχω να πάω κάπου. 
+fi	Tulisin kyllä, mutta minulla on muuta menoa. 
+fr	Ce serait avec plaisir. Mais j'ai à faire. 
+he	&rlm;‏הייתי שמח. אבל אני צריך ללכת לאנשהו.‏ | 
+it	Mi piacerebbe. Ma devo andare in un posto. 
+nl	Dat zou ik wel willen, maar ik moet ergens heen. 
+no	Skulle gjerne gjort det, men jeg har en avtale. 
+pl	Chętnie, ale nie mogę. 
+pr	Adorava, mas tenho de ir a um sítio. 
+pr-br	Eu adoraria, mas tenho compromisso. 
+ro	Mi-ar plăcea. Dar trebuie să merg undeva. 
+sp-eu	Me encantaría, pero tengo otra cosa. 
+sp	Me encantaría. Pero debo ir a otro lado. 
+sv	Det vore kul, men jag ska nån annanstans. 
+th	ก็อยากไป แต่ต้องไปที่อื่น | 
+tr	Çok isterdim. Başka bir yere gitmem gerekiyor. 
+vi	Tôi muốn lắm. Tôi có việc khác rồi. | 
+zh-long	我很樂意，但我得去個地方 
+zh-short	我很想去 但我有其他地方要去 
+id	Aku mau, tapi aku harus pergi. 
+ko	그러고 싶지만 갈 곳이 있어 | 
+ja	行きたいのはやまやまだが | 用があるんだ | 
+en	-I, uh, have to go somewhere. | -[Courtney] Aw. | 
+ru	Но у меня другие планы. 
+

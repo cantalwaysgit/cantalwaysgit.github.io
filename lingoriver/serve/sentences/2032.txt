@@ -1,0 +1,27 @@
+id	Aku mencintaimu. 
+ja	僕がね | 
+ru	Я люблю тебя. 
+ar	&rlm;‏أنا أحبك.‏ | 
+da	Jeg elsker dig. 
+el	Σ' αγαπάω. 
+en	I love you. | 
+fi	Minä rakastan sinua. 
+fr	Je t'aime. 
+he	&rlm;‏אני אוהב אותך.‏ | 
+it	Ti amo. 
+ko	사랑해 | 
+nl	Ik hou van je. 
+no	Jeg elsker deg. 
+pl	Ja cię kocham. 
+pr-br	Eu amo você. 
+pr	Eu amo-te. 
+ro	Te iubesc. 
+sp-eu	Te quiero. 
+sp	Te amo. 
+sv	Jag älskar dig. 
+th	ผมรักคุณ | 
+tr	Seni seviyorum. 
+vi	Anh yêu em. | 
+zh-long	我愛妳 
+zh-short	我爱你 
+

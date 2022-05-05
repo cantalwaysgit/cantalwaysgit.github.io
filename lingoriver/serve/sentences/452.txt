@@ -1,0 +1,27 @@
+ja	ずっとよくなった | 
+ru	Другое дело. 
+el	Πολύ καλύτερα τώρα. 
+sv	Det var bättre. 
+th	นั่นดีขึ้นเยอะเลย | 
+zh-short	这样好多了 
+ar	&rlm;‏هذا أفضل بكثير.‏ | 
+da	Det er meget bedre. 
+en	Ah, that's much better. | 
+fi	Paljon parempi. 
+fr	Beaucoup mieux. 
+he	&rlm;‏זה הרבה יותר טוב.‏ | 
+it	Molto meglio. 
+ko	훨씬 낫네요 | 
+nl	Dat is veel beter. 
+no	Mye bedre. 
+pl	O wiele lepiej. 
+pr-br	Bem melhor. 
+pr	Muito melhor. 
+ro	E mult mai bine! 
+sp-eu	Mucho mejor. 
+sp	¡Mucho mejor! 
+tr	Bu çok daha iyi. 
+vi	Tốt hơn rồi. | 
+zh-long	好多了 
+id	Itu jauh lebih baik. 
+

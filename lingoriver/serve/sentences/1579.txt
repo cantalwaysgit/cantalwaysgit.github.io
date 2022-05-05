@@ -1,0 +1,29 @@
+id	Sebaiknya kau siapkan bolanya sendiri. 
+en	You know, maybe you should | tee it up for yourself. | 
+ar	&rlm;‏‏- يجب أن تضعيها على الحامل بنفسك. | &rlm;‏- أضعها على الحامل. هنا.‏ | 
+da	-Du skal nok selv tee up. -Tee up. Her. 
+el	-Καλύτερα να το χτυπήσεις μόνη σου. -Θα το χτυπήσω. Ορίστε. 
+fi	-Laita itse tiille. -Selvä. 
+fr	- Pose la balle toi-même. - Je la pose. Voilà. 
+he	&rlm;‏‏אולי כדאי שתכיני את הכדור בעצמך. | &rlm;‏-להכין אותו. הנה.‏ | 
+it	- È meglio se la sistemi da sola. - La sistemo. Ecco. 
+ko	- 직접 공을 올려놔 | - 티 위에 이렇게요 | 
+nl	Je moet hem zelf op de tee leggen. 
+no	-Du bør legge opp ballen selv. -Greit. 
+pl	- Piłkę ustaw sama. - Ustawiam. 
+pr-br	-Ponha na posição. -Pôr na posição. Aqui. 
+pr	- Devias colocar tu a bola. - Colocar a bola. Já está. 
+ro	- Ar fi bine să-ți pui singură mingea. - O pun. Aici? 
+ru	-Установи мяч сама. -Так. Установила. 
+sp	- Debes ponerla en el  tee. - En el  tee.  Así. 
+sp-eu	- Deberías colocarla en el tee. - En el tee. Aquí. 
+sv	-Lägg upp den själv. -Lägga upp den. 
+th	- คุณควรจะตีลูกด้วยตัวเอง | - ทีลูก นี่เลย | 
+tr	-Topu yerine koymalısın. -Koyuyorum. İşte 
+vi	- Cô nên tự đặt bóng lên. | - Đặt bóng lên. Rồi. | 
+zh-long	-妳還是自己放球吧 -放球，好的 
+zh-short	-你应该自己摆球 -摆球 摆好了 
+ja	了解 | 
+en	Tee it up. Here. | 
+id	Siapkan. Ini. 
+

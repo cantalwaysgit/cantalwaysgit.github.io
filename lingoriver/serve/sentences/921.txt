@@ -1,0 +1,27 @@
+id	Ini lagu Courtney. 
+ru	Это песня Кортни. 
+ja	コートニーの歌だ | 
+ar	&rlm;‏هذه أغنية "كورتني".‏ | 
+da	Det er Courtneys sang. 
+el	Το τραγούδι της Κόρτνι. 
+en	This is Courtney's song. | 
+fi	Courtneyn kappale. 
+fr	C'est la chanson de Courtney. 
+he	&rlm;‏זה השיר של קורטני.‏ | 
+it	La canzone di Courtney. 
+ko	코트니 노래야 | 
+nl	Het is Courtneys nummer. 
+no	Det er Courtneys sang. 
+pl	To piosenka Courtney. 
+pr-br	É a música da Courtney. 
+pr	É a canção da Courtney. 
+ro	Ăsta e cântecul lui Courtney. 
+sp	Esta es la canción de Courtney. 
+sp-eu	Es la canción de Courtney. 
+sv	Det är Courtneys låt. 
+th	นั่นเพลงของคอร์ทนี่ย์ | 
+tr	Courtney'nin şarkısı. 
+vi	Bài hát của Courtney. | 
+zh-long	寇妮的歌耶 
+zh-short	是考特尼的歌 
+

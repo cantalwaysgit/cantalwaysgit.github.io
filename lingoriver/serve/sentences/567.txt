@@ -1,0 +1,26 @@
+ar	&rlm;‏‏- مرحباً. | &rlm;‏- مرحباً يا جاري.‏ | 
+da	-Hej. -Hejsa, nabo. 
+el	-Γεια. -Γεια σου, γείτονα. 
+en	-Hi. | -Hey, neighbor. | 
+fi	-Hei. -Hei, naapuri. 
+he	&rlm;‏‏היי. | &rlm;‏-היי, שכן.‏ | 
+it	- Ciao. - Ciao, vicino. 
+no	-Hei. -Hei, nabo. 
+pl	- Cześć. - Cześć, sąsiedzie. 
+pr-br	-Oi. -Oi, vizinho. 
+pr	- Olá. - Olá, vizinho. 
+ro	- Salut! - Bună, vecine! 
+ru	-Привет. -Привет, сосед. 
+sp-eu	- Hola. - Hola, vecino. 
+sp	- Hola. - Hola, vecino. 
+sv	-Hej. -Hej, grannen. 
+th	- หวัดดีครับ | - ว่าไง เพื่อนบ้าน | 
+tr	-Merhaba. -Selam komşu. 
+vi	- Xin chào. | - Chào hàng xóm. | 
+zh-long	-嗨 -嗨，好鄰居 
+zh-short	-嗨 -嘿 邻居 
+ko	- 안녕하세요 | - 안녕하세요, 이웃 양반 | 
+id	- Hai. - Hei, Tetangga. 
+fr	Salut, voisin. 
+ja	お隣さん | 
+

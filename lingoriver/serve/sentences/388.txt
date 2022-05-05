@@ -1,0 +1,51 @@
+ja	本当は自慢話をするのは | 大嫌いなんだよ | 
+id	Maaf. Aku tidak mau menyombongkan diri 
+ru	Прости, не хочу себя хвалить. 
+el	Με συγχωρείς. Δε θέλω να ευλογήσω τα γένια μου. 
+ar	&rlm;‏آسف. لا أريد التبجح‏ | 
+da	Undskyld, det var ikke for at trutte i eget horn, 
+en	I'm sorry, | and I don't wanna toot my own horn | 
+fi	En halua töötätä omaa torveani, 
+fr	Désolé. Je veux pas me vanter, 
+he	&rlm;‏סליחה. אני לא רוצה להעיד על העיסה שלי‏ | 
+it	Scusami. Non voglio darmi delle arie, 
+ko	미안해, 자랑하고 싶진 않아 | 
+no	Beklager. Jeg vil ikke skryte, 
+pl	Zwykle nie lubię się tak chwalić, 
+pr-br	Sinto muito. Não quero ficar me gabando, 
+pr	Desculpa. Não me quero estar a gabar 
+ro	Iartă-mă, nu vreau să mă umflu în pene, 
+sp-eu	No quiero echarme flores, 
+sp	Perdón. No quiero alardear 
+th	โทษที ไม่ได้อยากยกยอตัวเอง | 
+tr	Kusura bakma. Övünmek istemem, 
+vi	Xin lỗi. Tôi không muốn | vừa hát vừa khen hay | 
+zh-long	抱歉，我不想自吹自擂 
+zh-short	抱歉 不是我自吹 
+nl	Sorry. Ik wil niet opscheppen, want zo ben ik niet, maar toch. 
+sv	Ursäkta. Jag menar inte att skryta, för jag är inte sån, men skryt-skryt. 
+id	karena aku tidak suka melakukannya, tapi itu benar. 
+ru	Это не в моем духе, но - та-да! 
+ar	&rlm;‏لأن هذا ليس من شيمي، لكنه صحيح.‏ | 
+da	for det plejer jeg ikke, men trut-trut. 
+en	'cause that's not what I like to do, | but toot-toot. | 
+fi	koska en ole sellainen, mutta tööt tööt. 
+fr	c'est pas mon genre, mais je gère. 
+he	&rlm;‏כי זה לא מה שאני עושה, אבל אני מעיד.‏ | 
+it	non è nel mio stile, però è così. 
+no	for det er ikke det jeg gjør, men det er sant. 
+pl	ale taka jest po prostu prawda. 
+pr-br	pois eu não gosto de fazer isso, mas só uma gabadinha. 
+pr	porque não gosto de fazer isso, mas tem de ser. 
+ro	fiindcă nu-mi place asta, dar puf-puf. 
+sp-eu	porque no soy así, pero me las echaré. 
+sp	porque yo no hago eso, pero bueno. 
+th	เพราะมันไม่ใช่วิสัย แต่เอาสักหน่อย | 
+tr	çünkü övünmekten hoşlanmam, ama doğruya doğru. 
+vi	vì tôi thường không làm thế, | nhưng hay thật. | 
+zh-long	因為那不是我的風格 不過呢，親愛的 
+zh-short	因为我不干这种事 但是 这是真的 
+ko	원래 난 그런 사람 아니니까 | 하지만 자랑해버렸네 | 
+el	Δεν το συνηθίζω, αλλά είναι γεγονός. 
+ja	ヤだヤだ | 
+

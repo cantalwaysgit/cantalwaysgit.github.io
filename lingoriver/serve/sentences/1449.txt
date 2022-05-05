@@ -1,0 +1,52 @@
+ru	Слушай. 
+ar	&rlm;‏حسناً، اسمع.‏ | 
+da	Hør her. 
+el	Κοίτα. 
+en	Okay, look. | 
+fi	Kuulehan. 
+fr	Bon, écoute. 
+he	&rlm;‏בסדר, תראה.‏ | 
+it	Ascolta. 
+ko	생각해 봐 | 
+no	Hør her. 
+pl	Słuchaj. 
+pr-br	Está bem, olhe. 
+pr	Pronto, olha. 
+ro	Uite ce e! 
+sp-eu	Vale, mira. 
+sp	Mira. 
+sv	Hör på mig. 
+th	โอเค ฟังนะ | 
+tr	Pekâlâ, bak. 
+vi	Nghe này. | 
+zh-long	好吧，聽著 
+zh-short	好吧 听着 
+id	Baiklah. Dengar, setidaknya 
+ja	前向きにとらえろ | 人が君の顔に座るのを― | 
+ru	Зато... 
+ar	&rlm;‏الجيد في الأمر هو أن راشداً سيجلس على وجهك‏ | 
+da	Det gode er, at en voksen mand skal sidde på dit ansigt, 
+el	Το καλό είναι ότι ένας ενήλικας άνδρας θα κάτσει πάνω στο πρόσωπό σου 
+en	The good thing is, you're gonna have | a grown man sit on your face | 
+fi	Aikuinen mies istuu naamallasi, 
+fr	Dis-toi que tu auras un gaillard assis sur ta tronche 
+he	&rlm;‏הדבר הטוב הוא שאדם מבוגר יישב לך על הפרצוף‏ | 
+it	Il lato positivo è che avrai un adulto seduto sulla tua faccia 
+ko	좋은 점은, 다 큰 어른이 | 네 얼굴을 깔고 앉는 걸 | 
+nl	Het goede nieuws is dat er een volwassen man op je zit... 
+no	Det fine er at en voksen mann skal sette seg på deg 
+pl	Dorosły facet usiądzie ci na twarzy. 
+pr	A coisa boa é que terás um homem adulto sentado na tua cara 
+pr-br	A coisa boa é que vai ter um adulto sentado na sua cara 
+ro	Partea cea bună e că un om mare o să stea pe fața ta, 
+sp-eu	Lo bueno es que un hombre adulto se te va a sentar en la cara, 
+sp	La cosa es que se te sentará un adulto en la cara, 
+sv	Det positiva är att en vuxen man  sitter på ditt ansikte 
+th	เรื่องดีก็คือ นายจะได้คนโตๆ | นั่งทับบนหน้า | 
+tr	İyi tarafı şu ki, yetişkin bir erkek senin yüzüne oturacak 
+vi	Điều tốt là anh sẽ được | một người trưởng thành ngồi lên mặt | 
+zh-long	往好處想，有個成年男人 會坐在你臉上 
+zh-short	好的方面在于有个成年人坐在你脸上 
+id	ada pria dewasa yang menduduki wajahmu 
+ru	...взрослый мужчина будет сидеть у тебя на лице 
+

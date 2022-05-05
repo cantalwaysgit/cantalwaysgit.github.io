@@ -1,0 +1,57 @@
+ar	&rlm;‏كان والدي دمية. وكذلك والد والدي.‏ | 
+da	Min far var en dukke. Min farfar var en dukke. 
+el	Ο πατέρας μου ήταν μαριονέτα. Το ίδιο και ο παππούς μου. 
+en	My father was a puppet. | My father's father was a puppet. | 
+fi	Isäni oli nukke. Isänisä oli nukke. 
+fr	Mon père. Le père de mon père. 
+he	&rlm;‏אבא שלי היה בובה. אבא של אבא שלי היה בובה.‏ | 
+it	Mio padre era un pupazzo. Il padre di mio padre era un pupazzo. 
+no	Faren min var dukke. Hans far var dukke. 
+pl	Mój ojciec był lalką. Jego ojciec też. 
+pr-br	Meu pai era marionete. O pai do meu pai também. 
+pr	O meu pai era um fantoche. O pai do meu pai era um fantoche. 
+ro	Tata a fost păpușă. Tatăl tatălui meu a fost și el păpușă. 
+sp-eu	Mi padre era una marioneta, el padre de mi padre era una marioneta. 
+sp	Mi papá era un muñeco. El papá de mi papá era un muñeco. 
+sv	Min far var docka. Min farfar var docka. 
+th	พ่อเป็นหุ่น พ่อของพ่อก็เป็นหุ่น | 
+tr	Babam kuklaydı. Babamın babası kuklaydı. 
+vi	Bố tôi là một con rối. | Ông tôi là một con rối. | 
+zh-long	我爸爸是木偶 我爸爸的爸爸也是木偶 
+zh-short	我爸是 我爷爷也是 
+id	Ayahku adalah boneka. Ayahnya ayahku adalah boneka. 
+nl	Mijn vader was een pop. De vader van mijn vader was een pop. 
+ko	우리 아버지도 | 할아버지도 꼭두각시였거든 | 
+ru	Мой отец был куклой. Отец моего отца был куклой. 
+ja	父はパペット | 祖父もパペットさ | 
+
+it	Mi creda, non voglio peggiorare questo conflitto. 
+uk	Повірте, я не хочу загострення конфлікту. 
+da	Jeg ønsker ikke at eskalere konflikten. | 
+el	Πιστέψτε με, δεν θέλω να κλιμακώσω τη διαμάχη. 
+en	Believe me, I don't want to escalate this conflict. 
+es-eu	Créame, no quiero que esto vaya a más. 
+fr	Croyez-moi, je ne veux pas aggraver les choses. 
+he	‫תאמין לי, אני לא רוצה להחמיר את המצב.‬ | 
+hr	Vjerujte mi, ne želim da sukob eskalira. 
+hu	Higgye el, nem akarom fokozni ezt a konfliktust. 
+id	Percayalah, aku tak mau menambah konflik. 
+ja	&lrm;これ以上騒ぎにしたくない | 
+ko	&lrm;정말이지, 갈등을 | &lrm;더 악화시키고 싶지 않습니다 | 
+ms	Percayalah, saya tak nak menambahkan konflik ini. 
+nl	Geloof me, ik wilde niet dat dit zou escaleren. 
+no	Jeg vil ikke eskalere konflikten, tro meg. 
+pt	Acredite, não quero complicar isto ainda mais. 
+pt-br	Não quero tornar essa confusão ainda maior. 
+ro	Crede-mă, nu vreau să pun paie pe foc! 
+ru	Поверь, я не хочу усугублять конфликт. 
+th	&lrm;เชื่อผมเถอะ ผมไม่อยากให้เรื่องบานปลายแล้ว | 
+tr	İnanın, bu tartışma daha da büyüsün istemiyorum. 
+vi	&lrm;Tin tôi đi, tôi không muốn | &lrm;gia tăng mâu thuẫn. | 
+zh-long	相信我，我不想讓這場衝突惡化 
+zh-short	相信我 我不想让矛盾升级 
+es	- No quiero agravar este conflicto. - No tengo nada en contra de su esposa. 
+sv	-Jag vill inte förvärra konflikten. -Jag har inget emot din fru. 
+fi	En halua, että tämä tilanne kärjistyy. | 
+cs	Věřte mi, že ten konflikt nechci dál stupňovat. 
+

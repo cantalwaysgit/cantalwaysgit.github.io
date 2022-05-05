@@ -1,0 +1,27 @@
+ru	-Хорошо? -Нет проблем. 
+ar	&rlm;‏حسناً.‏ | 
+da	Helt i orden. 
+el	Εντάξει. 
+en	You got it. | 
+fi	Selkis. 
+fr	Pas de souci. 
+he	&rlm;‏אין בעיה.‏ | 
+id	Baiklah. Tentu saja. 
+it	D'accordo. 
+ko	그래야죠 | 
+nl	Doe ik. 
+no	Greit. 
+pl	Jasne. 
+pr-br	Pode deixar. 
+pr	Claro. 
+ro	S-a făcut! 
+sp-eu	Hecho. 
+sp	No hay problema. 
+sv	Jag fattar. 
+tr	Tamamdır. 
+vi	Được thôi. | 
+zh-long	沒問題 
+zh-short	没问题 
+ja	いいわ | 
+th	ได้เลย | 
+

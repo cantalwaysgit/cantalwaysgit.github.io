@@ -1,0 +1,27 @@
+id	Sandy, kau lebih tidak masuk akal daripada biasanya. 
+ru	Ты несешь еще больше бреда, чем обычно. 
+en	Sandy, you're making | even less sense than usual. | 
+nl	Je bent nog onbegrijpelijker dan normaal. 
+ar	&rlm;‏‏- أنت أقل منطقية من المعتاد حتى. | &rlm;‏- لا، لست كذلك.‏ | 
+da	-Du giver mindre mening, end du plejer. -Nej. 
+el	-Είσαι πιο ασαφής από ποτέ. -Όχι, δεν είμαι. 
+fi	-Olet tavallistakin sekavampi. -En ole. 
+fr	- Tu dérailles encore plus que d'habitude. - Non. 
+he	&rlm;‏‏אתה נשמע אפילו פחות הגיוני מאשר בדרך כלל. | &rlm;‏-לא, אני לא.‏ | 
+it	- Sei ancora più assurdo del solito. - Non è vero. 
+ko	- 평소보다 더 말이 안 맞아 | - 아닌데 | 
+no	-Du prater enda mer tull enn vanlig. -Nei da. 
+pl	- Gadasz większe bzdury niż zazwyczaj. - Wcale nie. 
+pr-br	-Está fazendo menos sentido que o normal. -Não estou. 
+pr	- Estás a fazer ainda menos sentido. - Não estou nada. 
+ro	- Ești și mai confuz decât de obicei. - Ba nu. 
+sp	- Estás más incoherente que nunca. - No es cierto. 
+sp-eu	- Estás más despistado que de costumbre. - No es verdad. 
+sv	-Du låter mer snurrig än vanligt. -Inte alls. 
+th	- นายพูดไม่รู้เรื่องไปกว่าเดิมอีก | - ไม่ใช่นะ | 
+tr	-Her zamankinden de boş konuşuyorsun. -Hiç de bile. 
+vi	- Anh nói còn lung tung hơn thường lệ. | - Không đâu. | 
+zh-long	-你比平常更少根筋 -才沒有 
+zh-short	-你比平常更不靠谱了 -我才没有 
+ja	いつも以上に変だぞ | 
+

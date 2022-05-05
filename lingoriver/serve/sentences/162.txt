@@ -1,0 +1,59 @@
+id	Aku menyimak setiap katanya. Itu sangat sensasional. 
+nl	Elk woord. Sensationeel. 
+pl	Calutki. Byłeś wspaniały. 
+ru	Каждое слово. Это сенсация! 
+th	ได้ยินทุกคำเลย มันสุดยอด | 
+vi	Tôi nghe từng lời. Thật ấn tượng. | 
+ar	&rlm;‏رأيت كل كلمة فيه. كان رائعاً.‏ | 
+da	Jeg så hvert et ord. Det var fantastisk. 
+el	Κάθε λέξη. Ήταν εκπληκτική. 
+en	I saw every word of it. | It was sensational. | 
+fi	Joka sanan. Sensaatiomaista. 
+fr	Du début à la fin. C'était sensass. 
+he	&rlm;‏ראיתי כל מילה ממנו. זה היה מדהים.‏ | 
+it	Ogni singola parola. Sensazionale. 
+ko	말 한마디 안 놓쳤지 | 대단했어 | 
+no	Jeg så hvert eneste ord. Det var sensasjonelt. 
+pr-br	Ouvi cada palavra. Foi sensacional. 
+pr	Vi cada palavra. Foi sensacional. 
+ro	Am auzit fiecare cuvânt. A fost senzațional! 
+sp-eu	Palabra por palabra. Ha sido sensacional. 
+sp	Vi todo. Fue sensacional. 
+sv	Jag såg alltihop. Det var fantastiskt. 
+tr	Kelimesi kelimesine. Müthişti. 
+zh-long	字字不漏，反應超熱烈 
+zh-short	一点不落 非常棒 
+ja	もちろん全部 見てたさ | 
+
+hr	A Adam to zna. Možda mu je netko prijetio pa je pobjegao? 
+pt-br	e Adam sabe disso? E se alguém o ameaçou e ele fugiu? 
+uk	і Адам це знає? Якщо хтось йому погрожував і тому він утік? 
+ms	dan Adam tahu? Jika ada orang ugut dia dan dia cabut lari? 
+nl	…en Adam dat weet? Dat hij is weggelopen omdat iemand hem bedreigde? 
+zh-long	而且亞當知情呢？ 
+el	κι ο Άνταμ το ξέρει; 
+da	og Adam ved det? | Hvis nogen truede ham, så han stak af? | 
+es-eu	y Adam lo sabe? ¿Y si alguien lo amenazó y por eso huyó? 
+fr	et qu'Adam le savait ? S'il s'était enfui par peur ? 
+he	‫ואדם יודע את זה?‬ | ‫מה אם איימו עליו ולכן הוא ברח?‬ | 
+hu	és Adam tudja? Ha valaki megfenyegette, és ezért szökött el? 
+ko	&lrm;아담이 알았다면? | &lrm;누가 협박해서 도망친 거라면요? | 
+no	og Adam vet det? Om noen truet ham, så han rømte? 
+pt	e o Adam sabe? E se o ameaçaram e ele fugiu por causa disso? 
+th	&lrm;และอดัมก็รู้ล่ะ | &lrm;ถ้ามีใครขู่จนเขาหนีไป | 
+vi	&lrm;và Adam biết? Nếu ai đó | &lrm;đe dọa nó, để nó bỏ chạy? | 
+ja	&lrm;過剰摂取でないと | &lrm;アダムが知ってたら？ | 
+it	Se fosse scappato perché minacciato? 
+id	Bahwa ada yang mengancamnya, jadi dia kabur. 
+es	¿Y si huyó porque alguien lo amenazó? 
+tr	Biri onu tehdit ettiği için de kaçtı. 
+ru	Вдруг ему угрожали и он сбежал? 
+sv	Tänk om Adam har blivit hotad. 
+zh-long	如果是有人威脅他，所以他逃走了？ 
+zh-short	如果是有人威胁他 所以他逃跑了呢？ 
+cs	Někdo mu vyhrožoval a on utekl. 
+fi	Ehkä häntä uhkailtiin, ja hän pakeni. | 
+el	Αν κάποιος τον απείλησε και το έσκασε; 
+en	What if someone threatened him, so he ran away? 
+ro	Dacă a fost amenințat și de-aia a fugit? 
+

@@ -1,0 +1,28 @@
+id	Baik, jangan sebut semua menunya. Aku tidak peduli dagingmu. 
+ja	何を食おうと知ったことか | 
+en	-or corn beef-- | -Don't go over the whole menu. | 
+ar	&rlm;‏‏لا تقل قائمة الطعام بأكملها. | &rlm;‏لا أهتم بلحم البقر المشوي.‏ | 
+da	Gennemgå ikke menukortet. Jeg er ligeglad med roastbeef. 
+el	Μην πεις όλο το μενού. Χέστηκα για το βοδινό σου. 
+fi	Älä käy listaa läpi. Paskat paahtopaistista. 
+fr	Me fais pas le menu. Je m'en fous de ton rôti. 
+he	&rlm;‏אל תעבור על התפריט. לא אכפת לי מצלי בקר.‏ | 
+it	Non declamarmi il menù. Me ne frego del roast beef. 
+nl	Noem het menu niet op. Rosbief boeit me niet. 
+no	Ikke gå gjennom menyen. Jeg driter i roastbiff. 
+pr-br	Não fale o cardápio todo. Não ligo para o rosbife. 
+pr	Não me digas a ementa inteira. Caguei para a carne assada. 
+ro	Nu-mi recita tot meniul! Nu-mi pasă de friptura ta! 
+sp-eu	No repases la carta. Me la suda tu rosbif. 
+sp	No me digas el menú. No me interesa la carne asada. 
+sv	Dra inte menyn. Jag struntar i rostbiffen. 
+th	อย่าร่ายยาวเมนู ฉันไม่สนเนื้ออบ | 
+tr	Menüyü sayıp dökme. Rozbif umurumda değil. 
+vi	Đừng lôi hết thực đơn ra. | Tôi không quan tâm tới món bò nướng. | 
+zh-long	別把菜單念一遍 我沒心情管什麼烤牛肉 
+zh-short	别念叨菜单了 我不在乎什么烤牛肉 
+pl	Nie musisz mi tu recytować menu. Mam gdzieś, co zjesz. 
+ru	Хватит про меню. Мне не до гребаного ростбифа. 
+ko	메뉴 읊지 마 | 로스트 비프 따윈 관심 없어 | 
+en	I don't give a shit about your roast beef. | 
+

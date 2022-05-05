@@ -1,0 +1,27 @@
+id	Buruk sekali. 
+ja	ダメ | 
+ru	Очень плохо. 
+ar	&rlm;‏سيئ جداً.‏ | 
+da	Virkelig dårligt. 
+el	Πολύ κακό. 
+en	Very bad. | 
+fi	Oikein huono. 
+fr	Très nul. 
+he	&rlm;‏רע מאוד.‏ | 
+it	Molto male. 
+ko	아주 엉망이에요 | 
+nl	Heel slecht. 
+no	Veldig dårlig. 
+pl	Bardzo źle. 
+pr-br	Muito ruim. 
+pr	Muito mal. 
+ro	Foarte rău. 
+sp-eu	Muy mal. 
+sp	Muy mal. 
+sv	Mycket dåligt. 
+th	แย่มาก | 
+tr	Çok kötü. 
+vi	Quá tệ. | 
+zh-long	很爛 
+zh-short	不好 
+

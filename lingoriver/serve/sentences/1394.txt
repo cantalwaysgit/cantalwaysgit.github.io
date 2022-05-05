@@ -1,0 +1,50 @@
+ru	-Прекрасно выглядишь! -Спасибо. 
+id	- Kau luar biasa! - Terima kasih. 
+ar	&rlm;‏‏- تبدو رائعاً! | &rlm;‏- شكراً.‏ | 
+da	-Du ser godt ud! -Tak. 
+el	-Φαίνεσαι μια χαρά! -Ευχαριστώ. 
+en	-You look great! | -Thank you. Well, my God. | 
+fr	- T'as l'air en forme ! - Merci. 
+he	&rlm;‏‏אתה נראה נהדר! | &rlm;‏-תודה.‏ | 
+it	- Sei in gran forma! - Grazie. 
+nl	Je ziet er goed uit. 
+pl	Dobrze wyglądasz. 
+pr-br	-Você está demais! -Valeu. 
+pr	- Estás ótimo! - Obrigado. 
+ro	- Arăți grozav! - Mersi. 
+sp-eu	- ¡Estás fantástico! - Gracias. 
+sp	- ¡Te ves bien! - Gracias. 
+sv	-Du ser bra ut. -Tack. 
+th	- คุณดูเยี่ยม | - ขอบคุณ | 
+tr	-Harika görünüyorsun! -Sağ ol. 
+vi	- Anh tuyệt lắm! | - Cảm ơn cô. | 
+zh-long	-你氣色真好！ -謝謝 
+zh-short	-你看起来好极了！ -谢谢 
+fi	-Näytät hyvältä. -Kiitos. Minäkö? Sinäpäs. 
+ko	- 멋지네요! | - 고마워 | 
+ja	まあね　君もステキだ | 
+ko	- 내가 멋지다니? 널 봐 | - 멋지신데요! | 
+ar	&rlm;‏‏- أنا؟ انظري إلى نفسك. | &rlm;‏- تبدو رائعاً!‏ | 
+da	-Mig? Se lige dig. -Du ser godt ud! 
+el	-Εγώ; Εσύ να δεις. -Μια χαρά είσαι. 
+en	-I look good? Look at you. | -You look so good! | 
+fr	- Et toi, alors ? - Vraiment ! 
+he	&rlm;‏‏אני? תראי אותך. | &rlm;‏-אתה נראה טוב!‏ | 
+it	- Io? E tu? - Ti vedo bene! 
+nl	Ik? Kijk jou. -Je ziet er goed uit. 
+no	Gjør jeg? Se på deg, da! 
+pl	Ja? Spójrz w lustro. 
+pr-br	-Eu estou bem? Veja você. -Está incrível! 
+pr	- Eu? Olha para ti. - Estás bem! 
+ro	- Eu? Uite la tine! - Arăți așa bine! 
+sp-eu	- ¿Yo? Mírate. - ¡Estás muy bien! 
+sp	- ¿Yo? Mírate. - ¡Tú te ves bien! 
+sv	-Jag? Se på dig. -Du ser bra ut. 
+th	- ผมดูดีเหรอ ดูคุณสิ | - คุณดูดี | 
+tr	-Asıl sen. -Harika görünüyorsun! 
+vi	- Tôi? Nhìn cô xem. | - Anh tuyệt mà! | 
+zh-long	-我氣色好？看看妳 -真的！ 
+zh-short	-我吗？看你 -你看起来好美！ 
+ru	Я? На себя посмотри. 
+id	- Aku? Lihat dirimu. - Kau hebat! 
+

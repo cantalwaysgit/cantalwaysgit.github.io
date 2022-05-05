@@ -1,0 +1,27 @@
+ar	&rlm;‏منتشي؟ لا أدخن الماريجوانا. بربك.‏ | 
+da	Skæv? Jeg ryger ikke pot. 
+el	Μαστουρωμένος; Έλα τώρα, δεν κάνω τέτοια. 
+en	Stoned? I don't do pot. Come on. | 
+fi	Enhän minä polta ruohoa. 
+fr	Défoncé ? Je fume pas de beuh. 
+he	&rlm;‏מסומם? אני לא עושה גראס. בחייך.‏ | 
+id	Teler? Aku tidak mengisap ganja. Yang benar saja. 
+it	Fatto? Non fumo erba. Dai. 
+ko	약이라니? | 난 대마초 안 피워, 왜 이래 | 
+nl	Stoned? Ik rook geen wiet. 
+pl	Nie palę trawy. Co ty. 
+pr-br	Chapado? Não fumo maconha. Qual é? 
+pr	Pedrado? Ora, eu não fumo disso. 
+ro	Drogat? Nu fumez. Fii serios! 
+sp	¿Drogado? Yo no me drogo. Vamos. 
+sp-eu	¿Colocado? No fumo maría. Vamos. 
+sv	Stenad? Jag röker inte gräs. 
+tr	Kıyak mı? Ben ot içmem ki. Yapma. 
+vi	Phê thuốc? Tôi không dùng thuốc. Thôi nào. | 
+zh-long	嗑嗨？我不抽大麻的，拜託 
+zh-short	嗑药？我不碰那东西 拜托 
+ja	まさか　クスリはやらない | 
+no	Stein? Jeg røyker ikke pot. Gi deg. 
+ru	Что? Я не курю травку. 
+th	เมายาเหรอ ผมไม่ใช้ยา ไม่เอาน่า | 
+

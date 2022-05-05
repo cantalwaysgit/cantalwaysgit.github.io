@@ -24,6 +24,34 @@ zh-long	-兩位準備好了嗎？ -幹嘛？
 zh-short	-嘿 你可以开始了吗？ -怎么了？ 
 ko	- 준비됐어요? | - 뭐라고요? | 
 ja	ケヴィン　ローン | 
-de	&lrm;如果他出現，請告訴我們 | 
-en	-You ready for this? | -Yeah, what's that? | 
+
+es	- ¿Llamaste a su madrina? - Sí. 
+id	- Kau menelepon ibu baptisnya? - Ya. 
+ja	&lrm;名付け親に電話は？ | 
+pt-br	- Já ligou para a madrinha dele? - Sim. 
+uk	-Ти дзвонила його хрещеній? -Так. 
+cs	- Kmotřenku jsi zkoušela? - Jo. 
+da	-Har du ringet til hans gudmor? | -Ja. | 
+el	-Πήρες τη νονά του; -Ναι. 
+en	-Did you call his godmother? -Yes. 
+es-eu	- ¿Has llamado a su madrina? - Sí. 
+fi	Soititko hänen kummitädilleen? | -Kyllä. | 
+fr	- Tu as appelé sa marraine ? - Oui. 
+he	‫התקשרת לסנדקית שלו?‬ | ‫-כן.‬ | 
+hr	-Jesi li zvala njegovu kumu? -Jesam. 
+hu	- A keresztanyját hívtad már? - Igen. 
+it	- Hai chiamato la sua madrina? - Sì. 
+ko	&lrm;- 대모한테는 전화했어? | &lrm;- 응 | 
+ms	- Awak telefon ibu pembaptisannya? - Ya. 
+nl	Heb je zijn peetmoeder gebeld? -Ja. 
+no	-Ringte du gudmoren hans? -Ja. 
+pt	- Ligaste à madrinha dele? - Sim. 
+ro	- Pe nașa lui ai sunat-o? - Da. 
+ru	- Звонила его крестной? - Да. 
+sv	-Har du ringt hans gudmor? -Ja. 
+th	&lrm;- โทรหาแม่ทูนหัวของเขาหรือยัง | &lrm;- โทรแล้ว | 
+tr	-Vaftiz annesini aradın mı? -Evet. 
+vi	&lrm;- Gọi cho mẹ đỡ đầu của nó chưa? | &lrm;- Rồi. | 
+zh-long	-妳有打給他的乾媽嗎？ -有 
+zh-short	-你给他的教母打过了吗？ -打了 
 

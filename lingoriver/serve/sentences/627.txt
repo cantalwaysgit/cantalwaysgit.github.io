@@ -1,0 +1,27 @@
+ja	デモなんてない | 
+id	Aku tidak punya rekaman demo. 
+ru	У меня нет демо. 
+ar	&rlm;‏ليست لدي عينة.‏ | 
+da	Jeg har ingen demo. 
+el	Δεν έχω ντέμο. 
+en	I don't have a demo. | 
+fi	Ei minulla ole demoa. 
+fr	J'en ai pas. 
+he	&rlm;‏אין לי דמו.‏ | 
+it	Ma io non ho un demo. 
+ko	데모가 없는데요 | 
+nl	Ik heb geen demo. 
+no	Jeg har ikke en demo. 
+pl	Nie mam dema. 
+pr-br	Eu não tenho uma demo. 
+pr	Eu não tenho nenhuma demo. 
+ro	N-am așa ceva. 
+sp-eu	No tengo una demo. 
+sp	No tengo demo. 
+sv	Jag har ingen demo. 
+th	ฉันไม่มีเทปเดโม | 
+tr	Demo parçam yok ki. 
+vi	Tôi không có bản demo. | 
+zh-long	我沒有試唱帶 
+zh-short	我没有样本唱片 
+

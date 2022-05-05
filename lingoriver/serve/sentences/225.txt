@@ -1,0 +1,58 @@
+ar	&rlm;‏‏- قلته للكلاب. | &rlm;‏- قبل نحو دقيقة.‏ | 
+da	-Det sagde du til hundene. -For lidt siden. 
+el	-Το είπες στα σκυλιά. -Πριν λίγο. 
+en	-You said it to the dogs. | -Like a minute ago. | 
+fi	-Sanoit niin koirille. -Juuri äsken. 
+fr	- Tu l'as dit aux chiens. - Y a deux minutes. 
+he	&rlm;‏‏אמרת את זה לכלבים. | &rlm;‏-כאילו לפני דקה.‏ | 
+id	- Kau bilang ke anjing-anjing itu. - Beberapa saat lalu. 
+it	- L'hai detto ai cani. - Un attimo fa. 
+ko	- 개들한테 그러셨잖아요 | - 1분 전에요 | 
+nl	Wel tegen de honden. -Net nog. 
+no	-Du sa det til hundene. -Nå nettopp. 
+pl	- Powiedziałeś to psom. - Minutę temu. 
+pr-br	-Disse aos cachorros. -Disse há um minuto. 
+pr	- Disseste aos cães. - Há um minuto. 
+ro	- Le-ai spus așa câinilor. - Acum un minut. 
+ru	-Говорили. Собакам. -Только что. 
+sp-eu	- Se lo has dicho a los perros. - Hace un minuto. 
+sp	- Se lo dijiste a los perros. - Hace como un minuto. 
+sv	-Du sa det till hundarna. -För en minut sen. 
+th	- คุณพูดกับพวกหมา | - เมื่อกี้นี้เอง | 
+tr	-Köpeklere söylüyordun. -Bir dakika önce. 
+vi	- Chú nói với lũ chó. | - Vừa nãy. | 
+zh-long	-你對狗說的 -剛剛才說 
+zh-short	-你刚才对狗狗们说的 -就刚刚 
+ja	犬に言ってた | 
+
+fi	Etsimme poikaamme. | 
+da	Vi leder efter vores søn. | Vi tror, han forsvandt fra området her. | 
+en	We're looking for our son. We think he went missing in this area. 
+es-eu	Buscamos a nuestro hijo. Desapareció por esta zona. 
+fr	On cherche notre fils. On pense qu'il a disparu par ici. 
+he	‫אנחנו מחפשים את הבן שלנו שנעדר.‬ | ‫הוא הסתובב באזור הזה.‬ | 
+hr	Tražimo svog sina. Mislimo da je nestao u okolici. 
+hu	A fiunkat keressük. Szerintünk errefelé tűnt el. 
+id	Kami mencari putra kami. Kami pikir dia hilang di area ini. 
+it	Cerchiamo nostro figlio. Pensiamo sia scomparso in questa zona. 
+ko	&lrm;아들을 찾고 있어요 | &lrm;이 근처에서 실종된 것 같아요 | 
+nl	We zoeken onze zoon. We denken dat hij hier vermist is geraakt. 
+no	Vi leter etter sønnen vår. Vi tror han forsvant i dette området. 
+pt	Andamos à procura do nosso filho. Ele desapareceu por aqui. 
+ro	Îl căutăm pe fiul nostru. Credem că a dispărut în zona asta. 
+ru	Мы ищем нашего сына. Судя по всему, он пропал в этом районе. 
+sv	Vi letar efter vår son. Han försvann förmodligen här i krokarna. 
+th	&lrm;เรามาตามหาลูกชายค่ะ | &lrm;คิดว่าเขาหายตัวไปแถวนี้ | 
+tr	Oğlumuzu arıyoruz. Bu bölgede kaybolduğunu düşünüyoruz. 
+uk	Ми шукаємо сина. Ми вважаємо, що він зник у цьому районі. 
+vi	&lrm;Chúng tôi tìm con trai. | &lrm;Chúng tôi nghĩ nó mất tích ở khu vực này. | 
+zh-long	我們在找兒子 我們認為他在這一帶失蹤了 
+zh-short	我们在找儿子 我们认为他在这一带失踪了 
+el	Ψάχνουμε τον γιο μας. Νομίζουμε ότι εξαφανίστηκε στην περιοχή. 
+es	Buscamos a nuestro hijo. Creemos que desapareció por aquí. 
+ms	Kami mencari anak kami. Kami rasa dia hilang di kawasan ini. 
+pt-br	Estamos procurando nosso filho. Achamos que ele desapareceu nesta área. 
+cs	Hledáme našeho syna. Myslíme si, že se ztratil někde tady. 
+ja	&lrm;息子を捜してます | &lrm;この辺りで行方不明に | 
+fi	Uskomme, että hän katosi täällä päin. | 
+

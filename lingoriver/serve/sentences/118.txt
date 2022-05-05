@@ -1,0 +1,79 @@
+ja	２回目は | 
+ru	Во второй раз. 
+id	- Pada kali kedua. - Ya, tapi kau tahu itu. 
+pl	Za drugim razem. 
+pr-br	Da segunda vez. 
+ar	&rlm;‏المرة الثانية.‏ | 
+da	Anden gang. 
+el	Τη δεύτερη φορά. 
+en	The second time. | 
+fi	Toisella kertaa. 
+fr	La deuxième fois. 
+he	&rlm;‏בפעם השנייה.‏ | 
+it	La seconda volta. 
+ko	두 번째에요 | 
+pr	Da segunda vez. 
+ro	A doua oară. 
+sp-eu	La segunda vez. 
+sp	La segunda vez. 
+th	ครั้งที่สอง | 
+tr	İkinci seferde. 
+vi	Lần thứ hai. | 
+zh-long	第二次 
+zh-short	第二次是 
+nl	De tweede keer. -Ja, maar je wist het. 
+no	-Den andre gangen. -Ja, men du visste det. 
+sv	-Andra gången. -Ja, men du visste det. 
+ru	Да, но вы это знали. 
+ja	覚えてくれた | 
+pl	Ale wiedział pan. 
+pr-br	Sim, mas você sabia. 
+fi	Tiesit kuitenkin. 
+el	Το ήξερες, όμως. 
+ar	&rlm;‏أجل، لكنك عرفته.‏ | 
+da	Ja, men du vidste det godt. 
+en	Yeah, but you knew it. | 
+fr	Oui, mais vous le saviez. 
+he	&rlm;‏כן, אבל ידעת את זה.‏ | 
+it	Sì, ma lo sapevi. 
+ko	하지만 알고 계셨잖아요 | 
+pr	Sim, mas tu sabias. 
+ro	Da, dar știai. 
+sp-eu	Sí, pero lo sabías. 
+sp	Sí, pero lo sabías. 
+th	ใช่ แต่คุณรู้อยู่แล้ว | 
+tr	Evet ama biliyordun. 
+vi	Ừ, nhưng anh biết mà. | 
+zh-long	對，但你本來就知道的 
+zh-short	是的 可你早就知道 
+
+pt-br	Anda. 
+id	Ayo. 
+es	Bájate. 
+hu	Menj már! 
+ru	Пошла. 
+uk	Уперед. 
+zh-short	快去 
+hr	Briši. 
+da	Smut. | 
+en	Go. 
+es-eu	Ve. 
+fr	Allez. 
+he	‫לכי.‬ | 
+it	Vai. 
+ja	&lrm;行け | 
+ko	&lrm;가라고 | 
+ms	Pergi. 
+nl	Lopen. 
+no	Ut. 
+pt	Põe-te a andar. 
+ro	Marș! 
+sv	Gå nu. 
+th	&lrm;ไป | 
+tr	Defol. 
+vi	&lrm;Đi đi. | 
+zh-long	去吧 
+el	Δίνε του. 
+fi	Ala mennä. | 
+cs	Mazej. 
+

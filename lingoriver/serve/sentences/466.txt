@@ -1,0 +1,28 @@
+ar	&rlm;‏‏- ألم تتصل به إذاً؟ | &rlm;‏- لا، بل اتصلت به.‏ | 
+da	-Så du har ikke ringet til ham? -Ham har jeg ringet til. 
+el	-Άρα δεν του τηλεφώνησες; -Όχι, του τηλεφώνησα. 
+en	-So you didn't call him? | -No, I called him. | 
+fi	-Etkö ole vielä soittanut? -Olen. 
+fr	- Donc, tu l'as pas appelé ? - Si. 
+he	&rlm;‏‏אז לא התקשרת אליו? | &rlm;‏-לא, התקשרתי אליו.‏ | 
+id	- Jadi, kau tidak menghubunginya? - Aku menghubunginya. 
+it	- Non l'hai chiamato? - No, l'ho chiamato. 
+ko	- 전화 안 했다는 거야? | - 아니, 전화했어 | 
+nl	Dus je hebt hem niet gebeld? -Ik heb gebeld. 
+pl	- Czyli tego nie zrobiłeś? - Dzwoniłem. 
+pr-br	-Então não ligou para ele? -Não, eu liguei. 
+pr	- Então, não lhe ligaste? - Não, eu liguei-lhe. 
+ro	- Deci nu l-ai sunat? - Nu, l-am sunat. 
+sp	- Entonces, ¿no lo llamaste? - Sí lo llamé. 
+sp-eu	- ¿No le has llamado entonces? - Sí, le he llamado. 
+sv	-Så du ringde honom inte? -Jo, det gjorde jag. 
+th	- ไม่ได้โทรไปเหรอ | - โทรแล้ว | 
+tr	-Demek aramadın. -Hayır, aradım. 
+vi	- Vậy là anh chưa gọi? | - Không, tôi gọi rồi. | 
+zh-long	-所以你還沒打？ -我打了 
+zh-short	-就是说你没打给他？ -不 我打了 
+ja	まだなのか？ | 
+no	-Så du har ikke ringt ham? -Jo da. 
+ru	-Так ты ему не звонил? -Звонил. 
+ja	もうかけた | 
+

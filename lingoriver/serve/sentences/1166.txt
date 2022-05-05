@@ -1,0 +1,27 @@
+ar	&rlm;‏‏من تريدها أن تنافس إذاً؟ | &rlm;‏أعني إنه أمر مربح للطرفين برأيي.‏ | 
+da	Hvem skal hun ellers konkurrere med? Det er jo en win-win. For mig. 
+el	Ποιον θες να ανταγωνιστεί; Μόνο κέρδος θα υπάρξει. Για μένα. 
+en	Who else do you want her competing with? | I mean it's a win-win. To me. | 
+fi	Ketä vastaan sitten? Pisteet kotiin joka tapauksessa. 
+fr	Tu préfères que ce soit un autre ? C'est gagnant-gagnant, je trouve. 
+he	&rlm;‏‏עם מי עוד אתה רוצה שהיא תתחרה? | &rlm;‏כלומר זה ניצחון בכל מקרה. בשבילי.‏ | 
+it	A chi altri dovrebbe fare concorrenza? Così vincerebbe sicuramente. 
+nl	Met wie wil je anders concurreren? Je kunt alleen maar winnen. 
+pl	A z kim innym? Na pewno przez to nie straci. 
+pr-br	Com quem mais ela vai competir? Na minha opinião, é vitória na certa. 
+pr	Com quem mais iria ela competir? É impossível perder. 
+ro	Cu cine altcineva să mai concureze? N-are decât de câștigat. Părerea mea. 
+sp	¿Con quién más va a competir? Es una ventaja para todos. Opino. 
+sp-eu	¿Tú con quién quieres que compita? Así todos ganan. En mi opinión. 
+sv	Vem ska hon annars konkurrera med? Alla vinner på det, tycker jag. 
+th	แล้วจะให้เธอแข่งกับใครล่ะ | คือมันมีแต่ได้กับได้ ผมว่า | 
+tr	Başka kimle rekabet edecek? Her halükârda kazanan o oluyor bence. 
+vi	Anh muốn cô ấy cạnh tranh với ai nữa? | Lợi cả đôi đường mà. Tôi thấy thế. | 
+zh-long	不然你要她跟誰打對臺？ 對我來說，這是雙贏 
+zh-short	那你想让她跟谁竞争？ 在我看来 这是双赢 
+ko	그럼 누구랑 맞붙겠어? | 어차피 나로서는 윈윈이야 | 
+id	Memangnya dengan siapa lagi? Itu menguntungkan. Bagiku. 
+ru	А с кем ей конкурировать? Так она точно выиграет. 
+no	Hvem andre vil du hun skal konkurrere med? Det er vinn-vinn. Mener jeg. 
+ja	他人と競うより | ２曲とも売れたらいい | 
+

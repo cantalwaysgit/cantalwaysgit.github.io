@@ -1,0 +1,26 @@
+en	Oh, yeah. Hold on. Just meat. | 
+ru	Минутку. Только мясо, да. 
+ar	&rlm;‏أجل. انتظري. لحم وحسب.‏ | 
+da	Ja. Vent lidt. Kun kød. 
+el	Μισό λεπτό. Ναι, μόνο κρέας. 
+fi	Hetki. Kyllä, pelkkää lihaa. 
+he	&rlm;‏כן. חכי רגע. רק בשר.‏ | 
+it	Sì. Scusa un secondo. Solo carne. 
+no	Ja. Vent litt. Bare kjøtt. 
+pl	Tak. Poczekaj. Na boczku. 
+pr-br	Sim. Espere. Só carne. 
+pr	Sim. Espera. Só carne. 
+ro	Da. Stai așa! Doar carne. 
+sp-eu	Sí. Espera. Solo carne. 
+sp	Sí. Espera. Solo carne. 
+sv	Ja. Vänta lite. Bara kött. 
+th	ใช่ เดี๋ยวก่อน แค่เนื้อ | 
+tr	Evet. Bir dakika. Sadece et. 
+vi	Phải. Khoan. Chỉ thịt thôi. | 
+zh-long	對，等等，只要肉 
+zh-short	等等 只吃肉 
+ko	네, 잠깐만요, 고기만 | 
+fr	Une seconde. Oui, c'est tout. 
+ja	そう　肉だけ | 
+id	Tunggu dulu. Daging saja. 
+

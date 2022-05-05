@@ -1,0 +1,27 @@
+ja	水曜は誕生日だね | 
+id	Selamat ulang tahun di hari Rabu. 
+ru	-С наступающим днем рождения. -Откуда ты знаешь? 
+ar	&rlm;‏عيد ميلاد سعيداً يوم الأربعاء.‏ | 
+da	Tillykke med fødselsdagen på onsdag. 
+el	Χρόνια πολλά για την Τετάρτη. 
+en	Happy birthday on Wednesday. | 
+fi	Hyvää syntymäpäivää keskiviikolle. 
+fr	Joyeux anniversaire, mercredi. 
+he	&rlm;‏יום הולדת שמח ביום רביעי.‏ | 
+it	Buon compleanno per mercoledì. 
+nl	Vast gefeliciteerd voor woensdag. 
+no	Gratulerer med dagen på onsdag. 
+pl	Wszystkiego najlepszego w środę. 
+pr-br	E feliz aniversário na quarta-feira. 
+pr	Feliz aniversário na quarta. 
+ro	La mulți ani pentru miercuri! 
+sp-eu	Feliz cumpleaños el miércoles. 
+sp	Feliz cumpleaños el miércoles. 
+sv	Ha den äran på onsdag. 
+th	สุขสันต์วันเกิดสำหรับวันพุธนะ | 
+tr	Çarşamba günkü doğum günün kutlu olsun. 
+vi	Chúc mừng sinh nhật vào thứ Tư nhé. | 
+zh-long	週三生日快樂 
+zh-short	周三生日快乐 
+ko	수요일 생일 미리 축하해요 | 
+

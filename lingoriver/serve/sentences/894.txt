@@ -1,0 +1,26 @@
+ar	&rlm;‏هذا الحديث أفضل عندما أتحدث لوحدي.‏ | 
+da	Samtalen var bedre, da jeg snakkede. 
+el	Η συζήτηση πάει καλύτερα όταν μιλάω μόνο εγώ. 
+en	This conversation goes a lot better | when it's just me talking. | 
+fi	Tämä keskustelu oli parempi, kun puhuin yksin. 
+fr	C'est mieux quand tu parles pas. 
+he	&rlm;‏‏השיחה הזו הייתה הרבה יותר טובה | &rlm;‏כשרק אני דיברתי.‏ | 
+it	La conversazione è migliore se parlo solo io. 
+ko	나 혼자만 말할 때 | 대화가 더 잘 되는 것 같아 | 
+nl	Dit gesprek was beter toen ik praatte. 
+pl	Lepiej, żebym tylko ja mówił. 
+pr-br	Esta conversa é melhor quando só eu falo. 
+pr	Esta conversa corre muito melhor quando só falo eu. 
+ro	Conversația asta era mai bună când vorbeam numai eu. 
+sp	Esta conversación es mejor cuando solo hablo yo. 
+sp-eu	La conversación era mejor cuando solo hablaba yo. 
+sv	Samtalet var bättre när bara jag pratade. 
+tr	Sadece ben konuşurken daha güzel sohbet ediyoruz. 
+vi	Cuộc nói chuyện này sẽ thú vị hơn | nếu chỉ mình tôi nói. | 
+zh-long	這番對話讓我來講比較好 
+zh-short	这次谈话只有我一个人讲时效果更好 
+ja	会話にならない | 
+id	Obrolan ini lebih baik saat aku berbicara. 
+ru	Лучше давай я один буду разговаривать. 
+th	การสนทนานี้ดีกว่าตอนที่แค่ฉันคุย | 
+

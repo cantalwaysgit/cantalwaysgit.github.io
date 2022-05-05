@@ -1,0 +1,82 @@
+sv	Vacker är inget man lär sig. 
+ja	美は作れない | 
+id	Itu tak bisa dipelajari. 
+ru	Этому не научишь. 
+ar	&rlm;‏لا يمكن للمرء تعليم الجمال.‏ | 
+da	Det kan man ikke lære. 
+el	Η ομορφιά δε διδάσκεται. 
+en	You can't teach beautiful. | 
+fi	Kauneutta ei voi opettaa. 
+fr	Et ça, ça ne s'apprend pas. 
+he	&rlm;‏אי אפשר ללמד יופי.‏ | 
+it	La bellezza non si insegna. 
+ko	아름다움은 가르칠 수 없죠 | 
+no	Det kan ikke læres bort. 
+pl	Tego nauczyć się nie da. 
+pr-br	Beleza não se ensina. 
+pr	Isso não se ensina. 
+ro	Frumusețea nu se învață. 
+sp-eu	Eso no se enseña. 
+sp	No se aprende a ser hermosa. 
+th	ความสวยสอนกันไม่ได้ | 
+tr	Güzellik öğretilmez. 
+vi	Sắc đẹp thì không học được. | 
+zh-long	漂亮沒法教 
+zh-short	美丽可不是教出来的 
+nl	Mooi zijn kun je niet leren. Anders zou ik nu in de klas zitten. 
+ar	&rlm;‏لو أمكنك ذلك، لكنت التحقت بصفك الآن.‏ | 
+da	Hvis man kunne, ville jeg gå på det hold. 
+el	Αν γινόταν, τώρα θα ήμουν στην τάξη. 
+fi	Jos voisi, istuisin tunnilla. 
+fr	Sinon, je serais en cours en ce moment même. 
+he	&rlm;‏אם היה אפשר, הייתי בכיתה ברגע זה.‏ | 
+id	Kalau bisa, aku sudah mempelajarinya. Percayalah. 
+it	Altrimenti sarei già al corso. 
+ko	배울 수만 있다면 | 지금 전 수강 중일 거예요 | 
+no	Da ville jeg vært på skolen nå. 
+pr-br	Se pudesse ser ensinada, eu estaria fazendo aula. 
+pr	Se ensinasse, eu estaria na aula. 
+ro	Dacă se învăța, luam lecții chiar acum. 
+sp-eu	Si se enseñara, yo estaría estudiando ahora mismo. 
+sp	Si se pudiera, tomaría esa clase. 
+th	ถ้าสอนกันได้ ผมคงไปเรียนแล้วตอนนี้ | 
+tr	Öyle olsa şu anda derste olurdum. 
+vi	Nếu có thì tôi sẽ đi học ngay, tin tôi đi. | 
+zh-long	可以的話我早開班授課了 
+zh-short	要是你能教 我现在立刻就报名 
+ru	Иначе я бы уже сел за парту. 
+pl	Gdyby się dało, właśnie byłbym na zajęciach. 
+sv	Om man kunde det,  skulle jag ta lektioner nu. 
+en	If you could, I'd be in class right now, | believe me. [laughs] | 
+ja	だから僕はこんなまま | 
+
+hu	„Meg kell találnunk az elveszett hercegedet.” 
+cs	Hledáš spanilého prince. Musíme ho najít. 
+da	Vi må finde din forsvundne prins. | 
+el	Πρέπει να βρούμε τον χαμένο σου πρίγκιπα. 
+en	"We have to find your lost Prince Charming." 
+es	Debemos hallar a tu príncipe azul perdido. 
+es-eu	Hay que encontrar a tu príncipe perdido. 
+fi	Meidän on löydettävä kadonnut prinssisi. | 
+fr	"On doit retrouver ton prince charmant. 
+he	‫עלינו למצוא את נסיך החלומות האבוד שלך.‬ | 
+hr	Moramo pronaći tvog izgubljenog princa. 
+id	Kita harus menemukan Pangeran Tampanmu yang hilang. 
+it	Dobbiamo trovare il tuo principe perduto. 
+ja	&lrm;“君の王子様を捜そう” | 
+ko	&lrm;'네 잃어버린 왕자님을 찾아야 해' | 
+ms	Kita perlu cari Putera Idaman yang hilang. 
+nl	We moeten je verloren prins vinden. 
+no	Vi må finne din fortapte prins. 
+pt-br	Você perdeu seu príncipe. Temos que encontrá-lo. 
+pt	Perdeste o Príncipe Encantado. Temos de o achar. 
+ro	Trebuie să îl găsim pe Făt-Frumos. 
+sv	Vi måste hitta din försvunne drömprins. 
+th	&lrm;"เราต้องตามหาเจ้าชายรูปงาม | &lrm;ที่หายไปของเจ้า" | 
+tr	"Prensini kaybettin, bulmamız lazım. 
+uk	Ми знайдемо твого чарівного принца. 
+vi	&lrm;Ta phải tìm | &lrm;Hoàng tử Bạch Mã đã mất của cô". | 
+zh-long	我們得找到妳失蹤的白馬王子 
+zh-short	“我们必须找到你走失的白马王子” 
+ru	Надо найти твоего принца-потеряшку. 
+

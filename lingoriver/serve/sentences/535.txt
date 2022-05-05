@@ -1,0 +1,27 @@
+id	Bagaimana adikmu? Dia kuliah di Penn State? 
+ar	&rlm;‏‏كيف حال أختك؟ | &rlm;‏هل دخلت كلية ولاية "بنسلفانيا"؟‏ | 
+da	Hvordan har din søster det? Kom hun ind på Penn State? 
+el	Πώς είναι η αδελφή σου; Κατάφερε να μπει στο Πεν Στέιτ; 
+en	How's your sister? | Did she get into Penn State? | 
+fi	Mitä siskollesi kuuluu? Pääsikö hän yliopistoon? 
+fr	Comment va ta sœur ? Elle est entrée à la fac ? 
+he	&rlm;‏‏מה שלום אחותך? | &rlm;‏היא התקבלה לאוניברסיטת פנסילבניה?‏ | 
+it	Come sta tua sorella? È andata alla Penn State? 
+ko	동생은 어때? 펜실베이니아 | 주립대학교에 입학했어? | 
+nl	Hoe is het met je zus? Ging ze naar Penn State? 
+no	Og søsteren din? Kom hun inn på Penn State? 
+pl	Co u siostry? Dostała się na Penn State? 
+pr-br	Como está a sua irmã? Ela entrou na Universidade da Pensilvânia? 
+pr	Como está a tua irmã? Chegou a entrar na Penn State? 
+ro	Ce mai face sora ta? A fost admisă la Penn State? 
+ru	Как твоя сестра? Поступила в колледж? 
+sp	¿Cómo está tu hermana? ¿Entró a Penn State? 
+sp-eu	¿Qué tal está tu hermana? ¿Entró en la universidad de Pensilvania? 
+sv	Hur mår din syster? Kom hon in på Penn State? 
+th	น้องสาวคุณล่ะ เข้าเพนน์สเตตได้ไหม | 
+tr	Kız kardeşin nasıl? Penn State'e girdi mi? 
+vi	Em gái cậu thế nào? | Cô ấy vào trường Penn State rồi à? | 
+zh-long	你妹好嗎？ 有如願進賓州大學嗎？ 
+zh-short	你妹妹好吗？她进宾州大学了吗？ 
+ja	妹さんは | ペンシルベニア州立大に？ | 
+

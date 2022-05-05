@@ -1,0 +1,27 @@
+ar	&rlm;‏ما الذي يعنيه هذا حتى؟ كيف أكتشف نفسي؟‏ | 
+da	Hvad betyder det overhovedet? Hvordan opdager jeg mig selv? 
+el	Τι σημαίνει αυτό; Πώς θα ανακαλύψω τον εαυτό μου; 
+en	What does that even mean? | How do I discover myself? | 
+fi	Mitä se edes tarkoittaa? Miten löydän itse itseni? 
+fr	Ça veut rien dire. Comment je peux me dénicher ? 
+he	&rlm;‏מה זה בכלל אומר? איך אני אגלה את עצמי?‏ | 
+id	Apa maksudnya? Bagaimana bisa aku menemukan diriku sendiri? 
+it	Ma che vuol dire? Come faccio a scoprirmi da solo? 
+ko	그게 무슨 뜻이야? | 자신을 어떻게 발굴해? | 
+nl	Wat bedoel je? Hoe kan ik mezelf ontdekken? 
+pl	Co to w ogóle znaczy? Jak mam odkryć sam siebie? 
+pr-br	O que isso significa? Como vou me descobrir? 
+pr	O que significa isso? Como é que eu me descubro? 
+ro	Ce mai înseamnă și asta? Cum să mă descopăr singur? 
+sp-eu	¿Eso qué coño significa? ¿Cómo me descubro solo? 
+sp	¿Qué significa eso? ¿Cómo voy a descubrirme solo? 
+sv	Vad betyder det? Hur upptäcker jag mig själv? 
+th	แล้วนั่นมันหมายความว่าอะไร | ฉันจะค้นพบตัวเองได้ยังไง | 
+tr	Ne demek bu şimdi? Kendimi nasıl keşfedecekmişim? 
+vi	Nghĩa là sao? | Tôi khám phá bản thân thế nào? | 
+zh-long	什麼鬼話？我要怎麼發掘自己？ 
+zh-short	什么意思？我自己怎么红起来？ 
+ja	“自分で発掘する”って | 何だ？ | 
+no	Hva betyr det? Hvordan kan jeg oppdage meg selv? 
+ru	Что это значит? Как я себя открою? 
+

@@ -1,0 +1,27 @@
+fi	Lauantaina Malibussa. 
+id	Sabtu ini di Malibu. 
+ru	В субботу в Малибу. 
+th	วันเสาร์นี้ ที่มาลิบู | 
+zh-short	星期六 在马里布 
+ko	토요일에 말리부에서요 | 
+pl	W sobotę w Malibu. 
+ar	&rlm;‏يوم السبت في "ماليبو".‏ | 
+da	På lørdag i Malibu. 
+el	Το Σάββατο, στο Μαλιμπού. 
+en	Saturday, in Malibu. | 
+fr	Samedi, à Malibu. 
+he	&rlm;‏ביום שבת, במליבו.‏ | 
+it	Sabato, a Malibu. 
+nl	Zaterdag, in Malibu. 
+pr-br	Sábado, em Malibu. 
+pr	No sábado, em Malibu. 
+ro	Sâmbătă, în Malibu. 
+sp	El sábado, en Malibú. 
+sp-eu	El sábado, en Malibú. 
+sv	På lördag, i Malibu. 
+tr	Cumartesi Malibu'da. 
+vi	Thứ Bảy, ở Malibu. | 
+zh-long	週六，在馬里布 
+ja	今度の土曜にマリブでね | 名はエリック･ラモンソフ | 
+no	På lørdag, i Malibu. 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏لا يمكنني أن أقدم لكل منهم ما يستحقه‏ | 
+da	Jeg kan ikke give dem, hvad jeg mener, de fortjener hver især, 
+el	Δεν μπορώ να τους δώσω ό,τι πιστεύω ότι αξίζει ο καθένας τους, 
+en	I can't give them what I believe | each and every one of them deserves | 
+fi	En voi antaa heille, mitä kukin heistä ansaitsee, 
+fr	Je peux pas leur offrir ce qu'ils méritent 
+he	&rlm;‏‏אני לא יכול לתת להם מה שאני מאמין | &rlm;‏שמגיע לכל אחד מהם‏ | 
+it	Non potrei dar loro ciò che secondo me si meritano 
+nl	Ik kan ze niet geven wat ik vind dat ze verdienen... 
+no	Jeg kan ikke gi dem det hver og en av dem fortjener 
+pl	Nie mogę poświęcać im wystarczająco dużo czasu, 
+pr-br	Não posso dar a eles o que acredito que cada um mereça 
+pr	Não lhes posso dar aquilo que acredito que eles merecem 
+ro	Nu le pot oferi ceea ce cred că merită fiecare 
+sp-eu	No puedo darles lo que creo que se merece cada uno 
+sp	No puedo darles lo que creo que se merecen 
+sv	Jag kan inte ge dem det jag tror att var och en av dem behöver 
+th	ผมไม่สามารถให้สิ่งที่คิดว่า | พวกเขาทุกคนสมควรได้รับ | 
+tr	Senin gündelik işlerinle uğraşırken 
+vi	Tôi không thể cho họ | những gì tôi tin là xứng đáng với họ | 
+zh-long	我無法給他們應得的照顧 
+zh-short	要是我只围着你转 
+ko	그 복잡한 네 일거수일투족을 | 신경 쓰다 보면 | 
+id	Aku tak bisa memberikan apa yang menurutku pantas mereka dapatkan... 
+ru	Я не могу дать им то, чего они заслуживают, если... 
+ja	彼らの面倒を見たいのに | 手が回らなくなってる | 
+

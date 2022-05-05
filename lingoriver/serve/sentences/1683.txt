@@ -1,0 +1,27 @@
+id	Kau ingin aku melakukan apa? 
+ja	どうしてほしい？ | 
+ru	А чего бы ты хотел? 
+ar	&rlm;‏ما الذي تريدني أن أفعله؟‏ | 
+da	Hvad skal jeg gøre? 
+el	Εσύ τι θέλεις να κάνω; 
+en	What do you want me to do? | 
+fi	Mitä haluat minun tekevän? 
+fr	Tu veux que je fasse quoi ? 
+he	&rlm;‏מה אתה רוצה שאעשה?‏ | 
+it	Cosa vuoi che faccia? 
+nl	Wat wil je dat ik doe? 
+pr-br	O que quer que eu faça? 
+pr	O que queres que eu faça? 
+ro	Ce vrei tu să fac? 
+sp-eu	¿Qué quieres que haga? 
+sp	¿Qué quieres que haga? 
+sv	Vad ska jag göra? 
+th	คุณอยากให้ฉันทำอะไร | 
+tr	Ne yapmamı istiyorsun? 
+vi	Anh muốn tôi làm gì? | 
+zh-long	你要我怎麼做？ 
+zh-short	你想让我怎么做？ 
+no	Hva vil du jeg skal gjøre? 
+pl	Co chcesz, żebym zrobiła? 
+ko	내가 뭘 하면 좋겠어요? | 
+

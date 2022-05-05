@@ -1,0 +1,27 @@
+ar	&rlm;‏شكراً، كما أظن؟‏ | 
+da	Tak, tror jeg nok. 
+el	Ευχαριστώ, νομίζω; 
+en	Wow. Thanks, I think? | 
+fi	Kiitos. Kai. 
+fr	Merci ? 
+he	&rlm;‏תודה, אני חושבת... | 
+id	Terima kasih, kurasa? 
+it	Grazie... Credo. 
+ko	고마워요, 맞나? | 
+nl	Bedankt, denk ik. 
+pl	Dzięki. Chyba. 
+pr-br	Obrigada, acho? 
+pr	Obrigada, acho eu. 
+ro	Mersi, cred? 
+ru	Спасибо... что ли. 
+sp-eu	Gracias, creo. 
+sp	Gracias, creo. 
+sv	Tack, tror jag? 
+th	ขอบคุณ คิดว่านะ | 
+tr	Sağ ol yani. 
+vi	Cảm ơn, tôi nghĩ vậy? | 
+zh-long	應該說謝謝，對吧？ 
+zh-short	我该说谢谢？ 
+no	-Takk, tror jeg. -Skjønner hun ikke hvor bra det er? 
+ja	それは褒め言葉？ | 
+

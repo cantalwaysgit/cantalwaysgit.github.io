@@ -1,0 +1,26 @@
+ru	Это еще неизвестно. Минутку. 
+ja	分からないだろ | 
+ar	&rlm;‏لست متأكداً من ذلك. انتظر.‏ | 
+da	Det ved du ikke. Et øjeblik. 
+el	Δεν το ξέρεις αυτό. Μισό λεπτό. 
+en	You don't know that. Hang on, please. | 
+fi	Ei sitä tiedä. Hetki vain. 
+fr	T'en sais rien. Une minute. 
+he	&rlm;‏אתה לא יודע את זה. חכה בסבלנות.‏ | 
+it	Non puoi saperlo. Un attimo. 
+no	Det kan du ikke vite. 
+pl	Nie wiesz tego. Chwila. 
+pr-br	Não sabe disso. Espere. 
+pr	Não sabes. Espere. 
+ro	N-ai de unde să știi. O clipă, te rog. 
+sp	Eso no lo sabes. Espera. 
+sp-eu	No lo sabes. Espera. 
+sv	Det vet du inte. Vänta lite. 
+th	เรื่องนั้นนายไม่รู้ เดี๋ยวก่อน | 
+tr	Bunu bilemezsin. Bir dakika lütfen. 
+vi	Anh không biết được. Chờ chút. | 
+zh-long	你又知道了，麻煩等一下 
+zh-short	这可不一定 稍等 
+id	Kau tidak tahu. Tunggu dulu. 
+ko	그건 모르는 거야, 잠깐만요 | 
+

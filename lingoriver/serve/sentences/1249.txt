@@ -1,0 +1,28 @@
+ar	&rlm;‏ماذا إذاً؟ لا تريد أن نعمل معاً بعد الآن؟‏ | 
+da	Hvad så? Vil du ikke arbejde sammen længere? 
+el	Δηλαδή, θέλεις να πάψουμε να είμαστε συνεργάτες; 
+en	So what? You don't want | to work together anymore? | 
+fr	Donc, tu veux plus qu'on travaille ensemble ? 
+he	&rlm;‏אז מה? אתה לא רוצה לעבוד יותר יחד?‏ | 
+it	Stai dicendo che non vuoi più lavorare con me? 
+pr	O quê? Não queres trabalhar mais comigo? 
+sp-eu	¿Entonces? ¿No quieres que sigamos trabajando juntos? 
+sp	¿Qué? ¿No quieres que sigamos trabajando juntos? 
+ru	И что? 
+fi	Etkö halua enää tehdä yhteistyötä? 
+nl	Wil je niet meer samenwerken? 
+no	Så du vil ikke at vi skal jobbe sammen mer? 
+pl	Nie chcesz już ze mną pracować? 
+pr-br	Então não quer mais trabalhar comigo? 
+ro	Ce-mi spui? Nu vrei să mai lucrăm împreună? 
+sv	Vill du inte att vi ska samarbeta längre? 
+th	งั้นอะไร คุณไม่อยาก | ร่วมงานกันอีกแล้วเหรอ | 
+tr	Ne yani? Artık birlikte çalışmak istemiyor musun? 
+vi	Vậy thì sao? Anh không muốn | ta làm việc chung nữa à? | 
+zh-long	所以呢？你不想跟我合作了？ 
+zh-short	所以呢？你不想跟我合作下去了吗？ 
+id	Lalu? Kau tidak mau bekerja sama lagi? 
+ko	그래서요? 같이 일 못 한다는 | 말씀이세요? | 
+ja	もう一緒に | やらないと言うの？ | 
+ru	Ты больше не хочешь со мной работать? 
+

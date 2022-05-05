@@ -1,0 +1,47 @@
+id	Bagaimana keadaanmu? Tidak ada yang menanyakan kabarmu. 
+ja	君は大丈夫か？ | さぞ つらいだろう | 
+ar	&rlm;‏كيف حالك؟ لا أحد يسأل كيف حالك أبداً.‏ | 
+da	Hvordan har du det? Ingen spørger til dig. 
+el	Εσύ πώς είσαι; Κανείς δε ρωτάει για σένα. 
+en	How are you doing? | No one ever asks how you're doing. | 
+fr	Comment tu vas ? On te demande jamais. 
+he	&rlm;‏מה שלומך? אף אחד לא שואל אף פעם מה שלומך.‏ | 
+it	Tu come stai? A te non lo chiedono mai. 
+ko	어떻게 지내세요? | 아무도 당신 안부는 묻지 않죠 | 
+pl	A ty? O ciebie nigdy nikt nie pyta. 
+pr-br	Como você está? Ninguém nunca pergunta para você. 
+pr	Como estás? Nunca te perguntam como estás. 
+ro	Tu cum faci față? Nu te întreabă nimeni asta. 
+sp	¿Cómo estás tú? Nadie te pregunta eso. 
+sp-eu	¿Qué tal estás tú? Nunca te preguntan cómo estás tú. 
+th	แล้วคุณล่ะ | ไม่มีใครถามว่าคุณเป็นยังไง | 
+tr	Sen nasılsın? Kimse sana nasıl olduğunu sormuyor. 
+vi	Chị thế nào? Không ai hỏi thăm chị cả. | 
+zh-long	妳還好嗎？都沒人問妳好不好 
+zh-short	你好吗？从没人这么问你 
+fi	Mitä itsellesi kuuluu? Kukaan ei kysy sitä. Miten jakselet? 
+nl	Hoe is het met jou? Dat vraagt nooit iemand. Hoe voel je je? 
+no	Hvordan går det med deg? Ingen spør om det. 
+ru	А ты как? Тебя никто не спрашивает. Как ты себя чувствуешь? 
+sv	Hur mår du? Ingen frågar hur du mår. Hur känner du dig? 
+ar	&rlm;‏كيف حالك؟‏ | 
+da	Har du det godt? 
+el	Πώς νιώθεις; 
+en	How you feeling? | 
+fr	Tu tiens le coup ? 
+he	&rlm;‏איך את מרגישה?‏ | 
+it	Come ti senti? 
+ko	기분이 어때요? | 
+pl	Jak się czujesz? 
+pr-br	Como está se sentindo? 
+pr	Como te sentes? 
+ro	Cum te simți? 
+sp	¿Cómo te sientes? 
+sp-eu	¿Cómo te sientes? 
+th	คุณรู้สึกยังไง | 
+tr	Ne hissediyorsun? 
+vi	Chị cảm thấy thế nào? | 
+zh-long	妳感覺怎麼樣？ 
+zh-short	你感觉如何？ 
+id	Bagaimana keadaanmu? 
+

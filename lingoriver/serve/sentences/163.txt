@@ -1,0 +1,57 @@
+ar	&rlm;‏رأيتك تدخل متأخراً!‏ | 
+da	Jeg så, du kom for sent! 
+el	Σε είδα να έρχεσαι αργά! 
+en	I saw you come in late! | 
+fi	Näin, että tulit myöhässä. 
+fr	Je t'ai vu arriver en retard ! 
+he	&rlm;‏ראיתי שהגעת מאוחר!‏ | 
+id	Tadi aku melihatmu terlambat! 
+it	Sei arrivato in ritardo! 
+ko	늦게 들어오는 거 봤는데! | 
+no	Jeg så deg komme sent! 
+pl	Spóźniłeś się! 
+pr-br	Vi que chegou atrasado! 
+pr	Eu vi-te chegar tarde! 
+ro	Eu te-am văzut întârziind! 
+ru	Ты же опоздал! 
+sp-eu	¡Te he visto llegar tarde! 
+sp	Te vi llegar tarde. 
+sv	Jag såg att du kom sent. 
+th	ฉันเห็นนายเข้ามาสาย | 
+tr	Geç geldiğini gördüm. 
+vi	Tôi thấy anh đến muộn! | 
+zh-long	我看到你姍姍來遲 
+zh-short	我看到你来晚了！ 
+nl	Ik zag dat je te laat binnenkwam. -Nee, ik was er de hele tijd. 
+ja	遅れて来た | 
+
+hr	Molila bih te da provjeriš je li Igorovo tijelo bilo na tome mjestu. 
+ms	Saya nak awak periksa sama ada itu mayat Igor di tempat itu. 
+es	Quiero que compruebes si el cuerpo de Igor estaba en ese lugar. 
+no	Jeg vil du skal sjekke om Igors lik var der. 
+uk	Перевір, чи тіло Ігоря справді було там. 
+da	Jeg vil gerne tjekke, | om Igors lig lå på det sted. | 
+el	Θα ήθελα να ελέγξεις αν ήταν εκεί ή όχι το πτώμα του Ίγκορ. 
+en	I'd like you to check whether Igor's body was actually in that spot. 
+es-eu	Quiero que examines dónde encontraron a Igor. 
+fi	Haluaisin tarkastaa, | oliko Igorin ruumis juuri siinä kohtaa. | 
+fr	J'aimerais que tu vérifies si le corps d'Igor était à cet endroit. 
+he	‫אני רוצה שתבדוק אם הגופה של איגור היתה שם.‬ | 
+hu	Szeretném, ha megvizsgálnád, hogy Igor holtteste ott volt-e. 
+id	Aku ingin kau memeriksa apa jasad Igor benar ada di sana. 
+it	Vorrei che controllassi se il corpo di Igor era in quel punto. 
+ja	&lrm;本当に遺体が | &lrm;あの場所にあったか調べて | 
+ko	&lrm;시신이 정말 그 자리에 | &lrm;있었는지 확인해 주면 좋겠어요 | 
+nl	Ik wil dat je checkt of Igors lichaam op die plek lag. 
+pt-br	Poderia checar se o corpo do Igor estava no mesmo lugar? 
+pt	Quero que verifiques se o corpo do Igor esteve naquele sítio. 
+ro	Vreau să verifici dacă trupul lui Igor a fost în locul ăla. 
+ru	Ты можешь проверить, было ли тело Игоря на том месте? 
+sv	Jag vill att du kollar upp om Igor påträffades där. 
+th	&lrm;ฉันอยากให้คุณตรวจสอบว่า | &lrm;ศพอิกอร์อยู่ตรงนั้นจริงมั้ย | 
+tr	Igor'un cesedi o noktada mıymış, öğrenmeni istiyorum. 
+vi	&lrm;Tôi muốn anh kiểm tra xem | &lrm;thi thể của Igor có ở chỗ đó không. | 
+zh-long	我想請你確認 伊格爾的屍體是否真的在那裡 
+zh-short	我想请你核实一下 当时伊戈尔的尸体是否在那个地方 
+cs	Nemohl bys prosím ověřit, jestli to tělo na tom místě fakt leželo? 
+

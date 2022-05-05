@@ -1,0 +1,27 @@
+id	Siapa ini? 
+ja	誰だ？ | 
+ru	Кто это? 
+ko	누구시죠? | 
+ar	&rlm;‏من المتحدث؟‏ | 
+da	Hvem er det? 
+el	Ποιος είναι; 
+en	[Sandy] Who is this? | 
+fi	Kuka siellä? 
+fr	Qui est-ce ? 
+he	&rlm;‏מי זה?‏ | 
+it	Chi parla? 
+nl	Met wie spreek ik? 
+no	Hvem er det? 
+pl	Kto mówi? 
+pr-br	Quem é? 
+pr	Quem fala? 
+ro	Cine ești? 
+sp-eu	¿Quién es? 
+sp	¿Quién habla? 
+sv	Vem är det? 
+th	นี่ใคร | 
+tr	Kimsiniz? 
+vi	Ai thế? | 
+zh-long	你哪位？ 
+zh-short	是哪位？ 
+

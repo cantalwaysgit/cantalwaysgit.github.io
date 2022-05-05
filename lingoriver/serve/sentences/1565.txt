@@ -1,0 +1,27 @@
+id	Sebaiknya pemanasan dulu. Baiklah. 
+ru	Всегда стоит размяться. Так. 
+ar	&rlm;‏من الجيد دوماً التحمية قليلاً. حسناً.‏ | 
+da	Det er altid godt at varme lidt op. 
+el	Καλό είναι να προθερμαίνεσαι λίγο. 
+en	It's always good to warm up a little bit. | Ow! Okay. | 
+fi	Aina kannattaa verrytellä vähän. 
+fr	Il faut toujours s'échauffer. 
+he	&rlm;‏תמיד טוב לערוך חימום קצר. בסדר.‏ | 
+it	Bisogna sempre scaldarsi un po'. Bene. 
+ko	약간 몸을 푸는 게 좋아 | 이런 | 
+nl	Opwarmen is altijd goed. 
+no	Det er alltid bra å varme opp. 
+pl	Na początku dobrze jest się rozgrzać. 
+pr-br	É sempre bom aquecer um pouco antes. Está bem. 
+pr	É sempre bom aquecer um pouco. Pronto. 
+ro	E mereu bine să faci puțină încălzire. Bine. 
+sp-eu	Siempre está bien calentar un poco. Muy bien. 
+sp	Siempre es bueno calentar un poco antes. De acuerdo. 
+sv	Det är alltid bra med uppvärmning. 
+th	มันดีเสมอที่จะอุ่นเครื่องหน่อยก่อน | โอเค | 
+tr	Önce biraz ısınmak her zaman işe yarar. Tamam. 
+vi	Nên khởi động một chút. Được rồi. | 
+zh-long	暖身運動有益無害…好吧 
+zh-short	要先热热身 好吧 
+ja	まずは肩ならしを… | 
+

@@ -1,0 +1,27 @@
+id	Ada mesin perekam lain? Ada di dalam  audio mixer ? 
+ar	&rlm;‏‏هل التسجيل في جهاز آخر لديك؟ | &rlm;‏أهو في اللوحة؟‏ | 
+da	Har du det liggende et andet sted? 
+el	Έχεις κάποια άλλη ταινία; Είναι στην κονσόλα; 
+en	Is it another deck you have? | Is it in the board? | 
+fi	Tallentuiko se miksauspöytään? 
+fr	T'as une autre platine ? C'est autre part ? 
+he	&rlm;‏יש לך עוד קלטת? זה נמצא בלוח?‏ | 
+it	Hai un'altra console? Magari è rimasta nel mixer? 
+ja	別の機器で録れてるのか？ | 
+ko	녹음 덱이 또 있어? | 안에 있나? | 
+nl	Een ander deck? Zit het hierin? 
+no	Har du et annet opptak? 
+pl	Gdzie jest piosenka? W jakiejś innej konsoli? 
+pr-br	Você tem outro aparelho? Está no painel? 
+pr	Está noutro sítio? Está na mesa? 
+ro	Mai ai vreo bandă? E în pupitru? 
+sp	¿Está en otra grabadora? ¿Está en la consola? 
+sp-eu	¿Tienes otra grabadora? ¿Está en el panel? 
+sv	Har du nåt annat band? Finns det i mixerbordet? 
+th	มีเทปอีกอันไหม อยู่ในบอร์ดหรือเปล่า | 
+tr	Başka setin var mı? Dolapta mı? 
+vi	Nó có ở trong mâm khác không? | Có trong bảng này không? | 
+zh-long	有錄在其他裝置上嗎？ 還是在控制板裡？ 
+zh-short	你这还有其他录音机吗？ 在操控台上吗？ 
+ru	У тебя есть другой магнитофон? В столе? 
+

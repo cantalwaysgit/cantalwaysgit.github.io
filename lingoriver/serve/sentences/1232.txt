@@ -1,0 +1,27 @@
+sv	Tack för att du skrämde iväg tvättbjörnen. 
+ja	アライグマ退治 ありがとう | 
+id	Terima kasih telah menakuti penguntit itu. 
+ar	&rlm;‏شكراً على إخافة الراكون المتربص.‏ | 
+da	Tak, fordi du skræmte vaskebjørnen væk. 
+el	Σ' ευχαριστώ που τρόμαξες το ρακούν-εισβολέα. 
+en	Thanks for scaring the stalker raccoon. | 
+fi	Kiitos pesukarhun hätyyttämisestä. 
+fr	Merci d'avoir fait fuir le raton-laveur. 
+he	&rlm;‏תודה שהפחדת את הדביבון המטריד.‏ | 
+it	Grazie per aver cacciato il procione maniaco. 
+nl	Bedankt dat je die wasbeer verjoeg. 
+pl	Dzięki za przegnanie szopa. 
+pr-br	Obrigada por espantar o guaxinim. 
+pr	Obrigada por afugentares o guaxinim perseguidor. 
+ro	Îți mulțumesc că ai speriat ratonul hărțuitor. 
+sp-eu	Gracias por asustar al mapache acosador. 
+sp	Gracias por asustar al mapache acosador. 
+th	ขอบคุณที่มาไล่แร็กคูนไป | 
+tr	Takipçi rakunu korkuttuğun için sağ ol. 
+vi	Cảm ơn đã dọa con gấu mèo Mỹ rình mò. | 
+zh-long	謝謝你嚇走跟屁蟲浣熊 
+zh-short	谢谢你把浣熊赶跑了 
+ru	Спасибо, что спугнул енота-маньяка. 
+no	-Takk for at du fjernet vaskebjørnen. -Du trenger ikke takke. Bare hyggelig. 
+ko	스토커 너구리를 | 쫓아주셔서 고마워요 | 
+

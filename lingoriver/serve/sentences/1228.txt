@@ -1,0 +1,28 @@
+ar	&rlm;‏أنا منهك. سأذهب.‏ | 
+da	Jeg er dødtræt. Jeg vil sige godnat. 
+el	Είμαι εξαντλημένος. Θα φύγω. 
+en	Well, I'm beat to shit. | I'm gonna call it. | 
+fi	Olen aivan naatti. Lähden nukkumaan. 
+fr	Je suis claqué. Je vais y aller. 
+he	&rlm;‏אני גמור. אני הולך.‏ | 
+it	Bene, sono a pezzi. Io vi lascio. 
+ko	전 너무 피곤해서 | 이만 가볼게요 | 
+nl	Ik ben bekaf. Ik ga naar bed. 
+no	Jeg er utslitt. Jeg tar kvelden. 
+pl	Padam z nóg. Idę spać. 
+pr	Bem, estou exausto. Por hoje já chega. 
+pr-br	Estou exausto. Vou nessa. 
+ro	Eu sunt extenuat. O să mă retrag. 
+sp	Estoy muy cansado. Me iré. 
+sp-eu	Bueno, estoy destrozado. Se acabó lo que se daba. 
+sv	Jag är dödstrött. Jag ska dra mig. 
+th	ผมเหนื่อยจัง ต้องขอเลิกแค่นี้ละ | 
+tr	Çok yorgunum. Ben gidip yatayım. 
+vi	Tôi mệt rồi. Tôi về đây. | 
+zh-long	我累了，今天先這樣吧 
+zh-short	我好累 今天就到这吧 
+ru	Ладно. 
+id	Aku sangat lelah. Aku mau beristirahat. 
+ja	さてと | そろそろ切り上げよう | 
+ru	Я устал. Пойду спать. 
+

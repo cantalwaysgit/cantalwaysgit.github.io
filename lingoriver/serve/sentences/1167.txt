@@ -1,0 +1,51 @@
+id	Aku paham maksudmu, Sandy. 
+ja	新曲のアイデアならあるわ | でも明日はダメ | 
+ru	Я тебя понимаю. 
+ar	&rlm;‏أفهم ما تعنيه يا "ساندي".‏ | 
+da	Jeg forstår, Sandy. 
+el	Καταλαβαίνω τι εννοείς. 
+en	I know what you mean, Sandy. | 
+fi	Ymmärrän kyllä. 
+fr	Je vois bien. 
+he	&rlm;‏אני מבינה אותך, סנדי.‏ | 
+it	So cosa intendi. 
+ko	무슨 말씀이신지는 알아요 | 
+no	Jeg vet hva du mener. 
+pl	Rozumiem cię. 
+pr-br	Entendo o que quer dizer. 
+pr	Eu compreendo. 
+ro	Știu ce vrei să spui. 
+sp	Entiendo lo que dices. 
+sp-eu	Yo te entiendo. 
+sv	Jag vet vad du menar. 
+th	ผมรู้ว่าคุณหมายถึงอะไร | 
+tr	Seni anlıyorum. 
+vi	Tôi hiểu ý anh. | 
+zh-long	我懂你的意思，山迪 
+zh-short	我明白你的意思 
+nl	Ik snap wat je bedoelt. Ik heb veel ideeën, maar ik kan morgen niet. 
+ru	У меня куча идей, но завтра я не могу. 
+ar	&rlm;‏لدي أفكار كثيرة، لكن لا أستطيع غداً.‏ | 
+da	Jeg har mange idéer, men jeg kan ikke i morgen. 
+el	Έχω πολλές νέες ιδέες, αλλά δεν μπορώ αύριο. 
+en	I have lots of ideas, | but I can't tomorrow. | 
+fi	Minulla on paljon ideoita, mutta en pääse huomenna. 
+fr	J'ai un tas d'idées, mais demain, je peux pas. 
+he	&rlm;‏יש לי הרבה רעיונות, אבל אני לא יכולה מחר.‏ | 
+id	Aku punya banyak ide, tapi tidak bisa besok. 
+it	Ho un sacco di idee, ma domani non posso. 
+ko	저도 아이디어는 많지만 | 내일은 안 돼요 | 
+no	Jeg har mange ideer, men jeg kan ikke i morgen. 
+pl	Mam wiele pomysłów, ale jutro nie mogę. 
+pr-br	Tenho muitas ideias, mas amanhã não posso. 
+pr	Tenho montes de ideias, mas amanhã não posso. 
+ro	Am o mulțime de idei, dar nu pot mâine. 
+sp-eu	Tengo un montón de ideas, pero mañana no puedo. 
+sp	Tengo muchas ideas, pero mañana no puedo. 
+sv	Jag har många idéer, men jag kan inte imorgon. 
+th	ฉันมีความคิดเยอะแยะ | แต่พรุ่งนี้ไม่ว่าง | 
+tr	Birçok fikrim var, ama yarın olmaz. 
+vi	Tôi có nhiều ý tưởng, | nhưng ngày mai thì không được. | 
+zh-long	我有好多想法，但明天沒辦法 
+zh-short	我有很多想法 可明天不行 
+

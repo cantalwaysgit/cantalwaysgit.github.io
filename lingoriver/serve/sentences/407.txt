@@ -1,0 +1,27 @@
+ar	&rlm;‏ومرري المايكروفون. أنزلي المايكروفون.‏ | 
+da	Og skift hånd. Ned med mikrofonen. 
+el	Δώσε το μικρόφωνο. Δώσε το μικρόφωνο. Κάτω το μικρόφωνο. Κάτω το μικρόφωνο. 
+en	And pass the mic. Pass the mic. | Down the mic. Down the mic. | 
+fi	Heitä mikkiä. Mikki alas. 
+fr	On change de main. En bas. 
+he	&rlm;‏ותעבירו את המיקרופון. מיקרופון למטה.‏ | 
+id	Pindahkan mikrofonnya. Turunkan mikrofonnya. 
+it	Passa il microfono. Giù il microfono. 
+ko	마이크 던져줘 | 마이크 아래로 | 
+nl	Geef de microfoon. De microfoon omlaag. 
+no	Og send mikrofonen. Ned med mikrofonen. 
+pl	Z ręki do ręki. A teraz w dół. 
+pr-br	Troque o microfone de mão. Abaixe o microfone. 
+pr	Passa o microfone. Baixa o microfone. 
+ro	Și... Pasează microfonul. Jos cu microfonul. 
+ru	Переложили. И вниз. 
+sp-eu	Y pasa el micro. Pasa el micro. Abajo el micro. 
+sp	Y pasa el micrófono. Pásalo. Abajo el micrófono. 
+sv	Och flytta micken. Ner med micken. 
+th	ส่งต่อไมค์ ส่งต่อไมค์ | ไมค์ลง ไมค์ลง | 
+tr	Mikrofon öteki ele. Mikrofon aşağıya. 
+vi	Chuyển tay cầm mic đi. Bỏ mic xuống. | 
+zh-long	麥克風左右… 麥克風上下… 
+zh-short	两手交替拿麦克风 放低麦克风 
+ja	マイクを左右にパス | 手を下に | 
+

@@ -1,0 +1,27 @@
+ru	Ну, все время от времени напиваются. 
+ar	&rlm;‏يثمل الجميع بين الحين والآخر.‏ | 
+da	Alle bliver fulde engang imellem. 
+el	Όλοι μεθούν ενίοτε. 
+en	Hey, everybody gets zonked | once in a while. | 
+fi	Jokainen meistä vetää joskus räkäkännit. 
+fr	T'es pas la première à te prendre une cuite. 
+he	&rlm;‏היי, כל אחד משתכר מדי פעם.‏ | 
+it	Tutti ogni tanto hanno bisogno di una bella sbornia. 
+no	Alle blir fulle av og til. 
+pl	Każdy od czasu do czasu lubi się uchlać. 
+pr-br	Ei, todos enchem a cara de vez em quando. 
+pr	Todos bebemos uns copos de vez em quando. 
+ro	Toată lumea se mai face praf din când în când. 
+sp-eu	Todo el mundo se pone ciego de vez en cuando. 
+sp	Todos nos emborrachamos alguna vez. 
+sv	Alla blir stupfulla ibland. 
+th	เฮ่ นานๆ ทีทุกคนก็ทำตัวเหลวไหลได้ | 
+tr	Herkes ara sıra sarhoş olur. 
+vi	Ai cũng có lúc say mà. | 
+zh-long	每個人都有醉倒的時候 
+zh-short	嘿 谁都会有喝醉的时候 
+ko	누구나 가끔은 술에 취해 | 
+nl	Iedereen wordt weleens dronken. De vraag is waarom we het doen. 
+ja	酔うことは誰だってあるが | なぜあんなに飲んだ？ | 
+id	Semua orang pernah mabuk. 
+

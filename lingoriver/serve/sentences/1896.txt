@@ -1,0 +1,25 @@
+id	Tidak akan berjalan lancar, Nak. 
+ar	&rlm;‏لن ينجح الأمر يا طفلة.‏ | 
+da	Det går ikke. 
+el	Δε θα πιάσει αυτό, μικρή. 
+en	That ain't gonna work, kid. | 
+fi	Ei siitä mitään tule. 
+fr	Ça marchera pas. 
+he	&rlm;‏זה לא יעבוד, ילדה.‏ | 
+it	Non credo che possa funzionare. 
+ko	그건 잘 안 될 것 같은데 | 
+no	Det kommer ikke til å fungere. 
+pl	Nic z tego nie będzie. 
+pr-br	Isso não vai dar certo, garota. 
+pr	Isso não vai resultar. 
+ro	N-o să aibă succes, puștoaico. 
+ru	Вряд ли это сработает. 
+sp	Eso no va a funcionar, señorita. 
+sp-eu	Eso no va a funcionar. 
+sv	Det kommer inte att funka. 
+th	มันจะไม่ได้เรื่องนะ เด็กน้อย | 
+tr	Bu iş yürümez evlat. 
+vi	Không ổn đâu. | 
+zh-long	開不起來的，小鬼 
+zh-short	那可干不下去 孩子 
+

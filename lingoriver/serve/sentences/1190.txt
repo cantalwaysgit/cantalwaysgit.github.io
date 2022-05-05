@@ -1,0 +1,27 @@
+ru	-Да? -Да, моя королева. 
+ar	&rlm;‏‏- حسناً؟ | &rlm;‏- أجل يا ملكتي.‏ | 
+da	-Okay? -Ja, min dronning. 
+el	-Εντάξει; -Μάλιστα, βασίλισσά μου. 
+en	-Okay? | -Yes, my queen. | 
+fi	-Sopiiko? -Kyllä, kuningattareni. 
+fr	- D'accord ? - Oui, ma reine. 
+he	&rlm;‏‏בסדר? | &rlm;‏-כן, מלכתי.‏ | 
+it	- Va bene? - Sì, mia regina. 
+ko	- 괜찮으시죠? | - 네, 여왕님 | 
+nl	Goed? -Ja, mijn koningin. 
+no	-Greit? -Ja, min dronning. 
+pl	- Dobrze? - Tak, królowo. 
+pr-br	-Está bem? -Sim, minha rainha. 
+pr	- Está bem? - Sim, minha rainha. 
+ro	- Da? - Da, regina mea. 
+sp	- ¿Está bien? - Sí, mi reina. 
+sp-eu	- ¿De acuerdo? - Sí, mi reina. 
+sv	-Okej? -Ja, min drottning. 
+th	- โอเคไหม | - ครับ ราชินีของผม | 
+tr	-Tamam mı? -Evet, kraliçem. 
+vi	- Được chứ? | - Được, nữ hoàng của tôi. | 
+zh-long	-可以嗎？ -沒問題，我的皇后 
+zh-short	-好吗？ -好的 女王 
+id	Baik, Ratuku. 
+ja	女王様 | 
+

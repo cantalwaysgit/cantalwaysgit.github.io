@@ -1,0 +1,57 @@
+id	- Lola. - Jesse. 
+ru	-Лола. -Джесси. 
+ar	&rlm;‏‏- بل "لولا". | &rlm;‏- "جيسي".‏ | 
+da	-Lola. -Jesse. 
+el	-Λόλα. -Τζέσι. 
+en	-Lola. | -Jesse. | 
+fi	-Lola. -Jesse. 
+fr	- Lola. - Jesse. 
+he	&rlm;‏‏לולה. | &rlm;‏-ג'סי.‏ | 
+it	- Lola. - Jesse. 
+ko	- 롤라예요 | - 제시예요 | 
+nl	Lola. -Jesse. 
+no	-Lola. -Jesse. 
+pl	- Lola. - Jesse. 
+pr-br	-Lola. -Jesse. 
+pr	- Lola. - Jesse. 
+ro	- Lola. - Jesse. 
+sp-eu	- Lola. - Jesse. 
+sp	- Lola. - Jesse. 
+sv	-Lola. -Jesse. 
+th	- โลล่า | - เจสซี่ | 
+tr	-Lola. -Jesse. 
+vi	- Lola. | - Jesse. | 
+zh-long	-蘿拉 -潔西 
+zh-short	-罗拉 -杰茜 
+ja	ローラよ | 
+
+da	Tak. | 
+el	Ευχαριστώ. 
+en	Thanks. 
+es-eu	Gracias. 
+fr	Merci. 
+he	‫תודה.‬ | 
+hr	Hvala. 
+hu	Kösz. 
+id	Terima kasih. 
+it	Grazie. 
+ja	&lrm;ありがとう | 
+ko	&lrm;감사합니다 | 
+ms	Terima kasih. 
+nl	Bedankt. 
+no	Takk. 
+pt	Obrigado. 
+ro	Mersi! 
+sv	Tack. 
+th	&lrm;ขอบใจ | 
+tr	Teşekkürler. 
+vi	&lrm;Cảm ơn. | 
+zh-long	謝謝 
+zh-short	谢谢 
+es	Gracias. 
+cs	Díky. 
+fi	Kiitos. | 
+pt-br	Obrigado. 
+ru	Спасибо. 
+uk	Дякую. 
+

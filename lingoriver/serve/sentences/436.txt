@@ -1,0 +1,28 @@
+en	Then you do it, Sandy. | 
+id	Kalau begitu, kau saja, Sandy. Ayo, kemari. 
+fr	Fais-le, tiens. Amène-toi. 
+ar	&rlm;‏‏- قم أنت به إذاً. تعال إلى هنا. | &rlm;‏- لا.‏ | 
+da	-Så kan du gøre det. Kom her. -Nej. 
+el	-Κάν' το εσύ, τότε. Έλα εδώ. -Όχι, όχι. 
+fi	-Tule sitten itse näyttämään. -En. 
+he	&rlm;‏‏אז תעשה את זה אתה. בוא הנה. | &rlm;‏-לא.‏ | 
+it	- Allora fallo tu. Vieni. - No. 
+ko	- 그럼 와서 직접 하세요 | - 아니야 | 
+nl	Doe jij het dan. Kom hier. 
+no	-Da kan du gjøre det. Kom. -Nei. 
+pl	- No to chodź spróbować. - Nie. 
+pr-br	-Então faça você. Venha aqui. -Não. 
+pr	- Então, faz tu. Vem para aqui. - Não. 
+ro	- Atunci, pozează tu. Treci încoace! - Nu. 
+ru	-Давай сам. Иди сюда. -Нет, нет. 
+sp	- Entonces hazlo tú. Ven aquí. - No. 
+sp-eu	- Pues hazlo tú. Ponte aquí. - No. 
+sv	-Gör det själv då. Kom hit. -Nej. 
+th	- งั้นคุณมาทำสิ มานี่ | - ไม่นะ | 
+tr	-O zaman sen yap. Gel buraya. -Yok, yok. 
+vi	- Vậy anh làm đi. Lại đây. | - Không. | 
+zh-long	-那你來，上來 -不行 
+zh-short	-桑迪 那你来啊 过来 -不 
+ja	じゃ やってみてよ | 
+en	-Come on. Get over here. | -No, no, no, no. | 
+

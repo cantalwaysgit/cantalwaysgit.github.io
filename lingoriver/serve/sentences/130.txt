@@ -1,0 +1,56 @@
+ar	&rlm;‏ماذا؟‏ | 
+da	Hvad? 
+el	Τι; 
+fi	Mitä? 
+fr	Quoi ? 
+he	&rlm;‏מה?‏ | 
+it	Cosa? 
+ko	뭐야! | 
+no	Hva for noe? 
+pl	Co to? 
+pr-br	Quê? 
+pr	O quê? 
+ro	Poftim? 
+sp-eu	¿Qué? 
+sp	¡Qué! 
+sv	Va? 
+th	อะไรเนี่ย | 
+tr	Ne? 
+vi	Cái gì? | 
+zh-long	什麼鬼？ 
+zh-short	什么？ 
+en	-What? | -[screeching] | 
+id	Apa? 
+ru	Что?! 
+ja	は？ | 
+
+hu	Erre nem lesz szükségünk, igaz? 
+es	No necesitaremos eso, ¿no? 
+fi	Emme me tuota tarvitse. | 
+id	Kita tak butuh itu, 'kan? 
+cs	Tohle nebudeme potřebovat, ne? 
+da	Det behøver vi ikke, vel? | 
+el	Δεν θα το χρειαστούμε, έτσι; 
+en	We won't need that, will we? 
+es-eu	Eso no será necesario. 
+fr	On n'en aura pas besoin. 
+he	‫לא נצטרך את זה, נכון?‬ | 
+hr	Neće nam to trebati, zar ne? 
+it	Quella non ci servirà, vero? 
+ja	&lrm;その必要はない | 
+ko	&lrm;안 그래도 되잖아 | 
+ms	Kita tak perlu begitu, bukan? 
+nl	Dat hebben we toch niet nodig? 
+no	Det trenger vi vel ikke? 
+pt-br	Não precisaremos disso, não é? 
+pt	Não precisamos disso, pois não? 
+ro	Nu avem nevoie de bâta aia, nu? 
+ru	Это тебе не понадобится. 
+sv	Vi behöver väl inte den? 
+th	&lrm;เราไม่ต้องใช้หรอก เนอะ | 
+tr	Buna gerek yok, değil mi? 
+uk	Нам це не знадобиться, правда? 
+vi	&lrm;Ta sẽ không cần làm thế nhỉ? | 
+zh-long	我們不需要那種東西吧？ 
+zh-short	我们不需要这个 对吧？ 
+

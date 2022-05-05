@@ -1,0 +1,28 @@
+th	โอเค เอาละนะ ขาขวาก่อน | 
+ar	&rlm;‏حسناً. ها نحن ذا. اليمنى أولاً.‏ | 
+da	Så er det nu. Højre læg først. 
+el	Ξεκινάμε. Στη δεξιά γάμπα πρώτα. 
+en	Okay, here we go. Right calf first. | 
+fi	No niin. Oikea pohje ensin. 
+fr	On y va. Le mollet droit. 
+he	&rlm;‏בסדר, הנה. קודם השוק הימנית.‏ | 
+it	Ci siamo. Prima la gamba destra. 
+ko	좋아, 간다 | 오른쪽 종아리부터야 | 
+nl	Daar gaan we. Eerst de rechterkuit. 
+no	Da gjør vi det. Høyre bein først. 
+pl	Zaczynamy. Najpierw prawa łydka. 
+pr-br	Vamos lá. Primeiro a panturrilha direita. 
+pr	Pronto, vamos lá. Primeiro a perna direita. 
+sp	Aquí vamos. Pantorrilla derecha primero. 
+sp-eu	Vale, allá vamos. Pantorrilla derecha primero. 
+sv	Nu kör vi. Högra vaden först. 
+tr	Pekâlâ, başlıyoruz. Önce sağ baldır. 
+vi	Nào, bắt đầu. Chân phải trước. | 
+zh-long	好，要來囉，右小腿先 
+zh-short	行了 火来了 从右小腿开始点 
+ja	よし | 
+ru	Ну давай. С правого бедра. 
+id	Baiklah, kita mulai. Betis kanan dahulu. 
+ro	Bine. Mai întâi gamba dreaptă. 
+ja	つけるぞ　右足から | 
+

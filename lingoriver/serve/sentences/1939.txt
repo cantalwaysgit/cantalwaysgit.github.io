@@ -1,0 +1,27 @@
+id	Gunakan kata-kata jenaka pada lagu orang lain. 
+ru	Придумывай смешные пародии». 
+ja	“笑える替え歌を作れ” | 
+ar	&rlm;‏ضع كلمات مضحكة في أغاني الآخرين.‏ | 
+da	Skriv sjove tekster til andres sange. 
+el	Βάλε αστείους στίχους στα τραγούδια των άλλων. 
+en	Do funny words to other people's songs. | 
+fi	Tee hassut sanoitukset toisten ihmisten kappaleisiin. 
+fr	Parodie les chansons des autres. 
+he	&rlm;‏תכתוב מילים מצחיקות לשירים של אנשים אחרים.‏ | 
+it	E fai parodie delle canzoni degli altri. 
+ko	다른 사람 노래에 | 웃긴 가사를 입히라고 했지 | 
+nl	Gebruik grappige woorden in andermans nummers. 
+no	Lag morsomme tekster til andres sanger. 
+pl	Nagrywaj parodie cudzych utworów. 
+pr-br	Faça paródia das músicas dos outros. 
+pr	Faz letras engraçadas com canções de outras pessoas. 
+ro	"Spune cuvinte amuzante pe melodiile altora." 
+sp-eu	Escribe letras raras para las canciones de otros. 
+sp	Ponle letras divertidas a las canciones de otros. 
+sv	Hitta på roliga texter till andras låtar. 
+th	ใส่คำตลกๆ ให้เพลงของคนอื่น | 
+tr	Başkalarının şarkılarına eğlenceli sözler yaz. 
+vi	Chế lời hài hước | cho các bài hát của người khác. | 
+zh-long	亂搞別人的歌 
+zh-short	把别人的歌改成搞笑版的 
+

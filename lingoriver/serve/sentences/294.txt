@@ -1,0 +1,31 @@
+ja	何でも | 
+
+uk	Ти здурів? Ти під кайфом. Ти не зможеш мене підвезти. 
+cs	Zbláznil ses? Seš zhulenej. Nemůžeš řídit. 
+da	Er du gal? Du er skæv. | Du kan ikke køre mig. | 
+el	Είσαι τρελός; Έχεις μαστουρώσει. Δεν μπορείς. 
+en	Are you crazy? You're high. You can't drive me. 
+es	¿Estás loco? Estás drogado. No me llevarás en auto. 
+es-eu	¿Estás loco? Estás colocado. No vas a llevarme. 
+fr	Tu es fou ? Tu es défoncé. Tu ne peux pas conduire. 
+he	‫השתגעת? אתה מסטול. אתה לא יכול לנהוג.‬ | 
+hr	Jesi ti normalan? Ušlagiran si. Nećeš me voziti. 
+hu	Megőrültél? Be vagy tépve. Nem vezethetsz! 
+id	Kau gila? Kau teler. Kau tak bisa mengantarku. 
+ja	&lrm;ハイだから | &lrm;運転なんか無理だよ | 
+ko	&lrm;미쳤어? 약에 취해서 | &lrm;운전을 어떻게 해? | 
+nl	Ben je gek? Je bent high. Je mag niet rijden. 
+no	Er du sprø? Du er høy. Du kan ikke kjøre. 
+pt-br	Está doido? Você está chapado. Não pode me levar. 
+pt	Estás louco? Estás pedrado. Não podes conduzir. 
+ro	Ești nebun? Ai fumat iarbă. Nu poți să conduci. 
+ru	С дуба рухнул? Ты накурился. Я с тобой не поеду. 
+th	&lrm;บ้าเหรอ นายเมายาอยู่ ขับไปส่งฉันไม่ได้หรอก | 
+tr	Deli misin? Kafan güzel, bırakamazsın. 
+vi	&lrm;Anh điên à? Anh phê rồi. Không thể chở em. | 
+zh-long	你瘋了嗎？你正在嗨 根本沒辦法送我 
+zh-short	你疯了吗？你抽嗨了 不能开车 
+sv	Är du dum? Du är hög och kan inte köra. 
+it	Sei pazzo? Sei fatto, non puoi accompagnarmi. 
+ms	Dah gila? Awak khayal. Awak tak boleh hantar saya. 
+

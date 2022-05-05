@@ -1,0 +1,27 @@
+ar	&rlm;‏زملاء في الفريق؟‏ | 
+da	Holdkammerater? 
+el	Συμπαίκτες; 
+en	Teammates? | 
+fi	Tiimikavereita? 
+fr	Partenaires ? 
+he	&rlm;‏חברים לקבוצה?‏ | 
+id	Rekan tim? 
+it	Compagni di squadra? 
+ko	팀 동료지? | 
+nl	Teamgenoten? 
+pr-br	Companheiros de time? 
+pr	Companheiros de equipa? 
+ro	Colegi? 
+sp-eu	¿Compañeros de equipo? 
+sp	¿Somos un equipo? 
+sv	Lagkamrater? 
+th	เพื่อนร่วมทีม | 
+tr	Takım arkadaşı mıyız? 
+vi	Cùng một đội? | 
+zh-long	好夥伴？ 
+zh-short	队友吗？ 
+ja	仲間だろ？ | 
+no	Lagkamerater? 
+pl	Zespół? 
+ru	Коллеги? 
+

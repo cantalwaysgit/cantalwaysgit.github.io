@@ -1,0 +1,27 @@
+ar	&rlm;‏وما الذي فعلته أنت؟‏ | 
+da	Og hvad gjorde du? 
+el	Εσύ τι έκανες; 
+fi	Ja mitä sinä teit? 
+fr	Toi, t'as fait quoi ? 
+he	&rlm;‏ומה אתה עשית?‏ | 
+it	E tu cos'hai fatto? 
+nl	En wat deed jij? 
+no	Og hva gjorde du? 
+pl	A co robiłeś ty? 
+pr-br	E o que você fez? 
+pr	E o que foi que tu fizeste? 
+ro	Și tu ce ai făcut? 
+sp-eu	¿Y qué hiciste tú? 
+sp	¿Y tú qué hiciste? 
+sv	Och vad har du gjort? 
+th	แล้วคุณล่ะทำอะไร | 
+tr	Peki, sen ne yaptın? 
+vi	Còn anh đã làm được gì? | 
+zh-long	你做了什麼？ 
+zh-short	而你做了什么？ 
+ko	당신은 뭘 하셨죠? | 
+en	And what did you do? Hmm? | 
+ja	君は一体 何をした？ | 
+id	Lalu kau melakukan apa? 
+ru	А ты что сделал? 
+

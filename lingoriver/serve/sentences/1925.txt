@@ -1,0 +1,26 @@
+ru	Убирайся! 
+ja	“ここから出ていけ” | 
+ar	&rlm;‏اغرب من هنا‏ | 
+da	Gå med dig 
+el	Να φύγει από εκεί 
+en	[all] ♪ Get out of here ♪ | 
+fi	Nyt antaa heittää 
+fr	Va-t'en d'ici 
+he	&rlm;‏סתלק מכאן‏ | 
+it	Vattene da qui 
+nl	ga weg 
+pl	Zmykaj stąd 
+pr-br	Dê o fora daqui 
+pr	Sai daqui 
+ro	Pleacă de aici 
+sp-eu	Lárgate de aquí 
+sp	Sal de aquí 
+sv	Försvinn härifrån 
+th	ออกไปให้พ้น | 
+tr	Git buradan 
+vi	Đi khỏi đây | 
+zh-long	給我滾開 
+zh-short	出去 
+id	Keluarlah dari sini 
+ko	여기서 나가 | 
+

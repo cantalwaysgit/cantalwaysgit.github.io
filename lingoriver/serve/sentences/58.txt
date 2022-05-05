@@ -1,0 +1,57 @@
+ja	Ｌ･ワッサーマンの隣人と | 話してる | 
+id	Maaf, aku sedang bicara dengan tetangga Lew Wasserman. 
+ru	Простите, я говорю с соседом Лью Вассермана. 
+en	Excuse me, I am talking | to Lew Wasserman's neighbor right now. | 
+pr-br	Estou falando com o vizinho do Lew Wasserman. 
+ar	&rlm;‏معذرة، أتحدث مع جار "لو واسرمان".‏ | 
+da	Undskyld, jeg taler med Lew Wassermans nabo. 
+fi	Anteeksi, puhun Lew Wassermanin naapurin kanssa. 
+fr	Tu permets, je cause au voisin de Lew Wasserman. 
+he	&rlm;‏סליחה, אני מדבר עם השכן של לו ואסרמן.‏ | 
+it	Scusa, sto parlando con il vicino di Lew Wasserman. 
+ko	이봐요, 지금 루 와서먼의 | 이웃과 통화 중이에요 | 
+nl	Sorry, ik praat met Lew Wassermans buurman. 
+no	Unnskyld, jeg snakker med naboen til Lew Wasserman. 
+pl	Rozmawiam z sąsiadem Lew Wassermana. 
+pr	Desculpe, estou a falar com o vizinho do Lew Wasserman. 
+ro	Pardon! Vorbesc cu vecinul lui Lew Wasserman. 
+sp	Disculpe, estoy hablando con el vecino de Lew Wasserman. 
+sp-eu	Perdón, estoy hablando con el vecino de Lew Wasserman. 
+sv	Ursäkta mig, jag pratar med Lew Wassermans granne. 
+tr	Pardon, Lew Wasserman'ın komşusuyla konuşuyorum da. 
+vi	Xin lỗi, tôi đang nói chuyện | với hàng xóm của Lew Wasserman. | 
+zh-long	拍謝，我在跟李維瓦瑟曼的 鄰居講電話 
+zh-short	抱歉 我正跟卢沃瑟曼的邻居说话 
+th	โทษที ผมกำลังพูดอยู่กับ | เพื่อนบ้านของลูว์ วัสเซอร์แมน | 
+el	Συγγνώμη, αλλά μιλάω με το γείτονα του Λου Ουάσερμαν. 
+
+it	Hai visto il mio telefono? 
+hu	Nem láttad a telefonomat? 
+nl	Heb je m'n mobiel gezien? 
+no	Har du sett mobilen min? 
+uk	Ти не бачив мій телефон? 
+cs	Neviděl jsi můj mobil? 
+da	Har du set min telefon? | 
+el	Είδες το κινητό μου; 
+en	Have you seen my phone? 
+es-eu	¿Has visto mi móvil? 
+es	¿Viste mi celular? 
+fi	En löydä puhelintani. | 
+fr	Tu as vu mon portable ? 
+he	‫ראית את הטלפון שלי?‬ | 
+hr	Jesi vidio moj mobitel? 
+id	Ayah lihat ponselku? 
+ja	&lrm;携帯 見た？ | 
+ko	&lrm;내 폰 봤어? | 
+pt-br	Viu meu celular? 
+pt	Viste o meu telefone? 
+ro	Mi-ai văzut telefonul? 
+ru	Не видел мой телефон? 
+th	&lrm;เห็นมือถือหนูมั้ย | 
+tr	Telefonumu gördün mü? 
+zh-long	你有看到我的手機嗎？ 
+zh-short	见到我的手机了吗？ 
+sv	-Har du sett min mobil? -Jag hjälper dig att leta. 
+vi	&lrm;- Thấy điện thoại của con chứ? | &lrm;- Bố sẽ giúp con tìm. | 
+ms	Nampak telefon saya? 
+

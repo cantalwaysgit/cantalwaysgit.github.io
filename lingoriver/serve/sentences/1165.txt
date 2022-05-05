@@ -1,0 +1,26 @@
+ar	&rlm;‏أتريدها أن تنافس نفسها؟‏ | 
+da	Hun skal vel ikke konkurrere med sig selv? 
+el	Θες να ανταγωνιστεί τον εαυτό της; 
+en	You don't want her competing | against herself now, do you? | 
+fi	Hän ei saa kilpailla itseään vastaan. 
+fr	Elle va pas se faire de l'ombre à elle-même. 
+he	&rlm;‏אתה רוצה שהיא תתחרה בעצמה?‏ | 
+it	Non deve farsi concorrenza da sola. 
+nl	Wil je dat ze concurreert met zichzelf? 
+pl	Sama sobie ma robić konkurencję? 
+pr-br	Quer vê-la competir com ela mesma? 
+pr	Queres que ela compita contra si própria? 
+ro	Nu vrei să concureze cu ea însăși, nu? 
+sp-eu	¿Quieres que compita consigo misma? 
+sp	¿Quieres que compita con ella misma? 
+sv	Varför konkurrera med sig själv? 
+th	อยากให้เธอแข่งกับตัวเองเหรอ | 
+tr	Kendisiyle rekabet etmesini mi istiyorsun? 
+vi	Anh muốn cô ấy | cạnh tranh với chính mình à? | 
+zh-long	你要她跟自己打對臺？ 
+zh-short	你想让她跟自己竞争吗？ 
+id	Jangan sampai dia bersaing dengan diri sendiri. 
+no	Skal hun konkurrere med seg selv? 
+ru	Ей что, конкурировать с самой собой? 
+ko	자기 노래랑 맞붙길 | 바라시는 건 아니죠? | 
+

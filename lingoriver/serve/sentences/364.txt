@@ -1,0 +1,26 @@
+ar	&rlm;‏‏- أجل. | &rlm;‏- دعينا نرى.‏ | 
+da	-Ja. -Lad mig se. 
+el	-Ναι. -Για να δούμε. 
+fi	-Haluan. -Katsotaanpa. 
+he	&rlm;‏‏כן. | &rlm;‏-בואי נראה.‏ | 
+it	- Sì. - Vediamo. 
+no	-Ja. -Skal vi se. 
+pl	- Tak. - Zobaczmy. 
+pr-br	-Sim. -Vamos ver. 
+pr	- Sim. - Vejamos. 
+ro	- Da. - Să vedem! 
+sp-eu	- Sí. - Vamos a ver. 
+sp	- Sí. - Veamos. 
+sv	-Ja. -Få se. 
+th	- ใช่ | - ขอดูหน่อย | 
+tr	-Evet. -Bir bakalım. 
+vi	- Vâng. | - Xem nào. | 
+zh-long	-對 -我看看 
+zh-short	-想 -我们来看看 
+ru	-Да. -Посмотрим... 
+ko	- 네 | - 어디 보자 | 
+fr	Voyons voir. 
+en	Let's see. | 
+nl	Even kijken. 
+id	Coba kulihat. 
+

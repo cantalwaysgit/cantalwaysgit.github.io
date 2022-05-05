@@ -1,0 +1,57 @@
+id	Tunggu klimaksnya, Sobat. 
+ru	Еще рано смеяться. 
+ar	&rlm;‏انتظر الجملة المضحكة يا صديقي.‏ | 
+da	Vent lige på pointen, makker. 
+el	Περίμενε την ατάκα, φίλε. 
+en	Wait for the punch line, buddy. | 
+fi	Odotahan vitsin kärkeä, kamu. 
+fr	Attends la chute, mon pote. 
+he	&rlm;‏חכה לשורת המחץ, חבר.‏ | 
+it	Aspetta la battuta finale, amico. 
+ko	결정타 날릴 테니 기다려 봐 | 
+nl	Wacht op de clou, maat. 
+no	Vent på sluttpoenget, kamerat. 
+pl	Zaczekaj na puentę, koleś. 
+pr-br	Espere pela piada, amigão. 
+pr	Espera pela piada, pá. 
+ro	Așteaptă poanta, amice! 
+sp	Espera el remate, amigo. 
+sp-eu	Espera a que remate el chiste, colega. 
+sv	Vänta på poängen. 
+th	รอมุกเด็ดก่อนสิ เพื่อน | 
+tr	Espriyi bekle dostum. 
+vi	Chờ câu chốt đi, anh bạn. | 
+zh-long	等笑點出現再笑，大哥 
+zh-short	等到了笑点再笑 老兄 
+ja	オチはまだだぞ | 
+
+it	Ma questo piccolo incidente deve rovinare 20 anni di carriera da insegnante? 
+es	Pero ¿arruinará mis 20 años de carrera por ese incidente menor? 
+pt-br	Mas esse pequeno incidente precisa arruinar uma carreira de 20 anos? 
+da	Men skal den lille episode ødelægge | min 20 år lange karriere? | 
+el	Πρέπει αυτό το μικρό περιστατικό να καταστρέψει την εικοσαετή καριέρα μου; 
+es-eu	Pero ¿ese nimiedad tiene que arruinar mis 20 años de carrera? 
+fi	Mutta pitääkö sen sattumuksen | pilata 20-vuotinen urani? | 
+fr	Mais gâcher 20 ans de carrière à cause d'un incident mineur ? 
+he	‫אבל התקרית הקטנה הזאת‬ | ‫אמורה להרוס קריירה בת 20 שנה?‬ | 
+hr	Ali mora li taj sitni incident uništiti moju 20-godišnju karijeru? 
+hu	De ez az apró incidens tönkreteszi a 20 éves karrieremet? 
+id	Tapi apa insiden kecil itu harus merusak karierku selama 20 tahun? 
+ja	&lrm;ささいな事で 20年の | &lrm;キャリアを潰さないでほしい | 
+ko	&lrm;하지만 사소한 사건 하나가 | &lrm;제 20년 교직을 망쳐야 합니까? | 
+ms	Tapi perlukah insiden kecil itu merosakkan kerjaya 20 tahun saya? 
+nl	Maar moet dat kleine incident mijn 20-jarige carrière verpesten? 
+no	Men må den lille hendelsen ødelegge min 20 år lange karriere? 
+pt	Mas será que um pequeno incidente pode arruinar a minha carreira de 20 anos? 
+ro	Dar incidentul ăla minor chiar trebuie să-mi distrugă cariera de 20 de ani? 
+sv	Men måste den lilla incidenten gå ut över hela min karriär? 
+th	&lrm;แต่เรื่องเล็กๆ น้อยๆ | &lrm;ต้องถึงกับทำลายอาชีพที่ผมทำมา 20 ปีเลยเหรอ | 
+tr	Ama bu küçük olay 20 yıllık öğretmenliğimi bitirmeli mi? 
+uk	Хіба цей незначний інцидент перекреслить мою 20-річну роботу? 
+vi	&lrm;Nhưng sự nghiệp 20 năm của tôi | &lrm;bị phá hủy vì sự cố đó thì có đáng? | 
+zh-long	但那件小意外 真的得毀掉我20年的職涯嗎？ 
+zh-short	但是有必要让这场小意外 毁掉我20年的职业生涯吗？ 
+cs	To mi má nějaký drobný incident zničit dvacetiletou kariéru? 
+ru	Но почему этот мелкий инцидент должен разрушить мою 20-летнюю карьеру? 
+en	But does this minor incident have to ruin my 20-year teaching career? 
+

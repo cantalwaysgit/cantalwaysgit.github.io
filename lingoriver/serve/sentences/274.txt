@@ -1,0 +1,57 @@
+ar	&rlm;‏يمكنك أن تكوني مشهورة.‏ | 
+da	Du kunne blive til noget. 
+el	Μπορείς να γίνεις κάποια. 
+en	I'm telling you, you could be somebody. | 
+fi	Sinusta voisi tulla joku. 
+fr	Vous avez du potentiel. 
+he	&rlm;‏את יכולה להיות מישהי.‏ | 
+it	Puoi diventare qualcuno. 
+nl	Je kunt iemand worden. 
+no	Du kan bli noen. 
+pl	Możesz wiele osiągnąć. 
+pr	Atente no que lhe digo, podia ser alguém. 
+pr-br	Você poderia ser famosa. 
+ro	Te-ai putea realiza. 
+sp-eu	Podría ser alguien. 
+sp	Podrías llegar lejos. 
+sv	Du kan bli någon. 
+th	คุณดังได้ | 
+tr	Ünlü olabilirsin. 
+vi	Cô có thể thành người nổi tiếng. | 
+zh-long	妳有機會成為大明星 
+zh-short	你会大有作为的 
+id	Aku yakin kau bisa terkenal. 
+ja	君は大物になる | 
+ko	대단한 사람이 될 수 있어요 | 
+ru	Вы можете чего-то добиться. 
+
+it	Dobbiamo attraversare quella fitta foresta. 
+es	Debemos atravesar ese denso bosque. 
+pt-br	Temos que atravessar esta densa floresta. 
+da	Vi må gå igennem den tætte skov. | 
+el	Πρέπει να διασχίσουμε το πυκνό δάσος. 
+es-eu	Debemos cruzar ese bosque frondoso. 
+fr	"On doit traverser cette forêt dense. 
+he	‫עלינו ללכת דרך היער הסבוך.‬ | 
+hr	Moramo proći kroz onu gustu šumu. 
+hu	„Át kell kelnünk a sűrű erdőn.” 
+id	Kita harus berjalan melewati hutan lebat itu. 
+ja	&lrm;“あの茂った森を歩かねば” | 
+ko	&lrm;'저 울창한 숲을 통과해야 해' | 
+ms	Kita perlu meredah hutan yang tebal. 
+nl	We moeten door dat dichte bos lopen. 
+no	Vi må gå gjennom den tette skogen. 
+pt	Temos de entrar na densa floresta. 
+ro	Avem de mers prin pădurea deasă. 
+sv	Vi måste gå genom den täta skogen. 
+th	&lrm;"เราต้องเดินผ่านป่าทึบนั่น" | 
+tr	Bu balta girmemiş ormanda ilerlemeliyiz. 
+vi	&lrm;"Ta phải đi qua khu rừng rậm rạp đó". | 
+zh-long	我們得穿過那片濃密的森林 
+zh-short	“我们必须穿过那片茂密的森林” 
+en	"We have to walk through that dense forest." 
+uk	Треба пройти через густий ліс. 
+cs	Musíme projít hustým lesem. 
+fi	Kävellään tuon tiheän metsän läpi. | 
+ru	Придется пробираться через дремучий лес. 
+

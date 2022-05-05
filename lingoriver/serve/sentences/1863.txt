@@ -1,0 +1,27 @@
+ar	&rlm;‏تعرضت إلى نوبة قلبية صغيرة. إنها تحذير.‏ | 
+da	Du fik et mindre hjerteslag. En advarsel. 
+el	Είχατε μια ελαφριά καρδιακή προσβολή. Μια προειδοποίηση. 
+en	You had a minor heart attack. | A warning shot. | 
+fi	Saitte lievän sydänkohtauksen. Se oli varoitus. 
+fr	Vous avez fait un petit infarctus. Un avertissement sans frais. 
+he	&rlm;‏עברת התקף לב קל. יריית אזהרה.‏ | 
+it	Ha avuto un leggero attacco di cuore. Un avvertimento. 
+nl	U had een kleine hartaanval. Een waarschuwing. 
+no	Du hadde et lite hjerteinfarkt. Et varselsskudd. 
+pr-br	Você teve um pré-infarto. Uma prévia. 
+pr	Teve um pequeno ataque cardíaco. Foi um aviso. 
+ro	Ați avut un infarct minor. A fost un avertisment. 
+sp-eu	Ha tenido un infarto leve. Un aviso. 
+sp	Tuvo un pequeño infarto. Fue una advertencia. 
+tr	Küçük bir kalp krizi geçirdiniz. Bu bir uyarıydı. 
+vi	Anh bị đau tim nhẹ. Mức cảnh báo. | 
+zh-long	你有輕微心臟病發，身體在警告你 
+zh-short	你有轻微的心脏病 是次警告 
+pl	Miał pan niewielki zawał. Taki sygnał ostrzegawczy. 
+sv	Du har haft en liten hjärtattack. Ett varningsskott. 
+ko	가벼운 심장 발작이 있었어요 | 경고 수준으로요 | 
+ja	病院です　軽い心臓発作 | 
+th	คุณมีอาการหัวใจวายเบาๆ | แค่อาการเตือน | 
+ru	У вас был небольшой инфаркт. Звоночек. 
+id	Kau terkena serangan jantung ringan. Serangan peringatan. 
+

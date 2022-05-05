@@ -1,0 +1,27 @@
+id	Courtney, sekali rekam. Sempurna. 
+ja	コートニー　一発で完璧だ | 
+ru	Кортни, с одного дубля. 
+ar	&rlm;‏"كورتني"، محاولة واحدة مثالية.‏ | 
+da	Courtney, én optagelse. Perfekt. 
+el	Κόρτνι, το κρατάμε. Ήταν τέλειο. 
+en	Courtney, one take. Perfection. | 
+fi	Yhdellä otolla. Täydellistä. 
+fr	Courtney, une seule prise. C'était parfait. 
+he	&rlm;‏קורטני, טייק אחד. מושלם.‏ | 
+it	Courtney, buona la prima. Perfetta. 
+ko	코트니, 단 한 번 만에 | 완벽하게 했어 | 
+nl	Courtney, één opname. Perfectie. 
+no	Courtney, én tagning. Perfeksjon. 
+pl	Za pierwszym podejściem, Courtney. 
+pr-br	Courtney, de cara. Foi perfeito. 
+pr	Courtney, à primeira. Perfeição. 
+ro	Courtney, din prima. Perfect! 
+sp	Courtney, una toma. Perfecto. 
+sp-eu	Courtney, una toma. Perfecto. 
+sv	Courtney, en inspelning. Perfekt. 
+th	คอร์ทนี่ย์ เทกหนึ่ง เพอร์เฟก | 
+tr	Courtney, tek kayıt. Mükemmel. 
+vi	Courtney, thu một lần. Hoàn hảo. | 
+zh-long	寇妮，一次搞定，完美 
+zh-short	考特尼 一次通过 完美 
+

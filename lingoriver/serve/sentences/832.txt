@@ -1,0 +1,19 @@
+en	[clients cheering] | 
+id	Ya! 
+ru	Ура! 
+ar	&rlm;‏أجل!‏ | 
+da	Ja! 
+el	Ζήτω! 
+he	&rlm;‏כן!‏ | 
+ko	오예! | 
+pr	Boa! 
+ro	Da! 
+sp-eu	¡Sí! 
+sp	¡Sí! 
+sv	Ja! 
+th	เย่! | 
+tr	Evet! 
+vi	Tuyệt! | 
+zh-long	喔耶！ 
+zh-short	耶！ 
+

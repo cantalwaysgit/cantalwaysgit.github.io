@@ -1,0 +1,31 @@
+id	Yang benar saja, Sandy. 
+ja	そうか？ | 
+ru	Сэнди! 
+en	-Really, Sandy? [laughs] | -Yes. | 
+ar	&rlm;‏حقاً يا "ساندي"؟  | &rlm;هل ستبصق الدجاج على وجهي؟ هذه لك.‏ | 
+da	Er det rigtigt? Skal du spytte med kylling? 
+el	Αλήθεια τώρα; Έφτυσες κοτόπουλο στο πρόσωπό μου; Ορίστε. 
+fi	Niinkö? Syljit kanaa naamalleni. Tämä on sinun. 
+fr	Sérieux ? Tu me craches du poulet dessus ? Je te le rends. 
+he	&rlm;‏‏באמת? אתה יורק חתיכות עוף על הפנים שלי? | &rlm;‏זה בשבילך.‏ | 
+it	Dici? Mi stai sputando il pollo in faccia. Questo è per te. 
+ko	얼굴에 닭을 뱉으실 거예요? | 이거 드세요 | 
+nl	Echt? Spuug je kip in m'n gezicht? Voor jou. 
+no	Seriøst? Spytter du kylling på meg? Den er til deg. 
+pl	Oplułeś mnie kurczakiem. To twoje. 
+pr	A sério? Vais cuspir frango para a minha cara? Isto é para ti. 
+pr-br	Sério? Vai cuspir frango na minha cara? Isso é seu. 
+ro	Serios? O să-mi scuipi puiul în față? Ăsta e al tău. 
+sp	¿De veras, Sandy? ¿Me escupirás pollo en la cara? Es tuyo. 
+sp-eu	¿Me vas a escupir pollo a la cara? Esto es tuyo. 
+sv	Verkligen? Spottar du kyckling på mig? Den tillhör dig. 
+th	จริงเหรอ พ่นไก่ใส่หน้าผมเรอะ | นั่นของคุณ | 
+tr	Sahi mi? Yüzüme tavuk mu tüküreceksin? Bu sana. 
+vi	Thật sao? Bắn cả thịt gà vào mặt tôi à? | Cho anh đấy. | 
+zh-long	是喔？拜託別往我臉上噴雞肉 還你 
+zh-short	是吗？往我脸上吐鸡肉吗？ 这是你的 
+id	Memuncratkan ayam ke wajahku? Itu untukmu. 
+en	Just gonna spit your chicken on my face? | That's for you. | 
+ja	チキンが飛んできた | 
+ru	Ты плюнул в меня курицей? Это твое. 
+

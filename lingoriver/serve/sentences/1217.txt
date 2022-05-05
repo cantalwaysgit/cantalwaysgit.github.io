@@ -1,0 +1,27 @@
+ru	Она слишком хороша, чтобы ей это повредило. 
+id	Dia akan kembali. Mustahil kehilangan penonton. 
+ar	&rlm;‏‏استعادت اهتمام الجمهور. | &rlm;‏إنها أفضل من أن تخسر حشداً.‏ | 
+da	De kom igen. Hun er for god til at miste publikum. 
+en	She got 'em back. | She's too good to lose a crowd. | 
+fi	Hän on liian hyvä menettääkseen yleisön. 
+fr	Elle a rattrapé le truc. Elle est ultra douée. 
+he	&rlm;‏‏היא זכתה בהם מחדש. | &rlm;‏היא טובה מכדי לאבד קהל.‏ | 
+it	Ha rimediato. È troppo brava per perdere il suo pubblico. 
+no	Hun fikk dem tilbake, er for god til å miste dem. 
+pl	Fani jej nie opuścili. Jest zbyt dobra. 
+pr-br	Ela os reconquistou. É boa demais para perder a plateia. 
+pr	Ela recuperou. É boa de mais para perder o público. 
+ro	S-a rezolvat. E prea bună ca să-și piardă publicul. 
+sp-eu	Ella se los ganó. Es demasiado buena para perderlos. 
+th	เธอได้ใจทุกคนกลับมา | เพราะเธอดีเกินไปที่จะสูญเสียคนดู | 
+tr	Seyircileri tekrar toparladı. Çünkü fazlasıyla iyi. 
+vi	Cô ấy giành lại được khán giả. | Cô ấy quá tài năng. | 
+zh-long	她贏回了粉絲，她太優秀了 
+zh-short	她救场成功了 观众们喜欢她 
+el	Τους κέρδισε ξανά. Είναι πολύ καλή για να τους χάσει. 
+sp	Los recautivó. Es tan buena que no pierde al público. 
+ko	분위기를 다시 끌고 왔어 | 집중 안 하기엔 너무 잘 불러 | 
+sv	Hon fixade det. Hon är för bra för att tappa en publik. 
+nl	Ze is te goed om een publiek te verliezen. -Ze is te goed voor jou. 
+ja	彼女の歌で挽回した | 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏لنحاول مجدداً.‏ | 
+da	Vi prøver igen. 
+el	Ας δοκιμάσουμε πάλι. 
+en	-[Courtney sighs] | -Let's try this again. | 
+fi	Kokeillaan uudestaan. 
+fr	On reprend. 
+he	&rlm;‏בואו ננסה שוב.‏ | 
+it	Prova di nuovo. 
+pr-br	Vamos tentar de novo. 
+pr	Vamos tentar novamente. 
+sp-eu	Probemos otra vez. 
+sp	Intentémoslo otra vez. 
+sv	Då försöker vi igen. 
+vi	Thử lại nhé. | 
+zh-long	再來一次 
+zh-short	我们再试一次 
+ko	다시 해 보죠 | 
+no	Vi prøver igjen. 
+th	ลองอีกทีสิ | 
+ru	Попробуем еще раз. 
+ja	もう一度 | 
+id	Mari kita coba lagi. 
+nl	Nog een keer. 
+tr	Bir daha deneyelim. 
+pl	Spróbuj jeszcze raz. 
+ro	Să încercăm iar. 
+

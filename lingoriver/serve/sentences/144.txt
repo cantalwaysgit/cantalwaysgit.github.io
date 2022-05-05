@@ -1,0 +1,32 @@
+en	[audience laughing] | 
+
+nl	Idioot. 
+zh-short	白痴 
+pt-br	Idiota. 
+uk	Ідіот. 
+cs	Debile. 
+da	Idiot. | 
+el	Ηλίθιε. 
+en	Moron. 
+es-eu	Gilipollas. 
+es	Imbécil. 
+fi	Ääliö. | 
+fr	Abruti. 
+he	‫מטומטם.‬ | 
+hr	Debile. 
+hu	Barom! 
+id	Dasar bodoh. 
+it	Idiota. 
+ja	&lrm;バカ | 
+ko	&lrm;멍청한 놈 | 
+ms	Tolol. 
+no	Idiot. 
+pt	Idiota. 
+ro	Boule! 
+ru	Придурок. 
+sv	Idiot. 
+th	&lrm;งี่เง่า | 
+tr	Akılsız. 
+vi	&lrm;Đồ khốn. | 
+zh-long	白痴 
+

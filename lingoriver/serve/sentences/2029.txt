@@ -1,0 +1,27 @@
+ja	彼の望みは何なの？ | 
+ar	&rlm;‏ما الذي يريده في المقابل؟‏ | 
+da	Hvad vil han have til gengæld? 
+el	Τι θέλει, όμως, για αντάλλαγμα; 
+en	But what does this guy want in return? | 
+fi	Mitä hän haluaa sitä vastaan? 
+fr	Mais il attend quoi en retour ? 
+he	&rlm;‏מה הוא רוצה בתמורה?‏ | 
+id	Tapi apa yang diinginkan pria ini? 
+it	E cosa vorrebbe in cambio? 
+ko	원하는 대가가 뭔데요? | 
+nl	Wat wil hij ervoor terug? 
+no	Hva vil han ha til gjengjeld? 
+pl	Czego chce w zamian? 
+pr-br	O que ele quer em troca? 
+pr	O que é que ele quer em troca? 
+ro	Dar ce-și dorește el în schimb? 
+ru	И чего он просит взамен? 
+sp-eu	¿Qué quiere a cambio? 
+sp	¿Qué quiere a cambio? 
+sv	Vad vill han ha i gengäld? 
+th	เขาต้องการอะไรตอบแทนล่ะ | 
+tr	Karşılığında ne istiyor? 
+vi	Đổi lại anh ta muốn gì? | 
+zh-long	那這個人想要什麼回報？ 
+zh-short	他想要什么回报？ 
+

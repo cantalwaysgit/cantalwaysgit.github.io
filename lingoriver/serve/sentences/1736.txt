@@ -1,0 +1,26 @@
+id	- Hei, Sandy. - Kirby. 
+ja	サンディ | 
+ru	-Сэнди. -Кирби. 
+ar	&rlm;‏‏- "ساندي". | &rlm;‏- "كربي".‏ | 
+da	-Sandy. -Kirby. 
+el	-Σάντι. -Κίρμπι. 
+en	-Hey, Sandy. | -Kirby. | 
+he	&rlm;‏‏סנדי. | &rlm;‏-קירבי.‏ | 
+it	- Sandy. - Kirby. 
+no	-Sandy. -Kirby. 
+pl	- Sandy. - Kirby. 
+pr-br	-Sandy. -Kirby. 
+pr	- Sandy. - Kirby. 
+ro	- Sandy! - Kirby. 
+sp-eu	- Sandy. - Kirby. 
+sp	- Sandy. - Kirby. 
+sv	-Sandy. -Kirby. 
+th	- แซนดี้ | - เคอร์บี้ | 
+tr	-Sandy. -Kirby. 
+vi	- Sandy. | - Kirby. | 
+zh-long	-山迪 -卡比 
+zh-short	-桑迪 -卡比 
+ko	- 샌디 | - 커비 | 
+fi	-Sandy. -Kirby. 
+ja	カービー | 
+

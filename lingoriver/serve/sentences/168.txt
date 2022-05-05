@@ -1,0 +1,55 @@
+id	Terima kasih, Ted. 
+ru	Спасибо, Тед. 
+ar	&rlm;‏شكراً لك يا "تيد".‏ | 
+da	Tak, Ted. 
+el	Σ' ευχαριστώ, Τεντ. 
+en	Thank you, Ted. | 
+fi	Kiitos, Ted. 
+fr	Merci, Ted. 
+he	&rlm;‏תודה, טד.‏ | 
+it	Grazie, Ted. 
+ko	고마워, 테드 | 
+no	Takk, Ted. 
+pl	Dziękuję, Ted. 
+pr-br	Obrigado, Ted. 
+pr	Obrigado, Ted. 
+ro	Mulțumesc, Ted. 
+sp-eu	Gracias, Ted. 
+sp	Gracias, Ted. 
+sv	Tack, Ted. 
+th	ขอบคุณนะเท็ด | 
+tr	Sağ ol Ted. 
+vi	Cảm ơn, Ted. | 
+zh-long	謝啦，泰德 
+zh-short	谢谢 泰德 
+ja	ありがとう | 
+
+hu	A rendőrség valahol itt találta meg Adam tárcáját. 
+es-eu	Encontraron la cartera de Adam aquí. 
+el	Εδώ βρήκε η αστυνομία το πορτοφόλι του Άνταμ. 
+nl	De politie heeft Adams portemonnee hier gevonden. 
+it	Qui la polizia ha trovato il portafogli di Adam. 
+es	Y la billetera de Adam estaba por aquí. 
+pt-br	A polícia encontrou a carteira do Adam por aqui. 
+hr	Tu su negdje našli Adamov novčanik. 
+zh-long	警方在這附近找到亞當的皮夾 
+zh-short	警察在这附近找到了亚当的钱包 
+ru	Там же полиция нашла бумажник Адама. 
+cs	Adamova peněženka se našla někde tady. 
+en	The police found Adam's wallet somewhere over here. 
+ms	Polis jumpa dompet Adam di sini. 
+sv	Polisen hittade Adams plånbok här nånstans. 
+da	Politiet fandt Adams pung her et sted. | 
+fr	La police a trouvé le portefeuille d'Adam ici. 
+he	‫המשטרה מצאה את הארנק של אדם איפשהו כאן.‬ | 
+id	Polisi menemukan dompet Adam di sekitar sini. 
+ja	&lrm;アダムの財布は | &lrm;ここにあった | 
+ko	&lrm;경찰이 아담의 지갑을 | &lrm;이 부근에서 찾았어요 | 
+no	Politiet fant Adams lommebok et sted her. 
+pt	A Polícia achou a carteira do Adam por aqui. 
+ro	Portofelul lui Adam a fost găsit pe aici. 
+th	&lrm;ตำรวจพบกระเป๋าสตางค์ของอดัมแถวนี้ | 
+tr	Polis de Adam'ın cüzdanını buralarda buldu. 
+vi	&lrm;Cảnh sát tìm thấy ví của Adam ở gần đây. | 
+fi	Adamin lompakko löytyi täältä. | 
+

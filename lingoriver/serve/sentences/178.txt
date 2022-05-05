@@ -1,0 +1,59 @@
+ru	Это, конечно, необычно, но... 
+id	Aku tahu ini agak aneh, bagaimana kalau acara anak-anak? 
+ja	意外かもしれんが | 子供向け番組は？ | 
+da	Jeg ved godt, det er langt ude, men hvad med et show for børn? 
+fi	Onhan se ajatuksena aika erikoinen, mutta entäpä ohjelma lapsille? 
+sv	Jag vet att det är långsökt, men varför inte göra en show för ungar? 
+ar	&rlm;‏‏أعلم أنه أمر غريب، | &rlm;‏لكن ما رأيك بعرض للأطفال؟‏ | 
+el	Θα ακουστεί παράξενο, αλλά τι λες για μια παιδική εκπομπή; 
+en	I know it's out of left field, | but how about a show for kids? | 
+fr	C'est un peu farfelu, mais une émission pour enfants ? 
+he	&rlm;‏‏אני יודע שזה פתאומי, | &rlm;‏אבל מה דעתך על מופע לילדים?‏ | 
+it	So che non ci avevi pensato, ma che ne pensi di uno show per bambini? 
+nl	Het is iets anders, maar wat dacht je van een show voor kinderen? 
+no	Jeg vet det kommer brått på, men hva med en serie for barn? 
+pl	Wystąpisz w programie dla dzieci. 
+pr-br	Sei que é inesperado, mas que tal um programa para crianças? 
+pr	Sei que pode parecer estranho, mas que tal um espetáculo para crianças? 
+ro	Știu că e surprinzător, dar ce-ar fi să ai o emisiune pentru copii? 
+sp-eu	Sé que sale de la nada, pero ¿qué tal un programa para críos? 
+sp	Sé que no es lo tuyo, pero ¿qué te parece un show para niños? 
+th	ฉันรู้ว่ามันอาจแปลกๆ | แต่โชว์สำหรับเด็กเป็นไง | 
+tr	Biraz ani olacak, biliyorum ama çocuk programı yapmaya ne dersin? 
+vi	Tôi biết là hơi kỳ, | nhưng chương trình cho trẻ em nhé? | 
+zh-long	我知道有點無厘頭 來做個兒童節目如何？ 
+zh-short	我知道这有点怪 但上儿童节目怎么样？ 
+ko	생각지도 않았겠지만 | 아이들을 위한 공연은 어때? | 
+ru	...как насчет шоу для детей? 
+
+zh-short	不是 我和同事轮流值班 
+cs	Ne, ještě s kolegou. Točíme se po 24 hodinách. 
+da	Nej. Jeg har en kollega, | men vi har 24-timersvagter. | 
+el	Όχι. Είμαι εγώ κι ο συνάδελφός μου, αλλά έχουμε 24ωρες βάρδιες. 
+en	No. It's me and my colleague, but we work 24-hour shifts. 
+es-eu	No, tengo un compañero. Hacemos turnos de 24 horas. 
+fi	En. Meitä on kaksi, | mutta teemme 24 tunnin vuoroja. | 
+fr	Non. J'ai un collègue, mais on fait des services de 24 heures. 
+he	‫לא, עם עוד מישהו, במשמרות של 24 שעות.‬ | 
+hr	Ne. Ja i moj kolega, ali u 24-satnim smjenama. 
+hu	Nem. Ketten vagyunk a kollégámmal, de 24 órás műszakban dolgozunk. 
+id	Tidak. Ada aku dan kolegaku, tapi kami bekerja sif 24 jam. 
+it	No, siamo io e il mio collega, ma facciamo turni di 24 ore. 
+ja	&lrm;同僚と２人で | &lrm;１日交代勤務です | 
+ko	&lrm;아뇨, 동료랑 둘이요 | &lrm;24시간 교대로 합니다 | 
+ms	Tak. Saya dan rakan sekerja saya, tapi kami bekerja syif 24 jam. 
+nl	Ik werk samen met een collega, maar we draaien diensten van 24 uur. 
+no	Nei. Det er meg og min kollega, men vi jobber døgnvakter. 
+pt-br	Não, somos eu e um colega, mas trabalhamos em turnos de 24 horas. 
+pt	Não. Sou eu e um colega, mas fazemos turnos de 24 horas. 
+ro	Nu. Am un coleg, dar lucrăm în schimburi de 24 de ore. 
+ru	Нет. С коллегой. Круглосуточно, в две смены. 
+sv	Nej, vi är två. Vi arbetar i 24-timmarsskift. 
+th	&lrm;เปล่า มีผมกับเพื่อนร่วมงานอีกคน | &lrm;แต่เราทำงานเป็นกะ 24 ชั่วโมง | 
+tr	Hayır, iş arkadaşımla 24 saatlik mesailer hâlinde çalışıyoruz. 
+uk	Ні. Є ще один колега, у нас 24-годинні зміни. 
+vi	&lrm;Không. Tôi và đồng nghiệp | &lrm;nhưng chúng tôi làm việc theo ca 24 giờ. | 
+zh-long	不是，我有同事 不過我們24小時輪一次班 
+es	No. Tengo un colega, pero hacemos turnos de 24 horas. 
+zh-short	但每个班上24小时 
+

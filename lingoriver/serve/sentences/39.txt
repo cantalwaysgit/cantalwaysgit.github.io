@@ -1,0 +1,57 @@
+ar	&rlm;‏‏كيف حالك مع مدير أعمالك؟ | &rlm;‏ألا تزالان تتشاجران؟‏ | 
+da	Hvordan går det med din manager? Diskuterer I stadig? 
+el	Πώς τα πας με τον μάνατζέρ σου; Ακόμη τσακώνεστε; 
+en	How you doing with your manager, kid? | Are you still fighting? | 
+fi	Oletko vielä managerisi kanssa riidoissa? 
+fr	Ça va, avec ton imprésario ? Toujours en froid ? 
+he	&rlm;‏‏מה המצב בינך ובין המנהל שלך? | &rlm;‏אתם עדיין רבים?‏ | 
+id	Bagaimana kabar manajermu, Nak? Kalian masih bertengkar? 
+it	Come va con il tuo manager? Ancora ai ferri corti? 
+ja	マネジャーとはケンカ中？ | 
+ko	자네랑 매니저는 어떻게 지내? | 요즘도 싸우나? | 
+nl	Hoe gaat het met je manager? Nog steeds ruzie? 
+no	Krangler du fortsatt med manageren din? 
+pl	Dalej się kłócisz ze swoim menedżerem? 
+pr-br	Como está com o seu empresário? Ainda brigam muito? 
+pr	Como vão as coisas com o teu empresário? Continuam às turras? 
+ro	Cum te mai înțelegi cu impresarul tău? Vă mai certați? 
+ru	Как твой менеджер? Всё ругаетесь? 
+sp	¿Cómo andan tú y tu representante? ¿Aún pelean? 
+sp-eu	¿Qué tal con tu mánager? ¿Seguís a la greña? 
+sv	Bråkar du och din manager fortfarande? 
+th	กับผู้จัดการเป็นยังไง | ยังตีกันอยู่หรือเปล่า | 
+tr	Menajerinle aran nasıl? Hâlâ kavga ediyor musunuz? 
+vi	Cậu và quản lý của cậu thế nào? | Vẫn mâu thuẫn à? | 
+zh-long	你跟經紀人還好嗎？ 還吵不停？ 
+zh-short	你跟经纪人怎么样了？还闹矛盾吗？ 
+
+el	ΕΞΑΦΑΝΙΣΤΗΚΕ! ΑΝΤΑΜ ΜΠΑΡΤΣΙΚ, 18 ΕΤΩΝ 
+es	¡DESAPARECIDO! ADAM BARCZYK, 18 AÑOS 
+es-eu	¡DESAPARECIDO! ADAM BARCZYK, 18 AÑOS 
+fr	DISPARITION INQUIÉTANTE ADAM BARCZYK 
+pt-br	DESAPARECIDO!! ADAM BARCZYK, 18 ANOS 
+cs	POHŘEŠUJE SE! ADAM BARCZYK, 18 LET 
+da	SAVNET! | ADAM BARCZYK, 18 ÅR | 
+en	MISSING!! ADAM BARCZYK, AGE 18 
+fi	KADONNUT! 18-VUOTIAS ADAM BARCZYK | 
+he	‫- נעדר!!‬ | ‫אדם ברצ'יק, בן 18 -‬ | 
+hr	NESTAO! ADAM BARCZYK, 18 GODINA 
+hu	ELTŰNT!! ADAM BARCZYK, 18 ÉVES 
+id	HILANG! ADAM BARCZYK, USIA 18 TAHUN 
+it	SCOMPARSO! ADAM BARCZYK, 18 ANNI 
+ja	&lrm;“探しています | &lrm;アダム･バルチク 18歳” | 
+ko	&lrm;"실종 | &lrm;아담 바르치크, 18세" | 
+ms	HILANG! ADAM BARCZYK, 18 TAHUN 
+nl	VERMIST ADAM BARCZYK, 18 JAAR OUD 
+no	SAVNET! ADAM BARCZYK, 18 ÅR 
+pt	DESAPARECIDO! ADAM BARCZYK, 18 ANOS 
+ro	DISPĂRUT!! ADAM BARCZYK, 18 ANI 
+sv	FÖRSVUNNEN! ADAM BARCZYK 18 ÅR 
+th	&lrm;(คนหาย! อดัม บาร์เช็ก อายุ 18) | 
+tr	ARANIYOR ADAM BARCZYK, 18 YAŞINDA 
+uk	ЗНИК! АДАМ БАРЧИК, 18 РОКІВ 
+vi	&lrm;MẤT TÍCH! | &lrm;ADAM BARCZYK, 18 TUỔI | 
+zh-long	（他失蹤了！亞當巴奇克，18歲） 
+zh-short	（寻人启事！ 亚当·巴尔奇克 18岁） 
+ru	ПРОПАЛ ЧЕЛОВЕК! АДАМ БАРЧИК, 18 ЛЕТ 
+

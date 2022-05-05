@@ -1,0 +1,27 @@
+id	Ya, kami baik-baik saja. 
+ru	Да, детка, всё отлично. 
+ar	&rlm;‏أجل يا طفلة، نحن بخير.‏ | 
+da	Ja, alt er fint. 
+el	Ναι, μικρή, μια χαρά είμαστε. 
+fi	Ei mitään hätää. 
+fr	Oui, ma grande, tout va bien. 
+he	&rlm;‏כן, ילדונת, אנחנו בסדר גמור.‏ | 
+it	Sì, piccola, tutto a posto. 
+ko	아니, 괜찮아 | 
+nl	Ja, prima. 
+no	Ja, alt er bra. 
+pl	Tak. Wszystko gra. 
+pr-br	Sim, garota, está tudo bem. 
+pr	Sim, está tudo bem. 
+sp	Estamos bien. 
+sp-eu	Sí, chavalita, va perfecto. 
+sv	Jadå, vännen, allt är bra. 
+th	ไม่เป็นไร เด็กน้อย ทุกอย่างโอเค | 
+tr	Evet, evlat, gayet iyiyiz. 
+vi	Ừ, chúng tôi vẫn ổn. | 
+zh-long	沒事，小鬼，一切都很好 
+zh-short	是的 孩子 没事 
+en	Yes, kiddo, | we are doing just fine. Um... | 
+ro	Da, puștoaico, ne descurcăm. 
+ja	心配ないよ | 
+

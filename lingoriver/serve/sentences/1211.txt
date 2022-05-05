@@ -1,0 +1,27 @@
+ar	&rlm;‏‏هو من يفتتح عرضها في مسرح "يونيفرسال" | &rlm;‏الروماني الطراز.‏ | 
+da	var hendes åbningsnummer på Universal Amphitheatre. 
+el	τη συναυλία της στο Αμφιθέατρο Γκίμπσον. 
+en	was her opening act | at the Universal Amphitheatre. | 
+fi	oli Courtneyn lämppärinä Universal Amphitheatressa. 
+fr	fasse sa première partie à l'amphithéâtre d'Universal. 
+he	&rlm;‏‏יהיה מופע החימום שלה | &rlm;‏באמפיתאטרון של יוניברסל.‏ | 
+it	le aprisse il concerto allo Universal Amphitheatre. 
+nl	...haar openingsact was in het Universal Amphitheatre. 
+no	varmet opp for henne på Universal Amphitheatre. 
+pl	wystąpił nieustraszony kaskader Gary. 
+pr-br	fosse o ato de abertura do Anfiteatro Universal. 
+pr	fazia a abertura dela no Universal Amphitheatre. 
+ro	să apară în deschiderea ei la Universal Amphitheatre. 
+sp	abriera su show en el Anfiteatro Universal. 
+sp-eu	fuera su telonero en el Universal Amphitheatre. 
+sv	var förband åt henne på Universal Amphitheatre. 
+th	ไปเปิดรายการของเธอ | ที่ยูนิเวอร์แซลแอมพิเทียร์เตอร์ | 
+tr	korkusuz trapez sanatçısı Gary'nin çıkmasını sağladın. 
+vi	là tiết mục mở màn cho cô ấy | ở Nhà hát Universal Amphitheatre. | 
+zh-long	為她在環球露天劇場的表演做開場 
+zh-short	在环球剧院给她做开场表演 
+id	menjadi acara pembuka Courtney di Universal Amphitheatre. 
+ja	彼女のライブの前座に呼んだ | 
+ru	открывать её концерт в амфитеатре «Юниверсал». 
+ko	무모한 공중 곡예사 | 게리를 섭외하셨죠 | 
+

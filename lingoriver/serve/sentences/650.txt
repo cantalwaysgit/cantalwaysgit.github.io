@@ -1,0 +1,24 @@
+ru	Нет. 
+th	ไม่มีครับ | 
+id	Tidak. 
+ar	&rlm;‏لا.‏ | 
+da	Nej. 
+el	Όχι. 
+en	No. | 
+fi	Ei. 
+he	&rlm;‏לא.‏ | 
+ko	아니요 | 
+no	Nei. 
+pl	Nie. 
+pr-br	Não. 
+pr	Não. 
+ro	Nu. 
+sp-eu	No. 
+sp	No. 
+sv	Nej. 
+tr	Hayır. 
+vi	Không. | 
+zh-long	沒有 
+zh-short	没有 
+ja	いいや | 
+

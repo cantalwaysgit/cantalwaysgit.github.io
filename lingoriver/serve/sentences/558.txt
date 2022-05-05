@@ -1,0 +1,25 @@
+en	-[laughs] I know. | -[laughs] | 
+id	Aku tahu. 
+ja	会えてよかった | 
+ru	Знаю. 
+th	ผมรู้ | 
+pl	Nie wątpię. 
+vi	Tôi biết. | 
+ar	&rlm;‏أعلم.‏ | 
+da	Ja. 
+el	Το ξέρω. 
+fi	Tiedän. 
+fr	Je sais. 
+he	&rlm;‏אני יודע.‏ | 
+it	Lo so. 
+ko	알아요 | 
+pr-br	Eu sei. 
+pr	Eu sei. 
+ro	Știu. 
+sp-eu	Lo sé. 
+sp	Lo sé. 
+sv	Jag vet. 
+tr	Biliyorum. 
+zh-long	我知道 
+zh-short	我知道 
+

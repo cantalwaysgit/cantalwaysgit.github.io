@@ -1,0 +1,27 @@
+ar	&rlm;‏وقت "هامر"!‏ | 
+da	Hammer time! 
+el	Χάμερ Τάιμ! 
+en	Hammer time! | 
+fr	On donne tout ! 
+he	&rlm;‏האמר טיים!‏ | 
+it	Hammer time! 
+nl	Hammer-tijd. 
+no	Hammer time! 
+pl	Teraz MC Hammer! 
+pr-br	Quebradeira! 
+pr	Está na hora do Hammer! 
+ro	Momentul Hammer! 
+sp-eu	¡Hammer time! 
+sp	¡Hora de Hammer! 
+sv	Hammer time! 
+th	แฮมเมอร์ไทม์! | 
+tr	Hammer zamanı! 
+vi	Bắt đầu nhảy! | 
+zh-long	動起來！ 
+zh-short	劲舞开始！ 
+ja	ハマータイム！ | 
+id	Tarian MC Hammer! 
+ru	Молотим! 
+ko	해머 타임! | 
+en	-["U Can't Touch This" playing] | -[dancers exclaiming] | 
+

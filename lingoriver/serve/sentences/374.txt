@@ -1,0 +1,27 @@
+ja	いや ゲイじゃないよ | 
+id	Tidak, setahuku, aku tidak homoseksual. 
+ru	Насколько я знаю, я не гей. 
+da	Nej, jeg er ikke, ikke så vidt jeg ved. 
+nl	Nee, ik ben niet gay, voor zover ik weet. 
+el	Απ' όσο γνωρίζω, δεν είμαι ομοφυλόφιλος. 
+ar	&rlm;‏لا، لست مثلياً حسب معرفتي.‏ | 
+en	No, I'm not gay as far as I know. | 
+fi	En ole tietääkseni. 
+fr	Je suis pas gay, pour autant que je sache. 
+he	&rlm;‏לא, אני לא הומו למיטב ידיעתי.‏ | 
+it	No, per quanto ne so non sono gay. 
+no	Nei, ikke så vidt jeg vet. 
+pl	Nie jestem gejem, o ile mi wiadomo. 
+pr-br	Não, que eu saiba, não sou gay. 
+pr	Não, tanto quanto sei, não sou  gay. 
+ro	Nu, din câte știu, nu sunt gay. 
+sp-eu	No, no soy gay que yo sepa. 
+sp	No, no soy homosexual, que yo sepa. 
+sv	Nej, det är jag inte, vad jag vet. 
+th	ไม่ใช่ เท่าที่รู้ผมไม่เป็นเกย์ | 
+tr	Hayır, bildiğim kadarıyla gey değilim. 
+vi	Không, theo tôi biết | thì tôi không đồng tính. | 
+zh-long	據我所知，我不是同志 
+zh-short	不 我不是同性恋 
+ko	내가 알기로는 | 난 게이가 아니야 | 
+

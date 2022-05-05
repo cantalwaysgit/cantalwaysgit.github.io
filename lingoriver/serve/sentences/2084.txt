@@ -1,0 +1,27 @@
+ar	&rlm;‏‏قال إنني إن أحسنت الأداء هنا، | &rlm;‏سأغني في بيت متنقل السنة القادمة.‏ | 
+da	Han sagde, hvis jeg gjorde det, fik jeg en jurte næste år. 
+el	Είπε ότι αν τα πάω καλά, του χρόνου θα έχω αντίσκηνο. 
+en	Said if I do good here, | I get a yurt next year. | 
+fi	Jos menee hyvin, pääsen kuulemma ensi vuonna jurttaan. 
+fr	Si j'assure, l'an prochain, ce sera une yourte. 
+he	&rlm;‏‏הוא אמר שאם אעשה פה עבודה טובה, | &rlm;‏בשנה הבאה אקבל אוהל מונגולי.‏ | 
+it	Se andrà bene, l'anno prossimo lavorerò in una iurta. 
+nl	Als het goed gaat, krijg ik volgend jaar een grotere tent. 
+no	Gjør jeg det bra her, lovte han meg en yurt neste år. 
+pl	A jak się spiszę, to za rok w jurcie. 
+pr-br	Se eu mandar bem aqui, será numa tenda mongol no ano que vem. 
+pr	Disse que, se me sair bem, para o ano me arranja um  yurt. 
+ro	Dacă mă descurc aici, o să merg într-o iurtă la anul. 
+sp-eu	Dice que si lo hago bien el año que viene tendré una yurta. 
+sp	Si me va bien aquí, el año próximo me consigue una yurta. 
+sv	Om jag klarar mig bra får jag en jurta nästa år. 
+th	บอกว่าถ้าผมทำได้ดีที่นี่ | ปีหน้าได้พูดในกระโจม | 
+tr	Bu iyi giderse seneye yurda terfi edecekmişim. 
+vi	Anh ta nói nếu làm tốt, | năm sau tôi sẽ được làm ở lều Yurt. | 
+zh-long	還說要是表現出色 明年就有蒙古包了 
+zh-short	他说要是表现好 明年就换成圆顶的 
+ja	上手くやれば | ゲルに格上げされる | 
+id	Jika di sini aku bagus, aku dapat  yurt  tahun depan. 
+ru	Обещал на будущий год найти юрту. 
+ko	여기서 잘하면 | 내년에 이동 텐트로 옮겨준대요 | 
+

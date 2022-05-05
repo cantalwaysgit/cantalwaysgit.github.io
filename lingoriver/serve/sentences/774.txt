@@ -1,0 +1,45 @@
+ar	&rlm;‏"حلمت حلماً الليلة الماضية‏ | 
+el	Χθες το βράδυ ονειρεύτηκα 
+fi	Viime yönä unta näin 
+fr	Cette nuit, j'ai fait un rêve 
+he	&rlm;‏אמש חלמתי חלום‏ | 
+it	Stanotte ho fatto un sogno 
+ko	어젯밤 꿈을 꿨어 | 
+nl	vannacht had ik 'n droom 
+pr-br	Ontem à noite eu tive um sonho 
+pr	Ontem tive um sonho 
+ro	Aseară am avut un vis 
+sp	Anoche soñé 
+sp-eu	Anoche tuve un sueño 
+sv	Igår hade jag en dröm 
+th	เมื่อคืนฉันฝันถึง | 
+tr	Dün gece bir rüya gördüm 
+vi	Đêm qua em có một giấc mơ | 
+zh-long	昨晚我做了個夢 
+zh-short	我昨晚做了个梦 
+en	♪ Last night I had a dream | That you were here with me ♪ | 
+da	I nat drømte jeg At du var her med mig 
+pl	Ostatniej nocy śniłam że Byłeś ze mną 
+id	Tadi malam aku bermimpi Kau di sini bersamaku 
+ru	Вчера мне снился сон Что ты был со мной 
+ja	私たちは大きな木の下で― | 
+ar	&rlm;‏أنك كنت هنا معي‏ | 
+el	Ότι ήσουν εδώ μαζί μου 
+fi	Sä olit rinnallain 
+fr	On était là tous les deux 
+he	&rlm;‏שהיית כאן איתי‏ | 
+it	Tu eri qui con me 
+ko	넌 나와 함께 있었지 | 
+nl	en jij was bij me 
+pr-br	Que você estava comigo 
+pr	Que estavas aqui comigo 
+ro	Că erai aici, cu mine 
+sp-eu	Tú estabas conmigo 
+sp	Que estabas aquí conmigo 
+sv	Att du var här med mig 
+th	มีคุณมาอยู่กับฉัน | 
+tr	Sen yanımdaydın 
+vi	Rằng anh đã đến bên em | 
+zh-long	你就陪在我身旁 
+zh-short	你跟我在一起 
+

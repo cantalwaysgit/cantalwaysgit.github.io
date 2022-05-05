@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- كيف عرفت؟ | &rlm;‏- لأنني أعلم.‏ | 
+da	-Hvordan vidste du det? -Det gjorde jeg bare. 
+el	-Πώς το ήξερες; -Επειδή το ξέρω. 
+en	-How did you know that? | -Yeah, 'cause I know. | 
+fi	-Mistä tiesit? -Tiedän vain. 
+fr	- Comment tu sais ? - Je le sais, c'est tout. 
+he	&rlm;‏‏איך ידעת? | &rlm;‏-כי אני יודע.‏ | 
+it	- Come fai a saperlo? - Lo so e basta. 
+nl	Hoe wist je dat? -Dat weet ik gewoon. 
+no	-Hvordan visste du det? -Fordi jeg vet. 
+pl	- Skąd wiedziałeś? - Wiem i już. 
+pr-br	-Como você sabia? -Porque eu sei. 
+pr	- Como sabias? - Porque sei. 
+ro	- De unde știi? - Eu știu. 
+sp	- ¿Cómo sabes? - Porque lo sé. 
+sp-eu	- ¿Cómo lo sabes? - Porque lo sé. 
+sv	-Hur vet du det? -För att jag gör det. 
+th	- คุณรู้ได้ยังไง | - เพราะผมรู้ | 
+tr	-Nereden biliyorsun? -Biliyorum işte. 
+vi	- Sao anh biết? | - Vì tôi biết. | 
+zh-long	-你怎麼知道？ -我就是知道 
+zh-short	-你怎么知道的？ -因为我知道 
+id	- Dari mana kau tahu? - Karena aku tahu. 
+ko	- 어떻게 알았어요? | - 그냥요 | 
+ja	僕は知ってるのさ | 何でも知ってる | 
+ru	Да уж знаю. 
+

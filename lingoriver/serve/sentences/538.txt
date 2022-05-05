@@ -1,0 +1,27 @@
+ja	彼のこういうところが | 好きなんだ | 
+id	Dengar, karena itulah aku suka orang ini. 
+ar	&rlm;‏‏- لهذا أحب هذا الرجل. | &rlm;‏- ماذا؟‏ | 
+da	-Det er derfor, jeg er vild med ham. -Hvad? 
+el	-Γι' αυτό αγαπώ αυτόν τον τύπο. -Γιατί; 
+en	-You see, that is why I love this guy. | -What? | 
+fi	Tämän takia tykkään tästä miehestä. 
+fr	- C'est pour ça que je l'adore. - Quoi ? 
+he	&rlm;‏‏זו הסיבה שאני אוהב את הבחור הזה. | &rlm;‏-מה?‏ | 
+it	- Ecco perché amo quest'uomo. - Perché? 
+ko	- 이래서 내가 이분을 좋아해 | - 뭐? | 
+no	-Det er derfor jeg elsker den fyren. -Hva? 
+pl	- Właśnie dlatego go kocham. - Co? 
+pr-br	-É por isso que eu amo esse cara. -Quê? 
+pr	- Vês, é por isto que eu o adoro. - O quê? 
+ro	- Vezi? De asta îl ador pe tipul ăsta. - Poftim? 
+sp-eu	- Por eso me encanta este tío. - ¿Por qué? 
+sp	- Por eso adoro a este tipo. - ¿Por qué? 
+th	- เห็นไหม เพราะงี้ผมถึงชอบเขา | - อะไรนะ | 
+tr	-İşte bu adamı bu yüzden seviyorum. -Ne? 
+vi	- Vì thế mà anh yêu quý anh ta. | - Gì cơ? | 
+zh-long	-這就是我愛他的原因 -什麼？ 
+zh-short	-瞧 所以我才喜欢这家伙 -什么？ 
+sv	-Det är därför jag älskar honom. -Vadå? 
+ru	-Вот за что я его люблю. -Что? 
+nl	Daarom vind ik hem zo te gek. 
+

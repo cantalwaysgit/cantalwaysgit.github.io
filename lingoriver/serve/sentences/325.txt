@@ -1,0 +1,4 @@
+en	That mountain is truly magical. | 
+id	Tempat itu ajaib. 
+ru	Эта гора правда волшебная. 
+

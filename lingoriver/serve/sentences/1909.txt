@@ -1,0 +1,26 @@
+ja	あなたと出会った頃は | 　　夢など持っていなかった | 
+ru	В моем мире не было места мечте 
+ar	&rlm;‏"لا يوجد متسع للأحلام في عالمي‏ | 
+da	Min verden havde ikke plads til drømme 
+el	Στον κόσμο μου δε χωρούσαν όνειρα 
+en	♪ My world had no room for dreams ♪ | 
+fi	Ei mulla unelmille tilaa ollut 
+fr	Mon horizon, c'était le néant 
+he	&rlm;‏בעולמי לא היה מקום לחלומות‏ | 
+it	Nel mio mondo non c'era spazio per i sogni 
+ko	내 세상은 | 꿈을 담을 자리가 없어 | 
+nl	in mijn wereld was er geen plek voor dromen 
+pl	Nie miałam żadnych marzeń 
+pr-br	Não havia espaço para sonhos no meu mundo 
+pr	O meu mundo não tinha espaço para sonhos 
+ro	În lumea mea nu mai era loc de vise 
+sp	En mi mundo no había lugar para sueños 
+sp-eu	En mi mundo no había sitio para los sueños 
+sv	Min värld hade inte plats för drömmar 
+th	โลกของฉันไม่มีที่ว่างสำหรับความฝัน | 
+tr	Dünyamda yer yoktu hayallere 
+vi	Thế giới của em không có chỗ cho ước mơ | 
+zh-long	我的世界容不下夢想 
+zh-short	当你发现我时 
+id	Dulu aku tidak punya mimpi 
+

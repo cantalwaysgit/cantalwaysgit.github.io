@@ -1,0 +1,57 @@
+ar	&rlm;‏‏- لم يكن متزوجاً. | &rlm;‏- لم يواعد.‏ | 
+da	-Han var ikke gift. -Ingen kærester. 
+el	-Δεν ήταν παντρεμένος. -Δεν έβλεπε κάποια. 
+en	-He wasn't married. | -Didn't date. | 
+fi	-Naimaton. -Ei seurustellut. 
+fr	- Pas marié. - Pas de copine. 
+he	&rlm;‏‏הוא לא היה נשוי. | &rlm;‏-הוא לא יצא עם בחורות.‏ | 
+id	- Dia tidak menikah. - Tidak berkencan. 
+it	- Non era sposato. - Non frequentava donne. 
+ko	- 결혼도 안 했고 | - 데이트도 안 했고 | 
+nl	Niet getrouwd. -Geen dates. 
+no	-Han var ikke gift. -Datet ikke. 
+pl	- Nie miał żony. - Nie randkował. 
+pr-br	-Ele não era casado. -Não namorava. 
+pr	- Não era casado. - Não namorava. 
+ro	- Nu era însurat. - Nu ieșea cu nimeni. 
+ru	-У него не было жены. -И подруг. 
+sp-eu	- No estaba casado. - No salía con nadie. 
+sp	- No estaba casado. - No tenía citas. 
+sv	-Han var ogift. -Dejtade aldrig. 
+th	- เขาไม่ได้แต่งงาน | - ไม่เคยเดต | 
+tr	-Evli değildi. -Kimseyle çıkmıyordu. 
+vi	- Anh ta không kết hôn. | - Không hẹn hò. | 
+zh-long	-他沒結婚 -也沒女人 
+zh-short	-他未婚 -没女朋友 
+ja	独身 | 
+
+he	‫תפסיק להסתובב לי ליד הבית, מנוול.‬ | 
+da	Hold op med at holde foran mit hus! | 
+el	Τι θες πάλι έξω από το σπίτι μου; 
+en	Stop lingering outside my house, you sick fuck. 
+es	¡Deja de pasar por mi casa, enfermo! 
+es-eu	Deja de merodear por mi casa. 
+fr	Arrête de traîner ici, sale malade ! 
+hr	Prestani mi se motati oko kuće! 
+hu	Tűnj a házunk elől, te elmebeteg! 
+id	Berhenti berkeliaran di sekitar rumahku! 
+it	Non venire più a casa mia, pazzo! 
+ja	&lrm;うろつくんじゃないよ | 
+ko	&lrm;우리 집 근처에 그만 얼쩡대라고! | &lrm;변태 새끼 | 
+ms	Berhenti menghendap rumah aku, gila! 
+nl	Hang niet zo rond bij mijn huis. 
+no	Slutt å henge ved mitt hus, gærning! 
+pt-br	Pare de rondar a minha casa, seu doente! 
+pt	Para de rondar a minha casa, cabrão! 
+ro	Nu mai sta la pândă, dezaxatule! 
+ru	Опять крутишься у моего дома, козёл? 
+sv	Sluta komma hit hela tiden, pervo! 
+th	&lrm;เลิกมาด้อมๆ มองๆ บ้านฉันได้แล้ว ไอ้โรคจิต! | 
+tr	Evimin etrafında dolaşma sapık! 
+uk	Чого стирчиш під моїм будинком, збоченцю? 
+vi	&lrm;Đừng lảng vảng | &lrm;quanh nhà tôi nữa, đồ bệnh hoạn! | 
+zh-long	變態，別在我家附近逗留！ 
+zh-short	别在我家附近转悠了 你这个变态！ 
+fi	Miksi pyörit täällä, sairas paska? | 
+cs	Nemotej se mi kolem domu, magore! 
+

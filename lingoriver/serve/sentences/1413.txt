@@ -1,0 +1,27 @@
+ar	&rlm;‏زبونتي، "إيمي باسكين". تتذكرينها.‏ | 
+da	Min klient, Amy Baskin... Du husker vel Amy. 
+el	Μια πελάτισσά μου, η Έιμι Μπάσκιν... Θυμάσαι την Έιμι; 
+en	A client of mine... Amy Baskin. | You... you remember Amy. | 
+fi	Asiakkaani Amy Baskin. Muistathan Amyn. 
+fr	Ma cliente Amy Baskin... Tu te souviens d'elle. 
+he	&rlm;‏‏הלקוחה שלי, איימי בסקין... | &rlm;‏את זוכרת את איימי.‏ | 
+it	Una mia cliente, Amy Baskin... Ti ricordi di Amy? 
+nl	Mijn cliënt, Amy Baskin... Je kent Amy nog wel. 
+no	Klienten min, Amy Baskin... Du husker Amy. 
+pl	Moja klientka, Amy Baskin... Pamiętasz ją? 
+pr	A minha cliente, a Amy Baskin... Lembras-te da Amy. 
+pr-br	Minha cliente, Amy Baskin... Você se lembra da Amy. 
+ro	O clientă, Amy Baskin... O mai știi pe Amy. 
+sp-eu	Una clienta, Amy Baskin... Te acuerdas de Amy. 
+sp	Mi clienta, Amy Baskin... Recuerdas a Amy. 
+sv	Min klient, Amy Baskin. Du minns väl Amy? 
+th	ลูกค้าผม เอมี่ บาสกิน จำเอมี่ได้นะ | 
+tr	Sanatçım Amy Baskin... Amy'yi hatırlarsın. 
+vi	Khách hàng của tôi Amy Baskin... | Cô còn nhớ Amy. | 
+zh-long	我的藝人艾咪貝斯金… 妳記得艾咪吧 
+zh-short	我的客户 艾米巴斯金… 记得艾米吧 
+id	Klienku, Amy Baskin. Kau ingat Amy. 
+ja	うちのエイミーを覚えてる？ | 
+ru	Моя клиентка, Эми Баскин... Помнишь Эми? 
+ko	내 고객 에이미 배스킨이... | 에이미 기억하지? | 
+

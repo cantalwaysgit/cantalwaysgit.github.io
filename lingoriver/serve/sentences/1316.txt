@@ -1,0 +1,27 @@
+en	[Cindy] And here we are. | 
+ar	&rlm;‏وها نحن ذا.‏ | 
+da	Så er vi her. 
+el	Εδώ είμαστε. 
+fi	Kas näin. 
+fr	Nous y voilà. 
+he	&rlm;‏והנה אנחנו.‏ | 
+it	Eccoci qua. 
+nl	We zijn er. 
+no	Og her er vi. 
+pl	Jesteśmy na miejscu. 
+pr-br	Chegamos. 
+pr	E cá estamos. 
+ro	Și am ajuns! 
+sp-eu	Aquí estamos. 
+sp	Y aquí estamos. 
+sv	Här är det. 
+th	นี่เลย | 
+tr	İşte geldik. 
+vi	Đây rồi. | 
+zh-long	進來 
+zh-short	我们到了 
+id	Kita sampai. 
+ru	Проходи. 
+ko	여기예요 | 
+ja	さあ どうぞ | 
+

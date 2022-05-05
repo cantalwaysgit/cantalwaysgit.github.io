@@ -1,0 +1,80 @@
+id	jadi, suasananya berbeda. 
+ru	так что... всё было немного иначе. 
+ar	&rlm;‏لذا كان الأمر مختلفاً.‏ | 
+el	οπότε... η ατμόσφαιρα ήταν διαφορετική. 
+en	so it was... It was a different vibe. | 
+fi	Meininki oli vähän erilainen. 
+fr	et c'était... Le contexte était tout autre. 
+he	&rlm;‏אז זו הייתה... אווירה אחרת.‏ | 
+it	e l'atmosfera era diversa. 
+ko	분위기가 달랐어요 | 
+pl	Klimat się już zmienił. 
+pr-br	então o clima era outro. 
+pr	por isso, era um ambiente diferente. 
+ro	deci era o altă atmosferă. 
+sp	así que era una vibra diferente. 
+sp-eu	así que el rollo era distinto. 
+sv	Så det var andra vibbar. 
+th	มันเลยรู้สึกแตกต่างไป | 
+tr	Yani... farklı bir atmosfer vardı. 
+vi	vì vậy nên... Ngày đó rất khác. | 
+zh-long	氛圍跟現在很不一樣 
+zh-short	所以气氛不太一样 
+ja	戦後だね | 
+
+cs	A NAKONEC DODAL: 
+da	OG SÅ TILFØJER HAN: | 
+el	ΚΑΙ ΜΕΤΑ ΕΙΠΕ 
+en	AND THEN HE SAYS: 
+es-eu	Y ENTONCES AÑADE: 
+fi	SITTEN HÄN LISÄSI: | 
+fr	APRÈS, IL A AJOUTÉ : 
+he	‫- ואז הוא מוסיף: -‬ | 
+hr	A ONDA DODAJE: 
+hu	ÉS AZTÁN HOZZÁTESZI: 
+id	LALU DIA MENAMBAHKAN: 
+ja	&lrm;“そして彼は言った” | 
+ko	&lrm;"그리고 이렇게 덧붙였다" | 
+ms	KEMUDIAN DIA MENAMBAH, 
+nl	EN DAN VOEGT HIJ ERAAN TOE: 
+no	OG SÅ LEGGER HAN TIL: 
+pt-br	ENTÃO, ELE CONTINUA: 
+pt	E DEPOIS ACRESCENTA: 
+ro	APOI A SPUS: 
+ru	И ПОТОМ ОН ДОБАВИЛ: 
+sv	OCH SEN TILLÄGGER HAN: 
+th	&lrm;(แล้วเขาก็พูดอีกว่า:) | 
+uk	А ПОТІМ ДОДАВ: 
+vi	&lrm;VÀ SAU ĐÓ CẬU TA  NÓI: | 
+zh-long	（然後他說） 
+zh-short	（然后他说：） 
+es	Y LUEGO AÑADE: "DEBE TERMINAR. ES TODO CULPA DE GURÚ". 
+it	E POI AGGIUNGE: "DEVE FINIRE. È TUTTA COLPA DI GURU". 
+tr	SONRA "BU SONA ERMELİ, HEPSİ GURU'NUN SUÇU" DEDİ 
+cs	„MUSÍ TO SKONČIT. VŠECHNO JE TO GURUOVA VINA.“ 
+da	"DET MÅ STOPPE. DET HELE ER GURUS SKYLD." | 
+el	"ΠΡΕΠΕΙ ΝΑ ΤΕΛΕΙΩΣΕΙ. ΓΙΑ ΟΛΑ ΦΤΑΙΕΙ Ο ΓΚΟΥΡΟΥ". 
+en	"IT HAS TO END. IT'S ALL GURU'S FAULT." 
+es-eu	"TIENE QUE ACABAR. ES TODO CULPA DE GURU". 
+fi	"SEN ON LOPUTTAVA. SE ON GURUN SYYTÄ." | 
+fr	"IL FAUT QUE ÇA S'ARRÊTE. TOUT EST DE LA FAUTE DE GURU." 
+he	‫- "זה חייב להסתיים. זה הכול באשמת גורו." -‬ | 
+hr	„TO SE MORA ZAVRŠITI. ZA SVE JE GURU KRIV.” 
+hu	„BE KELL FEJEZNI. MINDENRŐL GURU TEHET.” 
+id	"INI HARUS BERAKHIR. ITU SEMUA SALAH GURU." 
+ja	&lrm;“終わらせねば | &lrm;全てグルのせいだ” | 
+ko	&lrm;"끝내야 해요 | &lrm;다 구루 때문이에요" | 
+ms	"IA MESTI BERAKHIR. SEMUA INI SALAH GURU." 
+nl	'ER MOET EEN EIND AAN KOMEN. HET IS DE SCHULD VAN GURU.' 
+no	"DET MÅ SLUTTE. DET ER GURUS SKYLD." 
+pt-br	"ISSO TEM QUE ACABAR. É TUDO CULPA DE GURU." 
+pt	"ISTO TEM DE ACABAR. A CULPA É DO GURU." 
+ro	„TREBUIE SĂ SE TERMINE. VINA O POARTĂ GURU.” 
+ru	«ВСЁ ДОЛЖНО ЗАКОНЧИТЬСЯ. ЭТО ГУРУ ВИНОВАТ». 
+sv	"DET MÅSTE FÅ ETT SLUT. ALLT ÄR GURUS FEL." 
+th	&lrm;(มันต้องจบแล้ว เป็นความผิดของกูรู) | 
+uk	«ТРЕБА ПОКІНЧИТИ З ЦИМ. ЦЕ ГУРУ ВИНЕН». 
+vi	&lrm;"VIỆC ĐÓ PHẢI CHẤM DỨT. | &lrm;TẤT CẢ LÀ LỖI CỦA SƯ PHỤ". | 
+zh-long	(“此事一定得結束 這全是大師的錯”） 
+zh-short	（“这件事必须结束 这都是大师的错”） 
+

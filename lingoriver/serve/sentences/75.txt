@@ -1,0 +1,69 @@
+id	Berikutnya, dia akan dapat saus tomatnya sendiri. 
+ko	다음번에는 직접 케첩을 | 가져오겠네요 | 
+ru	В другой раз сам принесет кетчуп. 
+ja	“ケチャップはご自分で”？ | 
+ar	&rlm;‏‏في المرة القادمة سيحصل | &rlm;‏على صلصة طماطم خاصة به.‏ | 
+da	Næste gang får han sin egen ketchup. 
+el	Την επόμενη φορά, θα φέρει δική του κέτσαπ. 
+en	Next time he'll get his own ketchup. | 
+fi	Seuraavalla kerralla hänellä on oma ketsuppi. 
+fr	La prochaine fois, il aura son propre ketchup. 
+he	&rlm;‏בפעם הבאה הוא יביא את הקטשופ שלו.‏ | 
+it	La prossima volta si prenderà il suo ketchup. 
+nl	De volgende keer neemt hij zelf ketchup mee. 
+no	Neste gang tar han sin egen ketsjup. 
+pl	Następnym razem sam weźmie keczup. 
+pr-br	Na próxima, ele vai trazer o próprio ketchup. 
+pr	Para a próxima, ele traz o seu próprio  ketchup. 
+ro	Data viitoare o să aibă ketchupul lui. 
+sp-eu	La próxima vez cogerá su propio kétchup. 
+sp	La próxima vez traerá su propio kétchup. 
+sv	Nästa gång tar han med egen ketchup. 
+th	คราวหน้าเขามี | ซอสมะเขือเทศของตัวเองเลย | 
+tr	Gelecek sefere kendi ketçabını alacak. 
+vi	Lần sau anh ta sẽ có xốt cà chua. | 
+zh-long	下次他會拿自己的番茄醬 
+zh-short	下次他自己带番茄酱 
+
+it	Ho messo il numero dello studio di papà, così i vostri resteranno liberi. 
+hu	Apa ügyvédi irodájának a számát írtam rá, 
+es	Puse el teléfono del estudio de mi papá para que no les ocupen la línea. 
+ms	Saya letak nombor firma guaman ayah saya, supaya kamu berdua tak diganggu. 
+cs	Dala jsem tam tátovo číslo do práce, 
+es-eu	He puesto el número de mi padre 
+he	‫שמתי את מספר משרד עו"ד של אבא שלי,‬ | 
+id	Aku menaruh nomor firma hukum ayahku, 
+ko	&lrm;아빠의 로펌 번호를 넣었어요 | 
+pt	Pus o telefone da firma do meu pai, 
+th	&lrm;หนูใส่เบอร์สำนักงานทนายความของพ่อไว้ | 
+uk	Я вказала там телефон татової фірми, 
+zh-long	我寫了我父親法律事務所的電話 
+zh-short	我写的是我爸爸的律师事务所的电话 
+pt-br	Pus o telefone do escritório do meu pai, 
+hr	Stavila sam broj tatina ureda, da vam linije ostanu slobodne. 
+el	Έβαλα το τηλέφωνο του γραφείου του μπαμπά, για να μην ενοχλούν εσάς. 
+ru	Я указала контакты юрфирмы моего отца, чтобы не занимать ваши телефоны. 
+da	Nummeret er til min fars kontor, | så Deres nummer ikke bliver blokeret. | 
+en	I put in the number for my dad's law firm so your numbers can stay open. 
+fi	Laitoin ilmoitukseen isän firman numeron, | jotta linjanne pysyvät auki. | 
+fr	J'ai mis le numéro de mon père, pour ne pas encombrer votre ligne. 
+ja	&lrm;父の法律事務所の | &lrm;電話番号を載せています | 
+ro	Am pus numărul de la biroul tatei, ca să rămână libere liniile voastre. 
+tr	Telefonlarınız meşgul edilmesin diye babamın hukuk bürosunun numarasını yazdım. 
+vi	&lrm;Cháu lấy số của công ty luật của bố cháu | &lrm;để số của cô chú không bị bận. | 
+sv	Numret går till pappas advokatbyrå, så att ni inte missar några samtal. 
+nl	Mijn vaders werknummer staat erop zodat u niet steeds gebeld wordt. 
+no	Jeg skrev pappas advokatfirmas nummer, så deres mobil ikke blir opptatt. 
+uk	щоб вам не дзвонили. 
+cs	ať vám lidi neblokují linky. 
+es-eu	para que no saturen el suyo. 
+he	‫כדי שלא יתפסו לכם את הטלפון.‬ | 
+id	jadi, nomormu tak akan terganggu. 
+ko	&lrm;두 분 번호는 따로 쓰실 수 있게요 | 
+pt	para não ocuparem os vossos. 
+th	&lrm;สายคุณจะได้ว่าง | 
+zh-long	你們的電話才不會被佔用 
+zh-short	免得你们的电话响个不停 
+pt-br	para o de vocês ficar livre. 
+hu	hogy ne az önökét hívogassák. 
+

@@ -1,0 +1,27 @@
+ko	퀸시는 거기서 산 적 없어요 | 무슨 소리예요? | 
+id	Quincy tak pernah tinggal di Venice. Apa maksudmu? 
+ru	Он никогда там не жил. Ты о чем, приятель? 
+ja	ヴェニスに彼の家はない | 
+no	-Han har aldri bodd der. Hva prater du om? -Hun sa at han gjorde det. 
+ar	&rlm;‏لم يعش هناك قط. عم تتحدث يا "ويليس"؟‏ | 
+da	Der har han aldrig boet. Hvad snakker du om? 
+el	Ο Κουίνσι δεν έμενε ποτέ στο Βένις. Τι λες; 
+en	Quincy never lived in Venice. | What you talking about, Willis? | 
+fi	Quincy ei ole koskaan asunut siellä. 
+fr	Il a jamais créché là-bas. Tu dis n'importe quoi. 
+he	&rlm;‏‏הוא אף פעם לא גר שם. | &rlm;‏על מה אתה מדבר, ויליס?‏ | 
+it	Non ci ha mai vissuto. Che cavolo stai dicendo, Willis? 
+nl	Daar heeft hij nooit gewoond. Waar heb je het over? 
+pl	Nigdy tam nie mieszkał. Co ty gadasz? 
+pr-br	Ele nunca morou lá. Do que está falando, Willis? 
+pr	Ele nunca morou em Venice. Estás a falar de quê? 
+ro	N-a locuit niciodată acolo. Ce tot spui, Willis? 
+sp-eu	Quincy nunca ha vivido en Venice. ¿De qué hablas? 
+sp	Nunca vivió allí. ¿De qué estás hablando, Willis? 
+sv	Han har aldrig bott i Venice. Vad pratar du om? 
+th	เขาไม่เคยอยู่ที่นั่น | นั่นพูดเรื่องอะไร วิลลิส | 
+tr	Orada hiç oturmadı ki. Ne saçmalıyorsun? 
+vi	Anh ta chưa từng sống ở đó. | Anh nói gì vậy, Willis? | 
+zh-long	他沒住過那裡 你在說誰？威利？ 
+zh-short	他根本就没住过那里 你在说什么 威利斯？ 
+

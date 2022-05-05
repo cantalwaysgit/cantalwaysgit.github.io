@@ -1,0 +1,27 @@
+id	Entahlah. 
+ar	&rlm;‏لا أدري.‏ | 
+da	Det ved jeg ikke. 
+el	Δεν ξέρω. 
+fi	En tiedä. 
+fr	Je sais pas. 
+he	&rlm;‏אני לא יודע.‏ | 
+it	Non saprei. 
+no	Jeg vet ikke. 
+pl	Nie wiem. 
+pr-br	Não sei. 
+pr	Não sei. 
+ro	Habar n-am. 
+sp-eu	No lo sé. 
+sp	No lo sé. 
+sv	Jag vet inte. 
+th	ผมไม่รู้ | 
+tr	Bilmiyorum. 
+vi	Tôi không biết nữa. | 
+zh-long	我不知道 
+zh-short	我不知道 
+en	I don't know. I... | 
+nl	Ik weet het niet. Ik heb lang geleden bar mitzva gedaan. 
+ja	だいぶ昔に | 成人男子の儀式はやったけど | 
+ru	Не знаю. 
+ko	모르겠어요 | 
+

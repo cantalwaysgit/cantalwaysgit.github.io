@@ -1,0 +1,28 @@
+id	- Agak mirip rasa kacang. - Kacang? 
+ja	ナッツっぽい | 
+ru	-Орехами отдает. -Орехами? 
+ar	&rlm;‏‏- طعمه جوزي قليلاً. | &rlm;‏- جوزي؟‏ | 
+da	-Den er lidt nøddeagtig. -Nøddeagtig? 
+el	-Είναι λίγο αλμυρό. -Αλμυρό; 
+en	-It's a little nutty. | -Nutty? | 
+fi	-Aika pähkinäistä. -Pähkinäistä? 
+fr	- Ça a un peu le goût de noix. - De noix ? 
+he	&rlm;‏‏יש לזה קצת טעם של אגוזים. | &rlm;‏-טעם של אגוזים?‏ | 
+it	- È un po' troppo aromatico. - Aromatico? 
+ko	- 견과 맛이 나네요 | - 견과 맛이? | 
+nl	Een beetje nootachtig. -Nootachtig? 
+no	-Litt mye nøtter. -Nøtter? 
+pl	- Zaciąga orzechami. - Co? 
+pr-br	-Tem gosto muito forte de nozes. -Nozes? 
+pr	- Sabe demasiado a frutos secos. - Frutos secos? 
+ro	- E puțin cam sec. - Sec? 
+sp-eu	- Sabe un poco a frutos secos. - ¿A frutos secos? 
+sp	- Tiene sabor a nuez. - ¿A nuez? 
+sv	-Det är lite nötaktigt. -Nötaktigt? 
+th	- มันมีรสถั่วนิดๆ | - ถั่วเรอะ | 
+tr	-Biraz cevizsi. -Cevizsi mi? 
+vi	- Hơi có mùi vị hạt phỉ. | - Hạt phỉ? | 
+zh-long	-堅果味重了點 -堅果味 
+zh-short	-有点果仁味 -果仁味？ 
+ja	ナッツ？ | 
+

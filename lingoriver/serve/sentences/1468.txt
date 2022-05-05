@@ -1,0 +1,27 @@
+ar	&rlm;‏يوجد مصورون صحفيون كثر في الخارج.‏ | 
+da	Der er mange paparazzi ude foran. 
+el	Έξω βρίσκονται πολλοί παπαράτσι. 
+en	And unfortunately, | there are very many paparazzi out front. | 
+fi	Täällä on paljon paparazzeja. 
+fr	Et il y a une nichée de paparazzi. 
+he	&rlm;‏יש כאן הרבה צלמי פפראצי בחזית.‏ | 
+it	E ci sono molti paparazzi là fuori. 
+nl	En er zijn hier veel paparazzi. 
+no	Det er veldig mange paparazzier her. 
+pr-br	E tem muitos paparazzi aqui. 
+pr	E há muitos  paparazzi  cá à frente. 
+ro	Sunt mulți paparazzi afară. 
+sp-eu	Hay muchísimos paparazzi ahí fuera. 
+sp	Hay muchos  paparazzi  delante. 
+sv	Det är många paparazzi utanför. 
+th	แล้วมีปาปารัสซี่มากมายข้างนอกนั่น | 
+tr	Dışarısı da paparazzi dolu. 
+vi	Có rất nhiều thợ săn ảnh ở đằng trước. | 
+zh-long	外面有一堆狗仔等著拍 
+zh-short	外面有很多狗仔队 
+ja	しかも外にはパパラッチが | 
+id	Sayangnya, ada banyak paparazi di sini. 
+ru	Тут толпа папарацци. 
+pl	a na zewnątrz jest wielu paparazzi. 
+ko	밖에는 파파라치가 정말 많고요 | 
+

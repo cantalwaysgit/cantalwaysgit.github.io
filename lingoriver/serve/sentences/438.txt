@@ -1,0 +1,28 @@
+id	- Aku tidak mau. - Ayolah, Sandy. 
+ja	やれよ | ウィンナーを想像して | 
+id	Katamu itu mudah. Melamunkan sosis. 
+ru	Легко, да? Помечтай о сосисках. 
+ar	&rlm;‏قلت إن الأمر سهل. احلم بالقضبان.‏ | 
+da	Du sagde, det er let nok. Drøm om pølser. 
+el	Είπες ότι είναι εύκολο. Ονειρέψου τα τσουτσούνια. 
+en	You said it's easy. | Dream of the wieners, huh? | 
+fi	Sanoit, että se on helppoa. Haaveile nakeista. 
+fr	Tu dis que c'est facile. Pense à des zizis. 
+he	&rlm;‏אמרת שזה קל. תחלום על נקניקיות.‏ | 
+it	Hai detto che è semplice. Sogna i wurstel. 
+ko	쉽다면서요 | 거시기 생각하면서 찍어 봐요 | 
+nl	Jij zei dat 't makkelijk was. Droom van worsten. 
+no	Du sa det var lett. Drøm om wienere. 
+pl	Podobno to łatwe. Myśl o pindolkach. 
+pr-br	Você disse que era fácil. Sonhe com pintos. 
+pr	Disseste que era fácil. Sonha com as salsichas. 
+ro	Ai zis că e ușor. Visează la "cârnăciori". 
+sp	Dijiste que era fácil. Sueña con salchichas. 
+sp-eu	Tú has dicho que es fácil. Sueña con salchichas. 
+sv	Det var ju lätt. Dröm om prinskorvar. 
+th	คุณบอกว่ามันง่าย คิดถึงจู๋ | 
+tr	Kolay dedin. Sosis hayal et. 
+vi	Anh nói dễ mà. Nghĩ về xúc xích đi. | 
+zh-long	你說很簡單，想著大香腸 
+zh-short	你说这很容易 想想鸡鸡 
+

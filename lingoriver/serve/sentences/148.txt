@@ -1,0 +1,32 @@
+en	[laughing] | 
+
+it	Posso rifarlo mille volte. 
+id	Aku bisa mengulanginya ribuan kali. 
+no	Jeg kan gjøre det tusen ganger. 
+zh-short	我可以再道歉一千次 
+uk	І можу зробити це тисячу разів. 
+es	Puedo disculparme mil veces más. 
+ru	И могу сделать это тысячу раз. 
+el	Μπορώ να ζητήσω χίλιες φορές. 
+da	Jeg kan gøre det tusind gange til. | 
+es-eu	Puedo hacerlo miles de veces. 
+fr	Je peux le refaire mille fois. 
+he	‫אני יכול להתנצל עוד אלף פעם.‬ | 
+hr	Mogu to tisuću puta učiniti. 
+hu	És még ezerszer bocsánatot kérek. 
+ja	&lrm;何千回でもします | 
+ko	&lrm;천 번이라도 할 수 있어요 | 
+ms	Saya boleh minta maaf seribu kali. 
+nl	Dat kan ik nog duizend keer doen. 
+pt	Posso fazê-lo mais mil vezes. 
+ro	Pot să-mi cer scuze la nesfârșit. 
+th	&lrm;จะให้ผมขอโทษอีกพันครั้งก็ได้ | 
+tr	Binlerce defa daha dilerim. 
+vi	&lrm;Tôi có thể xin lỗi cả ngàn lần. | 
+zh-long	我可以道歉一千遍 
+pt-br	E posso me desculpar mais mil vezes. 
+sv	Och jag kan göra det tusen gånger till. 
+cs	A můžu to udělat i tisíckrát. 
+fi	Voin pyytää loputtomasti anteeksi. | 
+en	And I can do it a thousand times over. 
+

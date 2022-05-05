@@ -1,0 +1,26 @@
+ru	-Правда? -Эфирное время освободилось. 
+ar	&rlm;‏‏- حقاً؟ | &rlm;‏- وقت عرضه متوفر يا قوم.‏ | 
+da	-Er det rigtigt? -Hans tid er ledig. 
+el	-Αλήθεια; -Η ώρα του έμεινε κενή. 
+en	-Really? | -His time slot's open, guys. | 
+fi	-Niinkö? -Hänen ohjelmapaikkansa vapautui. 
+fr	- Sérieux ? - Son créneau est libre. 
+he	&rlm;‏‏באמת? | &rlm;‏-המשבצת שלו פנויה, חבר'ה.‏ | 
+it	- Davvero? - La sua fascia oraria è libera. 
+no	-Er det sant? -Tiden hans er ledig. 
+pl	- Serio? - Zwolniło się miejsce. 
+pr	- A sério? - A rubrica dele está vaga. 
+pr-br	-Sério? -Tem uma vaga, pessoal. 
+ro	- Serios? - Intervalul lui e liber. 
+sp	- ¿De veras? - Su lugar está disponible, gente. 
+sp-eu	- ¿En serio? - Su puesto está libre, chicos. 
+sv	-Verkligen? -Det är en öppning. 
+th	- จริงเหรอ | - เวลาแสดงของเขาเปิดว่าง เพื่อน | 
+tr	-Sahi mi? -Yeri boşaldı çocuklar. 
+vi	- Thật sao? | - Giờ diễn của ông ấy bỏ ngỏ. | 
+zh-long	-真的假的？ -他的時段空出來了 
+zh-short	-真的吗？ -他的节目没人演了 各位 
+id	- Benarkah? - Jadwalnya kosong. 
+ko	- 정말? | - 이제 한 자리가 비네 | 
+ja	マジ？ | 
+

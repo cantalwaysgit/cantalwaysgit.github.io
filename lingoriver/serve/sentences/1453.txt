@@ -1,0 +1,27 @@
+id	- Apa kau enam tahun? - Tentu, dia mau. 
+ru	-Тебе шесть лет? -Конечно возьмет. 
+ar	&rlm;‏‏- هل عمرك 6 سنوات؟ | &rlm;‏- سيفعل ذلك بالتأكيد.‏ | 
+da	-Er du seks år gammel? -Selvfølgelig. 
+en	-What are you, six? | -Yeah, of course he will. | 
+fi	-Oletko kuusivuotias? -Tietysti. 
+fr	- T'as quel âge ? - Avec plaisir. 
+he	&rlm;‏‏אתה בן שש? | &rlm;‏-בוודאי שהוא יעשה את זה.‏ | 
+it	- Hai sei anni? - Certo che può farlo. 
+ko	- 몇 살인데 이래요? | - 물론 그래야죠 | 
+nl	Hoe oud ben je, zes? -Natuurlijk. 
+no	-Er du seks år? -Klart han vil. 
+pl	- Masz sześć lat? - Ulula. 
+pr-br	-Tem seis anos? -Claro que sim. 
+pr	- Tens seis anos? - Claro que sim. 
+ro	- Ai șase ani? - Normal că te leagănă. 
+sp-eu	- ¿Tienes seis años? - Claro que lo hará. 
+sp	- ¿Tienes seis años? - Claro que lo hará. 
+sv	-Är du sex år? -Klart han kan. 
+th	- อายุหกขวบเหรอ | - แน่นอนว่าเขาจะทำให้ | 
+tr	-Altı yaşında mısın? -Tabii sallar. 
+vi	- Anh mới sáu tuổi à? | - Tất nhiên rồi. | 
+zh-long	-你六歲嗎？ -當然可以 
+zh-short	-你六岁吗？ -他当然可以 
+el	-Έξι χρόνων είσαι; -Φυσικά και θα το κάνει. 
+ja	ガキか？ | 
+

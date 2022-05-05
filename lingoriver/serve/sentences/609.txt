@@ -1,0 +1,27 @@
+en	-[pager beeping] | -Got a hit on the hip. | 
+id	Aku dapat pesan. 
+ru	О, пейджер. 
+ja	ポケベルが鳴ってる | これは電話すべきだな | 
+th	มีเพจเจอร์เข้ามา | 
+ar	&rlm;‏وصلني نداء.‏ | 
+da	Så er der gang i hoften. 
+el	Έχω ειδοποίηση. 
+fi	Joku piippaa. 
+fr	Ça bipe. 
+he	&rlm;‏יש לי הודעה.‏ | 
+it	Il segnale. 
+no	Det piper. 
+pl	Ktoś do mnie napiera. 
+pr-br	Uma mensagem. 
+pr	Estão a dar-me um toque. 
+ro	Am bipuri la șold. 
+sp-eu	Me vibra la cadera. 
+sp	Me están buscando. 
+sv	Nån söker mig. 
+tr	Çağrı geldi. 
+vi	Có điện thoại. | 
+zh-long	有人傳呼我 
+zh-short	呼机响了 
+nl	Ik word opgeroepen. Ik moet iemand bellen. 
+ko	삐삐가 왔네 | 
+

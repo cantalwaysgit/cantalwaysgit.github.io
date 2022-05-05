@@ -1,0 +1,53 @@
+ja	プリム祭も | そう言って来なかった | 
+id	tapi dia bilang Purim tahun lalu. Siapa tahu? 
+ru	но он и на Пурим обещал, так что не знаю. 
+en	but he said last year Purim, | so who knows? | 
+he	&rlm;‏אבל בשנה שעברה הוא אמר פורים, אז מי יודע?‏ | 
+ar	&rlm;‏‏لكنه قال إنه سيأتي في عيد الفور | &rlm;‏السنة الماضية، من يعلم؟‏ | 
+da	men det sagde han også sidste år til purim, så hvem ved. 
+el	πέρυσι, όμως, ήρθε για το Πουρίμ, οπότε ποιος ξέρει; 
+fi	mutta viime vuonna hänen piti tulla  purimiin,  joten saa nähdä. 
+fr	mais il avait dit pareil pour Pourim, donc bon... 
+it	ma lo ha detto al Purim dell'anno scorso, quindi chissà? 
+ko	작년 부림절에도 그랬으니 | 누가 알겠어요? | 
+nl	...maar vorig jaar zei hij voor Poerim, dus wie weet? 
+pl	a w zeszłym roku na Purim, więc kto to wie. 
+pr-br	mas ele falou que viria para o Purim ano passado, então, vai saber? 
+pr	mas disse o mesmo o ano passado no Purim, por isso, quem sabe? 
+ro	dar a promis și anul trecut, de Purim, deci cine știe? 
+sp-eu	pero el año pasado dijo que en Purim, así que, ¿quién sabe? 
+sp	pero el año pasado dijo para Purim. ¿Quién sabe? 
+sv	men förra året sa han purim, så vem vet? 
+th	แต่ปีก่อนเขาบอกว่าจะมาช่วงปูริม | ก็เลย ใครจะรู้ได้ | 
+tr	ama geçen yıl Purim demişti, kim bilir? 
+vi	nhưng ông ta nói thế | vào lễ Purim năm ngoái, ai biết được? | 
+zh-long	但他是去年普珥節說的，天曉得？ 
+zh-short	可他去年普林节也这么说过 所以 谁知道呢？ 
+en	-[laughs] | -But anyways, how are you? | 
+ja	ところで ご主人の具合は？ | 
+id	Omong-omong, apa kabar? Bagaimana kabar suamimu? 
+he	&rlm;‏מה שלומך? מה שלום בעלך?‏ | 
+ru	Как твои дела? Как муж? 
+ar	&rlm;‏بأي حال، كيف حالك؟ كيف حال زوجك؟‏ | 
+da	Hvordan går det? Hvordan har din mand det? 
+el	Πώς είσαι; Τι κάνει ο σύζυγός σου; 
+fi	Mitä kuuluu? Miten miehesi voi? 
+fr	Comment tu vas ? Et ton mari ? 
+it	Tu come stai? E tuo marito? 
+ko	어떻게 지내세요? | 남편분은요? | 
+nl	Hoe is het met je? En met je man? 
+pl	Co u ciebie? Jak mąż? 
+pr-br	Como você está? Como está seu marido? 
+pr	Como estás? E o teu marido? 
+ro	Ce mai faci? Ce mai face soțul tău? 
+sp	¿Cómo estás? ¿Cómo está tu esposo? 
+sp-eu	¿Qué tal estás? ¿Qué tal tu marido? 
+sv	Hur är det? Hur mår din man? 
+th	คุณเป็นยังไงบ้าง สามีคุณล่ะ | 
+tr	Sen nasılsın? Eşin nasıl? 
+vi	Chị khỏe không? Chồng chị thế nào? | 
+zh-long	最近怎樣？妳老公還好嗎？ 
+zh-short	你怎么样？你丈夫好吗？ 
+no	-Og du? Hvordan går det med mannen din? -Legene sier det kan skje når som helst. 
+en	How is your husband? | 
+

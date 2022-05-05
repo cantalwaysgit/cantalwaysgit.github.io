@@ -1,0 +1,74 @@
+ru	Нет-нет-нет. 
+ja	いいえ | わざとこっちへ来たんです | 
+id	Tidak. 
+th	ไม่ๆ ไม่เลย | 
+pl	Nie. 
+ar	&rlm;‏لا.‏ | 
+da	Nej, nej. 
+el	Όχι, όχι. 
+en	No, no, no, no. | 
+fi	En. 
+he	&rlm;‏לא, לא.‏ | 
+ko	아니에요 | 
+pr-br	Não. 
+pr	Não. 
+ro	Nu. 
+sp-eu	No. 
+sp	No. 
+sv	Nej. 
+tr	Hayır, hayır. 
+vi	Không. | 
+zh-long	沒有… 
+zh-short	没有 
+no	Nei, nei. Det var en ting jeg gjorde med vilje. 
+id	Aku sengaja melakukannya. 
+ru	Эту вещь сделал я нарочно. 
+ar	&rlm;‏تعمدت القيام بذلك.‏ | 
+da	Det gjorde jeg med vilje. 
+el	Είναι κάτι που σκόπιμα έκανα. 
+en	That was a thing that on purpose I did. | 
+fi	Tein sen tarkoituksella. 
+fr	Je l'ai fait exprès. 
+he	&rlm;‏זה משהו שעשיתי בכוונה.‏ | 
+it	L'ho fatto di proposito. 
+pl	Celowo tędy jadę. 
+pr-br	Eu fiz de propósito. 
+pr	Fiz isso de propósito. 
+ro	Am făcut intenționat asta. 
+sp	Es algo que hice a propósito. 
+sp-eu	Lo he hecho a propósito. 
+sv	Det gjorde jag med avsikt. 
+th	ผมตั้งใจทำ | 
+tr	Bu kasten yaptığım bir şeydi. 
+vi	Tôi cố tình đấy. | 
+zh-long	我是故意的 
+zh-short	我是故意的 
+ko	일부러 그런 거예요 | 
+nl	Dat deed ik expres. We nemen een kortere weg. 
+id	Kita lewat jalan pintas. 
+ru	Мы... 
+ar	&rlm;‏سنسلك طريقاً مختصراً.‏ | 
+da	Vi tager en genvej. 
+el	Δρόμο θα κόψουμε. 
+en	We're going shortcut. | 
+fi	Menemme oikotietä. 
+fr	On prend un raccourci. 
+he	&rlm;‏אנחנו עושים קיצור.‏ | 
+it	Prendiamo una scorciatoia. 
+ko	지름길로 갈 거예요 | 
+no	Vi tar snarvei. 
+pl	To takie skróty. 
+pr-br	Vamos pegar um atalho. 
+pr	Vamos por um atalho. 
+ro	O luăm pe scurtătură. 
+sp-eu	Vamos a tomar un atajo. 
+sp	Tomamos un atajo. 
+sv	Vi ska ta en genväg. 
+th	เราจะไปทางลัดกัน | 
+tr	Kestirmeden gidiyoruz. 
+vi	Chúng ta sẽ đi đường tắt. | 
+zh-long	我們走捷徑 
+zh-short	我们走近道 
+ja	近道で行きましょう | 
+ru	...срежем путь. 
+

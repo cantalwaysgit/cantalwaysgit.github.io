@@ -1,0 +1,27 @@
+ja	私 本当に成功する？ | 
+id	Menurutmu aku bisa terkenal? 
+ru	Думаешь, я могу чего-то достичь? 
+ko	제가 정말 대단한 사람이 | 될 수 있을 것 같아요? | 
+no	Så du tror virkelig jeg kan bli noen? 
+da	Tror du virkelig, jeg kunne blive til noget? 
+el	Αλήθεια πιστεύεις ότι μπορώ να γίνω κάποια; 
+fr	Tu crois vraiment que je peux devenir une star ? 
+sv	Tror du verkligen att jag kan bli någon? 
+ar	&rlm;‏أتظن حقاً أنه بمقدوري أن أغدو مشهورة؟‏ | 
+en	So you really think I could be somebody? | 
+fi	Uskotko tosiaan, että minusta voi tulla joku? 
+he	&rlm;‏אז אתה באמת חושב שאני יכולה להיות מישהי?‏ | 
+it	Davvero credi che potrei diventare qualcuno? 
+nl	Denk je echt dat ik iemand kan worden? 
+pl	Wierzysz, że mogę odnieść sukces? 
+pr	Achas mesmo que eu poderia ser alguém? 
+pr-br	Acha mesmo que posso ficar famosa? 
+ro	Deci chiar crezi că m-aș putea realiza? 
+sp	¿De veras crees que puedo ser famosa? 
+sp-eu	¿En serio crees que podría ser alguien? 
+th	คุณคิดจริงๆ เหรอว่าฉันจะดังได้ | 
+tr	Gerçekten ünlü olabilir miyim sence? 
+vi	Anh thực sự nghĩ tôi có thể nổi tiếng? | 
+zh-long	你真的覺得我能變成大明星？ 
+zh-short	你真觉得我能大有作为？ 
+

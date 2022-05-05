@@ -1,0 +1,26 @@
+ar	&rlm;‏بالتأكيد.‏ | 
+da	Ja. 
+el	Φυσικά. 
+en	Sure. | 
+fi	Totta kai. 
+fr	Bien sûr. 
+he	&rlm;‏בטח.‏ | 
+it	Certo. 
+ko	그럼요 | 
+no	Ja da. 
+pl	Jasne. 
+pr-br	Claro. 
+pr	Claro. 
+ro	Sigur. 
+sp	Cómo no. 
+sp-eu	Claro. 
+sv	Visst. 
+th	แน่นอน | 
+tr	Tabii. 
+vi	Vâng. | 
+zh-long	好的 
+zh-short	当然 
+id	Tentu saja. 
+ru	Конечно. 
+ja	もちろん | 
+

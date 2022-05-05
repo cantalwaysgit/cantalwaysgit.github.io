@@ -1,0 +1,27 @@
+id	Baiklah. Katakan kepadanya aku menerimanya. 
+ja	分かったからよく聞いて | 
+ru	Хорошо. Скажи, что я его прощаю. 
+ar	&rlm;‏حسناً. أخبره أنني أقبل اعتذاره.‏ | 
+da	Sig til ham, at jeg accepterer hans undskyldning. 
+el	Εντάξει, εντάξει. Πες του ότι τη δέχομαι. 
+en	[Sandy] Okay, okay. | Well, you tell him I accept. | 
+fi	Sano, että hän saa anteeksi. 
+he	&rlm;‏בסדר. טוב, תגיד לו שההתנצלות התקבלה.‏ | 
+it	D'accordo. Digli che accetto. 
+ko	그래, 사과 받아들인다고 해줘 | 
+nl	Zeg maar dat ik het accepteer. 
+no	Ja vel. Si til ham at unnskyldningen er godtatt. 
+pl	Przyjmuję jego przeprosiny. 
+pr-br	Está bem. Diga que aceito o pedido de desculpa. 
+pr	Está bem. Diz-lhe que eu aceito as desculpas. 
+ro	Bine. Spune-i că-i accept scuzele. 
+sp	Está bien. Dile que está perdonado. 
+sp-eu	Vale. Dile que acepto la disculpa. 
+sv	Säg att jag godtar ursäkten. 
+th	โอเคๆ บอกเขาว่าฉันยอมรับ | 
+tr	Tamam. Özrünü kabul ettiğimi söylersin. 
+vi	Được rồi. Nói với cậu ta là | tôi chấp nhận lời xin lỗi. | 
+zh-long	好啦，跟他說我接受 
+zh-short	好吧 告诉他我接受他的道歉 
+fr	Dis-lui qu'il est pardonné. 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏لكن للأغنية احتمال للنجاح. من دون شك.‏ | 
+da	Men sangen har potentiale. Ingen tvivl om det. 
+el	Το τραγούδι, όμως, έχει σίγουρα προοπτική. 
+en	But the song has potential. | Yeah, no diggity, no doubt. | 
+fi	Mutta kappaleessa on potentiaalia. Ei epäilystäkään. 
+fr	Mais la chanson est prometteuse. Ça, c'est clair et net. 
+he	&rlm;‏אבל לשיר יש פוטנציאל. כן, אין ספק.‏ | 
+it	Ma la canzone ha delle potenzialità. Non c'è alcun dubbio. 
+ko	하지만 노래는 잠재력이 있어요 | 그건 틀림없죠 | 
+nl	Maar het nummer heeft potentieel. Zeker weten. 
+pl	Ale piosenka niewątpliwie ma potencjał. 
+pr-br	Mas a música tem potencial. Sim, certamente. 
+pr	Mas a canção tem potencial. Não há dúvida. 
+ro	Dar melodia are potențial. Fără nicio îndoială. 
+sp-eu	Pero la canción tiene potencial. No me cabe ninguna duda. 
+sp	Pero la canción tiene potencial. Sin dudas. 
+sv	Men sången har potential. Utan tvekan. Tveklöst. 
+th	แต่ตัวเพลงมีแวว | ใช่ อย่างไม่ต้องสงสัยเลย | 
+tr	Ama şarkının potansiyeli var. Orası kesin. 
+vi	Nhưng bài hát thì có tiềm năng. | Chắc chắn là thế. | 
+zh-long	但歌唱的部分潛力十足 這是無庸置疑的 
+zh-short	但歌很有潜力 毫无疑问 
+id	Tapi lagunya memiliki potensi. Ya, tidak diragukan lagi. 
+ru	Но у песни есть потенциал. Это безусловно. 
+no	-Men sangen har potensial. Uten tvil. -Det er nettopp det. 
+ja	だが歌には可能性を感じる | 
+

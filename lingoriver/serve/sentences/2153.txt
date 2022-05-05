@@ -1,0 +1,28 @@
+id	- Kau payah! - Apa? Aku tidak payah. 
+ja	変態野郎！ | 
+ar	&rlm;‏‏- أنت سيئ! | &rlm;‏- ماذا؟ لا، لست سيئاً.‏ | 
+da	-Du stinker! -Hvad? Nej, jeg gør ikke. 
+el	-Είσαι άθλιος! -Τι; Όχι, δεν είμαι. 
+en	-You suck! | -What? No, I don't. | 
+fi	-Olet surkea. -Enhän ole. 
+fr	- T'es nul ! - Quoi ? Non, c'est faux. 
+he	&rlm;‏‏אתה דפוק! | &rlm;‏-מה? לא, אני לא.‏ | 
+it	- Fai schifo! - Cosa? Non è vero. 
+nl	Je bent waardeloos. -Wat? Niet waar. 
+no	-Du suger! -Hva? Nei, det gjør jeg ikke. 
+pr-br	-Você é um saco! -Quê? Não sou. 
+pr	- Tu mamas! - O quê? Não mamo nada. 
+ro	- O sugi! - Poftim? Nu. 
+sp	- ¡Apestas! - ¿Qué? No, no es cierto. 
+sp-eu	- ¡Eres un asco! - ¿Qué? No. 
+sv	-Du suger. -Vadå? Nej, det gör jag inte. 
+th	- แกมันห่วย | - อะไรนะ ไม่ ฉันไม่ | 
+tr	-Berbatsın! -Ne? Hiç de bile. 
+vi	- Đồ ngốc! | - Gì cơ? Tôi không ngốc. | 
+zh-long	-你爛透了！ -沒有吧 
+zh-short	-你可真逊！ -什么？不 我不逊 
+ko	- 당신 꽝이에요! | - 뭐? 아니야 | 
+pl	- Nędzny jesteś. - Co? Wcale nie. 
+ru	-Ты козел! -Что? Я не козел. 
+ja	変態じゃない | 
+

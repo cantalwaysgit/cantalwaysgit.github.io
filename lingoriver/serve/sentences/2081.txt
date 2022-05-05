@@ -1,0 +1,25 @@
+ja	お集まりの皆さん　ようこそ | 
+id	Baiklah. Halo. Hai, Semuanya. 
+ru	Ну вот. Привет, ребята. 
+ar	&rlm;‏حسناً. مرحباً يا قوم.‏ | 
+da	Hallo. Hej med jer. 
+el	Λοιπόν, γεια. Γεια σας, παιδιά. 
+en	All right. Hello. Hello. Hello. | Hi, guys. | 
+fr	Alors, bonjour. Salut, tout le monde. 
+he	&rlm;‏בסדר. שלום. היי, חבר'ה.‏ | 
+it	Bene. Salve a tutti. 
+ko	자, 안녕하세요, 여러분 | 
+no	Ja vel. Hallo. Hei, folkens. 
+pl	Witam wszystkich. 
+pr-br	Certo. Olá. Oi, pessoal. 
+pr	Muito bem. Olá, pessoal. 
+ro	Bine. Bună ziua! 
+sp	Está bien. Hola. Hola a todos. 
+sp-eu	Vale. Hola. Hola, chicos. 
+sv	Hallå! Hej på er. 
+th	เอาละ ฮัลโหลๆ สวัสดีทุกท่าน | 
+tr	Pekâlâ. Merhaba. Selam millet. 
+vi	Xin chào mọi người. | 
+zh-long	哈囉，大家好 
+zh-short	好了 各位 大家好 
+

@@ -1,0 +1,27 @@
+id	Itulah yang semestinya. 
+ar	&rlm;‏هكذا يجب أن يكون الأمر.‏ | 
+da	Sådan skal det være. 
+el	Έτσι ακριβώς έπρεπε να γίνει. 
+en	That's just... | That's the way it should be. | 
+fi	Niin kuuluu olla. 
+fr	C'était mérité. 
+he	&rlm;‏ככה זה צריך להיות.‏ | 
+it	Così si fa. 
+ko	그렇게 돼야지 | 
+pl	Należało ci się. 
+pr-br	É assim que deve ser. 
+pr	É assim que devia ser. 
+ro	Așa ar trebui să fie. 
+sp	Como debería ser. 
+sp-eu	Es justo como debe ser. 
+sv	Precis som det ska vara. 
+th	นั่นคือสิ่งที่ควรเป็น | 
+tr	Öyle de olmalı. 
+vi	Nên như thế. | 
+zh-long	應該的 
+zh-short	就应该这样 
+ru	Так и должно было быть. 
+nl	Zo hoort het te gaan. Je hebt keihard gewerkt, jongen. 
+ja	でも当然の展開だ | 君は懸命に働いてた | 
+no	Det er sånn det burde være. 
+

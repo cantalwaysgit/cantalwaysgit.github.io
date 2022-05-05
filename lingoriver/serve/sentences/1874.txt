@@ -1,0 +1,27 @@
+en	Oh, I... I... | I just touched the queen! [laughs] | 
+id	Aku menyentuh sang Ratu! 
+ru	Я потрогала королеву! 
+ja	触っちゃった！ | 
+ar	&rlm;‏لقد لمست الملكة للتو!‏ | 
+da	Jeg rørte ved dronningen! 
+el	Μόλις άγγιξα τη βασίλισσα! 
+fi	Kosketin kuningatarta! 
+fr	J'ai touché la reine ! 
+he	&rlm;‏נגעתי במלכה!‏ | 
+it	Ho toccato la regina! 
+ko	여왕을 만지다니! | 
+nl	Ik heb de koningin aangeraakt. 
+no	Jeg tok på dronningen! 
+pl	Dotknęłam królowej! 
+pr	Acabei de tocar na rainha! 
+pr-br	Acabei de tocar na rainha! 
+ro	Tocmai am atins regina! 
+sp	¡Acabo de tocar a la reina! 
+sp-eu	¡He tocado a la reina! 
+sv	Jag rörde vid drottningen. 
+th	ฉันเพิ่งแตะตัวราชินี | 
+tr	Kraliçeye dokundum! 
+vi	Tôi vừa chạm vào nữ hoàng! | 
+zh-long	我剛跟天后握手耶！ 
+zh-short	我摸到了女王！ 
+

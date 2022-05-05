@@ -1,0 +1,27 @@
+ja	僕が思うに | 全員 一流のタレントだ | 
+ar	&rlm;‏أظنها الأفضل، بصراحة شديدة.‏ | 
+da	som jeg, helt ærligt, synes er de bedste. 
+el	που ειλικρινά πιστεύω ότι είναι οι καλύτεροι στο είδος τους. 
+en	that I, quite frankly, | think is the best of the bunch. | 
+fi	joka on mielestäni valioluokkaa. 
+fr	qui sont, pour moi, la crème de la crème. 
+he	&rlm;‏שאני, בכל הכנות, חושב שהם הטובים ביותר.‏ | 
+id	yang sejujurnya kuanggap orang-orang terbaik. 
+it	che, sinceramente, ritengo essere la migliore. 
+ko	솔직히 이들이 | 업계 최고인 것 같아 | 
+nl	...die de allerbesten zijn. 
+no	som jeg helt ærlig mener er de beste av alle. 
+pl	Uważam, że są najlepsi. 
+pr-br	que, sinceramente, é o melhor de todos. 
+pr	que, francamente, acho que é do melhor que há. 
+ro	despre care cred sincer că sunt cele mai bune. 
+sp-eu	que, sinceramente, creo que es la mejor. 
+sp	y creo que son los mejores. 
+sv	som jag faktiskt tycker är de bästa av de bästa. 
+th	ที่ผมคิดจริงๆ ว่าสุดยอดไปเลย | 
+tr	ve açıkçası bence en iyileri onlar. 
+vi	mà tôi thực sự nghĩ rằng | đó là người giỏi nhất trong nhóm. | 
+zh-long	老實說，我覺得他們超有才 
+zh-short	说实话 我认为是最出众的一位 
+ru	и, честно говоря, считаю его лучшим. 
+

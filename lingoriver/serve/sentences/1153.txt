@@ -1,0 +1,27 @@
+id	Yang terpenting adalah Courtney merasa aman. 
+ru	Главное, что Кортни в безопасности. Это всё, что меня волнует. 
+ja	コートニーが安心して | 暮らせることが重要だ | 
+ar	&rlm;‏المهم هو أن تشعر "كورتني" بالأمان.‏ | 
+da	Det vigtigste er, at Courtney føler sig tryg. 
+el	Το σημαντικό είναι ότι η Κόρτνι νιώθει ασφαλής. 
+en	The important thing | is that Courtney feels safe. | 
+fi	Tärkeintä on se, että Courtneylla on turvallinen olo. 
+fr	L'important, c'est que Courtney se sente en sécurité. 
+he	&rlm;‏הדבר החשוב הוא שקורטני מרגישה בטוחה.‏ | 
+it	L'importante è che Courtney si senta al sicuro. 
+nl	Het belangrijkste is dat Courtney zich veilig voelt. 
+no	Det viktige er at Courtney føler seg trygg. 
+pl	Courtney musi czuć się bezpiecznie. 
+pr-br	O importante é que Courtney se sinta segura. 
+pr	O importante é que a Courtney se sinta em segurança. 
+ro	Courtney se simte în siguranță, asta e cel mai important. 
+sp-eu	Lo importante es que Courtney se sienta segura. 
+sp	Lo importante es que Courtney se sienta a salvo. 
+sv	Det viktiga är att Courtney känner sig trygg. 
+th	สิ่งสำคัญคือคอร์ทนี่ย์รู้สึกปลอดภัย | 
+tr	Önemli olan, Courtney'nin kendini güvende hissetmesi. 
+vi	Điều quan trọng là Courtney thấy an toàn. | 
+zh-long	只要寇妮覺得安全就好 
+zh-short	考特尼觉得安全才是最重要的 
+ko	코트니가 안전하다고 | 느끼는 게 중요해 | 
+

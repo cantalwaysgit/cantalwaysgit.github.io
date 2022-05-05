@@ -1,0 +1,25 @@
+id	soal ayahnya yang petugas LP tidur saat kerusuhan di penjara? 
+ru	когда её отец проспал бунт в тюрьме? 
+th	เรื่องที่พ่อเธอหลับ | ในช่วงที่เกิดจลาจลในคุกหรือเปล่า | 
+ar	&rlm;‏عن نوم والدها خلال شغب في السجن؟‏ | 
+da	om hendes far, der faldt i søvn under et fængselsoprør? 
+el	για τον πατέρα της που αποκοιμήθηκε στη διάρκεια εξέγερσης στη φυλακή; 
+en	about her corrections officer father | falling asleep during a prison riot? | 
+fi	hänen isästään, joka nukahti vankilakapinan aikana? 
+fr	comme quoi son père se serait endormi pendant une émeute en prison ? 
+he	&rlm;‏על אבא שלה שנרדם בזמן מהומות בכלא?‏ | 
+it	suo padre si sarebbe addormentato durante una rivolta in carcere? 
+ko	코트니 아버지가 자고 있었단 | 기사를 무마하셨나요? | 
+nl	...over haar vader die in slaap viel tijdens een gevangenisrel? 
+no	om at faren hennes sovnet under et fangeopprør? 
+pl	że jej ojciec zasnął podczas zamieszek w więzieniu? 
+pr-br	do pai dela pegando no sono durante um motim da prisão? 
+pr	sobre o pai dela adormecer durante um motim na prisão? 
+ro	cu tatăl ei care a adormit în timpul unei revolte la penitenciar? 
+sp	de que su padre dormía durante un motín en la cárcel? 
+sp-eu	sobre que su padre se durmió durante un motín en la cárcel? 
+tr	uyuyakalmasıyla ilgili haberi örtbas ettin mi? 
+vi	ông bố quản giáo của cô ấy ngủ quên | trong vụ bạo loạn trong tù? | 
+zh-long	她爸在打瞌睡 你有想辦法掩蓋新聞嗎？ 
+zh-short	睡着了的新闻压住了吗？ 
+

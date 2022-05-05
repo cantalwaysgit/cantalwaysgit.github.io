@@ -1,0 +1,27 @@
+id	Elizabeth Taylor juga. Sherwood Schwartz juga. 
+ru	И Элизабет Тейлор. И Шервуд Шварц. 
+ja	エリザベス･テイラーとかね | 
+ar	&rlm;‏و"إليزابيث تايلور" و"شيرود شوارتز".‏ | 
+da	Elizabeth Taylor gjorde det. Sherwood Schwartz gjorde det. 
+el	Η Ελίζαμπεθ Τέιλορ το έκανε. Το ίδιο και ο Σέργουντ Σουόρτζ. 
+en	Elizabeth Taylor did it. | Sherwood Schwartz did it. | 
+fi	Elizabeth Taylor teki niin. Sherwood Schwartz teki niin. 
+fr	Elizabeth Taylor. Sherwood Schwartz. 
+he	&rlm;‏‏אליזבת טיילור עשתה את זה. | &rlm;‏שרווד שוורץ עשה את זה.‏ | 
+it	L'ha fatto Elizabeth Taylor. L'ha fatto Sherwood Schwartz. 
+nl	Elizabeth Taylor deed het. En Sherwood Schwartz. 
+no	Elizabeth Taylor og Sherwood Schwartz gjorde det. 
+pl	Elizabeth Taylor też. Sherwood Schwartz również. 
+pr	A Elizabeth Taylor fez. O Sherwood Schwartz fez. 
+pr-br	Elizabeth Taylor fez. Sherwood Schwartz também. 
+ro	Elizabeth Taylor. Sherwood Schwartz. 
+sp	Elizabeth Taylor lo hizo. Sherwood Schwartz lo hizo. 
+sp-eu	Elizabeth Taylor lo hizo. Sherwood Schwartz lo hizo. 
+sv	Elizabeth Taylor, Sherwood Schwartz... 
+th	เอลิซาเบท เทย์เลอร์ก็ทำ | เชอร์วูด ชวาร์ตซ์ก็ทำ | 
+tr	Elizabeth Taylor yaptı. Sherwood Schwartz yaptı. 
+vi	Elizabeth Taylor cũng thế. | Sherwood Schwartz cũng vậy. | 
+zh-long	伊莉莎白泰勒這麼做了 謝伍德史瓦茲這麼做了 
+zh-short	伊丽莎白泰勒和舍伍德施瓦茨也是 
+ko	엘리자베스 테일러도 | 셔우드 슈왈츠도 그랬어 | 
+

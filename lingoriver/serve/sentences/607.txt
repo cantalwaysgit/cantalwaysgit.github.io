@@ -1,0 +1,27 @@
+ko	전 혼란스럽고 | 심각하게 어색하네요 | 
+ar	&rlm;‏أنا محتارة ومجنونة وأشعر بالإحراج.‏ | 
+da	Jeg er forvirret, skør, flov. 
+el	Είμαι μπερδεμένη, τρελή και ντρέπομαι. 
+en	I'm confused. I'm crazy. I'm embarrassed. | 
+fi	Olen hämmentynyt, hullu, nolostunut. 
+fr	Je suis paumée, folle et mal à l'aise. 
+he	&rlm;‏אני מבולבלת, משוגעת, נבוכה.‏ | 
+it	Sono confusa, folle, imbarazzata. 
+no	Jeg er forvirret, sprø og flau. 
+pr-br	Sou confusa, louca, constrangida. 
+pr	Estou confusa, louca, envergonhada. 
+ro	Sunt derutată, nebună, jenată. 
+sp	Estoy confundida, loca, avergonzada. 
+sp-eu	Estoy confusa, loca, avergonzada. 
+sv	Jag är förvirrad, galen, generad. 
+th	ฉันสับสน บ้า ขายหน้า | 
+tr	Kafam karışık, deli gibiyim, utanç duyuyorum. 
+vi	Tôi khó hiểu, điên khùng, bẽn lẽn chứ. | 
+zh-long	我茫然、神經質又窘困 
+zh-short	我困惑 发疯 尴尬 
+nl	Ik ben in de war, gestoord en schaam me. -Je bent mooi. Hou op. 
+ja	そんな写真ある？ | 
+pl	Zakłopotana, szalona, skrępowana. 
+id	Aku bingung, gila, dan malu. 
+ru	Я сумбурная, дурная, неловкая... 
+

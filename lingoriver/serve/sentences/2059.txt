@@ -1,0 +1,27 @@
+ar	&rlm;‏حدث أمر مفاجئ مع "ساندي".‏ | 
+da	Noget faldt i hak med Sandy. 
+el	Κάτι άλλαξε στον Σάντι. 
+en	Something had clicked with Sandy. | 
+fi	Sandy oli oivaltanut jotain. 
+fr	Sandy s'est transformé. 
+he	&rlm;‏משהו התחבר בשביל סנדי.‏ | 
+id	Ada yang berubah dalam diri Sandy. 
+it	In Sandy era scattato qualcosa. 
+ko	샌디는 정신을 차렸어요 | 
+nl	Er gebeurde iets met Sandy. 
+no	Noe sa klikk for Sandy. 
+pl	Sandy się zmienił. 
+pr	Algo despertou no Sandy. 
+pr-br	Caiu a ficha do Sandy. 
+ro	Sandy s-a schimbat cumva. 
+ru	С Сэнди что-то случилось. 
+sp	Algo le sucedió a Sandy. 
+sp-eu	Sandy tuvo una revelación. 
+sv	Nåt klickade för Sandy. 
+th	บางอย่างลงตัวกับแซนดี้ | 
+tr	Sandy için bir şeyler yerine oturmuştu. 
+vi	Sandy trở lại bình thường. | 
+zh-long	山迪莫名開了竅 
+zh-short	有件事启发了桑迪 
+ja	そしてサンディは― | 
+

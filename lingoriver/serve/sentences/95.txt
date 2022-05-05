@@ -1,0 +1,87 @@
+ar	&rlm;‏كانت ملابسه تشبه ملابس جدك،‏ | 
+da	Han klædte sig som en bedstefar, 
+el	Ντυνόταν σαν γέρος 
+en	He dressed like your grandfather, | 
+fi	Hän pukeutui kuin papparainen, 
+fr	Il se fringuait comme un papy 
+he	&rlm;‏הוא התלבש כמו סבא שלך,‏ | 
+it	Si vestiva come un nonno, 
+ko	할아버지처럼 옷을 입고 | 
+nl	Hij kleedde zich als je opa... 
+no	Han kledde seg som en bestefar, 
+pl	Ubierał się jak stary dziadek, 
+pr-br	Ele se vestia como o seu avô, 
+pr	Vestia-se como o vosso avô, 
+ro	Avea haine de bunic, 
+sp-eu	Se vestía como un abuelo, 
+sp	Se vestía como un abuelo 
+sv	Han klädde sig som ens farfar, 
+th	เขาแต่งตัวเหมือนคนรุ่นปู่ | 
+tr	Dedeler gibi giyinirdi, 
+vi	Anh ta ăn mặc như ông già, | 
+zh-long	他的打扮像個老阿公 
+zh-short	他穿着打扮不入时 
+id	Dia berpakaian seperti kakek-kakek, 
+ru	Он одевался как мой дедушка, 
+ja	服装は年寄りみたいだし― | 
+
+it	- Forse gliel'ha prestata? - Nasconde qualcosa. 
+pt-br	- Talvez tenha emprestado pra ele. - Adam está escondendo algo. 
+id	- Mungkin dia meminjamkannya? - Adam menyembunyikan sesuatu. 
+ja	&lrm;貸した… | 
+es-eu	- Quizá se la dejó. - Adam oculta algo. 
+es	- Quizá se la prestó. - Adam esconde algo. 
+cs	- Třeba mu ji půjčil. - Adam něco tají. 
+hr	-Možda mu ju je posudio? -Adam nešto taji. 
+zh-short	-也许是他借给伊戈尔的 -他在隐瞒一些事 
+tr	-Belki ödünç vermiştir. -Adam bir şey saklıyor. 
+da	-Måske lånte han ham den. | -Adam skjuler noget. | 
+en	-Maybe he lent it to him. -Adam is hiding something. 
+fr	- Il a pu lui prêter. - Il cache un truc. 
+he	‫אולי הוא השאיל לו אותו?‬ | ‫-הוא מסתיר משהו.‬ | 
+hu	- Biztos kölcsönadta neki. - Titkol valamit. 
+ko	&lrm;- 빌려줬을 수도 있잖아요 | &lrm;- 뭔가 숨기고 있어 | 
+ms	- Mungkin dia pinjamkan? - Dia sembunyikan sesuatu. 
+nl	Misschien heeft hij hem geleend? -Hij verbergt iets. 
+no	-Kanskje han lånte ham den? -Han skjuler noe. 
+pt	- Será que a emprestou? - O Adam esconde algo. 
+sv	-Han kanske lånade ut den. -Han döljer nåt. 
+th	&lrm;- เขาอาจจะให้ยืมไป | &lrm;- เขาปิดบังอะไรอยู่ | 
+vi	&lrm;- Có thể nó cho con cô mượn? | &lrm;- Cậu ta giấu gì đó. | 
+zh-long	-也許他借給他了？ -他有所隱瞞 
+ro	- Poate că i l-a împrumutat. - Sau ascunde ceva. 
+uk	-Може, він позичив? -Адам щось приховує. 
+ru	Может, одолжил… 
+el	-Ίσως του το δάνεισε. -Κάτι κρύβει. 
+fi	Ehkä Igor lainasi sitä. | -Adam salaa jotain. | 
+ja	&lrm;彼は何か隠してる | 
+ru	Адам что-то скрывает. Той ночью между ними что-то произошло. 
+it	Tra loro è successo qualcosa. 
+es	Algo pasó entre ellos esa noche. 
+id	Sesuatu terjadi di antara mereka malam itu. 
+cs	Tu noc se mezi nimi něco stalo. 
+fi	Sinä iltana tapahtui jotain. | 
+zh-short	那天晚上 他们之间发生了一些事 
+hr	Nešto se te noći dogodilo među njima. 
+uk	Того вечора між ними щось сталося. 
+da	Der skete noget mellem dem. | 
+el	Κάτι συνέβη μεταξύ τους εκείνο το βράδυ. 
+es-eu	Algo pasó entre ellos aquella noche. 
+fr	Il s'est passé quelque chose cette nuit-là. 
+he	‫משהו קרה ביניהם באותו לילה.‬ | 
+hu	Történt valami köztük akkor este. 
+ja	&lrm;あの晩 | &lrm;２人の間で何かあった | 
+ko	&lrm;그날 밤 | &lrm;둘 사이에 무슨 일이 있었고 | 
+ms	Ada sesuatu berlaku antara mereka pada malam itu. 
+nl	Er is die avond iets tussen hen gebeurd. 
+no	Det skjedde noe mellom dem den kvelden. 
+pt	Aconteceu algo entre eles naquela noite. 
+pt-br	Algo aconteceu entre eles naquela noite. 
+ro	Ceva s-a întâmplat între ei în seara aia. 
+sv	Nåt hände mellan dem den kvällen. 
+th	&lrm;คืนนั้นมีบางอย่างเกิดขึ้นกับพวกเขา | 
+tr	O gece aralarında bir şey yaşanmış. 
+vi	&lrm;Có chuyện đã xảy ra giữa chúng đêm đó. | 
+zh-long	那天晚上，他們肯定發生了什麼事 
+en	Something happened between them that night. 
+

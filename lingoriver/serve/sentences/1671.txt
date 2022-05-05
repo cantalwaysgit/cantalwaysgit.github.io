@@ -1,0 +1,27 @@
+id	Kau bisa tetap tinggal selama yang kau mau. 
+ja	いたいだけ いていいよ | 
+ru	Оставайся сколько хочешь. 
+ar	&rlm;‏اسمعي، يمكنك البقاء قدر ما تشائين.‏ | 
+da	Du kan blive her, så længe du vil. 
+el	Μπορείς να μείνεις όσο θέλεις. 
+en	Listen, you can stay as long as you want. | 
+fi	Voit jäädä niin kauaksi aikaa kuin haluat. 
+fr	Reste aussi longtemps que tu veux. 
+he	&rlm;‏תקשיבי, את יכולה להישאר כמה שאת רוצה.‏ | 
+it	Puoi rimanere tutto il tempo che vuoi. 
+nl	Je mag zo lang blijven als je wilt. 
+no	Du kan bli så lenge du vil. 
+pl	Możesz zostać, ile tylko chcesz. 
+pr-br	Você pode ficar o quanto quiser. 
+pr	Podes ficar o tempo que quiseres. 
+ro	Poți rămâne cât vrei tu. 
+sp-eu	Escucha, puedes quedarte todo el tiempo que quieras. 
+sp	Oye, puedes quedarte todo el tiempo que quieras. 
+sv	Du kan stanna så länge du vill. 
+th	ฟังนะ คุณอยู่ได้นานที่สุด | เท่าที่อยากอยู่ | 
+tr	Dinle, istediğin kadar kalabilirsin. 
+vi	Nghe này, cô muốn ở lại bao lâu cũng được. | 
+zh-long	妳想待多久就待多久 
+zh-short	听着 你想在这里待多久就待多久 
+ko	얼마든지 여기서 지내도 좋아 | 
+

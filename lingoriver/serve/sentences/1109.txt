@@ -1,0 +1,27 @@
+id	Kau takut? 
+ru	Боишься? 
+ja	怖いのか？ | 
+ko	겁나냐? | 
+ar	&rlm;‏هل تشعر بالذعر؟‏ | 
+da	Er du bange? 
+el	Φοβάσαι; 
+fi	Pelottaako? 
+fr	T'as peur ? 
+he	&rlm;‏אתה פוחד?‏ | 
+it	Hai paura? 
+nl	Ben je bang? 
+no	Er du redd? 
+pl	Boisz się? 
+pr-br	Está com medo? 
+pr	Estás com medo? 
+ro	Ți-e frică? 
+sp-eu	¿Tienes miedo? 
+sp	¿Temes? 
+sv	Är du rädd? 
+th	กลัวใช่ไหมล่ะ | 
+tr	Korktun mu? 
+vi	Mày sợ à? | 
+zh-long	怕了嗎？ 
+zh-short	你怕了吗？ 
+en	Are you scared? Huh? | 
+

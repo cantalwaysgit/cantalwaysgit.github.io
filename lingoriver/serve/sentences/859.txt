@@ -1,0 +1,28 @@
+ja	うちのコートニーだ | 気に入った？ | 
+id	Dia klienku. Courtney Clarke. Apa? Kau tidak suka? 
+ru	Это моя клиентка Кортни Кларк. Тебе не нравится? 
+en	It's a client of mine. Courtney Clarke. | 
+ar	&rlm;‏إنها زبونتي. "كورتني كلارك". ألا تعجبك؟‏ | 
+da	Det er min klient, Courtney Clarke. Kan du ikke lide det? 
+el	Είναι πελάτισσά μου, η Κόρτνι Κλαρκ. Δε σ' αρέσει; 
+fi	Hän on asiakkaani Courtney Clarke. Etkö pidä siitä? 
+fr	C'est ma cliente. Courtney Clarke. Ça vous plaît pas ? 
+he	&rlm;‏‏זו הלקוחה שלי. קורטני קלארק. | &rlm;‏אתה לא אוהב את זה?‏ | 
+it	È una mia cliente. Courtney Clarke. Non ti piace? 
+ko	제 고객 코트니 클라크예요 | 마음에 안 드세요? | 
+nl	Dat is mijn cliënt. Courtney Clarke. Vind je het niet mooi? 
+no	Det er en klient, Courtney Clarke. Liker du den ikke? 
+pl	To piosenka Courtney Clarke. Nie podoba ci się? 
+pr-br	Aquela é minha cliente. Courtney Clarke. Você não gosta? 
+pr	É uma cliente. A Courtney Clarke. Não gostas? 
+ro	E clienta mea. Courtney Clarke. Nu-ți place? 
+sp	Es mi clienta. Courtney Clarke. ¿No te gusta? 
+sp-eu	Es mi clienta, Courtney Clarke. ¿No te gusta? 
+sv	Det är min klient, Courtney Clarke. Gillar du det inte? 
+th	นั่นคนที่ผมดูแล คอร์ทนี่ย์ คลาร์ก | คุณไม่ชอบเหรอ | 
+tr	Benim sanatçım. Courtney Clarke. Beğenmedin mi? 
+vi	Khách hàng của tôi đấy. Courtney Clarke. | Anh không thích à? | 
+zh-long	那是我的藝人，寇妮克拉克 你不喜歡？ 
+zh-short	那是我的客户 考特尼克拉克 你不喜欢吗？ 
+en	What, you don't like it? | 
+

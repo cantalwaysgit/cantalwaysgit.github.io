@@ -1,0 +1,51 @@
+ar	&rlm;‏‏- لا، أنت رائعة. | &rlm;‏- هيا.‏ | 
+da	-Nej, du er god. -Kom så. 
+en	-No, you don't. You're great. | -Oh, come on. | 
+fi	-Loistavapa. -Älä nyt. 
+fr	- Non, t'es super. - Arrête. 
+he	&rlm;‏‏לא, את נהדרת. | &rlm;‏-בחייך.‏ | 
+id	- Tidak. Kau hebat. - Ayolah. 
+it	- No, sei grande. - Ma dai. 
+no	Nei, du er flott. 
+pl	- Wcale nie. - No weź. 
+pr-br	-Não, você é ótima. -Vamos. 
+pr	- Não, és excelente. - Vamos lá. 
+ro	- Ba nu. Ești grozavă. - Hai! 
+sp-eu	- No, eres genial. - Vamos. 
+sp	- No, eres genial. - Vamos. 
+th	- ไม่เลย คุณเยี่ยม | - เอาน่า | 
+tr	-Hayır, harikasın. -Hadi ama. 
+vi	- Cô làm rất tốt. | - Thôi nào. | 
+zh-long	-才怪，妳很棒 -別這樣 
+zh-short	-不 你很棒 -别这样嘛 
+el	-Όχι, είσαι υπέροχη. -Έλα τώρα. 
+ru	-Нет, все отлично. -Да ну. 
+ko	- 아니, 잘하고 있어 | - 왜 그래요 | 
+nl	Nee, je bent geweldig. Het is makkelijk. 
+sv	Nej, du är toppen. Det är bara... Det är enkelt. 
+ja	できるさ　いい感じだよ | 
+ar	&rlm;‏إنه أمر سهل.‏ | 
+da	Det er let nok. 
+en	It... You just... It's easy. | 
+fi	Se on helppoa. 
+fr	C'est facile. 
+he	&rlm;‏זה פשוט... זה קל.‏ | 
+id	Ini mudah. 
+it	È semplice. 
+no	Det er bare... Det er lett. 
+pl	To łatwe. 
+pr-br	É... É fácil. 
+pr	É fácil. 
+ro	E ușor. 
+sp	Es solo... Es fácil. 
+sp-eu	Es fácil. 
+th	มันแค่...  | มันง่าย | 
+tr	Bu çok... Kolay. 
+vi	Việc này...dễ mà. | 
+zh-long	很簡單啦 
+zh-short	很简单 
+el	Απλώς... Εύκολο είναι. 
+ru	Это... Это же легко. 
+ko	쉽잖아 | 
+ja	簡単だ | 
+

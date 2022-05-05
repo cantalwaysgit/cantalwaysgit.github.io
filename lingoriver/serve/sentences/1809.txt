@@ -1,0 +1,26 @@
+ar	&rlm;‏لا. لم يكن ذلك مكتوباً على العلبة.‏ | 
+da	Nej. Det stod der ikke på æsken. 
+el	Δεν έγραφε κάτι τέτοιο στο κουτί. 
+en	No. Didn't say that on the box. | 
+fi	Ei pakkauksessa lukenut niin. 
+fr	C'est pas marqué ça sur la boîte. 
+he	&rlm;‏לא. זה לא היה כתוב על הקופסה.‏ | 
+it	No. Sulla confezione non c'è scritto. 
+nl	Dat stond niet op de doos. 
+no	Nei. Det sto ikke det på esken. 
+pl	Na pudełku nie było napisane. 
+pr-br	Não estava escrito isso na embalagem. 
+pr	Não. Não dizia isso na caixa. 
+ro	Nu. Nu scria așa pe cutie. 
+sp-eu	No. No pone eso en la caja. 
+sp	No. No decía eso en la caja. 
+th	ไม่ใช่ บนกล่องไม่ได้เขียนไว้ | 
+tr	Hayır. Kutuda öyle yazmıyordu. 
+vi	Không. Trên hộp không ghi thế. | 
+zh-long	不是，包裝上沒說是狗食 
+zh-short	不是 盒子上没写是狗食 
+ru	-Нет. На коробке не написано. -Ну ладно. 
+id	Bukan. Tidak tertulis seperti itu di kotaknya. 
+ko	아니요, 라벨에는 | 그런 말 없던데 | 
+ja	違うと思う | 
+

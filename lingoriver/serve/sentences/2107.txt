@@ -1,0 +1,25 @@
+sv	De ler när de är nere 
+da	Som har smil i alle former 
+ru	Они улыбаются, когда им грустно 
+ar	&rlm;‏فهم يبتسمون عندما يشعرون بالكآبة"‏ | 
+el	Χαμογελούν όταν είναι χαμηλά 
+en	♪ They smile when they are low ♪ | 
+fi	He hymyilevät vaikka surettaa 
+fr	Ils sourient même quand ça ne va pas 
+he	&rlm;‏מחייכים כשהם עצובים‏ | 
+it	Sorride quand'è triste 
+ko	힘들 때도 웃거든 | 
+pl	Nawet smutni uśmiechają się 
+pr-br	Eles sorriem quando você está triste 
+pr	Sorriem quando estão em baixo 
+ro	Zâmbesc și când sunt triști 
+sp-eu	Sonríen cuando están deprimidos 
+sp	Sonríen cuando están tristes 
+th	พวกเขายิ้มเมื่อยามเศร้า | 
+tr	Gülümserler, kan ağlarken içleri 
+vi	Họ cười khi tụt hạng | 
+zh-long	就算低潮，不忘笑臉 
+zh-short	失落时也会笑 
+id	Mereka tersenyum saat sedih 
+ja	沈んでる時も笑顔 | 
+

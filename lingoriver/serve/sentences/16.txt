@@ -1,29 +1,103 @@
-id	Sandy adalah salah satu manajer Hollywood Perancis 
-ru	Он был одним из голливудских менеджеров, что вечно крутились поблизости. 
-en	Sandy was one of those | fringe Hollywood managers | 
-ar	&rlm;‏‏كان أحد مدراء "هوليوود" | &rlm;‏الذين تراهم متواجدين دوماً.‏ | 
-da	Han var en af de Hollywood-agenter, man så alle vegne. 
-el	Ήταν ένας από τους μάνατζερ του Χόλιγουντ που έβλεπες παντού. 
-fi	Hän oli niitä Hollywoodin managereja, joita näki joka paikassa. 
-fr	C'était un de ces imprésarios d'Hollywood qu'on croisait tout le temps. 
-he	&rlm;‏‏הוא היה אחד המנהלים האלה של הוליווד | &rlm;‏שראית תמיד.‏ | 
-it	Era uno di quei manager minori di Hollywood che incontravi ovunque. 
-ko	주변에서 흔히 보던 | 할리우드 매니저였어요 | 
-nl	Hij was zo'n Hollywood-manager die je overal zag. 
-no	Han var en av de Hollywood-managerne som alltid var til stede. 
-pl	Sandy był typem menedżera, którego widuje się bardzo często. 
-pr-br	Ele era um daqueles empresários de Hollywood que você via por aí. 
-pr	Era um daqueles empresários de Hollywood que víamos constantemente. 
-ro	Era unul dintre impresarii de la Hollywood prezenți peste tot. 
-sp	Era uno de esos agentes que siempre veías. 
-sp-eu	Era uno de esos mánagers marginales de Hollywood que siempre andaban por ahí. 
-sv	Han var en Hollywoodmanager som man alltid såg ute. 
-th	เขาเป็นผู้จัดการฮอลลีวูด | ชนิดที่เราเห็นอยู่บ่อยๆ | 
-tr	Hep ortalıkta gördüğünüz Hollywood menajerlerinden biriydi. 
-vi	Anh ta là một trong số nhà quản lý | ở Hollywood mà bạn dễ gặp ở đâu đó. | 
-zh-long	山迪是那種你常常會看到 非主流的好萊塢經紀人 
-zh-short	他是那种好莱坞常见的经纪人 
-ja	ハリウッドでは | パッとしないマネジャー | 
-en	that you always sort of saw around. | 
-id	yang selalu kita lihat. 
+id	Kalau pernah bekerja di Los Angeles pada sekitar tahun '90-an, 
+ru	Если вы работали в Лос-Анджелесе в девяностых, 
+ar	&rlm;‏‏إن كنت تعمل في "لوس أنجلوس" | &rlm;‏في أي وقت في التسعينيات،‏ | 
+el	Αν εργαζόσουν στο Λος Άντζελες κατά τη δεκαετία του '90, 
+en	If you were working in Los Angeles | in the '90s, any time in there, | 
+fi	Kaikki Los Angelesissa 90-luvulla työskennelleet - 
+fr	Si tu bossais à Los Angeles dans les années 90, 
+he	&rlm;‏אם עבדת בלוס אנג'לס בכל זמן בשנות ה-90,‏ | 
+it	Chiunque lavorasse a Los Angeles negli anni '90 
+ko	1990년대에 | LA에서 일했다면 | 
+pl	Gdybyś w latach 90. pracował w Los Angeles, 
+pr-br	Se você trabalhasse em Los Angeles nos anos 90, 
+pr	Se trabalhassem em Los Angeles em qualquer altura dos anos 90, 
+ro	Dacă lucrai în Los Angeles, oricând în anii '90, 
+sp-eu	Si trabajaste en Los Ángeles durante los años 90, 
+sp	Si trabajabas en Los Ángeles en los años noventa, 
+th	หากคุณทำงานในลอสแอนเจลิสในยุค 1990 | 
+tr	1990'larda Los Angeles'ta çalıştıysanız 
+vi	Nếu anh làm việc ở Los Angeles | vào thập kỷ 90, | 
+zh-long	如果1990年代你在洛杉磯工作 
+zh-short	要是你九十年代在洛杉矶工作 
+da	Arbejdede man i Los Angeles i 90'erne, så stødte man på ham. 
+nl	Als je in de jaren 90 in LA werkte, kwam je hem zeker tegen. 
+no	Hvis du jobbet i Los Angeles på 90-tallet, var det uunngåelig å møte ham. 
+sv	Om man jobbade i Los Angeles på 90-talet, så sprang man på Sandy Wexler. 
+ja	90年代にロスで働いてたら | 絶対 彼に遭遇してる | 
+id	pasti pernah bertemu Sandy Wexler. 
+ru	вы точно с ним встречались. 
+ar	&rlm;‏فستلتقيه مصادفة.‏ | 
+el	σίγουρα θα τον συναντούσες. 
+en	you'd run into Sandy Wexler at some point. | 
+fi	ovat törmänneet häneen. 
+fr	obligé, tu le croisais. 
+he	&rlm;‏נתקלת בו.‏ | 
+it	prima o poi si imbatteva in lui. 
+ko	분명히 마주쳤을 거예요 | 
+pl	tobyś go spotkał. 
+pr-br	cruzaria com ele. 
+pr	davam de caras com ele. 
+ro	te ciocneai de el. 
+sp-eu	te cruzaste con él en algún momento. 
+sp	lo conocías. 
+th	คุณจะต้องเจอเขา | 
+tr	ona rastlamışsınızdır. 
+vi	anh sẽ gặp anh ta. | 
+zh-long	一定會碰到他 
+zh-short	你会碰到他 
+
+uk	Коли ви востаннє бачили дружину? 
+es	¿Cuándo vio a su esposa por última vez? 
+hr	Kada ste posljednji put vidjeli suprugu? 
+pt-br	Quando viu sua esposa pela última vez? 
+ru	Когда вы в последний раз видели жену? 
+nl	Wanneer zag u uw vrouw voor het laatst? -Gisteren. 
+id	Kapan terakhir kau bertemu istrimu? 
+cs	Kdy jste svou ženu viděl naposled? 
+es-eu	¿Cuándo vio a su mujer por última vez? 
+fr	Depuis quand votre femme a disparu ? 
+he	‫מתי ראית את אשתך בפעם האחרונה?‬ | 
+hu	Mikor látta utoljára a feleségét? 
+ja	&lrm;最後に奥さんを見たのは？ | 
+ko	&lrm;부인을 마지막으로 본 게 | &lrm;언제입니까? | 
+no	Når så du kona di sist? 
+pt	Quando viu a sua mulher pela última vez? 
+th	&lrm;คุณเจอภรรยาคุณครั้งสุดท้ายเมื่อไหร่ | 
+tr	Karınızı en son ne zaman gördünüz? 
+vi	&lrm;Lần cuối anh thấy vợ là khi nào? | 
+zh-long	你最後一次見到妻子是什麼時候？ 
+zh-short	你上次见到你妻子是什么时候？ 
+el	Πότε είδατε τελευταία φορά τη γυναίκα σας; 
+da	-Hvornår så De sidst Deres kone? | -I går. | 
+sv	-När såg ni er fru senast? -Igår. 
+en	When was the last time you saw your wife? 
+it	Da quanto non vede sua moglie? 
+fi	Milloin näitte vaimonne viimeksi? | 
+ms	Bila kali terakhir encik jumpa isteri? 
+ro	- Când v-ați văzut soția ultima oară? - Ieri. 
+id	Kemarin. 
+cs	Včera. 
+en	Yesterday. 
+es-eu	Ayer. 
+fr	Hier. 
+he	‫אתמול.‬ | 
+hr	Jučer. 
+hu	Tegnap. 
+it	Da ieri. 
+ja	&lrm;昨日です | 
+ko	&lrm;어제요 | 
+no	I går. 
+pt-br	Ontem. 
+pt	Ontem. 
+ru	Вчера. 
+th	&lrm;เมื่อวาน | 
+tr	Dün. 
+vi	&lrm;Ngày hôm qua. | 
+zh-long	昨天 
+zh-short	昨天 
+es	Ayer. 
+el	Χθες. 
+uk	Учора. 
+fi	Eilen. | 
+ms	Semalam. 
 

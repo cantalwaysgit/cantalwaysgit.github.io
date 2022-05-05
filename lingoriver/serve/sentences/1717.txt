@@ -1,0 +1,53 @@
+ar	&rlm;‏أظن أن مستشار الأمان قال إن لديك 4 ثوان‏ | 
+da	Jeg mener, sikkerhedskonsulenten sagde fire sekunder, 
+el	Σύμφωνα με το σύμβουλο ασφαλείας, έχεις τέσσερα δευτερόλεπτα, 
+en	I think the safety advisor | said four seconds you get | 
+fi	Turvallisuuskonsultti taisi sanoa, että kestät neljä sekuntia, 
+fr	D'après le gars, pas plus de quatre secondes 
+he	&rlm;‏‏אני חושב שיועץ הבטיחות אמר | &rlm;‏שיש לך ארבע שניות‏ | 
+it	Il consulente per la sicurezza ha detto che hai quattro secondi 
+nl	Ik geloof dat de veiligheidsadviseur zei dat je binnen vier seconden... 
+pl	Doradca ds. bezpieczeństwa powiedział, że musisz wylądować w wodzie 
+pr	Acho que o consultor de segurança falou em quatro segundos 
+pr-br	Acho que o consultor de segurança disse que tem quatro segundos 
+ro	Consilierul pe probleme de siguranță cred că zicea că ai patru secunde 
+sp	Creo que el asesor de seguridad dijo que tienes cuatro segundos 
+sp-eu	Creo que el asesor de seguridad ha dicho que tienes cuatro segundos 
+sv	Säkerhetsrådgivaren sa att du har fyra sekunder, 
+th	คิดว่าที่ปรึกษาความปลอดภัยบอกว่า | นายมีเวลาสี่วินาที | 
+tr	Güvenlik danışmanına göre dört saniye sonra 
+vi	Tôi nghĩ chuyên gia về an toàn nói | anh có khoảng bốn giây | 
+zh-long	安全顧問應該是說四秒之內 
+zh-short	我想安全顾问说四秒钟后 
+ru	Спец по технике безопасности вроде сказал, что через четыре секунды. 
+id	Kurasa penasihat keamanan bilang empat detik 
+ko	안전 조언자 말로는 | 4초 정도라고 하니 | 
+ja	大丈夫だと思うよ | 
+no	Jeg tror sikkerhetskonsulenten sa at du har fire sekunder 
+ja	アドバイザーが“４秒なら | 安全”と言ってた気がする | 
+ar	&rlm;‏قبل أن يتعين أن تتبلل.‏ | 
+da	og så skal du gøres våd. 
+el	πριν να χρειαστεί να βραχείς. 
+en	before you must be wet. | 
+fi	ennen kuin sinut pitää kastella. 
+fr	avant de devoir t'immerger. 
+he	&rlm;‏לפני שאתה צריך להיות רטוב.‏ | 
+it	per arrivare all'acqua. 
+nl	...nat moet zijn. 
+no	før du må bli våt. 
+pl	po czterech sekundach. 
+pr-br	antes de se molhar. 
+ro	înainte să trebuiască să intri în apă. 
+sp	antes de tener que mojarte. 
+sp-eu	antes de tener que mojarte. 
+sv	innan du måste bli våt. 
+th	ก่อนที่ต้องให้ตัวเปียก | 
+tr	ıslanman gerekirmiş. 
+vi	trước khi gặp nước. | 
+zh-long	你一定要下水 
+zh-short	必须下水 
+pr	até teres de te molhar. - Achas ou falou mesmo? Em quatro? 
+ru	Потом тебе надо срочно в воду. 
+id	sebelum kau harus basah. 
+ko	그 전에 물에 닿아야 해 | 
+

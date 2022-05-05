@@ -1,0 +1,27 @@
+ar	&rlm;‏ليس بتصفيفة شعري هذه.‏ | 
+da	Ikke med det her hår. 
+el	Μ' αυτό το χτένισμα, όχι. 
+en	Not on this hair. | 
+fi	Ei tällä tukalla. 
+fr	Pas avec cette coiffure. 
+he	&rlm;‏לא על השיער הזה.‏ | 
+it	Non con questi capelli. 
+ko	머리 때문에 안 돼요 | 
+nl	Niet op dit haar. 
+no	Ikke på dette håret. 
+pl	Nie w tej fryzurze. 
+pr-br	Não com esse cabelo. 
+pr	Não com este cabelo. 
+ro	Nu cu coafura asta. 
+sp	Con el cabello así no. 
+sp-eu	No con este pelo. 
+sv	Inte på det här håret. 
+th	ไม่ใช่บนผมทรงนี้ | 
+tr	Bu saçla olmaz. 
+vi	Với mái tóc này thì không. | 
+zh-long	這髮型不行 
+zh-short	现在的发型可没法戴 
+id	Tidak dengan rambut ini. 
+ru	Не с этой прической. 
+ja	この頭よ？ | 
+

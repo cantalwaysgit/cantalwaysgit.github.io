@@ -1,0 +1,29 @@
+en	The singing is just for us. | 
+ar	&rlm;‏‏- الغناء لنا وحسب. | &rlm;‏- حسناً. جيد. لن نكرر الأمر مجدداً.‏ | 
+da	-Det er kun os, der synger. -Godt. Jeg gør det aldrig igen. 
+el	-Μόνο εμείς τραγουδάμε. -Εντάξει, δε θα το ξανακάνω. 
+fi	-Vain me laulamme. -Hyvä on. Tuo ei toistu. 
+fr	- Il n'y a que nous qui chantons. - Entendu. Je le ferai plus. 
+he	&rlm;‏‏השירה היא רק בשבילנו. | &rlm;‏-טוב. לא אעשה זאת שוב לעולם.‏ | 
+it	- Cantiamo solo noi. - Certo. Non lo faro più. 
+nl	Alleen wij zingen. -Goed. Ik zal het nooit meer doen. 
+pl	- Tylko my śpiewamy. - To już się nie powtórzy. 
+pr	- A canção é só nossa. - Ótimo. Não se volta a repetir. 
+pr-br	-Só nós dois cantamos. -Está bem. Nunca mais faço isso. 
+ro	- Cântatul e doar de noi. - Bine. Nu se va mai repeta. 
+sp-eu	- Solo cantamos nosotros. - Vale. Bien. Jamás se repetirá. 
+sp	- Solo nosotros cantamos. - Bien. No volveré a hacerlo. 
+sv	-Det är bara vi två som sjunger. -Okej. Jag ska inte göra det igen. 
+tr	-Şarkıyı biz söyleyeceğiz. -Peki. Tamam. Bir daha yapmam. 
+vi	- Chỉ chúng tôi hát thôi. | - Vâng. Được. Sẽ không lặp lại. | 
+zh-long	-我們唱就好 -好的，下不為例 
+zh-short	-只有我们父女俩才能唱 -好的 我下次不会了 
+id	- Nyanyian itu hanya untuk kami. - Baik. Tidak akan kuulangi. 
+ja	入ってくるな | 
+no	-Sangen er bare for oss. -Ok. Greit. Skal aldri gjøre det igjen. 
+ru	-Пение - это только для нас. -Хорошо. Больше не буду. 
+th	- ร้องเพลงมันแค่สำหรับเรา | - โอเค ได้ครับ จะไม่ทำอีก | 
+ko	- 우리끼리 하는 거예요 | - 좋아요, 다시는 안 할게요 | 
+en	Okay. Good. Will do... | Will never do it again. | 
+ja	二度と邪魔しません | 
+

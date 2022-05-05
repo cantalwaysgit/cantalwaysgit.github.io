@@ -1,0 +1,28 @@
+en	-Oh, Quincy? You wanna see, uh... | -Yeah. | 
+ar	&rlm;‏‏- "كوينسي"؟ أتريدين رؤية "كوينسيليس"؟ | &rlm;‏- أجل.‏ | 
+da	-Quincy? Vil du møde Quincelius? -Ja. 
+el	-Θες να δεις τον Κουινσέλιους; -Ναι. 
+fi	Haluatko tavata Quinceliuksen? 
+fr	Quincy ? Tu veux voir Quincelius ? 
+it	- Quincy? Vuoi conoscere Quincelius? - Sì. 
+ko	- 퀸셀리어스를 보고 싶어? | - 네 | 
+pr-br	-Quincy? Quer ver Quincelius? -Sim. 
+pr	- O Quincy? Queres ver o Quincelius? - Sim. 
+sp-eu	- ¿Quincy? ¿Quieres ver a Quincelius? - Sí. 
+sp	- ¿Quincy? ¿Quieres ver a Quincelius? - Sí. 
+sv	-Quincy? Du vill träffa Quincelius? -Ja. 
+vi	- Quincy? Cô muốn gặp Quincelius? | - Vâng. | 
+zh-long	-昆西？妳想見小昆西？ -對 
+zh-short	-昆西吗？你想见昆塞刘斯吗？ -是的 
+nl	Je wilt Quincelius zien? Dat gaan we doen. 
+ja	クインシリウスに会いたい？ | 
+he	&rlm;‏‏קווינסי? את רוצה לראות את קווינסליוס? | &rlm;‏-כן.‏ | 
+no	-Å, Quincy? Vil du treffe Quincelius? -Ja. 
+tr	-Quincy mi? Quincelius'u mu göreceksin? -Evet. 
+ru	-Куинси? Хочешь увидеть Куинселиуса? -Да. 
+pl	- Chcesz poznać Quinceliusa? - Tak. 
+ro	- Quincy! Vrei să-l vezi pe Quincelius? - Da. 
+th	- ควินซี่ อยากเจอควินเซเลียสเหรอ  | - ใช่ | 
+id	- Quincy? Mau bertemu Quincelius? - Ya. 
+en	...Quincelius? | 
+

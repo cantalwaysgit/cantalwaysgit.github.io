@@ -1,0 +1,27 @@
+id	Kau bilang kita bisa patenkan kata "aneh". 
+ru	Ты сказал, что можно запатентовать слово «странный». 
+ja	僕の名を商標登録するって | 
+ar	&rlm;‏‏قلت إننا نستطيع حفظ | &rlm;‏حقوق استخدام كلمة "غريب".‏ | 
+da	Du sagde, vi kunne få rettighederne på "weird". 
+el	Είπες ότι μπορούμε να κατοχυρώσουμε τη λέξη "Παράξενος". 
+en	You told me we could copyright | the word "weird." | 
+fi	Sanoit, että outo-sanalle saa tekijänoikeussuojan. 
+fr	Tu as dit qu'on pouvait acheter les droits du mot "zarb". 
+he	&rlm;‏‏אמרת שאנחנו יכולים לקבל זכות יוצרים | &rlm;‏על המילה "מוזר".‏ | 
+it	Dicesti che potevamo depositare la parola  weird,  assurdo. 
+ko	‘기괴하다’라는 말에 | 저작권을 딸 수 있다면서 | 
+nl	Dat we copyright konden vragen op 't woord 'vreemd'. 
+no	Du sa vi kunne ta copyright på ordet "rar". 
+pl	Mówiłeś, że możemy zastrzec słowo „dziwny”. 
+pr-br	Você disse que poderíamos patentear a palavra  "weird". 
+pr	Disseste que podíamos pedir direitos de autor da palavra "estranho". 
+ro	Ai zis că putem rezerva drepturile cuvântului "ciudat". 
+sp	Dijiste que podíamos patentar la palabra "raro". 
+sp-eu	Dijiste que podíamos patentar la palabra "raro". 
+sv	Du sa att vi kunde få copyright på ordet "weird". 
+th	นายพูดว่าเราจดลิขสิทธิ์คำว่า | "เพี้ยน" ได้ | 
+tr	"Tuhaf" kelimesinin telifini alabileceğimizi söylemiştin. 
+vi	Anh nói chúng ta có thể giữ bản quyền | từ "kỳ quặc." | 
+zh-long	你說我們能拿到 “怪人”這個詞的專利 
+zh-short	你说我们可以 给“怪胎”那个词申请著作权 
+

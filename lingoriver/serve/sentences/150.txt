@@ -1,0 +1,33 @@
+en	[all laughing] | 
+
+pt-br	Incidente? Foi um incidente pra você? 
+fi	"Sattumuksen"? | 
+it	"Incidente"? Per lei è un incidente? 
+es	¿"Incidente"? ¿Así lo llama usted? 
+da	"Episode"? Kalder De det det? | 
+el	Για εσάς ήταν ένα περιστατικό; 
+es-eu	¿Para usted fue una nimiedad? 
+fr	Pour vous, c'était un incident ? 
+he	‫"תקרית"? בשבילך זאת היתה תקרית?‬ | 
+hr	„Incident”? Vama je to incident? 
+hu	„Esemény”? Neked ez incidens volt? 
+id	"Insiden"? Bagimu itu insiden? 
+ja	&lrm;“ささいな事”だと？ | 
+ko	&lrm;사건? 당신한테는 사건입니까? | 
+ms	"Insiden"? Bagi awak, ia insiden? 
+nl	Was het voor u een incident? 
+no	"Hendelse"? Var det en hendelse? 
+pt	"Incidente"? Para si, foi só isso? 
+ro	„Incident”? Asta a fost pentru tine? 
+sv	Är det bara en "incident" för dig? 
+th	&lrm;"เรื่องเล็กน้อย" | &lrm;สำหรับคุณเป็นเรื่องเล็กน้อยสินะ | 
+tr	Olay mı? Sizin için öylece bir olay mı? 
+uk	«Інцидент»? Для вас це був інцидент? 
+vi	&lrm;"Sự cố?" Với anh, đó là một sự cố? | 
+zh-long	“意外”？對你來說那是意外？ 
+zh-short	“意外”？你觉得是意外？ 
+cs	Incident? Pro vás to byl incident? 
+ru	Инцидент? Для тебя это был инцидент? 
+en	"Incident"? To you it was an incident? 
+fi	Oliko se sattumus? | 
+

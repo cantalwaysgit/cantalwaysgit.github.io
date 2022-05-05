@@ -1,0 +1,27 @@
+id	Jujur saja. Itu sungguh konyol. 
+ar	&rlm;‏يجب أن أكون صريحاً. كانت سخيفة للغاية.‏ | 
+da	Jeg vil være ærlig. Det var fuldstændig latterligt. 
+el	Θα είμαι ειλικρινής. Ήταν απολύτως γελοίο. 
+en	I gotta be honest. | It was absolutely ridiculous. | 
+fi	Se on aivan naurettava. 
+fr	Sans déconner, c'est d'un ridicule. 
+he	&rlm;‏‏אני חייב להיות ישר איתכם. | &rlm;‏זה היה ממש מגוחך.‏ | 
+it	Devo essere onesto. È assolutamente ridicolo. 
+ko	솔직히 말하면 | 정말 터무니없었어요 | 
+nl	Eerlijk gezegd, dat was echt belachelijk. 
+pl	Będę szczery. Jest totalnie z dupy wzięty. 
+pr-br	Vou ser sincero. Aquilo foi ridículo. 
+pr	Tenho de ser sincero. Ficou absolutamente ridículo. 
+ro	O să fiu sincer. A fost de-a dreptul ridicolă. 
+ru	Скажу вам честно. Это был идиотизм. 
+sp	Debo ser sincero. Es totalmente ridículo. 
+sp-eu	Seré sincero. Queda completamente ridículo. 
+sv	Jag måste vara ärlig. Den var skrattretande. 
+th	ขอพูดตรงๆ นะ มันแย่มากๆ เลย | 
+tr	Dürüst olacağım. Tam anlamıyla gülünçtü. 
+vi	Phải nói thật. Thực sự ngớ ngẩn. | 
+zh-long	不瞞你說，真是蠢斃了 
+zh-short	实话实说 非常荒唐 
+ja	はっきり言って最悪だ | 
+no	Jeg må være ærlig. Det var helt latterlig. 
+

@@ -1,0 +1,20 @@
+id	Tidak! 
+ru	Нет! 
+ar	&rlm;‏لا!‏ | 
+el	Όχι! 
+he	&rlm;‏לא!‏ | 
+it	No! 
+pr-br	Não! 
+pr	Não! 
+ro	Nu! 
+sp-eu	¡No! 
+sp	¡No! 
+sv	Nej! 
+th	ไม่ | 
+tr	Hayır! 
+vi	Không! | 
+zh-long	救命！ 
+zh-short	不！ 
+en	No! [groans] | 
+ko	안 돼! | 
+

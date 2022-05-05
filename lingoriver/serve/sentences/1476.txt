@@ -1,0 +1,28 @@
+id	- Antarkan aku. - Lewat sini. 
+el	-Πήγαινέ με στο πακέτο. -Από δω. 
+ja	どこだ？ | 
+ru	-Ну, ведите к клиенту. -Сюда. 
+ar	&rlm;‏‏- خذني إليها. | &rlm;‏- من هنا.‏ | 
+en	-Bring me to the package. | -This way. | 
+fi	-Näytä hänet. -Tätä tietä. 
+fr	- Réglons cette histoire. - Par ici. 
+he	&rlm;‏‏קח אותי לחבילה. | &rlm;‏-מכאן.‏ | 
+it	- Fammi strada. - Da questa parte. 
+nl	Breng me ernaartoe. 
+pl	- Prowadź. - Tędy. 
+pr-br	-Leve-me ao pacote. -Por aqui. 
+pr	- Levem-me lá. - Por aqui. 
+ro	- Du-mă la om. - Pe aici! 
+sp-eu	- Llévame al paquete. - Por aquí. 
+sp	- Llévame al paquete. - Por aquí. 
+th	- ช่วยพาไปหน่อยสิ | - ทางนี้ | 
+tr	-Beni pakete götür. -Bu taraftan. 
+vi	- Dẫn tôi đến chỗ đó đi. | - Lối này. | 
+zh-long	-帶我去吧 -這邊請 
+zh-short	-带我过去 -这边 
+ko	- 안내해 줘 | - 이쪽이에요 | 
+da	-Før mig til objektet. -Denne vej. 
+no	-Vis vei til pakken. -Denne veien. 
+sv	-Visa mig paketet. -Den här vägen. 
+ja	こちらです | 
+

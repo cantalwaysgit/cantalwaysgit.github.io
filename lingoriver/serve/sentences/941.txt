@@ -1,0 +1,27 @@
+ja	似合うと思った | 
+id	Tapi cocok! 
+ru	Но оно тебе идет! 
+ar	&rlm;‏إنه مناسب!‏ | 
+da	Det virker jo! 
+el	Είχα δίκιο πάντως! 
+en	-Well, it works! | -[chuckles] | 
+fi	Se toimii. 
+fr	Elle te va bien ! 
+he	&rlm;‏ובכן, היא עובדת!‏ | 
+it	Beh, è perfetto! 
+ko	잘 어울리네! | 
+nl	Het werkt wel. 
+no	Det funker! 
+pl	Pasuje! 
+pr	Bem, fica-te bem! 
+pr-br	Bem, deu certo! 
+ro	Îți stă bine! 
+sp-eu	¡Pues funciona! 
+sp	¡Funciona! 
+sv	Den funkar. 
+th	แหม มันเข้าท่าสุดๆ | 
+tr	İşe yaramış! 
+vi	Hợp đấy! | 
+zh-long	果然好看！ 
+zh-short	非常惊艳！ 
+

@@ -1,0 +1,27 @@
+ja	お手本はもういいかな？ | 
+id	Awalnya ingin kutunjukkan lebih dari itu. Baiklah. 
+ru	Я хотел еще кое-что показать. 
+ar	&rlm;‏كنت سأريك المزيد.‏ | 
+da	Jeg ville ellers vise dig mere. 
+el	Θα σου δείξω λίγα ακόμη πράγματα. 
+en	I was gonna show you | a little more, but okay. | 
+fi	Aioin näyttää enemmän. 
+fr	J'avais pas fini de te montrer, mais bon... 
+he	&rlm;‏רציתי להראות לך עוד קצת.‏ | 
+it	Volevo farti vedere qualcos'altro. 
+ko	조금 더 보여줄 생각이었는데 | 
+nl	Ik wilde je nog meer laten zien. 
+no	Jeg skulle vise deg litt mer. 
+pl	Chciałem ci jeszcze pokazać. 
+pr-br	Eu ia mostrar mais, mas tudo bem. 
+pr	Ia mostrar-te mais um pouco. 
+ro	Voiam să-ți arăt mai mult. 
+sp-eu	Iba a enseñarte más. 
+sp	Iba a mostrarte más. 
+sv	Jag tänkte visa dig lite mer. 
+th	กะจะโชว์คุณอีกหน่อย | 
+tr	Biraz daha gösterecektim. 
+vi	Tôi định chỉ dạy cho cô thêm chút nữa. | 
+zh-long	我本來想多打幾球給妳看 
+zh-short	我本想再多示范一下的 
+

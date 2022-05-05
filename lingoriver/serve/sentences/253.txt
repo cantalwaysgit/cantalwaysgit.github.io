@@ -1,0 +1,32 @@
+en	[all cheering] | 
+
+uk	Він там через мене? 
+zh-short	他离开是因为我吗？ 
+ru	Он ушел из-за меня? 
+es	¿Se fue por mi culpa? 
+cs	A je tam kvůli mně? 
+el	Είναι εκεί εξαιτίας μου; 
+fi	Onko hän siellä takiani? | 
+id	Apa dia begini karena aku? 
+en	And is he there because of me? 
+es-eu	¿Se ha ido por mi culpa? 
+fr	C'est à cause de moi ? 
+he	‫זה קרה בגללי?‬ | 
+hr	I je li zbog mene ondje? 
+hu	És miattam ment oda? 
+it	È là per colpa mia? 
+ja	&lrm;私のせい？ | 
+ko	&lrm;나 때문에 거기 있나? | 
+ms	Dia di sana sebab saya? 
+nl	Is hij weg vanwege mij? 
+pt-br	Ele sumiu por minha causa? 
+pt	Ele fugiu por minha causa? 
+ro	Din cauza mea a plecat? 
+th	&lrm;และอยู่ที่นั่นเพราะฉันเหรอ | 
+vi	&lrm;Nó ở đó là tại em sao? | 
+zh-long	是因為我的關係嗎？ 
+da	Er han der på grund af mig? | 
+no	Er han der på grunn av meg? 
+sv	Är han där på grund av mig? 
+tr	Ve benim yüzümden mi gitti? 
+

@@ -1,0 +1,28 @@
+en	He... he called me Hiccups | 
+ar	&rlm;‏‏دعاني "الحازوق" لأنني أصبت بالحازوقة | &rlm;‏عندما كنت أتحدث على الهاتف معه.‏ | 
+da	Han kaldte mig Hikke, fordi jeg hikkede engang i telefonen. 
+fi	Hän sanoo minua Hikaksi, koska sain hikan puhelimessa. 
+fr	Il m'appelle M. Hoquet, car j'ai eu le hoquet au téléphone. 
+he	&rlm;‏‏הוא קרא לי "שיהוקי" | &rlm;‏כי שיהקתי כשדיברתי בטלפון.‏ | 
+it	Mi chiamava singhiozzo perché mi veniva parlando al telefono. 
+nl	Hij noemde me zo omdat ik aan de telefoon een keer de hik had. 
+pl	Nazywał mnie Czkawka, bo raz ją miałem, gdy rozmawialiśmy przez telefon. 
+pr-br	Ele me chamava de Soluço, pois me dava soluço ao falar no telefone. 
+pr	Ele chamava-me Soluços porque tive isso uma vez ao telefone com ele. 
+sp-eu	Me llamaba Hipo porque lo tenía cuando hablaba por teléfono. 
+sp	Me llamaba Hipo porque me agarraba cuando hablaba por teléfono. 
+sv	Han kallade mig Hickaren för jag hickade en gång när vi pratade i telefon. 
+th	เขาเรียกผมว่าจอมสะอึก | เพราะผมสะอึกตอนพูดโทรศัพท์ | 
+vi	Anh ấy gọi anh là Nấc | vì anh bị nấc mỗi khi nói điện thoại. | 
+zh-long	他叫我打嗝哥是因為 有次電話中我狂打嗝 
+zh-short	他叫我“嗝嗝” 因为我一次和他打电话时打嗝了 
+el	Με έλεγε έτσι γιατί μ' έπιασε λόξυγγας, ενώ μιλούσαμε στο τηλέφωνο. 
+ja	彼と電話中に | しゃっくりが出てね | 
+id	Dia menyebutku Ceguk karena aku cegukan saat kami bicara di telepon. 
+ru	Он прозвал меня Икоткой, потому что я икал по телефону. 
+ko	통화하며 딸꾹질한 적이 있어서 | 날 그렇게 부르셔 | 
+no	Han kalte meg Hikke fordi jeg hadde det i telefonen. 
+ro	Mi-a zis Sughiț fiindcă m-a apucat sughițul odată, la telefon. 
+tr	Bana Hıçkırık derdi çünkü bir keresinde telefonda beni hıçkırık tutmuştu. 
+en	because I had the hiccups this one time | I was on the phone with him. | 
+

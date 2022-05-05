@@ -1,0 +1,51 @@
+zh-short	琼斯吗？ 
+id	Jonesy? 
+ru	Джонси? 
+tr	Jonesy mi? 
+th	โจนซี่เหรอ | 
+pl	Jonesy? 
+vi	Jonesy? | 
+el	Ο Τζόουνζι; 
+ar	&rlm;‏"جونزي"؟‏ | 
+da	Jonesy? 
+fi	Jonesy? 
+fr	Jonesy ? 
+he	&rlm;‏ג'ונסי?‏ | 
+it	Jonesy? 
+ko	존지? | 
+nl	Jonesy? 
+no	Jonesy? 
+pr-br	Jonesy? 
+pr	O Jonesy? 
+ro	Jonesy? 
+sp-eu	¿Jonesy? 
+sp	¿Jonesy? 
+sv	Jonesy? 
+zh-long	瓊斯兄呀？ 
+en	-Jonesy? Jonesy's having a party? | -Okay. Uh-huh. | 
+ja	ジョンジーのパーティー？ | 
+id	- Baiklah. - Jonesy mengadakan pesta? 
+ar	&rlm;‏‏- حسناً. | &rlm;‏- أسيقيم "جونزي" حفلاً؟‏ | 
+da	-Okay. -Holder Jonesy fest? 
+el	-Εντάξει. -Ο Τζόουνζι κάνει πάρτι; 
+fi	Onko Jonesylla juhlat? 
+he	&rlm;‏‏בסדר. | &rlm;‏-ג'ונסי עורך מסיבה?‏ | 
+it	- Sì. - Jonesy dà una festa? 
+ko	- 그래요 | - 존지가 파티를 한대? | 
+no	Skal Jonesy ha fest? 
+pl	Urządza imprezę? 
+pr-br	-Está bem. -Jonesy vai dar uma festa? 
+pr	- Muito bem. - O Jonesy vai dar uma festa? 
+ro	- Bine. - Jonesy dă o petrecere? 
+sp	- De acuerdo. - ¿Jonesy da una fiesta? 
+sp-eu	- Vale. - ¿Jonesy da una fiesta? 
+sv	-Okej. -Så Jonesy ska ha fest? 
+th	- โอเค | - โจนซี่มีปาร์ตี้ | 
+tr	-Evet. -Jonesy parti mi veriyormuş? 
+vi	- Vâng. | - Jonesy mở tiệc à? | 
+zh-long	-好 -瓊斯兄今晚有派對？ 
+zh-short	-好的 -琼斯要办派对吗？ 
+nl	Geeft Jonesy een feest? Ik had 't gehoord, maar wist niet wanneer. 
+ru	-Да. -У Джонси вечеринка? 
+fr	Jonesy fait une soirée ? 
+

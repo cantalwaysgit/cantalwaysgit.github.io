@@ -1,0 +1,27 @@
+ar	&rlm;‏كيف حال "كار دي أنجيلو"؟‏ | 
+da	Hvordan har Carr D'Angelo det? 
+el	Τι κάνει ο Καρ Ντι Άντζελο; 
+en	So how's Carr D'Angelo? | 
+fi	Mitä Carr D'Angelolle kuuluu? 
+fr	Et Carr D'Angelo, comment il va ? 
+he	&rlm;‏אז מה שלום קאר ד'אנג'לו?‏ | 
+id	Bagaimana kabar Carr d'Angelo? 
+it	Allora, come sta Carr d'Angelo? 
+ko	칼 디엔젤로는 어떻게 지내? | 
+nl	Hoe is het met Carr D'Angelo? 
+no	Hvordan har Carr D'Angelo det? 
+pl	Co u Carra D'Angelo? 
+pr-br	Então, como está Carr d'Angelo? 
+pr	Como está o Carr D'Angelo? 
+ro	Și ce mai face Carr D'Angelo? 
+ru	Как там Карр Д’Анджело? 
+sp	¿Cómo está Carr d'Angelo? 
+sp-eu	¿Qué tal está Carr D'Angelo? 
+sv	Hur mår Carr D'Angelo? 
+th	คาร์ ดีแองเจโลเป็นไงมั่ง | 
+tr	Carr D'Angelo nasıl? 
+vi	Carr D'Angelo thế nào? | 
+zh-long	卡爾德安吉羅好嗎？ 
+zh-short	卡尔安杰洛怎么样了？ 
+ja	カー･ダンジェロは？ | 
+

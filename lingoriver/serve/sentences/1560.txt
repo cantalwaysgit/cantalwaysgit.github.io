@@ -1,0 +1,52 @@
+id	Kenapa aku bermain golf? 
+ru	Зачем мне играть в гольф? 
+ja	ゴルフ？ | 
+ar	&rlm;‏لماذا ألعب الغولف؟‏ | 
+da	Hvorfor spiller jeg golf? 
+el	Γιατί ήρθαμε για γκολφ; 
+en	Why am I golfing? | 
+fi	Miksi olen golfaamassa? 
+fr	Qu'est-ce qu'on fait là ? 
+he	&rlm;‏למה אני משחקת גולף?‏ | 
+it	Perché dovrei giocare a golf? 
+ko	골프는 왜 쳐요? | 
+no	Hvorfor golfer jeg? 
+pl	Czemu golf? 
+pr-br	Por que vou jogar golfe? 
+pr	Porque vou jogar golfe? 
+ro	De ce merg la golf? 
+sp-eu	¿Por qué voy a jugar al golf? 
+sp	¿Por qué estoy jugando golf? 
+sv	Varför spelar jag golf? 
+th	ทำไมฉันถึงมาตีกอล์ฟ | 
+tr	Golf nereden çıktı? 
+vi	Sao tôi lại chơi golf? | 
+zh-long	我幹嘛來打高爾夫球？ 
+zh-short	为什么来打高尔夫？ 
+nl	Waarom golf ik? -Golfen ontspant. 
+ru	Гольф успокаивает. 
+id	Main golf sangat menenangkan. 
+ja	ストレス発散になる | あれこれ考えずに打つだけだ | 
+pl	Bo odpręża. 
+ar	&rlm;‏لعب الغولف مريح جداً.‏ | 
+da	Golf er meget afslappende. 
+el	Το γκολφ είναι πολύ χαλαρωτικό. 
+en	Golfing is very relaxing. | 
+fi	Se on rentouttavaa. 
+fr	Le golf, ça détend. 
+he	&rlm;‏גולף מרגיע מאוד.‏ | 
+it	Il golf è molto rilassante. 
+ko	골프는 마음을 느긋하게 해줘 | 
+no	Golf er veldig avslappende. 
+pr-br	Golfe é bem relaxante. 
+pr	O golfe é muito relaxante. 
+ro	Golful e foarte relaxant. 
+sp	El golf es muy relajante. 
+sp-eu	El golf es muy relajante. 
+sv	För att det är avkopplande. 
+th	กอล์ฟช่วยผ่อนคลายได้มาก | 
+tr	Golf çok rahatlatıcıdır. 
+vi	Chơi golf rất thư giãn. | 
+zh-long	打高爾夫球能放鬆心情 
+zh-short	打高尔夫令人放松 
+

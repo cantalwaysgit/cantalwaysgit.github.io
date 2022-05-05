@@ -1,0 +1,28 @@
+en	-That is... That's spectacular. | -[clapping] | 
+ru	Это замечательно. Большое спасибо. 
+id	Itu spektakuler. Terima kasih banyak. 
+ar	&rlm;‏هذا رائع. شكراً جزيلاً.‏ | 
+da	Det er spektakulært. Mange tak skal I have. 
+el	Αυτό είναι εκπληκτικό. Σας ευχαριστώ πολύ. 
+fi	Hieno kuulla. Kiitoksia. 
+fr	C'est fantastique. Merci beaucoup. 
+he	&rlm;‏זה מדהים. תודה רבה.‏ | 
+it	È meraviglioso. Grazie di cuore. 
+nl	Geweldig. Hartelijk dank. 
+no	Det er fantastisk. Tusen takk. 
+pl	To wspaniale. Dziękuję bardzo. 
+pr-br	Espetacular. Muito obrigado. 
+pr	Isso é espetacular. Muito obrigado. 
+ro	E nemaipomenit! Mulțumesc. 
+sp	Eso es espectacular. Muchas gracias. 
+sp-eu	Eso es espectacular. Muchísimas gracias. 
+sv	Det är underbart. Tack så mycket. 
+th	นั่นยอดเยี่ยม ขอบคุณมาก | 
+tr	Bu muhteşem. Çok teşekkürler. 
+vi	Thật tuyệt vời. Cảm ơn rất nhiều. | 
+zh-long	太好了，謝謝大家 
+zh-short	这太好了 非常感谢 
+ko	정말 다행이네요 | 감사합니다 | 
+ja	光栄です　ありがとう | 
+en	Thank you. | Thank you so much. | 
+

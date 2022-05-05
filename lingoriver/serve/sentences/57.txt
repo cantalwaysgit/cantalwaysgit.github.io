@@ -1,0 +1,33 @@
+ja	まだか？ | 
+en	Hey, buddy, how long are you gonna be? | 
+
+pt-br	Pai? 
+uk	Тату? 
+id	Ayah? 
+es	¿Papá? 
+fi	Isä? | 
+ru	Папа! 
+cs	Tati? 
+da	Far? | 
+el	Μπαμπά; 
+en	Dad? 
+es-eu	¿Papá? 
+fr	Papa ? 
+he	‫אבא?‬ | 
+hr	Tata? 
+hu	Apa! 
+it	Papà? 
+ja	&lrm;パパ？ | 
+ko	&lrm;아빠? | 
+ms	Ayah? 
+nl	Papa? 
+no	Pappa? 
+pt	Pai? 
+ro	Tată? 
+sv	Pappa? 
+th	&lrm;พ่อคะ | 
+tr	Baba. 
+vi	&lrm;Bố? | 
+zh-long	爸？ 
+zh-short	爸爸 
+

@@ -1,0 +1,26 @@
+ja	ビーバスだ | 
+ru	Это Бивис. 
+pl	Tu Beavis. 
+id	Hei, ini Beavis. 
+ar	&rlm;‏مرحباً، أنا "بيفس".‏ | 
+da	Hej, det er Beavis. 
+el	Γεια, ο Μπίβις είμαι. 
+fi	Tässä Beavis. 
+fr	C'est Beavis. 
+he	&rlm;‏היי, זה ביוויס.‏ | 
+it	Ehi, sono Beavis. 
+ko	저 비비스예요 | 
+nl	Met Beavis. 
+no	Hei, det er Beavis. 
+pr-br	Oi, aqui é o Beavis. 
+pr	Fala o Beavis. 
+ro	Salut! Sunt Beavis. 
+sp-eu	Hola, soy Beavis. 
+sp	Hola, habla Beavis. 
+sv	Hej, det är Beavis. 
+th	เฮ่ นี่บีวิส | 
+tr	Merhaba, ben Beavis. 
+vi	Chào, tôi là Beavis. | 
+zh-long	嘿，我是癟四 
+zh-short	嘿 我是瘪四 
+

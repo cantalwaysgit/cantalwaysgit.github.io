@@ -1,0 +1,29 @@
+ru	Подними! 
+id	- Pungut kembali! - Diam, Firuz! 
+ar	&rlm;‏‏- ارفعها! | &rlm;‏- اصمت يا "فيروز"!‏ | 
+da	-Saml det op! -Ti stille, Firuz! 
+el	-Σήκωσέ το! -Σκάσε, Φαρούζ! 
+en	-Pick that up! | -Shut up, Firuz! | 
+fi	-Nosta se! -Ole vaiti, Firuz! 
+fr	- Ramasse ! - La ferme, Firuz ! 
+he	&rlm;‏‏תרים את זה! | &rlm;‏-תשתוק, פיירוז!‏ | 
+it	- Raccoglilo! - Stai zitto, Firuz! 
+nl	Raap dat op. -Kop dicht, Firuz. 
+pl	- Podnieś to! - Zamknij się, Firuz! 
+pr	- Apanha isso! - Cala-te, Firuz! 
+pr-br	-Cate o papel! -Cale a boca, Firuz! 
+ro	- Ia-o de jos! - Taci, Firuz! 
+sp-eu	- ¡Cógelo! - Cállate, Firuz. 
+sp	- ¡Levanta eso! - ¡Cállate, Firuz! 
+sv	-Plocka upp den. -Håll klaffen! 
+th	- หยิบขึ้นมา | - หุบปาก ไฟรูซ | 
+tr	-Al onu yerden! -Kapa çeneni Firuz! 
+vi	- Nhặt lên đi! | - Im đi, Firuz! | 
+zh-long	-撿起來！ -閉嘴，菲魯茨！ 
+zh-short	-捡起来！ -闭嘴 菲鲁兹！ 
+ko	- 주워! | - 닥쳐요, 퍼루즈! | 
+ja	拾え！ | 
+no	-Plukk det opp! -Hold kjeft, Firuz! 
+ru	Заткнись, Фируз! 
+ja	黙れ ファルース！ | 
+

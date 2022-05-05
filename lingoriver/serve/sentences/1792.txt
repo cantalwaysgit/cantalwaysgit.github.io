@@ -1,0 +1,27 @@
+ru	Ненавижу петь! 
+ja	歌は嫌いだ | 
+ar	&rlm;‏أكره الغناء.‏ | 
+da	Jeg hader at synge. 
+el	Μισώ το τραγούδι. 
+en	I hate singing. | 
+fi	Inhoan laulamista. 
+fr	Je déteste chanter. 
+he	&rlm;‏אני שונא לשיר.‏ | 
+id	Aku benci bernyanyi. 
+it	Io odio cantare. 
+ko	난 노래하는 게 싫어 | 
+nl	Ik haat zingen. 
+no	Jeg hater å synge. 
+pl	Nie lubię śpiewać. 
+pr-br	Odeio cantar. 
+pr	Eu odeio cantar. 
+ro	Detest cântatul! 
+sp-eu	Odio cantar. 
+sp	Odio cantar. 
+sv	Jag hatar att sjunga. 
+th	ฉันเกลียดการร้องเพลง | 
+tr	Şarkı söylemekten nefret ederim. 
+vi	Tôi ghét hát lắm. | 
+zh-long	我討厭唱歌 
+zh-short	我讨厌唱歌 
+

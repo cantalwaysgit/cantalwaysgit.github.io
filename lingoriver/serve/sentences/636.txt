@@ -1,0 +1,26 @@
+ja	あなたが安らぎを | 　　　　与えてくれる | 
+id	Kau membuatnya terasa nyaman 
+ru	С тобой я как дома 
+th	คุณทำให้มันรู้สึกเหมือนบ้าน | 
+da	Giver du mig tryghed 
+ar	&rlm;‏تجعلني أشعر كأنني في منزلي"‏ | 
+el	Με κάνεις να νιώθω οικεία 
+en	♪ You make it feel like home ♪ | 
+fi	Sä mulle kodin teet 
+fr	Avec toi, je me sens bien 
+he	&rlm;‏אתה גורם לי להרגיש בבית‏ | 
+it	Mi fai sentire a casa 
+ko	당신은 나를 | 집처럼 편안하게 해줘 | 
+nl	voel ik me door jou thuis 
+pl	Sprawiasz, że czuję się jak w domu 
+pr-br	Você faz com que eu me sinta em casa 
+pr	Fazes-me sentir em casa 
+ro	Faci să pară că e acasă 
+sp-eu	Haces que me sienta como en casa 
+sp	Me haces sentir como en casa 
+sv	Du får mig att känna mig som hemma 
+tr	Yuvamda gibiyim sayende 
+vi	Anh làm em thấy yên bình | 
+zh-long	你給了我歸屬感 
+zh-short	你带来家的感觉 
+

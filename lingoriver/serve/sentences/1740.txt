@@ -1,0 +1,30 @@
+id	- Aku memberitahumu. - Aku juga. 
+ja	僕のセリフだ | 
+ru	-Ты так думаешь? Я так думаю! -Ты согласен! 
+en	You're telling me? I'm telling you. | 
+ar	&rlm;‏‏- أنت تقول لي هذا؟ أنت المهووس. | &rlm;‏- نتوافق في الرأي إذاً.‏ | 
+el	-Που τα λέμε; Εγώ σου τα λέω. -Άρα συμφωνούμε. 
+fr	- Ah ouais, tu trouves ? Peut-être. - On est d'accord. 
+he	&rlm;‏‏אתה אומר לי? אני אומר לך. | &rlm;‏-אנחנו מסכימים.‏ | 
+it	- La pensi così? Vale anche per me. - Allora siamo d'accordo. 
+nl	Ik zal jou wat zeggen. -We zijn het eens. 
+no	-Sier du det? Jeg sier det. -Vi er enige. 
+pl	- To ja ci mówię. - Czyli zgadzamy się. 
+pr-br	-Está me dizendo? Eu que estou dizendo. -Nós concordamos. 
+pr	- Dizes-me isso a mim? Digo-te o mesmo. - Estamos de acordo. 
+sp-eu	- ¿Me lo dices a mí? Te lo digo yo. - Estamos de acuerdo. 
+th	- คุณบอกผมเหรอ ผมสิบอกคุณ | - งั้นเราตกลง | 
+vi	- Anh nói tôi à? Tôi nói anh đấy. | - Vậy nhất trí nhé. | 
+zh-long	-你跟我說？我還要跟你說咧 -那就這樣囉 
+zh-short	-你告诉我吗？是我告诉你 -那我们就达成一致了 
+tr	-Bana mı diyorsun? Ben sana söylüyorum. -Demek anlaştık. 
+ro	- Îmi spui tu mie? Ba îți zic eu! - Deci suntem de acord. 
+da	-Det siger du? Jeg siger det til dig. -Så er vi enige. 
+fi	-Otan itse loparit. -Olemme siis samaa mieltä. 
+sp	- ¿Tú me lo dices? Yo te lo digo a ti. - Estamos de acuerdo. 
+sv	-Säger du det? Jag ska säga dig. -Då är vi överens. 
+ko	- 나 말이야? 그러는 너는? | - 동의한 거다 | 
+id	Jadi, kita sepakat. 
+en	So we agree. | 
+ja	決まりだな | 
+

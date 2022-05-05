@@ -1,0 +1,30 @@
+id	Cukup. 
+ja	いいだろう | 
+ru	Всё. 
+ar	&rlm;‏قُضي الأمر. هدنة.‏ | 
+da	Sådan. Våbenhvile. 
+el	Αυτό ήταν. Ανακωχή. 
+en	That's it. Truce. | 
+fi	Selvä. Aselepo. 
+fr	Voilà. Pouce. 
+he	&rlm;‏זהו זה. שביתת נשק.‏ | 
+it	Bene. Tregua. 
+nl	Genoeg. Wapenstilstand. 
+no	Det holder. Våpenhvile. 
+pl	To koniec. Rozejm. 
+pr	Basta. Tréguas. 
+pr-br	É isso. Trégua. 
+ro	Gata. Armistițiu. 
+sp	Eso es. Tregua. 
+sp-eu	Ya está. Tregua. 
+sv	Då så. Vapenvila. 
+th	นั่นเลย สงบศึก | 
+tr	İşte bu. Ateşkes. 
+vi	Được rồi. Đi rồi. | 
+zh-long	很好，休戰 
+zh-short	行了 停战 
+ko	됐어, 휴전하자 | 
+id	Damai. 
+ru	Перемирие. 
+ja	休戦だな | 
+

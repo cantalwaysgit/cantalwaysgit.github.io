@@ -1,0 +1,27 @@
+id	Terima kasih, Bung. Maaf karena kita tak mengerjakannya bersama. 
+ja	ずっと一緒にやれたら | 最高だったな | 
+ar	&rlm;‏شكراً. آسف لأننا لم نقم بالأمر معاً.‏ | 
+da	Tak. Jeg er bare ked af, at vi ikke gjorde det sammen. 
+el	Σ' ευχαριστώ. Απλώς λυπάμαι που δεν μπορέσαμε να το κάνουμε μαζί. 
+en	Thank you, man. Well, I'm just sorry | that we couldn't have done it together. | 
+fi	Kiitos. Harmi, ettemme voineet menestyä yhdessä. 
+fr	C'est gentil. Je regrette qu'on n'ait pas pu le faire ensemble. 
+he	&rlm;‏‏תודה. אני רק מצטער | &rlm;‏שלא יכולנו לעשות את זה יחד.‏ | 
+it	Grazie. Peccato che non abbiamo potuto proseguire insieme. 
+ko	고마워, 같이 못 하게 돼서 | 정말 안타깝게 생각해 | 
+nl	Dank je. Maar het spijt me dat we het niet samen konden doen. 
+no	Takk. Jeg er bare lei for at vi ikke fikk gjøre det sammen. 
+pl	Dziękuję. Żałuję tylko, że nie osiągnęliśmy go razem. 
+pr-br	Obrigado. Sinto muito não termos trabalhado juntos. 
+pr	Obrigado. Lamento muito não o termos podido fazer juntos. 
+ro	Mersi. Îmi pare rău doar că nu le-am putut face împreună. 
+sp-eu	Gracias. Solo siento que no pudiéramos hacerlo juntos. 
+sp	Gracias a ti. Solo lamento que no pudimos hacerlo juntos. 
+sv	Tack. Jag är ledsen att vi inte kunde göra det tillsammans. 
+th	ขอบคุณ ฉันแค่เสียใจ | ที่เราร่วมงานกันไม่ได้ | 
+tr	Sağ ol. Birlikte yapamadığımız için üzgünüm. 
+vi	Cảm ơn anh. Tôi rất tiếc | vì chúng ta không cộng tác với nhau. | 
+zh-long	謝謝，只可惜我們沒能一起合作 
+zh-short	谢谢 我只是很遗憾 我们没能一起合作到最后 
+ru	Я только жалею, что мы делали это не вместе. 
+

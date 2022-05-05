@@ -1,0 +1,26 @@
+ar	&rlm;‏ماذا؟‏ | 
+da	Hvad? 
+el	Τι στο... Τι; 
+en	What the... What? | 
+fi	Mitä... 
+fr	Hein... quoi ? 
+he	&rlm;‏מה ל... מה?‏ | 
+it	Ma... Cosa? 
+ko	대체 무슨... 뭐라고요? | 
+pl	Co? 
+pr-br	Mas que... Quê? 
+pr	O que... O quê? 
+sp-eu	¿Qué...? 
+sp	¿Qué? 
+sv	Vad i... Vadå? 
+tr	Ne... Ne? 
+vi	Thế là... Gì cơ? | 
+zh-long	什麼？ 
+zh-short	什么？ 
+ja	え？ 何だって？ | 
+no	Hva i... Hva? 
+ru	Стойте... Что? 
+id	Apa? 
+ro	Ce... Poftim? 
+th	อะไร อะไรนะ | 
+

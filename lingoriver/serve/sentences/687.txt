@@ -1,0 +1,27 @@
+ja	この歌声はまさに | １羽の鳥と天使と― | 
+fi	Kuin lintu, enkeli ja saksofoni - 
+ru	Как будто птица, ангел и саксофон 
+ar	&rlm;‏وكأن طائراً وملاكاً وساكسفوناً‏ | 
+da	Det er som en fugl og en engel og en saxofon, 
+el	Ακούγεται λες και ένα πουλί, ένας άγγελος κι ένα σαξόφωνο 
+en	I mean, it's... it's like a bird | and an angel and a saxophone | 
+fr	C'est comme si un oiseau, un ange et un saxophone 
+he	&rlm;‏זה כאילו שציפור ומלאך וסקסופון‏ | 
+it	È come se un uccellino, un angelo e un sassofono 
+ko	마치 새와 천사가 | 색소폰과 사랑을 나누고 | 
+nl	Het is alsof een vogel, een engel en een saxofoon... 
+no	Det er som om en fugl, en engel, og en saksofon 
+pl	Jakby ptak, anioł i saksofon 
+pr-br	É como se um pássaro, um anjo e um saxofone 
+pr	É como se um pássaro, um anjo e um saxofone 
+ro	E ca și cum o pasăre, un înger și un saxofon 
+sp	Es como si un ave, un ángel y un saxo 
+sp-eu	Es como si un pájaro, un ángel y un saxofón 
+sv	Det är som om en fågel och en ängel och en saxofon 
+th	มันเหมือนกับนก นางฟ้าและแซกโซโฟน | 
+tr	Bir kuş, bir melek ve bir saksafon 
+vi	Thực sự là một con chim và | một thiên thần và chiếc đàn saxophone | 
+zh-long	彷彿鳥兒和天使和薩克斯風 
+zh-short	我是说 就像是鸟儿 天使和萨克斯 
+id	Maksudku, ini seperti burung dan malaikat beserta saksofon 
+

@@ -1,0 +1,27 @@
+id	Wanita di Chili's bilang akan tetap buka sampai 22.30 demi kita. Baguslah. 
+ar	&rlm;‏‏قالت السيدة في مطعم "تشيليز" إنهم سيبقونه | &rlm;‏مفتوحاً حتى الساعة 10:30 من أجلنا.‏ | 
+da	Damen hos Chili's sagde, at de holder åben til 22.30 for os. 
+el	Η κυρία στο Τσίλις είπε ότι θα μείνουν ανοιχτοί ως τις 22:30 για μας. 
+en	The lady at Chili's said they'll keep it | open till 10:30 for us, so that's good. | 
+fi	Chili'sin rouva lupasi pitää paikkaa auki kello 22.30 asti. 
+fr	Chili's reste ouvert pour nous jusqu'à 22h30. 
+he	&rlm;‏‏הגברת ב"צ'ילי'ס" אמרה | &rlm;‏שהם יישארו פתוחים למעננו עד 22:30.‏ | 
+it	La signora di Chili's ha detto che ci aspetteranno fino alle 22:30. 
+ko	칠리스 직원이 우리를 위해 | 10시 반까지 열어두겠대 | 
+nl	De vrouw bij Chili's zei dat ze voor ons tot 22.30 uur open blijven. 
+pl	Kobieta w Chili's powiedziała, że poczekają dla nas z zamknięciem. 
+pr	A senhora do Chili's disse que manteriam as portas abertas até às 22h30 para nós. 
+pr-br	A moça do Chili's disse que ficam abertos até as 22h30 para nós. 
+ro	Tipa de la restaurant a zis că ne așteaptă până la 22:30. 
+sp-eu	En Chili's han dicho que seguirían abiertos hasta las 22:30 para nosotros. 
+sp	La mujer de Chili's dijo que estará abierto hasta las 10:30 para nosotros. 
+sv	Damen på Chili's sa att de har öppet till kl. 22.30 för oss. 
+th	สาวที่ร้านชิลีส์บอกว่าจะเปิดร้าน | รอเราจนถึงสี่ทุ่มครึ่ง | 
+tr	Chili's'teki kadın 10.30'a kadar yerimizi tutacaklarını söyledi. 
+vi	Cô gái ở nhà hàng Chili nói | họ sẽ giữ chỗ cho ta tới 10:30. | 
+zh-long	餐廳小姐說 會為了我們開到十點半 
+zh-short	红辣椒餐厅的侍应说 预订会保留到10:30 
+ja	“チリズ”が10時半まで | 店を開けてくれる | 
+no	Damen på Chili's sa de ville holde åpent til 22.30 for oss. 
+ru	В «Чили» обещали не закрывать до 10:30 ради нас. 
+

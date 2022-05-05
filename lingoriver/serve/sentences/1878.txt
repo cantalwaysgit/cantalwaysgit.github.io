@@ -1,0 +1,27 @@
+en	Oh. Don't you worry about that. | I want you to worry about getting better. | 
+ja	今は体のことだけ考えて | 
+ar	&rlm;‏لا تقلق حيال الأمر. ركز على أن تتحسن.‏ | 
+da	Tænk ikke på det. Tænk på at få det bedre. 
+el	Μην ανησυχείς γι' αυτό. Προέχει να γίνεις καλά. 
+fi	Älä siitä huolehdi. Keskity toipumiseen. 
+fr	C'est pas important. Il faut que tu te remettes. 
+he	&rlm;‏אל תדאג בקשר לזה. תדאג רק להחלים.‏ | 
+id	Jangan cemaskan itu. Pikirkan saja kesehatanmu. 
+it	Non ci pensare. Pensa a tornare in forma. 
+ko	그런 건 걱정 말고 | 빨리 낫기나 하세요 | 
+nl	Maak je daar niet druk om. Word gewoon beter. 
+no	Ikke tenk på det. Tenk på å bli frisk. 
+pl	Nie myśl o tym. Skup się na zdrowieniu. 
+pr-br	Não se preocupe com isso. Preocupe-se em melhorar. 
+pr	Não te preocupes com isso. Preocupa-te em melhorar. 
+ro	Lasă asta. Vreau doar să te faci bine. 
+ru	Не думай об этом. Думай о своем здоровье. 
+sp-eu	No te preocupes por eso. Preocúpate por ponerte bien. 
+sp	No te preocupes por eso. Solo preocúpate por recuperarte. 
+sv	Tänk inte på det. Tänk bara på att bli bättre. 
+th	อย่าห่วงเรื่องนั้น ห่วงเรื่องหายไวๆ | 
+tr	Sen orasını dert etme. İyileşmene bak. 
+vi	Đừng lo về chuyện đó. | Hãy lo về sức khỏe của anh. | 
+zh-long	不用操心，趕快專心好起來 
+zh-short	那个不用担心 你只要好好休养 
+

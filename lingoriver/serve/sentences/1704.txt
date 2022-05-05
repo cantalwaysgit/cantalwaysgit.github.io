@@ -1,0 +1,28 @@
+ja	Ｃ･コーネル | 
+ar	&rlm;‏‏- "كريس كورنيل". | &rlm;‏- "جورج كلوني".‏ | 
+da	-Chris Cornell. -Clooney. 
+el	-Τον Κρις Κορνέλ. -Τον Τζορτζ Κλούνι. 
+en	-Chris Cornell. | -George Clooney. | 
+fi	-Chris Cornell. -Clooney. 
+fr	- Chris Cornell. - George Clooney. 
+he	&rlm;‏‏כריס קורנל. | &rlm;‏-ג'ורג' קלוני.‏ | 
+id	- C. Cornell. - Clooney. 
+it	- Chris Cornell. - George Clooney. 
+ko	- 크리스 코넬 | - 조지 클루니 | 
+nl	Chris Cornell. -Clooney. 
+no	-Chris Cornell. -Clooney. 
+pr-br	-Chris Cornell. -George Clooney. 
+pr	- Chris Cornell. - George Clooney. 
+ro	- Chris Cornell. - George Clooney. 
+sp	- Chris Cornell. - George Clooney. 
+sp-eu	- Chris Cornell. - George Clooney. 
+sv	-Chris Cornell. -Clooney. 
+th	- คอร์เนลล์ | - คลูนีย์ | 
+tr	-Chris Cornell. -George Clooney. 
+vi	- Chris Cornell. | - George Clooney. | 
+zh-long	-克里斯康奈爾 -喬治克隆尼 
+zh-short	-克里斯康奈尔 -乔治克鲁尼 
+pl	- Clooney. - Ziggy Marley. 
+ru	-Джордж Клуни. -Зигги Марли. 
+ja	Ｇ･クルーニー | 
+

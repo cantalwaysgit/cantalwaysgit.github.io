@@ -1,0 +1,27 @@
+ar	&rlm;‏‏أنت ذكية. هيا. ضعي يدك | &rlm;‏على ذقنك وفكري بالقضبان.‏ | 
+da	Du er genial. Kom så. Hånd på hagen, tænk på pølser. 
+el	Είσαι υπέροχη σήμερα. Χέρι στο πιγούνι και βρόμικες σκέψεις. 
+fi	Olet nerokas. Käsi leualle, ajattele nakkeja. 
+fr	Excellent. La main sur le menton, et pense à des zizis. 
+he	&rlm;‏‏את מבריקה. קדימה. | &rlm;‏יד על הסנטר, תחשבי על נקניקיות.‏ | 
+it	Sei brillante. Dai. Mani sul mento e pensa ai wurstel. 
+ko	대단해요, 좋아요 | 턱에 손대고 거시기를 생각해요 | 
+nl	Je bent briljant. Kom op. Hand op je kin, denk aan worsten. 
+no	Genialt. Kom igjen. Hånden på haken, tenk på wienere. 
+pl	Jesteś genialna. Ręka na brodę i myślimy o pindolkach. 
+pr-br	Você é brilhante. Vamos. Mão no queixo, pense em pintos. 
+pr	És brilhante. Vamos lá. Mão no queixo e pensa em salsichas. 
+ro	Ești genială! Hai! Mâna la bărbie, cu gândul la "cârnăciori". 
+ru	Гениально! Давай. Думай о сосисках. 
+sp	Eres brillante. Mano en el mentón, piensa en salchichas. 
+sp-eu	Estás sembrada hoy. Vamos. Mano en la barbilla. Piensa en salchichas. 
+sv	Du är briljant. Kom igen. Handen på hakan, tänk på korvar. 
+th	เยี่ยมมาก มาสิ มือจับคางคิดถึงจู๋ | 
+tr	Müthişsin. Hadi. El çenede, sosisleri düşün. 
+vi	Cô thật tuyệt. Tiếp nào. | Đặt tay lên cằm, nghĩ về xúc xích. | 
+zh-long	妳最棒了，來 手放下巴，想著大香腸 
+zh-short	你真聪明 继续 手放在下巴上 想着鸡鸡 
+id	Kau brilian hari ini. Ayo. Tangan di dagu, pikirkan sosis. 
+ja	ウィンナーを思い浮かべて | 
+en	Come on. Hand on chin, | thinking of wieners. | 
+

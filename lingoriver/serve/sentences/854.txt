@@ -1,0 +1,27 @@
+id	Tapi kami tidak masuk sepenuhnya. Airnya tidak tersentuh. 
+ar	&rlm;‏لكننا لم ندخل بالكامل. لم نلمس الماء.‏ | 
+da	Men vi gik ikke hele vejen. Vandet blev ikke rørt. 
+el	Δεν μπήκαμε μέσα, όμως. Κανείς δεν ακούμπησε το νερό. 
+en	But we didn't go all the way in. | No water was touched. | 
+fi	Emme kokonaan. Veteen ei koskettu. 
+fr	On n'est pas entrés totalement. On n'a pas touché l'eau. 
+he	&rlm;‏אבל לא נכנסו לגמרי. לא נגענו במים.‏ | 
+it	Ma non ci siamo tuffati. Nessuno ha toccato l'acqua. 
+nl	Maar niet helemaal. Niemand raakte het water aan. 
+no	Men vi var ikke helt uti. Intet vann ble berørt. 
+pl	Nie weszliśmy do końca. Nie dotykaliśmy wody. 
+pr-br	Mas não entramos completamente. Ninguém tocou na água. 
+pr	Mas não chegámos a entrar. Não tocámos na água. 
+ro	Dar n-am intrat cu totul. N-am atins apa. 
+sp-eu	Pero no del todo. No tocamos el agua. 
+sp	Pero no nos metimos del todo. No tocamos el agua. 
+sv	Men vi hoppade inte i helt och hållet. Vi rörde inte vattnet. 
+th	แต่เราไม่ได้ลงไปสุดตัว | ไม่ได้แตะน้ำนะ | 
+tr	Ama tamamen girmedik. Suya dokunulmadı. 
+vi	Nhưng chúng tôi không xuống hẳn. | Chưa chạm vào nước. | 
+zh-long	但我們沒待太久 泳池的水還好好的 
+zh-short	可我们没往里进 没碰到水 
+ru	Но не до конца. Воду мы не трогали. 
+ko	완전히 들어가진 않았어요 | 물을 안 건드렸으니까요 | 
+ja	でも水には一切 触れてない | 
+

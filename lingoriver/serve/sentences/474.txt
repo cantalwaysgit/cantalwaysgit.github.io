@@ -1,0 +1,27 @@
+ar	&rlm;‏هل صبغت شعرك؟‏ | 
+da	Har du farvet dit hår? 
+el	Έβαψες τα μαλλιά σου; 
+en	Did you dye your hair or something? | 
+fr	Tu t'es fait une couleur ? 
+he	&rlm;‏צבעת את השיער שלך?‏ | 
+it	Ti sei tinto i capelli? 
+ko	머리 염색하셨어요? | 
+nl	Heb je je haar geverfd? 
+no	Har du farget håret? 
+pl	Ufarbowałeś włosy? 
+pr-br	Você tingiu o cabelo? 
+pr	Pintaste o cabelo? 
+ro	Te-ai vopsit cumva? 
+sp-eu	¿Te has teñido el pelo? 
+sp	¿Te teñiste el cabello? 
+sv	Har du färgat håret? 
+th	คุณย้อมผมใช่ไหม | 
+tr	Saçını mı boyadın? 
+vi	Anh nhuộm tóc à? | 
+zh-long	你染髮了？ 
+zh-short	你染头发了吗？ 
+id	Kau mengecat rambutmu? 
+fi	-Oletko värjännyt hiuksesi? -En tietääkseni. 
+ru	-Ты покрасил волосы? -Вроде нет. 
+ja	髪を染めた？ | 
+

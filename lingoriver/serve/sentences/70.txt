@@ -1,0 +1,30 @@
+en	[laughing] | 
+
+en	but we thought… 
+fi	mutta ajattelimme… | 
+zh-short	但我们觉得… 
+da	men vi tænkte … Vi vil gerne hjælpe. | 
+el	αλλά σκεφτήκαμε… Θέλουμε να βοηθήσουμε. 
+es-eu	pero nos gustaría ayudar. 
+he	‫אבל חשבנו… אנחנו רוצות לעזור איכשהו.‬ | 
+hu	de gondoltuk… Szeretnénk valahogy segíteni. 
+id	tapi kami pikir… Kami ingin membantu. 
+ko	&lrm;그래도 어떻게든 돕고 싶어서요 | 
+ms	tapi kami terfikir nak membantu. 
+no	men vi tenkte… Vi vil gjerne hjelpe. 
+pt	mas pensámos… Queremos ajudar de algum modo. 
+ro	dar am vrut să vă ajutăm cumva. 
+ru	Просто подумали… Мы хотим хоть как-то помочь. 
+th	&lrm;แต่เราคิดว่า… เราอยากช่วยอะไรสักอย่าง | 
+vi	&lrm;nhưng bọn cháu nghĩ… | &lrm;Bọn cháu muốn góp chút công sức. | 
+zh-long	但是我們想…我們想幫點忙 
+hr	ali mislili smo… Htjeli bismo nekako pomoći. 
+pt-br	mas pensamos… Gostaríamos de ajudar de alguma forma. 
+tr	Ama bir şekilde yardımcı olmak istedik. 
+uk	але ми подумали… Ми хочемо допомогти. 
+cs	Chceme nějak pomoct. 
+ja	&lrm;力になりたい | 
+zh-short	我们想帮忙 
+fi	Haluamme auttaa. | 
+en	We just want to help. 
+

@@ -1,0 +1,27 @@
+id	Konon, dia duduk dalam mobil dan menangis selama enam jam. 
+ru	По легенде, он ревел в этой машине часов шесть. 
+ar	&rlm;‏‏تقول الأسطورة إنه بقي في تلك السيارة | &rlm;‏وبكى 6 ساعات؟‏ | 
+da	Det siges, at han sad og græd i sin bil i seks timer. 
+el	Λέγεται ότι έμεινε στο αυτοκίνητο κι έκλαιγε επί έξι ώρες. 
+en	Legend has it he stayed in that car | and cried for... six hours? | 
+fi	Hänen sanotaan istuneen autossa itkemässä kuusi tuntia. 
+fr	Il paraît qu'il est resté six heures à pleurer dans sa voiture. 
+he	&rlm;‏‏האגדה מספרת שהוא נשאר במכונית | &rlm;‏ובכה במשך... שש שעות?‏ | 
+it	La leggenda narra che sia rimasto sei ore a piangere in macchina. 
+ko	전설에 의하면 차에 앉아서 | 6시간을 울었다더군요 | 
+nl	Volgens de legende zat hij zes uur in de auto te huilen. 
+no	Det sies at han satt i bilen og gråt i seks timer? 
+pl	Podobno płakał w tym wozie przez sześć godzin. 
+pr-br	Diz a lenda que ele ficou chorando no carro durante seis horas, é isso? 
+pr	Consta que ele ficou naquele carro e chorou durante... seis horas? 
+ro	Se spune că a stat în mașina aia și a plâns, cât, șase ore? 
+sp	Dicen que lloró seis horas en su auto. 
+sp-eu	La leyenda dice que se quedó en el coche y lloró seis horas. 
+sv	Det sägs att han satt i bilen och grät i sex timmar. 
+th	เล่ากันว่าเขานั่งอยู่ในรถ | แล้วร้องไห้นานหกชั่วโมงใช่ไหม | 
+tr	Söylentiye göre arabada oturup altı saat ağlamış. 
+vi	Nghe kể là anh ấy đã ngồi trong xe | và khóc suốt sáu giờ liền? | 
+zh-long	聽說他待在車上 足足哭了六個小時？ 
+zh-short	据说他在车里哭了六个小时？ 
+ja	サンディは車の中で | ６時間 泣き続けたとか | 
+

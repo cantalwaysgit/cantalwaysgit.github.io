@@ -1,0 +1,27 @@
+ar	&rlm;‏‏أؤكد لك إنه أفضل متحدث | &rlm;‏من البطن في هذا المجال.‏ | 
+da	Jeg siger dig, han er den bedste bugtaler i branchen. 
+el	Σου λέω, είναι ο κορυφαίος εγγαστρίμυθος του χώρου. 
+en	[Sandy] I'm telling you, he's the best | ventriloquist in the business. He... | 
+fi	Hän on alan paras vatsastapuhuja. 
+fr	C'est le meilleur ventriloque du moment. 
+he	&rlm;‏אני אומר לך, הוא הפיתום הכי טוב בעסק.‏ | 
+it	Ti assicuro che è il miglior ventriloquo del giro. 
+ko	업계 최고의 복화술사라니까요 | 
+nl	Hij is de beste buikspreker die er is. 
+pl	To najlepszy brzuchomówca w branży. 
+pr-br	Estou dizendo, ele é o melhor ventríloquo do ramo. 
+pr	Estou a dizer-te, ele é o melhor ventríloquo que há. 
+ro	Îți garantez, e cel mai bun ventriloc din industrie. 
+sp-eu	Te lo estoy diciendo, es el mejor ventrílocuo del negocio. 
+sp	Te digo que es el mejor ventrílocuo del negocio. 
+th	ผมจะบอกให้ เขาเป็นนักแปลงเสียง | ที่เก่งที่สุดในวงการ | 
+tr	Haberin olsun, piyasadaki en iyi vantrilok. 
+vi	Anh ta là người nói tiếng bụng | giỏi nhất trong ngành đấy. | 
+zh-long	我告訴你 他是圈內最棒的腹語演員 
+zh-short	跟你说 他是行业里最棒的口技艺人 
+id	Dia ahli suara perut terbaik di bisnis hiburan. 
+ru	-Я говорю вам, он лучший чревовещатель. -И не видно, что это он говорит? 
+no	-Han er bransjens beste buktaler. -Kan man ikke se at han snakker? 
+sv	-Han är branschens bästa buktalare. -Ser man honom inte prata? 
+ja	業界で最も優れた腹話術師だ | 
+

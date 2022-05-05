@@ -1,0 +1,28 @@
+ja	少し音楽から離れたいの | 
+ru	Просто я хочу... 
+ar	&rlm;‏أحتاج إلى استراحة من الموسيقى.‏ | 
+da	Jeg har brug for en pause fra musikken. 
+el	Χρειάζομαι ένα διάλειμμα από τη μουσική. 
+en	I just need a... a break from the music. | 
+fi	Tarvitsen taukoa musiikista. 
+fr	J'ai besoin de m'éloigner de la musique un moment. 
+he	&rlm;‏אני פשוט צריכה הפסקה מהמוזיקה.‏ | 
+id	Aku butuh rehat dari musik. 
+it	Devo prendermi una pausa dalla musica. 
+nl	Ik wil even geen muziek maken. 
+no	Jeg trenger en pause fra musikken. 
+pl	Muszę odpocząć od muzyki. 
+pr-br	Preciso dar um tempo da música. 
+pr	Só preciso de uma pausa da música. 
+ro	Am nevoie de o pauză de la muzică. 
+sp-eu	Necesito tomarme un descanso de la música. 
+sp	Solo necesito un descanso de la música. 
+sv	Jag behöver en paus från musiken. 
+th	ฉันแค่อยากหยุดจากวงการเพลง | 
+tr	Müziğe biraz ara vermeliyim. 
+vi	Em cần nghỉ âm nhạc một thời gian. | 
+zh-long	我需要暫時遠離一下音樂 
+zh-short	我需要远离音乐一段时间 
+ko	그냥 음악을 좀 쉬고 싶어요 | 
+ru	...отдохнуть от музыки. 
+

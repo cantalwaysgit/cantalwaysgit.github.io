@@ -1,0 +1,28 @@
+ru	Я могу посмотреть вам в глаза 
+ar	&rlm;‏‏لأنه يمكنني أن أنظر | &rlm;‏إلى عينيك مباشرة وأن أعدك بهذا.‏ | 
+da	Fordi jeg kan se Dem i øjnene og love Dem følgende: 
+el	Μπορώ να σας κοιτάξω στα μάτια και να σας υποσχεθώ το εξής: 
+en	Because I can look you dead in the eye | and promise you this: | 
+fi	Voin katsoa suoraan silmiin ja luvata näin. 
+fr	Je peux vous regarder dans les yeux et vous faire cette promesse. 
+he	&rlm;‏כי אני יכול להסתכל לך בעיניים ולהבטיח לך.‏ | 
+id	Karena aku dapat menatapmu dan menjanjikan ini. 
+it	Perché io posso farle una promessa guardandola fisso negli occhi. 
+ko	당신 눈을 똑바로 보고 | 이렇게 약속할 거니까요 | 
+nl	Ik kijk je recht aan en beloof je dit. 
+pl	Bo mogę spojrzeć panu prosto w oczy i obiecać jedno. 
+pr-br	Porque posso olhar nos seus olhos e prometer uma coisa. 
+pr	Porque eu consigo olhá-lo nos olhos e prometer-lhe o seguinte: 
+ro	Fiindcă vă pot privi în ochi și vă pot face o promisiune. 
+sp-eu	Porque puedo mirarle a los ojos y prometerle una cosa. 
+sp	Porque puedo mirarlo a los ojos y prometerle esto: 
+sv	För att jag kan se dig rakt i ögonen och lova dig detta. 
+th	เพราะผมสามารถมองตาคุณตรงๆ | แล้วสัญญาตามนี้ได้ | 
+tr	Çünkü dosdoğru yüzünüze bakıp size şu sözü vereceğim. 
+vi	Vì tôi nhìn thẳng vào mắt ông | và hứa với ông điều này. | 
+zh-long	因為我可以直視你的雙眼 跟你掛保證 
+zh-short	因为我能直视你的眼睛 向你保证 
+ja	あなたを真剣に見つめて | 誓って言えます | 
+no	Fordi jeg ser deg inn i øynene og lover deg dette: 
+ru	и пообещать: 
+

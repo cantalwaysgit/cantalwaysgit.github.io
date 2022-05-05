@@ -1,0 +1,26 @@
+ru	И поскорее выведем его в эфир. Хорошо? 
+id	Akan segera kutayangkan klienmu. Bagaimana, Bung? 
+ar	&rlm;‏‏سأبث عروض رجلك بأسرع ما يمكن. | &rlm;‏اتفقنا يا صديقي؟‏ | 
+da	Jeg får din knægt på TV hurtigst muligt. Okay? 
+el	και θα βγάλω τον πελάτη σου στον αέρα το συντομότερο, εντάξει; 
+en	I'll get your boy on the air ASAP. | Okay, bud? | 
+fi	Järjestän pojallesi ohjelman. Sopiiko, kamu? 
+fr	Ton poulain passera à la télé. Ça marche ? 
+he	&rlm;‏‏אני אשדר את הבחור שלך בהקדם האפשרי. | &rlm;‏בסדר, חבר?‏ | 
+it	E appena possibile mando in onda il tuo cliente. 
+nl	Ik zorg dat jouw man zo snel mogelijk uitgezonden wordt. Oké? 
+no	Jeg skal få fyren din fort på lufta. Greit? 
+pl	Raz-dwa wystąpi w telewizji. Zgoda? 
+pr-br	Colocarei seu cliente no ar assim que possível. Está bem, amigão? 
+pr	Pomos o teu rapaz no ar num instante. Está bem, amigo? 
+ro	O să-ți bag băiatul în direct cât mai repede. Da? 
+sp-eu	Sacaré a tu chico en las ondas enseguida. ¿De acuerdo? 
+sp	Pondré a tu muchacho en el aire cuanto antes. ¿Sí, amigo? 
+sv	Så får din klient en show så fort som möjligt. 
+th	จะให้เด็กคุณออกทีวีให้เร็วที่สุด | เท่าที่เร็วได้ ตกลงไหมเพื่อน | 
+tr	Adamını en kısa zamanda yayına alırım. Tamam mı dostum? 
+vi	Tôi sẽ cho người của anh diễn | sớm nhất có thể. Được chứ? | 
+zh-long	我盡快送你家藝人上線，好嗎？ 
+zh-short	我会尽快安排他上节目的 行吗 伙计？ 
+ko	최대한 빨리 방송에 내보낼게 | 됐지? | 
+

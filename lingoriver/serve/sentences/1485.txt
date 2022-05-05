@@ -1,0 +1,24 @@
+id	- Baiklah. - Sandy! 
+ar	&rlm;‏‏- حسناً. | &rlm;‏- "ساندي"!‏ | 
+da	-Okay. -Sandy! 
+el	-Εντάξει. -Σάντι! 
+en	-[grunts] Okay. | -Sandy! | 
+he	&rlm;‏‏בסדר. | &rlm;‏-סנדי!‏ | 
+it	- Ecco qua. - Sandy! 
+no	-Ok. -Sandy! 
+pr-br	-Está bem. -Sandy! 
+pr	- Pronto. - Sandy! 
+ro	- Bine. - Sandy! 
+sp	- De acuerdo. - ¡Sandy! 
+sp-eu	- Está bien. - ¡Sandy! 
+sv	-Okej. -Sandy! 
+th	- โอเค | - แซนดี้ | 
+tr	-Tamam. -Sandy! 
+vi	- Được rồi. | - Sandy! | 
+zh-long	-好 -山迪！ 
+zh-short	-好的 -桑迪！ 
+ru	-Давай-ка... -Сэнди! 
+ko	- 타자 | - 샌디! | 
+ja	サンディ！ | 
+pl	Sandy! 
+

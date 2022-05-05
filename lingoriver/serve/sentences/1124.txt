@@ -1,0 +1,27 @@
+id	Tapi aku meneriakinya. 
+ru	Вот. Но я на него наорал. 
+ja	こう言い聞かせてやった | 
+ar	&rlm;‏حسناً؟ لكنني صرخت عليه.‏ | 
+da	Okay? Men jeg råbte: 
+el	Του φώναξα, όμως. 
+en	All right? But I screamed at him. | 
+fi	Huusin kyllä sille. 
+fr	Mais je lui ai crié dessus. 
+he	&rlm;‏בסדר? אבל צעקתי עליו.‏ | 
+it	Capito? Ma l'ho spaventato. 
+nl	Maar ik heb tegen hem geschreeuwd. 
+no	Ok? Men jeg skrek til ham. 
+pl	Ale nawrzeszczałem na niego. 
+pr-br	Está bem? Mas eu gritei com ele. 
+pr	Está bem? Mas gritei-lhe. 
+ro	Da? Dar am țipat la el. 
+sp	¿Está bien? Pero le grité. 
+sp-eu	¿Vale? Pero le he gritado. 
+sv	Men jag skrek på den. 
+th	ผมตะโกนใส่มัน | 
+tr	Tamam mı? Ama ona bağırdım. 
+vi	Được chứ? Nhưng tôi đã quát nó. | 
+zh-long	不過我有放話 
+zh-short	行吗？但我呵斥了它 
+ko	됐지? 대신 소리는 질러줬어 | 
+

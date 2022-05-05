@@ -1,0 +1,28 @@
+ja	本音を言えば | ちょっと寂しいわ | 
+en	The truth is that I'm just... | 
+ar	&rlm;‏الحقيقة أنني أشعر ببعض الوحدة.‏ | 
+da	Jeg er nok bare lidt ensom. 
+el	Η αλήθεια είναι ότι... Νιώθω λίγο μόνη. 
+fi	Olen totta puhuen hieman yksinäinen. 
+fr	Pour être honnête, je me sens un peu seule. 
+he	&rlm;‏האמת היא שאני פשוט... קצת בודדה.‏ | 
+id	Sejujurnya aku hanya sedikit kesepian. 
+it	A dire la verità, mi sento un po' sola. 
+ko	솔직히 말하면... | 좀 외로워요 | 
+nl	Eigenlijk ben ik een beetje eenzaam. 
+no	Sannheten er at jeg er litt ensom. 
+pl	Szczerze mówiąc, czuję się trochę samotna. 
+pr	A verdade é que me sinto... Sinto-me um bocadinho só. 
+pr-br	A verdade é que eu estou meio solitária. 
+ro	Adevărul e că mă simt puțin singură. 
+ru	По правде говоря... мне немного одиноко. 
+sp-eu	La verdad es que me siento... un poco sola. 
+sp	La verdad es que me siento... un poco sola. 
+sv	Sanningen är den att jag känner mig ensam. 
+th	ความจริงก็คือฉันแค่... | ฉันเหงานิดหน่อย | 
+tr	İşin aslı şu ki ben sadece... Biraz yalnızlık çekiyorum. 
+vi	Sự thật là tôi chỉ... Tôi thấy hơi cô đơn. | 
+zh-long	老實說我覺得…有點小寂寞 
+zh-short	其实我只是有点寂寞 
+en	a little bit lonely. | 
+

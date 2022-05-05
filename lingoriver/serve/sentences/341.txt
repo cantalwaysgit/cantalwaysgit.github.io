@@ -1,0 +1,27 @@
+ar	&rlm;‏شكراً لك يا أبي.‏ | 
+da	Mange tak, far. 
+el	Σ' ευχαριστώ, μπαμπά 
+en	♪ Thank you, Daddy ♪ | 
+fi	Kiitos, isä 
+fr	Merci, papa 
+he	&rlm;‏תודה, אבא.‏ | 
+id	Terima kasih, Ayah 
+it	Grazie, papà. 
+ko	고마워요, 아빠 | 
+nl	bedankt, pap 
+no	Takk, pappa 
+pl	Dziękuję, tatusiu. 
+pr-br	Obrigada, papai 
+pr	Obrigada, pai 
+ro	Mulțumesc, tati! 
+ru	Спасибо, папа 
+sp-eu	Gracias, papá 
+sp	Gracias, papá 
+sv	Tack, pappa 
+th	ขอบคุณค่ะ พ่อ | 
+tr	Sağ ol baba 
+vi	Cảm ơn, bố. | 
+zh-long	謝啦，老爸 
+zh-short	谢谢 老爸 
+ja	ありがとう パパ | 
+

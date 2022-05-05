@@ -1,0 +1,49 @@
+id	- Aku? - Ya, kau. 
+ar	&rlm;‏‏- أنا؟ | &rlm;‏- أجل، أنت.‏ | 
+da	-Mig? -Ja, dig. 
+el	-Εγώ; -Ναι, εσύ. 
+en	-Me? | -Yes, you. | 
+fr	- Moi ? - Oui, toi. 
+he	&rlm;‏‏לי? | &rlm;‏-כן, לך.‏ | 
+it	- Io? - Sì, tu. 
+pr-br	-Eu? -Sim, você. 
+pr	- Eu? - Sim, tu. 
+ro	- Eu? - Da. Tu. 
+sp-eu	- ¿Yo? - Sí, tú. 
+sp	- ¿Yo? - Sí, tú. 
+tr	-Bende mi? -Evet, sende. 
+vi	- Tôi ư? | - Phải, cô. | 
+zh-long	-我？ -對，妳 
+zh-short	-我吗？ -对 就是你 
+ko	- 제가요? | - 그래, 너 | 
+pl	- Ja? - Tak. Obiecaj mi coś. 
+sv	-Jag? -Ja, du. Lova mig en sak. 
+ja	私が？ | 
+no	-Jeg? -Ja, du. 
+fi	-Minäkö? -Niin, sinä. 
+ru	-У меня? -Да, у тебя. Обещай мне вот что. 
+th	- ฉันเหรอ | - ใช่ คุณ | 
+ja	ああ　約束してくれ | 
+ar	&rlm;‏عديني بهذا.‏ | 
+da	Men du skal love mig, 
+el	Υποσχέσου μου αυτό. 
+en	You promise me this. | 
+fr	Fais-moi une promesse. 
+he	&rlm;‏תבטיחי לי את זה.‏ | 
+it	Fammi una promessa. 
+nl	Beloof me dit. 
+pr-br	Prometa uma coisa. 
+pr	Promete-me o seguinte: 
+ro	Promite-mi ceva. 
+sp-eu	Prométeme una cosa. 
+sp	Prométeme esto. 
+th	สัญญากับผมนะ | 
+tr	Söz ver bana. 
+vi	Hứa với tôi điều này. | 
+zh-long	答應我 
+zh-short	你要跟我保证 
+id	Berjanjilah. 
+fi	Lupaa yksi asia. Kun voitat ensimmäisen Grammysi - 
+no	Lov meg dette. Når du har vunnet din første Grammy, 
+ko	이것만 약속해줘 | 
+

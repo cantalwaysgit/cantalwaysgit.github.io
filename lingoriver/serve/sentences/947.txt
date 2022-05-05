@@ -1,0 +1,28 @@
+id	- Aku pasanganmu? - Ya. 
+ja	僕？ | 
+ru	-И я второй? -Да. 
+ar	&rlm;‏‏- وهل أنا الشخص الثاني؟ | &rlm;‏- أجل.‏ | 
+da	-Er det så mig? -Ja. 
+el	-Εγώ είμαι αυτός; -Ναι. 
+en	-And I'm the one? | -[chuckles] Yeah. | 
+fi	-Olenko se minä? -Olet. 
+fr	Moi ? 
+he	&rlm;‏‏ואני האחד? | &rlm;‏-כן.‏ | 
+it	- E sono io? - Sì. 
+ko	- 그게 나야? | - 네 | 
+nl	En ben ik dat? 
+no	-Og det er meg? -Ja. 
+pl	- I to ja? - Tak. 
+pr-br	-E eu sou o escolhido? -Sim. 
+pr	- E sou eu? - Sim. 
+ro	- Adică eu? - Da. 
+sp-eu	- ¿Y yo soy tu acompañante? - Sí. 
+sp	- ¿Y yo soy ese alguien? - Sí. 
+sv	-Och det är jag? -Ja. 
+th	- และผมคือหนึ่งนั่นใช่ไหม | - ใช่ | 
+tr	-Beni mi götüreceksin? -Evet. 
+vi	- Là tôi? | - Phải. | 
+zh-long	-我是那個伴？ -對 
+zh-short	-而我就是你的伴？ -正是 
+ja	そうね | 
+

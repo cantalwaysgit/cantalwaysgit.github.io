@@ -1,0 +1,57 @@
+he	&rlm;‏‏למעשה, כן. | 
+en	Actually, I have. | 
+id	Sebenarnya, pernah. 
+ru	Была. 
+ar	&rlm;‏‏- أجل في الواقع. | &rlm;‏- ملصق "أنيتا براينت" لا يُحتسب.‏ | 
+da	-Det har jeg faktisk. -Din Anita Bryant-plakat tæller ikke med. 
+el	-Για την ακρίβεια, ναι. -Δε μετράει η αφίσα της Ανίτα Μπράιντ. 
+fi	-Olenpa hyvinkin. -Anita Bryantin julistetta ei lasketa. 
+fr	- Oui. - Les posters de pin-up, ça compte pas. 
+it	- A dire il vero, sì. - Il poster di Anita Bryant non conta. 
+ko	- 있어요 | - 연예인 포스터는 빼고요 | 
+nl	Eigenlijk wel. -De poster van Anita Bryant telt niet. 
+no	-Ja, faktisk. -Anita Bryant-plakaten din teller ikke. 
+pl	- Byłem. - Plakat Anity Bryant się nie liczy. 
+pr-br	-Na verdade, sim. -Seu pôster da Anita Bryant não conta. 
+pr	- Por acaso, já. - O  poster  da Anita Bryant não conta. 
+ro	- Chiar am. - Afișul cu Anita Bryant nu se pune. 
+sp	- En realidad, sí. - Tu póster de Anita Bryant no cuenta. 
+sp-eu	- La verdad es que sí. - Su póster de Anita Bryant no cuenta. 
+sv	-Det har jag faktiskt. -Din Anita Bryant-affisch räknas inte. 
+th	- จริงๆ แล้วเคย | - ไม่นับโปสเตอร์แอนิตา ไบรอันต์นะ | 
+tr	-Aslında çıktım. -Anita Bryant posteri sayılmaz. 
+vi	- Thực ra là có. | - Không tính tờ áp phích Anita Bryant nhé. | 
+zh-long	-當然 -跟你家美女海報不算喔 
+zh-short	-有过 -安妮塔布莱恩特的海报可不算 
+ja	もちろんある | 
+
+nl	…dan sta ik niet voor mezelf in. 
+hr	Ne odgovaram za svoje postupke. 
+cs	a neručím za sebe. 
+da	…ved jeg ikke, hvad jeg gør. | 
+el	δεν ξέρω τι θα κάνω. 
+en	I don't know what I'll do. 
+es-eu	no respondo de mis actos. 
+es	no responderé de mí. 
+fr	Je ne répondrai plus de rien. 
+he	‫אני לא יודע מה אעשה.‬ | 
+hu	nem állok jót magamért. 
+id	aku tak tahu akan berbuat apa. 
+it	non so cosa potrei fare. 
+ja	&lrm;ただでは すませない | 
+ko	&lrm;내가 무슨 짓을 할지 나도 몰라 | 
+ms	Entah apa yang saya akan buat. 
+no	…vet jeg ikke hva jeg gjør. 
+pt-br	não responderei por meus atos. 
+pt	Não sei do que sou capaz. 
+ro	nu știu ce o să fac. 
+ru	…я за себя не ручаюсь. 
+sv	…vet jag inte vad jag gör. 
+th	&lrm;ผมไม่รับประกันว่าผมจะทำอะไรบ้าง | 
+tr	…yapacaklarımdan sorumlu değilim. 
+vi	&lrm;tôi không biết mình sẽ làm gì đâu. | 
+zh-long	我可無法控制自己的行為 
+zh-short	我不知道我会做出什么事 
+fi	En tiedä, mitä teen sinulle. | 
+uk	Я за себе не відповідаю. 
+

@@ -1,0 +1,27 @@
+id	- Dia bodoh. - Dia tidak bodoh. 
+ar	&rlm;‏‏- إنه غبي. | &rlm;‏- لا.‏ | 
+da	-Han er et fjols. -Nej. 
+el	-Είναι ηλίθιος. -Δεν είναι. 
+en	-He's a moron. | -He's not a moron. | 
+fi	-Hän on ääliö. -Ei ole. 
+fr	- C'est un débile. - Non. 
+he	&rlm;‏‏הוא אידיוט. | &rlm;‏-הוא לא.‏ | 
+it	- È un idiota. - No. 
+ko	- 병신이잖아 | - 아니야 | 
+nl	Hij is een sukkel. -Nee. 
+no	-Han er en idiot. -Nei. 
+pl	- To dureń. - Nie. 
+pr-br	-Ele é um idiota. -Não é. 
+pr	- É um idiota. - Não é. 
+ro	- E un tâmpit. - Nu e. 
+ru	-Он козел. -Нет. 
+sp	- Es un idiota. - No. 
+sp-eu	- Es un cretino. - No. 
+sv	-Han är en idiot. -Nej. 
+th	- เขาปัญญาอ่อน | - เขาไม่ใช่ | 
+tr	-Salağın teki. -Değil. 
+vi	- Hắn là tên ngốc. | - Không. | 
+zh-long	-他是個阿呆 -才不是 
+zh-short	-他是个笨蛋 -他不是 
+ja	バカだ | 
+

@@ -1,0 +1,26 @@
+ar	&rlm;‏تبتسم بينما ترى المسرح يمتلئ‏ | 
+da	Dit smil kunne ikke være mere gigantisk 
+el	Να χαμογελάς Βλέποντας το θέατρο να γεμίζει 
+en	♪ Smiling as you watch | The theater filling ♪ | 
+fi	Hymy huulilla Kun teatteri täyttyy 
+fr	Sourire en regardant la salle se remplir 
+he	&rlm;‏לחייך בעוד האולם מתמלא‏ | 
+it	Sorridere guardando Il teatro che si riempie 
+ko	극장에 관객이 차는 걸 | 미소 지으며 바라보기 | 
+pl	Sala wypełnia się po brzegi 
+pr-br	Sorrir ao ver o teatro enchendo 
+pr	Sorrir ao ver a sala encher 
+ro	Să zâmbești când sala se umple 
+sp-eu	Sonreír mientras se llena el teatro 
+sp	Sonriendo cuando el teatro está lleno 
+sv	Och le när man ser teatern fyllas 
+th	ยิ้มเมื่อเห็นคนทยอยเข้าโรงละคร | 
+tr	Salonun dolmasını izlersin gülümseyerek 
+vi	Cười khi thấy nhà hát hết dần chỗ trống | 
+zh-long	滿座的劇場讓你笑顏逐開 
+zh-short	看到剧院上座开心而笑 
+ja	満員の客席を見て | 　　　　　　ニンマリ | 
+ru	Смотреть, как заполняется зал 
+nl	je lacht terwijl het theater volstroomt en jouw hoofd op de affiches staat 
+id	Tersenyum saat melihat teater penuh 
+

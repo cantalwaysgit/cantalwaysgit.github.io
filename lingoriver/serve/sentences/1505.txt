@@ -1,0 +1,25 @@
+id	Karena itulah kukatakan. Anak-anak pasti menyukainya. 
+ru	Я же потому и говорю. Дети будут в восторге. 
+ar	&rlm;‏هذا سبب ذكري للأمر. سيحبه الأطفال.‏ | 
+da	Det er derfor, jeg tager det op. Børn vil elske ham. 
+el	Γι' αυτό το αναφέρω. Τα παιδιά θα τον λατρέψουν. 
+en	[stammers] That's why I'm bringing it up | to you. The kids will love this guy. | 
+fr	C'est pour ça que je t'en parle. Les enfants vont adorer. 
+he	&rlm;‏לכן אני מעלה את הנושא. הילדים יאהבו אותו.‏ | 
+it	Per questo lo propongo. Ai bambini piacerà un sacco. 
+nl	Daarom begin ik erover. Kinderen vinden hem geweldig. 
+no	Det er derfor jeg nevner det. Ungene elsker ham. 
+pl	Dlatego o tym mówię. Dzieci będą za nim przepadać. 
+pr-br	Por isso eu falei. As crianças vão amar esse cara. 
+pr	É por isso que te estou a falar nisto. Os miúdos vão adorar este tipo. 
+ro	De asta îl propun pe el. Copiii îl vor adora. 
+sp-eu	Por eso lo menciono. A los niños les encantará. 
+sp	Por eso te digo. Los niños lo adorarán. 
+sv	Det är därför jag tar upp det. Ungarna älskar honom. 
+th	เพราะงั้นผมถึงพูดถึงเขาขึ้นมา | เด็กๆ ชอบเขา | 
+tr	O yüzden bahsediyorum ya. Çocuklar bu adama bayılacak. 
+vi	Vì vậy mà tôi nói chuyện này. | Bọn trẻ sẽ thích anh ta. | 
+zh-long	所以我才推薦他 小朋友一定愛死他 
+zh-short	所以我才提出来 孩子们会喜欢他的 
+ko	그래서 말을 꺼낸 거예요 | 애들이 정말 좋아할 거라니까요 | 
+

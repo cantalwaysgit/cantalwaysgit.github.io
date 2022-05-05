@@ -1,0 +1,26 @@
+ko	- 계속해서 쇼를 하자 | - 계속해서 쇼를 하자 | 
+id	Mari lanjutkan 
+ar	&rlm;‏‏- لنتابع العرض | &rlm;‏- لنتابع العرض"‏ | 
+da	Vi fortsætter resten af sæsonen 
+el	-Ας συνεχίσουμε την παράσταση -Ας συνεχίσουμε την παράσταση 
+en	[harmonizing] | ♪ Let's go on with the show ♪ | 
+fr	Que le spectacle continue 
+he	&rlm;‏‏הבה נמשיך עם המופע | &rlm;‏-הבה נמשיך עם המופע‏ | 
+it	Andiamo avanti con lo show 
+pl	Niech przedstawienie dalej trwa 
+pr-br	-O show deve continuar -O show deve continuar 
+pr	Vamos continuar com o espetáculo 
+ro	- Să continuăm spectacolul - Să continuăm spectacolul 
+sp	- Continuemos con el show - Continuemos con el show 
+sp-eu	- Que siga el espectáculo - Que siga el espectáculo 
+th	- มาแสดงโชว์กันเถอะ | - มาแสดงโชว์กันเถอะ | 
+tr	-Şova devam edelim -Şova devam edelim 
+vi	- Hãy cùng tham gia ngành giải trí | - Hãy cùng tham gia ngành giải trí | 
+zh-long	-就讓表演繼續吧 -就讓表演繼續吧 
+zh-short	-让我们继续表演事业吧 -让我们继续表演事业吧 
+ja	このすばらしき― | 
+sv	Vi fortsätter föreställningen 
+ru	Продолжаем шоу! 
+ja	ショービジネスを | 
+id	Acaranya 
+

@@ -1,0 +1,26 @@
+id	Masuk akal jika aku membunuhmu, Arsenio. 
+ar	&rlm;‏من المنطقي أن أقتلك يا "آرسينيو".‏ | 
+el	Το ότι θα σε σκοτώσω, Αρσένιο. 
+en	It makes sense if I kill you, Arsenio. | 
+fi	Se käy järkeen, että tapan sinut, Arsenio. 
+fr	Logique que je te bute, Arsenio. 
+he	&rlm;‏זה יהיה הגיוני אם אני אהרוג אותך, ארסיניו.‏ | 
+it	Sarebbe logico se ti uccidessi, Arsenio. 
+ko	내가 널 죽여도 | 이해가 될 거야, 아세니오 | 
+no	Det gir mening om jeg dreper deg, Arsenio. 
+pr-br	Fará sentido se eu matar você, Arsenio. 
+pr	Faz sentido que eu te mate, Arsenio. 
+ro	E de înțeles dacă te omor, Arsenio. 
+sp-eu	Tendría sentido matarte, Arsenio. 
+sp	Tendría razón si te matara, Arsenio. 
+sv	Fatta om jag dödar dig. 
+th	มันมีเหตุผลถ้าฉันฆ่าแก อาเซนนิโอ | 
+tr	Seni öldürsem yeridir Arsenio. 
+vi	Cũng dễ hiểu nếu tôi giết anh, Arsenio. | 
+zh-long	難怪我想宰了你，阿塞尼奧 
+zh-short	我杀了你也说得通 阿塞尼奥 
+da	Det giver mening, hvis jeg slår dig ihjel, Arsenio. 
+pl	Miałoby sens, gdybym cię zabił, Arsenio. 
+ru	Ясно, что я убью тебя, Арсенио! 
+ja	殺されたいか アーセニオ | 
+

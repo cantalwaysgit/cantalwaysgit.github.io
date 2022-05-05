@@ -1,0 +1,30 @@
+id	Ide siapa itu? Idemu? 
+ja	君だっけ？ | いや 録音の技師だ | 
+ru	Чья это идея? Твоя? 
+en	Whose idea was it? Was it your idea? | 
+ar	&rlm;‏‏كانت فكرة من؟ أكانت فكرتك؟ | &rlm;‏لا، كانت فكرة المهندس.‏ | 
+da	Hvis idé var det? Var det din? Nej, det var teknikerens. 
+el	Ποιανού ιδέα ήταν; Δική σου; Όχι, του ηχολήπτη. 
+fi	Oliko se sinun ideasi? Ei, vaan ääniteknikon. 
+fr	C'était qui ? Toi ? Non, l'ingénieur du son. 
+he	&rlm;‏‏של מי היה הרעיון? זה היה הרעיון שלך? | &rlm;‏לא, זה היה הרעיון של הטכנאי.‏ | 
+it	Chi l'ha avuta? Tu? No, il tecnico del suono. 
+ko	누구 생각이었더라? 너였나? | 엔지니어 생각이었지 | 
+nl	Van wie? Was het jouw idee? Nee, van de technicus. 
+no	Var det din idé? Nei, det var teknikerens. 
+pl	Kto? To byłaś ty? A nie, to inżynier nagrania. 
+pr-br	De quem foi a ideia? Foi sua? Não, foi do engenheiro de som. 
+pr	De quem foi a ideia? Foi tua? Não, foi do engenheiro de som. 
+ro	A cui a fost? A fost ideea ta? Nu, a fost a inginerului. 
+sp	¿De quién fue? ¿Fue tuya? No, fue del ingeniero. 
+sp-eu	¿A quién se le ocurrió? ¿Fue a ti? No, fue al técnico. 
+sv	Vems idé var det? Var det din? Nej, det var ljudteknikerns. 
+th	ความคิดของใครเหรอ ของคุณใช่ไหม | ไม่ใช่ ของคนอัดเสียง | 
+tr	Kimin fikri miydi? Senin fikrin miydi? Hayır, ses teknisyeninin fikriydi. 
+vi	Ý tưởng của ai à? Của cô à? | Không, của gã kỹ sư. | 
+zh-long	是誰想到的？妳嗎？ 不是，是音訊師想到的 
+zh-short	是谁的主意？是你吗？ 不 是录音师 
+id	Bukan, itu ide teknisinya. 
+ru	Нет, звукоинженера. 
+en	No, it was that... It was the engineer's. | 
+

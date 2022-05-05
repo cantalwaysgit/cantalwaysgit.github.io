@@ -1,0 +1,53 @@
+id	Tidak. 
+ar	&rlm;‏لا.‏ | 
+da	Nej. 
+el	Ε, όχι. 
+en	[Sandy] No, no, no, no, no, no. | 
+fi	Eikä! 
+he	&rlm;‏לא, לא... | 
+ko	저게 뭐야 | 
+no	Nei, nei. 
+pl	Nie, nie. 
+pr-br	Não. 
+pr	Não. 
+ro	Nu! 
+ru	Нет. 
+sp-eu	¡No! 
+sp	No. 
+sv	Nej, har man sett. 
+th	ไม่ๆ ไม่ๆ ไม่ๆ | 
+tr	Hayır, hayır. 
+vi	Không. | 
+zh-long	不會吧 
+zh-short	不 
+
+da	Undskyld, jeg ikke har spurgt, | 
+el	Συγγνώμη που δεν σας ρώτησα πρώτα, 
+en	I'm sorry for not asking first, 
+es-eu	No he pedido permiso, 
+he	‫מצטערת שלא שאלתי קודם,‬ | 
+hr	Oprostite što nismo prvo pitali, 
+hu	Elnézést, hogy nem kérdeztük meg, 
+id	Maaf aku tak meminta izin, 
+ko	&lrm;먼저 여쭤보지 않아서 죄송해요 | 
+ms	Maaf kerana tak tanya dulu, 
+no	Beklager at jeg ikke spurte først, 
+pt-br	Me desculpem por não os ter consultado, 
+pt	Desculpem não pedirmos licença antes, 
+ro	Scuze că nu v-am întrebat, 
+ru	Извините, что не спросили вас. 
+th	&lrm;หนูขอโทษที่ไม่ได้ขอก่อนค่ะ | 
+tr	Baştan sormadığım için üzgünüm. 
+uk	Вибачте, що не спитали у вас, 
+vi	&lrm;Cháu xin lỗi vì không hỏi trước | 
+zh-long	抱歉，我沒有先詢問過你們 
+zh-short	抱歉我们自作主张 
+cs	Omlouvám se, že jsme se nejdřív nezeptali, ale mysleli jsme… 
+ja	&lrm;勝手にやってしまって | &lrm;ごめんなさい | 
+es	Perdón por no preguntarles primero, pero queríamos ayudar de alguna manera. 
+fr	Désolée de ne pas vous avoir prévenus, mais on s'est dit… On aimerait vous aider. 
+sv	Ursäkta att vi inte frågade först, men vi ville så gärna hjälpa till. 
+it	Scusate se prima non ve l'abbiamo chiesto, ma abbiamo pensato di aiutare. 
+nl	Sorry dat ik u niks heb gevraagd, maar we wilden graag helpen. 
+fi	Anteeksi, etten kysynyt lupaa, | 
+

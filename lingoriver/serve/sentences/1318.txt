@@ -1,0 +1,27 @@
+id	- Hei. - Itu singgasanamu. 
+ru	-Ого! -А вот и твой трон. 
+ar	&rlm;‏‏- مرحباً. | &rlm;‏- وها هو عرشك.‏ | 
+da	-Hallo. -Og her er din trone. 
+en	-Hey, hey. | -And here's your throne. | 
+he	&rlm;‏‏היי. | &rlm;‏-והנה הכס שלך.‏ | 
+it	- Ehi. - Ed ecco il tuo trono. 
+ko	- 와 | - 저기 앉으세요 | 
+pl	To jest twój tron. 
+pr-br	-Ei. -E este é o seu trono. 
+pr	- Ora, ora. - Aqui está o teu trono. 
+ro	- Ia uite! - Iar acolo e tronul tău. 
+sp-eu	- Vaya. - Ese es tu trono. 
+sp	- Vaya. - Y aquí está tu trono. 
+sv	-Har man sett. -Här är din tron. 
+th	- เฮ่ | - และนี่คือบัลลังก์ของคุณ | 
+tr	-Hey. -İşte tahtın. 
+vi	- Chà. | - Và kia là ngai vàng của anh. | 
+zh-long	-嘿 -你的寶座在此 
+zh-short	-嘿 -这就是你的王座 
+nl	En hier is je troon. Ga lekker zitten. 
+no	Og her er tronen din. 
+ja	あなたの“玉座”よ　かけて | 
+fi	Tässä on valtaistuimesi. 
+fr	Ton trône. 
+el	Εδώ είναι ο θρόνος σου. 
+

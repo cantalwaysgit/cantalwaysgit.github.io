@@ -1,0 +1,28 @@
+id	- Baiklah. - Jika kau ada masalah, 
+ja	ボールに乗せて吹っ飛ばす | 
+ru	Засунем их в мяч и запулим подальше. 
+ar	&rlm;‏ضعي مشاكلك في الكرة وأرسليها بعيداً.‏ | 
+da	Læg dine problemer i bolden, og send dem væk. 
+el	Βάλε τα προβλήματά σου στο μπαλάκι και στείλ' τα μακριά. 
+en	If you got any problems, | put 'em into the ball and send them away. | 
+fi	Pannaan ongelmat palloon ja pallo matkoihinsa. 
+fr	Mets tes problèmes dans la balle et envoie-les au loin. 
+he	&rlm;‏‏תכניסי את הצרות שלך לתוך הכדור | &rlm;‏ושלחי אותן רחוק.‏ | 
+it	Metti i problemi nella palla e spediscili lontano. 
+ko	공에 문제를 실어서 | 날려버리는 거야 | 
+nl	Stop je problemen in de bal en sla ze weg. 
+no	Legg problemene dine i ballen og send dem av gårde. 
+pl	Problemy posyłamy w tej piłce daleko stąd. 
+pr-br	Ponha seus problemas na bola e mande-os embora. 
+pr	Põe os teus problemas na bola e manda-os para longe. 
+ro	Bagă-ți necazurile în minge și alungă-le. 
+sp-eu	Coloca tus problemas en la bola y mándalos a paseo. 
+sp	Pon tus problemas en la pelota y deshazte de ellos. 
+sv	Lägg dina problem i bollen och skicka iväg dem. 
+th	เอาปัญหาทั้งหมดใส่ลงไปในลูก | แล้วส่งมันไปไกลๆ | 
+tr	Tüm sorunlarını topa yükle ve yolla gitsin. 
+vi	Bỏ hết các rắc rối vào quả bóng | rồi tung chúng đi xa. | 
+zh-long	把煩惱都丟在球上，用力打出去 
+zh-short	把烦恼放在球上 打飞 
+id	masukkan ke dalam bola ini dan pukul. 
+

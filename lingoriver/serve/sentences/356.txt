@@ -1,0 +1,30 @@
+ko	오로라는 정말 멋지네 | 솔직히 이거 맛있다는 거였어 | 
+id	Aurora memang istimewa. 
+ja	僕が言ったのは | バーガーのことだ | 
+ru	Сияние - это круто. 
+en	Northern lights are something else. | 
+ar	&rlm;‏‏الشفق القطبي الشمالي رائع. | &rlm;‏لكنني كنت أتحدث عن الشطيرة.‏ | 
+da	Nordlys er flot. Jeg snakkede dog om burgeren. 
+el	Το Βόρειο Σέλας είναι ωραίο, αλλά αναφερόμουν στο χάμπουργκερ. 
+fi	Revontulet ovat kyllä komeita, mutta tarkoitin purilaista. 
+fr	L'aurore boréale, c'est joli, oui. Mais je parlais du burger. 
+he	&rlm;‏‏אורות הצפון הם משהו. | &rlm;‏אבל אני דיברתי על ההמבורגר.‏ | 
+it	L'aurora boreale è bella, ma io parlavo dell'hamburger. 
+nl	Het noorderlicht is mooi. Maar ik bedoelde de hamburger. 
+no	Nordlyset var fint, men jeg snakket om burgeren. 
+pl	Zorza jest fajna, ale ja mówiłem o burgerze. 
+pr	A aurora boreal é incrível. Mas estava a falar do hambúrguer. 
+pr-br	Aurora boreal é demais. Mas eu estava falando do hambúrguer. 
+ro	Aurora boreală e specială. Eu mă refeream la hamburger. 
+sp-eu	La aurora boreal es impresionante. Pero me refería a la hamburguesa. 
+sp	Las auroras boreales son especiales. Pero me refería a la hamburguesa. 
+sv	Norrskenet är bra, men jag pratade om hamburgaren. 
+th	แสงเหนือก็ใช่ | แต่ผมพูดถึงเบอร์เกอร์น่ะ | 
+tr	Kuzey ışıkları az buz değil. Ama ben hamburger için söylemiştim. 
+vi	Ánh sáng phương bắc thật đặc biệt. | Nhưng tôi đang nói về bánh burger. | 
+zh-long	北極光是很美 但我說的是這個漢堡肉 
+zh-short	极光是美 可我刚刚说的是汉堡 
+id	Tapi tadi aku membahas hamburgernya. 
+ru	Но я имел в виду бургер. 
+en	I was actually talking | about the burger, though. | 
+

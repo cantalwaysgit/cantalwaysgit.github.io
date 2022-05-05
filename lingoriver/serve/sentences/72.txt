@@ -1,0 +1,57 @@
+ru	Он был королем фальшивого смеха 
+el	Ήταν ο βασιλιάς του συνδυασμού ψεύτικου γέλιου και χειροκροτήματος. 
+id	Dia raja dari gabungan tawa dan tepuk tangan palsu. 
+nl	Maar hij was de koning van de neplach gecombineerd met applaus. 
+en	[stammering] But he was | the king of the fake laugh | 
+ar	&rlm;‏‏لكنه كان ماهراً بمزيج | &rlm;‏التظاهر بالضحك مع التصفيق.‏ | 
+da	Men han var kongen af det falske grin samt klapsalven. 
+fi	Hän oli tekonauru-taputus-combon mestari. 
+fr	Son truc, c'était de se forcer à rire tout en applaudissant. 
+he	&rlm;‏‏אבל הוא היה מלך הצירוף של צחוק מזויף | &rlm;‏ומחיאות כפיים.‏ | 
+it	Era il re della falsa risata con applauso annesso. 
+ko	하지만 거짓 웃음과 | 갈채 콤보의 제왕이었죠 | 
+no	Men han var kongen av falsk-latter-og-applaus-komboen. 
+pl	Był królem udawanego śmiechu i klaskania. 
+pr-br	Mas ele era o rei da risada e dos aplausos forçados. 
+pr	Mas ele era o rei da combinação do riso fingido com o aplauso. 
+ro	Dar era regele râsului fals și al aplauzelor. 
+sp-eu	Pero era el rey de la risa falsa combinada con aplausos. 
+sp	Pero era el rey del combo de risa y aplausos falsos. 
+sv	Men han var expert på mixen med det fejkade skrattet och applåden. 
+th	เขาคือราชาแห่งเสียงหัวเราะจอมปลอม | และการตบมือเป็นชุด | 
+tr	Sahte kahkahayla alkış ikilisinin kralıydı. 
+vi	Nhưng anh ta là | chúa cười nhạt và vỗ tay động viên. | 
+zh-long	他是假笑王和愛鼓掌鬼 
+zh-short	可他最爱假笑配合拍手了 
+ja	“ウソ笑いの王様”と | 言ってもいい | 
+
+it	Ne abbiamo appesi un po' vicino a scuola e qui. 
+id	Kami memasangnya di dekat sekolah dan di sekitar sini. 
+pt-br	Já colamos alguns perto da escola e por aqui também. 
+ms	Kami dah letak dekat sekolah dan di kawasan sini. 
+cs	Rozvěsili jsme je kolem školy a tady po okolí. 
+da	Vi har hængt nogle op ved skolen og her. | 
+el	Έχουμε κολλήσει μερικά κοντά στο σχολείο. 
+en	We've put some up near school and around here. 
+es-eu	Los hemos colgado cerca del cole y por aquí, 
+fi	Laitoimme näitä koulun lähelle ja tänne. | 
+fr	On en a collé près du lycée et dans le coin. 
+he	‫תלינו חלק ליד בית הספר וכאן בשכונה.‬ | 
+hr	Postavili smo ih oko škole i ovdje. 
+hu	Kiplakátoltuk az iskola környékén és errefelé. 
+ja	&lrm;学校の近くや | &lrm;近所に貼りました | 
+ko	&lrm;학교 부근과 이 근처에 붙였어요 | 
+nl	Ze hangen bij school en hier in de buurt. 
+no	Vi har hengt noen nær skolen og rundt her. 
+pt	Pusemos alguns perto da escola e por esta zona. 
+ro	Am pus câteva lângă școală și prin zonă. 
+ru	Мы уже расклеили их рядом со школой и здесь. 
+sv	Vi har satt upp dem runt skolan och här. 
+th	&lrm;เราติดประกาศแถวโรงเรียนกับแถวนี้ | 
+tr	Okul çevresine ve buralara astık. 
+uk	Ми розвісили листівки біля школи і в кварталі. 
+vi	&lrm;Bọn cháu dán một ít | &lrm;ở gần trường và quanh đây. | 
+zh-long	我們已經在學校附近 和這一帶張貼了一些傳單 
+zh-short	我们已经在学校附近 和这周边贴了一些 
+es	Los pegamos por aquí y cerca de la escuela, 
+

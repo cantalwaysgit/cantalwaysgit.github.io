@@ -1,0 +1,27 @@
+ar	&rlm;‏تعرفون جميعاً عن بعضكم.‏ | 
+da	I kendte alt til hinanden. 
+el	Γνωρίζετε όλοι για τους υπόλοιπους. 
+en	Oh, you guys all knew about each other. | 
+fi	Te kaikki tiesitte toisistanne. 
+fr	Mais si, vous vous connaissiez. 
+he	&rlm;‏אתם ידעתם זה על זה.‏ | 
+id	Kalian semua bisa saling mengenal. 
+it	Voi sapete solo ciò che riguarda voi due. 
+ko	다들 서로 알잖아 | 
+nl	Jullie wisten van elkaar. 
+no	Dere visste om hverandre. 
+pl	Przecież się wszyscy znacie. 
+pr-br	Vocês sabem uns dos outros. 
+pr	Vocês sabiam todos uns dos outros. 
+ro	Voi vă cunoșteați foarte bine între voi. 
+ru	Вы все знаете друг о друге. 
+sp-eu	Os conocéis todos. 
+sp	Todos saben de los demás. 
+sv	Ni känner till varandra. 
+th	ทุกคนรู้เรื่องคนอื่นๆ อยู่แล้ว | 
+tr	Hepiniz birbirinizi biliyordunuz. 
+vi	Các bạn đều biết về nhau cả. | 
+zh-long	你們都知道彼此的存在啦 
+zh-short	你们大家互相都认识 
+ja	同じ事務所の仲間だ | 
+

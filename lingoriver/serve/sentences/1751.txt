@@ -1,0 +1,28 @@
+ja	限界だ | 
+id	- Maaf. - Jangan. 
+ar	&rlm;‏‏- آسف. | &rlm;‏- لا تتأسف.‏ | 
+da	-Beklager. -Nej, lad være. 
+el	-Με συγχωρείς. -Δε χρειάζεται. 
+en	-I'm sorry. | -No, don't. | 
+fi	Olen pahoillani. 
+fr	- Navré. - S'il te plaît. 
+he	&rlm;‏‏אני מצטער. | &rlm;‏-לא, אל תעשה את זה.‏ | 
+it	- Mi dispiace. - Non farlo. 
+nl	Het spijt me. -Niet doen. 
+no	-Beklager. -Ikke si det. 
+pl	- Przykro mi. - Nie. 
+pr-br	-Sinto muito. -Não. 
+pr	- Lamento. - Não faças isso. 
+ro	- Îmi pare rău. - Nu trebuie. 
+sp-eu	- Lo siento. - No lo hagas. 
+sp	- Lo siento. - No, no lo hagas. 
+sv	-Jag är ledsen. -Nej. 
+th	- ขอโทษ | - อย่า ไม่ต้อง | 
+tr	-Özür dilerim. -Dileme. 
+vi	- Tôi xin lỗi. | - Không, đừng. | 
+zh-long	-對不起 -不需要 
+zh-short	-对不起 -不 别 
+ru	-Извини. -Не надо. 
+ko	- 죄송해요 | - 아니, 됐어 | 
+ja	待て | 
+

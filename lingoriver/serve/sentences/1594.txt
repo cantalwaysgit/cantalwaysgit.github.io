@@ -1,0 +1,27 @@
+en	Oh! All right! Hold on now. [laughs] | 
+id	Baiklah. Tunggu dulu. 
+ru	Так! Полегче. 
+ja	動きすぎよ | 
+ar	&rlm;‏حسنا! اثبت الآن.‏ | 
+da	Sådan skal det være. 
+el	Ωραία! Μείνε εκεί. 
+fi	Hetkinen nyt. 
+fr	D'accord ! Calme-toi. 
+he	&rlm;‏בסדר! חכה רגע.‏ | 
+it	Ma bene. Ora aspetta. 
+nl	Goed. Wacht. 
+no	Ja vel! Vent nå. 
+pl	Zaczekaj. 
+pr-br	É isso aí. Fique assim. 
+pr	Está bem! Tem calma. 
+ro	Bine! Mai ușurel! 
+sp-eu	¡Muy bien! Aguanta ahora. 
+sp	¡Muy bien! Espera. 
+sv	Okej. Vänta lite. 
+th	เอาละ หยุดตรงนี้ | 
+tr	Pekâlâ! Dur artık. 
+vi	Được rồi! Từ từ nào. | 
+zh-long	好，等一下 
+zh-short	行了！稳住 
+ko	좋아요! 잠깐만요 | 
+

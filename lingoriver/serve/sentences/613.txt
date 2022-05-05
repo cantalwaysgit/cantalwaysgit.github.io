@@ -1,0 +1,50 @@
+ko	수영장은 접근 금지야 | 
+ja	ダメだ | 
+id	Menjauhlah dari kolamnya. 
+sv	-Håll er borta från poolen. -Jag skojade bara. 
+ru	В бассейн нельзя! 
+no	-Hold dere unna bassenget. -Jeg bare tulla. 
+ar	&rlm;‏ابتعدي عن البركة.‏ | 
+da	I holder jer fra poolen. 
+el	Μακριά από την πισίνα. 
+en	-You stay out of the pool. | -[chuckles] | 
+fi	Sinne ei saa mennä. 
+fr	Non, hors de question. 
+he	&rlm;‏אל תיכנסו לבריכה.‏ | 
+it	La piscina non si usa. 
+pl	Na basen jest zakaz. 
+pr-br	Fiquem longe da piscina. 
+pr	Fiquem longe da piscina. 
+ro	Nu vă apropiați de piscină! 
+sp-eu	No te metas en la piscina. 
+sp	No te acerques a la piscina. 
+th	อย่ายุ่งกับสระ | 
+tr	Havuzdan uzak durun. 
+vi	Tránh xa cái bể bơi. | 
+zh-long	游泳池禁止進入 
+zh-short	不许进泳池 
+nl	Blijf weg bij het zwembad. -Grapje. 
+ja	冗談よ | 
+id	Aku hanya bercanda. 
+ru	Да я шучу. 
+ar	&rlm;‏كنت أمزح وحسب.‏ | 
+da	Det var for sjov. 
+el	Πλάκα έκανα. 
+en	I was just kidding. | 
+fi	Pelleilin vain. 
+fr	Je déconne. 
+he	&rlm;‏רק התלוצצתי.‏ | 
+it	Scherzavo. 
+ko	농담이었어요 | 
+pl	Żartowałam. 
+pr-br	Eu estava brincando. 
+pr	Estava só a brincar. 
+ro	Glumeam. 
+sp-eu	Era broma. 
+sp	Solo bromeaba. 
+th	แค่ล้อเล่นน่า | 
+tr	Şaka yapıyordum. 
+vi	Tôi chỉ đùa thôi. | 
+zh-long	開玩笑的啦 
+zh-short	我只是开个玩笑 
+

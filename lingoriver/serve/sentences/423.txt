@@ -1,0 +1,27 @@
+id	Baik. Ya. Mari bergoyang dengan musik ini. 
+ja	さあ セクシーに | やってみよう | 
+ar	&rlm;‏حسناً. لنحسن هذا. لنحسنه، موافقة؟‏ | 
+da	Ja, så shoop'er vi det her pis. Shoop det op, ikke? 
+el	Εντάξει. Ας το κάνουμε κι εμείς. Να γίνει πιο αισθησιακό. 
+en	Okay. Yes. Let's shoop this shit. | Shoop it up, huh? | 
+fi	No niin, shoopia kehiin. 
+fr	Nickel. Et ça démarre. En voiture ! 
+he	&rlm;‏בסדר. כן. בוא נשחק אותה. נשחק אותה, בסדר?‏ | 
+it	Bene. Sì. Muoviamo la carrozzeria. Scuotere, chiaro? 
+ko	좋아요, 한번 해봅시다 | 
+nl	Oké. We gaan shoopen. 
+pl	Salt-n-Pepa. To jest to. 
+pr-br	Só no chupa-chupa. Chupa que é de uva. 
+pr	Muito bem. Vamos sensualizar. Toca a sensualizar, sim? 
+ro	Bine. Să-i dăm bătaie! Ne unduim, da? 
+ru	Вот-вот. Бамс-бамс! Покажем им бамс-бамс? 
+sp-eu	¡Bien! Sí. Vamos a hacer " shoop ". Shoop  a tope, ¿vale? 
+sp	Sí. Vamos a fotografiar esta mierda. Fotografiemos, ¿sí? 
+sv	Okej. Låt oss shoopa till det. Shoop it up! 
+th	โอเค มาเอากันเลย | เอากันเลย ดีไหม | 
+tr	Tamam. Evet. Yapalım hadi. Ritme uyalım. 
+vi	Tốt. Được rồi. Quyến rũ lên nào. | Quyến rũ nhé? | 
+zh-long	很好，喔耶，動起來，扭一下 
+zh-short	好的 对 我们来拍吧 拍起来 
+no	Vi  shooper  dritten. Gi meg en  shoop. 
+

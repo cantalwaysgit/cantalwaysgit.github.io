@@ -1,0 +1,26 @@
+ru	-Рамиро Алехандро. -Я знаю. 
+id	- Ramiro Alejandro. - Aku tahu. 
+ar	&rlm;‏‏- "راميرو أليخاندرو". | &rlm;‏- أعلم.‏ | 
+da	-Ramiro Alejandro. -Ja. 
+el	-Ραμίρο Αλεχάντρο. -Το ξέρω. 
+en	-Ramiro Alejandro. | -I know. | 
+fi	-Ramiro Alejandro. -Aivan. 
+he	&rlm;‏‏רמירו אלחנדרו. | &rlm;‏-אני יודע.‏ | 
+it	- Ramiro Alejandro. - Lo so. 
+no	-Ramiro Alejandro. -Jeg vet. 
+pl	- Ramiro Alejandro. - Wiem. 
+pr-br	-Ramiro Alejandro. -Eu sei. 
+pr	- Ramiro Alejandro. - Eu sei. 
+ro	- Ramiro Alejandro. - Știu. 
+sp-eu	- Ramiro Alejandro. - Lo sé. 
+sp	- Ramiro Alejandro. - Lo sé. 
+sv	-Ramiro Alejandro. -Jag vet. 
+th	- รามิโร อเลฮันโดร | - ผมรู้ | 
+tr	-Ramiro Alejandro. -Evet. 
+vi	- Ramiro Alejandro. | - Tôi biết. | 
+zh-long	-拉米羅亞歷韓德羅 -我知道 
+zh-short	-拉米罗亚历桑德罗 -我知道 
+ja	ラミロ･アレハンドロ | 
+ko	- 라미로 알레한드로요 | - 알아요 | 
+fr	Je sais. 
+

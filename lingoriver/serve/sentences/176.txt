@@ -1,0 +1,57 @@
+ko	그럴 수도 있지 | 
+ar	&rlm;‏ربما.‏ | 
+da	Muligvis. 
+el	Πιθανόν. 
+en	Mmm, maybe. | 
+fi	Ehkä. 
+fr	Peut-être. 
+he	&rlm;‏אולי.‏ | 
+it	Forse. 
+nl	Misschien. 
+no	Kanskje. 
+pl	Możliwe. 
+pr-br	Talvez. 
+pr	Talvez. 
+ro	Poate. 
+sp-eu	Puede. 
+sp	Quizá. 
+sv	Kanske det. 
+th	อาจใช่ | 
+tr	Olabilir. 
+vi	Có thể. | 
+zh-long	或許吧 
+zh-short	也许吧 
+ja	まあな | 
+id	Mungkin. 
+ru	Может быть. 
+
+hu	Varsói Bűnügyi Osztály. 
+it	Unità Anticrimine Metropolitana. 
+sv	Warszawas kriminalpolis. 
+es	Policía de Varsovia. 
+cs	Kriminální policie. 
+en	Warsaw Crime Division. 
+es-eu	División criminal. 
+fi	Varsovan rikospoliisi. | 
+fr	Brigade criminelle. 
+he	‫היחידה לפשיעה חמורה.‬ | 
+hr	Kriminalistički odjel. 
+id	Divisi Kriminal Warsawa. 
+ko	&lrm;바르샤바 형사과에서 나왔습니다 | 
+nl	Misdaadafdeling. 
+ro	Serviciul Omoruri. 
+th	&lrm;แผนกอาชญากรรมวอร์ซอครับ | 
+tr	Varşova Suç Birimi. 
+vi	&lrm;Cục Chống Tội phạm Warsaw. | 
+zh-long	華沙刑事偵緝處 
+zh-short	华沙警局罪案科 
+da	Warszawa kriminalpoliti. | 
+el	Εγκληματολογική Υπηρεσία. 
+ms	Bahagian Jenayah Warsaw. 
+uk	Варшавський карний розшук. 
+pt	Unidade Criminal de Varsóvia. 
+ja	&lrm;ワルシャワ警察だ | 
+no	Warszawa kriminalavdeling. 
+pt-br	Divisão Criminal de Varsóvia. 
+ru	Уголовный розыск. 
+

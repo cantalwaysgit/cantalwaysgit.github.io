@@ -1,0 +1,26 @@
+ar	&rlm;‏يريد تدميرك. أقله!‏ | 
+da	Han vil ruinere dig. Fyr ham! 
+el	Θέλει να σε καταστρέψει. Απόλυσέ τον! 
+en	He wants to ruin you. Fire him! | 
+fi	Hän haluaa tuhota sinut. Anna potkut! 
+fr	Il veut t'enterrer. Vire-le ! 
+he	&rlm;‏הוא רוצה להרוס אותך. תפטר אותו!‏ | 
+id	Dia mau menghancurkanmu. Pecat dia! 
+it	Vuole rovinarti. Licenzialo! 
+ko	널 파멸시키려는 거야 | 해고해! | 
+pl	On cię zrujnuje. Zwolnij go! 
+pr-br	Ele quer arruinar você. Demita-o! 
+pr	Ele quer destruir-te. Despede-o! 
+ro	Vrea să te distrugă! Concediază-l! 
+ru	Он тебя погубит. Гони его! 
+sp-eu	Quiere hundirte. ¡Despídelo! 
+sp	Quiere arruinarte. ¡Despídelo! 
+sv	Han vill ruinera dig. Sparka honom. 
+th	เขาต้องการทำลายนาย ไล่เขาออกซะ | 
+tr	Seni mahvetmek istiyor. Kov onu! 
+vi	Anh ta muốn hủy hoại anh. | Đuổi việc anh ta đi! | 
+zh-long	他想毀了你，炒了他！ 
+zh-short	他想毁了你 开了他！ 
+ja	ハメる気だぞ　クビだ！ | 
+no	Han vil ruinere deg. Spark ham! 
+

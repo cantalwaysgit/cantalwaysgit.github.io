@@ -1,0 +1,28 @@
+id	- Dia ada di sini? - Aku senang jika bisa bertemu lagi. 
+ja	どこ？ | 
+ru	-Он где-то здесь? -Хорошо бы его увидеть. 
+ko	- 여기 계실까요? | - 만나면 좋지 뭐 | 
+en	-You think he's around? | -Yeah, it'll be good to see him again. | 
+ar	&rlm;‏‏- أتظنه موجوداً هنا؟ | &rlm;‏- سيكون من الجيد رؤيته.‏ | 
+da	-Tror du, han er her? -Det bliver godt at møde ham. 
+el	-Λες να είναι εδώ; -Θα χαρώ να τον δω. 
+fi	-Onkohan hän lähistöllä? -Olisi mukava nähdä hänet. 
+fr	- Il est dans le coin, tu crois ? - Bonne idée. 
+it	- Sarà qui in giro? - Lo rivedo con piacere. 
+nl	Denk je dat hij er is? -Leuk om hem weer te zien. 
+pl	- Jest tutaj? - Miło będzie go zobaczyć. 
+pr	- Achas que ele está por aí? - Sim, vai ser bom voltar a vê-lo. 
+pr-br	-Acha que ele está por aqui? -Vai ser bom vê-lo. 
+ro	- Crezi că e pe aici? - E bine să te vezi cu el. 
+sp	- ¿Crees que esté aquí? - Será bueno verlo de nuevo. 
+sp-eu	- ¿Andará por aquí? - Me alegraré de verlo. 
+th	- คิดว่าเขาอยู่ไหม | - คงดีถ้าได้เจอเขา | 
+tr	-Buralarda mıdır? -Onu görmek güzel olacak. 
+vi	- Anh nghĩ anh ấy ở quanh đây? | - Gặp lại cũng vui. | 
+zh-long	-你覺得他在嗎？ -找他敘敘舊也好 
+zh-short	-你觉得他在吗？ -再见见他也不错 
+he	&rlm;‏‏אתה חושב שהוא בסביבה? | &rlm;‏-יהיה נחמד לראות אותו.‏ | 
+sv	-Tror du han är här? -Det blir kul att träffa honom. 
+no	-Tror du han er her? -Det blir fint å se ham igjen. 
+ja	久しぶりに会う | 
+

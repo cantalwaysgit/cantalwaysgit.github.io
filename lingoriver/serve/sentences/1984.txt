@@ -1,0 +1,27 @@
+id	Hari yang istimewa, Nona Courtney Clarke. 
+ja	いよいよですね | ミス･クラーク | 
+ar	&rlm;‏إنه يوم هام يا آنسة "كورتني كلارك".‏ | 
+da	Det er en stor dag, Courtney Clarke. 
+el	Σημαντική μέρα, δις Κόρτνι Κλαρκ. 
+en	It's a big day, Miss Courtney Clarke. | 
+fi	Tärkeä päivä, Courtney Clarke. 
+fr	C'est un grand jour, Mlle Clarke. 
+he	&rlm;‏זה יום גדול, קורטני קלארק.‏ | 
+it	È un giorno importante, Courtney Clarke. 
+no	Det er en stor dag, Courtney Clarke. 
+pl	To ważny dzień, pani Courtney Clarke. 
+pr-br	É um dia importante, Courtney Clarke. 
+pr	É um grande dia, Courtney Clarke. 
+ro	E o zi importantă, dră Courtney Clarke. 
+sp	Es un día importante, Courtney Clarke. 
+sp-eu	Es un gran día, señorita Courtney Clarke. 
+sv	Det är en stor dag, Courtney Clarke. 
+th	วันนี้เป็นวันสำคัญนะ | คุณคอร์ทนี่ย์ คลาร์ก | 
+tr	Bu önemli bir gün Bayan Courtney Clarke. 
+vi	Hôm nay là ngày quan trọng, | Courtney Clarke. | 
+zh-long	今天是個大日子，寇妮克拉克小姐 
+zh-short	今天是个大日子 考特尼克拉克 
+nl	Een belangrijke dag, Courtney. -De belangrijkste. 
+ko	중요한 날이네요 | 
+ru	Это большой день, мисс Кортни Кларк. 
+

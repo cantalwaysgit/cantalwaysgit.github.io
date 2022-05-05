@@ -1,0 +1,29 @@
+id	Tak ada yang tahu soal masakan sehat. 
+en	No one knows | how to cook health food like... | 
+ar	&rlm;‏‏لا يستطيع أحد أن يطهو طعاماً صحياً مثلك. | &rlm;‏أنت رائعة. يمكنك القيام بكل شيء.‏ | 
+da	Ingen kan lave sund mad som... Du er fantastisk. Du kan det hele. 
+el	Κανείς δεν μαγειρεύει υγιεινά σαν... Είσαι φανταστική. Μπορείς τα πάντα. 
+fi	Kukaan ei laita näin hyvää terveellistä ruokaa. Olet loistava. 
+fr	Ça, c'est un vrai repas diététique... T'es géniale. Tu sais tout faire. 
+he	&rlm;‏‏אף אחד לא מבשל מזון בריאות כמו... | &rlm;‏את נפלאה. את יכולה לעשות הכול.‏ | 
+it	Mai assaggiato cibo sano migliore. Sei fantastica. Sai fare tutto. 
+ko	건강한 음식이 어떻게 맛있지? | 대단해, 못하는 게 없네 | 
+nl	Niemand kan zo goed koken. Je bent fantastisch. Je kunt alles. 
+no	Ingen kan lage helsekost som... Du er fantastisk. Du klarer alt. 
+pl	Nikt tak nie przyrządza zdrowego żarcia. Potrafisz wszystko. 
+pr-br	Ninguém cozinha comida saudável como... Você é fantástica. Sabe fazer tudo. 
+pr	Ninguém sabe fazer comida saudável como... És fantástica. Sabes fazer tudo. 
+ro	Nu mai știe nimeni să gătească sănătos ca... Te pricepi la toate! 
+ru	Никто не умеет так готовить... Ты чудо. Ты всё можешь. 
+sp-eu	Nadie cocina comida sana como... Eres fantástica. Sabes hacer de todo. 
+sp	Nadie sabe cocinar saludable como... Eres fantástica. Puedes hacer todo. 
+sv	Ingen kan laga nyttig mat som... Du är fantastisk. Du kan allt. 
+th	ไม่มีใครทำอาหารสุขภาพได้อย่าง... | คุณสุดยอด คุณทำได้หมด | 
+tr	Kimse böyle sağlıklı yiyecekler pişiremez. Harikasın. Elinden her şey geliyor. 
+vi	Không ai nấu được ngon như... | Cô thật tuyệt. Cô biết làm hết. | 
+zh-long	沒人這麼會煮健康食物 妳太強了，什麼都會 
+zh-short	其他人做不出这么棒的健康食品 你简直神了 无所不能 
+ja	肉を焼かせたら | 君にかなう者はいない | 
+id	Kau hebat. Bisa segalanya. 
+en	You're fantastic. You can do it all. | 
+

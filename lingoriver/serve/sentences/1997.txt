@@ -1,0 +1,27 @@
+id	Hanya kita berdua di bawah cahaya bintang lagi, Nak. 
+ja	“星空の下の２人”再びだ | 
+ar	&rlm;‏أنت وأنا تحت النجوم مجدداً يا طفلة.‏ | 
+da	Bare dig og mig under stjernerne igen, stump. 
+el	Οι δύο μας ξανά κάτω από τα αστέρια, μικρή. 
+en	Just you and me | under the stars again, kid. | 
+fi	Vain sinä ja minä taas tähtien alla. 
+fr	Toi et moi à nouveau sous les étoiles. 
+he	&rlm;‏רק את ואני שוב מתחת לכוכבים, ילדה.‏ | 
+it	Di nuovo io e te da soli sotto le stelle, piccola. 
+ko	너랑 내가 또다시 | 별 아래에 서게 됐어 | 
+nl	Wij twee weer onder de sterren. 
+no	Bare deg og meg under stjernene igjen. 
+pl	Tylko ty i ja pod gwiazdami. Jak kiedyś. 
+pr-br	Só eu e você sob as estrelas novamente, garota. 
+pr	Só tu e eu novamente sob as estrelas, miúda. 
+ro	Doar noi doi sub stele iar, puștoaico. 
+ru	Только мы вдвоем под звездами, детка. 
+sp-eu	Solos tú y yo bajo las estrellas, chavala. 
+sp	Solo tú y yo bajo las estrellas otra vez, señorita. 
+sv	Du och jag under stjärnorna igen, vännen. 
+th	แค่เราอยู่ใต้ดวงดาวอีกแล้ว เด็กน้อย | 
+tr	Yıldızların altında yine sadece sen ve ben evlat. 
+vi	Chỉ có em và anh lại ngồi dưới sao trời. | 
+zh-long	我倆又在星空下獨處了，小鬼 
+zh-short	又是只有我们俩看夜空了 孩子 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏لا يبدو مثل "مايكل جاكسون".‏ | 
+da	Han ligner bare ikke Michael Jackson. 
+el	Απλώς δε μοιάζει με τον Μάικλ Τζάκσον. 
+en	He just don't look like Michael Jackson. | 
+fi	Hän ei näytä Michael Jacksonilta. 
+fr	Il ne ressemble pas à Michael Jackson. 
+he	&rlm;‏הוא רק לא נראה כמו מייקל ג'קסון.‏ | 
+it	Cerca di non assomigliare a Michael Jackson. 
+ko	마이클 잭슨처럼 안 보이게 | 위장하거든 | 
+nl	Hij ziet er gewoon niet uit als Michael Jackson. 
+pl	Nie wygląda wtedy jak Michael Jackson. 
+pr-br	Ele não se parece com o Michael Jackson. 
+pr	Não se parece com o Michael Jackson. 
+ro	Dar nu seamănă cu Michael Jackson. 
+sp-eu	Sin parecerse a Michael Jackson. 
+sp	No luce como Michael Jackson. 
+sv	Han ser inte ut som Michael Jackson. 
+th	เขาแค่ดูไม่เหมือนไมเคิล แจ็คสัน | 
+tr	Michael Jackson gibi görünmeyerek. 
+vi	Anh ta chỉ cải trang khác Michael Jackson. | 
+zh-long	只要看起來不像麥可傑克森就好 
+zh-short	乔装一番 
+ja	バレないように変装してね | 
+id	Dia tidak tampak seperti Michael Jackson. 
+no	Han ser ikke ut som Michael Jackson. 
+ru	Он просто не выглядит как Майкл Джексон. 
+

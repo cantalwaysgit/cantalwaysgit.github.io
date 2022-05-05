@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- أتمنى لو كنت أستطيع. | &rlm;‏- لحم وحسب، صحيح؟‏ | 
+da	-Gid jeg kunne. -Kun kød, ikke? 
+el	-Μακάρι να μπορούσα. -Μόνο κρέας, σωστά; 
+en	-I really wish I could, Sandy. | -Hey, just meat, right? | 
+fi	-Kunpa voisin. -Pelkkää lihaa, eikö niin? 
+fr	- J'aimerais bien. - Juste de la viande ? 
+he	&rlm;‏‏הלוואי שהייתי יכולה. | &rlm;‏-היי, רק בשר, נכון?‏ | 
+it	- Magari potessi. - Solo carne, vero? 
+no	-Skulle ønske jeg kunne. -Bare kjøtt? 
+pl	- Chciałbym pomóc. - Coś na boczku? 
+pr-br	-Quem me dera. -Ei, só carne, certo? 
+pr	- Quem me dera poder. - Só carne, certo? 
+ro	- Aș vrea să pot. - Doar carne, nu? 
+sp-eu	- Ojalá pudiera. - Solo carne, ¿no? 
+sp	- Ojalá pudiera. - Solo carne, ¿sí? 
+sv	-Jag önskar jag kunde. -Bara kött, va? 
+th	- ก็อยากช่วยนะ | - แค่เนื้อใช่ไหม | 
+tr	-Keşke yapabilsem. -Sadece et, değil mi? 
+vi	- Ước gì tôi có thể. | - Này, chỉ thịt thôi à? | 
+zh-long	-我也希望可以 -只要肉，對吧？ 
+zh-short	-我也想 -嘿 只吃肉 对吗？ 
+ko	- 그럴 수 있다면 좋겠네요 | - 고기만 드실 거죠? | 
+ru	-Я бы рада... -Только мясо, да? 
+nl	Kon ik dat maar doen. -Alleen vlees, hè? 
+id	- Hei, daging saja? - Ya. 
+ja	肉だけね？ | 
+

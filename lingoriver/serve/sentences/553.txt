@@ -1,0 +1,25 @@
+id	Kau sudah bekerja keras, Nak. 
+ru	Ты работал как проклятый. 
+ar	&rlm;‏لقد اجتهدت بالعمل يا غلام.‏ | 
+da	Du arbejdede røven ud af bukserne. 
+el	Δούλεψες πολύ σκληρά, μικρέ. 
+en	You worked your ass off, kiddo. | 
+fi	Raadoit sen eteen. 
+fr	T'as bossé comme un dingue. 
+he	&rlm;‏קרעת את התחת, ילדון.‏ | 
+it	Ti sei fatto un bel mazzo, amico. 
+ko	정말 뼈 빠지게 일했잖아 | 
+no	Du jobbet hardt. 
+pl	Tyrałeś jak wół. 
+pr-br	Você se esforçou bastante, garoto. 
+pr	Fartaste-te de trabalhar. 
+ro	Te-ai spetit, puștiule. 
+sp-eu	Trabajaste como un cabrón, chavalito. 
+sp	Te rompiste el alma trabajando, nene. 
+sv	Du har jobbat häcken av dig. 
+th	คุณได้ทุ่มเททำงานหนักแล้ว พ่อหนุ่ม | 
+tr	Eşek gibi çalışıyordun be evlat. 
+vi	Cậu đã làm việc rất chăm chỉ, anh bạn. | 
+zh-long	你超拚的，小子 
+zh-short	你可是拼尽了全力 孩子 
+

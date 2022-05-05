@@ -1,0 +1,27 @@
+ar	&rlm;‏‏إنه مسؤول عن التسويق لي. | &rlm;‏لم يعد عشيقي بعد الآن.‏ | 
+da	Han er min pladeselskabsmand. Ikke min mand-mand længere. 
+el	Εκπροσωπεί τη δισκογραφική μου, αλλά δεν είμαστε πια μαζί. 
+en	Yeah, he's my label guy. | He's not my guy-guy anymore. | 
+fi	Hän on levy-yhtiömieheni. Ei enää mieheni. 
+fr	Entre nous, c'est redevenu pro. C'est plus mon mec. 
+he	&rlm;‏‏כן, הוא איש חברת התקליטים שלי. | &rlm;‏הוא כבר לא החבר שלי.‏ | 
+id	Ya, dia wakil perusahaan rekamanku. Dia bukan kekasihku lagi. 
+it	È il mio discografico. E nient'altro. 
+ko	업무상 만나지 | 이제는 그런 사이 아니에요 | 
+nl	Hij is mijn label-man. Niet meer mijn vriend. 
+pl	Wydaje moje płyty. Już nie jesteśmy razem. 
+pr-br	Ele é da minha gravadora. Não é mais o meu namorado. 
+pr	Pois, ele é só o meu produtor. Já não é meu namorado. 
+ro	El se ocupă de casa de discuri. Nu mai sunt cu el în felul ăla. 
+sp-eu	Es mi chico en la discográfica. Ya no es mi chico-chico. 
+sp	Sí, es de mi sello. Pero ya no salgo con él. 
+sv	Han är min skivbolagskille. Han är inte min pojkvän längre. 
+th	เขาเป็นคนดูแลผลงานฉัน | แต่ไม่ใช่แฟนอีกแล้ว | 
+tr	Artık işlerime bakıyor, sevgilim değil. 
+vi	Giờ anh ta là người của hãng. | Không phải người tôi thích nữa. | 
+zh-long	他是我經紀人 但不是我的那個人了 
+zh-short	他现在是我的唱片商 不是我男友了 
+ja	レーベルの担当よ | 恋人ではない | 
+no	Vi bare jobber sammen. Vi er ikke sammen lenger. 
+ru	Да, он все еще мой агент. Но уже не мой парень. 
+

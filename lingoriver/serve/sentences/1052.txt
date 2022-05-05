@@ -1,0 +1,29 @@
+id	- Courtney, kau menjebakku? - Ayolah. Lakukan. 
+ru	-На что ты меня подбиваешь? -Берёг для особого случая. 
+ja	コートニー　正気なのか？ | 
+pl	- Na co ty mnie namawiasz? - Trzymałem je na specjalną okazję. 
+ar	&rlm;‏‏- "كورتني"، ما الذي تجعليني أقوم به؟ | &rlm;‏- كنت أوفرها لمناسبة خاصة.‏ | 
+da	-Courtney, hvad har du gang i? -Jeg gemte den til en særlig lejlighed. 
+el	-Τι με βάζεις να κάνω, Κόρτνι; -Το φυλούσα για μια ξεχωριστή περίσταση. 
+en	-Courtney, what do you got me doing here? | -I was saving this for a special occasion. | 
+fi	-Joudun liriin takiasi. -Olen säästänyt tätä erikoistilaisuuteen. 
+fr	- Tu vas m'attirer des ennuis. - Je le gardais pour une grande occasion. 
+he	&rlm;‏‏קורטני, מה את גורמת לי לעשות? | &rlm;‏-שמרתי את זה לאירוע מיוחד.‏ | 
+it	- Courtney, cosa mi fai fare? - Lo tenevo per un'occasione speciale. 
+nl	Wat laat je me doen? -Deze was voor een speciale gelegenheid. 
+no	-Hva er det du roter meg oppi? -Har spart den til en spesiell anledning. 
+pr-br	-Courtney, o que vai me obrigar a fazer? -Estava deixando pra uma ocasião especial. 
+pr	- Courtney, o que me obrigas a fazer? - Isto era para uma ocasião especial. 
+ro	- Courtney, ce mă pui să fac? - Îl păstram pentru o ocazie specială. 
+sp	- Courtney, ¿qué me haces hacer? - Lo guardaba para una ocasión especial. 
+sp-eu	- Courtney, ¿qué me obligas a hacer? - Lo guardaba para una ocasión especial. 
+sv	-Courtney, vad får du mig att göra? -Jag har sparat det till något speciellt. 
+th	- คอร์ทนี่ย์ คุณจะให้ผมทำอะไรเนี่ย | - คิดจะเก็บขวดนี้ไว้โอกาสพิเศษ | 
+tr	-Courtney, bana ne yaptırıyorsun? -Bunu özel bir güne saklıyordum. 
+vi	- Courtney, cô bảo tôi làm gì thế? | - Tôi để dành nó cho dịp đặc biệt. | 
+zh-long	-寇妮，妳想害死我 -我留著特殊時刻喝 
+zh-short	-考特尼 你这是不想让我好吧？ -本来留着有特别的事时才拿出来 
+ko	- 왜 그런 걸 시켜? | - 특별한 날을 위해 아껴뒀어 | 
+ja	特別な日のために | 取っておいたんだ | 
+id	Aku menyimpan ini untuk acara khusus. 
+

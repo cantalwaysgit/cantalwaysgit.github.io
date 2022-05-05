@@ -1,0 +1,25 @@
+ar	&rlm;‏بجد، لا أفهم شيئاً.‏ | 
+da	Seriøst, jeg forstår intet. 
+el	Ειλικρινά, δεν καταλαβαίνω. 
+en	No, seriously, I got nothing. | 
+fi	En yhtään mitään. 
+fr	Pas un seul mot. 
+he	&rlm;‏ברצינות, לא הבנתי כלום.‏ | 
+it	Davvero, non ho capito niente. 
+ko	진짜 모르겠어요 | 
+pl	Nic a nic. 
+pr	A sério, não percebo nada. 
+pr-br	Sério, não entendi nada. 
+ro	Zău! N-am înțeles nimic. 
+sp-eu	En serio, no entiendo nada. 
+sp	No, de veras, no entendí nada. 
+sv	Jag fattar ingenting. 
+th	จริงๆ นะ ไม่เข้าใจเลย | 
+tr	Cidden, hiçbir şey anlamadım. 
+vi	Thật đấy, tôi chẳng hiểu gì cả. | 
+zh-long	真的，我完全聽不懂 
+zh-short	真的 我什么都没听懂 
+ja	分からない | 
+id	Sungguh, aku tak paham. 
+ru	Серьезно. Ни слова. 
+

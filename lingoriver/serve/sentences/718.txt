@@ -1,0 +1,31 @@
+ja	かもね | 
+en	-Yeah, it has potential. | -Well, hold on now. | 
+id	- Ada potensi. - Tunggu. 
+ru	-Потенциал есть. -Погоди. 
+ar	&rlm;‏‏- لغنائها احتمال للنجاح. | &rlm;‏- انتظر. نوعية الإنتاج رديئة جداً.‏ | 
+da	-Der er potentiale. -Vent lidt. Produktionen er noget lort. 
+el	-Έχει προοπτική. -Η παραγωγή, όμως, είναι άθλια. 
+fi	-Hänessä on potentiaalia. -Tuotanto oli aivan paskalaatua. 
+fr	- Y a du potentiel. - Attends. La prod est à chier. 
+he	&rlm;‏‏יש לזה פוטנציאל. | &rlm;‏-רגע אחד. איכות ההפקה מחורבנת.‏ | 
+it	- Ha delle potenzialità. - Un attimo. La produzione è una merda. 
+ko	- 잠재력이 있어요 | - 음질이 최악이었잖아 | 
+nl	Het heeft potentieel. -Wacht. De productiekwaliteit is slecht. 
+no	-Det har potensial. -Vent. Produksjonen er bedriten. 
+pl	- Ma potencjał. - Tak. Ale jakość nagrania jest do dupy. 
+pr-br	-Tem potencial. -A qualidade da produção é uma merda. 
+pr	- Tem potencial. - A qualidade de produção é uma merda. 
+ro	- Are potențial. - Calitatea producției e de rahat. 
+sp-eu	- Tiene potencial. - La producción es una mierda. 
+sp	- Tiene potencial. - Espera. La producción es una mierda. 
+sv	-Den har potential. -Vänta lite. Produktionen är skit. 
+th	- มีแววเป็นไปได้นะ | - เดี๋ยวก่อน คุณภาพการผลิตแย่มาก | 
+tr	-Potansiyeli var. -Bir dakika. Yapım kalitesi bok gibi. 
+vi	- Có tiềm năng. | - Khoan. Chất lượng sản xuất kém. | 
+zh-long	-潛力十足 -等等，試聽帶本身爛到爆 
+zh-short	-有这个潜力 -等等 录音质量很烂 
+ja	録音の質は最悪だ | 
+en	The production quality is complete shit. | 
+id	Kualitas produksinya sampah. 
+ru	Качество дерьмовое. 
+

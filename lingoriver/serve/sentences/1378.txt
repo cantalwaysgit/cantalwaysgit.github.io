@@ -1,0 +1,27 @@
+ru	Через год ты выступишь сам. 
+ja	来年は君が | あのジョークを言え | 
+id	Tahun depan, kau ceritakan leluconnya karena kau menulisnya. 
+pl	Za rok ty będziesz je opowiadał. 
+ar	&rlm;‏السنة القادمة،  | &rlm;ستلقي تلك النكات لأنك ألفتها. | 
+da	Næste år fortæller du vittighederne. 
+el	Του χρόνου, θα τα λες εσύ, γιατί είναι δικά σου. 
+en	Next year, you'll be telling those jokes, | 'cause you wrote 'em. | 
+fi	Pääset kertomaan ne itse ensi vuonna. 
+fr	L'an prochain, tu monteras sur scène. 
+it	E l'anno prossimo le dirai tu. 
+ko	내년에는 네가 올라가서 | 저 농담을 던지고 있을 거야 | 
+nl	Volgend jaar vertel jij die grappen. 
+no	Neste år vil du fortelle de vitsene. 
+pr-br	No ano que vem, você estará contando essas piadas. 
+pr	Para o ano, és tu a contá-las porque as escreveste. 
+ro	Anul viitor, le vei spune tu. 
+sp	El año que viene, los dirás tú. Son tus chistes. 
+sp-eu	El año que viene los contarás tú, porque son tuyos. 
+sv	Nästa år berättar du de skämten. 
+th	ปีหน้าจะเป็นนายที่ปล่อยมุกนี่ | 
+tr	Gelecek yıl o esprileri yapan sen olacaksın. 
+vi	Sang năm, anh sẽ lại làm những trò đó, | vì anh sáng tác ra nó. | 
+zh-long	明年換你上臺講自己原創的笑話 
+zh-short	明年就会是你来讲 你写的那些笑话了 
+he	&rlm;‏בשנה הבאה אתה תספר את הבדיחות האלה | &rlm;כי אתה כתבת אותן. | 
+

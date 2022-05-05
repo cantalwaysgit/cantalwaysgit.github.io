@@ -1,0 +1,28 @@
+ru	Три года, 20 выпусков, 
+id	Tiga tahun, minimal 20 acara, dengan bayaran yang kalian minta. 
+ja	３年契約で最低20回 | ギャラは希望額を払う | 
+th	สามปี อย่างน้อย 20 ตอน | ตัวเลขอย่างที่คุณบอก | 
+ar	&rlm;‏‏3 سنوات و20 حلقة على الأقل، | &rlm;‏بالأجور التي ذكرتها.‏ | 
+da	Tre år, minimum 20 shows og de tal, du nævnte. 
+el	Τρία χρόνια και τουλάχιστον 20 επεισόδια, με τις αμοιβές που ανέφερες. 
+en	Three years, 20 show minimum, | at the numbers you mentioned. | 
+fi	Kolme vuotta, vähintään 20 jaksoa ja pyytämäsi summat. 
+fr	Trois ans, au moins 20 épisodes, au prix que tu nous as demandé. 
+he	&rlm;‏‏שלוש שנים, מינימום של 20 תכניות, | &rlm;‏והמספרים שהזכרת.‏ | 
+it	Tre anni, 20 puntate garantite, alle cifre che hai detto tu. 
+nl	Drie jaar, 20 afleveringen en de bedragen die je noemde. 
+no	Tre år, minst 20 episoder, med summene du nevnte. 
+pl	Trzy lata, 20 odcinków i kwoty, które podałeś. 
+pr-br	Três anos, mínimo de 20 programas com os valores que estipulou. 
+pr	Três anos e um mínimo de 20 programas, com os valores que referiste. 
+ro	Trei ani, minimum 20 de episoade anual, pentru sumele menționate. 
+sp-eu	Tres años, mínimo 20 episodios con las cifras que has dicho. 
+sp	Tres años, 20 shows como mínimo con los números que mencionaste. 
+sv	Tre år, 20 shower, och de summorna ni sa. 
+tr	Üç yıl, istediğin paraya en az 20 program. 
+vi	Ba năm, tối thiểu 20 tập, | theo mức anh đề xuất. | 
+zh-long	三年，最少二十集 就你說的那個價錢 
+zh-short	三年合同 最少20集 片酬按你的要价来 
+ko	3년 계약에 최소 20회 | 자네가 제시한 금액에 맞출게 | 
+ru	гонорары как ты сказал. 
+

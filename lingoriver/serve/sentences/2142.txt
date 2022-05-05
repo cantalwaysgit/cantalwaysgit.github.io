@@ -1,0 +1,26 @@
+ar	&rlm;‏لا يمكنك أن تكون مدير أعمال شخصية كرتونية.‏ | 
+da	Man kan ikke være manager for en tegneseriefigur. 
+el	Δεν μπορείς να μανατζάρεις ένα καρτούν. 
+en	You can't really manage | a cartoon character. | 
+fi	Ei piirrettyä voi manageroida. 
+fr	Il n'a pas besoin d'imprésario. 
+he	&rlm;‏אתה לא יכול לנהל באמת דמות מצוירת.‏ | 
+it	Non puoi essere il manager di un cartone animato. 
+nl	Daar kun je geen manager voor zijn. 
+no	Du kan ikke være manager for en tegnefilmfigur. 
+pl	Nie można zostać jej menedżerem. 
+pr-br	Personagens de desenho não têm empresário. 
+pr	Não se pode representar uma personagem de banda desenhada. 
+ro	Nu poți fi impresarul unui personaj de animație. 
+sp-eu	No puedes representar a un dibujo. 
+sp	No puedes representar a un personaje de historieta. 
+sv	Man kan inte företräda en tecknad figur. 
+th	จริงๆ แล้วเป็นผู้จัดการ | ให้ตัวละครการ์ตูนไม่ได้ | 
+tr	Çizgi film karakterini temsil edemezsin ki. 
+vi	Bạn không thể quản lý | một nhân vật hoạt hình. | 
+zh-long	你無法當卡通人物的經紀人 
+zh-short	不可能给卡通人物当经纪人 
+ko	만화 캐릭터 매니저를 | 할 수는 없잖아요 | 
+ru	Нельзя быть менеджером героя мультика. 
+id	Kau tidak bisa menjadi manajer untuk karakter kartun. 
+

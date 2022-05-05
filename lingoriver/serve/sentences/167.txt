@@ -1,0 +1,58 @@
+en	Hey, hey, hey, hey, | now, guys, guys, please. | 
+ar	&rlm;‏رجاءً يا قوم. حسناً. "ساندي"، أصدقك.‏ | 
+da	Gutter, hold nu op. Jeg tror dig, Sandy. 
+el	Παιδιά, σας παρακαλώ. Εντάξει, Σάντι, εγώ σε πιστεύω. 
+fi	Älkääs nyt, kaverit. Minä uskon sinua. 
+fr	Les gars, un peu de tenue. Sandy, je te crois. 
+he	&rlm;‏‏היי, חבר'ה, בבקשה. | &rlm;‏בסדר. סנדי, אני מאמין לך.‏ | 
+id	Kawan-kawan, sudahlah. Sandy, aku memercayaimu. 
+it	Ragazzi, per favore. Sandy, io ti credo. 
+ko	얘들아, 진정해 | 알았어, 샌디, 믿을게 | 
+nl	Hé, jongens. Sandy, ik geloof je. 
+no	Vær så snill, dere. Ja vel. Sandy, jeg tror deg. 
+pl	Przestańcie. Ja ci wierzę, Sandy. 
+pr-br	Pessoal, por favor. Está bem. Sandy, eu acredito em você. 
+pr	Pronto, malta, por favor. Sandy, eu acredito em ti. 
+ro	Gata. Vă rog! Sandy, eu te cred. 
+ru	Ребята, хватит. Ладно. Сэнди, я тебе верю. 
+sp-eu	Chicos, vamos, por favor. Está bien, Sandy, te creo. 
+sp	Oigan, muchachos, por favor. Está bien, Sandy. Te creo. 
+sv	Hörni, sluta nu. Jag tror dig, Sandy. 
+th	เฮ้ย ทุกคน ขอร้อง | เอาละ แซนดี้ ฉันเชื่อนาย | 
+tr	Çocuklar, lütfen. Pekâlâ. Sandy, sana inanıyorum. 
+vi	Nào, các bạn. | Được rồi. Sandy, tôi tin anh. | 
+zh-long	好啦，各位，別這樣 山迪，我相信你 
+zh-short	嘿 各位 行了 桑迪 我相信你 
+ja	お前たち よせ | 俺は信じるよ | 
+en	All right. Sandy, I... I believe you. | 
+
+fi	Täällä kimppuuni hyökättiin. | 
+es	A mí me agredieron por allí. 
+hu	Ott támadtak meg. 
+cs	Tamhle mě napadli. 
+da	Jeg blev overfaldet derovre. | 
+el	Εκεί μου επιτέθηκαν. 
+en	I was assaulted over there. 
+es-eu	Me agredieron allí. 
+fr	C'est là-bas qu'on m'a agressée. 
+he	‫שם תקפו אותי.‬ | 
+hr	Ondje su me napali. 
+id	Aku diserang di sana. 
+it	Mi hanno aggredita laggiù. 
+ko	&lrm;난 저쪽에서 폭행당했고 | 
+ms	Saya diserang di sana. 
+no	Jeg ble overfalt der borte. 
+pt-br	Fui atacada por ali. 
+pt	Fui agredida ali. 
+ru	На меня напали вон там. 
+sv	Jag blev överfallen där borta. 
+th	&lrm;ฉันถูกทำร้ายตรงนั้น | 
+tr	Şurada saldırıya uğradım. 
+vi	&lrm;Tôi bị tấn công ở kia. | 
+zh-long	我在那裡被人攻擊 
+zh-short	我在那里受到了攻击 
+nl	Ik ben daar aangevallen. 
+ja	&lrm;あそこで襲われた | 
+uk	Там на мене напали. І десь тут поліція знайшла гаманець Адама. 
+ro	Am fost atacată aici. 
+

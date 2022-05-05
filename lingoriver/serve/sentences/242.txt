@@ -1,0 +1,59 @@
+nl	Hé, ik zie niets. 
+ar	&rlm;‏‏- لا تمكنني الرؤية يا صاح. | &rlm;‏- ماذا؟ حسناً.‏ | 
+da	-Hallo, jeg kan ikke se noget. -Hvad? Okay. 
+el	-Δε βλέπω, φίλε. -Τι; Εντάξει. 
+en	-Hey, dude, I can't see. | -What? Okay. | 
+fi	-Hei, hemmo, en näe mitään. -Mitä? 
+fr	- T'es devant moi. - Quoi ? D'accord. 
+he	&rlm;‏‏היי, אחי, אני לא יכולה לראות. | &rlm;‏-מה? בסדר.‏ | 
+it	- Ehi, non ci vedo. - Come? Va bene. 
+no	-Jeg ser ikke. -Hva? Greit. 
+pl	- Nic nie widzę. - Co? Dobra. 
+pr-br	-Ei, cara, não consigo ver. -Quê? Está bem. 
+pr	- Pá, não consigo ver. - O quê? Está bem. 
+ro	- Amice, nu mai văd! - Poftim? Bine. 
+sp-eu	- Tío, no me dejas ver. - ¿Qué? Vale. 
+sp	- Viejo, no veo. - ¿Qué? De acuerdo. 
+sv	-Jag ser inget. -Vadå? Okej. 
+th	- นี่คุณ ฉันมองไม่เห็น | - อะไรนะ โอเค | 
+tr	-Hey, göremiyorum. -Ne? Tamam. 
+vi	- Chú ơi, cháu không nhìn được. | - Gì cơ? Được rồi. | 
+zh-long	-大叔，你擋到我了 -什麼？好的 
+zh-short	-嘿 老兄 我看不到了 -什么？好的 
+id	Hei, kau menutupiku. 
+ja	見えない！ | 
+ru	Эй, мне ничего не видно. 
+ko	- 이봐요, 안 보이잖아요 | - 뭐? 알았어 | 
+ja	ああ そうか | 
+id	Apa? Baiklah. 
+ru	Что? Сейчас. 
+
+es	¿Tiene hijos? Póngase en nuestros zapatos. 
+fi	Onko teillä lapsia? | Yrittäkää asettua asemaamme. | 
+uk	У вас є діти? Поставте себе на наше місце. 
+el	Έχετε παιδιά; Βάλτε τον εαυτό σας στη θέση μας. 
+pt-br	Você tem filhos? Tente se colocar no nosso lugar. 
+ru	У вас есть дети? Поставьте себя на наше место. 
+cs	Máte děti? Zkuste se vžít do naší situace. 
+da	Har De børn? Sæt Dem i vores sted. | 
+en	Do you have kids? Put yourself in our position. 
+es-eu	¿Tiene hijos? Póngase en nuestro lugar. 
+fr	Vous avez des enfants ? Mettez-vous à notre place. 
+he	‫יש לך ילדים? שימי את עצמך במקומנו.‬ | 
+hr	Imate li djece? Stavite se u našu kožu. 
+hu	Vannak gyerekei? Képzelje magát a helyünkbe! 
+id	Kau punya anak? Tempatkan dirimu di posisi kami. 
+it	Lei ha dei figli? Si metta nei nostri panni. 
+ja	&lrm;私たちの身にも | &lrm;なってください | 
+ko	&lrm;아이가 있나요? | &lrm;우리 입장을 생각해 보세요 | 
+ms	Awak ada anak? Letakkan diri dalam keadaan kami. 
+nl	Heeft u kinderen? Zet uzelf even in onze schoenen. 
+no	Har du barn? Tenk på hvordan vi har det. 
+pt	Tem filhos? Ponha-se no nosso lugar. 
+ro	Ai copii? Pune-te în locul nostru! 
+th	&lrm;คุณมีลูกมั้ย ลองคิดถึงหัวอกเราหน่อย | 
+tr	Çocuğunuz var mı? Kendinizi yerimize koyun. 
+vi	&lrm;Cô có con không? | &lrm;Hãy đặt mình vào vị trí chúng tôi. | 
+zh-long	妳有小孩嗎？請站在我們的立場想想 
+zh-short	你有孩子吗？ 请你站在我们的角度想想 
+

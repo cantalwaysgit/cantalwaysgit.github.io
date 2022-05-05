@@ -1,0 +1,26 @@
+id	Sandy sangat kacau. 
+ru	Боже, как Сэнди страдал! 
+ar	&rlm;‏كان "ساندي" بحال سيئة.‏ | 
+da	Sandy var helt ødelagt. 
+el	Ο Σάντι ήταν σε άσχημη κατάσταση. 
+en	Man, Sandy was messed up. | 
+fi	Sandy oli sekaisin. 
+fr	Sandy était au fond du trou. 
+he	&rlm;‏בנאדם, סנדי היה גמור.‏ | 
+it	Cavolo, Sandy era uno straccio. 
+ko	샌디는 만신창이가 됐어요 | 
+nl	Sandy was er kapot van. 
+pl	Sandy ciężko to znosił. 
+pr-br	Cara, Sandy estava zoado. 
+pr	O Sandy estava muito abalado. 
+ro	Doamne! Sandy era distrus. 
+sp-eu	Sandy estaba hecho polvo. 
+sp	Sandy estaba mal. 
+sv	Sandy var helt förstörd. 
+th	ให้ตาย ชีวิตแซนดี้สับสนยุ่งเหยิง | 
+tr	Sandy berbat hâldeydi. 
+vi	Sandy trở nên bê tha. | 
+zh-long	不過呢，山迪整個人一團糟 
+zh-short	老天 桑迪一团糟 
+ja	サンディは荒れたね | 
+

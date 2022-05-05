@@ -1,0 +1,24 @@
+ar	&rlm;‏هيا!‏ | 
+da	Kom så! 
+el	Πάμε! 
+en	Yeah! Come on! | 
+fr	Allez ! 
+he	&rlm;‏קדימה!‏ | 
+it	Forza! 
+ko	파이팅! | 
+no	Kom igjen! 
+pl	Dajesz! 
+pr-br	Vamos! 
+pr	Vamos! 
+ro	Haide! 
+sp-eu	¡Vamos! 
+sp	¡Vamos! 
+sv	Kom igen! 
+tr	Hadi! 
+vi	Cố lên! | 
+zh-long	上呀！ 
+zh-short	加油！ 
+id	Ayo! Maju! 
+ru	Вперед! 
+th	สู้ๆ | 
+

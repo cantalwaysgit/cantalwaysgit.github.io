@@ -1,0 +1,23 @@
+da	Danser samba Med hede blikke 
+ar	&rlm;‏"يرقصون السامبا والحماسة تظهر في أعينهم"‏ | 
+el	Χορεύουν σάμπα Η φωτιά καίει στα βλέμματά τους 
+en	♪ Samba dancing with | Fire in their eyes burning ♪ | 
+fi	Sambaa tanssii Silmät palaen 
+fr	Dansant la samba Un feu ardent dans les yeux 
+he	&rlm;‏‏רוקדים סמבה | &rlm;‏האש בעיניהם בוערת‏ | 
+it	Ballando una samba Con il fuoco negli occhi 
+nl	de samba dansen met vuur in hun ogen 
+pl	Tańczą sambę Ogień płonie im w oczach 
+pr	A dançar samba Com fogo no olhar 
+pr-br	Samba com fogo nos olhos 
+ro	Dansând samba Cu flăcări în priviri 
+sp	Bailando samba Con fuego en los ojos 
+sp-eu	Bailando samba Con fuego en la mirada 
+th	เต้มแซมบ้า แววตาดั่งไฟโชติช่วง | 
+tr	Yaparlar samba Alev alev gözlerle 
+vi	Samba khiêu vũ | Ánh lửa rực cháy trong mắt | 
+zh-long	忘情森巴 雙眼熊熊愛火 
+zh-short	桑巴热舞 目光如炬 
+sv	Dansa samba Med glöd i blicken 
+id	Dengan matanya... 
+

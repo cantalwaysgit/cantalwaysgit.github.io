@@ -1,0 +1,30 @@
+id	Kau bisa urus ini, bukan? 
+en	You can take care of this, right? | 
+ar	&rlm;‏‏هل ستتولى الأمر؟ صالتي الرياضية هنا. | &rlm;‏سأهرول قليلاً.‏ | 
+da	Det tager du dig af. Mit træningscenter ligger her. 
+el	Θα το αναλάβεις, σωστά; Είμαστε κοντά στο γυμναστήριο. Πάω να τρέξω λίγο. 
+fi	Hoida sinä tämä. Kuntosalini on lähellä. Käyn heittämässä treenin. 
+fr	Je te laisse gérer. Ma salle est là. Je vais faire une séance. 
+he	&rlm;‏‏אתה יכול לטפל בזה? חדר הכושר שלי כאן. | &rlm;‏אני אלך לעשות מסלול.‏ | 
+it	Puoi pensarci tu? La mia palestra è qui. Vado ad allenarmi. 
+ko	뒤처리할 수 있지? | 헬스장이 저기니까 가 있을게 | 
+nl	Zorg jij hiervoor? Mijn sportschool is hier. Ik ga trainen. 
+pl	Zajmij się tym. Ja skoczę sobie na siłownię. 
+pr-br	Você pode cuidar disso. Minha academia é aqui. Vou fazer circuito. 
+pr	Consegues resolver isto? O meu ginásio é ali. Vou treinar um pouco. 
+ro	Te ocupi tu? Sala mea de sport e acolo. Merg să fac o tură. 
+sp-eu	Encárgate tú de esto, ¿vale? Mi gimnasio está aquí. Voy a hacer un circuito. 
+sp	¿Puedes encargarte de esto? Mi gimnasio está allí. Haré un circuito. 
+sv	Tar du hand om det här? Här är gymmet. Jag ska köra cirkelträning. 
+tr	Sen hallet, tamam mı? Spor salonum şurada. Bir ter atayım. 
+vi	Anh lo vụ này nhé? Phòng tập của tôi kia. | Tôi sẽ làm một vòng. | 
+zh-long	你可以處理吧？ 健身房到了，我去練一下 
+zh-short	你来解决吧？我的健身房到了 我去练练 
+ja	君が対処しろよ | 俺はジムに行く | 
+no	Kan du ta deg av det? Jeg drar på treningssenteret. 
+ru	Разберешься сам? 
+th	นายจัดการได้ใช่ไหม ยิมฉันอยู่นี่ | จะไปออกกำลังสักรอบ | 
+id	Aku tahu tempat ini. Aku akan berkeliling. 
+ru	Тут мой спортзал, пойду зайду. 
+en	My Nautilus place is right here. | I'm gonna go do a circuit. | 
+

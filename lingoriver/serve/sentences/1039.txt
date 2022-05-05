@@ -1,0 +1,28 @@
+ru	-Хорошо. -Отвалил восемь тысяч 
+ar	&rlm;‏‏دفعت ثمنه 8 آلاف دولار | &rlm;‏في منطقة "كوت ديه نوي".‏ | 
+da	Den kostede otte tusinde på Côte de Nuits. 
+el	Το αγόρασα οκτώ χιλιάδες δολάρια στο Κοτ ντε Νουί. 
+en	I paid eight grand for it | at the Côte de Nuits. | 
+fi	Maksoin siitä kahdeksan tonnia Côte de Nuits'ssa. 
+fr	Il m'a coûté 8 000 $ et provient de la Côte de Nuits. 
+he	&rlm;‏שילמתי עליו 8,000 דולר בקוט דה נואי.‏ | 
+it	L'ho pagato 8000 dollari in Côte de Nuits. 
+nl	Ik heb er $8000 voor betaald op het Côte de Nuits. 
+no	Jeg betalte 8 000 for den på Côte de Nuits. 
+pl	W Côte de Nuits dałem za nie osiem tysięcy. 
+pr-br	Paguei oito mil nele em Côte de Nuits. 
+pr	Paguei oito mil dólares por ele em Côte de Nuits. 
+ro	Am plătit opt mii de dolari pe el la Côte de Nuits. 
+sp-eu	Pagué ocho de los grandes por él en el Côte de Nuits. 
+sp	Pagué ocho mil por él en Côte de Nuits. 
+th	ซื้อมาแปดพันเหรียญที่โคตเดนุต์ส | 
+tr	Côte de Nuits'de ona sekiz bin dolar saydım. 
+vi	Tôi mua nó giá tám ngàn ở Côte de Nuits. | 
+zh-long	我在夜丘區花八千元買的 
+zh-short	我在路易山坡酒庄花了八千块买的 
+id	Aku membayar 8.000 dolar untuk itu di Côte de Nuits. 
+sv	Jag betalade åttatusen för den hos Côte de Nuits. 
+ko	코트 드 누이에서 | 8천 달러 주고 샀어 | 
+ja	コート･ド･ニュイで | 8000ドルした | 
+ru	в Кот-де-Нюи. 
+

@@ -1,0 +1,58 @@
+id	Dapatkan peran itu. 
+ja	頑張ってこい　全力で | 
+ru	-Давай, покажи им всем. -Ладно. 
+ar	&rlm;‏‏- عليك بهم. | &rlm;‏- حسناً.‏ | 
+da	-Vis dem, hvad du kan. -Okay. 
+el	-Καλή επιτυχία, μικρή. -Εντάξει. 
+en	-Go get 'em, kid. Go get 'em. | -Okay. | 
+fi	Näytä niille. 
+fr	Déchire tout. Allez. 
+he	&rlm;‏‏לכי תראי להם. | &rlm;‏-בסדר.‏ | 
+it	- Falli a pezzi. - D'accordo. 
+nl	Ga ervoor. 
+no	-Gi dem inn. -Ok. 
+pl	Połamania nóg. 
+pr-br	-Bote pra quebrar. -Está bem. 
+pr	- Vai-te a eles. - Está bem. 
+ro	- Fă-i praf, puștoaico! - Bine. 
+sp-eu	- A por ellos, chavala. - Vale. 
+sp	- Ve por ellos, señorita. - Bueno. 
+sv	-Ge dem vad de tål. -Okej. 
+th	- ลุยเลย สู้ๆ | - โอเค | 
+tr	-Git, işi kap. Hadi. -Tamam. 
+vi	- Đi giành lấy công việc đó đi. | - Vâng. | 
+zh-long	-加油，給他們好看 -好 
+zh-short	-加油 努力 -好 
+ko	- 꼭 따내 | - 그럴게요 | 
+id	Semangat. 
+
+es	¿Ningún Gurú trabaja aquí de barman o empleado de seguridad? 
+hu	Nem dolgozik itt valami „Guru”? Pultosként, esetleg kidobóként? 
+pt-br	Algum Guru trabalha aqui? Como barman ou segurança? 
+fi	Onko "Guru" täällä töissä | baarimikkona tai ovimiehenä? | 
+uk	Тут працює якийсь Гуру? Може, бармен чи охоронець? 
+zh-short	这里有调酒师或保镖叫“大师”吗？ 
+cs	Dělá tady nějaký Guru? Za barem nebo v ochrance? 
+da	Arbejder her en Guru? | Måske som bartender eller udsmider? | 
+el	Δουλεύει εδώ κάποιος "Γκουρού"; Ως μπάρμαν, ως πορτιέρης; 
+en	Does anyone named "Guru" work here? As a bartender, maybe as a bouncer? 
+es-eu	¿Un tal Guru trabaja aquí de camarero o de portero? 
+fr	Il y a un "Guru" ici ? Un barman ou un videur, peut-être ? 
+he	‫עובד כאן מישהו בשם גורו?‬ | ‫בתור ברמן? או מאבטח?‬ | 
+hr	Radi li kakav Guru ovdje? Kao pipničar ili izbacivač? 
+id	Apa ada "Guru" di sini? Pramubar, atau mungkin penjaga? 
+it	Qui lavora un certo "Guru"? Un barista, magari un buttafuori? 
+ko	&lrm;여기 '구루'라는 사람 있나요? | &lrm;바텐더나 경비원이나? | 
+ms	Ada "Guru" kerja di sini? Sebagai pelayan bar atau penjaga? 
+nl	Werkt ene Guru hier? Als barman of misschien als uitsmijter? 
+no	Jobber en "Guru" her? Som bartender, kanskje som dørvakt? 
+pt	Trabalha cá algum Guru? No bar ou talvez como porteiro? 
+ro	Lucrează vreun Guru aici? Ca barman sau paznic? 
+sv	Jobbar det en Guru här? Som bartender eller dörrvakt? 
+th	&lrm;มีชื่อ "กูรู" ทำงานที่นี่มั้ย | &lrm;เป็นบาร์เทนเดอร์หรือคนเฝ้าประตู | 
+tr	Burada barmen veya koruma olarak Guru diye biri çalışıyor mu? 
+vi	&lrm;Có Sư Phụ nào làm ở đây không? | &lrm;Làm người pha chế hay bảo vệ? | 
+zh-long	有叫“大師”的在這裡工作嗎？ 酒保或保鑣？ 
+ru	Тут никто не работает с таким именем? Может, бармен или вышибала. 
+ja	&lrm;グルという名で | &lrm;働いてる者はいるかい？ | 
+

@@ -1,0 +1,27 @@
+zh-short	我希望你还是留在基督教比较好 
+ko	그래도 계속 | 기독교를 믿으면 좋겠는데 | 
+pl	Wolałbym, byś pozostała chrześcijanką. 
+th	อยากให้ลูกคงเป็นชาวคริสต์ | 
+tr	Hristiyan kalmanı yeğlerim 
+id	Aku lebih suka kau tetap menganut Kristen 
+ru	Лучше оставайся христианкой 
+ar	&rlm;‏أفضل أن تبقي مسيحية.‏ | 
+da	Jeg foretrækker, du forbliver kristen. 
+el	Προτιμώ να παραμείνεις χριστιανή... 
+en	♪ I prefer you to remain a Christian ♪ | 
+fi	Pysythän kristittynä 
+fr	Je préfère que tu restes chrétienne 
+he	&rlm;‏אני מעדיף שתישארי נוצרייה.‏ | 
+it	Preferirei che rimanessi cristiana. 
+nl	ik heb liever dat je christen blijft 
+no	Jeg vil helst du skal forbli kristen. 
+pr-br	Prefiro que continuem cristãos 
+pr	Prefiro que continues cristã 
+ro	Aș prefera să rămâi creștină 
+sp-eu	Prefiero que sigas siendo cristiana 
+sp	Prefiero que sigas siendo cristiana 
+sv	Jag föredrar dig kristen 
+vi	Bố muốn con vẫn theo cơ đốc giáo. | 
+zh-long	我仍希望妳是一名基督徒 
+ja	できればキリスト教式がいい | 
+

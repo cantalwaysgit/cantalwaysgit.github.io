@@ -1,0 +1,27 @@
+ar	&rlm;‏عودي إلى المنزل رجاءً. أطلب منك بلطف.‏ | 
+da	Kom med ind i huset. Jeg spørger pænt. 
+el	Σε παρακαλώ, έλα μέσα στο σπίτι. Σου το ζητάω με το καλό. 
+en	Please come back in the house. | I'm asking nicely. | 
+fi	Tule takaisin sisälle. Pyydän kauniisti. 
+fr	Reviens à l'intérieur. Je demande gentiment. 
+he	&rlm;‏בבקשה תחזרי לבית. אני מבקש יפה.‏ | 
+it	Ti prego di tornare in casa. Te lo chiedo gentilmente. 
+ko	다시 집으로 들어와 | 상냥하게 부탁하는 거야 | 
+nl	Kom mee naar binnen. Ik vraag het aardig. 
+pr-br	Por favor, volte para a casa. Estou pedindo com educação. 
+pr	Por favor, volta para dentro de casa. Estou a pedir com jeitinho. 
+ro	Te rog să te întorci în casă. Te rog frumos. 
+sp-eu	Por favor, vuelve a la casa. Te lo estoy pidiendo bien. 
+sp	Por favor, entra en la casa. Te lo estoy pidiendo bien. 
+sv	Snälla, gå in i huset. Jag ber dig snällt. 
+tr	Lütfen eve dön. Rica ediyorum. 
+vi	Hãy trở lại trong nhà. | Tôi đang nói lịch sự đấy. | 
+zh-long	求求妳進屋去，我拜託妳 
+zh-short	请回到房子里来 我这是好言相劝 
+ja	頼むから家の中に戻って | お願いだよ | 
+id	Kumohon, kembalilah ke rumah. Aku meminta dengan baik. 
+ru	Пойдем обратно в дом. По-хорошему прошу. 
+no	Kom inn i huset igjen, vær så snill. Jeg spør pent. 
+th	ขอร้องกลับเข้าบ้าน | ขอร้องกันดีๆ แล้วนะ | 
+pl	Proszę, wróć do domu. Grzecznie cię proszę. 
+

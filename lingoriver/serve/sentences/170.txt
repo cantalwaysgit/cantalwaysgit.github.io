@@ -1,0 +1,57 @@
+id	Kau punya pertunjukan bulanan sebagai pembuka Fred Travalena di Trop. 
+ja	月に１度 大物司会者の | 前座も務めてる | 
+ar	&rlm;‏‏ونلت العرض الافتتاحي الذي يقدم مرة شهرياً | &rlm;‏لعرض "فريد ترافالينا" في فندق "تروبيكانا".‏ | 
+da	Og du har åbningsnummeret for Fred Travalena på Trop én gang om måneden. 
+en	And you've got the once a month gig | opening for Fred Travalena at the Trop. | 
+fi	Ja sinulla on se kuukausittainen avausnumero Fred Travalenan show'ssa. 
+fr	Et une fois par mois, tu fais la 1re partie de Fred Travalena. 
+he	&rlm;‏‏ויש לך הופעת פתיחה פעם בחודש | &rlm;‏בשביל פרד טרוואלינה ב"טרופ".‏ | 
+it	E una volta al mese apri lo spettacolo di Fred Travalena al Trop. 
+ko	매달 한 번 프레드 트라발레나 | 오프닝 공연도 하고 있잖아 | 
+nl	Je mag eens per maand openen voor Fred Travalena in de Trop. 
+no	Du varmer opp for Fred Travalena på Trop en gang i måneden. 
+pl	Występujesz też przed Fredem Travalenem w Vegas. 
+pr-br	E uma vez por mês faria um show de abertura para Fred Travalena no Trop. 
+pr	E tens o espetáculo mensal a fazer a abertura do Fred Travalena no Trop. 
+ro	Și mai ai și un număr lunar în deschiderea lui Fred Travalena, la Tropicana. 
+sp-eu	Y tienes la actuación mensual como telonero de Fred Travalena en el Trop. 
+sp	Y tienes la presentación mensual de apertura de Fred Travalena en el Trop. 
+sv	Och du öppnar för Fred Travalena en gång i månaden på Trop. 
+tr	Ayda bir de Trop'ta Fred Travalena'dan önce çıkıyorsun. 
+vi	Anh sẽ có một chương trình mỗi tháng, | mở màn cho Fred Travalena ở Trop. | 
+zh-long	每月一次去賭城 幫佛瑞德崔佛里納開場 
+zh-short	而且你还每月去热带花园赌场 为弗雷德特拉瓦里纳做一场开场表演 
+th	แล้วก็มีโชว์เดือนละครั้ง | เปิดรายการให้เฟรด ทราวาเลนาที่ทรอป | 
+ru	И раз в месяц ты открываешь концерты Фреда Травалены. 
+el	Μια φορά το μήνα ανοίγεις την παράσταση του Φρεντ Τραβαλένα στο Τροπ. 
+
+es	Espera. 
+cs	Čekej. 
+el	Περίμενε. 
+es-eu	Espera. 
+fr	Attends. 
+he	‫חכה.‬ | 
+hr	Čekaj. 
+hu	Várj! 
+it	Aspetta. 
+ja	&lrm;待って | 
+ko	&lrm;잠깐만요 | 
+ms	Sekejap. 
+no	Vent litt. 
+pt-br	Espere. 
+pt	Espera. 
+ru	Стой. 
+th	&lrm;เดี๋ยวนะ | 
+tr	Dur. 
+uk	Стривай. 
+vi	&lrm;Khoan. | 
+zh-long	等一下 
+zh-short	等一下 
+da	-Vent. | -Hvad er der? | 
+id	- Tunggu. - Ada apa? 
+nl	Wacht eens. -Wat is er? 
+ro	- Stai! - Ce e? 
+sv	-Vänta. -Vad är det? 
+fi	Odota. | 
+en	Hold on. 
+

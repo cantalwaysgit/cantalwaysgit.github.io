@@ -1,0 +1,29 @@
+id	Lebih baik jika kita tidak... 
+en	-I'd feel better if we-- | -Don't, Sandy, please. | 
+ar	&rlm;‏‏- سأشعر بشعور أفضل إن لم... | &rlm;‏- لا تغادر يا "ساندي" أرجوك. ابق هنا.‏ | 
+da	-Jeg ville have det bedre, hvis vi... -Nej, Sandy. Gå ikke. Bliv her. 
+el	-Θα ένιωθα καλύτερα αν δεν... -Μη! Μη φεύγεις. Μείνε. 
+fi	-Olisi parempi, jos emme... -Älä lähde! Jää. 
+fr	- Je préfère pas... - Non ! Reste. 
+he	&rlm;‏‏ארגיש טוב יותר אם אנחנו לא... | &rlm;‏-לא! אל תעזוב. תישאר פה.‏ | 
+it	- È meglio se non... - Non te ne andare, Sandy. Resta qui. 
+ko	- 안 하는 편이... | - 가지 말고 있어요 | 
+nl	Ik voel me beter als we niet... -Ga niet weg. Blijf. 
+no	-Det er best om vi... -Nei! Ikke gå. Bli her. 
+pl	- Chyba będzie lepiej, jeśli... - Zostań. Nie odchodź. 
+pr-br	-Eu ficaria melhor se nós não... -Não! Não vá embora. Fique. 
+pr	- Preferia que não... - Não te vás embora. Fica. 
+ro	- Ar fi mai bine să... - Nu pleca! Rămâi aici! 
+sp-eu	- Sería mejor si no... - ¡No! No te vayas. Quédate. 
+sp	- Sería mejor si nosotros no... - ¡No! No te marches. Quédate. 
+sv	-Det skulle kännas bättre om vi inte... -Gå inte. Stanna. 
+th	- ผมจะรู้สึกดีมากกว่าถ้าเราไม่... | - อย่า อย่าไป อยู่ที่นี่ | 
+tr	-Yapmasak daha... -Hayır! Gitme. Burada kal. 
+vi	- Tôi sẽ thoải mái hơn nếu ta không... | - Đừng đi. Ở lại đây. | 
+zh-long	-還是不要比較好… -別走，留下來 
+zh-short	-如果我们不…我会感觉好点儿 -别！别走 留下 
+ru	-Лучше не будем... -Нет! Не уходи. Останься. 
+id	Jangan, Sandy. Jangan pergi. Tetaplah di sini. 
+ja	お願い サンディ | 行かないで | 
+en	-Don't leave. Stay here. | -Oh... | 
+

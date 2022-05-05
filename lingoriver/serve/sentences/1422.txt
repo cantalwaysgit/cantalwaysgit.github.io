@@ -1,0 +1,76 @@
+ko	그래, 이 머리로는 안 되지 | 
+ar	&rlm;‏‏- لا، ليس على شعرك. | &rlm;‏- "كورتني"،‏ | 
+da	-Nej, ikke med det hår. -Courtney... 
+el	-Όχι στα μαλλιά σου. -Κόρτνι... 
+en	-Like we... Nope, not on your hair. | -[man] Courtney... | 
+fi	-Ei niin. -Courtney... 
+fr	Non, effectivement. 
+he	&rlm;‏‏לא, לא על השיער הזה. | &rlm;‏-קורטני...‏ | 
+it	- Non con questa acconciatura. - Courtney... 
+no	Nei, ikke på håret ditt. 
+pl	- Nie w tej. - Courtney. 
+pr-br	-Não com esse cabelo. -Courtney... 
+pr	- Não com o teu cabelo. - Courtney... 
+ro	- Nu cu coafura asta. - Courtney... 
+sp-eu	- No, no con ese pelo. - Courtney... 
+sp	- No, con el cabello así no. - Courtney... 
+sv	-Inte på det håret. -Courtney... 
+th	- ไม่ใช่ ไม่ใช่บนผมคุณ | - คอร์ทนี่ย์ | 
+tr	-Yok, o saça takma. -Courtney... 
+vi	- Không phải mái tóc ấy. | - Courtney... | 
+zh-long	-對，這髮型不行 -寇妮… 
+zh-short	-不 不是要你戴在头上 -考特尼… 
+id	- Tidak dengan rambut itu. - Janji? 
+ja	かぶれないな | 
+ru	Не с этой прической. 
+ko	코트니, 이제 가야 해 | 
+ar	&rlm;‏‏- أتعدني؟ | &rlm;‏- يجب أن نذهب.‏ | 
+da	-Lover du? -...vi skal gå. 
+el	-Υπόσχεσαι; -Πρέπει να φύγουμε. 
+en	-You promise? | -...we have to go. | 
+fi	-Lupaa. -Lähdetään. 
+fr	- Promis ? - On doit y aller. 
+he	&rlm;‏‏הבטחת? | &rlm;‏-... אנחנו צריכים ללכת.‏ | 
+it	- Prometti? - ...andiamo. 
+nl	Beloofd? -We moeten gaan. 
+no	-Lover du? -Vi må gå. 
+pl	- Obiecujesz? - Tak. 
+pr-br	-Promete? -...temos que ir. 
+pr	- Prometes? - ... temos de nos ir embora. 
+ro	- Promiți? - Trebuie să mergem. 
+sp-eu	- ¿Lo prometes? - ...tenemos que irnos. 
+sp	- ¿Lo prometes? - Cariño, vamos. 
+sv	-Lovar du? -Vi måste gå. 
+th	- สัญญาได้ไหม | - เราต้องไปแล้ว | 
+tr	-Söz mü? -...gitmemiz gerekiyor. 
+vi	- Cô hứa nhé? | - ...phải đi rồi. | 
+zh-long	-你答應？ -…該走了 
+zh-short	-你保证？ -我们得走了 
+id	- Janji. - Ayo. 
+ru	-Детка, нам пора. -Ну, увидимся. Пока. 
+ja	近いうちに必ず | 
+ko	네, 또 봐요 | 
+ar	&rlm;‏‏- أعدك. | &rlm;‏- يجب أن أراك.‏ | 
+da	-Jeg lover. -Jeg må se dig. 
+el	-Το υπόσχομαι. -Θέλω να σε δω. 
+en	-I promise. Okay. | -I gotta see you. Okay. | 
+fi	-Lupaan. -Nähdään. 
+fr	- Promis. - À plus. 
+he	&rlm;‏‏אני מבטיח. | &rlm;‏-אני צריכה לראות אותך.‏ | 
+it	- Promesso. - Ci vediamo. 
+nl	Beloofd. -Ik moet je zien. 
+no	-Jeg lover. -Vi må møtes. 
+pl	Musimy się spotkać. 
+pr-br	-Prometo. -Tenho que ver você. 
+pr	- Prometo. - Preciso de te ver. 
+ro	- Promit. - Trebuie să te văd. 
+sp-eu	- Lo prometo. - Tengo que verte. 
+sp	- Lo prometo - Debo verte. 
+sv	-Jag lovar. -Jag måste träffa dig. 
+th	- ผมสัญญา | - ฉันอยากเจอคุณนะ | 
+tr	-Söz. -Seni görmeliyim. 
+vi	- Tôi hứa. | - Tôi nhất định sẽ gặp cô. | 
+zh-long	-我答應 -改天見 
+zh-short	-我保证 -回头见 
+id	- Sampai nanti. - Baiklah. 
+

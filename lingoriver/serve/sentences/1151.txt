@@ -1,0 +1,27 @@
+fi	Olin täällä jo. 
+id	Aku sedang di sini, Sandy. 
+th	ผมก็อยู่ที่นี่แล้ว แซนดี้ | 
+ru	Я был здесь, Сэнди. 
+ar	&rlm;‏كنت هنا على كل حال يا "ساندي".‏ | 
+da	Jeg var her allerede, Sandy. 
+el	Ήμουν ήδη εδώ, Σάντι. 
+en	Oh, I was here anyway, Sandy. | 
+fr	J'étais déjà là, Sandy. 
+he	&rlm;‏הייתי כאן בכל מקרה, סנדי.‏ | 
+it	Io ero già qui, Sandy. 
+ko	처음부터 여기 있었어요 | 
+no	Jeg var her fra før, Sandy. 
+pl	Już byłem na miejscu. 
+pr-br	Eu já estava aqui, Sandy. 
+pr	Eu já cá estava, Sandy. 
+ro	Eu eram aici oricum, Sandy. 
+sp-eu	Ya estaba aquí, Sandy. 
+sp	Yo ya estaba aquí, Sandy. 
+sv	Jag var ändå här. 
+tr	Ben zaten buradaydım Sandy. 
+vi	Tôi vẫn ở đây mà, Sandy. | 
+zh-long	我本來就在這裡，山迪 
+zh-short	我一直就在这儿 桑迪 
+nl	Ik was hier al, Sandy. Met mijn broek aan. 
+ja	元々いたのさ | 
+

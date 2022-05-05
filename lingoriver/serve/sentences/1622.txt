@@ -1,0 +1,3 @@
+id	Siapa itu? 
+en	[exclaims] | 
+

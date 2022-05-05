@@ -1,0 +1,27 @@
+en	-[laughs] | -Why do you own this stuff? | 
+ar	&rlm;‏لماذا تملك هذه الملابس؟‏ | 
+da	Er det dit tøj? 
+el	Γιατί το έχεις αυτό; 
+fr	C'est quoi, ces fringues ? 
+he	&rlm;‏למה יש לך אותם?‏ | 
+it	Perché hai questa roba? 
+pl	Skąd masz te ciuchy? 
+pr-br	Por que você tem isso? 
+pr	Porque tens estas roupas? 
+ro	De ce ai hainele astea? 
+sp-eu	¿Por qué tienes esto? 
+sp	¿Por qué tienes estos? 
+sv	Varför äger du de här? 
+th	ทำไมคุณถึงมีชุดนี่ | 
+tr	Niye böyle şeylerin var? 
+vi	Sao anh lại có bộ đồ này? | 
+zh-long	你哪來這些衣服的？ 
+zh-short	你怎么会有这个？ 
+fi	-Miksi sinulla on tällaisia? -Nuo ovat treenivaatteeni. 
+nl	Waarom heb je deze kleren? -Daar sport ik in. 
+id	Kenapa kau punya ini? 
+ru	Откуда у тебя это? 
+no	Hvorfor har du dette? 
+ja	この服 何？ | 
+ko	이런 옷은 왜 가지고 있어요? | 
+

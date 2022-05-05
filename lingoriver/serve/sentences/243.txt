@@ -1,0 +1,75 @@
+ru	И скоро понял он 
+da	Og snart så afgjort bifaldte det 
+ar	&rlm;‏"ووافق سريعاً، فعلاً"‏ | 
+el	Και πολύ σύντομα συμφώνησε, πράγματι 
+en	♪ And very soon agreed | Indeed ♪ | 
+fi	Ja yksissä tuumin totesivat niin 
+fr	Et très vite, il se rendit à l'évidence 
+he	&rlm;‏ומהר מאוד הסכימו, אכן‏ | 
+it	Ma molto presto si decise sul serio 
+nl	en was het al heel snel eens 
+pl	I wtedy zgodził się 
+pr-br	E muito em breve concordou Sem dúvida 
+pr	E cedo concordou, sem dúvida 
+ro	Și curând a hotărât, într-adevăr 
+sp-eu	Y muy pronto surgió 
+sp	Y muy pronto accedió 
+sv	Och höll till sist med 
+th	และในไม่ช้าทุกคนก็เห็นด้วย แน่นอน | 
+tr	Kısa sürede kabul etti 
+vi	Và nhanh chóng nhận ra, thực tế là | 
+zh-long	很快同意了，沒錯 
+zh-short	很快大家都认同了 的的确确 
+id	Dan sangat cepat setuju, benar 
+ja	その時 ついに気がついた | 
+ko	이내 동의했지 | 
+ru	И впрямь 
+ja	本当の自分に | 
+
+hu	Adam úgy érezte, nem értik meg otthon. 
+id	Adam merasa disalahpahami di rumah. 
+es	Adam se sentía incomprendido en casa. Por eso huyó la primera vez. 
+fi	Adam karkasi ensimmäisen kerran, | koska tunsi, ettei kotona ymmärretä häntä. | 
+ms	Adam rasa disalahfahami di rumah. Sebab itu dia lari semasa kali pertama. 
+no	Adam følte seg misforstått hjemme. Det var derfor han stakk av første gang. 
+es-eu	Adam se sentía incomprendido. 
+fr	Adam se sentait incompris. 
+he	‫אדם הרגיש שלא מבינים אותו בבית.‬ | 
+hr	Adam se doma osjećao neshvaćenim. 
+it	Adam si sentiva incompreso a casa. 
+ko	&lrm;아담은 집에서 | &lrm;이해받지 못한다고 생각했어요 | 
+pt	O Adam sentia que não o entendiam em casa. 
+ro	Adam nu simțea că îl înțelegeți. 
+th	&lrm;อดัมรู้สึกว่าที่บ้านเข้าใจเขาผิด | 
+vi	&lrm;Adam cảm thấy bị hiểu lầm ở nhà. | 
+zh-long	亞當在家感覺被誤解了 
+zh-short	亚当感觉在家里受到了误解 
+uk	Адам почувався невидимим удома. 
+cs	Adam se cítil být doma nepochopený. 
+en	Adam felt misunderstood at home. 
+da	Adam følte sig misforstået hjemme. | Derfor stak han af første gang. | 
+el	Ο Άνταμ ένιωθε παρεξηγημένος στο σπίτι. Γι' αυτό έφυγε την πρώτη φορά. 
+ja	&lrm;最初に家出した時は | &lrm;“誤解されてる”と | 
+nl	Adam voelde zich thuis niet begrepen. Daarom liep hij de eerste keer weg. 
+pt-br	Adam se sentia incompreendido em casa. Por isso, fugiu da primeira vez. 
+ru	Адам считал, что дома его не понимают, поэтому он сбежал в первый раз. 
+sv	Adam kände sig missförstådd av er. Därför rymde han hemifrån. 
+tr	Adam evde anlaşılmadığını hissediyordu. İlk evden kaçışı o yüzdendi. 
+es-eu	Por eso se fugó la primera vez. 
+fr	C'est pour ça qu'il fuguait. 
+he	‫בגלל זה הוא ברח בפעם הראשונה.‬ | 
+hr	Zato je prvi put pobjegao. 
+id	Itu sebabnya dia kabur pertama kali. 
+it	Ecco perché è scappato la prima volta. 
+ko	&lrm;첫 가출도 그래서 했죠 | 
+pt	Por isso, fugiu da primeira vez. 
+ro	De-aia a fugit de acasă prima dată. 
+th	&lrm;ตอนนั้นเขาถึงหนีออกจากบ้านครั้งแรก | 
+vi	&lrm;Đó là lý do cậu ấy bỏ đi lần đầu. | 
+zh-long	這是他第一次逃家的原因 
+zh-short	这是他第一次离家出走的原因 
+uk	Тому він уперше втік. 
+cs	Proto poprvé utekl. 
+hu	Először ezért szökött el. 
+en	That's why he ran away the first time. 
+

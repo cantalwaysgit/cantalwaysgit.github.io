@@ -1,0 +1,58 @@
+ar	&rlm;‏‏أتقول إذاً إنني يجب أن أستقيل فوراً | &rlm;‏وأغادر معك؟‏ | 
+da	Siger du, at jeg skal sige op nu og gå med dig? 
+el	Δηλαδή, μου λες να παραιτηθώ αυτή τη στιγμή και να έρθω μαζί σου; 
+en	So you're saying I should quit right now | and leave with you? | 
+fi	Sanot siis, että minun pitäisi ottaa loparit ja lähteä mukaasi. 
+fr	Vous me conseillez de tout lâcher pour vous suivre ? 
+he	&rlm;‏אז אתה אומר שעליי להתפטר עכשיו וללכת איתך?‏ | 
+it	Quindi dovrei mollare tutto e venire via con te? 
+nl	Dus je zegt dat ik nu moet stoppen en met jou moet meegaan? 
+pl	Twierdzisz, że powinnam rzucić tę robotę i pójść z tobą? 
+pr-br	Está dizendo que eu deveria largar tudo e ir embora com você? 
+pr	Está a dizer que eu devia sair daqui e ir consigo? 
+sp	¿Dices que debo renunciar ya mismo e irme contigo? 
+sp-eu	¿Me está diciendo que deje esto y me vaya con usted? 
+sv	Du menar att jag ska sluta på stört och följa med dig? 
+tr	Şimdi işi bırakıp seninle gelmemi mi söylüyorsun? 
+vi	Anh nói là tôi nên bỏ nơi này | và đi với anh? | 
+zh-long	所以你要我馬上辭職跟你走？ 
+zh-short	所以你叫我马上辞职 跟你走？ 
+ja	今の仕事を辞めて | 自分についてこいと言うの？ | 
+no	Så du sier at jeg bør slutte nå og bli med deg? 
+ru	Значит, говорите... 
+id	Jadi, maksudmu, aku harus berhenti dan ikut bersamamu? 
+ro	Îmi spui să-mi dau demisia acum și să merg cu tine? 
+th	คุณบอกว่าให้ฉันเลิกเลยตอนนี้ | แล้วไปกับคุณเหรอ | 
+ko	그러니까 이걸 당장 그만두고 | 같이 가자는 건가요? | 
+ru	...я должна все бросить и уйти с вами? 
+
+cs	Uvidíme se na matice. 
+da	Ses til matematik. | 
+el	Τα λέμε στο μάθημα. 
+en	See you in math. 
+es-eu	Nos vemos en Mates. 
+es	Nos vemos en Matemáticas. 
+fr	On se voit en maths. 
+he	‫נתראה בשיעור מתמטיקה.‬ | 
+hr	Vidimo se na matematici. 
+hu	Matekon találkozunk. 
+id	Sampai jumpa di kelas Matematika. 
+it	Ci vediamo a matematica. 
+ja	&lrm;数学の授業でな | 
+ko	&lrm;수학 시간에 보자 | 
+ms	Jumpa di kelas matematik. 
+nl	Ik zie je bij wiskunde. 
+no	Vi sees i matte. 
+pt	Vemo-nos em Matemática. 
+ro	Ne vedem la mate! 
+sv	Vi ses på matten. 
+th	&lrm;เจอกันในห้องเรียนเลขนะ | 
+tr	Matematikte görüşürüz. 
+uk	Побачимося на математиці. 
+vi	&lrm;Hẹn gặp lại trong lớp toán. | 
+zh-long	數學課見 
+zh-short	数学课上见 
+pt-br	- Te vejo na aula de matemática. - Beleza, tchau. 
+fi	Nähdään matikantunnilla. | 
+ru	Увидимся на математике. 
+

@@ -1,0 +1,27 @@
+ru	Да, точно. Как твоя мама? 
+id	Benar. Bagaimana kabar ibumu? Dia... 
+ar	&rlm;‏أجل. هذا صحيح. كيف حال أمك؟‏ | 
+da	Ja, det er rigtigt. Hvordan har din mor det? 
+el	Ναι, σωστά. Πώς είναι η μητέρα σου; 
+en	Oh, yeah. That's right. How's your mother? | 
+fi	Ai niin. Mitä äidillesi kuuluu? 
+fr	Exact. Comment va ta mère ? 
+he	&rlm;‏כן. נכון. מה שלום אימא שלך?‏ | 
+it	Già. È vero. Come sta tua madre? 
+ko	그래, 그랬지 | 어머니는 어떠셔? | 
+no	Ja, stemmer. Står til med moren din? 
+pl	Jasne. To co tam u mamy? 
+pr-br	Sim, certo. Como está a sua mãe? 
+pr	Sim. Pois foi. Como está a tua mãe? 
+ro	Da. Exact. Ce mai face mama ta? 
+sp-eu	Sí. Es verdad. ¿Qué tal está tu madre? 
+sp	Sí. Es cierto. ¿Cómo está tu madre? 
+sv	Det stämmer. Hur mår din mamma? 
+th	อ๋อ ใช่ แม่คุณเป็นไง | 
+tr	Evet. Doğru. Annen nasıl? 
+vi	Ừ. Phải rồi. Mẹ cậu khỏe không? | 
+zh-long	對啦，你媽好嗎？ 
+zh-short	对 你妈怎么样？ 
+nl	Inderdaad. Hoe is het met je moeder? Waarom bel je? 
+ja	そうなのか | 
+

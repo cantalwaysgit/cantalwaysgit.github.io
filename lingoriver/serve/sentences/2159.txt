@@ -1,0 +1,27 @@
+id	Ya, aku di sana sekarang. 
+ar	&rlm;‏أنا هناك الآن.‏ | 
+da	Jeg er derinde nu. 
+el	Εκεί είμαι τώρα. 
+fi	Olen siellä. 
+fr	J'y suis en ce moment. 
+he	&rlm;‏אני בפנים ממש כרגע.‏ | 
+it	Ci sono in questo momento. 
+nl	Daar zit ik nu in. 
+no	Jeg er der nå. 
+pl	Właśnie w nim jestem. 
+pr-br	Estou dentro do seu rabo agora. 
+pr	Estou lá neste momento. 
+ro	Sunt acolo chiar acum. 
+sp	Estoy allí dentro ahora mismo. 
+sp-eu	Estoy ahora mismo. 
+sv	Jag är där inne nu. 
+th	อยู่ในนั้นเวลานี้ | 
+tr	Şu anda oradayım. 
+vi	Tôi đang ở ngay đó. | 
+zh-long	我現在在裡面 
+zh-short	我现在就在里面 
+en	Yeah, I'm in there right now. [chuckles] | 
+ja	ケツの中にいる | 
+ru	Я и сейчас там. 
+ko	지금 그 안에 있어요 | 
+

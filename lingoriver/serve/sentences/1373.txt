@@ -1,0 +1,27 @@
+id	Kau sedang apa? Kau terlihat muram. 
+ru	Ну что ты такой мрачный? 
+ja	冴(さ)えない顔してるな | すごくウケてるぞ | 
+pl	Coś taki markotny? 
+pr-br	O que está fazendo? Parece abatido. 
+ar	&rlm;‏ما الذي تفعله؟ تبدو حزيناً.‏ | 
+da	Hvad laver du? Du ser nedtrykt ud. 
+el	Τι κάνεις; Φαίνεσαι κατηφής. 
+fi	Miksi sinä murjotat? 
+fr	Qu'est-ce qu'il y a ? T'as l'air morose. 
+he	&rlm;‏מה אתה עושה? אתה נראה קודר.‏ | 
+it	Che c'è? Mi sembri imbronciato. 
+nl	Wat doe je? Je ziet er somber uit. 
+no	Hva gjør du? Du ser trist ut. 
+pr	O que se passa? Pareces estar triste. 
+ro	Ce faci? Pari îngândurat. 
+sp-eu	¿Qué haces? Pareces triste. 
+sp	¿Qué haces? Pareces triste. 
+sv	Vad gör du? Du ser hängig ut. 
+th	นายเป็นอะไร ดูหงอยจัง | 
+tr	Ne yapıyorsun? Moralin bozuk galiba. 
+vi	Anh đang làm gì thế? Trông anh có vẻ buồn. | 
+zh-long	怎麼了？你看起來好哀怨 
+zh-short	你在干什么？你看起来很沮丧 
+en	What are you doing? You look gloomy. | Reiser's killing out there. Come on. | 
+ko	왜 이래? 침울해 보이네 | 
+

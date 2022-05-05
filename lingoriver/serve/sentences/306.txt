@@ -1,0 +1,48 @@
+ar	&rlm;‏لا بأس. أحب ذاك المكان.‏ | 
+da	Det er fint. Jeg elsker Alaska. 
+el	Δεν πειράζει. Μ' αρέσει εκεί. 
+en	[Sandy] Oh, that's fine. I love it there. | 
+fi	Ei se mitään. Viihdyn siellä. 
+fr	C'est rien. J'adore cette région. 
+he	&rlm;‏זה בסדר. אני אוהב את אלסקה.‏ | 
+it	Non c'è problema. Adoro questo posto. 
+ko	괜찮아요 | 저 알래스카 좋아해요 | 
+pl	Nie szkodzi. Lubię Alaskę. 
+pr-br	Tudo bem. Eu adoro lá. 
+pr	Não há problema. Eu adoro. 
+ro	Nu-i nimic. Îmi place acolo. 
+sp	Está bien. Me encanta ese lugar. 
+sp-eu	No pasa nada. Me encanta. 
+th	ไม่เป็นไร ผมชอบที่นั่น | 
+tr	Sorun değil. Oraya bayılırım. 
+vi	Không sao. Tôi thích nơi đó. | 
+zh-long	沒關係，我喜歡阿拉斯加 
+zh-short	没关系 我很喜欢这里 
+nl	Geeft niet. Ik ben er gek op. Het is prachtig. 
+no	Det går bra. Jeg elsker stedet. Det er vakkert. 
+sv	Det är lugnt. Jag älskar Alaska. Det är vackert. 
+ru	Отлично. Мне тут нравится. 
+id	Tidak masalah. Aku suka di sana. Pemandangannya indah. 
+ja	いいね　大好きな所だ | 
+en	It's beautiful. | 
+ru	Красота. 
+ar	&rlm;‏إنه جميل.‏ | 
+da	Der er smukt. 
+el	Είναι όμορφα. 
+fi	Kaunista seutua. 
+fr	C'est magnifique. 
+he	&rlm;‏היא יפהפייה.‏ | 
+it	È bellissimo. 
+ko	아름답잖아요  | 
+pl	Pięknie tam. 
+pr-br	É lindo. 
+pr	É lindo. 
+ro	E frumos. 
+sp	Es hermoso. 
+sp-eu	Es precioso. 
+th	มันสวยมาก | 
+tr	Çok güzel. 
+vi	Đẹp lắm. | 
+zh-long	好美 
+zh-short	这里非常美 
+

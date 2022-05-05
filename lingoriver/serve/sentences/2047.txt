@@ -1,0 +1,27 @@
+id	Itu dia. 
+ru	Вот так. 
+ja	彼がいい | 
+ar	&rlm;‏ها هو.‏ | 
+da	Der er han. 
+el	Ορίστε. 
+en	There he is. | 
+fi	Siinä hän on. 
+fr	Le voilà. 
+he	&rlm;‏הנה הוא.‏ | 
+it	Eccolo qua. 
+ko	저 친구로 하지 | 
+nl	Daar is ie. 
+no	Der er han. 
+pl	Niech będzie. 
+pr	Aí está ele. 
+pr-br	Lá está ele. 
+ro	Uite-l! 
+sp	Allí está. 
+sp-eu	Ahí está. 
+sv	Där är han. 
+th	นั่นเลย | 
+tr	İşte. 
+vi	Cậu ấy đây rồi. | 
+zh-long	他來了 
+zh-short	他说对了 
+

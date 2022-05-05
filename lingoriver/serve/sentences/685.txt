@@ -1,0 +1,26 @@
+id	Gembira, gembira 
+ru	Бабочки летают У меня в душе 
+da	Sommerfugle Helt ind i sjælen 
+ar	&rlm;‏"بالإثارة تصل إلى روحي‏ | 
+el	Πεταλούδες, πεταλούδες στην ψυχή μου 
+en	♪ Butterflies, butterflies | Down to my soul ♪ | 
+fi	Perhonen, perhonen Sielussain 
+fr	Mon corps frissonne Jusqu'à mon âme 
+he	&rlm;‏‏פרפרים, פרפר | &rlm;‏בעמקי נשמתי‏ | 
+it	Farfalle, farfalla Nella mia anima 
+ko	내 영혼까지 설레게 해주지 | 
+nl	vlinders in mijn ziel 
+pl	Czuję motylki w mojej duszy 
+pr-br	Você me dá arrepios na alma 
+pr	Provocas-me arrepios No fundo da minha alma 
+ro	Fluturi Până în adâncul sufletului 
+sp-eu	Mariposas, mariposas Hasta en el alma 
+sp	Mariposas, mariposas Hasta el fondo de mi alma 
+sv	Fjärilar, fjärilar I djupet av min själ 
+th	ผีเสื้อ ผีเสื้อ | จนถึงก้นบึ้งหัวใจฉัน | 
+tr	Kelebekler uçuşuyor ruhumda 
+vi	Xao động, xao động | Tận sâu trong tâm hồn | 
+zh-long	心靈無比悸動 
+zh-short	紧张不安 在我内心深处 
+id	Hingga ke dalam jiwaku 
+

@@ -1,0 +1,27 @@
+id	Hai, Ninabobo. Maukah kau menggendongku saat adikku mengambil fotonya? 
+ru	Возьмете меня на ручки, чтобы мой брат сделал фото? 
+ar	&rlm;‏هلا تهزني كطفل بينما يلتقط أخي صورة؟‏ | 
+da	Vil du vugge mig som en baby, mens min bror tager et billede? 
+el	Θα με νανουρίσεις στην αγκαλιά σου, για να μας βγάλουν φωτογραφία; 
+en	Hey, Bedtime. Will you rock me like a baby | while my brother Dicky gets a picture? | 
+fi	Tuuditatko minua sylissä, kun veljeni ottaa kuvan? 
+fr	Tu peux me bercer comme un bébé, mon frère va prendre une photo. 
+he	&rlm;‏תערסל אותי כמו תינוק בשעה שאחי מצלם?‏ | 
+it	Mi puoi cullare come un bambino mentre mio fratello fa una foto? 
+ko	사진 찍고 싶은데 | 아기처럼 안아서 달래주실래요? | 
+nl	Wil je me wiegen terwijl m'n broer een foto maakt? 
+no	Kan du vugge meg som en baby mens broren min tar bilde? 
+pl	Ululasz mnie do snu, a mój brat cyknie fotkę? 
+pr-br	Me embala como um bebê enquanto meu irmão tira a foto? 
+pr	Podes embalar-me como a um bebé para o meu irmão tirar uma fotografia? 
+ro	Vrei să mă legeni în timp ce fratele meu face o poză? 
+sp-eu	¿Me meces como a un bebé mientras mi hermano saca una foto? 
+sp	¿Me arrullarías como a un bebé mientras mi hermano toma una foto? 
+sv	Kan du vagga mig som en bebis när brorsan tar en bild? 
+th	ช่วยอุ้มผมโยกเหมือนเด็ก | ให้น้องผมถ่ายรูปได้ไหมครับ | 
+tr	Kardeşim fotoğraf çekene kadar beni bir bebek gibi sallar mısın? 
+vi	Anh sẽ đu đưa tôi như đứa trẻ | khi anh trai tôi chụp ảnh nhé? | 
+zh-long	可以麻煩你把我當寶寶搖 讓我弟拍照嗎？ 
+zh-short	我弟弟拍照时 你能像摇小宝宝一样摇我吗？ 
+ja	俺を抱っこして写真を撮って | 
+

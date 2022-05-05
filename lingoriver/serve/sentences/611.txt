@@ -1,0 +1,27 @@
+id	Aku akan kembali sesaat lagi. 
+ja	ちょっと待ってて | 
+ru	Я на пару секунд. 
+ar	&rlm;‏سأعود بعد قليل.‏ | 
+da	Jeg kommer tilbage om lidt. 
+el	Επιστρέφω αμέσως. 
+en	Okay, I'll be back in a few seconds. | 
+fi	En viivy kauan. 
+fr	Je reviens tout de suite. 
+he	&rlm;‏אחזור בעוד כמה שניות.‏ | 
+it	Torno tra un secondo. 
+no	Jeg er straks tilbake. 
+pl	To zajmie chwilkę. 
+pr-br	Já volto. 
+pr	Eu já volto. 
+ro	Mă întorc în câteva clipe. 
+sp-eu	Vuelvo en unos segundos. 
+sp	Regreso enseguida. 
+sv	Jag är tillbaka snart. 
+th	เดี๋ยวมานะ | 
+tr	Birazdan dönerim. 
+vi	Tôi sẽ quay lại ngay. | 
+zh-long	我馬上回來 
+zh-short	我马上就回来 
+nl	Ik ben zo terug. -Goed. Wij zijn bij het zwembad. 
+ko	잠깐만 통화하고 올게 | 
+

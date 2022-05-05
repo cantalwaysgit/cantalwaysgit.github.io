@@ -1,0 +1,162 @@
+en	It was sad. Seemed like he | didn't have any friends, right? | 
+id	Menyedihkan. Seperti tak punya teman. 
+ar	&rlm;‏‏- كان الأمر محزناً. لم يكن لديه أصدقاء. | &rlm;‏- لا أصدقاء.‏ | 
+da	-Trist. Han havde vist ingen venner. -Ingen venner. 
+el	-Ήταν λυπηρό. Δεν είχε φίλους. -Κανέναν φίλο. 
+fi	Surullista. Hänellä ei ollut kai ystäviä. 
+fr	- C'était triste. Il n'avait pas d'amis. - Pas d'amis. 
+he	&rlm;‏‏זה היה עצוב. כאילו שלא היו לו חברים. | &rlm;‏-לא היו לו חברים.‏ | 
+it	- Era triste, come se non avesse amici. - Non aveva amici. 
+ko	- 친구도 없는 게 슬프던데요 | - 친구가 없어요 | 
+nl	Het was zielig. Hij had geen vrienden. 
+no	-Leit. Som om han var venneløs. -Ingen venner. 
+pl	- Smutne. Nie miał przyjaciół. - Żadnych. 
+pr-br	-Era triste. Não tinha amigos. -Nenhum amigo. 
+pr	- Era triste. Parecia não ter amigos. - Não tinha amigos. 
+ro	- Era trist. Parcă nu avea prieteni. - N-avea prieteni. 
+ru	-Грустно... И друзей у него не было. -Не было. 
+sp	- Era triste. No tenía ni amigos. - Ni siquiera amigos. 
+sp-eu	- Era triste. No tenía amigos. - Ninguno. 
+sv	-Det var sorgligt, inga vänner. -Inga vänner. 
+th	- ช่างน่าเศร้า เขาไม่มีเพื่อนเลย | - ไม่มีเพื่อน | 
+tr	-Üzücü bir durumdu. Arkadaşı yoktu. -Hiç yoktu. 
+vi	- Thật buồn. Như thể anh ta chẳng có bạn. | - Không bạn bè. | 
+zh-long	-滿可悲的，他好像沒朋友 -沒朋友 
+zh-short	-很令人难过 他好像没朋友 -没朋友 
+ja	友達もいない | 
+
+cs	To teda nespletla! 
+da	Jeg tager ikke fejl! | 
+el	Εγώ δεν κάνω λάθος! 
+en	I'm definitely not mistaken! 
+es-eu	Claro que no me confundo. 
+es	¡Para nada! 
+fi	En todellakaan erehdy! | 
+fr	Je ne fais pas erreur ! 
+he	‫שום טעות!‬ | 
+hr	Nimalo se nisam zabunila! 
+hu	Nincs itt semmi tévedés! 
+id	Aku jelas tak keliru! 
+it	Io non faccio errori! 
+ko	&lrm;오해는 얼어죽을! | 
+ms	Aku tak silap! 
+no	Jeg tar ikke feil! 
+pt-br	Não estou enganada mesmo! 
+pt	Não estou nada enganada! 
+ro	Nu mă înșel, asta e clar! 
+ru	Чёрта с два я обозналась! 
+th	&lrm;ฉันไม่ได้เข้าใจผิด! | 
+uk	Я точно не помиляюся! 
+vi	&lrm;Tôi chắc chắn không nhầm! | 
+zh-long	我絕對沒誤會！ 
+zh-short	我没有搞错！ 
+nl	Ik vergis me niet. Wat? Ga je nu weg, lafaard? 
+cs	Co? Teď začneš ujíždět, ty srabe? 
+da	Stikker du af, din kujon? | 
+el	Τι; Τώρα φεύγεις, δειλέ; 
+en	What? Now you're leaving, you coward? 
+es-eu	¿Qué? ¿Ahora te vas, cobarde? 
+es	¿Qué? ¿Ahora te vas, cobarde? 
+fi	Mitä? Nytkö yrität lähteä, pelkuri? | 
+fr	Quoi ? Tu fuis, espèce de lâche ? 
+he	‫מה? עכשיו אתה נוסע, חתיכת פחדן?‬ | 
+hr	Molim? Sad ćeš pobjeći, kukavico? 
+hu	Mi van? Most elmész, te gyáva féreg? 
+id	Apa? Kini kau akan pergi, Pengecut? 
+it	Cosa? Ora te ne vai, codardo del cazzo? 
+ja	&lrm;立ち去るの？　この腰抜け！ | 
+ko	&lrm;이제 와서 내빼는 거야? | &lrm;겁쟁이 새끼! | 
+ms	Apa? Sekarang nak cabut lari pula? 
+no	Nå drar du, din feiging? 
+pt-br	O quê? Vai fugir agora, seu covarde? 
+pt	O quê? Agora vais-te embora, cobardolas? 
+ro	Ce faci? Dai bir cu fugiții, lașule? 
+ru	Куда это ты? Что, в штаны наложил? 
+th	&lrm;อะไร จะหนีเหรอ ไอ้ขี้ขลาด | 
+tr	Şimdi kaçıyor musun sıçtığımın ödleği? 
+uk	Що? Тепер тікаєш, боягузе? 
+vi	&lrm;Sao? Giờ định chạy hả, đồ hèn? | 
+zh-long	怎麼？現在你要走了嗎？懦夫 
+zh-short	怎么 现在想溜了吗 懦夫？ 
+sv	-Ska du åka nu, din fegis? -Er make har gjort min dotter illa. 
+cs	Váš manžel ublížil mé dceři! 
+da	Deres mand sårede min datter. | 
+el	Ο άντρας σας πλήγωσε την κόρη μου. 
+en	Your husband hurt my daughter. 
+es-eu	¡Su marido se pasó con mi hija! 
+es	Su esposo lastimó a mi hija. 
+fi	Miehesi loukkasi tytärtäni. | 
+fr	Votre mari a humilié ma fille. 
+he	‫בעלך פגע בבת שלי.‬ | 
+hr	Vaš mi je muž povrijedio kćer. 
+hu	A férje bántotta a lányomat! 
+id	Suamimu menyakiti putriku. 
+ja	&lrm;ご主人が娘を傷つけた | 
+ko	&lrm;댁의 남편이 내 딸한테 | &lrm;상처를 줬어요 | 
+ms	Suami puan menyusahkan anak saya. 
+no	Mannen din såret datteren min. 
+pt-br	Seu marido ofendeu minha filha. 
+pt	O seu marido fez mal à minha filha. 
+ru	Ваш муж обидел мою дочь! 
+th	&lrm;สามีคุณทำร้ายลูกสาวผม | 
+tr	Kocanız kızımı incitti. 
+vi	&lrm;Chồng cô hại con gái tôi. | 
+zh-long	妳丈夫傷害了我女兒 
+zh-short	你丈夫伤害了我女儿 
+it	- Suo marito ha insultato mia figlia! - Hanno distorto le parole! 
+nl	Je man heeft m'n dochter pijn gedaan. -Z'n woorden zijn verdraaid. 
+ro	- Soțul dv. mi-a jignit fiica. - Copiii i-au răstălmăcit vorbele. 
+uk	-Ваш чоловік скривдив мою доньку. -Його слова були перекручені. 
+cs	Oni jeho slova překroutili! 
+da	Hans ord blev fordrejet. | 
+el	Διαστρεβλώθηκαν τα λόγια του! 
+en	His words were twisted. 
+es-eu	¡Tergiversaron sus palabras! 
+fi	Hänen sanojaan vääristeltiin! | 
+fr	Ses propos ont été déformés. 
+he	‫עיוותו את הדברים שלו.‬ | 
+hr	Pogrešno su ga shvatili. 
+hu	Kiforgatták a szavait! 
+id	Kata-katanya dipelintir. 
+ja	&lrm;あれは誤解よ | 
+ko	&lrm;애들이 말을 왜곡한 거지 | 
+no	Det han sa, ble misforstått. 
+pt-br	Distorceram as palavras dele. 
+pt	Distorceram o que ele disse. 
+ru	Это дети исказили его слова! 
+th	&lrm;คำพูดของเขาถูกบิดเบือน | 
+tr	Sözleri çarpıtılmış. 
+vi	&lrm;Chúng nó xuyên tạc lời anh ấy. | 
+zh-long	是他的話被曲解了 
+zh-short	他的话被曲解了 
+es	Los niños malinterpretaron sus palabras. 
+ms	Kata-kata dia diputarbelitkan. Dia dah minta maaf. Banyak kali! 
+sv	Det han sa har förvrängts. Och han har bett om ursäkt många gånger! 
+pt-br	Ele pediu desculpas inúmeras vezes! 
+cs	Navíc se za to mockrát omluvil! 
+da	Han har undskyldt. Mange gange! | 
+el	Και ζήτησε συγγνώμη. Πολλές φορές! 
+en	And he apologized several times! 
+es-eu	¡Y se disculpó varias veces! 
+fr	Et il s'est excusé. Plusieurs fois ! 
+he	‫והוא התנצל. מלא פעמים!‬ | 
+hr	I ispričao se. Puno puta! 
+hu	És már bocsánatot kért. Sokszor! 
+id	Dan dia sudah minta maaf. Berkali-kali! 
+it	E si è scusato. Molte volte! 
+ja	&lrm;主人は何度も謝罪した | 
+ko	&lrm;그리고 사과했잖아, 여러 번! | 
+nl	En hij bood z'n excuses aan. Heel vaak. 
+no	Og han ba om unnskyldning. Mange ganger! 
+pt	Ele pediu desculpa. Muitas vezes! 
+ro	Și-a cerut scuze. De mai multe ori! 
+ru	И он извинился. Много раз! 
+th	&lrm;เขาขอโทษหลายครั้งแล้วด้วย! | 
+tr	Defalarca da özür dilemiş! 
+uk	Він вибачився. Багато разів! 
+vi	&lrm;Và anh ấy đã xin lỗi. Nhiều lần! | 
+zh-long	他有道歉了，道歉很多次！ 
+zh-short	而且他已经道歉很多次了！ 
+fi	Ja hän pyysi anteeksi. Monta kertaa! | 
+es	Y ya se disculpó. ¡Muchas veces! 
+

@@ -1,0 +1,30 @@
+id	Pasti sangat menyakitkan bagi Sandy 
+ru	Наверно, ему было еще больнее, 
+ja	無情にも街は | コートニーであふれてた | 
+en	[woman] It must've been | especially painful for Sandy, | 
+ar	&rlm;‏‏لا بد أن الأمر كان مؤلماً بشكل خاص، | &rlm;‏لأن صور "كورتني كلارك" كانت في كل مكان.‏ | 
+da	Det må især have været svært, fordi Courtney Clarke var overalt. 
+el	Πρέπει να ήταν πολύ οδυνηρό, γιατί η Κόρτνι Κλαρκ βρισκόταν παντού. 
+fi	Se oli varmasti tuskallista, koska Courtney Clarke näkyi kaikkialla. 
+fr	C'était d'autant plus dur à vivre que Courtney était partout. 
+he	&rlm;‏‏זה בטח היה כואב במיוחד | &rlm;‏כי קורטני קלארק הייתה בכל מקום.‏ | 
+it	Per Sandy dev'essere stato molto doloroso, perché Courtney era ovunque. 
+no	Det må ha vært spesielt vondt fordi Courtney Clarke var overalt. 
+pl	Musiało mu być ciężko, bo Courtney Clarke była wszędzie. 
+pr-br	Deve ter sido duro, pois Courtney Clarke estava por toda parte. 
+pr	Deve ter sido muito doloroso porque a Courtney estava em todo o lado. 
+ro	A fost foarte dureros pentru Sandy, deoarece Courtney Clarke era peste tot. 
+sp	Debió ser doloroso, porque Courtney Clarke estaba en todas partes. 
+sp-eu	Debió de ser especialmente doloroso porque Courtney Clarke era omnipresente. 
+sv	Det måste ha varit extra smärtsamt, för Courtney Clarke var överallt. 
+th	มันต้องเจ็บน่าดูเป็นพิเศษ | เพราะมีคอร์ทนี่ย์ คลาร์กอยู่ทุกที่ | 
+tr	Bilhassa acı verici olmalıydı, çünkü Courtney Clarke her yerdeydi. 
+vi	Hẳn là phải đau đớn lắm, | vì Courtney Clarke xuất hiện khắp nơi. | 
+zh-long	對山迪來說一定很痛苦 畢竟寇妮無所不在 
+zh-short	这肯定特别难受 考特尼克拉克无处不在 
+nl	Het was nog pijnlijker omdat Courtney Clarke overal was. 
+ko	특히 더 힘들었을 거예요 | 코트니는 어디서든 보였으니까요 | 
+en	because Courtney Clarke was everywhere. | 
+id	karena Courtney Clarke ada di mana-mana. 
+ru	потому что Кортни Кларк была везде. 
+

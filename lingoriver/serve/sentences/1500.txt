@@ -1,0 +1,23 @@
+ar	&rlm;‏ألا تراه يتكلم؟‏ | 
+da	Kan man se, han taler? 
+el	Δε φαίνεται ότι μιλάει; 
+en	[woman] You don't see him talking? | 
+fi	Huomaako puheen? 
+he	&rlm;‏לא רואים אותו מדבר?‏ | 
+it	Non si nota che parla? 
+ko	말하는 게 안 보여요? | 
+nl	Hoor je hem niet praten? 
+pl	Widać, jak mówi? 
+pr-br	Não o vê falar? 
+pr	Não se vê a falar? 
+ro	Nu se vede când vorbește? 
+sp-eu	¿Se le ve mover los labios? 
+sp	¿No se ve cuando habla? 
+tr	Konuştuğu görünmüyor mu? 
+vi	Anh không biết anh ta nói à? | 
+zh-long	你看不出來他在講話嗎？ 
+zh-short	你没看见他讲话的样子吗？ 
+id	- Dia... - Kau tak melihatnya? 
+ja	そりゃ少しは | 唇が動くのが見えるが― | 
+th	เห็นเขาพูดใช่ไหม | 
+

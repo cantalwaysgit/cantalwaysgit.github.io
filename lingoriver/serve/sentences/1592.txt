@@ -1,0 +1,27 @@
+ru	-Можно? -Это мой день. Давай. 
+id	- Baik-baik saja? - Ini hariku. Ayo. 
+ar	&rlm;‏‏- هل أنت بخير؟ | &rlm;‏- هذا يومي. هيا.‏ | 
+da	-Er du okay? -Det er min dag nu. 
+el	-Είσαι εντάξει; -Δική μου μέρα είναι. Έλα. 
+en	-You're okay with it? [laughs] | -Oh, it's my day now. Come on. | 
+fi	-Onko hyvä? -Minun päiväni. 
+fr	- Ça va ? - C'est ma journée. 
+he	&rlm;‏‏את בסדר? | &rlm;‏-זה היום שלי עכשיו. קדימה.‏ | 
+it	- Stai bene? - È la mia giornata. Dai. 
+ko	- 괜찮아? | - 제가 즐기는 날이잖아요 | 
+nl	Gaat het? -Nu is het mijn dag. 
+no	-Går det bra? -Nå er det min dag. 
+pl	- W porządku? - Mój dzień, ja decyduję. 
+pr-br	-Tudo bem? -Hoje é meu dia. Vamos. 
+pr	- Estás bem? - É o meu dia. Vá lá. 
+ro	- Te simți bine? - E ziua mea acum. Hai! 
+sp	- ¿Estás bien? - Es mi día. Vamos. 
+sp-eu	- ¿Estás bien? - Es mi día. Vamos. 
+sv	Det är min dag nu. Kom igen. 
+th	- คุณโอเคไหม | - วันนี้วันของฉัน มาสิ | 
+tr	-İyi misin? -Şimdi benim günüm oldu. Hadi. 
+vi	- Cô ổn chứ? | - Ngày của tôi mà. Nào. | 
+zh-long	-妳還好嗎？ -今天我說了算，快點 
+zh-short	-你没事吧？ -今天要听我的 来吧 
+ja	私が主役よ | 
+

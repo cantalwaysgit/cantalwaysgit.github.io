@@ -1,0 +1,27 @@
+ar	&rlm;‏‏لكن عندما تمكنت من التحدث إليهم، | &rlm;‏قالوا إنهم اختاروا ممثلة.‏ | 
+da	Men da de tog telefonen, sagde de nej tak. 
+el	Όταν μίλησα μαζί τους, μου είπαν ότι σε απέρριψαν. 
+en	But when they... they got on the phone, | they told me they passed on you. | 
+fi	Kun pääsin lopulta läpi, he sanoivat, ettei sinua valittu. 
+fr	Mais après, ils m'ont dit que t'avais pas été retenue. 
+he	&rlm;‏אבל כשהם ענו לטלפון, הם אמרו לי שהם ויתרו.‏ | 
+it	Ma poi mi hanno risposto che non ti avevano scelto. 
+nl	Maar toen ik ze sprak, zeiden ze dat ze je niet namen. 
+no	Men da de svarte, takket de nei. 
+pl	A kiedy już odpowiedzieli, odmówili. 
+pr-br	Mas, quando atenderam, disseram que tinham passado para outra. 
+pr	Mas quando atenderam, disseram que te tinham recusado. 
+ro	Dar, când au răspuns, au zis că te-au refuzat. 
+sp-eu	Pero cuando se pusieron, me dijeron que pasaban. 
+sp	Pero cuando atendieron, me dijeron que no te habían elegido. 
+sv	Men när de äntligen svarade, sa de att de tackade nej. 
+th	แต่พอมาพูด พวกเขาบอกว่าขอผ่าน | 
+tr	Nihayet telefona çıktıklarında da vazgeçtiklerini söylediler. 
+vi	Nhưng khi trả lời điện thoại, | họ bảo họ chuyển người khác rồi. | 
+zh-long	等他們拿起電話 他們說找到人了 
+zh-short	可之后他们说你没选上 
+id	Saat mereka bicara kembali, mereka melewatkan dirimu." 
+ja	その後 担当者が | “今回は不採用”と | 
+ru	А потом перезвонили и сказали «нет». 
+ko	그러다가 전화를 받고는 | 다른 사람을 택했다고 했어 | 
+

@@ -1,0 +1,27 @@
+sv	Ja, hon klarar sig bra. 
+ar	&rlm;‏إنها تقوم بعمل رائع.‏ | 
+da	Ja, hun klarer det godt. 
+el	Τα πάει περίφημα. 
+fi	Hänellä menee hienosti. 
+fr	Elle fait un tabac. 
+he	&rlm;‏כן, הולך לה טוב.‏ | 
+it	Sta andando alla grande. 
+no	Ja, hun gjør det bra. 
+pl	Nieźle sobie radzi. 
+pr-br	Sim, ela está indo bem. 
+pr	Sim, ela está ótima. 
+ro	Da, se descurcă minunat. 
+sp-eu	Sí, le va muy bien. 
+sp	Sí, le está yendo bien. 
+th	ใช่ เธอไปได้ดี | 
+tr	Evet, çok iyi gidiyor. 
+vi	Phải, cô ấy đang làm rất tốt. | 
+zh-long	她很棒 
+zh-short	是啊 她的确很棒 
+ru	Да, она молодец. 
+en	Yeah, she's doing great. Uh... | 
+nl	Ja, ze doet het geweldig. Maar we werken niet meer samen. 
+ja	よくやってるよ | もう僕とは組んでないんだ | 
+id	Ya, dia baik-baik saja. 
+ko	코트니가 잘하고 있네 | 
+

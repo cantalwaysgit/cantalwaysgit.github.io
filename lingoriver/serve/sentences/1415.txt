@@ -1,0 +1,27 @@
+id	Dia akan menjadi peserta pesta nomor satu. 
+ar	&rlm;‏ستكون مرتادة الحفلة الأولى.‏ | 
+da	Hun bliver partypige nummer et. 
+el	Θα υποδυθεί την Καλεσμένη νο 1. 
+fi	Hän on Juhlija numero yksi. 
+fr	Première figurante de la fête. 
+he	&rlm;‏היא תהיה חיית מסיבות מספר אחת.‏ | 
+it	È l'invitata numero uno. 
+nl	Ze speelt Feestganger nummer één. 
+no	Hun skal være Gjest nummer én. 
+pl	Będzie Uczestnikiem Przyjęcia Nr Jeden. 
+pr-br	Ela vai ser a baladeira número um. 
+pr	Será a Convidada Número Um. 
+ro	Ea va fi Petrecăreața Numărul Unu. 
+sp-eu	Hace de invitada número uno. 
+sp	Hará de invitada número uno. 
+sv	Hon är festdeltagare nummer ett. 
+th	เป็นคนไปงานปาร์ตี้ลำดับหนึ่ง | 
+tr	Bir Numaralı Parti Konuğu'nu oynayacak. 
+vi	Cô ấy sẽ là Người Dự Sự Kiện Số Một. | 
+zh-long	她是派對賓客一號 
+zh-short	她可是头号派对狂 
+en	-She'll be Partygoer Number One. | -[laughs] Yeah, that's the lead. | 
+ja	パーティー客の役だ | 
+ru	Играет Гостью №1. 
+ko	파티광1 역할이야 | 
+

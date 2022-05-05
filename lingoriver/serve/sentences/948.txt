@@ -1,0 +1,27 @@
+ja	数年前 クインシーの祖母が | 彼のことを― | 
+id	Dulu aku pernah bertemu neneknya di Hamburger Hamlet. 
+ru	Я как-то встретил его бабушку в гамбургерной. 
+ar	&rlm;‏‏قابلت جدته قبل سنوات عديدة | &rlm;‏في مطعم "هامبرغر هاملت".‏ | 
+da	Jeg mødte hans bedstemor for år tilbage på en Hamburger Hamlet. 
+el	Πριν από χρόνια, είχα γνωρίσει τη γιαγιά του σ' ένα χαμπουργκεράδικο. 
+en	You know, I met his grandmother | years ago at a Hamburger Hamlet. | 
+fi	Tapasin hänen isoäitinsä vuosia sitten Hamburger Hamletissa. 
+fr	J'ai rencontré sa grand-mère il y a des années dans un fast-food. 
+he	&rlm;‏‏את יודעת, פגשתי את סבתא שלו | &rlm;‏לפני שנים במסעדת המבורגרים.‏ | 
+it	Anni fa ho conosciuto sua nonna da Hamburger Hamlet. 
+nl	Ik ontmoette zijn oma jaren terug in een Hamburger Hamlet. 
+no	Jeg traff bestemoren hans på en Hamburger Hamlet. 
+pl	Lata temu w Hamburger Hamlet poznałem jego babcię. 
+pr-br	Eu conheci a avó dele anos atrás em uma lanchonete. 
+pr	Eu conheci a avó dele há anos num Hamburger Hamlet. 
+ro	Să știi că i-am cunoscut bunica la un restaurant, cu ani în urmă. 
+sp	Conocí a su abuela hace años en Hamburger Hamlet. 
+sp-eu	Conocí a su abuela hace años en un Hamburger Hamlet. 
+sv	Jag mötte hans mormor för flera år sen på Hamburger Hamlet. 
+th	รู้ไหม ผมเจอยายของเขานานมาแล้ว | ที่แฮมเบอร์เกอร์แฮมเลต | 
+tr	Yıllar önce büyükannesini Hamburger Hamlet'te görmüştüm. 
+vi	Tôi gặp bà của cậu ta cách đây vài năm | ở một nhà hàng Hamburger Hamlet. | 
+zh-long	我幾年前在哈姆雷特漢堡店 遇見他阿嬤 
+zh-short	我几年前在哈姆雷特汉堡酒吧 遇到了他外婆 
+ko	몇 년 전 햄버거 햄릿에서 | 존지 할머니를 만났어 | 
+

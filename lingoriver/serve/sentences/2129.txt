@@ -1,0 +1,25 @@
+ar	&rlm;‏الوقوف في الخارج في ليالي الافتتاح‏ | 
+da	Ligeså at opleve publikumssuset 
+el	Να στέκεσαι μπροστά στις πρεμιέρες 
+en	♪ Standing out in front | On opening nights ♪ | 
+fi	Ensi-iltaa kadulla odottaa 
+fr	Attendre sur le trottoir Avant les premières 
+he	&rlm;‏לעמוד על הבמה בערבי בכורה‏ | 
+it	Salire sul palco il giorno della prima 
+ko	개봉일에 돋보이기 | 
+pl	Na premierach kłaniasz się 
+pr-br	Apresentar-se em lançamentos 
+pr	Estar lá à frente nas noites de estreia 
+ro	Să te remarci cu ocazia premierelor 
+ru	Стоять на сцене в вечер премьеры 
+sp	Esperar en la puerta la noche del estreno 
+sp-eu	Plantarme en el escenario En las noches de estreno 
+sv	Att stå längst fram på premiären 
+th	ยืนตรงหน้าโรงในคืนปฐมทัศน์ | 
+tr	Açılış gecesi durursun dışarıda 
+vi	Nổi bật trong những đêm mở màn | 
+zh-long	開場之夜大放異彩 
+zh-short	开演之夜引人注目 
+id	Berdiri di depan saat malam pembukaan 
+ja	オープニングの夜は | 　　　　　　　　大注目 | 
+

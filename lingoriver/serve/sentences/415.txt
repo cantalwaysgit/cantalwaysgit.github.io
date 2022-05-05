@@ -1,0 +1,27 @@
+el	Εντάξει. Για να δούμε. 
+fi	No niin. 
+id	Baiklah. Coba perlihatkan. 
+ko	좋아요, 한번 볼까요? | 
+no	Ok. Vis meg. 
+pl	OK. Podnieś. 
+ru	Так. Посмотрим. 
+th	โอเค ขอดูหน่อย | 
+tr	Pekâlâ. Görelim. 
+da	Lad os se det. 
+ar	&rlm;‏حسناً. لنراه.‏ | 
+en	[Yuri] Okay. Let's see it. | 
+fr	Allez, prends la pose. 
+he	&rlm;‏בסדר. בואי נראה את זה.‏ | 
+it	Bene. Vediamo un po'. 
+nl	Oké. Toe maar. 
+pr-br	Certo. Vamos ver. 
+pr	Muito bem. Mostra. 
+sp	Bien. Veamos. 
+sp-eu	Vale. Vamos a ver. 
+sv	Nu ska vi se. 
+vi	Được rồi. Xem nào. | 
+zh-long	好，給我個姿勢 
+zh-short	好的 我看看 
+ro	Bine. Să vedem! 
+ja	じゃあ撮るよ | 
+

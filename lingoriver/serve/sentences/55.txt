@@ -1,0 +1,58 @@
+id	Aku di mana? 
+ar	&rlm;‏‏أين أنا؟ في مكتب "جول سيلفر" الآن، | &rlm;‏نتحدث عنك.‏ | 
+da	Hvor er jeg? På Joel Silvers kontor, og vi taler om dig. 
+el	Πού είμαι; Στο γραφείο του Τζόελ Σίλβερ και συζητάω για εσένα. 
+en	Where am I? I'm in Joel Silver's office | right now, talking about you. | 
+fi	Missäkö olen? Joel Silverin toimistolla puhumassa sinusta. 
+fr	Je suis où ? Avec Joel Silver, on parle de toi. 
+he	&rlm;‏‏איפה אני? אני מדבר עליך כרגע | &rlm;‏במשרד של ג'ואל סילבר.‏ | 
+it	Dove sono? Nell'ufficio di Joel Silver e sto parlando di te. 
+ko	어디냐고요? 지금 조엘 실버 | 사무실에서 당신 얘기 중이에요 | 
+nl	Ik ben in Joel Silvers kantoor en praat over jou. 
+pl	Gdzie jestem? W gabinecie Joela Silvera. Właśnie o tobie rozmawiamy. 
+pr-br	Onde estou? Estou no escritório de Joel Silver, falando de você. 
+pr	Onde estou? Estou no escritório do Joel Silver a falar sobre ti. 
+ro	Unde sunt? Sunt în biroul lui Joel Silver și vorbeam despre tine. 
+ru	Где я? У Джоэла Сильвера, говорю с ним о тебе. 
+sp	¿Dónde estoy? En la oficina de Joel Silver, hablando de ti. 
+sp-eu	¿Dónde estoy? En el despacho de Joel Silver, hablando sobre ti. 
+sv	Var jag är? Jag är på Joel Silvers kontor och pratar om dig. 
+th	ผมอยู่ไหนเหรอ ตอนนี้คุยเรื่องคุณ | อยู่ที่ออฟฟิศโจเอล ซิลเวอร์ | 
+tr	Nerede miyim? Şu anda Joel Silver'ın ofisindeyim, senden söz ediyoruz. 
+vi	Tôi đang ở đâu á? Tôi ở văn phòng | của Joel Silver, đang nói về cậu. | 
+zh-long	我在哪？我在喬西佛辦公室 正跟他聊到你 
+zh-short	我在哪儿？我现在正在约尔西尔维的 办公室里说起你呢 
+ja	今どこかって？ | Ｊ･シルヴァーの事務所さ | 
+no	Hvor er jeg? På Joel Silvers kontor og snakker om deg. 
+id	Aku sedang di kantor Joel Silver, membicarakan dirimu. 
+
+es	Cielos, ¿qué no te gusta? 
+fi	Mistä et muka pidä? | 
+en	God. What don't you like? 
+el	Έλεος. Τι δεν σ' αρέσει; 
+sv	Men gud, vad gillar du inte? 
+ru	Господи, да что не так? 
+cs	Ježiši, co se ti nelíbí? 
+da	Mand. Hvad er dit problem? | 
+es-eu	¿Qué no te gusta? 
+fr	Qu'est-ce que tu veux ? 
+he	‫מה הבעיה שלך?‬ | 
+hr	Isuse. Što ti se ne sviđa? 
+hu	Mi van? Mi nem tetszik? 
+id	Astaga. Apa yang tak kau suka? 
+it	Cavolo, cosa c'è che non va? 
+ja	&lrm;ねえ 私のこと嫌い？ | 
+ko	&lrm;대체 뭐가 그렇게 싫은데? | 
+ms	Aduhai. Apa yang awak suka? 
+nl	Jezus, wat is je probleem? 
+no	Jøss. Hva liker du ikke? 
+pt-br	O que foi? Não gostou de algo? 
+pt	Caramba. Mas não gostas do quê? 
+ro	Doamne! Ce nu-ți place? 
+th	&lrm;โธ่ ไม่ชอบอะไรบ้างเนี่ย | 
+tr	Tanrım, ne var? 
+uk	Боже. Що тобі не подобається? 
+vi	&lrm;Trời ạ. Có gì bạn không thích chứ? | 
+zh-long	天啊，你不喜歡什麼？ 
+zh-short	天啊 你不喜欢什么？ 
+

@@ -1,0 +1,27 @@
+id	Tidak. Dia bilang tidak. Maaf. 
+ja	イヤだと言ってる　ごめん | 
+ru	Нет. Он против. Извини. 
+ar	&rlm;‏لا. يقول لا. آسف.‏ | 
+da	Nej, han siger nej. Beklager. 
+el	Όχι. Αρνείται. Με συγχωρείς. 
+en	No. He says no. He said... I'm sorry. | 
+fi	Hän sanoo ei. Olen pahoillani. 
+fr	Non. Il dit non. Désolé. 
+he	&rlm;‏לא. הוא אומר לא. אני מצטער.‏ | 
+it	Ha detto di no. Mi dispiace. 
+ko	싫다네요, 미안해요 | 
+nl	Hij zegt nee. Het spijt me. 
+no	Nei. Han sier nei. Beklager. 
+pl	Jemu się to nie podoba. Przykro mi. 
+pr-br	Não. Ele disse que não. Sinto muito. 
+pr	Ele diz que não. Lamento. 
+ro	Nu. Refuză. Îmi pare rău. 
+sp-eu	No. Dice que no. Lo siento. 
+sp	No. Dice que no. Lo siento. 
+sv	Han säger nej. Jag är ledsen. 
+th	ไม่ได้ เขาบอกว่าไม่ ผมเสียใจ | 
+tr	Hayır. Hayır diyor. Kusura bakma. 
+vi	Không. Ông ấy bảo không. Tôi xin lỗi. | 
+zh-long	不行，他說不要，對不起 
+zh-short	不 他说不要 抱歉 
+

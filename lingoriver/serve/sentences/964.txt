@@ -1,0 +1,77 @@
+id	- Apa? - Dia? 
+ar	&rlm;‏‏- ماذا؟ | &rlm;‏- هي؟‏ | 
+da	-Hvad? -Hun? 
+el	-Τι; -Αυτή; 
+fi	-Mitä? -Hänkö? 
+fr	- Quoi ? - Elle ? 
+he	&rlm;‏‏מה? | &rlm;‏-היא?‏ | 
+it	- Cosa? - Lei? 
+pr-br	-Quê? -Ela? 
+pr	- O quê? - Ela? 
+ro	- Poftim? - Ea? 
+sp-eu	- ¿Qué? - ¿Ella? 
+sp	- ¿Qué? - ¿Ella? 
+sv	-Vadå? -Hon? 
+tr	-Ne? -O mu? 
+vi	- Gì cơ? | - Cô ấy à? | 
+zh-long	-什麼？ -她？ 
+zh-short	-什么？ -她？ 
+ko	- 네? | - 이분이요? | 
+en	-What? | -She? Oh! | 
+no	-Hva? -Hun? 
+pl	- Co? - Ona? 
+ru	-Что? -Она? 
+th	- อะไรนะ | - เธอรึ | 
+ja	君！ 大ファンだよ | アーセニオだ | 
+sv	Jag är ett stort fan. Jag är Arsenio. 
+el	Είμαι θαυμαστής σου. Είμαι ο Αρσένιο. 
+ko	왕 팬이에요 | 전 아세니오예요 | 
+id	Aku penggemar beratmu. Aku Arsenio. 
+pl	Arsenio. Jestem twoim fanem. 
+ru	Я ваш поклонник. Арсенио. 
+ar	&rlm;‏أنا معجب جداً بك. أنا "آرسينيو".‏ | 
+da	Jeg er stor fan. Arsenio. 
+en	I'm a huge fan. I'm Arsenio. | 
+fi	Olen ihailijasi. Arsenio. 
+fr	J'adore ce que tu fais. Arsenio. 
+he	&rlm;‏אני מעריץ גדול. אני ארסיניו.‏ | 
+it	Sono un tuo grande fan. Sono Arsenio. 
+nl	Ik ben een fan. Ik ben Arsenio. 
+pr-br	Sou um grande fã. Meu nome é Arsenio. 
+pr	Sou um grande fã. Chamo-me Arsenio. 
+ro	Sunt un mare admirator. Sunt Arsenio. 
+sp-eu	Soy un gran admirador. Soy Arsenio. 
+sp	Soy un gran admirador. Soy Arsenio. 
+th	ผมเป็นแฟนตัวยงของคุณ | ผมอาเซนนิโอ | 
+tr	Hayranınım. Adım Arsenio. 
+vi	Tôi rất hâm mộ cô. Tôi là Arsenio. | 
+zh-long	我是妳的粉絲，我是阿塞尼奧 
+zh-short	我是铁粉 阿塞尼奥 
+no	-Jeg er en stor fan. Jeg er Arsenio. -Jeg vet det, Arsenio. Courtney. 
+id	Aku tahu, Arsenio. Courtney. 
+ja	知ってるわ　コートニーよ | 
+ru	Я знаю, Арсенио. 
+ar	&rlm;‏أعلم يا "آرسينيو". أنا "كورتني".‏ | 
+da	Det ved jeg, Arsenio. Courtney. 
+el	Το ξέρω, Αρσένιο. Είμαι η Κόρτνι. 
+en	I know, Arsenio. Courtney. | 
+fi	Tiedän, kuka olet. Courtney. 
+fr	Je sais, Arsenio. Courtney. 
+he	&rlm;‏אני יודעת, ארסיניו. קורטני.‏ | 
+it	Ti conosco, Arsenio. Courtney. 
+ko	당연히 누구신지 알죠  | 전 코트니예요 | 
+nl	Ik weet het, Arsenio. Courtney. 
+pl	Cześć, jestem Courtney. 
+pr-br	Eu sei, Arsenio. Courtney. 
+pr	Eu sei, Arsenio. Courtney. 
+ro	Știu, Arsenio. Courtney. 
+sp-eu	Lo sé, Arsenio. Courtney. 
+sp	Ya sé, Arsenio. Courtney. 
+sv	Jag vet, Arsenio. Courtney. 
+th	ฉันรู้ อาเซนนิโอ คอร์ทนี่ย์ค่ะ | 
+tr	Biliyorum Arsenio. Courtney. 
+vi	Tôi biết, anh Arsenio. Tôi là Courtney. | 
+zh-long	我知道，阿塞尼奧，我是寇妮 
+zh-short	我知道 阿塞尼奥 考特尼 
+ru	Кортни. 
+

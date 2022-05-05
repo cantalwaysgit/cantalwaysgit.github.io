@@ -1,0 +1,27 @@
+ar	&rlm;‏حسناً. تعال. لنغسل هذه.‏ | 
+da	Kom så. Lad os få dem vasket. 
+el	Εντάξει. Έλα να τα πλύνουμε. 
+en	All right. Come on. | Let's get these washed. | 
+fi	Pestään nämä. 
+fr	Bon. Je vais le mettre à la machine. 
+he	&rlm;‏בסדר. קדימה. בוא נכבס אותם.‏ | 
+it	Bene. Diamogli una lavata. 
+nl	We gaan hem wassen. 
+pl	Chodźmy je uprać. 
+pr-br	Está bem. Vamos lavar isso. 
+pr	Muito bem. Anda. Vamos pôr isto a lavar. 
+ro	Bine. Hai să punem astea la spălat. 
+sp	Bien. Vamos a lavarlos. 
+sp-eu	Vale. Venga. Vamos a lavarlos. 
+sv	Okej, nu får vi dem tvättade. 
+th	เอาละ เอานี่ไปซักกัน | 
+tr	Pekâlâ. Hadi gel. Yıkayalım şunları. 
+vi	Được rồi. Mang chúng đi giặt nào. | 
+zh-long	好，來洗衣服吧 
+zh-short	行了 来吧 把这些洗了 
+id	Baiklah. Ayo. Mari kita cuci ini. 
+ru	Хорошо. Давай их постираем. 
+ko	알았어요, 그럼 빨러 가요 | 
+ja	じゃ洗ってくるわね | 
+no	Ja vel. Da vasker vi dem. 
+

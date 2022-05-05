@@ -1,0 +1,50 @@
+id	Orang bisa mati karena ceguk. Saat itu, aku ketakutan. 
+ar	&rlm;‏قد يموت المرء من الحازوقات. شعرت بالذعر.‏ | 
+da	Man kan dø af at hikke. Jeg var skrækslagen 
+el	Μπορείς να πεθάνεις από λόξυγγα. Είχα τρομοκρατηθεί. 
+en	Uh, you can die from hiccups. | I was terrified. | 
+fr	On peut en mourir, tu sais. J'ai eu peur pour toi. 
+he	&rlm;‏אפשר למות משיהוקים. פחדתי כל כך.‏ | 
+it	Si può morire per il singhiozzo. Ero terrorizzato. 
+ko	딸꾹질하다가 죽을 수도 있거든 | 그때 정말 놀랐었지 | 
+nl	Je kunt doodgaan aan de hik. Ik was doodsbang. 
+no	Man kan dø av hikke. Jeg var vettskremt. 
+pl	Od czkawki można umrzeć. Byłem przerażony. 
+pr-br	Soluço pode ser fatal. Eu estava apavorado. 
+pr	E pode-se morrer com soluços. Eu estava apavorado. 
+ro	Se poate muri de la sughițat! Am fost îngrozit. 
+ru	От икоты можно умереть. Я был в ужасе. 
+sp-eu	Te puedes morir de un ataque de hipo. Me tenía aterrado. 
+sv	Man kan dö av att hicka. Jag var livrädd. 
+th	อาจตายจากการสะอึกก็ได้ ผมตกใจมาก | 
+tr	İnsan hıçkırıktan ölebilir. Çok korkmuştum. 
+vi	Có thể chết vì nấc đấy. Tôi rất sợ. | 
+zh-long	打嗝也是會死人的，嚇死我了 
+zh-short	打嗝可能会死人 我吓坏了 
+sp	Uno se puede morir de hipo. Estaba aterrado. Me preocupaba mucho. 
+fi	Hikkaan voi kuolla. Se oli oikeasti huolestuttavaa. 
+ja	しゃっくりで | 死ぬんじゃないかと心配した | 
+id	Aku khawatir. 
+ru	Я правда за него боялся. 
+ar	&rlm;‏كنت قلقاً في الواقع.‏ | 
+da	og bekymret. 
+el	Είχα ανησυχήσει. 
+en	I was actually concerned. | 
+fr	J'étais inquiet. 
+he	&rlm;‏למעשה הייתי מודאג.‏ | 
+it	Ero veramente preoccupato. 
+ko	진짜 걱정했어 | 
+nl	Ik was echt bezorgd. 
+no	Jeg var faktisk bekymret. 
+pl	Naprawdę się martwiłem. 
+pr-br	Fiquei muito preocupado. 
+pr	Estava mesmo preocupado. 
+ro	Chiar mi-am făcut griji. 
+sp-eu	Me preocupaba de verdad. 
+sv	Jag var faktiskt orolig. 
+th	ผมเป็นห่วงจริงๆ | 
+tr	Gerçekten endişelenmiştim. 
+vi	Tôi thực sự lo lắng. | 
+zh-long	我真的很擔心 
+zh-short	我非常担心 
+

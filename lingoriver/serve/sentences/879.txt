@@ -1,0 +1,27 @@
+ja	Ｓ･スマイリーが | 特番で俺を使わないって？ | 
+ru	Стю Смайли не взял меня в «Молодых комиков». 
+id	Stu Smiley tidak memilihku untuk Young Comedians Special. 
+ar	&rlm;‏‏نجح "ستو سمايلي" | &rlm;‏ببرنامج "كوميديانز سبيشال".‏ | 
+da	Stu Smiley gav mig ikke Comedians Special. 
+el	Ο Στου Σμάιλι με έκοψε από τους Ανερχόμενους Κωμικούς. 
+en	Stu Smiley passed on me | for the Young Comedians Special. | 
+fi	Stu Smiley pääsi Comedians Specialiin. 
+fr	Stu Smiley ne m'a pas retenu pour son émission spéciale. 
+he	&rlm;‏סטו סמיילי ויתר על ה"קומדיאנס ספיישל".‏ | 
+it	Stu Smiley è stato scelto per il Comedians Special. 
+nl	Stu Smiley mag de Comedians Special doen. 
+pr-br	Stu Smiley passou para o  Comedians Special. 
+pr	O Stu Smiley não me deixou entrar no Especial de Comediantes. 
+ro	Stu Smiley n-a vrut să mă invite la  Comedians Special. 
+sp-eu	Stu Smiley ha pasado de mí para el Especial Cómicos Jóvenes. 
+sp	Stu Smiley no me aceptó para el  Especial de comediantes . 
+th	สตู สไมลี่ผ่านเข้ารอบ | คอมีเดียนส์สเปเชียล | 
+tr	Stu Smiley beni Genç Komedyenler'e kabul etmemiş. 
+vi	Stu Smiley trúng Chương trình | Danh hài Đặc biệt rồi đấy. | 
+zh-long	史都史麥利沒選我演 《喜劇演員新血特輯》 
+zh-short	斯图斯迈利进了年轻喜剧人剧团 
+no	Stu Smiley sa nei til meg i Comedians Special. Helt utrolig. 
+sv	Stu Smiley antogs till Comedian Special. Jag fattar inte. 
+pl	Do Comedians Special wzięli Stu Smileya. Nie wierzę. 
+ko	스투 스마일리가 | 젊은 코미디언 특집을 통과했어 | 
+

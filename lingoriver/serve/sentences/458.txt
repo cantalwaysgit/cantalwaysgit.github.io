@@ -1,0 +1,30 @@
+ja	最高だな | 
+en	Just so good. | 
+ru	Отлично. Вот это бесстрашие! 
+id	Bagus sekali. Tidak kenal rasa takut. Yang terbaik sejauh ini. 
+th	ดีมากเลย พูดเรื่องความกล้า | ดีที่สุดในเมืองเลยนะ | 
+ar	&rlm;‏‏جيدة جداً. إنها لا تخاف.  | &rlm;‏الأفضل في المدينة.‏ | 
+da	Så god. Det kan man kalde frygtløs. Bedste i byen. 
+el	Είναι πολύ καλός. Πραγματικά ατρόμητος. Μακράν ο καλύτερος στην πόλη. 
+fi	Loistavaa. Pelotonta. Kaupungin paras. 
+fr	Super. Quelle audace. Y a pas meilleur dans le coin. 
+he	&rlm;‏‏פשוט כל כך טוב. מדברים על חוסר פחד. | &rlm;‏ללא ספק הכי טוב בעיר.‏ | 
+it	Che bravo. Non ha peli sulla lingua. Di gran lunga il migliore. 
+ko	정말 잘해, 거침이 없다니까 | 이 지역 최고야 | 
+nl	Zo goed. Over onbevreesd gesproken. De beste in de stad. 
+no	Det er så bra. Snakker om fryktløs. Absolutt den beste i byen. 
+pl	Świetny jest. Tylko on ma odwagę o tym mówić. 
+pr-br	Ele é ótimo. Destemido. O melhor da cidade até agora. 
+pr	É excelente. Não tem medo de nada. Não há melhor na cidade. 
+ro	Minunat! Nu simte frica. Nu e nimeni mai bun în oraș. 
+sp	Es muy bueno. Hablando de temerario. El mejor de la ciudad. 
+sp-eu	Qué bueno. Eso es ser temerario. Lo mejor de la ciudad. 
+sv	Han är så bra. Snacka om orädd. Helt klart bäst i stan. 
+tr	Çok iyi. Korkusuz. Kenttekilerin en iyisi. 
+vi	Hay quá. Đúng là không biết sợ. | Hay nhất ở đây đấy. | 
+zh-long	太棒了，很敢講，沒人比得上 
+zh-short	非常棒 一点都不怯场 目前城里最棒的 
+en	Talk about fearless. Best in town by far. | 
+ja	この街で一番 大胆だ | 
+ru	Лучший номер в городе. 
+

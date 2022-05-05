@@ -1,0 +1,27 @@
+ar	&rlm;‏حسناً، ومن هو ذاك الرجل؟‏ | 
+da	Og hvem er ham der? 
+el	Και ποιος είναι αυτός; 
+en	Okay, and who is that guy? | 
+fi	Ja kuka tuo tyyppi on? 
+fr	Et qui c'est, ce gars ? 
+he	&rlm;‏בסדר, ומי זה הבחור הזה?‏ | 
+id	Baiklah, lalu siapa pria itu? 
+it	E quello chi è? 
+ko	그리고 저 남자는 누구예요? | 
+nl	En wie is hij? 
+no	Og hvem er den fyren? 
+pl	I kto to w ogóle jest? 
+pr-br	Certo, e quem é aquele cara? 
+pr	E quem é aquele tipo? 
+ro	Ăla cine e? 
+ru	Так, а вот это кто? 
+sp-eu	Vale, ¿y quién es ese? 
+sp	¿Y quién es ese tipo? 
+sv	Och vem är han? 
+th	โอเค แล้วหมอนั่นเป็นใคร | 
+tr	Pekâlâ, bu adam kim? 
+vi	Còn gã kia là ai? | 
+zh-long	而且那傢伙是誰？ 
+zh-short	好吧 那家伙是谁？ 
+ja	で あいつは誰？ | 
+

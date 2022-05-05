@@ -1,0 +1,27 @@
+id	Dia punya pacar? Karena dia tipeku. 
+ru	У неё кто-то есть? Просто она в моем вкусе. 
+ar	&rlm;‏‏ألديها عشيق؟ | &rlm;‏لأنني أظنها من النوع الذي يناسبني.‏ | 
+da	Har hun en kæreste? For jeg tror, hun er min type. 
+el	Έχει φίλο; Νομίζω ότι είναι ο τύπος μου. 
+en	She got anyone? | 'Cause I think she's my type. | 
+fi	Onko hänellä miestä? Hän on minun tyyppiäni. 
+fr	Elle a un mec ? C'est mon genre, je crois. 
+he	&rlm;‏יש לה מישהו? כי אני חושב שהיא הטיפוס שלי.‏ | 
+it	Sta con qualcuno? È il mio tipo. 
+ko	사귀는 사람 있대요? | 내 스타일인데 | 
+nl	Heeft ze iemand? Want ze is mijn type. 
+no	Har hun noen? For jeg tror hun er min type. 
+pl	Ma kogoś? To dziewczyna w moim typie. 
+pr-br	Ela tem namorado? Acho que ela é o meu tipo. 
+pr	Ela anda com alguém? Porque acho que faz o meu género. 
+ro	Are pe cineva? Cred că e genul meu. 
+sp-eu	¿Sale con alguien? Porque creo que es mi tipo. 
+sp	¿Sale con alguien? Porque creo que es mi tipo. 
+sv	Träffar hon nån? För hon är precis min typ. 
+th	เธอมีใครหรือยัง | เพราะคิดว่าเธอสเปกผม | 
+tr	Biriyle birlikte mi? Tam benim tipim de. 
+vi	Cô ấy có ai chưa? | Vì tôi nghĩ cô ấy hợp với tôi. | 
+zh-long	有男人了嗎？她是我的菜 
+zh-short	她有男朋友了吗？她是我喜欢的类型 
+ja	男はいるのか？ タイプだ | 
+

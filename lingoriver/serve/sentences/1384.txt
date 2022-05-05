@@ -1,0 +1,30 @@
+en	So then they're new... | They're new jokes. | 
+ar	&rlm;‏‏- إنها نكات جديدة إذاً. | &rlm;‏- لا، لكنك ستقدمها بصوتك.‏ | 
+da	-Så er det nye vittigheder. -Nej, du laver dem med din stemme. 
+el	-Άρα θα 'ναι καινούρια αστεία. -Όχι, αλλά θα 'ναι με τη δική σου φωνή. 
+fi	-Sitten ne olisivat uusia vitsejä. -Mutta omalla äänelläsi. 
+fr	- Donc, je fais d'autres blagues. - Non, tu y mets ta voix. 
+he	&rlm;‏‏אז אלה בדיחות חדשות. | &rlm;‏-לא, אבל תספר אותן בקול שלך.‏ | 
+it	- Quindi saranno battute nuove. - No, ma le dirai con la tua voce. 
+nl	Dan zijn het nieuwe grappen. -Maar je doet ze met jouw stem. 
+no	-Da er det nye vitser. -Men du gjør dem med din stemme. 
+pl	- Czyli nowe dowcipy. - Ale swoim głosem. 
+pr-br	-Assim serão novas piadas. -Não, mas as contará do seu jeito. 
+pr	- Então, são piadas novas. - Mas conta-las com a tua voz. 
+ro	- Deci vor fi glume noi. - Dar va fi vocea ta. 
+sp	- Entonces son otros chistes. - No, pero los cuentas con tu voz. 
+sp-eu	- Entonces son chistes nuevos. - No, pero los haces con tu voz. 
+sv	-Då är det nya skämt. -Nej, men du gör dem med din röst. 
+th	- งั้นก็ต้องเป็นมุกใหม่ | - ไม่ใช่ แต่นายพูดด้วยเสียงนาย | 
+tr	-O zaman yeni espri olur. -Ama kendi sesinle yapmış olacaksın. 
+vi	- Vậy thì thành trò mới. | - Không, nhưng kể bằng giọng của anh. | 
+zh-long	-那就是新的笑話 -不是，用你的聲音講 
+zh-short	-那就是新笑话 -不 但是由你讲出来 
+id	Jadi, lelucon baru. 
+ja	それじゃ別物だろ | 
+ru	-Это будут новые шутки. -Но твоими устами. 
+ko	- 그러면 같은 농담이 아니지 | - 하지만 네 목소리로 하잖아 | 
+en	No, but you're doing 'em in your voice. | 
+ja	君の声でやるんだ | 
+id	Bukan, tapi kau melakukannya dengan suaramu. 
+

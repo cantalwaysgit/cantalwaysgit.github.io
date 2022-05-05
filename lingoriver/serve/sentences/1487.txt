@@ -1,0 +1,25 @@
+en	[all chanting] | Courtney! Courtney! Courtney! | 
+id	Courtney! 
+ar	&rlm;‏‏- "كورتني"! | &rlm;‏- اذهبوا واقفزوا في بحيرة!‏ | 
+da	-Courtney! -Hop i havet, gutter! 
+el	-Κόρτνι! Κόρντι! -Πέστε σε καμιά λίμνη, παιδιά! 
+fi	-Courtney! -Hypätkää järveen! 
+he	&rlm;‏‏קורטני! | &rlm;‏-לכו תחפשו מי ינענע אתכם, חבר'ה!‏ | 
+it	- Courtney! - Buttatevi in un lago, ragazzi! 
+ko	- 코트니! | - 꺼져, 이 인간들아! | 
+no	-Courtney! Courtney! -Drit og dra, folkens! 
+pl	- Courtney! - Weźcie idźcie się utopić! 
+pr-br	-Courtney! -Vão catar coquinho, rapazes! 
+pr	- Courtney! - Atirem-se ao lago! 
+ro	- Courtney! - Aruncați-vă în lac, băi! 
+sp	- ¡Courtney! - Vayan a otro lado, amigos. 
+sp-eu	- ¡Courtney! - Tiraos a un lago, amigos. 
+sv	-Courtney! -Stick och brinn! 
+th	- คอร์ทนี่ย์ๆ | - ไปโดดทะเลสาบเลยไป พวกแก | 
+tr	-Courtney! -Başka işiniz yok mu sizin? 
+vi	- Courtney! | - Nhảy xuống hồ đi, mấy anh! | 
+zh-long	-寇妮！ -去跳河吧，死狗仔！ 
+zh-short	-考特尼！ -你们去跳湖吧！ 
+ru	-Кортни! -Идите утопитесь в озере! 
+ja	コートニー　コートニー！ | 
+

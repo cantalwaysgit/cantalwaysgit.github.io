@@ -1,0 +1,27 @@
+id	Baik. Hei, terima kasih mau melakukannya. 
+ja	ああ　ありがとう | 
+ar	&rlm;‏بالتأكيد. شكراً على هذا.‏ | 
+da	Ja, og tak, fordi du gider. 
+el	Φυσικά. Σ' ευχαριστώ που το κάνεις αυτό. 
+en	Sure. Hey, thanks for doing that. | 
+fi	Kiitos. 
+fr	Super. Merci, c'est gentil. 
+he	&rlm;‏בטח. היי, תודה שאת עושה את זה.‏ | 
+it	Certo. Anzi, grazie. 
+nl	Ja. Bedankt dat je dat doet. 
+no	Greit. Takk for at du gjør det. 
+pl	Pewnie. I dzięki. 
+pr-br	Certo. E agradeço por isso. 
+pr	Claro. Obrigado por fazeres isso. 
+ro	Sigur. Mersi că mă ajuți. 
+sp	Claro. Gracias por hacer eso. 
+sp-eu	Claro. Gracias por encargarte. 
+sv	Visst. Tack, för att du gör det. 
+th	ได้เลย ขอบคุณที่ซักให้นะ | 
+tr	Tabii. Bunu yaptığın için sağ ol. 
+vi	Hẳn rồi. Cảm ơn cô đã giặt giúp. | 
+zh-long	好呀，麻煩妳囉 
+zh-short	好的 嘿 谢谢你 
+ru	Конечно. Спасибо тебе. 
+ko	그래, 고마워 | 
+

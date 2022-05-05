@@ -1,0 +1,27 @@
+id	Pintumu terkunci? 
+nl	Zijn je deuren op slot? 
+ru	Дверь заперта? 
+fr	T'as fermé tes portes ? 
+ar	&rlm;‏‏- هل أبوابك مقفلة؟ | &rlm;‏- أجل.‏ | 
+da	-Har du låst dørene? -Ja. 
+el	-Έχεις κλειδώσει τις πόρτες; -Ναι. 
+en	-Are your doors locked? | -Yeah. | 
+fi	-Oletko lukinnut ovet? -Olen. 
+he	&rlm;‏‏הדלתות שלך נעולות? | &rlm;‏-כן.‏ | 
+it	- Ti sei chiusa dentro? - Sì. 
+no	-Er dørene låst? -Ja. 
+pl	- Zamknęłaś drzwi? - Tak. 
+pr-br	-As portas estão trancadas? -Sim. 
+pr	- Tens as portas trancadas? - Sim. 
+ro	- Ușile sunt încuiate? - Da. 
+sp	- ¿Cerraste las puertas? - Sí. 
+sp-eu	- ¿Has cerrado las puertas con pestillo? - Sí. 
+sv	-Är alla dörrar låsta? -Ja. 
+th	- ล็อกประตูหรือเปล่า | - ล็อกแล้ว | 
+tr	-Kapıların kilitli mi? -Evet. 
+vi	- Cô khóa cửa chưa? | - Rồi. | 
+zh-long	-門有鎖好嗎？ -有 
+zh-short	-门都锁了吗？ -锁了 
+ko	- 문은 잠갔어? | - 네 | 
+ja	ドアの鍵は？ | 
+

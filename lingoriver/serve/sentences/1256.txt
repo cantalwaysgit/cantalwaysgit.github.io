@@ -1,0 +1,25 @@
+zh-short	我承诺过你爸会一直以你的利益为先 
+th	ผมสัญญากับพ่อคุณว่า | ผมจะทำสิ่งที่ดีที่สุดให้คุณ | 
+el	Υποσχέθηκα στον πατέρα σου να κάνω το καλύτερο για εσένα. 
+ar	&rlm;‏وعدت والدك أن أفعل الأفضل لك دوماً.‏ | 
+da	Jeg lovede din far, at jeg altid ville gøre det bedste for dig. 
+en	I promised your dad | I'd always do what's best for you. | 
+fr	J'ai promis à ton père de toujours agir dans ton intérêt. 
+he	&rlm;‏‏הבטחתי לאבא שלך | &rlm;‏שאעשה תמיד מה שהכי טוב בשבילך.‏ | 
+it	Ho promesso a tuo padre di fare sempre le scelte migliori per te. 
+no	Jeg lovte faren din å alltid gjøre det som er best for deg. 
+pl	Obiecałem twojemu tacie robić to, co dla ciebie najlepsze. 
+pr-br	Prometi ao seu pai que sempre faria o que fosse melhor para você. 
+pr	Prometi ao teu pai que faria sempre o melhor para ti. 
+ro	I-am promis tatălui tău că voi face mereu ce e mai bine pentru tine. 
+sp-eu	Le prometí a tu padre que siempre haría lo mejor para ti. 
+sp	Le prometí a tu padre que haría lo mejor para ti. 
+sv	Jag lovade din pappa att alltid göra det som är bäst för dig. 
+tr	Babana daima senin için en iyi olanı yapacağıma söz verdim. 
+vi	Tôi đã hứa với bố cô | là sẽ luôn làm điều tốt nhất cho cô. | 
+zh-long	我答應妳爸 會做出對妳最好的決定 
+id	Aku berjanji kepada ayahmu akan kulakukan yang terbaik untukmu. 
+ko	네 아버지께 널 위해 | 최선을 다하겠다고 약속했잖아 | 
+ru	Я обещал твоему папе делать как лучше для тебя. 
+fi	Lupasin isällesi toimia aina sinun parhaaksesi. 
+

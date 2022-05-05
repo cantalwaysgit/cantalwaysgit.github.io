@@ -1,0 +1,26 @@
+id	Tuan Buttons. 
+ja	“ミスター･バトンズ” | 
+ar	&rlm;‏السيد "باتنز".‏ | 
+da	Hr. Buttons." 
+el	Κύριος Μπάτονς. 
+en	Mr. Buttons." | 
+fi	Herra Nappi." 
+fr	Monsieur Boutons." 
+he	&rlm;‏מר כפתורים.‏ | 
+it	Sig. Buttons. 
+ko	미스터 버튼스 | 
+no	Mr. Buttons." 
+pl	Pan Buttons. 
+pr-br	Sr. Botões." 
+pr	Mr. Buttons. 
+ro	Dl Buttons.” 
+sp	El señor Botones". 
+sp-eu	Sr. Botones". 
+sv	...säger mr Buttons." 
+th	คุณบัตตันส์ | 
+tr	Bay Düğme." 
+vi	Ngài Buttons. | 
+zh-long	鈕扣先生上 
+zh-short	巴顿斯先生” 
+ru	Мистер Пуговиц. 
+

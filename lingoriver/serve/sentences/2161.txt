@@ -1,0 +1,51 @@
+en	Kill yourself. | 
+ko	나가 죽어요 | 
+ar	&rlm;‏انتحر.‏ | 
+da	Dræb dig selv. 
+el	Αυτοκτόνα! 
+fr	Va mourir. 
+he	&rlm;‏לך תתאבד.‏ | 
+it	Ammazzati. 
+pr-br	Se mate. 
+pr	Vai-te matar. 
+ro	Omoară-te! 
+sp-eu	Suicídate. 
+sp	Mátate. 
+sv	Gå och dö. 
+th	ฆ่าตัวตายซะ | 
+tr	Geber. 
+vi	Chết đi. | 
+zh-long	去死吧 
+zh-short	你去死吧 
+nl	Maak jezelf van kant. -Dat is genoeg. Ik ga ophangen. 
+ja	くたばれ！ | 
+id	Bunuh dirimu saja. 
+ru	Убей себя! 
+fi	Tapa itsesi. 
+pl	Zabij się. 
+no	-Ta livet av deg. -Nå holder det. Jeg legger på. 
+ja	もういい　分かった | 切るからな | 
+id	Baiklah. Cukup. Akan kututup teleponnya. 
+ru	Ладно, ладно. Всё. Я вешаю трубку. 
+ar	&rlm;‏حسناً. يكفي. سأقطع الاتصال.‏ | 
+da	Så er det nok. Jeg lægger på. 
+el	Εντάξει, αυτό ήταν. Θα κλείσω το τηλέφωνο. 
+en	Okay. Okay, that's it. | I'm hanging up the phone. | 
+fi	Panen nyt luurin kiinni. 
+he	&rlm;‏בסדר. זהו זה. אני מנתק.‏ | 
+it	Bene. Ora basta. Riattacco. 
+ko	알았어, 안 되겠다 | 이만 전화 끊는다 | 
+pl	Dość tego. Odkładam słuchawkę. 
+pr-br	Certo. Basta. Vou desligar o telefone. 
+pr	Pronto. Chega. Vou desligar o telefone. 
+ro	Bine. Până aici! Închid telefonul. 
+sp	Está bien. Se terminó. Voy a cortar. 
+sp-eu	Vale. Se acabó. Voy a colgar el teléfono. 
+sv	Det räcker. Jag lägger på. 
+th	โอเคๆ แค่นั้นนะ ฉันจะวางหูแล้ว | 
+tr	Tamam. Bu kadar yeter. Telefonu kapatıyorum. 
+vi	Được rồi. Đủ rồi. Tôi tắt máy đây. | 
+zh-long	好了，夠了，我要掛電話了 
+zh-short	好吧 够了 我要挂了 
+fr	Ça suffit, je raccroche. 
+

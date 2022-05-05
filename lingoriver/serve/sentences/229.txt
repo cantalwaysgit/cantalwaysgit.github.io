@@ -1,0 +1,57 @@
+ja	信じられない | 
+ru	Потрясающе! 
+ar	&rlm;‏مذهل.‏ | 
+da	Utroligt. 
+el	Απίστευτο. 
+fi	Uskomatonta. 
+fr	Incroyable. 
+he	&rlm;‏לא ייאמן.‏ | 
+it	Incredibile. 
+nl	Ongelooflijk. 
+no	Helt utrolig. 
+pl	Niewiarygodne. 
+pr-br	Inacreditável. 
+pr	Inacreditável. 
+ro	Incredibil! 
+sp-eu	Es increíble. 
+sp	Increíble. 
+sv	Helt otroligt. 
+th	เหลือเชื่อเลย | 
+tr	İnanılmaz. 
+vi	Không thể tin được. | 
+zh-long	太誇張了 
+zh-short	难以置信 
+en	-Unbelievable. | -[girls screaming] | 
+ko	이럴 수가 | 
+id	Sulit dipercaya. 
+
+es	Ahora organizo talleres para jóvenes con problemas. 
+pt-br	Agora, dirijo oficinas para jovens em dificuldades. 
+sv	Och nu hjälper jag ungdomar på glid. 
+hu	Most foglalkozásokat tartok problémás fiataloknak. 
+ru	Сейчас оказываю психологическую помощь молодежи. 
+da	Nu laver jeg workshops | for unge med problemer. | 
+el	Τώρα κάνω εργαστήρια για νέους με προβλήματα. 
+en	Now I run workshops for troubled youth. 
+es-eu	Ahora dirijo talleres para chicos con problemas. 
+fi	Nyt järjestän pajoja nuorille, | joilla on vaikeaa. | 
+fr	J'organise des ateliers pour jeunes en difficulté. 
+he	‫עכשיו אני מנהלת סדנאות לנוער במצוקה.‬ | 
+hr	Sad vodim radionice za problematičnu mladež. 
+id	Kini aku mengelola lokakarya untuk pemuda bermasalah. 
+it	Ora dirigo laboratori per giovani in difficoltà. 
+ja	&lrm;今は悩みを抱える | &lrm;若者たちが相手です | 
+ko	&lrm;지금은 문제아들을 위한 | &lrm;워크숍을 운영해요 | 
+nl	Nu geef ik workshops aan probleemjongeren. 
+no	Nå holder jeg samlinger for ungdom. 
+pt	Agora faço  workshops  para jovens em risco. 
+ro	Acum țin ateliere de dezvoltare personală. 
+th	&lrm;ตอนนี้ฉันทำเวิร์กช็อปสำหรับเด็กมีปัญหา | 
+tr	Şimdi sorunlu gençlere atölyeler düzenliyorum. 
+uk	Тепер влаштовую майстер-класи для проблемної молоді. 
+vi	&lrm;Giờ tôi tổ chức hội thảo | &lrm;cho thanh niên gặp khó khăn. | 
+zh-long	現在我經營問題年少年工作坊 
+zh-short	现在我对感到困扰的 年轻人进行心理辅导 
+ms	Sekarang saya buat bengkel untuk remaja bermasalah. 
+cs	Dnes vedu dílny pro problémovou mládež. 
+

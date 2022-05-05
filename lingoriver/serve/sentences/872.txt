@@ -1,0 +1,27 @@
+id	Peringatan kedua! Firuz tahu segalanya. 
+ru	Второе предупреждение. Я все знаю. 
+ar	&rlm;‏الغلطة الثانية! يعرف "فيروز" كل شيء.‏ | 
+da	Advarsel nummer to! Firuz ved alt. 
+el	Δεύτερη προειδοποίηση! Ο Φαρούζ γνωρίζει τα πάντα. 
+en	Strike two! Firuz knows everything. | 
+fi	Toinen varoitus! Firuz tietää kaiken. 
+fr	Deuxième avertissement ! Firuz entend tout. 
+he	&rlm;‏פסילה שנייה! פיירוז יודע הכול.‏ | 
+it	Secondo avvertimento! Firuz sa tutto. 
+ko	두 번째 경고야 | 퍼루즈는 뭐든지 알아 | 
+nl	Fout twee. Firuz weet alles. 
+no	Andre advarsel! Firuz vet alt. 
+pl	Druga skucha. Firuz wie wszystko. 
+pr-br	Segunda bola fora! Firuz sabe de tudo. 
+pr	Segundo aviso! O Firuz sabe tudo. 
+ro	Abaterea a doua! Firuz știe tot. 
+sp-eu	¡Segundo aviso! Firuz lo sabe todo. 
+sp	¡Segunda advertencia! Firuz sabe todo. 
+sv	Andra varningen! Firuz vet allt. 
+th	ทำผิดครั้งที่สอง ไฟรูซรู้ทุกอย่าง | 
+tr	İkinci hata! Firuz her şeyi bilir. 
+vi	Lần hai! Firuz biết tuốt. | 
+zh-long	兩出局！菲魯茨無所不知 
+zh-short	两振！菲鲁兹无所不知 
+ja	覚えとけ　何もかも見てるぞ | 
+

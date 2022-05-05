@@ -1,0 +1,27 @@
+id	- Tapi kau... - Tidak. 
+pl	- Mówiłeś... - Wcale nie. 
+ar	&rlm;‏‏- لكنك قلت للتو... | &rlm;‏- لا، لم أفعل ذلك.‏ | 
+da	-Du sagde... -Nej. 
+el	-Τώρα είπες... -Όχι, δεν είπα. 
+en	-But you just said-- | -No, I didn't. | 
+fi	-Sanoit juuri... -En sanonut. 
+fr	- Mais vous... - Non. 
+he	&rlm;‏‏אבל בדיוק... | &rlm;‏-לא, אני לא.‏ | 
+it	- Ma hai detto... - Non è vero. 
+nl	Maar je... -Nee, hoor. 
+no	-Men du sa jo... -Nei. 
+pr-br	-Mas acabou de... -Não. 
+pr	- Mas acabaste de... - Não. 
+ro	- Dar ai zis... - Ba nu. N-am zis. 
+sp-eu	- Pero acabas de... - No es verdad. 
+sp	- Pero dijiste... - No, nunca. 
+tr	-Ama sen... -Yok, gitmedim. 
+vi	- Nhưng anh... | - Tôi không nói. | 
+zh-long	-但你剛說… -並沒有 
+zh-short	-可你刚刚… -不 我没有 
+th	- แต่คุณเพิ่ง... | - เปล่า ผมไม่ได้พูด | 
+sv	-Men du sa ju... -Nej då. 
+ru	-Но вы сказали... -Нет. 
+ko	- 하지만 방금... | - 아닌데요 | 
+ja	行ってない | 
+

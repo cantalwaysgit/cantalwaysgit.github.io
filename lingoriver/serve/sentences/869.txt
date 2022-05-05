@@ -1,0 +1,25 @@
+id	Sampai jumpa. 
+ru	Пока. 
+ar	&rlm;‏إلى اللقاء.‏ | 
+da	Farveller. 
+el	Γεια. 
+en	Bye-bye. | 
+fi	Hei hei. 
+he	&rlm;‏ביי ביי.‏ | 
+it	Ciao. 
+ko	안녕히 가세요 | 
+no	Ha det. 
+pl	Pa, pa. 
+pr	Adeus. 
+pr-br	Tchauzinho. 
+ro	Pa! 
+sp	Adiós. 
+sp-eu	Adiós. 
+sv	Hej då. 
+th	ลาก่อน | 
+tr	Güle güle. 
+vi	Tạm biệt. | 
+zh-long	掰掰 
+zh-short	拜拜 
+ja	バイバイ | 
+

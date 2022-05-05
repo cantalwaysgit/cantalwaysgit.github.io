@@ -1,0 +1,26 @@
+pl	Won! 
+ru	Вон! 
+id	Keluar! 
+ja	失せろ！ | 
+ar	&rlm;‏اخرج!‏ | 
+da	Ud! 
+el	Φύγε! 
+en	[Jones] Get out! | 
+fi	Ulos! 
+fr	Dehors ! 
+he	&rlm;‏תסתלק!‏ | 
+it	Vattene! 
+no	Kom deg ut! 
+pr-br	Vá embora! 
+pr	Fora! 
+ro	Ieși! 
+sp-eu	¡Fuera! 
+sp	¡Vete! 
+sv	Försvinn! 
+th	ไปให้พ้น! | 
+tr	Defol! 
+vi	Ra ngoài! | 
+zh-long	出去！ 
+zh-short	出去！ 
+ko	나가! | 
+

@@ -1,0 +1,27 @@
+ja	ここがスタジオＡだ | 
+id	Ini Studio A. 
+ru	Это студия A. 
+ar	&rlm;‏هذا هو الأستديو "أيه".‏ | 
+da	Det her er studie A. 
+el	Αυτό είναι το Στούντιο Α. 
+en	This is Studio A. | 
+fi	Tämä on studio A. 
+fr	Voici le studio A. 
+he	&rlm;‏זה אולפן איי.‏ | 
+it	Questo è lo studio A. 
+ko	여기가 스튜디오 A예요 | 
+nl	Dit is studio A. 
+no	Dette er Studio A. 
+pl	To Studio A. 
+pr-br	Este é o Estúdio A. 
+pr	Este é o Estúdio A. 
+ro	Aici e Studioul A. 
+sp	Este es el Estudio A. 
+sp-eu	Este es el Estudio A. 
+sv	Här är studio A. 
+th	นี่คือสตูดิโอเอ | 
+tr	Burası A Stüdyosu. 
+vi	Đây là Phòng thu A. | 
+zh-long	這是錄音室A 
+zh-short	这是一号录音室 
+

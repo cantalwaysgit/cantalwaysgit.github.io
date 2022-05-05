@@ -1,0 +1,29 @@
+ru	Как у любого, кто знает, что на него сядет вот он. 
+ja	今から顔に座られるんだぞ | 
+en	As good as anybody can feel | 
+id	Sebaik orang mana pun 
+pl	Jak ktoś, kto wie, że on siądzie mu na twarzy. 
+ar	&rlm;‏‏بخير بقدر أي شخص | &rlm;‏يعلم أن ذاك الرجل سيجلس على وجهه.‏ | 
+el	Όσο καλά νιώθει κάποιος που ξέρει ότι θα κάτσει αυτός πάνω του. 
+fi	Niin hyvältä kuin voi tuntua, kun tietää, että äijä istuu naamalle. 
+fr	À ton avis ? Je vais me manger le cul de ce type. 
+he	&rlm;‏‏טוב כמו כל אחד שיודע | &rlm;‏שהבחור הזה הולך לשבת עליו.‏ | 
+it	Come uno che sa che quel tizio gli si siederà addosso. 
+ko	저 남자 엉덩이에 얼굴 깔릴 | 사람 치고는 최고예요 | 
+nl	Als iemand die weet dat hij die vent op z'n gezicht krijgt. 
+pr-br	Tão bem quanto qualquer um que saiba que ele vai sentar na sua cara. 
+pr	Tão bem quanto qualquer outro que sabe que vai ter aquele tipo em cima da cara. 
+ro	Cum s-ar simți oricine care știe că pe fața lui se va așeza ăla. 
+sp	Como cualquiera que sabe que se le sentará encima ese tipo. 
+sp-eu	Todo lo bien que puedo sabiendo que ese tío se me sentará encima. 
+tr	O adamın altında kalacağını bilen biri nasıl olursa öyleyim. 
+vi	Khỏe như người biết rằng | cái gã đó sẽ ngồi lên người mình. | 
+zh-long	就是等著被那傢伙坐臉上的爽感 
+zh-short	跟任何知道会被那个人 坐在自己脸上的人感觉一样好 
+da	Så godt som man kan, når man ved, at ham der skal sidde på en. 
+th	ดีเท่าที่ใครก็ตาม | ที่จะโดนหมอนั่นนั่งทับ | 
+sv	Så bra som man kan må när man vet att han ska sitta på en. 
+no	Så godt som noen kan når de vet at den fyren skal sitte på dem. 
+en	knowing they're about to get | their face sat on by that guy. | 
+id	yang tahu wajahnya akan diduduki oleh orang itu. 
+

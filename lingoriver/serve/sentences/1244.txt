@@ -1,0 +1,27 @@
+ar	&rlm;‏مثل ماذا؟‏ | 
+da	Hvad for eksempel? 
+el	Όπως; 
+en	Like what? | 
+he	&rlm;‏כמו מה?‏ | 
+it	Per esempio? 
+ko	어떤 희생요? | 
+nl	Zoals wat? 
+pr-br	Como o quê? 
+pr	O quê? 
+sp	¿Como cuáles? 
+sp-eu	¿Como qué? 
+sv	Som vadå? 
+zh-long	比如說？ 
+zh-short	怎么说？ 
+ja	犠牲って？ | 
+fr	Lesquels ? 
+id	Seperti apa? 
+no	Som hva da? 
+ru	Например? 
+th	อย่างอะไร | 
+tr	Ne gibi? 
+vi	Như là gì? | 
+fi	Mitä tarkoitat? 
+pl	Jakich? 
+ro	Cum ar fi? 
+

@@ -1,0 +1,83 @@
+id	Jangan konyol. Tentu saja. 
+ru	Ну конечно нет. 
+ar	&rlm;‏‏لا تكوني سخيفة. بالطبع. | &rlm;‏سنحظى بوقت ممتع أيتها الفتاتان.‏ | 
+da	Ja, selvfølgelig. Vi skal nok få det sjovt, børn. 
+el	Τι είναι αυτά που λες; Φυσικά. Θα περάσουμε υπέροχα, παιδιά. 
+en	Oh, don't be silly. Of course. | We're gonna have a good time, guys. | 
+fi	Totta ihmeessä. Vietämme hauskan päivän. 
+fr	Évidemment. On va bien s'amuser. 
+he	&rlm;‏‏איזו שאלה. בוודאי. | &rlm;‏אנחנו הולכים לעשות חיים, בנות.‏ | 
+it	Stai scherzando? Ma certamente. Ci divertiremo un sacco, piccole. 
+ko	물론이지 | 우리 재미있게 놀자 | 
+nl	Natuurlijk. We gaan lol maken. 
+no	Ikke vær dum. Så klart. Vi skal more oss. 
+pl	No pewnie. Będziemy się świetnie bawić. 
+pr-br	Não seja boba. Claro. Nós vamos nos divertir, pessoal. 
+pr	Não sejas tola. É claro. Vamos divertir-nos muito. 
+ro	Cum să nu? Desigur! O să ne distrăm de minune, copii! 
+sp-eu	No seas tonta. Claro que sí. Nos lo vamos a pasar bien. 
+sp	No seas tonta. Claro. La pasaremos bien. 
+sv	Var inte dum. Självklart. Vi ska ha kul. 
+th	พูดบ้าๆ ได้แน่นอน | พวกหนูจะสนุกกันแน่เลย | 
+tr	Saçmalama. Elbette. Çok eğleneceğiz çocuklar. 
+vi	Đừng ngốc vậy. Tất nhiên rồi. | Chúng ta sẽ rất vui vẻ, các bé. | 
+zh-long	別傻了，當然可以 我們會玩得很開心的 
+zh-short	别傻了 当然可以 我们会玩得很高兴的 孩子们 
+ja	もちろん覚えてるよ | 
+
+hu	Aztán hirtelen megnyílt, és azt mondta, 
+es	De repente, se sinceró y dijo 
+id	Tiba-tiba, dia membuka diri dan berkata 
+fi	Yhtäkkiä hän avautui ja sanoi, | 
+it	All'improvviso, si è aperto e ha detto… 
+da	Pludselig åbnede han sig og sagde, | 
+es-eu	Pero entonces se sinceró y dijo 
+fr	D'un coup, il s'est ouvert et a dit 
+he	‫לפתע, הוא נפתח ואמר‬ | 
+hr	Najedanput se otvorio i rekao 
+ja	&lrm;そうと思えば 突然― | 
+ko	&lrm;그러다 갑자기 마음을 열더니 | 
+nl	Ineens zei hij dat hij… 
+no	Plutselig åpnet han seg og sa at 
+pt-br	De repente, ele se abriu e disse 
+pt	De repente, ele desabafou e disse 
+th	&lrm;อยู่ดีๆ เขาก็ระบายออกมาว่า | 
+tr	Sonra birden açıldı. 
+zh-long	突然間，他開口說 
+zh-short	然后他突然敞开了心扉 
+ru	В какой-то момент он открылся и сказал, 
+uk	Раптом він відкрився і сказав, 
+el	Ξαφνικά, ανοίχτηκε και είπε 
+cs	A pak se zničehonic otevřel a řekl, 
+ro	Apoi, din senin, mi s-a confesat 
+ms	Tiba-tiba, dia meluahkan perasaan dan kata 
+en	Suddenly, he opened up and said he was feeling a lot of anger. 
+sv	Men plötsligt öppnade han upp sig och sa att han kände sig arg. 
+vi	&lrm;Đột nhiên, cậu ấy cởi mở và nói | &lrm;cảm nhận được nỗi tức giận của mình. | 
+pt-br	que sentia raiva. 
+hr	da je bijesan. 
+zh-short	说他觉得愤怒 
+es	que sentía su ira. 
+uk	що відчуває гнів. 
+cs	že má v sobě vztek, 
+fi	että hän on vihainen. | 
+ru	что чувствует гнев, 
+el	ότι ένιωθε θυμό. 
+da	at han følte sig vred. | 
+es-eu	que sentía mucha rabia. 
+fr	qu'il était en colère. 
+he	‫שהוא מרגיש את הכעס שלו.‬ | 
+hu	hogy dühöt érez. 
+id	dia bisa merasakan kemarahannya. 
+it	che provava rabbia. 
+ko	&lrm;분노를 느낀다고 했어요 | 
+ms	dia boleh rasa kemarahannya. 
+nl	…zijn woede kon voelen. 
+no	han kunne føle sinne. 
+pt	que sentia a raiva dele. 
+ro	și a zis că simte furie. 
+th	&lrm;เขารู้สึกได้ว่าตัวเองโกรธ | 
+tr	Öfkeli olduğunu söyledi. 
+zh-long	他能感受到他的憤怒 
+ja	&lrm;“怒りを感じる” | 
+

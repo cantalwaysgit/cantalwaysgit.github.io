@@ -1,0 +1,27 @@
+ar	&rlm;‏‏كيف؟ بإفساد فرصتها في الظهور | &rlm;‏في برنامج "آرسينيو"؟‏ | 
+da	Hvordan? Ved at ødelægge hendes chance i  Arsenio? 
+el	Πώς; Με το να χαλάσεις την εμφάνισή της στον Αρσένιο ; 
+en	And how is that? | By screwing up her shot on Arsenio? | 
+fi	Miten? Pilaamalla mahdollisuuden päästä  Arsenioon? 
+fr	Comment ? En lui refusant un passage chez Arsenio ? 
+he	&rlm;‏‏איך? כשאתה דופק את ההופעה שלה | &rlm;‏אצל "ארסיניו"?‏ | 
+id	Lalu bagaimana? Mengacaukan kesempatannya dengan Arsenio? 
+it	E come? Facendole perdere un'apparizione da  Arsenio? 
+ko	어떻게요? ‘아세니오’ | 출연 가능성을 차단한 거요? | 
+nl	Hoe? Door haar kans bij  Arsenio  te verknallen? 
+no	Ved å ødelegge sjansen hennes til  Arsenio? 
+pl	Spławiając Arsenio? 
+pr-br	Como? Estragando o lance dela no  Arsenio? 
+pr	Estragando-lhe a oportunidade de aparecer no  Arsenio? 
+ro	Cum? Distrugându-i șansa de a apărea la  Arsenio? 
+ru	Как? Не дав ей пойти на шоу Арсенио? 
+sp	¿Cómo? ¿Arruinando su aparición en  Arsenio? 
+sp-eu	¿Cómo? ¿Cargándote la posibilidad de salir en  Arsenio? 
+sv	Hur då? Genom att sabba  hennes medverkan hos  Arsenio? 
+th	ยังไง ด้วยการทำให้เธอพลาด | รายการอาเซนนิโองั้นเหรอ | 
+tr	Nasıl?  Arsenio'ya  çıkmasına mani olarak mı? 
+vi	Như thế nào? | Bằng cách phá hỏng cơ hội lên Arsenio? | 
+zh-long	怎麼保護？毀了她 跟阿塞尼奧同臺的機會？ 
+zh-short	怎么保护的？ 搞砸她跟阿塞尼奥的拍摄吗？ 
+ja	アーセニオの番組への | 出演は？ | 
+

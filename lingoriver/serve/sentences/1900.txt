@@ -1,0 +1,27 @@
+ja	歌はもう違うから | 
+ru	Музыка больше не работает. 
+ar	&rlm;‏لأن الغناء لم يعد يسعدني بعد الآن.‏ | 
+el	Αυτό έπαψε να με κάνει. 
+en	'Cause that's not it anymore. | 
+fi	Se ei enää tehoa. 
+fr	Car c'est plus le cas. 
+he	&rlm;‏כי זה כבר לא זה.‏ | 
+it	Perché non è più così. 
+pl	Muzyka już nie działa. 
+pr-br	Pois não é mais isso. 
+pr	Porque isto já não faz. 
+sp-eu	Porque eso ya no sirve. 
+sp	Porque eso ya no lo logra. 
+th	เพราะนั่นมันไม่ใช่อีกต่อไปแล้ว | 
+tr	Çünkü artık bu mutlu etmiyor. 
+vi	Vì giờ nó không làm em vui nữa. | 
+zh-long	唱歌不再讓我快樂了 
+zh-short	因为现在已经不一样了 
+ko	이제 노래는 절 행복하게 | 해주지 않으니까요 | 
+nl	Want dat werkt niet meer. 
+da	For det fungerer ikke mere. 
+no	For det holder ikke lenger. 
+ro	Cântatul nu mă mai împlinește. 
+sv	För det gör mig inte lycklig längre. 
+id	Karena bukan musik lagi. 
+

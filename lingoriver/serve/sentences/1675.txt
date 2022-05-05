@@ -1,0 +1,27 @@
+id	Syukurlah. 
+ja	楽しそうだ | 
+ru	Это хорошо. 
+ar	&rlm;‏هذا أمر جيد.‏ | 
+da	Det er da godt. 
+el	Καλό αυτό. 
+en	That's a good thing. | 
+fi	Sehän on hyvä juttu. 
+fr	C'est bien. 
+he	&rlm;‏זה טוב.‏ | 
+it	È una bella cosa. 
+ko	잘됐네 | 
+nl	Dat is mooi. 
+no	Det er bra. 
+pl	To dobrze. 
+pr-br	Isso é bom. 
+pr	Isso é bom. 
+ro	Asta e bine. 
+sp	Eso es algo bueno. 
+sp-eu	Eso es bueno. 
+sv	Det låter bra. 
+th	นั่นเป็นเรื่องดี | 
+tr	Bu iyi bir şey. 
+vi	Thật tốt. | 
+zh-long	這是好事 
+zh-short	那是好事 
+

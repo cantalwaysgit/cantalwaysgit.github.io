@@ -1,0 +1,26 @@
+ar	&rlm;‏بدأت أتشوش. أنا أمزح معك.‏ | 
+da	Jeg bliver forvirret. Jeg laver sjov med dig. 
+el	Χάνω το μέτρημα. Σε πειράζω. 
+en	I'm getting lost. | I'm joking around with you. | 
+fi	En pysy kärryillä. Kunhan vitsailen. 
+fr	Je suis paumé. Je blague. 
+he	&rlm;‏אני הולך לאיבוד. אני מתלוצץ איתך.‏ | 
+it	Mi sto perdendo. Sto scherzando. 
+ko	따라가질 못하겠어 | 농담하는 거야 | 
+no	Jeg mister oversikten. Jeg tøyser med deg. 
+pl	Zaczynam się gubić. Żartuję tylko. 
+pr-br	Estou me perdendo. Estou brincando com você. 
+pr	Já me perco. Estou a brincar contigo. 
+ro	Mă încurc. Glumesc cu tine. 
+sp-eu	Me estoy perdiendo. Es broma. 
+sp	Me pierdo. Es una broma. 
+sv	Jag är helt förvirrad. Jag driver bara med dig. 
+th	ชักงงแล้ว แค่ล้อเล่นน่า | 
+tr	Karıştırmaya başladım. Seninle dalga geçiyorum. 
+vi	Tôi không theo kịp. Tôi chỉ đùa cô thôi. | 
+zh-long	根本記不住，開玩笑的啦 
+zh-short	我跟不上了 跟你开个玩笑 
+id	Aku mulai bingung. Aku bercanda. 
+ru	Я просто шучу. 
+ja	冗談だよ | 
+

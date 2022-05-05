@@ -1,48 +1,57 @@
-id	Kalau pernah bekerja di Los Angeles pada sekitar tahun '90-an, 
-ru	Если вы работали в Лос-Анджелесе в девяностых, 
-ar	&rlm;‏‏إن كنت تعمل في "لوس أنجلوس" | &rlm;‏في أي وقت في التسعينيات،‏ | 
-el	Αν εργαζόσουν στο Λος Άντζελες κατά τη δεκαετία του '90, 
-en	If you were working in Los Angeles | in the '90s, any time in there, | 
-fi	Kaikki Los Angelesissa 90-luvulla työskennelleet - 
-fr	Si tu bossais à Los Angeles dans les années 90, 
-he	&rlm;‏אם עבדת בלוס אנג'לס בכל זמן בשנות ה-90,‏ | 
-it	Chiunque lavorasse a Los Angeles negli anni '90 
-ko	1990년대에 | LA에서 일했다면 | 
-pl	Gdybyś w latach 90. pracował w Los Angeles, 
-pr-br	Se você trabalhasse em Los Angeles nos anos 90, 
-pr	Se trabalhassem em Los Angeles em qualquer altura dos anos 90, 
-ro	Dacă lucrai în Los Angeles, oricând în anii '90, 
-sp-eu	Si trabajaste en Los Ángeles durante los años 90, 
-sp	Si trabajabas en Los Ángeles en los años noventa, 
-th	หากคุณทำงานในลอสแอนเจลิสในยุค 1990 | 
-tr	1990'larda Los Angeles'ta çalıştıysanız 
-vi	Nếu anh làm việc ở Los Angeles | vào thập kỷ 90, | 
-zh-long	如果1990年代你在洛杉磯工作 
-zh-short	要是你九十年代在洛杉矶工作 
-da	Arbejdede man i Los Angeles i 90'erne, så stødte man på ham. 
-nl	Als je in de jaren 90 in LA werkte, kwam je hem zeker tegen. 
-no	Hvis du jobbet i Los Angeles på 90-tallet, var det uunngåelig å møte ham. 
-sv	Om man jobbade i Los Angeles på 90-talet, så sprang man på Sandy Wexler. 
-ja	90年代にロスで働いてたら | 絶対 彼に遭遇してる | 
-id	pasti pernah bertemu Sandy Wexler. 
-ru	вы точно с ним встречались. 
-ar	&rlm;‏فستلتقيه مصادفة.‏ | 
-el	σίγουρα θα τον συναντούσες. 
-en	you'd run into Sandy Wexler at some point. | 
-fi	ovat törmänneet häneen. 
-fr	obligé, tu le croisais. 
-he	&rlm;‏נתקלת בו.‏ | 
-it	prima o poi si imbatteva in lui. 
-ko	분명히 마주쳤을 거예요 | 
-pl	tobyś go spotkał. 
-pr-br	cruzaria com ele. 
-pr	davam de caras com ele. 
-ro	te ciocneai de el. 
-sp-eu	te cruzaste con él en algún momento. 
-sp	lo conocías. 
-th	คุณจะต้องเจอเขา | 
-tr	ona rastlamışsınızdır. 
-vi	anh sẽ gặp anh ta. | 
-zh-long	一定會碰到他 
-zh-short	你会碰到他 
+id	Mungkin dia orang terunik yang pernah kutemui. 
+ru	Пожалуй, самая незаурядная личность. 
+ar	&rlm;‏قد يكون أكثر شخص أعرفه ندرة.‏ | 
+da	Han er den mest unikke fyr, jeg har mødt. 
+el	Ίσως ο πιο ξεχωριστός τύπος που γνώρισα ποτέ. 
+en	He may be the most unique guy I ever met. | 
+fi	Hän on ehkä omaperäisin tapaamani mies. 
+fr	J'en connais pas deux comme lui. 
+he	&rlm;‏ייתכן שהוא הבחור הכי מיוחד שאני מכיר.‏ | 
+it	Credo sia una persona unica. 
+ko	아마 제가 아는 | 가장 독특한 사람일 거예요 | 
+nl	Hij is misschien de meest unieke man die ik ken. 
+no	Han er kanskje den mest unike mannen jeg kjenner. 
+pl	Nie znam nikogo tak oryginalnego. 
+pr-br	Ele deve ser o cara mais característico que conheço. 
+pr	Deve ser o tipo mais invulgar que já conheci. 
+ro	Cred că e cel mai deosebit tip pe care-l știu. 
+sp	Debe ser el tipo más excéntrico que conozco. 
+sp-eu	Quizá sea el tío más singular que conozco. 
+sv	Han är nog den mest unika killen jag känner. 
+th	เขาอาจเป็นคนพิเศษที่สุดที่ผมรู้จัก | 
+tr	Tanıdığım en benzersiz adam olabilir. 
+vi	Có lẽ anh ta là | kẻ độc đáo nhất tôi từng gặp. | 
+zh-long	他應該是我認識過最特別的人了 
+zh-short	他可能是我所认识的最独特的人 
+ja	彼はとてもユニークだ | 
+
+it	La polizia ha trovato il suo portafogli. 
+nl	De politie vond z'n portemonnee. 
+cs	Policie našla jeho peněženku. 
+id	Polisi menemukan dompetnya. 
+no	Politiet fant lommeboken hans. 
+en	The police found his wallet. 
+es	Encontraron su billetera. 
+he	‫המשטרה מצאה את הארנק שלו.‬ | 
+hu	Megtalálták a tárcáját. 
+ko	&lrm;경찰이 지갑을 찾았대 | 
+ms	Polis jumpa dompetnya. 
+ru	Полиция нашла его бумажник. 
+th	&lrm;ตำรวจเจอกระเป๋าสตางค์เขา | 
+tr	Polis onun cüzdanını bulmuş. 
+vi	&lrm;Cảnh sát tìm thấy ví của nó. | 
+zh-long	警方找到他的皮包 
+zh-short	警察找到了他的钱包 
+fr	On a trouvé son portefeuille. 
+ro	Poliția i-a găsit portofelul. 
+uk	Поліція знайшла його гаманець. 
+da	Politiet har fundet hans pung. | 
+el	Η αστυνομία βρήκε το πορτοφόλι του. 
+pt	A Polícia achou a carteira dele. 
+sv	Polisen har hittat hans plånbok. 
+fi	Poliisi löysi hänen lompakkonsa. | 
+hr	Policija je našla njegov novčanik. 
+es-eu	La policía ha encontrado su cartera. 
+pt-br	A polícia encontrou a carteira dele. 
+ja	&lrm;アダムの財布が見つかった | 
 

@@ -1,0 +1,26 @@
+el	Καλλιτέχνες του Γουέξλερ. 
+ar	&rlm;‏"ويكسلر أرتيستس".‏ | 
+da	Wexler Artists. 
+en	Wexler Artists. | 
+fi	Wexler Artists. 
+fr	Wexler et ses Artistes. 
+he	&rlm;‏וקסלר אמנים.‏ | 
+it	Wexler Artists. 
+ko	웩슬러 아티스트입니다 | 
+pl	Wexler Artists. 
+pr-br	Artistas Wexler. 
+pr	Wexler Artists. 
+ro	Wexler Artists. 
+sp	Artistas Wexler. 
+sp-eu	Artistas Wexler. 
+sv	Wexler Artists. 
+th	เวกซ์เลอร์อาร์ทิสต์ส | 
+tr	Wexler Sanatçıları. 
+vi	Nghệ sĩ Wexler xin nghe. | 
+zh-long	韋克斯勒經紀公司 
+zh-short	韦克斯勒艺人公司 
+id	Wexler Artists. 
+ja	ウェクスラー | 
+ru	«Уэкслер Артистс». 
+no	Wexler Artists. 
+

@@ -1,0 +1,28 @@
+ru	И потом 
+ar	&rlm;‏‏كما أنه تزوج "داونتاون جولي براون" | &rlm;‏في نهاية المطاف.‏ | 
+da	Desuden endte han med at gifte sig med Downtown Julie Brown. 
+el	Επίσης, κατέληξε να παντρευτεί την Νταουντάουν Τζούλι Μπράουν. 
+en	Plus, he ended up marrying | Downtown Julie Brown. | 
+fi	Ja hän nai Downtown Julie Brownin. 
+fr	Et il a épousé Downtown Julie Brown. 
+he	&rlm;‏ובנוסף, הוא התחתן עם דאונטאון ג'ולי בראון.‏ | 
+it	Inoltre, ha sposato Downtown Julie Brown. 
+ko	다운타운 줄리 브라운과 | 결혼도 했고요 | 
+nl	En hij trouwde uiteindelijk met Downtown Julie Brown. 
+no	Og han giftet seg med Downtown Julie Brown. 
+pl	No i ożenił się z Downtown Julie Brown. 
+pr	Acabou por se casar com a Downtown Julie Brown. 
+pr-br	E ele acabou se casando com Downtown Julie Brown. 
+ro	În plus, s-a însurat cu Downtown Julie Brown. 
+sp	Además, terminó casándose con Downtown Julie Brown. 
+sp-eu	Además, acabó casándose con Downtown Julie Brown. 
+sv	Dessutom gifte han sig med Downtown Julie Brown. 
+th	นอกจากนี้ เขายังได้แต่งงานกับ | ดาวน์ทาวน์ จูลี่ บราวน์ | 
+tr	Hem sonunda Downtown Julie Brown'la evlendi. 
+vi	Hơn nữa, cuối cùng anh ta | cũng cưới Downtown Julie Brown. | 
+zh-long	而且他後來還娶了道頓朱莉布朗 
+zh-short	而且他最后娶了闹市朱莉布朗 
+id	Dia juga menikahi Downtown Julie Brown. 
+ja	ジュリー･ブラウンと結婚 | 
+ru	он женился на Даунтаун Джули Браун. 
+

@@ -1,0 +1,28 @@
+id	Penjara emosional. Itu ibarat vonis seumur hidup. 
+ru	В духовной тюрьме. 
+ja	“心の刑務所”でね | しかも終身刑さ | 
+ar	&rlm;‏سجن عاطفي. أؤكد لك إنه حكم مؤبد.‏ | 
+da	Et følelsesfængsel. Jeg siger dig, det er på livstid. 
+el	Μια συναισθηματική φυλακή. Πίστεψέ με, πρόκειται για ισόβια. 
+en	An emotional prison. | That's a life sentence, I'm telling you. | 
+fi	Henkisessä sellaisessa. Se on kuin elinkautinen. 
+fr	Prisonnier de mes émotions. J'en ai pour perpète, je vous le dis. 
+he	&rlm;‏כלא רגשי. זה מאסר עולם, אני אומר לך.‏ | 
+it	Era una prigione emotiva. Un ergastolo, te lo assicuro. 
+ko	감정의 감옥요 | 종신형을 살고 있죠 | 
+nl	Een emotionele gevangenis. Dat is levenslang. 
+no	Et følelsesmessig fengsel. Det er en livstidsdom. 
+pl	Emocjonalnym więzieniu. Dostałem dożywocie. 
+pr-br	Uma cadeia emocional. Acredite, é prisão perpétua. 
+pr	Uma prisão emocional. Acredita que é uma pena perpétua. 
+ro	O închisoare emoțională. E sentință pe viață, te asigur. 
+sp	En una prisión emocional. Es cadena perpetua, créeme. 
+sp-eu	Una cárcel emocional. Eso es una cadena perpetua. 
+sv	Ett känslomässigt fängelse. Det är en livstids dom, säger jag bara. 
+th	คุกอารมณ์ นั่นโทษทั้งชีวิตนะ ขอบอก | 
+tr	Duygusal hapishane. Müebbet hapis üstelik. 
+vi	Một nhà tù cảm xúc. | Đó là án chung thân, nói cho cô biết. | 
+zh-long	情感牢房 告訴妳，那可是無期徒刑 
+zh-short	一座情感监狱 这么说吧 是终身监禁 
+ru	Это пожизненный приговор. 
+

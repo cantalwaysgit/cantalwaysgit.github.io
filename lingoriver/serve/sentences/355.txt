@@ -1,0 +1,26 @@
+ja	本当に最高 | 
+id	Hampir sempurna. 
+ru	Лучше не бывает. 
+ko	이보다 더 좋을 순 없잖아요 | 
+da	Så bliver det ikke bedre. 
+ar	&rlm;‏هذا أفضل ما يمكنني الحصول عليه.‏ | 
+el	Καλύτερα δε γίνεται. 
+en	That's as good as it gets. | 
+fi	Tästä ei homma parane. 
+fr	Je peux pas rêver mieux. 
+he	&rlm;‏זה הכי טוב שיש.‏ | 
+it	Non potrebbe andare meglio. 
+nl	Beter wordt het niet. 
+pl	Lepiej być nie może. 
+pr-br	Isso é demais. 
+pr	Não há melhor. 
+ro	Nici că se putea mai bine. 
+sp-eu	No se puede mejorar. 
+sp	Mejor imposible. 
+sv	Det kan inte bli bättre. 
+th	มันไม่ดีไปกว่านี้ได้แล้ว | 
+tr	Daha iyi olamazdı. 
+vi	Mọi chuyện thật tốt đẹp. | 
+zh-long	真是讚上加讚 
+zh-short	最美不过如此 
+

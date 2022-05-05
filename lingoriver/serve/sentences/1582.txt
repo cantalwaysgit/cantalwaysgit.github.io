@@ -1,0 +1,27 @@
+ja	ヘタでいいから楽しく | 
+pl	Wal i niczym się nie przejmuj. 
+no	-Ha det gøy. Ikke tenk på hvor den havner. -Vi får se. 
+fi	Nauti äläkä välitä, minne se lentää. 
+id	Bersenang-senanglah. Jangan pikirkan bolanya. 
+ru	Развлекайся. Не старайся попасть. 
+ar	&rlm;‏استمتعي. لا تقلقي حيال أين ستذهب.‏ | 
+da	Tænk ikke på, hvor den ender. 
+el	Διασκέδασε και μη σε νοιάζει πού θα πάει. 
+en	And just have a good time | and don't worry about where it goes. | 
+fr	Profite. Peu importe où elle va. 
+he	&rlm;‏תעשי חיים. אל תדאגי לאן הוא הולך.‏ | 
+it	Divertiti. Non importa dove va. 
+nl	Geeft niet waar hij heen gaat. 
+pr-br	Divirta-se. Não se preocupe para onde vai. 
+pr	Diverte-te. Não te preocupes para onde vai. 
+ro	Distrează-te. Nu te gândi unde ajunge. 
+sp	Diviértete. No importa adónde va. 
+sp-eu	Diviértete. No te preocupes por dónde acabe. 
+th	สนุกกับมัน ไม่ต้องห่วงว่าลูกจะไปไหน | 
+tr	Keyfine bak. Nereye gittiği önemli değil. 
+vi	Chúc vui vẻ. Đừng lo quả bóng bay đi đâu. | 
+zh-long	開心就好，別管球往哪跑 
+zh-short	尽情打 不用担心球的去向 
+sv	-Ha kul. Bryr dig inte om var den hamnar. -Nu kör vi. 
+ko	즐겨, 어디로 가는지는 | 신경 쓰지 말고 | 
+

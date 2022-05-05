@@ -1,0 +1,27 @@
+id	Kau bisa kuandalkan? 
+ja	頼めるかい？ | 
+ru	Могу на тебя рассчитывать? 
+ar	&rlm;‏أيمكنني الاعتماد عليك؟‏ | 
+en	Can I count on you? | 
+fr	Je peux compter sur vous ? 
+he	&rlm;‏אני יכול לסמוך עליך?‏ | 
+it	Posso contare su di te? 
+pr-br	Posso contar com você? 
+pr	Posso contar contigo? 
+ro	Pot conta pe tine? 
+sp-eu	¿Puedo contar contigo? 
+sp	¿Puedo contar contigo? 
+th	จะช่วยผมได้ไหม | 
+tr	Sana güvenebilir miyim? 
+vi	Tôi có thể tin anh không? | 
+zh-long	我能相信你嗎？ 
+zh-short	我能信任你吗？ 
+nl	Kan ik op je rekenen? 
+da	Kan jeg regne med dig? 
+fi	Voinko luottaa sinuun? 
+ko	당신 믿어도 되겠어요? | 
+sv	Kan jag räkna med dig? 
+no	Kan jeg regne med deg? 
+pl	Mogę na ciebie liczyć? 
+el	Μπορώ να υπολογίζω σ' εσένα; 
+

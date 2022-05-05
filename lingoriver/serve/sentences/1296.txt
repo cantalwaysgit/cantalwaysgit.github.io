@@ -1,0 +1,27 @@
+ar	&rlm;دعك من ذلك. | 
+da	Fis af med den. 
+el	Αν είναι δυνατόν. 
+en	Get out of town with that. | 
+fi	Häipykää siitä. 
+fr	C'est nase. 
+he	&rlm;לעזאזל עם זה.‏ | 
+it	Ma per favore. 
+nl	Weg daarmee. 
+pl	Bez takich. 
+pr-br	Pare com isso. 
+pr	Não me lixem. 
+ro	Mai las-o baltă! 
+sp-eu	No me jodas con eso. 
+sp	Vete al diablo con eso. 
+th	ไปไกลๆ เลยนั่น | 
+tr	Git başımdan. 
+vi	Dẹp chuyện đó đi. | 
+zh-long	閃開啦 
+zh-short	借着这首歌离开这里吧 
+sv	Den tar dig utanför stan. 
+no	Kutt ut det der. 
+ko	저리 좀 비켜 | 
+ja	何やってるんだよ | 
+ru	Да идите вы. 
+id	Yang benar saja. 
+

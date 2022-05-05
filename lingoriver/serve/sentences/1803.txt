@@ -1,0 +1,27 @@
+ja	言ったとおりでしょう？ | 
+ar	&rlm;‏‏- ألم أقل لك؟ | &rlm;‏- صحيح، عظيم.‏ | 
+da	-Hvad sagde jeg? -Ja, fint. 
+el	-Δε σου τα έλεγα; -Όντως. 
+en	-Didn't I tell you? Didn't I say? | -Yeah, great. | 
+fi	-Mitä minä sanoin? -Hieno juttu. 
+fr	- Je te l'avais bien dit. - Oui, super. 
+he	&rlm;‏‏לא אמרתי לך? | &rlm;‏-כן, נהדר.‏ | 
+it	- Te l'avevo detto. - Ottimo. 
+ko	- 제가 뭐랬어요? | - 그러게 | 
+nl	Zei ik het niet? 
+no	-Hva var det jeg sa? -Ja, flott. 
+pl	- Mówiłem. - Jasne. 
+pr-br	-Eu não disse a você? -Sim, ótimo. 
+pr	- Não te tinha dito? - Sim, ótimo. 
+ro	- Nu ți-am zis eu? - Grozav! 
+sp-eu	- ¿No te lo había dicho? - Sí, es genial. 
+sp	- ¿No te dije? - Sí, genial. 
+sv	-Sa jag inte det? -Ja, visst. 
+th	- ผมบอกแล้วใช่ไหม | - ใช่ | 
+tr	-Ben dememiş miydim? -Evet, harika. 
+vi	- Tôi đã nói rồi mà? | - Ừ, tuyệt. | 
+zh-long	-我就說吧 -是呀 
+zh-short	-我不是也这么说吗？ -是啊 
+ru	-Я же говорил! -Ну да. 
+id	- Sudah kubilang, bukan? - Benar. 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏خبير وقفة، ثم خبير تصفيف شعر.‏ | 
+da	En positur-person og så en til håret. 
+el	Ένα άτομο για τις πόζες κι ένα για τα μαλλιά. 
+en	A posture person, and then a hair person. | 
+fi	Oli ryhtieksperttiä ja hiuseksperttiä. 
+fr	Un prof de maintien, un coiffeur. 
+he	&rlm;‏מישהו ליציבה ואז מישהו לשיער.‏ | 
+id	Penata postur, penata rambut. 
+it	C'era l'addetto alla postura, quello alle acconciature. 
+ko	자세 전문가, 헤어 전문가 | 
+nl	Iemand voor de houding en het haar. 
+no	En holdningstrener, og en som jobbet med hår. 
+pl	Korekta postawy, fryzjer. 
+pr-br	Uma pessoa para a postura e um cabeleireiro. 
+pr	Uma pessoa que corrigia a postura e uma que tratava do cabelo. 
+ro	Postură, coafură. 
+ru	Тренер по осанке, стилист. 
+sp-eu	Una persona para la postura y una para el pelo. 
+sp	Una persona encargada de la postura y otra del cabello. 
+sv	En kroppshållningsperson och sen en hårperson. 
+th	คนดูแลท่าทางและคุณดูแลทรงผม | 
+tr	Duruş gösteren biri, sonra saç yapan biri. 
+vi	Người hướng dẫn thần thái, và làm tóc. | 
+zh-long	美姿美儀師、髮型師 
+zh-short	造型师还有发型师 
+ja	ポーズやヘアメイク | 
+

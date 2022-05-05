@@ -1,0 +1,26 @@
+ja	怒りで泡を吹いてる | 
+id	Mulutnya pun berbusa. 
+ru	У него буквально пена изо рта. 
+ar	&rlm;‏يخرج الزبد من فمه.‏ | 
+da	Han har fråde om munden. 
+el	Βγάζει αφρούς. 
+en	He's literally foaming at the mouth. | 
+fi	Suu vaahtoaa. 
+fr	Regarde-le, il bave. 
+he	&rlm;‏יוצא לו קצף מהפה.‏ | 
+it	Sta schiumando dalla bocca. 
+no	Han fråder. 
+pl	Piana mu leci. 
+pr-br	Ele está espumando pela boca. 
+pr	Está mesmo a espumar pela boca. 
+ro	Chiar face spume la gură. 
+sp-eu	Suelta espumarajos. 
+sp	Le sale espuma de la boca. 
+sv	Han tuggar fradga. 
+th	เขาน้ำลายฟูมปากเลย | 
+tr	Ağzından köpükler saçıyor. 
+vi	Anh ta sùi bọt mép. | 
+zh-long	他都口吐白沫了 
+zh-short	他在口吐白沫 
+ko	입에 거품까지 물었어 | 
+

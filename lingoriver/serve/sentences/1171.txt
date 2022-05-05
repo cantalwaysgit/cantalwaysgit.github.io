@@ -1,0 +1,30 @@
+ru	Я тебе пришлю список. 
+en	You know what? | I'll send you the list, actually. | 
+id	Aku akan mengirimimu daftarnya. 
+ar	&rlm;‏‏سأرسل لك القائمة، في الواقع. بل أفضل، | &rlm;‏سأرسلها لك بالبريد الإلكتروني.‏ | 
+da	Jeg sender listen til dig. Endnu bedre, jeg e-mailer den til dig. 
+el	Θα σου στείλω τη λίστα. Καλύτερα, όμως, να τη στείλω με e-mail. 
+fi	Lähetän sinulle listan. Tai voisin oikeastaan meilata sen. 
+fr	Je vais t'envoyer la liste. Par e-mail, encore mieux. 
+he	&rlm;‏‏אשלח לך את הרשימה. | &rlm;‏יותר טוב, אשלח אותה באימייל.‏ | 
+it	Ti spedisco la lista. Anzi, te la mando per email. 
+ko	명단 보내드릴게요 | 이메일이 더 낫겠네요  | 
+nl	Ik stuur je de lijst. Nee, ik mail je de lijst. 
+no	Jeg sender deg listen. Jeg sender den på e-post. 
+pl	Prześlę ci listę. Albo lepiej, zrobię to pocztą elektroniczną. 
+pr-br	Na verdade, vou mandar a lista para você. Melhor ainda, vou mandar um e-mail. 
+pr	Eu mando-te a lista. Melhor ainda, envio-ta por  e-mail. 
+ro	O să-ți trimit lista, de fapt. Mai bine o să ți-o trimit pe e-mail. 
+sp-eu	Te enviaré la lista. Mejor aún, te la mandaré por e-mail. 
+sp	Te enviaré la lista. Mejor aún, te la enviaré por  e-mail . 
+sv	Jag kan skicka listan. Eller ännu bättre, jag mejlar den. 
+th	ผมจะส่งรายชื่อไปให้ จริงๆ แล้ว | ดีกว่านั้นจะอีเมลรายชื่อไปให้ | 
+tr	Listeyi sana göndereyim. Daha iyisi e-posta ile göndereyim. 
+vi	Tôi sẽ gửi danh sách cho anh. | Có lẽ, tôi sẽ gửi email cho anh. | 
+zh-long	我會把名單寄給你 我會用電子郵件寄給你 
+zh-short	我会把曲单给你的 或者用邮件发给你更好 
+en	You know what? | Better yet, I'll e-mail you the list. | 
+id	Sebaiknya kukirimkan via surel. 
+ru	По электронной почте. 
+ja	Ｅメールで送るよ | 
+

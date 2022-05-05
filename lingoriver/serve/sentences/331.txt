@@ -1,0 +1,26 @@
+ar	&rlm;‏أبي.‏ | 
+da	Far. 
+el	Μπαμπά. 
+en	Dad. | 
+fi	Isä. 
+fr	Papa. 
+he	&rlm;‏אבא.‏ | 
+id	Ayah. 
+it	Papà. 
+ko	아빠 | 
+pl	Tato. 
+pr-br	Pai. 
+pr	Pai. 
+ro	Tată! 
+sp-eu	Papá. 
+sp	Papá. 
+sv	Pappa. 
+tr	Baba. 
+vi	Bố. | 
+zh-long	爸 
+zh-short	老爸 
+ja	パパ | 
+no	Pappa. 
+ru	Папа! 
+th	พ่อคะ | 
+

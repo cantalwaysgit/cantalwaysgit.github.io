@@ -1,0 +1,27 @@
+id	Kau memastikan Gary si Pemain  Trapeze  Pemberani 
+ja	ゲイリーとかいう | 空飛び芸をする奴を― | 
+ru	Ты поставил... Гэри Отчаянного Акробата 
+ar	&rlm;‏‏حرصت أن يكون "غاري" | &rlm;‏فنان الحركات الخطرة على الأرجوحة‏ | 
+da	Du sørgede for, at trapezartisten Gary 
+el	Φρόντισες να ανοίξει ο Ριψοκίνδυνος Ακροβάτης Γκάρι 
+en	You made sure Gary, | the daredevil trapeze artist, | 
+fi	Varmistit, että huimapäinen trapetsitaiteilija Gary - 
+fr	T'as fait en sorte que Gary le cascadeur trapéziste 
+he	&rlm;‏אתה וידאת שגארי, אמן הטרפז הנועז‏ | 
+it	Hai fatto in modo che Gary, l'intrepido trapezista, 
+nl	Je zorgde dat Gary de dappere trapeze-artiest... 
+no	Du sørget for at trapesartisten Gary 
+pl	Zadbałeś, żeby przed jej koncertem w Universal Amphitheatre 
+pr-br	Você fez com que Gary, o trapezista intrépido, 
+pr	Garantiste que o Gary, o trapezista temerário, 
+ro	Te-ai asigurat ca Gary, artistul neînfricat al trapezului, 
+sp-eu	Te aseguraste de que Gary, el trapecista temerario, 
+sp	Te aseguraste de que Gary, el trapecista temerario, 
+sv	Du såg till att Gary, den våghalsiga trapetskonstnären, 
+th	คุณจัดการให้ | แกรี่ศิลปินชิงช้าสูงเสี่ยงตาย | 
+tr	Universal Tiyatrosu'ndaki konserinde ön gösteri olarak 
+vi	Anh chỉ đảm bảo Gary, | gã nghệ sĩ đu bay mạo hiểm, | 
+zh-long	你叫不怕死的空中飛人蓋瑞 
+zh-short	你让那个莽夫空中飞人加里 
+ko	유니버설 극장에서 | 코트니 오프닝 공연으로 | 
+

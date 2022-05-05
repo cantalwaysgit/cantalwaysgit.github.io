@@ -1,0 +1,27 @@
+ar	&rlm;‏‏- لقد تخرجت للتو. | &rlm;‏- فرد ناجح آخر من عائلة "بوباتزي".‏ | 
+da	-Hun er lige dimitteret. -Endnu en succesfuld Bubatzi. 
+el	-Μόλις αποφοίτησε. -Μια ακόμη επιτυχημένη Μπουμπάτσι. 
+en	-She just graduated. | -Another successful Bubatzi. | 
+fi	-Valmistui juuri. -Toinen menestyvä Bubatzi. 
+fr	- Elle vient d'avoir son diplôme. - Le talent, c'est de famille. 
+he	&rlm;‏‏היא בדיוק סיימה. | &rlm;‏-עוד בבאצי מוצלח.‏ | 
+it	- Si è appena laureata. - Un'altra Bubatzi di successo. 
+ko	- 최근에 졸업했어요 | - 집안에 인물 하나 더 났군 | 
+nl	Net afgestudeerd. -Nog een succesvolle Bubatzi. 
+no	-Hun tok nettopp eksamen. -Enda en vellykket Bubatzi. 
+pl	- Właśnie skończyła studia. - Kolejny sukces Bubatzi. 
+pr	- Acabou de concluir o curso. - Mais um Bubatzi de sucesso. 
+pr-br	-Ela acabou de se formar. -Mais uma Bubatzi bem-sucedida. 
+ro	- Tocmai a absolvit. - O altă Bubatzi de succes. 
+sp	- Acaba de graduarse. - Otra Bubatzi exitosa. 
+sp-eu	- Acaba de licenciarse. - Otro Bubatzi con éxito. 
+th	- เพิ่งเรียนจบ | - บูบาต์ซี่อีกคนที่ประสบความสำเร็จ | 
+tr	-Yeni mezun oldu. -Bir başarılı Bubatzi daha. 
+vi	- Cô ấy vừa tốt nghiệp. | - Thêm một Bubatzi thành công nữa. | 
+zh-long	-她剛畢業 -又一個布巴茲家勝利組 
+zh-short	-她刚毕业 -又一位成功的布巴兹 
+id	- Dia baru saja lulus. - Satu lagi Bubatzi sukses. 
+ru	-Уже закончила. -Еще один успех семьи Бубаци. 
+sv	-Hon har just tagit examen. -Ännu en framgångsrik Bubatzi. 
+ja	卒業した | 
+

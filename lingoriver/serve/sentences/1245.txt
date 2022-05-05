@@ -1,0 +1,27 @@
+ar	&rlm;‏مثل مجموعة المواهب التي أرعاها.‏ | 
+da	Mine andre kunstnere. 
+el	Όπως η ομάδα των ταλέντων μου. 
+en	Like my stable of talent. | 
+it	Per esempio la mia scuderia di talenti. 
+ko	재능있는 내 고객들 말이야 | 
+nl	Zoals mijn groep talenten. 
+pr-br	Como meu grupo de talentos. 
+pr	Como o meu grupo de artistas. 
+sp	Como mi grupo de artistas. 
+sp-eu	Como mi cartera de talentos. 
+sv	Som mitt stall med talanger. 
+zh-long	比如說我的藝人們 
+zh-short	我手里的其他艺人 
+fr	Je néglige mes autres clients. 
+ja	担当している | 他のタレントたちさ | 
+he	&rlm;‏כמו חבורת הכישרונות שלי.‏ | 
+no	Som talentstallen min. 
+fi	Kykytalliani. 
+tr	Mesela temsil ettiğim sanatçılar. 
+id	Seperti klien-klienku. 
+pl	Mówię o moich klientach. 
+ro	Cum ar fi grupul meu de talente. 
+ru	Мой букет талантов. 
+th	อย่างคนที่ผมดูแลอยู่ | 
+vi	Như là các tài năng tôi quản lý. | 
+

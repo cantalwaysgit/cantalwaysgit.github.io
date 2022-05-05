@@ -1,0 +1,26 @@
+ar	&rlm;‏لا يتعين أن تشكريني يا "كورتني".  | &rlm;هذا من دواعي سروري.‏ | 
+da	Du behøver ikke takke mig. Det var en fornøjelse. 
+el	Δε χρειάζεται. Ευχαρίστησή μου. 
+en	You don't have to thank me, Courtney. | That's my pleasure. | 
+fi	Älä suotta kiittele. Se oli ilo. 
+fr	Inutile de me remercier. Ça m'a fait plaisir. 
+he	&rlm;‏את לא צריכה להודות לי. העונג כולו שלי.‏ | 
+it	Non mi devi ringraziare. È stato un piacere. 
+ko	고마울 거 없어 | 당연히 해야지 | 
+nl	Je hoeft me niet te bedanken. Ik doe het graag. 
+pl	Nie musisz mi dziękować. To była dla mnie przyjemność. 
+pr-br	Não precisa me agradecer. É um prazer. 
+pr	Não precisas de me agradecer. Foi um prazer. 
+ro	Nu trebuie să-mi mulțumești. A fost plăcerea mea. 
+sp-eu	No me des las gracias. Ha sido un placer. 
+sp	No me lo agradezcas. Es un placer. 
+th	ไม่ต้องขอบคุณผม ด้วยความยินดียิ่ง | 
+tr	Teşekkür etmene gerek yok. Benim için zevkti. 
+vi	Không cần cảm ơn đâu. Tôi vui mà. | 
+zh-long	用不著謝我，我很榮幸 
+zh-short	不必谢 是我的荣幸 
+id	Tidak perlu berterima kasih, Courtney. Senang bisa melakukannya. 
+ru	Не благодари. Рад был помочь. 
+ja	いいんだ　どうってことない | 
+sv	Du behöver inte tacka mig. Jag gjorde det så gärna. 
+

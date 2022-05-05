@@ -1,0 +1,29 @@
+ja	なんで | 
+id	- Itu bukan sisi positif. - Positif karena ketenaran. 
+ru	-Это не успех. -Успех! Фактор славы. 
+en	-That's not a positive. | -It's a positive because it's... | 
+ar	&rlm;‏‏- إنه ليس إيجابياً. | &rlm;‏- بلى. إنه عامل شهرة.‏ | 
+da	-Det er ikke positivt. -Jo, for det er berømmelsesfaktoren. 
+el	-Δεν είναι θετικό. -Είναι, λόγω του παράγοντα της φήμης. 
+fi	-Ei ole. -Onhan. Saat julkisuutta. 
+fr	- Non, c'est pas bien. - Si, on te verra. 
+he	&rlm;‏‏זה לא חיובי. | &rlm;‏-זה כן. פקטור התהילה.‏ | 
+it	- Non è positivo. - Lo è. È il fattore fama. 
+ko	- 뭐가 좋아요? | - 이름을 알릴 기회잖아 | 
+nl	Dat is niet positief. -Wel. De beroemdheidsfactor. 
+no	-Det er ikke positivt. -Jo. Berømmelsen. 
+pl	- Co w tym dobrego? - Zyskasz popularność. 
+pr-br	-Não é nada positivo. -É, sim. Tem o fator fama. 
+pr	- Não é positivo. - Sim. É o fator fama. 
+ro	- Nu e un lucru bun. - Ba da. Înseamnă celebritate. 
+sp	- Eso no es algo positivo. - Sí. El factor fama. 
+sp-eu	- Eso no es positivo. - Sí que lo es. El factor fama. 
+sv	-Det är inte positivt. -Jo, det ger berömmelse. 
+th	- นั่นไม่ใช่เรื่องดี | - ใช่สิ ปัจจัยส่งเสริมความดัง | 
+tr	-Olumlu değil. -Öyle. Ün faktörü. 
+vi	- Thế thì có gì tích cực. | - Có chứ. Danh tiếng đấy. | 
+zh-long	-才不是好事 -就是，這是成名的後果 
+zh-short	-这不是好事 -是好事 事关成名 
+ja	話題になって有名になる | 
+en	-The fame factor. | -What? | 
+

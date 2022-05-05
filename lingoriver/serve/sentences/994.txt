@@ -1,0 +1,27 @@
+ar	&rlm;‏من الذي أفلت من عقوبة ضربك؟‏ | 
+da	Hvem slap af sted med at slå dig? 
+el	Ποιος σ' έδειρε και τη γλίτωσε; 
+en	Well, who whooped your ass | and got away with it? | 
+fr	Qui t'a défoncé impunément ? 
+he	&rlm;‏מי כיסח לך את התחת?‏ | 
+it	Chi ti ha picchiato e l'ha fatta franca? 
+nl	Wat is er met jou gebeurd? 
+pr-br	Quem te deu uma surra e deu o fora? 
+pr	Quem te deu uma tareia? 
+ro	Cine ți-a tăbăcit curul? 
+sp-eu	¿Quién te ha dado una paliza? 
+sp	¿Quién te rompió el alma? 
+sv	Vem spöade dig och kom undan? 
+th	ใครกันที่อัดคุณได้แบบนั้น | 
+tr	Kim dövdü seni böyle? 
+vi	Ai vừa thoát một trận đòn thế? | 
+zh-long	你是怎麼回事？ 
+zh-short	谁把你揍了然后还跑了？ 
+id	Siapa yang menghajarmu? 
+ko	누구한테 이렇게 | 얻어맞았어요? | 
+ja	誰にシメられた？ | 
+ru	Кому же это удалось тебя побить? 
+fi	Keneltä sait päihin? 
+pl	Kto ci oklepał miskę? 
+no	Hvem har gitt deg juling? 
+

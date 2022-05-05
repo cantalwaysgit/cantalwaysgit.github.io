@@ -1,0 +1,27 @@
+ja	僕を信じろ　最高の夜になる | 
+id	Dengar, bisa percaya kepadaku? Ini malam yang baik untukmu. 
+ar	&rlm;اسمع، ‏هلا تثق بي وحسب؟ هذه ليلة جيدة لك.‏ | 
+da	Gider du stole på mig? Det er en god aften for dig. 
+el	Μπορείς να με εμπιστευτείς; Είναι μια καλή βραδιά για εσένα. 
+en	Listen. Will you just trust me? | This is a good night for you. | 
+fi	Usko minua. Tästä tulee hyvä ilta. 
+fr	Fais-moi confiance. Ça va être une bonne soirée pour toi. 
+he	&rlm;‏אתה מוכן לסמוך עליי? זה ערב טוב בשבילך.‏ | 
+it	Ti dispiacerebbe fidarti di me? Per te sarà una gran serata. 
+ko	날 좀 믿으면 안 돼? | 오늘 좋은 밤이 될 거야 | 
+nl	Vertrouw me gewoon. Dit wordt een goede avond voor je. 
+no	Kan du stole på meg? Dette er en god kveld for deg. 
+pl	Zaufaj mi. Zyskasz na tym. 
+pr-br	Pode confiar em mim? Esta noite vai ser incrível para você. 
+pr	Podes confiar em mim? Esta é uma boa noite para ti. 
+ro	Vrei să ai încredere în mine? Seara asta îți va purta noroc. 
+sp-eu	¿Quieres confiar en mí? Esta será una buena noche para ti. 
+sp	¿No confías en mí? Esta es una buena noche para ti. 
+th	ไว้ใจฉันได้ไหม | คืนนี้จะเป็นคืนดีสำหรับนาย | 
+tr	Bana güvensene sen. Bu senin için iyi bir gece. 
+vi	Anh sẽ tin tôi chứ? | Đêm nay là đêm tốt lành cho anh. | 
+zh-long	相信我好嗎？今晚是你的大日子 
+zh-short	你能相信我吗？今晚对你是个好机会 
+sv	Lita på mig. Det är en bra kväll för dig. 
+ru	Ну поверь мне! Сегодня тебя ждет успех. 
+

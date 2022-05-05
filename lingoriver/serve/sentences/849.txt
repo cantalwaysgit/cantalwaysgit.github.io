@@ -1,0 +1,49 @@
+ar	&rlm;‏أراك تأكل لحم الخنزير المقدد  | &rlm;فوق حوض الغسيل،‏ | 
+da	Jeg ser dig med bacon, 
+el	Σε βλέπω με το μπέικον, 
+en	I see you with bacon over the sink, | 
+fr	Je te vois cuire du bacon, 
+he	&rlm;‏אני רואה אותך עם בייקון,‏ | 
+it	Ti vedo col bacon sul lavandino 
+pr-br	Vejo você com bacon, 
+pr	Vejo-te a comer  bacon  no lava-loiças , 
+sp-eu	Te veo comer beicon sobre el fregadero. 
+sp	Te veo con tocino, 
+sv	Jag ser dig äta bacon. 
+tr	Pastırma yediğini, 
+vi	Tôi thấy anh ăn thịt xông khói ở chậu rửa, | 
+zh-long	我看著你在洗手檯旁邊吃培根 
+zh-short	我看你在洗碗槽边吃培根 
+nl	Je eet bacon, je slaapt in mijn stoel terwijl je naar mijn Cinemax kijkt. 
+ru	Вижу, как ты ешь бекон, 
+id	Kau dan bakon di wastafel. 
+pl	Widzę, jak jesz bekon, 
+ro	Te văd mâncând șuncă la chiuvetă, 
+th	ผมเห็นคุณกินเบคอน | 
+ko	베이컨 먹는 모습 | 
+fi	Olet syönyt pekonia, nukkunut tuolissani, katsonut Cinemaxiani. 
+ja	ベーコンをかじったり | 私のイスで眠ったり | 
+ru	как ты спишь в моем кресле, смотришь мой телик, 
+id	Kulihat kau tertidur di sofaku, menyaksikan Cinemax-ku. 
+ar	&rlm;‏وتنام على كرسي، وتشاهد قناتي "سينماكس".‏ | 
+da	jeg ser dig sove i min stol, se mit Cinemax. 
+el	όταν σε παίρνει ο ύπνος στην πολυθρόνα βλέποντας Cinemax 
+en	I see you fall asleep in my chair, | watching my Cinemax. | 
+fr	je te vois assoupi dans mon fauteuil devant mon grand écran. 
+he	&rlm;‏‏אני רואה אותך ישן בכיסא שלי, | &rlm;‏צופה בסינמקס שלי.‏ | 
+it	e quando dormi sulla mia poltrona guardando il mio Cinemax. 
+no	ser deg sove i stolen min, se på min Cinemax. 
+pl	zasypiasz w moim fotelu, oglądając mojego Cinemaxa. 
+pr	a adormecer na minha cadeira, a ver o meu Cinemax. 
+pr-br	vejo que dorme na minha poltrona e vê o meu Cinemax. 
+ro	te văd cum adormi în scaunul meu, cum te uiți la Cinemaxul meu. 
+sp-eu	Te veo dormido en mi silla, viendo mi Cinemax. 
+sp	te veo dormir en mi silla, te veo mirar mi Cinemax. 
+sv	Jag ser dig somna i min stol när du kollar mitt Cinemax. 
+th	เห็นคุณหลับบนเก้าอี้ผม | ดูช่องซีเนแมกซ์ของผม | 
+tr	koltuğumda uyukladığını, Cinemax'ımı izlediğini görüyorum. 
+vi	tôi thấy anh ngủ trên ghế của tôi, | xem rạp chiếu phim của tôi. | 
+zh-long	看著你在我的椅子上打盹 看著你看我的第四臺 
+zh-short	在我的椅子上睡觉 看我的电影频道 
+ko	내 케이블 TV 보다가 | 내 의자에서 잠드는 모습 | 
+

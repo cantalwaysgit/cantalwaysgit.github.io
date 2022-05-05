@@ -1,0 +1,26 @@
+ja	できるようになるさ | 
+id	Tidak penting kau tidak bisa menari. 
+ru	-Это неважно. -Не страшно. 
+ar	&rlm;‏‏- لا يهم. | &rlm;‏- لا بأس.‏ | 
+da	-Det er ligegyldigt. -Det er okay. 
+el	-Δεν έχει σημασία. -Δεν πειράζει. 
+en	-It doesn't matter if you can't dance. | -It's all right. | 
+fi	-Ei se mitään. -Ei haittaa. 
+fr	- Peu importe. - C'est rien. 
+he	&rlm;‏‏זה לא חשוב. | &rlm;‏-זה בסדר.‏ | 
+it	- Non importa. - Va bene. 
+ko	- 상관없어 | - 괜찮아요 | 
+nl	Dat geeft niet. -Het is oké. 
+no	-Det er det samme. -Det går bra. 
+pl	- Nieważne. - Nie szkodzi. 
+pr-br	-Não importa. -Tudo bem. 
+pr	- Não importa. - Não faz mal. 
+ro	- Nu contează. - E-n regulă. 
+sp-eu	- No importa. - No pasa nada. 
+sp	- No importa. - Está bien. 
+th	- ไม่สำคัญ | - ไม่เป็นไร | 
+tr	-Fark etmez. -Sorun değil. 
+vi	- Không sao. | - Được rồi. | 
+zh-long	-不重要 -沒關係 
+zh-short	-没关系 -没事的 
+

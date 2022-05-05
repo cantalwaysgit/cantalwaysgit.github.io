@@ -1,0 +1,33 @@
+id	Dia kira aku mengatakannya ke anjing, padahal tidak. 
+en	She thinks I said that to the dogs, | but I didn't. | 
+ja	僕が犬にそう言ったって | 
+
+es	¿Kaja? 
+id	Kaja? 
+pt-br	Kaja? 
+ru	Кая? 
+uk	Кає! 
+fi	Kaja? | 
+cs	Kajo? 
+da	Kaja? | 
+el	Κάγια; 
+en	Kaja? 
+es-eu	¿Kaja? 
+fr	Kaja ? 
+he	‫קאיה?‬ | 
+hr	Kaja? 
+hu	Kaja? 
+it	Kaja? 
+ja	&lrm;カヤ | 
+ko	&lrm;카야? | 
+ms	Kaja? 
+no	Kaja? 
+pt	Kaja? 
+ro	Kaja? 
+sv	Kaja? 
+th	&lrm;กายา | 
+tr	Kaja! 
+vi	&lrm;Kaja? | 
+zh-long	卡雅？ 
+zh-short	卡娅？ 
+

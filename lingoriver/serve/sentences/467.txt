@@ -1,0 +1,27 @@
+en	No, you didn't. | 
+ar	&rlm;‏‏- لا، لم تفعل ذلك. | &rlm;‏- ظننتك اتصلت أنت به.‏ | 
+da	-Nej, du har ikke. -Jeg troede, du ringede. 
+el	-Δεν το έκανες. -Νόμιζα ότι τον πήρες εσύ. 
+fi	-Et ole. -Luulin, että sinä soitit. 
+fr	- Non. - Je croyais que tu l'avais appelé. 
+he	&rlm;‏‏לא, לא התקשרת. | &rlm;‏-חשבתי שאתה התקשרת.‏ | 
+id	- Kau tidak menghubunginya. - Kukira kau menghubunginya. 
+it	- Non è vero. - Pensavo lo chiamassi tu. 
+ko	- 전화 안 했잖아 | - 네가 전화한 줄 알았는데 | 
+nl	Nietwaar. -Ik dacht dat jij hem gebeld had. 
+no	-Nei. -Jeg trodde du ringte ham. 
+pl	- Wcale nie. - Myślałem, że ty dzwoniłeś. 
+pr-br	-Não ligou. -Achei que você tinha ligado. 
+pr	- Não ligaste. - Pensava que lhe tinhas ligado. 
+ro	- Ba nu. - Am crezut că l-ai sunat tu. 
+ru	-Не звонил. -Я думал, ты звонил. 
+sp-eu	- No lo has hecho. - Creía que le habías llamado tú. 
+sp	- No, no lo llamaste. - Pensé que tú lo habías llamado. 
+sv	-Nej, det gjorde du inte. -Jag trodde du gjorde det. 
+th	- เปล่า นายไม่ได้โทรไป | - นึกว่านายโทรไปแล้ว | 
+tr	-Hayır, aramadın. -Sen aradın sandım. 
+vi	- Anh chưa gọi. | - Tôi tưởng anh gọi. | 
+zh-long	-你沒打 -我以為你打了 
+zh-short	-不 你没打 -我以为你打了 
+ja	ウソだ | 
+

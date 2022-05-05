@@ -1,0 +1,27 @@
+ar	&rlm;‏الرائعون طلقاء! ما الذي يحدث أيها البارع؟‏ | 
+da	Så er The Juice ankommet! Hvad så? 
+el	Ο Τζους βγήκε παγανιά! Τι κάνεις, φονιά; 
+en	The juice is on the loose! | What's happening, killer? | 
+fi	Juice, mikä meininki, tappokone? 
+fr	Mais qui voilà ? Alors, les tueurs ? 
+he	&rlm;‏או-ג'יי מסתובב חופשי! מה קורה, רוצח?‏ | 
+it	The Juice è in forma. Che si dice, delinquente? 
+nl	OJ is nog vrij. Hoe gaat ie? 
+no	Juice er i farta! Hva skjer, råskinn? 
+pl	Moje gwiazdy! Się macie, chłopaki? 
+pr-br	O OJ está à solta! E aí, matador? 
+pr	Ele anda à solta! Tu matas-me. 
+ro	OJ mișună pe-aici! Ce mai faci, smardoiule? 
+sp-eu	¡Aquí viene lo mejorcito! ¡Estáis que lo matáis! 
+sp	¡Mi amigo Simpson! ¿Qué tal, asesinos? 
+sv	Grisen är på isen! Vad händer, dödspolarn? 
+th	มามันกันอยู่ตรงนี้เอง ว่าไง ฆาตกร | 
+tr	Şahaneyiz be! Ne haber canavar? 
+vi	Tuyệt quá! Tình hình thế nào, thành công? | 
+zh-long	辛普森全身而退！ 最近好嗎，殺手？ 
+zh-short	果汁畅饮！你好啊 杀手？ 
+id	Orang hebat berkeliaran! Apa kabar, Bung? 
+ja	脱獄してきたのか？ キラー | 
+ru	Какие люди на свободе! Как дела, разбойник? 
+ko	범인들이 탈주 중이다! | 어떻게들 지내요? | 
+

@@ -1,0 +1,27 @@
+en	Oh. Now that makes sense. | 
+ar	&rlm;‏هذا منطقي.‏ | 
+da	Det giver da mening. 
+fr	Ça me paraît logique. 
+he	&rlm;‏זה הגיוני.‏ | 
+it	È logico. 
+nl	Dat klinkt logisch. 
+no	Det gir mening. 
+pr-br	Ah, faz sentido. 
+pr	Isso faz sentido. 
+ro	Atunci, e de înțeles. 
+sp	Con razón. 
+sp-eu	Eso tiene sentido. 
+sv	Då fattar jag. 
+vi	Cũng dễ hiểu. | 
+zh-long	難怪喔 
+tr	Şimdi anlaşıldı. 
+zh-short	那这就说得通了 
+th	นี่สิมีเหตุผล | 
+fi	Se kyllä käy järkeen. 
+id	Itu baru masuk akal. 
+el	Έτσι εξηγείται. 
+ko	이제 이해가 되네요 | 
+ja	それで納得だ　またな | 
+ru	А, ну теперь ясно. 
+pl	To akurat ma sens. 
+

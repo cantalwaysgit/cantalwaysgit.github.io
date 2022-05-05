@@ -1,0 +1,29 @@
+id	Kamar ini terlalu bagus untukku. 
+ja	随分と豪華な病室だな | 入院費を払えない | 
+ru	Это слишком хорошая палата. 
+ar	&rlm;‏‏هذه غرفة ألطف من أن أستحقها. | &rlm;‏لا يمكنني تسديد تكلفتها.‏ | 
+da	Det er en alt for flot stue til mig. Det har jeg ikke råd til. 
+el	Παραείναι καλό το δωμάτιο. Δεν έχω να το πληρώσω. 
+en	This is too nice of a room for me. | I can't afford this. | 
+fi	Tämä huone on liian hieno minulle. Ei minulla ole varaa tällaiseen. 
+fr	Cette chambre est trop belle pour moi. J'ai pas les moyens. 
+he	&rlm;‏‏החדר יפה מדי בשבילי. | &rlm;‏אני לא יכול לממן אותו.‏ | 
+it	Questa camera è troppo bella. Non me la posso permettere. 
+nl	Deze kamer is te mooi, die kan ik me niet veroorloven. 
+no	Dette rommet er for fint for meg. Jeg har ikke råd til dette. 
+pl	Bardzo ładna salka. Nie stać mnie na coś takiego. 
+pr-br	Este quarto é muito bonito para mim. Não posso pagá-lo. 
+pr	Este quarto é demasiado bom para mim. Não posso pagar isto. 
+ro	Camera asta e prea frumoasă pentru mine. Nu-mi permit așa ceva. 
+sp	Es una habitación demasiado linda para mí. No puedo pagarla. 
+sp-eu	Esta habitación es demasiado buena. No me la puedo permitir. 
+sv	Rummet är för fint. Jag har inte råd med det. 
+th	ห้องนี้มันดีเกินไป ผมไม่มีเงินจ่าย | 
+tr	Burası benim için fazla şık bir oda. Buna gücüm yetmez. 
+vi	Phòng này quá sang chảnh. | Tôi không đủ tiền trả đâu. | 
+zh-long	這間病房也太豪華了吧 我負擔不起 
+zh-short	这房间条件太优越了 我住不起 
+ko	저한테는 과분한 병실이네요 | 이럴 돈 없는데 | 
+id	Aku tidak sanggup membayarnya. 
+ru	Для меня это дорого. 
+

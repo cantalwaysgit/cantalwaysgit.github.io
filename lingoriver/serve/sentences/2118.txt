@@ -1,0 +1,25 @@
+ar	&rlm;‏والشريف الذي يرافقك إلى خارج المدينة"‏ | 
+el	Ο σερίφης που σε διώχνει από την πόλη 
+en	♪ The sheriff who escorts you | Out of town ♪ | 
+fi	Seriffi pois kaupungista saattaa 
+fr	Le shérif qui vous dégage du secteur 
+he	&rlm;‏השריף שמלווה אותך אל מחוץ לעיר‏ | 
+it	Lo sceriffo che ti scorta fuori città 
+ko	보안관이 마을 밖으로 | 호위해 줄 거야 | 
+pl	Szybko skończyć możesz się też 
+pr-br	O delegado que o acompanha Para fora da cidade 
+pr	O xerife que nos escolta Para fora da cidade 
+ro	Șeriful care te dă afară din oraș 
+sp	El alguacil que te saca del lugar 
+sp-eu	El sheriff que te saca de la ciudad 
+th	นายอำเภอที่คุ้มกันเราออกจากเมือง | 
+tr	Şerif seni kasabadan kovalar 
+vi	Cảnh sát trưởng | Hộ tống bạn rời khỏi thị trấn | 
+zh-long	還有護送你離開的警長 
+zh-short	把你赶出城的警长 
+da	Der er brug for trøst 
+id	Sheriff yang mengantarmu ke luar kota 
+ru	Шериф, который выгонит тебя из города... 
+sv	Sheriffen som eskorterar dig ut ur stan 
+ja	すぐ問題を起こす | 
+

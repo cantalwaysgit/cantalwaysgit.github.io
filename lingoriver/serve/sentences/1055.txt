@@ -1,0 +1,27 @@
+ar	&rlm;‏أخبريني رأيك يا عزيزتي.‏ | 
+da	Lad mig høre, hvad du synes, skat. 
+el	Να μου πεις αν σου αρέσει. 
+en	You'll have to let me know | what you think, baby. | 
+fi	Kerro mielipiteesi, kulta. 
+fr	Dis-moi ce que t'en penses. 
+he	&rlm;‏תגידי לי מה את חושבת, מותק.‏ | 
+it	Dimmi che ne pensi, tesoro. 
+ko	맛이 어떤지 말해줘요 | 
+nl	Vertel me wat je ervan vindt. 
+pl	Powiedzcie, co sądzicie. 
+pr-br	Me diga o que acha, querida. 
+pr	Diz-me o que achas, querida. 
+sp	Dime qué opinas, cariño. 
+sp-eu	Dime qué te parece, guapa. 
+sv	Få höra vad du tycker, raring. 
+tr	Ne düşündüğünü söyle yavrum. 
+vi	Phát biểu cảm tưởng nhé. | 
+zh-long	告訴我妳的感覺，寶貝 
+zh-short	告诉我你的想法 宝贝 
+ja	感想を聞かせてくれ | 
+no	Få høre hva du synes. 
+ru	Скажешь мне, что ты думаешь. 
+ro	Spune-mi ce părere ai, scumpo. 
+th	ช่วยบอกทีว่าคุณคิดยังไง | 
+id	- Beri tahu pendapatmu. - Ya. 
+

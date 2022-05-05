@@ -1,0 +1,28 @@
+id	Aku senang itu berjalan lancar bagimu. Sungguh. Aku tulus. 
+ar	&rlm;‏سُررت لأن الأمر كان ناجحاً معك. بصدق.‏ | 
+da	Jeg er glad for, det gik dig godt. Det mener jeg. 
+el	Ειλικρινά, χαίρομαι που γνώρισες τόση επιτυχία. 
+en	I'm glad. I'm glad it all worked out | for you. I really am. Sincerely. | 
+fi	Olen iloinen menestyksestäsi. Vilpittömästi. 
+fr	Je suis content que ça marche. Vraiment. 
+he	&rlm;‏אני שמח שהכול הסתדר עבורך. באמת.‏ | 
+it	Sono contento che abbia funzionato. Davvero. Sinceramente. 
+ko	잘 풀렸다니 다행이야 | 진심으로 | 
+nl	Ik ben echt blij dat het je gelukt is. 
+no	Jeg er glad det ordnet seg for deg. Det er jeg virkelig. 
+pl	Cieszę się, że odniosłeś sukces. Naprawdę. 
+pr	Ainda bem que correu bem. Fico feliz por ti. Sinceramente. 
+pr-br	Fico feliz que tudo tenha dado certo. De verdade. 
+ro	Mă bucur că s-au aranjat toate pentru tine. Sincer. 
+sp-eu	Me alegro de que todo te saliera bien. En serio. Lo digo sinceramente. 
+sp	Me alegra que te sirviera. De verdad. Sinceramente. 
+sv	Jag är glad att du lyckades. 
+th	ดีใจนะที่มันออกมาดีสำหรับนาย | จริงๆ นะ ด้วยความสัตย์ | 
+tr	Senin için işe yaramasına sevindim. Gerçekten. Samimiyim. 
+vi	Tôi rất vui vì có ích cho anh. | Thực sự đấy. Rất thật. | 
+zh-long	很開心對你有幫助 真的，打從心底開心 
+zh-short	我很高兴你成功了 真的 我是真心的 
+ru	Я рад, что у тебя все получилось. 
+ja	それで成功したなら | 本当にうれしい | 
+ru	-Правда рад. Искренне. -Спасибо. 
+

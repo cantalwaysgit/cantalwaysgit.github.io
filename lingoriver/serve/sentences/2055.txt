@@ -1,0 +1,27 @@
+ar	&rlm;‏‏في تلك الأثناء كان "إريك لامنسوف" | &rlm;‏ينتظر قرب المذبح عبر المدينة.‏ | 
+da	I mellemtiden ventede Eric Lamonsoff ved alteret. 
+el	Την ίδια ώρα, ο Έρικ Λάμονσοφ περίμενε στην εκκλησία. 
+en	Meanwhile, Eric Lamonsoff | was across town waiting at the altar. | 
+fi	Sillä välin Eric Lamonsoff odotti toisaalla alttarilla. 
+fr	Eric Lamonsoff était à l'église de l'autre côté de la ville. 
+he	&rlm;‏‏בינתיים, אריק למונסוף המתין בכנסייה | &rlm;‏בצד השני של העיר.‏ | 
+id	Sementara itu, Eric Lamonsoff berada jauh menunggu di pelaminan. 
+it	Intanto, Eric Lamonsoff aspettava all'altare. 
+ko	한편, 반대편 동네에 있던 | 에릭 레먼소프는 계속 기다렸죠 | 
+nl	Ondertussen stond Eric Lamonsoff te wachten bij het altaar. 
+no	Samtidig sto Eric Lamonsoff og ventet ved alteret. 
+pl	Na drugim końcu miasta przed ołtarzem czekał Eric Lamonsoff. 
+pr-br	Enquanto isso, Eric Lamonsoff estava esperando no altar. 
+pr	Entretanto, o Eric Lamonsoff estava à espera no altar. 
+ro	Între timp, Eric Lamonsoff era în colțul opus al orașului, la altar. 
+ru	А Эрик Ламонсофф в это время ждал у алтаря. 
+sp-eu	Mientras, Eric Lamonsoff estaba esperando en el altar. 
+sp	Mientras tanto, Eric Lamonsoff esperaba en un altar del otro lado de la ciudad. 
+sv	Under tiden stod Eric Lamonsoff och väntade vid altaret. 
+th	ในขณะเดียวกันเอริค ลามอนซอฟฟ์ | ยืนรอตรงแท่นบูชาข้ามเมือง | 
+tr	Bu arada Eric Lamonsoff kentin diğer ucunda sunağın başında bekliyordu. 
+vi	Trong khi đó, Eric Lamonsoff | ở bên kia thị trấn chờ trước án thờ. | 
+zh-long	同時艾瑞克藍蒙索夫 在另一頭等著結婚 
+zh-short	与此同时 埃里克拉蒙索夫 在城里另一边的神坛那儿等着 
+ja	エリックは | 祭壇の前で待ちぼうけ | 
+

@@ -1,0 +1,57 @@
+id	Setiap orang punya jalan berbeda. 
+ja	下積みも重要だ | 
+ru	Все с чего-то начинали. 
+ar	&rlm;‏يبدأ الجميع في مكان ما.‏ | 
+da	Alle starter et sted. 
+el	Από κάπου πρέπει να ξεκινήσεις. 
+en	Everybody's gotta start somewhere. | 
+fi	Jokaisen täytyy aloittaa jostain. 
+fr	Il faut bien commencer quelque part. 
+he	&rlm;‏כולם מתחילים איפשהו.‏ | 
+it	Da qualche parte bisogna iniziare. 
+nl	Iedereen begint ergens. 
+no	Alle begynner et sted. 
+pl	Każdy gdzieś zaczyna. 
+pr-br	Todos começam de algum lugar. 
+pr	Todos têm de começar por algum lado. 
+ro	Toți trebuie să începem de undeva. 
+sp-eu	Todo el mundo empieza por alguna parte. 
+sp	Todos comienzan en algún lugar. 
+sv	Alla börjar nånstans. 
+th	ทุกคนมีจุดเริ่มต้น | 
+tr	Herkes bir yerden başlar. 
+vi	Ai cũng phải có lúc bắt đầu. | 
+zh-long	英雄不怕出身低 
+zh-short	大家都是一步步走过来的 
+ko	누구에게나 시작이 있죠  | 
+
+es	Duérmete. Por favor. 
+pt-br	Agora durma, por favor. 
+cs	Jdi spát. Prosím. 
+da	Vær sød at sove. | 
+el	Κοιμήσου. Σε παρακαλώ. 
+en	Go to sleep. Please. 
+es-eu	Duerme, por favor. 
+fi	Yritä nukkua. Ole kiltti. | 
+fr	Dors. S'il te plaît. 
+he	‫לכי לישון. בבקשה.‬ | 
+hr	Spavaj. Molim te. 
+hu	Most aludj! Kérlek! 
+id	Tidurlah. Ayah mohon. 
+ja	&lrm;おやすみなさい | 
+ko	&lrm;어서 자, 이제 | 
+ms	Tidurlah. Tolong. 
+nl	Ga slapen. Alsjeblieft. 
+no	Nå må du sove. Vær så snill. 
+pt	Dorme. Por favor. 
+ro	Hai, culcă-te! Te rog. 
+sv	Var snäll och sov nu. 
+th	&lrm;นอนเถอะลูก | 
+tr	Hadi uyu. Lütfen. 
+uk	Засинай. Будь ласка. 
+vi	&lrm;Ngủ đi. Nhé. | 
+zh-long	快睡吧，拜託 
+zh-short	睡吧 拜托 
+it	Dormi, per favore. 
+ru	А теперь давай баиньки. 
+

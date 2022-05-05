@@ -1,0 +1,32 @@
+ja	ジェシー | 
+
+el	Αφότου πέθανε ο Ίγκορ, μίλησα με τους συμμαθητές του. 
+it	Dopo la morte di Igor, ho parlato con i suoi compagni. 
+hr	Nakon Igorove smrti razgovarala sam s njegovim kolegama. 
+es	Tras la muerte de Igor, hablé con todos sus compañeros. 
+fi	Igorin kuoltua juttelin | hänen luokkatovereidensa kanssa. | 
+uk	Після смерті Ігоря я говорила з його однокласниками. 
+cs	Po Igorově smrti jsem mluvila se všemi jeho spolužáky. 
+da	Efter Igors død talte jeg | med hans klassekammerater. | 
+en	After Igor's death, I talked to all of his classmates. 
+es-eu	Tras la muerte de Igor, hablé con sus compañeros. 
+fr	Après la mort d'Igor, j'ai parlé à tous ses camarades. 
+he	‫אחרי שאיגור מת, דיברתי עם כל חבריו לכיתה.‬ | 
+hu	Igor halála után beszéltem az osztálytársaival. 
+id	Setelah Igor wafat, aku bicara dengan semua teman sekelasnya. 
+ja	&lrm;イゴールの死後 | &lrm;同級生全員と話しました | 
+ko	&lrm;이고르가 죽은 후 | &lrm;반 친구 모두와 상담을 했어요 | 
+ms	Selepas Igor mati, saya jumpa semua rakan sekelasnya. 
+nl	Na Igors dood heb ik al zijn klasgenoten gesproken. 
+no	Etter Igors død snakket jeg med alle klassekameratene. 
+pt-br	Após a morte de Igor, falei com todos os colegas dele. 
+pt	Depois da morte do Igor, falei com os colegas dele. 
+ro	După moartea lui Igor, am vorbit cu toți colegii lui. 
+sv	Efter Igors död pratade jag med hans klasskamrater. 
+th	&lrm;หลังจากอิกอร์ตาย | &lrm;ฉันคุยกับเพื่อนร่วมชั้นของเขาทุกคน | 
+tr	Igor'un ölümünden sonra sınıf arkadaşlarıyla konuştum. 
+vi	&lrm;Sau khi Igor chết, tôi đã nói chuyện | &lrm;với tất cả bạn học của cậu ấy. | 
+zh-long	伊格爾死後，我跟他的同學談過 
+zh-short	伊戈尔死后 我跟他所有的同学都谈过 
+ru	После смерти Игоря я говорила с его одноклассниками. 
+

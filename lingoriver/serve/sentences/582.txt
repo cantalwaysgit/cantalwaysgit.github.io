@@ -1,0 +1,25 @@
+id	Selamat malam. 
+ko	잘 가요 | 
+ru	Спокойной ночи. 
+ar	&rlm;‏طابت ليلتك.‏ | 
+da	Godnat. 
+el	Καληνύχτα. 
+en	Good night. | 
+fi	Hyvää yötä. 
+fr	Bonne soirée. 
+he	&rlm;‏לילה טוב.‏ | 
+it	Buonanotte. 
+no	Ha det bra. 
+pl	Dobranoc. 
+pr	Boa noite. 
+pr-br	Boa noite. 
+ro	Noapte bună! 
+sp	Buenas noches. 
+sp-eu	Buenas noches. 
+sv	God natt. 
+th	ราตรีสวัสดิ์ | 
+tr	İyi geceler. 
+vi	Chúc ngủ ngon. | 
+zh-long	晚安 
+zh-short	晚安 
+

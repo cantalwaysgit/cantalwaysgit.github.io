@@ -1,0 +1,27 @@
+en	Oh! I'm so happy, Sandy! | 
+ja	最高にうれしいぜ | 
+id	Aku sangat senang, Sandy! 
+ar	&rlm;‏أنا سعيد جداً يا "ساندي"!‏ | 
+da	Jeg er så glad, Sandy! 
+el	Είμαι τόσο ευτυχισμένος, Σάντι! 
+fi	Olen tosi onnellinen! 
+fr	Je suis trop content ! 
+he	&rlm;‏אני כל כך שמח, סנדי!‏ | 
+it	Sono così felice, Sandy! 
+ko	정말 기뻐요, 샌디! | 
+nl	Ik ben zo blij, Sandy. 
+no	Jeg er så glad, Sandy! 
+pl	Tak bardzo się cieszę! 
+pr-br	Estou muito feliz, Sandy! 
+pr	Estou tão contente, Sandy! 
+ro	Sunt așa de fericit, Sandy! 
+sp	¡Estoy muy feliz, Sandy! 
+sp-eu	¡Qué contento estoy, Sandy! 
+sv	Jag är så lycklig! 
+th	ฉันแฮปปีสุดๆ เลย แซนดี้ | 
+tr	Çok mutluyum Sandy! 
+vi	Tôi vui quá, Sandy! | 
+zh-long	我好開心喔，山迪！ 
+zh-short	我太高兴了 桑迪！ 
+ru	Я так рад, Сэнди! 
+

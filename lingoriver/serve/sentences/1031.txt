@@ -1,0 +1,27 @@
+ar	&rlm;‏أتحبه يا "ساندي"؟‏ | 
+da	Kan du lide den, Sandy? 
+el	Σου αρέσει, Σάντι; 
+en	What do you think, Sandy? | You like it? | 
+fi	Entä Sandy? 
+fr	Et toi, Sandy ? 
+he	&rlm;‏אתה אוהב את זה, סנדי?‏ | 
+id	Bagaimana, Sandy? Kau menyukainya? 
+it	Ti piace, Sandy? 
+ko	마음에 들어, 샌디? | 
+nl	Wat vind jij, Sandy? 
+pr-br	Está gostando, Sandy? 
+pr	Gostas, Sandy? 
+sp-eu	¿Te gusta, Sandy? 
+sp	¿Te gusta, Sandy? 
+sv	Gillar du det, Sandy? 
+tr	Beğendin mi Sandy? 
+vi	Anh có thích không, Sandy? | 
+zh-long	你喜歡嗎，山迪？ 
+zh-short	你喜欢吗 桑迪？ 
+ja	サンディは？ | 
+no	Liker du den, Sandy? 
+pl	A ty, Sandy? 
+ro	Îți place, Sandy? 
+ru	Тебе нравится, Сэнди? 
+th	ชอบไหมล่ะ แซนดี้ | 
+

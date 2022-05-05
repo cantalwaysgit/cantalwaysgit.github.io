@@ -1,0 +1,27 @@
+ar	&rlm;‏مدينة بائسة؟‏ | 
+da	Elendige by? 
+el	Θλιβερή πόλη; 
+en	Miserable town? | 
+fi	Kurjassa kaupungissa? 
+fr	Cette pitoyable ville ? 
+he	&rlm;‏עיר עלובה?‏ | 
+it	Miserabile città? 
+no	Elendige byen? 
+pl	Żałosnym? 
+pr-br	Cidade desgraçada? 
+pr	Cidade desprezível? 
+ro	Oraș nefericit? 
+sp	¿Ciudad triste? 
+sp-eu	¿Miserable ciudad? 
+sv	Sorgliga stad? 
+th	เมืองเฮงซวยเหรอ | 
+tr	Berbat kent mi? 
+vi	Thị trấn thảm hại? | 
+zh-long	悲慘城市？ 
+zh-short	悲惨的城市？ 
+nl	Ellendige stad? Die is goed voor je geweest. 
+ko	우울한 동네? | 
+ru	Вшивый городишко? 
+ja	“悲しい街”？ | 君に大成功をくれた街だ | 
+id	Kota menyedihkan? 
+

@@ -1,0 +1,27 @@
+ja	彼女ほどの | 歌声の持ち主はいない | 
+pl	Uważam, że ma swój niepowtarzalny styl. 
+ru	Я считаю, никто не делает того, что делает эта девочка. 
+ar	&rlm;‏‏برأيي، لا يغني أحد ‏كما تغني هذه الفتاة.‏ | 
+da	For mig at se, så er der ingen, der kan det, som hun kan. 
+el	Κατά τη γνώμη μου, αυτό που κάνει είναι ξεχωριστό. 
+en	Just to... I mean, to me, no one's doing | what this kid is doing out there. | 
+fi	Kukaan ei ole samanlainen kuin hän. 
+fr	Aucune chanteuse ne fait ce qu'elle fait actuellement. 
+he	&rlm;‏‏כלומר, בשבילי, אף אחד לא עושה | &rlm;‏מה שהילדה הזו עושה.‏ | 
+it	Secondo me, non c'è nessuno al livello di questa ragazza. 
+no	Det er ingen der ute som gjør det hun gjør. 
+pr	Acho que não há ninguém lá fora que faça o que ela faz. 
+pr-br	Na minha opinião, ninguém canta como ela por aí. 
+ro	După mine, puștoaica nu se mai poate compara cu nimeni. 
+sp-eu	Yo creo que no hay nadie haciendo lo que hace esta mujer. 
+sp	Para mí, no hay nadie que haga lo que hace ella. 
+sv	Enligt mig så finns det ingen som gör det hon gör. 
+th	สำหรับผมแล้ว | ข้างนอกนั่นไม่มีใครร้องแบบเธอ | 
+tr	Yani bana göre kimse bu çocuğun yaptığını yapmıyor. 
+vi	Với tôi, không ai ngoài kia | làm được như cô gái này. | 
+zh-long	我是覺得，這小女生相當獨特 
+zh-short	我的意思是这孩子唱得比其他人都好 
+ko	내가 보기에는 이 친구처럼 | 잘하는 가수가 없어 | 
+nl	Volgens mij doet niemand wat zij doet. Mariah niet, Whitney niet... 
+id	Bagiku, tidak ada yang seperti dia di luar sana. 
+

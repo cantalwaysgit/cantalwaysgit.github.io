@@ -1,0 +1,27 @@
+ru	Что тебе дался этот «Чили»? 
+ar	&rlm;‏لماذا تتحدث عن "تشيليز" الآن؟‏ | 
+da	Hvorfor snakker du om Chili's? 
+el	Γιατί μιλάς για το Τσίλις; 
+fi	Miksi höpiset Chili'sistä? 
+fr	Arrête de soûler avec ça. 
+it	Perché parli di Chili's? 
+ko	칠리스 얘기는 왜 해요? | 
+nl	Waarom heb je het over Chili's? 
+no	Hvorfor snakker du om Chili's? 
+pr-br	Por que está falando do Chili's? 
+pr	Porque estás a falar do Chili's? 
+ro	De ce tot o dai cu restaurantul? 
+sp-eu	¿Por qué hablas de Chili's? 
+sp	¿Por qué hablas de Chili's? 
+sv	Varför snackar du om Chili's? 
+th	ทำไมพูดถึงร้านชิลีส์ | 
+tr	Neden Chili's'den söz ediyorsun? 
+vi	Sao anh lại nói về nhà hàng Chili's? | 
+zh-long	你這時候提餐廳幹嘛？ 
+zh-short	你提红辣椒餐厅干什么？ 
+en	-Why are you talking about Chili's now? | -I just don't wanna... | 
+he	&rlm;‏למה אתה מדבר על "צ'ילי'ס"?‏ | 
+id	Kenapa bicara soal Chili's? 
+pl	O czym ty mówisz? 
+ja	なぜ急ぐ？ | 
+

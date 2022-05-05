@@ -1,0 +1,27 @@
+id	Apa? Bukan aku. 
+ru	Что? Это не я. Не я. 
+th	อะไร นั่นไม่ใช่ผมนะ ไม่ใช่ผม | 
+ar	&rlm;‏ماذا؟ لم أكن السبب.‏ | 
+da	Hvad? Det var ikke mig. 
+el	Τι; Δεν το έκανα εγώ. 
+en	What? That wasn't me. Wasn't me. | 
+fi	En se minä ollut. 
+fr	Quoi ? C'était pas moi. 
+he	&rlm;‏מה? זה לא הייתי אני. לא אני.‏ | 
+it	Che c'è? Non ero io. 
+ko	왜? 나 아니었어 | 
+nl	Wat? Dat deed ik niet. 
+no	Hva? Det var ikke meg. Var ikke meg. 
+pl	Co? To nie ja. 
+pr-br	Quê? Não fui eu. 
+pr	O que foi? Não fui eu. 
+ro	Ce e? N-a fost vina mea. 
+sp-eu	¿Qué? No he sido yo. 
+sp	¿Qué? No fui yo. No fui yo. 
+sv	Vadå? Det var inte jag. 
+tr	Ne? Ben değildim. Değildim. 
+vi	Gì thế? Không phải tôi. | 
+zh-long	怎樣？不是我，不是我啦 
+zh-short	什么？不是我干的 
+ja	僕じゃないってば | 
+

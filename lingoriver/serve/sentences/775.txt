@@ -1,0 +1,25 @@
+da	Og vi sad oppe i et træ 
+ar	&rlm;‏وكنا نجلس على شجرة‏ | 
+el	Και ήμασταν στο δέντρο 
+en	♪ And we were in a tree ♪ | 
+fi	Me puussa istuttiin 
+fr	Dans un arbre 
+he	&rlm;‏ושהיינו ליד עץ‏ | 
+it	Eravamo tra gli alberi a 
+ko	우리는 나무 아래에서 | 
+nl	we zaten in een boom 
+pl	Siedzieliśmy na drzewie 
+pr-br	E estávamos em uma árvore 
+pr	E estávamos debaixo de uma árvore 
+ro	Și că eram într-un copac 
+sp-eu	Y estábamos en el árbol 
+sp	Y estábamos en un árbol 
+sv	Och vi satt i ett träd 
+th	และเราอยู่บนต้นไม้ | 
+tr	Ağaca çıkmıştık 
+vi	Và chúng ta ở dưới tán cây | 
+zh-long	我倆在樹下 
+zh-short	我们在树上 
+id	Dan kita berada di bawah pohon 
+ru	Мы сидели на дереве 
+

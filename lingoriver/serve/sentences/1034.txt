@@ -1,0 +1,26 @@
+ar	&rlm;‏لا شيء. لا، أظنه جيداً جداً.‏ | 
+da	Ikke noget. Den er god. 
+el	Τίποτα. Πιστεύω ότι είναι καλό. 
+en	Nothing. No, I think it's good. | 
+fr	Non. Il est bon. 
+it	Niente. No, mi sembra buono. 
+pr-br	Nada. Não, acho que está bom. 
+pr	Nada. Não, acho que é bom. 
+sp-eu	Nada. No, está bueno. 
+sp	Nada. Creo que es bueno. 
+sv	Ingenting. Det smakar bra. 
+vi	Không sao. Không, tôi nghĩ là ngon. | 
+zh-long	沒事，我覺得還不錯 
+zh-short	没什么 不 我觉得挺好的 
+ko	아무것도 아니에요 | 맛 좋네요 | 
+he	&rlm;‏כלום. לא, אני חושב שזה טוב.‏ | 
+ja	おいしいけど | ちょっとブドウっぽい | 
+fi	Ei mikään. Ihan hyvää. 
+ro	Nimic. Nu, mi se pare bun. 
+th	ไม่มี ผมคิดว่ามันดีนะ | 
+tr	Hiç. Yok, bence güzel. 
+id	Tidak. Menurutku ini enak. 
+ru	Ничего. Хорошее вино. 
+no	Ingenting. Nei, jeg synes den er god. Bare litt mye drue. 
+pl	Nic. Dobre. 
+

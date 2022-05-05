@@ -1,0 +1,28 @@
+ja	何？ | 
+id	- Apa? - Firuz bercanda. 
+ar	&rlm;‏‏- ماذا؟ | &rlm;‏- "فيروز" يمزح.‏ | 
+da	-Hvad? -Firuz laver sjov. 
+el	-Τι πράγμα; -Ο Φαρούζ αστειεύεται. 
+en	-You what? | -Firuz joking. [chuckles] | 
+fi	-Siis mitä? -Firuz vitsailee. 
+fr	- Pardon ? - Firuz déconne. 
+he	&rlm;‏‏מה? | &rlm;‏-פיירוז צוחק.‏ | 
+it	- Cosa? - Firuz scherza. 
+ko	- 뭐라고요? | - 농담이야 | 
+nl	Wat? -Grapje van Firuz. 
+no	-Hva for noe? -Firuz spøker. 
+pl	- Że co? - Firuz żartuje. 
+pr-br	-O quê? -Firuz está brincando. 
+pr	- O quê? - O Firuz estava a brincar. 
+ro	- Poftim? - Firuz glumește. 
+sp-eu	- ¿Cómo? - Broma de Firuz. 
+sp	- ¿Qué? - Firuz bromea. 
+sv	-Vadå? -Firuz skämtar. 
+th	- คุณอะไรนะ | - ไฟรูซล้อเล่นน่า | 
+tr	-Ne yaptın? -Firuz şaka yapıyor. 
+vi	- Anh làm gì cơ? | - Firuz đùa thôi. | 
+zh-long	-什麼？ -開玩笑的啦 
+zh-short	-你什么？ -菲鲁兹开个玩笑 
+ru	Фируз шутит. 
+ja	冗談だよ | 
+

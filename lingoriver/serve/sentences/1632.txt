@@ -1,0 +1,51 @@
+id	Ini sungguhan? 
+ru	Это серьезно? Мне не чудится? 
+ja	マジで戦いたいのか？ | かかってこい！ | 
+ar	&rlm;‏أهذا يحدث؟‏ | 
+da	Hvad sker der her? 
+el	Θα το κάνουμε στ' αλήθεια; 
+en	This happening? | Huh, this is happening? | 
+fi	Näinkö tämä menee? 
+fr	C'est sérieux, ça ? Hein, dis-moi ! 
+he	&rlm;‏זה קורה? מה, זה קורה?‏ | 
+it	Facciamo sul serio? 
+ko	정말 이럴 거야? | 
+no	Skjer dette? 
+pl	Tak ma być? Tego chcesz? 
+pr-br	Isso está acontecendo? 
+pr	Isto está mesmo a acontecer? 
+ro	E pe bune? 
+sp-eu	¿Así estamos? ¿Así están las cosas? 
+sp	¿Vamos a hacer esto? ¿Haremos esto? 
+sv	Händer det här? 
+th	นี่เกิดขึ้นเหรอ นี่เกิดขึ้นเหรอ | 
+tr	Bu oluyor mu? Ha, oluyor mu? 
+vi	Sẽ như thế này, phải không? | 
+zh-long	要這樣嗎？真的要這樣嗎？ 
+zh-short	这是真的吗？是真的吗？ 
+nl	Gebeurt dit echt? Kom maar op dan. 
+ar	&rlm;‏قاتلني إذاً!‏ | 
+da	Kom an! 
+el	Έλα, λοιπόν! 
+en	Well, bring it on! | 
+fi	Antaa tulla sitten! 
+fr	Tu vas voir ! 
+he	&rlm;אז בוא נראה אותך!‏ | 
+it	Allora fatti sotto! 
+ko	어디 한번 덤벼 봐! | 
+no	Kom med det! 
+pr-br	Bem, mande ver! 
+pr	Vamos lá! 
+ro	Atunci, dă-i drumul! 
+sp-eu	¡Pues adelante! 
+sp	¡Vamos! 
+sv	Kom igen då! 
+th	งั้นเข้ามาเลย | 
+tr	Gel bakalım! 
+vi	Chiến đấu đi! | 
+zh-long	來呀！ 
+zh-short	那好 来啊！ 
+ru	Ну давай! 
+id	Maju! 
+pl	No to chodź! 
+

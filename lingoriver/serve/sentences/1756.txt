@@ -1,0 +1,5 @@
+en	Don't say that. | 
+id	Jangan bilang begitu. 
+ru	Не говори так. 
+ja	考え直せ | 
+

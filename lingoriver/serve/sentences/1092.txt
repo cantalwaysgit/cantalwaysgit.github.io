@@ -1,0 +1,27 @@
+ar	&rlm;‏أظن أنه يوجد أحد خارج منزلي.‏ | 
+da	Jeg tror, der er nogen udenfor mit hus. 
+el	Νομίζω ότι κάποιος είναι έξω από το σπίτι μου. 
+en	I think someone's outside my house. | 
+fr	Y a quelqu'un devant chez moi. 
+he	&rlm;‏אני חושבת שיש מישהו מחוץ לבית שלי.‏ | 
+it	C'è qualcuno fuori da casa mia. 
+ko	누가 집 밖에 있는 것 같아요 | 
+pl	Ktoś jest przed moim domem. 
+pr	Acho que está alguém junto à minha casa. 
+pr-br	Acho que tem alguém do lado de fora da minha casa. 
+ro	Cred că e cineva în fața casei mele. 
+sp	Creo que hay alguien afuera de mi casa. 
+sp-eu	Creo que hay alguien en mi jardín. 
+sv	Nån verkar vara utanför mitt hus. 
+tr	Galiba evimin önünde biri var. 
+vi	Hình như có ai đó ở bên ngoài nhà tôi. | 
+zh-long	好像有人在我家外面 
+zh-short	我觉得有人在我家外面 
+nl	Er staat iemand voor m'n huis. Ik ben bang dat het zo'n bellende gek is. 
+ja	家の外に誰かいる | 
+no	Jeg tror det er noen utenfor huset. Kanskje en av gærningene som ringer meg. 
+fi	Joku on talollani. 
+id	Kurasa ada orang di luar rumahku. 
+ru	Кто-то стоит у моего дома. 
+th	ฉันคิดว่ามีคนอยู่นอกบ้าน | 
+

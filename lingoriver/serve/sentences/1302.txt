@@ -1,0 +1,26 @@
+id	Ya, kurasa aku akan jatuh cinta 
+ja	君を愛する予感がする | 
+ru	Да, я, кажется, влюбляюсь 
+da	Ja, jeg falder for dig 
+pr-br	Sim, acho que vou me apaixonar 
+ar	&rlm;‏أجل، أظن أنني سأغرم"‏ | 
+el	Νομίζω ότι θα ερωτευτώ 
+en	♪ Yeah, I think I'm gonna fall in love ♪ | 
+fi	Sua taidan rakastaa 
+fr	Je crois que je vais tomber amoureux 
+he	&rlm;‏כן, אני חושב שאתאהב‏ | 
+it	Sì, credo che mi innamorerò 
+ko	그래요 | 사랑에 빠질 것 같아요 | 
+nl	ja, ik denk dat ik verliefd word 
+pl	Zakocham się w tobie 
+pr	Sim, acho que me vou apaixonar 
+ro	Da, cred că o să mă îndrăgostesc 
+sp-eu	Sí, creo que voy a enamorarme 
+sp	Sí, creo que voy a enamorarme 
+sv	Ja, jag tror att jag är kär 
+th	ใช่ คิดว่าผมกำลังตกหลุมรัก | 
+tr	Evet, sanırım olacağım âşık 
+vi	Đúng, anh nghĩ anh sẽ yêu | 
+zh-long	我想我要陷進去了 
+zh-short	是的 我觉得自己恋爱了 
+

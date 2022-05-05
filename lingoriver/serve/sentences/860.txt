@@ -1,0 +1,52 @@
+id	Lagunya bagus dan aku juga menyukainya. 
+ko	노래도 좋고 | 가수도 마음에 들어 | 
+ru	Песня хорошая, и девочка тоже. 
+ar	&rlm;‏الأغنية جيدة، وأنا أحبها أيضاً.‏ | 
+da	Det er en god sang, og jeg kan lide hende. 
+el	Το κομμάτι είναι καλό, και μ' αρέσει κι αυτή. 
+en	The song is good, and I like her, too. | 
+fi	Kappale on hyvä, ja pidän tytöstäkin. 
+fr	La chanson est top, et elle aussi. 
+he	&rlm;‏השיר טוב, ואני אוהב גם אותה.‏ | 
+it	La canzone è bella e lei anche. 
+nl	Het nummer is mooi en zij ook. 
+no	Sangen er bra, og jeg liker henne også. 
+pl	Piosenka jest dobra, Courtney też niezła. 
+pr	A canção é boa e também gosto dela. 
+pr-br	A música é boa e gosto dela também. 
+ro	Melodia e bună și îmi place și ea. 
+sp-eu	La canción es buena, y ella me gusta. 
+sp	La canción es buena, y ella me gusta también. 
+sv	Det är en bra låt och jag gillar henne. 
+th	เพลงเพราะดี และผมชอบเธอด้วย | 
+tr	Şarkı iyi, kızı da sevdim. 
+vi	Bài đó hay đấy, và tôi cũng thích cô ta. | 
+zh-long	歌很好聽，人我也喜歡 
+zh-short	那首歌挺好听的 我也挺喜欢她的 
+ja	歌も本人も好きだ | トイレのカメラで観察した | 
+id	Saat dia berada di kamar mandi, aku bisa melihatnya dengan jelas. 
+ko	화장실에 들어갔을 때 | 아주 자세히 봤지 | 
+ru	-Я её хорошо разглядел в ванной. -Что?! 
+ar	&rlm;‏عندما كانت في الحمام، رأيتها بشكل جيد.‏ | 
+da	Da hun var på badeværelset, fik jeg kigget godt på hende. 
+el	Όταν πήγε στην τουαλέτα, έριξα μια προσεκτική ματιά. 
+en	You know, when she was in bathroom, | I got quite a good look at her. | 
+fi	Pääsin näkemään, kun hän kävi kylpyhuoneessa. 
+fr	Quand elle est allée se repoudrer, j'ai pu l'admirer. 
+he	&rlm;‏כשהיא הייתה בשירותים הצלחתי לראות אותה טוב.‏ | 
+it	Quando è andata in bagno, ho visto un bel panorama. 
+nl	Toen ze in de badkamer was, kon ik haar goed zien. 
+no	Da hun var på toalettet, fikk jeg en god titt. 
+pl	Dobrze się jej przyjrzałem, gdy była w łazience. 
+pr-br	Dei uma boa olhada nela quando ela foi ao banheiro. 
+pr	Quando ela foi à casa de banho, consegui ver bastante bem. 
+ro	Când era în baie, am avut o priveliște chiar frumoasă. 
+sp	Cuando estaba en el baño, la pude ver bien. 
+sp-eu	Cuando estaba en el baño pude verla bien. 
+sv	När hon var i badrummet, kunde jag se ordentligt. 
+th	ตอนที่เธออยู่ในห้องน้ำ | ได้มองเธอเต็มตา | 
+tr	Banyoya girdiğinde iyice baktım. 
+vi	Lúc cô ta ở nhà tắm, tôi nhìn khá rõ. | 
+zh-long	她上廁所時，我好好欣賞了一番 
+zh-short	她在卫生间时我可是大饱眼福 
+

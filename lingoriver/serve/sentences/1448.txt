@@ -1,0 +1,27 @@
+sv	Tsunami sitter på mig tills jag ger mig. Jag blir aldrig mästare. 
+ja	俺がタップするまで | 相手が顔に座る | 
+ar	&rlm;‏‏سيجلس "تسونامي" على وجهي حتى أستسلم. | &rlm;‏لن أكون البطل أبداً.‏ | 
+da	Tsunami sidder på mig, til jeg giver op. Jeg bliver aldrig mester. 
+el	Ο Τσουνάμι θα κάτσει πάνω μου μέχρι να παραδοθώ. Δε θα κερδίσω ποτέ. 
+en	Tsunami sits on my face until I tap out. | I'm never gonna be the champ. | 
+fi	Tsunami istuu päälläni, kunnes luovutan. Minusta ei tule mestaria. 
+fr	Tsunami va s'asseoir sur ma tronche. Je serai jamais champion. 
+he	&rlm;‏‏צונאמי יושב עליי עד שאני נכנע. | &rlm;‏לעולם לא אהיה האלוף.‏ | 
+it	Tsunami si siederà su di me fino alla mia resa. Non sarò mai campione. 
+nl	Tsunami zit op me tot ik aftik. Ik word nooit kampioen. 
+no	Tsunami sitter på meg til jeg gir meg. Jeg blir aldri mester. 
+pl	Tsunami siada mi na twarz, ja się poddaję. Nie będę mistrzem. 
+pr-br	Tsunami senta em mim até eu desistir. Nunca vou ser campeão. 
+pr	O Tsunami senta-se na minha cara até eu desistir. Nunca serei campeão. 
+ro	Tsunami stă pe fața mea până când renunț. N-o să ajung campion niciodată! 
+sp-eu	Tsunami se sienta en mi cara y me rindo. Nunca seré el campeón. 
+sp	Tsunami se me sentará encima hasta el final. Nunca seré el campeón. 
+th	สึนามินั่งทับฉันจนฉันตบมือยอมแพ้ | ฉันไม่มีวันได้เป็นแชมป์ | 
+tr	Tsunami üzerime oturup canımı çıkaracak. Asla şampiyon olamayacağım. 
+vi	Tsunami ngồi lên mặt tôi tới khi thua. | Tôi sẽ không bao giờ là nhà vô địch. | 
+zh-long	海嘯坐在我臉上直到我求饒 我永遠無法奪冠了 
+zh-short	海啸会坐在我身上直到我认输 我永远都拿不到冠军 
+id	Tsunami menduduki wajahku sampai aku menyerah. Tak akan jadi juara. 
+ru	Цунами будет сидеть на мне, пока я не сдамся. Ноль шансов. 
+ko	쓰나미한테 항복하라고 하니 | 절대 챔피언이 못 될 거예요 | 
+

@@ -1,0 +1,27 @@
+en	[sighs] Just my life. | 
+ar	&rlm;‏حياتي.‏ | 
+da	Men mit liv. 
+el	Ίσως φταίει η ζωή μου. 
+fi	Elämäni. 
+fr	C'est cette vie. 
+he	&rlm;‏פשוט החיים שלי.‏ | 
+it	È la mia vita. 
+pl	Całe moje życie. 
+pr-br	É a minha vida. 
+pr	É a minha vida. 
+ro	E vorba de viața mea. 
+sp	Es solo que mi vida. 
+sp-eu	Es mi vida. 
+sv	Det är mitt liv. 
+th	แค่ชีวิตฉัน | 
+tr	Benim hayatım... 
+vi	Vấn đề là cuộc đời tôi. | 
+zh-long	我的生活 
+zh-short	只是我的生活 
+id	Beginilah hidupku. 
+nl	Het is mijn leven. Het loopt uit de hand. 
+no	Det er bare livet mitt. Jeg føler at jeg ikke har styringen. 
+ru	Просто моя жизнь... 
+ja	自分の人生なのに | 分からないの | 
+ko	그냥 제 인생이 | 
+

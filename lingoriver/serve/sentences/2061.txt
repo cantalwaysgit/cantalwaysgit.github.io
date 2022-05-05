@@ -1,0 +1,30 @@
+id	Karena dia mulai jujur... 
+en	And because he started | telling them the truth... | 
+ru	Он начал говорить им правду, 
+ar	&rlm;‏‏ولأنه بدأ يخبرهم الحقيقة، | &rlm;‏حظي معظمهم بنجاح مهني.‏ | 
+da	Fordi han begyndte at fortælle sandheden, fik de fleste fine karrierer. 
+el	Άρχισε να τους λέει την αλήθεια. Οι πιο πολλοί έκαναν σπουδαία καριέρα. 
+fi	Hän alkoi puhua heille totta, ja useimmat menestyivät. 
+fr	Il s'est mis à leur dire la vérité, et ils ont quasiment tous cartonné. 
+he	&rlm;‏‏כי הוא התחיל להגיד להם את האמת, | &rlm;‏לרובם היו קריירות גדולות.‏ | 
+it	Lui iniziò a dire loro la verità e tutti ebbero delle grandi carriere. 
+ko	진실을 얘기하기 시작했고 | 대부분은 결국 큰 성공을 거뒀어요 | 
+nl	Doordat hij ze de waarheid zei, kregen de meesten grote carrières. 
+no	Fordi han begynte å si sannheten, fikk de fleste av dem gode karrierer. 
+pl	W końcu zaczął mówić im prawdę i odnieśli sukces. 
+pr-br	Ele começou a dizer a verdade para eles e a maioria teve carreiras incríveis. 
+pr	Como começou a dizer-lhes a verdade, a maioria teve grandes carreiras. 
+ro	Fiindcă le-a zis adevărul, majoritatea s-au ales cu o carieră de succes. 
+sp	Como comenzó a decirles la verdad, la mayoría tuvo carreras exitosas. 
+sp-eu	Cuando empezó a decirles la verdad, casi todos triunfaron. 
+sv	Eftersom han började säga sanningen, blev de flesta rätt framgångsrika. 
+th	เพราะเขาเริ่มพูดความจริงกับพวกเขา | พวกเขาส่วนใหญ่ดังๆ กัน | 
+tr	Onlara doğruyu söylemeye başladığı için çoğu harika işler yaptı. 
+vi	Vì anh ta bắt đầu nói sự thật, | hầu hết họ đều có sự nghiệp lớn. | 
+zh-long	因為他開始說出實話 大部分的藝人開始飛黃騰達 
+zh-short	因为他开始跟他们说实话 他们大多数人都很成功 
+ja	彼が本音で話し始めたら | 皆 売れ始めた | 
+id	Sebagian besar kliennya sukses dalam kariernya. 
+ru	и их карьера пошла на лад. 
+en	most of them ended up | having pretty big careers. | 
+

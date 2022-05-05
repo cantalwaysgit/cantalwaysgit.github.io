@@ -1,0 +1,59 @@
+id	Sandy adalah salah satu manajer Hollywood Perancis 
+ru	Он был одним из голливудских менеджеров, что вечно крутились поблизости. 
+en	Sandy was one of those | fringe Hollywood managers | 
+ar	&rlm;‏‏كان أحد مدراء "هوليوود" | &rlm;‏الذين تراهم متواجدين دوماً.‏ | 
+da	Han var en af de Hollywood-agenter, man så alle vegne. 
+el	Ήταν ένας από τους μάνατζερ του Χόλιγουντ που έβλεπες παντού. 
+fi	Hän oli niitä Hollywoodin managereja, joita näki joka paikassa. 
+fr	C'était un de ces imprésarios d'Hollywood qu'on croisait tout le temps. 
+he	&rlm;‏‏הוא היה אחד המנהלים האלה של הוליווד | &rlm;‏שראית תמיד.‏ | 
+it	Era uno di quei manager minori di Hollywood che incontravi ovunque. 
+ko	주변에서 흔히 보던 | 할리우드 매니저였어요 | 
+nl	Hij was zo'n Hollywood-manager die je overal zag. 
+no	Han var en av de Hollywood-managerne som alltid var til stede. 
+pl	Sandy był typem menedżera, którego widuje się bardzo często. 
+pr-br	Ele era um daqueles empresários de Hollywood que você via por aí. 
+pr	Era um daqueles empresários de Hollywood que víamos constantemente. 
+ro	Era unul dintre impresarii de la Hollywood prezenți peste tot. 
+sp	Era uno de esos agentes que siempre veías. 
+sp-eu	Era uno de esos mánagers marginales de Hollywood que siempre andaban por ahí. 
+sv	Han var en Hollywoodmanager som man alltid såg ute. 
+th	เขาเป็นผู้จัดการฮอลลีวูด | ชนิดที่เราเห็นอยู่บ่อยๆ | 
+tr	Hep ortalıkta gördüğünüz Hollywood menajerlerinden biriydi. 
+vi	Anh ta là một trong số nhà quản lý | ở Hollywood mà bạn dễ gặp ở đâu đó. | 
+zh-long	山迪是那種你常常會看到 非主流的好萊塢經紀人 
+zh-short	他是那种好莱坞常见的经纪人 
+ja	ハリウッドでは | パッとしないマネジャー | 
+en	that you always sort of saw around. | 
+id	yang selalu kita lihat. 
+
+no	Hun dro på shopping sent på ettermiddagen. 
+cs	Navečer odešla na nákup. 
+es	Fue de compras a la tarde. 
+el	Πήγε για ψώνια αργά το απόγευμα. 
+en	She went shopping late in the afternoon. 
+es-eu	Salió a comprar al atardecer. 
+fr	Elle est allée faire du shopping. 
+he	‫היא יצאה לקניות אחר הצהריים.‬ | 
+hr	Otišla je kasno popodne u kupnju. 
+hu	Késő délután ment vásárolni. 
+id	Dia pergi berbelanja di sore hari. 
+it	È andata a fare shopping nel pomeriggio. 
+ja	&lrm;夕方 買い物の後に― | 
+ko	&lrm;오후 늦게 뭘 사러 나갔어요 | 
+ms	Dia pergi beli-belah waktu tengah hari. 
+nl	Ze ging laat in de middag winkelen. 
+pt-br	Ela foi fazer compras no final da tarde. 
+pt	Foi fazer compras ao fim da tarde. 
+ro	A mers seara la cumpărături. 
+ru	Она пошла за покупками после обеда. 
+sv	Hon var och handlade på eftermiddagen. 
+th	&lrm;เธอไปซื้อของตอนบ่าย | 
+tr	Akşamüstü alışverişe çıktı. 
+uk	Вона пішла по магазинах пізно ввечері. 
+vi	&lrm;Cô ấy đi mua sắm vào chiều muộn. | 
+zh-long	她下午外出採買食材 
+zh-short	她下午去购物了 
+da	Hun tog på indkøb sidst på eftermiddagen. | 
+fi	Hän lähti iltapäivällä ostoksille. | 
+

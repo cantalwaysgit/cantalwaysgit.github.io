@@ -1,0 +1,27 @@
+ar	&rlm;‏المحاولة رقم 3. ستكون المرة الثالثة ناجحة.‏ | 
+da	Optagelse tre. Tredje gang er lykkens gang. 
+el	Λήψη τρίτη. Τρίτη και φαρμακερή. 
+fi	Kolmas kerta toden sanoo. 
+fr	Troisième prise. Cette fois, c'est la bonne. 
+he	&rlm;‏טייק שלישי. פעם שלישית גלידה.‏ | 
+it	Terza versione. La terza è quella buona. 
+nl	Derde opname. Drie keer is scheepsrecht. 
+no	Tredje tagning. Alle gode ting er tre. 
+pl	Podejście trzecie. Do trzech razy sztuka. 
+pr-br	Gravação número três. A terceira vez dá sorte. 
+pr	Vamos à terceira tentativa. À terceira é de vez. 
+ro	A treia sesiune. Trei e cu noroc. 
+sp-eu	Toma tres. A la tercera va la vencida. 
+sp	Toma tres. La tercera es la vencida. 
+sv	Tagning tre är det nu. Tredje gången gillt. 
+th	เทกสามละนะ ครั้งที่สามคือโชคดี | 
+tr	Üçüncü tekrar. Üçte keramet vardır. 
+vi	Thu lần ba. Quá tam ba bận nhé. | 
+zh-long	三次好，無三不成禮嘛 
+zh-short	第三次录音 第三次一定成 
+en	Take three it is. | Three time's the charm. Ha! | 
+ru	Третий дубль. Бог троицу любит. 
+ja	もう大丈夫　三度目の正直さ | 
+id	Rekaman ketiga. Kali ketiga pasti berhasil. 
+ko	3번째 시도야, 행운의 3번째 | 
+

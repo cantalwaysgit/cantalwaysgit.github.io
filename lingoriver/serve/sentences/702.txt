@@ -1,0 +1,28 @@
+ja	サンディ | 父がよろしく言ってた | 
+ru	Сэнди, 
+ar	&rlm;‏‏يا "ساندي"، أراد أبي أن أتأكد | &rlm;‏من إبلاغك تحياته.‏ | 
+da	Sandy, jeg skulle hilse fra min far. 
+el	Σάντι, ο πατέρας μου σου στέλνει χαιρετισμούς. 
+en	Sandy, um, my dad wanted to make sure | that I said hi to you. | 
+fi	Isäni pyysi, että tervehdin sinua. 
+fr	Sandy, mon père a demandé à ce que je te dise bonjour. 
+he	&rlm;‏סנדי, אבא שלי ביקש לוודא שמסרתי לך ד"ש.‏ | 
+id	Sandy, ayahku ingin memastikan aku menyampaikan salamnya. 
+it	Sandy, mio padre vuole che ti porti i suoi saluti. 
+ko	샌디, 아버지가 꼭 | 인사드리라고 하셨어요 | 
+nl	M'n vader wilde dat ik je de groeten deed. 
+no	Faren min ba meg hilse. 
+pl	Sandy, tata kazał mi ciebie pozdrowić. 
+pr-br	Sandy, meu pai pediu para eu dar "oi" para você. 
+pr	Sandy, o meu pai manda-te cumprimentos. 
+ro	Sandy, tata a insistat să te salut. 
+sp-eu	Sandy, mi padre quería asegurarse de que te saludara. 
+sp	Sandy, mi padre te manda saludos. 
+sv	Sandy, min pappa ville att jag skulle hälsa till dig. 
+th	แซนดี้ พ่อผมบอกให้สวัสดีแทนให้ได้ | 
+tr	Sandy, babam sana selam söylememi istedi. 
+vi	Sandy, bố tôi muốn tôi chào anh. | 
+zh-long	山迪，我爸叫我一定要跟你打招呼 
+zh-short	桑迪 我爸嘱咐我给你带个好 
+ru	папа просил передать привет. 
+

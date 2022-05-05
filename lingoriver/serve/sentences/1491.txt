@@ -1,0 +1,5 @@
+ru	Перестаньте! Только не это. 
+fr	Couché ! Soyez gentils. 
+ja	来るな！ やめてくれ | 
+id	Ayolah! Jangan... Kumohon. 
+

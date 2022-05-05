@@ -1,0 +1,25 @@
+ar	&rlm;‏انفصال مؤلم؟‏ | 
+da	Et hårdt brud? 
+el	Οδυνηρός χωρισμός; 
+en	A bad breakup? | 
+fi	Paha eroko? 
+he	&rlm;‏פרידה קשה?‏ | 
+it	Una rottura dolorosa? 
+ko	안 좋게 헤어졌나요? | 
+pl	Złamane serce? 
+pr-br	Teve um término de relação difícil? 
+pr	Uma separação difícil? 
+ro	O despărțire urâtă? 
+sp-eu	¿Una mala ruptura? 
+sp	¿Una ruptura dolorosa? 
+sv	En svår separation? 
+tr	Kötü bir ayrılık mı yaşadın? 
+vi	Một cuộc chia tay đau khổ à? | 
+zh-long	分手分得很難看？ 
+zh-short	不欢而散吗？ 
+ja	破局したの？ | 
+fr	Une rupture difficile ? 
+id	Perpisahan yang buruk? 
+ru	Разбитое сердце? 
+th	เลิกกันแย่เหรอคะ | 
+

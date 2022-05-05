@@ -1,0 +1,29 @@
+id	- Apa maksudnya? - Kau akan paham. 
+ja	つまり？ | 
+en	What does that mean? | 
+ru	-Это как? -Сейчас увидишь. 
+pl	- Jak to? - Zobaczysz. 
+ar	&rlm;‏‏- ما الذي يعنيه هذا؟ | &rlm;‏- سترين.‏ | 
+da	-Hvad skal det sige? -Du får se. 
+el	-Τι σημαίνει αυτό; -Θα δεις. 
+fi	-Mitä tarkoitat? -Kohta näet. 
+fr	- Comment ça ? - Tu verras. 
+he	&rlm;‏‏מה הכוונה? | &rlm;‏-את תראי.‏ | 
+it	- Che vuoi dire? - Lo vedrai. 
+ko	- 무슨 뜻이에요? | - 보면 알아 | 
+nl	Wat bedoel je? -Dat zul je wel zien. 
+no	-Hva mener du? -Vent og se. 
+pr-br	-Como assim? -Você vai ver. 
+pr	- Como assim? - Já vais ver. 
+ro	- Ce mai e și asta? - O să vezi. 
+sp-eu	- ¿Qué significa eso? - Ya verás. 
+sp	- ¿Qué quieres decir? - Ya verás. 
+sv	-Vad betyder det? -Du ska få se. 
+th	- หมายความว่ายังไง | - เดี๋ยวก็รู้ | 
+tr	-Ne demek o? -Göreceksin. 
+vi	- Ý anh là gì? | - Cô sẽ thấy. | 
+zh-long	-怎麼說？ -等一下就知道 
+zh-short	-什么意思？ -你马上就会知道了 
+ja	見てろ | 
+en	-You'll see. | -[dogs barking] | 
+

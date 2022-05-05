@@ -1,0 +1,52 @@
+ar	&rlm;‏أنا أحاول.‏ | 
+da	Jeg prøver. 
+el	Προσπαθώ. 
+fi	Yritän ainakin. 
+fr	Je fais tout pour. 
+he	&rlm;‏אני מנסה.‏ | 
+id	Aku sedang berusaha. 
+it	Ci provo. 
+ko	노력 중이에요 | 
+nl	Dat probeer ik. 
+pl	Staram się. 
+pr-br	Estou tentando. 
+pr	Estou a tentar. 
+ro	Încerc. 
+ru	Я стараюсь. 
+sp-eu	Lo intento. 
+sp	Lo intento. 
+sv	Jag försöker. 
+th	ฉันกำลังพยายามอยู่ | 
+tr	Uğraşıyorum. 
+vi	Tôi đang cố. | 
+zh-long	我正在努力 
+zh-short	我正在努力 
+en	-I'm trying. | -Amy? Courtney. | 
+ja	目標よ | 
+no	-Jeg prøver. -Amy? Courtney. Husker du meg fra festen? 
+ar	&rlm;‏‏"إيمي"؟ "كورتني". | &rlm;‏أتتذكرينني من حفلة المسبح؟‏ | 
+da	Amy? Courtney. Husker du mig fra pool partyet? 
+el	Η Κόρτνι είμαι. Με θυμάσαι; Ήμουν στο τελετουργικό στην πισίνα. 
+fi	Amy? Courtney. Tapasimme rituaaliallasbileissä. 
+fr	Amy ? Courtney. On s'est vues chez Sandy. 
+he	&rlm;‏‏איימי? קורטני. | &rlm;‏את זוכרת אותי ממסיבת הבריכה?‏ | 
+id	Amy? Courtney. Kau ingat aku dari pesta kolam Rachel? 
+it	Amy? Courtney. Ti ricordi la festa in piscina? 
+ko	에이미? 코트니예요 | 수영장 파티 기억하죠? | 
+nl	Amy? Courtney. Van het feest bij het zwembad? 
+pl	Jestem Courtney. Byłyśmy na imprezie na basenie. 
+pr	Amy? Courtney. Lembras-te de mim da festa na piscina? 
+pr-br	Amy? Courtney. Lembra-se de mim da festa na piscina? 
+ro	Amy? Courtney. Mă mai știi de la petrecerea la piscină? 
+ru	Эми? Кортни! Помнишь вечеринку в бассейне? 
+sp	¿Amy? Courtney. ¿Me recuerdas de la fiesta de la piscina? 
+sp-eu	¿Amy? Courtney. ¿Me recuerdas de la fiesta en la piscina? 
+sv	Amy? Minns du mig från poolfesten? 
+th	เอมี่ นี่คอร์ทนี่ย์ | จำฉันได้ไหมจากปาร์ตี้สระน้ำ | 
+tr	Amy? Courtney. Havuz partisinden hatırladın mı? 
+vi	Amy? Tôi là Courtney. | Nhớ tôi ở bữa tiệc bể bơi chứ? | 
+zh-long	艾咪，寇妮呀 記得那次泳池派對嗎？ 
+zh-short	艾米？考特尼 我们在泳池派对上见过 
+ja	プールの儀式で会ったわ | 
+en	Remember me from the ritual pool party? | 
+

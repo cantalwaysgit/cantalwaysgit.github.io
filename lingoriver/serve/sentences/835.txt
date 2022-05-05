@@ -1,0 +1,28 @@
+no	God natt, alle sammen. 
+ko	잘 자 | 
+en	Good night. Good night, everybody. | 
+ja	おやすみ | 
+el	Καλήνυχτα. Καληνύχτα σε όλους. 
+th	ราตรีสวัสดิ์ ราตรีสวัสดิ์ ทุกคน | ราตรีสวัสดิ์ | 
+id	Selamat malam, Semuanya. 
+ru	Спокойной ночи всем. Спокойной ночи. 
+ar	&rlm;‏طابت ليلتكم جميعاً.‏ | 
+da	Godnat, alle sammen. 
+fi	Hyvää yötä kaikille. 
+fr	Bonne nuit, tout le monde. 
+he	&rlm;‏לילה טוב, כולם. לילה טוב.‏ | 
+it	Buonanotte a tutti. 
+nl	Welterusten, allemaal. 
+pl	Dobranoc wszystkim. Dobranoc. 
+pr	Boa noite a todos. 
+pr-br	Boa noite, pessoal. 
+ro	Noapte bună tuturor! 
+sp	Buenas noches a todos. 
+sp-eu	Buenas noches. Buenas noches a todos. 
+sv	God natt, allihop. 
+tr	İyi geceler. İyi geceler millet. İyi geceler. 
+vi	Chúc ngủ ngon. Chúc tất cả ngủ ngon. | 
+zh-long	晚安，大家晚安，晚安 
+zh-short	晚安 大家晚安 
+en	Good night. | 
+

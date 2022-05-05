@@ -1,0 +1,25 @@
+id	Bepergian dengan jet bernama Hydroplane 
+ar	&rlm;‏سنسافر بالنفاثة وسمها طائرة مائية"‏ | 
+da	Afsted med en jet Lad uret tikke 
+el	Θα ανέβουμε στο τζετ, Που αποκαλώ υδροπλάνο 
+en	♪ Blowin' on the jet | Call it hydroplane ♪ | 
+fi	Kohta pilvessä lennetään 
+fr	On prend mon jet C'est mon hydroglisseur 
+he	&rlm;‏‏נושף בסילון‏, קורא לו מסטול ימי‏ | 
+it	Saliamo su un jet Chiamalo idrovolante 
+nl	stap in een jet noem het een hydroplane 
+pl	Sztachniemy się i odlecimy 
+pr	Até levantamos do chão Num hidroavião 
+pr-br	Queimando um no avião Chame-o de hidroplano 
+ro	Mergem cu avionul Îi spune hidroavion 
+ru	Летим на самолете Или на гидроплане... 
+sp-eu	Subiremos al jet Llámalo hidroavión 
+sp	Fumamos en el avión Llámalo hidroavión 
+sv	Vi tar vår jet Högre och högre 
+th	บินไปบนเจ็ต เรียกมันเครื่องบินน้ำ | 
+tr	Bindik bir jete İstersen deniz uçağı de 
+vi	Liếc ngang thật nhanh | Như xuồng máy lướt đi | 
+zh-long	搭上噴射機，稱它為水上飛機 
+zh-short	私人飞机 那是水上飞机 
+ko	수상 비행기를 탈 거야 | 
+

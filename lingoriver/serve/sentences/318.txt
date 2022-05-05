@@ -1,0 +1,28 @@
+ru	Мистер Кларк, очень приятно. 
+ar	&rlm;‏‏سُررت بلقائك حقاً يا سيد "كلارك". أنا | &rlm;‏"ساندي ويكسلر" من شركة "ويكسلر أرتيستس".‏ | 
+da	Hr. Clarke, en sand fornøjelse. Sandy Wexler fra Wexler Artists. 
+el	Κύριε Κλαρκ, χάρηκα για τη γνωριμία. Σάντι Γουέξλερ, μάνατζερ καλλιτεχνών. 
+en	Mr. Clarke, truly a pleasure. | Sandy Wexler of Wexler Artists. | 
+fi	Herra Clarke, tämä on ilo. Sandy Wexler, Wexler Artistsilta. 
+fr	M. Clarke, c'est un plaisir. Sandy Wexler de Wexler et ses Artistes. 
+he	&rlm;‏‏מר קלארק, לעונג הוא לי. | &rlm;‏סנדי וקסלר מ"וקסלר אמנים".‏ | 
+id	Tuan Clarke, sungguh suatu kehormatan. Sandy Wexler dari Wexler Artists. 
+it	Sig. Clarke, è un vero piacere. Sandy Wexler della Wexler Artists. 
+ko	클라크 씨, 반갑습니다 | 샌디 웩슬러입니다 | 
+nl	Mr Clarke, een genoegen. Sandy Wexler van Wexler Artists. 
+no	Mr. Clarke, så hyggelig. Sandy Wexler fra Wexler Artists. 
+pl	Miło pana poznać, panie Clarke. Sandy Wexler z Wexler Artists. 
+pr-br	É um prazer, Sr. Clarke. Sandy Wexler da Artistas Wexler. 
+pr	Sr. Clarke, é um prazer. Sandy Wexler, da Wexler Artists. 
+ro	Dle Clarke, deosebit de încântat! Sandy Wexler, de la Wexler Artists. 
+sp-eu	Sr. Clarke, es un verdadero placer. Sandy Wexler, de Artistas Wexler. 
+sp	Sr. Clarke, un verdadero gusto. Sandy Wexler, de Artistas Wexler. 
+sv	Mr Clarke, nöjet är på min sida. Sandy Wexler från Wexler Artists. 
+th	คุณคลาร์ก แซนดี้ เวกซ์เลอร์จาก | เวกซ์เลอร์อาร์ทิสต์ส ยินดีครับ | 
+tr	Bay Clarke, memnun oldum. Wexler Sanatçıları'ndan Sandy Wexler. 
+vi	Ông Clarke, rất vinh hạnh. | Sandy Wexler ở công ty Nghệ sĩ Wexler. | 
+zh-long	克拉克先生，很榮幸認識你 韋克斯勒經紀公司的山迪韋克斯勒 
+zh-short	克拉克先生 万分荣幸 韦克斯勒艺人公司的桑迪韦克斯勒 
+ja	クラークさん | サンディ･ウェクスラーです | 
+ru	Сэнди Уэкслер, «Уэкслер Артистс». 
+

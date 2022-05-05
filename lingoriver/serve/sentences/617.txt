@@ -1,0 +1,27 @@
+id	Menerima semua kegilaan Sandy. 
+ru	Все эти фокусы Сэнди. 
+nl	Omgaan met dat gestoorde gedoe van Sandy. 
+ja	サンディと組むことさ | 彼は… | 
+sv	Hur du klarar av Sandys galna grejer. 
+ar	&rlm;‏تتحملين كل جنون "ساندي".‏ | 
+da	Håndterer Sandys tosserier. 
+el	Πώς αντέχεις τις παλαβομάρες του Σάντι. 
+en	Deal with all the crazy Sandy shit. | 
+fi	Sandyn hullua sekoilua. 
+fr	Supporter toutes ses conneries. 
+he	&rlm;‏מתמודדת עם השטויות של סנדי.‏ | 
+it	A sopportare le assurdità di Sandy. 
+ko	정신 나간 샌디를 대하는 거요 | 
+no	Takler all Sandy-galskapen. 
+pl	Znosisz szaleństwa Sandy'ego. 
+pr	Aturar as maluqueiras do Sandy. 
+pr-br	Lidar com essa loucura do Sandy. 
+ro	Să suporți toate nebuniile lui Sandy. 
+sp-eu	Aguantar todas las locuras de Sandy. 
+sp	Lidiar con toda la mierda de Sandy. 
+th	จัดการกับความเพี้ยนบ้าบอของแซนดี้ | 
+tr	Tüm bu Sandy saçmalıklarıyla baş etmeyi. 
+vi	Làm việc với gã Sandy dở hơi này. | 
+zh-long	面對神經病山迪 
+zh-short	跟疯子桑迪打交道 
+

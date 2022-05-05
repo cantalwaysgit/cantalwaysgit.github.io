@@ -1,0 +1,57 @@
+id	Dia akan ada di pesta penutupan. Dia tertawa, makan dengan lahap. 
+ru	На вечеринке в честь завершения фильма он бы смеялся и набивал брюхо, 
+ar	&rlm;‏‏قد تراه في حفلة انتهاء تصوير فيلم | &rlm;‏يضحك ويأكل بنهم.‏ | 
+da	Man så ham til en afslutningsfest, og han lo og proppede sig. 
+el	Τον έβλεπες σε πάρτι μετά τα γυρίσματα, να γελάει και να τρώει συνεχώς. 
+en	You know, you'd see him at a wrap party, | and he'd be laughing, stuffing his face. | 
+fi	Elokuvien päätösbileissä nauramassa ja mättämässä ruokaa. 
+fr	On le voyait se marrer et se goinfrer en soirée de fin de tournage. 
+he	&rlm;‏‏היית רואה אותו במסיבת סיום של צילומים | &rlm;‏והוא היה צוחק וזולל.‏ | 
+it	Lo vedevi ridere e ingozzarsi alle feste di fine riprese. 
+ko	종영 파티에 가면 웃으며 | 꾸역꾸역 먹고 있었죠 | 
+nl	Je zag hem op een feest en hij lachte en propte zich vol. 
+no	Du kunne se ham på en avslutningsfest. Han ville le og stappe i seg mat. 
+pl	Na imprezach kończących zdjęcia zawsze się śmiał i obżerał. 
+pr-br	Ele ia a festas de encerramento e ficava rindo e enchendo a pança. 
+pr	Víamo-lo numa festa de conclusão de filme e ele estava a rir-se, a empanturrar-se. 
+ro	Îl vedeai la petrecerile de final râzând și îndopându-se. 
+sp-eu	Le veías en las fiestas de fin de rodaje riendo, poniéndose morado. 
+sp	Lo veías en fiestas de cierre de películas riendo y comiendo a lo loco. 
+sv	Man såg honom på en filmfest och han skrattade och käkade. 
+th	เห็นเขาตามงานปาร์ตี้ปิดกล้อง | หัวเราะเสียงดังแล้วก็กินไม่หยุด | 
+tr	Bir çekim sonu partisinde sırıtıp tıkınırken görürdünüz. 
+vi	Nếu gặp anh ta ở tiệc tổng kết, và | thấy anh ta vừa cười vừa nhồi đồ ăn. | 
+zh-long	你會在慶功派對看到他 嘻笑怒罵、狼吞虎嚥 
+zh-short	他会出现在杀青派对上 跟人有说有笑 吃着东西 
+ja	打ち上げパーティーに現れ | ガツガツ食ってる | 
+
+es	Debía recoger a nuestro hijo que estaba en tenis, 
+hr	Trebala je pokupiti starijeg sina s tenisa. 
+el	Ο μεγαλύτερος γιος μας είχε μάθημα τένις. 
+sv	Sen skulle hon hämta vår son på tennisen, 
+tr	Büyük oğlanı da tenis dersinden alacaktı. 
+uk	Збиралася забрати старшого сина з тенісу. 
+da	Vores ældste søn var til tennis. | 
+en	Our older son had a tennis lesson. 
+es-eu	Nuestro hijo mayor tenía clase de tenis. 
+fr	Notre fils avait un cours de tennis. 
+he	‫הבן הבכור שלנו היה בשיעור טניס.‬ | 
+hu	A nagyobbik fiunk teniszedzésen volt. 
+id	Putra sulung kami ikut kelas tenis. 
+it	Nostro figlio aveva lezione di tennis. 
+ja	&lrm;息子の迎えに行くはずで | 
+ko	&lrm;큰아들 테니스 수업이 있었는데 | 
+ms	Anak sulung kami ada kelas tenis. 
+nl	Onze oudste zoon had tennisles. 
+no	Vår eldste sønn hadde tennistime. 
+pt-br	Depois, iria buscar nosso filho na aula de tênis. 
+pt	O nosso filho mais velho teve aula de ténis. 
+ro	Fiul nostru cel mare era la tenis. 
+th	&lrm;ลูกชายคนโตของเรามีเรียนเทนนิส | 
+vi	&lrm;Con trai lớn nhà tôi có lớp tennis. | 
+zh-long	我們的大兒子去上網球課 
+zh-short	我们的大儿子在上网球课 她本该去接他 
+fi	Hänen piti hakea poika tennistreeneistä. | 
+ru	У старшего сына было занятие по теннису. 
+cs	Pak měla vyzvednout kluka z tenisu. 
+

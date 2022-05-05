@@ -1,0 +1,26 @@
+da	Hvad? 
+en	What? | 
+fr	Quoi ? 
+ko	뭘 봐? | 
+pl	Czego? 
+zh-long	笑屁喔？ 
+ar	&rlm;‏ماذا؟‏ | 
+el	Τι; 
+fi	Mitä? 
+he	&rlm;‏מה?‏ | 
+id	Apa? 
+it	Che c'è? 
+no	Hva? 
+pr-br	O quê? 
+pr	O que foi? 
+ro	Ce e? 
+ru	Что? 
+sp-eu	¿Qué? 
+sp	¿Qué? 
+sv	Vadå? 
+tr	Ne? 
+vi	Làm sao? | 
+zh-short	看什么？ 
+ja	何だ？ | 
+th	อะไร | 
+

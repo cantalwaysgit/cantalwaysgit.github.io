@@ -1,0 +1,57 @@
+id	Salah satu koleksi mobil mewah terbaik yang pernah kulihat. 
+ru	Одна из лучших коллекций машин. 
+ar	&rlm;‏أفضل مجموعة سيارات فارهة رأيتها قط.‏ | 
+da	En af de største bilsamlinger, jeg nogensinde har set. 
+el	Μια από τις πιο όμορφες συλλογές πολυτελών αυτοκινήτων. 
+en	[Jay] One of the finest collections | of luxury cars I've ever seen. | 
+fi	Hienoimpia autokokoelmia, joita olen nähnyt. 
+fr	Une collection de voitures de luxe tout à fait impressionnante. 
+he	&rlm;‏אוסף מכוניות יוקרה מהטובים ביותר שראיתי.‏ | 
+it	C'era una collezione di auto mai vista prima. 
+ko	그런 고급 자동차 소장품은 | 처음 봤어요 | 
+nl	De mooiste verzameling auto's ooit. 
+no	En av den beste bilsamlingene jeg har sett. 
+pl	Fantastyczna kolekcja luksusowych samochodów. 
+pr-br	Uma das melhores coleções de carros que já vi. 
+pr	Uma das melhores coleções de carros de luxo que já vi. 
+ro	Era acolo una dintre cele mai bune colecții de mașini luxoase. 
+sp-eu	Una de las mejores colecciones de coches que haya visto. 
+sp	Una de las mejores colecciones de autos que he visto. 
+sv	En av de största bilsamlingarna jag nånsin sett. 
+th	มีรถสะสมยอดเยี่ยมที่สุดที่ผมเคยเห็น | 
+tr	Gördüğüm en iyi araba koleksiyonlarından biri. 
+vi	Một bộ sưu tập xe hơi | tuyệt vời chưa từng thấy. | 
+zh-long	收藏了一堆夢幻高檔車款 
+zh-short	我见过的最棒的汽车收藏 
+ja	高級車のコレクション | 
+
+it	Vada dai nostri uomini, prenderanno la sua testimonianza. 
+id	Temui polisi di sana. Mereka akan mencatat kesaksianmu. 
+pt-br	Vá até nossos homens, eles vão pegar seu depoimento. 
+fi	Menkää noiden kavereiden luo. | He ottavat lausuntonne. | 
+cs	Jděte za kolegy. Sepíšou s vámi výpověď. 
+da	Vores folk derovre tager | imod Deres forklaring. | 
+el	Πηγαίνετε στους άντρες μας. Θα σας πάρουν κατάθεση. 
+en	Go talk to our men over there. They'll take your testimony. 
+es-eu	Vaya allí a que le tomen declaración. 
+es	Vaya con nuestros hombres. Le tomarán declaración. 
+fr	Allez voir nos collègues pour faire votre déposition. 
+he	‫גש לחבר'ה שלנו שם, הם יגבו ממך עדות.‬ | 
+hr	Idite našim policajcima. Uzet će izjavu. 
+hu	Menj oda az embereinkhez! Felveszik a vallomását. 
+ja	&lrm;あちらの警察官が | &lrm;調書を取ります | 
+ko	&lrm;저쪽 경관들한테 가시죠 | &lrm;조서를 작성할 겁니다 | 
+nl	Ga naar onze mannen daar. Zij nemen uw verklaring af. 
+no	Gå til mennene våre. De tar vitnemålet ditt. 
+pt	Vá falar com os agentes. Recolherão o seu depoimento. 
+ro	Du-te la colegii noștri să-ți ia declarația! 
+sv	Gå och prata med dem. De tar ert vittnesmål. 
+th	&lrm;ไปหาตำรวจตรงนั้น | &lrm;พวกเขาจะบันทึกคำให้การของคุณ | 
+tr	Şuradaki arkadaşlar ifadenizi alacak. 
+uk	Ідіть до наших людей. Вони запишуть ваші свідчення. 
+vi	&lrm;Đến chỗ người của chúng tôi ở kia. | &lrm;Họ sẽ lấy lời khai của anh. | 
+zh-long	你去找那裡的便衣警察 他們會幫你做筆錄 
+zh-short	去找那边的警察 他们会为你做笔录 
+ms	Pergi jumpa orang di sana. Mereka akan ambil keterangan awak. 
+ru	Иди к нашим сотрудникам, они составят протокол. 
+

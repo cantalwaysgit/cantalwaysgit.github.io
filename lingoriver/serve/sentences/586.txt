@@ -1,0 +1,27 @@
+ja	犬に気をつけて | 
+th	มีหมา มีหมานะ | 
+ar	&rlm;‏توجد كلاب.‏ | 
+da	Der er hunde. 
+el	Υπάρχουν σκυλιά. 
+en	There's dogs. There's dogs. | 
+fi	Tuolla on koiria. 
+fr	Attention aux chiens. 
+he	&rlm;‏יש כלבים.‏ | 
+it	Ci sono i cani. 
+nl	De honden. 
+no	Det er hunder der. 
+pl	Uwaga na psy. 
+pr-br	Tem cachorros. 
+pr	Os cães. 
+ro	Sunt câini. 
+sp-eu	Hay perros. 
+sp	Hay perros. 
+sv	Hundarna är där ute. 
+tr	Köpekler var. 
+vi	Có chó đấy. | 
+zh-long	有狗… 
+zh-short	小心有狗 
+ko	개 조심해  | 
+id	Anjing, ada anjing. 
+ru	Там собаки! 
+

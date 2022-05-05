@@ -1,0 +1,27 @@
+ar	&rlm;‏تسميه "كوينسيليس".‏ | 
+da	Hun kalder ham Quincelius. 
+el	Τον φωνάζει "Κουινσέλιους". 
+en	She calls him Quincelius. | 
+fi	Isoäiti sanoo häntä Quinceliukseksi. 
+fr	Son petit nom pour lui, c'est Quincelius. 
+he	&rlm;‏היא קוראת לו קווינסליוס.‏ | 
+it	Lei lo chiama Quincelius. 
+nl	Zij noemt hem Quincelius. 
+no	Hun kaller ham Quincelius. 
+pl	Nazywa go Quincelius. 
+pr-br	Ela o chama de Quincelius. 
+pr	Ela chama-lhe Quincelius. 
+ro	Ea îi spune Quincelius. 
+sp	Ella lo llama Quincelius. 
+sp-eu	Le llama Quincelius. 
+sv	Hon kallar honom Quincelius. 
+th	เธอเรียกเขาว่าควินเซเลียส | 
+tr	Ona Quincelius diyordu. 
+vi	Bà ta gọi cậu ta là Quincelius. | 
+zh-long	她叫他小昆西 
+zh-short	他外婆叫他昆塞刘斯 
+id	Dia memanggilnya Quincelius. 
+ru	Она называет его Куинселиус. 
+ja	“クインシリウス”と | 
+ko	퀸셀리어스라고 부르더군 | 
+

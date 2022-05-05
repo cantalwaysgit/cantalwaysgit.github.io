@@ -1,0 +1,27 @@
+fr	On m'a invité. Ça fait plaisir. 
+id	Aku diundang. Terima kasih banyak. Hai. 
+ar	&rlm;‏لقد دُعيت. شكراً جزيلاً لك. مرحباً.‏ | 
+da	Jeg blev inviteret. Mange tak. Hej. 
+el	Είμαι προσκεκλημένος. Γεια σου. 
+en	I was invited. | Thank you very much. Hi. | 
+fi	Minut kutsuttiin, kiitos vain. 
+he	&rlm;‏הזמינו אותי. תודה רבה. היי.‏ | 
+it	Sono stato invitato. Grazie mille. Ciao. 
+nl	Ik werd uitgenodigd. Bedankt. 
+no	Jeg ble invitert. Tusen takk. Hei. 
+pl	Zaprosili mnie. Dziękuję. Cześć. 
+pr-br	Eu fui convidado. Muito obrigado. Oi. 
+pr	Fui convidado. Muito obrigado. Olá. 
+ro	Am fost invitat. Mulțumesc mult. Bună! 
+sp-eu	Me han invitado. Muchas gracias. Hola. 
+sp	Me invitaron. Gracias. Hola. 
+sv	Jag blev inbjuden. Tack ska du ha. 
+th	ผมได้รับเชิญ ขอบคุณมาก ว่าไง | 
+tr	Davet edildim. Rica ederim yani. Merhaba. 
+vi	Tôi được mời. Cảm ơn nhiều. Xin chào. | 
+zh-long	當然是有人邀我，多謝妳喔，嗨 
+zh-short	有人请我来的 非常感谢 嗨 
+ru	Меня пригласили. Спасибо. Привет. 
+ko	초대받았어, 안녕 | 
+ja	招待されたからに | 決まってる | 
+

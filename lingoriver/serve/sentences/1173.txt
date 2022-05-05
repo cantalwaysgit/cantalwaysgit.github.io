@@ -1,0 +1,4 @@
+ru	Ты не знаешь, что это? 
+id	Kau tidak tahu soal surel? 
+ja	Ｅメールさ | 
+

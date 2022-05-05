@@ -1,0 +1,28 @@
+ja	駆け引きで言っただけだ | カーソンはもう引退した | 
+id	Itu taktik negosiasi. Aku mungkin sudah kelewatan. 
+ru	Это была уловка. 
+el	Ήταν διαπραγματευτική μπλόφα. Μάλλον υπερέβαλλα λίγο. 
+ar	&rlm;‏كانت حيلة تفاوضية. ربما بالغت في الأمر.‏ | 
+da	Det var et forhandlingstrick. Jeg har måske overspillet min hånd. 
+en	That was a negotiation ploy. | I may have overplayed my hand there. | 
+fi	Se oli neuvottelukikka. Saatoin mennä liian pitkälle. 
+fr	C'était du bluff. J'ai peut-être un peu abusé. 
+he	&rlm;‏‏זו הייתה תחבולה של משא ומתן. | &rlm;‏אולי הגזמתי קצת.‏ | 
+it	Era una tattica. Forse ho un po' esagerato. 
+no	Det var et forhandlingstriks. Jeg kan ha gått for langt. 
+pl	Chciałem negocjować, ale trochę przesadziłem z tym Carsonem. 
+pr-br	Foi uma tática de negociação. Posso ter exagerado. 
+pr	Era uma jogada de negociação. Talvez tenha ido longe de mais. 
+ro	A fost un truc de negociere. Cred că am exagerat un pic. 
+sp-eu	Ha sido una treta para negociar. Pero puede que me haya pasado. 
+sp	Fue un truco de negociación. Quizá me excedí un poco. 
+sv	Det var ett förhandlingsknep. Jag spelade nog för högt. 
+th	มันเป็นกลไกการต่อรอง | ผมอาจจะเล่นแรงไปหน่อย | 
+tr	Pazarlık numarasıydı. Biraz abartmış olabilirim. 
+vi	Đó là thủ đoạn thương lượng. | Có lẽ tôi đã hơi quá tay. | 
+zh-long	那是一種談判技巧 我可能有點玩過火了 
+zh-short	那是谈判策略 也许我夸张了 
+nl	Onderhandelen. Misschien ging ik te ver. Carson is al twee jaar met pensioen. 
+ko	협상 기술이야 | 약간 오버한 면도 있어 | 
+ru	Но я слегка приукрасил. 
+

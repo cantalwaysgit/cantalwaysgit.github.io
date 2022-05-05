@@ -25,3 +25,61 @@ fr	UN FILM ORIGINAL NETFLIX
 id	FILM ASLI NETFLIX 
 ja	NETFLIX オリジナル映画 | 
 
+cs	Pardon, že jsem vás vzbudila. 
+zh-short	再次抱歉把你吵醒了 
+uk	Ще раз вибачте, що розбудила. 
+es	Lamento haberlos despertado. 
+fi	Anteeksi, että herätin. | 
+el	Συγγνώμη που σας ξύπνησα. 
+ru	Еще раз простите, что разбудила. 
+pt-br	E me desculpe por tê-los acordado. 
+da	Undskyld, jeg vækkede jer. | 
+en	Sorry again for waking you up. 
+es-eu	Y perdona por haberte despertado. 
+fr	Désolée de vous avoir réveillés. 
+he	‫שוב, מצטערת שהערתי אותך.‬ | 
+hr	I oprostite što sam vas probudila. 
+hu	Bocsánat, hogy felébresztettelek. 
+it	Scusate se vi ho svegliato. 
+ja	&lrm;朝早くに ごめんなさい | 
+ko	&lrm;깨워서 정말 미안해요 | 
+nl	Sorry dat ik jullie wakker belde. 
+no	Beklager at jeg vekket deg. 
+pt	Desculpem ter-vos acordado. 
+ro	Îmi cer scuze că v-am trezit. 
+sv	Ursäkta att jag väckte er. 
+th	&lrm;ขอโทษอีกครั้งที่โทรมาปลุก | 
+zh-long	再次抱歉吵醒你了 
+id	Sekali lagi, maaf aku membangunkanmu. 
+ms	Maaf sekali lagi sebab kejutkan awak. 
+tr	Uyandırdığım için tekrar özür dilerim. 
+vi	&lrm;Một lần nữa, | &lrm;xin lỗi đã đánh thức anh. Tạm biệt. | 
+es	Bueno, adiós. 
+pt-br	Tchau. 
+uk	Бувай. 
+zh-short	再见 
+el	Αντίο. 
+fi	Kuulemiin. | 
+cs	Mějte se. 
+da	Farvel. | 
+en	Bye, then. 
+es-eu	Adiós. 
+fr	Au revoir. 
+he	‫ביי.‬ | 
+hr	Doviđenja. 
+hu	Akkor szia! 
+id	Dah. 
+it	Ciao, allora. 
+ja	&lrm;では | 
+ko	&lrm;그럼 | 
+nl	Dag. 
+no	Ha det, da. 
+pt	Adeus. 
+ro	Pa! 
+sv	Hej då. 
+th	&lrm;บายค่ะ | 
+tr	Görüşürüz. 
+zh-long	再見 
+ms	Jumpa nanti. 
+ru	До свидания. 
+

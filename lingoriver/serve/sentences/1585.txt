@@ -1,0 +1,27 @@
+ru	Нет, я не играла все детство с моим дядей-гольфистом. 
+ar	&rlm;أقسم إنني ‏‏لم ألعب كل يوم خلال نشأتي | &rlm;‏مع عمي محترف الغولف.‏ | 
+da	Jeg spillede slet ikke som barn med min onkel, der er professionel. 
+el	Επαιζα κάθε μέρα με το θείο μου. Ήταν επαγγελματίας παίκτης του γκολφ. 
+en	I swear I didn't play every day growing up | with my Uncle Davey who's a golf pro. | 
+fi	En pelannut kersana joka päivä golfaajasetäni kanssa. 
+fr	Juré, j'ai jamais joué avec mon oncle qui est golfeur professionnel. 
+he	&rlm;‏‏אני נשבעת שלא שיחקתי כל יום | &rlm;‏עם דוד שלי שהוא שחקן גולף מקצועי.‏ | 
+id	Sumpah, aku tidak bermain setiap hari dengan pamanku, Davy, yang profesional. 
+it	Non sono cresciuta giocando con mio zio che è un professionista. 
+ko	프로 골퍼인 삼촌과 매일 | 골프하며 큰 건 안 비밀! | 
+nl	Ik speelde vroeger echt niet elke dag met mijn oom die profgolfer is. 
+no	Jeg spilte ikke hver dag med proffonkelen min da jeg var liten. 
+pl	Wcale nie grywałam codziennie w golfa z wujkiem, zawodowym golfistą. 
+pr-br	Não cresci jogando todos os dias com o meu tio que é jogador profissional. 
+pr	Juro que não jogava todos os dias com o meu tio, que é profissional. 
+ro	Jur că n-am jucat zilnic în copilărie cu unchiul meu, care era profesionist. 
+sp-eu	Te juro que no jugaba a diario con mi tío Davey, que es profesional. 
+sp	Juro que de niña no jugaba todos los días con mi tío, que es golfista profesional. 
+sv	Jag spelade inte varje dag med min morbror som är golfproffs. 
+th	ฉันไม่ได้โตมาแบบเล่นทุกวัน | กับลุงที่เป็นโปรกอล์ฟ | 
+tr	Profesyonel golfçü olan amcamla her gün oynamadığıma yemin ederim. 
+vi	Tôi không chơi hàng ngày nhưng lớn lên | cùng chú tôi là tay golf chuyên nghiệp. | 
+zh-long	我叔叔是高球高手 我絕對沒有每天跟他練球 
+zh-short	我小时候没天天跟 是职业高尔夫球选手的叔叔打球 
+ja	プロゴルファーの叔父に | 教わったの | 
+

@@ -1,0 +1,51 @@
+ar	&rlm;‏"ساندي"؟‏ | 
+da	Sandy? 
+el	Σάντι; 
+en	Sandy? | 
+fr	Sandy ? 
+he	&rlm;‏סנדי?‏ | 
+id	Sandy? 
+it	Sandy? 
+ko	샌디? | 
+pr-br	Sandy? 
+pr	Sandy? 
+ro	Sandy? 
+sp-eu	¿Sandy? 
+sp	¿Sandy? 
+sv	Sandy? 
+tr	Sandy? 
+vi	Sandy? | 
+zh-long	山迪？ 
+zh-short	桑迪？ 
+ja	サンディ | 
+no	Sandy? 
+fi	Sandy? 
+pl	Sandy? 
+th	แซนดี้ | 
+ru	-Сэнди? -Что придумать? 
+ar	&rlm;‏طريقة؟ أية طريقة؟‏ | 
+da	En måde? Hvilken måde? 
+el	Τρόπο; Τι τρόπο; 
+en	A way? What way? | 
+fi	Mikä keino? 
+fr	Une solution ? À quoi ? 
+he	&rlm;‏דרך? איזו דרך?‏ | 
+it	Un modo? Che modo? 
+ko	방법? 무슨 방법? | 
+nl	Een manier? Welke manier? 
+pl	Co za sposób? 
+pr-br	Um jeito? Que jeito? 
+pr	Uma forma? Qual forma? 
+ro	O cale? Ce cale? 
+sp-eu	¿La manera? ¿Qué manera? 
+sp	¿Una manera? ¿Qué manera? 
+sv	Ett sätt? Vilket sätt? 
+th	วิธี วิธีอะไร | 
+tr	Bir yolunu mu? Ne yolu? 
+vi	Cách? Cách gì? | 
+zh-long	辦法？什麼辦法？ 
+zh-short	办法？什么办法？ 
+id	Sebuah cara? Cara apa? 
+no	Løsning? 
+ja	何か言ったか？ | 
+

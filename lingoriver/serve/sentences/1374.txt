@@ -1,0 +1,25 @@
+id	Reiser luar biasa di panggung. Ayolah. 
+pl	Reiser jest świetny. 
+ru	Райзер сегодня отжигает. 
+pr-br	Reiser está detonando lá. 
+ar	&rlm;‏"رايزر" مضحك جداً.‏ | 
+da	Reiser er da sjov. 
+el	Ο Ράιζερ σκίζει εκεί έξω. 
+fi	Reiserilla menee hienosti. 
+fr	Reiser est très bon. 
+he	&rlm;‏רייזר קורע אותם.‏ | 
+it	Reiser è fenomenale. 
+ko	폴 라이저가 잘하네 | 
+nl	Reiser is geweldig. 
+no	Reiser er rå der ute. 
+pr	O Reiser está a arrasar, então? 
+ro	Reiser face un spectacol de zile mari. 
+sp-eu	Reiser lo está bordando. 
+sp	Reiser está fenomenal. 
+sv	Reiser är fantastisk på scen. 
+th	ไรเซอร์เจ๋งมากเลย | 
+tr	Reiser çok başarılı. 
+vi	Reiser đang làm rất tốt. | 
+zh-long	萊瑟超好笑的啦 
+zh-short	赖泽太搞笑了 
+

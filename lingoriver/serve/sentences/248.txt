@@ -1,0 +1,57 @@
+ar	&rlm;‏هذا مثالي.‏ | 
+da	Det er perfekt. 
+el	Είναι τέλειο. 
+en	Pitch perfect. | 
+fi	Täydellistä. 
+fr	Parfaitement juste. 
+he	&rlm;‏זה מושלם.‏ | 
+it	Intonazione perfetta. 
+ko	완벽하네 | 
+nl	Perfect. 
+pl	Ideał. 
+pr-br	É perfeito. 
+pr	O tom é perfeito. 
+sp-eu	Entonación perfecta. 
+sp	Oído absoluto. 
+sv	Det är perfekt. 
+th	ร้องได้เป๊ะไม่มีเพี้ยน | 
+tr	Mükemmel bir ses. 
+vi	Quá hoàn hảo. | 
+zh-long	音準完美 
+zh-short	演得棒极了 
+ja	完璧だ | 
+no	Perfekt. 
+id	Nada yang tepat. 
+ro	Cântă perfect. 
+ru	Идеальный слух. 
+
+cs	Že mu nedůvěřovala. 
+da	Og ikke stoler på ham. | 
+el	Και ότι δεν τον εμπιστευόταν. 
+es-eu	Y que no se fiara de él. 
+es	y que no confiara en él. 
+fr	Et ne lui fasse pas confiance. 
+he	‫ושהיא לא בוטחת בו.‬ | 
+hr	I nema povjerenja u njega. 
+hu	És nem bízik benne. 
+id	Dan tak memercayainya. 
+it	E che non si fidasse di lui. 
+ja	&lrm;信用されてないと | 
+ko	&lrm;엄마가 자길 못 믿는 것도요 | 
+ms	Ibunya tak percayakan dia. 
+nl	En hem niet vertrouwde. 
+no	Og ikke stoler på ham. 
+pt-br	Porque ela não confia nele. 
+pt	E que não confia nele. 
+sv	Och att hon inte litar på honom. 
+th	&lrm;และไม่ไว้ใจเขา | 
+tr	onu çileden çıkarıyordu. 
+vi	&lrm;Và không tin tưởng cậu ấy. | 
+zh-long	而且也不信任他 
+zh-short	而且不信任他 
+fi	eikä luottanut häneen. | 
+ru	И не доверяет ему. 
+uk	І не довіряє йому. 
+en	Because she didn't trust him. 
+ro	Că nu are încredere în el. 
+

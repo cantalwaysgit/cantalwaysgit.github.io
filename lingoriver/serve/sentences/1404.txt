@@ -1,0 +1,27 @@
+id	Semuanya, ini kekasih baruku... 
+ru	Знакомьтесь, мой новый парень... 
+ar	&rlm;‏‏هذا عشيقي الجديد أيها الرجلان، "را.." | &rlm;‏قل اسمك عني يا حبيبي.‏ | 
+da	Det er min nye kæreste... Sig det for mig, skat. 
+el	Παιδιά, από δω ο νέος μου φίλος, Ρα... Πες το εσύ για μένα, καλύτερα. 
+en	Guys, this is my new boyfriend, Ra... | Say it for me, babe. | 
+fi	Tässä on uusi poikaystäväni... Sano itse, kulta. 
+fr	Voici mon nouvel amoureux... Dis-le, toi. 
+he	&rlm;‏‏חבר'ה, זה החבר החדש שלי... | &rlm;‏תגיד את זה בשבילי, מותק.‏ | 
+it	Ragazzi, il mio nuovo fidanzato. Di' come ti chiami. 
+ko	이쪽은 제 남자친구예요 | 이름 좀 말해줘 | 
+nl	Dit is mijn nieuwe vriend. Zeg jij het. 
+no	Dette er min nye kjæreste... Si det for meg. 
+pl	To mój nowy chłopak. Przedstaw się w swoim stylu. 
+pr-br	Pessoal, este é o meu novo namorado... Diga para mim, querido. 
+pr	Este é o meu novo namorado... Diz tu, querido. 
+ro	El e noul meu iubit... Prezintă-te tu, scumpule. 
+sp	Amigos, este es mi nuevo novio. Dilo por mí, mi amor. 
+sp-eu	Chicos, este es mi nuevo novio... Dilo tú, cariño. 
+sv	Det här är min nya kille. Säg det åt mig. 
+th	ทุกคน นี่แฟนใหม่ของฉัน | ช่วยพูดแทนทีสิ ที่รัก | 
+tr	Millet, işte yeni sevgilim... Söylesene şekerim. 
+vi	Xin giới thiệu bạn trai mới của tôi... | Anh nói tên hộ em đi. | 
+zh-long	兩位，這位是我新男友… 幫我說一下，寶貝 
+zh-short	各位 这是我的新男友 你来替我说 亲爱的 
+ja	紹介するわ　新しい恋人の… | 
+

@@ -1,0 +1,3 @@
+id	- Mau lakukan apa? - Melatih kakimu itu. 
+ja	何？ | 
+

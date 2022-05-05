@@ -1,0 +1,27 @@
+ja	あとは いかに | いい条件を引き出すか | 
+id	Aku hanya takut mereka akan memberimu tawaran rendah. 
+ru	Только вот боюсь, они занизят тебе гонорар. 
+ar	&rlm;‏‏خوفي الوحيد هو أنهم | &rlm;‏سيحاولون خداعك في الاتفاق.‏ | 
+da	Jeg frygter dog, at de vil prøve at underbetale dig. 
+el	Φοβάμαι μόνο μη σε ρίξουν στη συμφωνία. 
+en	My only fear is they're gonna try | to lowball you on the deal, all right? | 
+fi	Pelkään vain, että he yrittävät pihistellä. 
+fr	Ma crainte, c'est qu'il tente de t'imposer un contrat sous-payé. 
+he	&rlm;‏‏הפחד היחיד שלי הוא שהם ינסו | &rlm;‏להוריד את המחיר בעסקה.‏ | 
+it	Ho solo paura che possano offrirti un contratto deludente. 
+nl	Ik vrees alleen dat ze je een ondermaats aanbod gaan doen. 
+no	Jeg er bare redd for at de skal prøve å utnytte deg. 
+pl	Obawiam się tylko, że będą cię chcieli trochę wydymać. 
+pr-br	Meu único medo é que tentem diminuir a sua grana no acordo. 
+pr	Só tenho medo que te tentem fazer um acordo pouco vantajoso. 
+ro	Singura mea teamă e că vor încerca să-ți ofere mai puțin. 
+sp-eu	Solo temo que intenten colártela con el contrato. 
+sp	Mi único miedo es que traten de pagarte poco. 
+sv	Jag är bara rädd för att de ska ge dig ett uselt avtal. 
+th	อย่างเดียวที่กลัวคือพวกเขาจะพยายาม | กดราคาค่าจ้างนาย | 
+tr	Tek korkum, sözleşmede hakkından azını vermeye çalışmaları. 
+vi	Tôi chỉ lo họ sẽ trả anh thấp. | 
+zh-long	我現在只擔心 他們會刻意壓低價錢 
+zh-short	我唯一担心的是他们会压低你的报酬 
+ko	다만 조건을 너무 낮게 | 제시할까 봐 걱정이야 | 
+

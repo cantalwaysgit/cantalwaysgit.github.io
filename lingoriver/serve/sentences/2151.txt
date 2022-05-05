@@ -1,0 +1,54 @@
+id	Kau Gary Busey? 
+ja	ゲイリー･ビューシイ？ | 
+ru	Это Гэри Бьюзи? 
+pl	Gary Busey? 
+fi	Gary Busey? 
+en	Are you Gary Busey? | 
+ar	&rlm;‏هل أنت "غاري بيوسي"؟‏ | 
+da	Er du Gary Busey? 
+el	Ο Γκάρι Μπιούσι; 
+fr	Gary Busey ? 
+he	&rlm;‏אתה גארי ביוסי?‏ | 
+it	Sei Gary Busey? 
+ko	게리 부시야? | 
+no	Er det Gary Busey? 
+pr-br	Você é Gary Busey? 
+pr	É o Gary Busey? 
+ro	Ești Gary Busey? 
+sp	¿Eres Gary Busey? 
+sp-eu	¿Eres Gary Busey? 
+sv	Är det Gary Busey? 
+th	แกรี่ บิวซีย์ใช่ไหม | 
+tr	Gary Busey misin? 
+vi	Gary Busey à? | 
+zh-long	蓋瑞布希？ 
+zh-short	是加里布西吗？ 
+nl	Ben je Gary Busey? -Nee, sukkel. 
+en	[chuckles] No way! Dumbass. | 
+ja	ハズレ！ | 
+ar	&rlm;‏مستحيل! غبي.‏ | 
+da	Nej! Fjols. 
+el	Καμία σχέση! Ανόητε! 
+fi	No ei, urpo. 
+fr	Pas du tout ! Abruti. 
+he	&rlm;‏אין סיכוי! טמבל.‏ | 
+it	Sbagliato! Imbecille. 
+no	Nei! Dust. 
+pl	Coś ty! Głupek. 
+pr-br	Não é! Idiota. 
+pr	Nada disso! Idiota. 
+ro	Nici vorbă! Idiotule! 
+sp	¡De ninguna manera! Tonto. 
+sp-eu	¡Ni hablar! Idiota. 
+sv	Aldrig. Dumskalle. 
+th	ไม่มีทาง ไอ้โง่ | 
+tr	Daha neler! Salak. 
+vi	Không đời nào! Đồ ngốc. | 
+zh-long	不是啦！白痴 
+zh-short	怎么可能！蠢货 
+ko	무슨 소리예요, 바보! | 
+ru	Нет! 
+id	Tidak mungkin! Bodoh. 
+ru	Тупица. 
+ja	バカめ | 
+

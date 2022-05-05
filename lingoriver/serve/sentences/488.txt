@@ -1,0 +1,28 @@
+ar	&rlm;‏‏تبدو وكأنك فقدت عقلك من المخدرات. | &rlm;‏ما أمر هذه الابتسامة الجنونية؟‏ | 
+da	Du virker skæv og vanvittig. Hvad er det for et skørt smil? 
+el	Λες κι έχεις μαστουρώσει είσαι. Τι τρελό χαμόγελο είναι αυτό; 
+en	Well, you seem stoned out of your mind. | What's with the crazy smile? | 
+fi	Vaikutat olevan aivan pöllyissä. Mistä tuo hullun hymy johtuu? 
+fr	T'as l'air complètement défoncé. Pourquoi ce sourire de dingo ? 
+he	&rlm;‏‏אתה נראה מסומם לחלוטין. | &rlm;‏מה זה החיוך המטורף הזה?‏ | 
+it	Sembri fatto, fuori di testa. Cos'è quel sorriso da pazzo? 
+ko	정신이 빠질 대로 빠졌군 | 왜 미친놈 같이 웃고 있어? | 
+nl	Je lijkt hartstikke stoned. Waarom die gestoorde glimlach? 
+no	Du virker helt fjern. Hvorfor smiler du som en galning? 
+pl	Wyglądasz, jakbyś był upalony na amen. Czemu tak się szczerzysz? 
+pr-br	Você parece estar chapadão. Que sorriso pirado é esse? 
+pr	Pareces completamente pedrado. Que sorriso tolo é esse? 
+ro	Dar pari cu capul în nori. Ce-i cu zâmbetul ăsta tâmpit? 
+sp-eu	Pues parece que vas ciego. ¿A qué viene esa sonrisa? 
+sp	Parece que estuvieras drogado. ¿Por qué tienes esa sonrisa? 
+sv	Du verkar helt stenad. Varför ler du så skruvat? 
+th	ก็คุณดูใจลอยพิกล | นั่นยิ้มบ้าอะไรอยู่ได้ | 
+tr	Aklın başında değil sanki. Ne o çatlak sırıtış? 
+vi	Hình như anh bị phê thuốc. | Sao anh lại cười khùng vậy? | 
+zh-long	你感覺像嗑藥嗑昏頭了 那抹詭異的微笑是怎樣？ 
+zh-short	你看上去像是嗑药嗑嗨了 你笑个什么劲儿？ 
+ru	На вид - абсолютно упоротый. 
+id	Kau terlihat teler berat. Kenapa senyummu aneh? 
+ja	ついにイカれたか？ | 笑顔がキモいぞ | 
+ru	Что за дурная улыбочка? 
+

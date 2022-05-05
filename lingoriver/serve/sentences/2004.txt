@@ -1,0 +1,28 @@
+id	Jadi, aku berpikir, jika aku mulai mengatakan pendapatku sejujurnya, 
+ru	И я подумал, что если начать говорить то, что думаю, 
+ja	でも思った | 
+ko	그래서 말인데 | 진짜 내 생각을 얘기하면 | 
+ar	&rlm;‏لذا فكرت، إن بدأت بقول ما أفكر فيه،‏ | 
+da	Så jeg tænkte, hvis jeg begyndte at sige de ting, som jeg tænker, 
+el	Σκέφτηκα, λοιπόν, ότι αν αρχίσω να λέω αυτά που σκέφτομαι, 
+en	So I was thinking, if I started | saying the stuff that I think, | 
+fi	Siispä ajattelin, että jos alan puhua suoraan, 
+fr	Donc, je me suis dit qu'en devenant sincère, 
+he	&rlm;‏‏לכן חשבתי, | &rlm;‏אם אני מתחיל להגיד את מה שאני חושב,‏ | 
+it	Ho pensato che se iniziassi a dire ciò che penso, 
+nl	Dus ik dacht dat als ik zeg wat ik denk... 
+no	Så jeg tenkte at hvis jeg begynner å si det jeg tenker... 
+pl	Pomyślałem, że jeśli zacznę mówić to, co myślę, 
+pr-br	Então, eu estava pensando, se eu começasse a dizer o que acho, 
+pr	E pensei que, se começasse a dizer aquilo que penso, 
+ro	M-am gândit că poate, dacă voi spune ce gândesc, 
+sp	Estaba pensando, si comenzara a decir lo que pienso, 
+sp-eu	He pensado que si empiezo a decir lo que pienso, 
+th	ผมเลยมาคิดดู | หากผมเริ่มพูดสิ่งที่ตัวเองคิด | 
+tr	Ben de düşündüm ki düşündüğüm şeyi söylemeye başlarsam 
+vi	Vì vậy, anh đang nghĩ, | nếu anh bắt đầu nói những gì anh nghĩ, | 
+zh-long	所以我在想 如果我開始說出真正的想法 
+zh-short	所以我想 要是我讲出自己真实的想法 
+sv	Så om jag börjar säga vad jag tänker, 
+ja	僕が本音で話したら― | 
+

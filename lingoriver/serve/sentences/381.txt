@@ -1,0 +1,27 @@
+ar	&rlm;‏سمحت للصداقة بإعاقة العمل.‏ | 
+da	Jeg lod venskabet komme i vejen for forretningen. 
+en	I let the friendship | get in the way of the business. | 
+fi	Annoin ystävyyden haitata bisneksiä. 
+fr	J'ai laissé notre amitié s'immiscer dans le travail. 
+he	&rlm;‏נתתי לחברות להפריע לעסקים.‏ | 
+it	Ho permesso che l'amicizia interferisse con gli affari. 
+ko	일에 우정이 방해됐던 거야 | 
+nl	Ik liet toe dat de vriendschap de zaken in de weg stond. 
+pl	Postawiłem przyjaźń przed interesami. 
+pr-br	Deixei a amizade interferir nos negócios. 
+pr	Deixei a amizade interferir no trabalho. 
+ro	Am încurcat prietenia cu afacerea. 
+sp	Dejé que la amistad se interpusiera en los negocios. 
+sp-eu	Dejé que la amistad se mezclara con el trabajo. 
+sv	Jag lät vänskapen komma i vägen för affärerna. 
+tr	İşle dostluğu birbirine karıştırdım. 
+zh-long	我讓私情干涉了公事 
+zh-short	是我让友情妨碍了公事 
+vi	Tôi đã để tình bạn chen vào công việc. | 
+id	Aku membiarkan persahabatan mencampuri bisnis. 
+el	Άφησα τη φιλία να μπει εμπόδιο στα επαγγελματικά. 
+ja	ビジネスと友情を混同した | 
+no	Jeg lot vennskap komme i veien for forretninger. 
+th	ผมปล่อยให้มิตรภาพเรามาขวางทางธุรกิจ | 
+ru	Я позволил дружбе стать на пути у бизнеса. 
+

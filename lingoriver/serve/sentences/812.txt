@@ -1,0 +1,27 @@
+en	-Yeah! Let's do it! | -Oh, no, no, no, no! | 
+id	- Ya! Mari kita lakukan! - Jangan. 
+ru	Да! Давайте! 
+ar	&rlm;‏‏- أجل! لنقم بذلك! | &rlm;‏- لا. هذا ليس جزءاً من العادة!‏ | 
+da	-Ja! Lad os det! -Nej. Det er ikke en del af ritualet! 
+el	-Πάμε να το κάνουμε! -Δεν είναι μέρος του τελετουργικού! 
+fi	-Mennään! -Ei se kuulu rituaaliin! 
+fr	- Oui ! On y va ! - Non. Ça n'en fait pas partie ! 
+he	&rlm;‏‏כן! בואו נעשה את זה! | &rlm;‏-לא. זה לא חלק מהטקס!‏ | 
+it	- Sì! Andiamo! - No, non fa parte del rito! 
+ko	- 좋아, 어서 하자! | - 안 돼, 그건 아니야! | 
+nl	Ja. Dat doen we. -Nee. Dat is geen deel van het ritueel. 
+no	-Ja! Vi gjør det! -Nei. Det er ikke del av ritualet! 
+pl	- Zróbmy to! - Nie. To nie jest część rytuału! 
+pr-br	-Sim! Vamos! -Não, isso não é parte do ritual! 
+pr	- Sim! Vamos a isso! - Não. Isso não faz parte do ritual! 
+ro	- Da! S-o facem! - Nu. Asta nu face parte din ritual! 
+sp-eu	- ¡Sí, vamos a hacerlo! - No. ¡Eso no forma parte del ritual! 
+sp	- ¡Sí! ¡Hagámoslo! - No. ¡Eso no es parte del ritual! 
+sv	-Ja! Det gör vi! -Nej. Det ingår inte i ritualen. 
+th	- ใช่ ไปกันเลย | - ไม่ ไม่ได้ นั่นไม่ใช่ธรรมเนียม | 
+tr	-Evet! Hadi! -Hayır. Geleneğin parçası değil bu! 
+vi	- Tuyệt! Nhảy đi! | - Không. Không có trong nghi lễ! | 
+zh-long	-喔耶，我們走！ -不行，沒有這回事！ 
+zh-short	-好！我们跳吧！ -不 这不是仪式的一部分 
+ja	いいね！ やろう | 
+

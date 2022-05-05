@@ -1,0 +1,27 @@
+ar	&rlm;‏ابقي في الداخل. سآتي حالاً.‏ | 
+da	Bliv indendøre. Jeg kommer straks. 
+el	Μείνε μέσα. Έρχομαι αμέσως. 
+en	You stay inside. I'll be right there. | 
+fi	Pysy sisällä. Tulen heti. 
+fr	Reste à l'intérieur. J'arrive. 
+he	&rlm;‏תישארי בפנים. אני מיד מגיע.‏ | 
+it	Non uscire. Arrivo subito. 
+nl	Blijf binnen. Ik kom eraan. 
+no	Bli der inne. Jeg kommer straks. 
+pl	Zostań w środku. Zaraz będę. 
+pr-br	Fique dentro de casa. Estou indo até aí. 
+pr	Fica dentro de casa. Vou já para aí. 
+ro	Nu ieși din casă. Vin imediat. 
+sp-eu	No salgas. Ahora mismo voy. 
+sp	Quédate dentro. Ya voy. 
+sv	Stanna inomhus. Jag kommer direkt. 
+th	คุณอยู่แต่ในบ้านนะ ผมจะไปหาทันที | 
+tr	Sen içeride kal. Hemen geliyorum. 
+vi	Cứ ở trong nhà nhé. Tôi sẽ đến ngay. | 
+zh-long	妳待在屋內，我馬上過去 
+zh-short	你待在屋子里 我马上就过去 
+ru	Не выходи. Сейчас приеду. 
+id	Tetap di dalam. Aku segera ke sana. 
+ja	家の中にいろ　すぐ行く | 
+ko	금방 갈 테니 안에 있어 | 
+

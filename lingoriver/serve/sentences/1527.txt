@@ -1,0 +1,26 @@
+ja	彼は３人前の彼氏よ | 
+id	Itu tiga kekasih yang lalu. 
+ru	Это было три парня назад. 
+ar	&rlm;‏حظيت بـ3 عشاق بعده.‏ | 
+da	Det er tre kærester siden. 
+el	Είχα άλλους τρεις από τότε. 
+en	That was three boyfriends ago. | 
+fi	Se oli kolme poikaystävää sitten. 
+fr	Y a eu trois mecs entre-temps. 
+he	&rlm;‏זה היה לפני שלושה חברים.‏ | 
+it	Lui era tre fidanzati fa. 
+ko	벌써 그 이후로 | 세 명을 더 사귀었어요 | 
+no	Det var for tre kjærester siden. 
+pl	On był trzech chłopaków temu. 
+pr-br	Isso foi há três namorados. 
+pr	Já tive três namorados depois desse. 
+ro	El a fost acum trei iubiți. 
+sp	Eso fue tres novios atrás. 
+sp-eu	Eso fue hace tres novios. 
+sv	Det var för tre pojkvänner sen. 
+th	นั่นมันแฟนสามคนที่แล้ว | 
+tr	O üç önceki sevgilimdi. 
+vi	Sau anh ta có ba người nữa rồi. | 
+zh-long	那是我前前前男友 
+zh-short	他之后我又交了三个男朋友 
+

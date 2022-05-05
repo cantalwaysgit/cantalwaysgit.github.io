@@ -1,0 +1,27 @@
+ja	あれは飛行機よ | 
+ru	Сэнди, это самолет. 
+id	Sandy, itu pesawat. 
+ar	&rlm;‏إنها طائرة يا "ساندي".‏ | 
+da	Sandy, det er et fly. 
+el	Αυτό είναι αεροπλάνο, Σάντι. 
+en	[Courtney] Sandy, that's an airplane. | 
+fi	Se on lentokone. 
+fr	Sandy, c'est un avion. 
+he	&rlm;‏סנדי, זה מטוס.‏ | 
+it	Sandy, quello è un aeroplano. 
+ko	샌디, 저건 비행기잖아요 | 
+nl	Sandy, dat is een vliegtuig. 
+no	Sandy, det er et fly. 
+pl	To samolot. 
+pr-br	Sandy, aquilo é um avião. 
+pr	Sandy, aquilo é um avião. 
+ro	Sandy, ăla e un avion! 
+sp-eu	Sandy, eso es un avión. 
+sp	Sandy, ese es un avión. 
+sv	Sandy, det är ett flygplan. 
+th	แซนดี้ นั่นมันเครื่องบิน | 
+tr	Sandy, o bir uçak. 
+vi	Sandy, đó là máy bay mà. | 
+zh-long	山迪，那是飛機 
+zh-short	桑迪 那是架飞机 
+

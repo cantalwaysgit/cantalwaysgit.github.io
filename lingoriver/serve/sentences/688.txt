@@ -1,0 +1,27 @@
+ja	サックスの間に生まれた | 赤ん坊だ | 
+fi	olisivat rakastelleet ja saaneet vauvan. 
+id	yang bercinta lalu punya bayi. 
+ru	вместе родили ребенка. 
+ar	&rlm;‏مارسوا الحب وأنجبوا طفلة.‏ | 
+da	der elsker og får en baby. 
+el	έκαναν έρωτα και γέννησαν αυτό. 
+en	-made love and had a baby. | -Oh, wow. | 
+fr	avaient fait un bébé. 
+he	&rlm;‏עשו אהבה והביאו לעולם תינוק.‏ | 
+it	avessero fatto l'amore e avessero avuto un figlio. 
+ko	아기를 낳은 것 같아 | 
+nl	...de liefde bedreven en een baby kregen. 
+no	elsket og fikk barn sammen. 
+pl	zrobili sobie dziecko. 
+pr-br	tivessem tido um filho. 
+pr	tivessem feito amor e tido um bebé. 
+ro	s-ar fi împreunat și ar fi făcut un copil. 
+sp-eu	hubieran hecho el amor y tenido un bebé. 
+sp	hubieran hecho el amor y tenido un bebé. 
+sv	skulle älska och få barn. 
+th	เอากันแล้วคลอดลูกออกมา | 
+tr	sevişmiş ve bebek yapmışlar sanki. 
+vi	yêu nhau và sinh em bé. | 
+zh-long	一起愛愛生寶寶 
+zh-short	做爱生出来的宝宝 
+

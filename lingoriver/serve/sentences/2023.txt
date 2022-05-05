@@ -1,0 +1,27 @@
+id	Pria yang melakukan panggilan sulit dan memperjuangkan dirimu. 
+ja	君のために難しい交渉もし | 全力で戦う | 
+ru	Готов звонить нужным людям и драться за тебя. 
+ar	&rlm;‏‏رجل سيجري الاتصالات الشاقة | &rlm;‏ويخوض جميع المعارك الهامة.‏ | 
+da	En mand, der vil tage de svære opkald, kæmpe de store kampe. 
+el	Που θα κάνει τα δύσκολα τηλεφωνήματα και θα δώσει τις δύσκολες μάχες. 
+en	A guy who will make all the tough | phone calls, fight all the big fights. | 
+fi	Hän hoitaa hankalat puhelut ja isot taistelut. 
+fr	Un type qui passera les coups de fil et qui se défoncera pour toi. 
+he	&rlm;‏‏גבר שיעשה את שיחות הטלפון הקשות | &rlm;‏ויילחם את כל הקרבות הגדולים.‏ | 
+it	Un uomo che farebbe le telefonate scomode e affronterebbe le battaglie importanti. 
+ko	힘든 전화도 해주고 | 잘 싸워주기도 하는 남자지 | 
+nl	Een man die de lastige telefoontjes wil doen en voor je wil vechten. 
+no	En som tar de vanskelige telefonene, kjemper de harde kampene. 
+pl	Który będzie wykonywał za ciebie trudne telefony, walczył o twoje. 
+pr-br	Um cara que vai fazer as ligações difíceis e lutar por uma boa causa. 
+pr	Um tipo que faz os telefonemas difíceis, que trava as grandes batalhas. 
+ro	Un tip care va negocia la telefon, va lupta să câștigi. 
+sp-eu	Un tío que hará las llamadas difíciles, que peleará como es debido. 
+sp	Un tipo que haga las llamadas difíciles, pelee por lo que haga falta pelear. 
+sv	En kille som tar de svåra telefonsamtalen, och de tuffa fajterna. 
+th	คนที่จะโทรศัพท์ที่หินๆ ให้ | ต่อสู้กับปัญหาใหญ่โตทั้งหมด | 
+tr	Zor telefon görüşmelerini yapacak, senin için mücadele edecek biri. 
+vi	Một gã sẵn sàng gọi những cú điện khó, | chiến đấu những trận cam go. | 
+zh-long	那個人會幫妳處理棘手問題 為妳衝鋒陷陣 
+zh-short	一个搞定难打的电话 为你据理力争的人 
+

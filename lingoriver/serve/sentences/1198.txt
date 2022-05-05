@@ -1,0 +1,27 @@
+id	Tugasmu adalah melindunginya. 
+ru	Ты должен её защищать. 
+en	Your job is to protect her. | 
+ar	&rlm;‏‏- مهمتك أن تحميها. | &rlm;‏- أحميها على مدار الساعة!‏ | 
+da	-Din opgave er at beskytte hende. -Jeg beskytter hende 24/7! 
+el	-Οφείλεις να την προστατεύεις. -Την προστατεύω διαρκώς! 
+fi	-Tehtäväsi on suojella häntä. -Suojelen kellon ympäri! 
+fr	- Tu es censé la protéger. - Ce que je fais 24 heures sur 24. 
+he	&rlm;‏‏העבודה שלך היא להגן עליה. | &rlm;‏-אני מגן עליה 24 שעות ביממה!‏ | 
+it	- Proteggerla è il tuo lavoro. - Lo faccio senza sosta! 
+ko	- 지켜주셔야죠 | - 24시간 지키고 있어! | 
+nl	Jouw taak is haar beschermen. -Ik bescherm haar altijd. 
+no	-Jobben din er å beskytte henne. -Det gjør jeg hele døgnet! 
+pl	- Masz ją chronić. - Chronię ją 24 godziny na dobę. 
+pr	- A tua função é protegê-la. - Eu protejo-a constantemente! 
+pr-br	-Seu trabalho é protegê-la. -Eu a protejo 24 horas por dia! 
+ro	- Treaba ta e s-o protejezi. - O protejez non-stop! 
+sp-eu	- Tu trabajo es protegerla. - ¡La protejo las 24 horas! 
+sp	- Tu trabajo es protegerla. - ¡La protejo todo el tiempo! 
+sv	-Ditt jobb är att skydda henne. -Jag gör det dygnet runt! 
+th	- งานของคุณคือปกป้องเธอ | - ผมปกป้องเธอตลอด 24 ชม.ทั้งเจ็ดวัน | 
+tr	-Senin işin onu korumak. -Onu her an koruyorum! 
+vi	- Việc của anh là bảo vệ cô ấy. | - Tôi luôn bảo vệ cô ấy. | 
+zh-long	-你的工作是要保護她 -我全天候保護她 
+zh-short	-你的工作是要保护她 -我时刻都在保护她！ 
+ja	守る立場だろ？ | 
+

@@ -1,0 +1,26 @@
+sv	Premiären när hjärtat slår som en trumma 
+th	วันปฐมทัศน์ | เมื่อหัวใจเต้นเหมือนตีกลอง | 
+ja	開演の時は | 　　心臓がバクバク | 
+nl	de première, wanneer je hart tekeergaat 
+da	Til premieren Hvor du er så spændt 
+id	Bagian pembuka Saat jantungmu berdetak seperti drum 
+ru	Премьера Когда сердце стучит, как барабан 
+vi	Phần mở đầu | Khi trái tim bạn đập như trống | 
+ar	&rlm;‏"الافتتاح عندما ينبض قلبك كطبل‏ | 
+el	Η έναρξη, που η καρδιά σου Χτυπά σαν τύμπανο 
+en	♪ The opening when your heart | Beats like a drum ♪ | 
+fi	Ensi-ilta Sydän rummun lailla hakkaa 
+fr	La première Quand le cœur bat à cent à l'heure 
+he	&rlm;‏‏הפתיחה‏ כשלבך הולם כתוף‏ | 
+it	La sera della prima Quando il cuore batte come un tamburo 
+ko	심장이 쿵쾅거릴 때의 오프닝 | 
+pl	Gdy jesteś na fali, serce wali ci młotem 
+pr	A abertura Quando o coração parece um tambor 
+pr-br	A abertura Quando seus corações batem como um tambor 
+ro	Deschiderea Când inima îți bate ca nebuna 
+sp-eu	La inauguración Y el corazón se te sale del pecho 
+sp	La apertura Cuando tu corazón late cual tambor 
+tr	Açılışta Yüreğin küt küt atar 
+zh-long	讓你心如亂麻的開場 
+zh-short	开场时你紧张得心乱跳 
+

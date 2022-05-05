@@ -1,0 +1,25 @@
+ar	&rlm;‏بعد أن تفوزي بأول جائزة "غرامي"،‏ | 
+da	at efter du vinder din første Grammy, 
+el	Όταν πάρεις το πρώτο σου Γκράμι, 
+en	-After you win your first Grammy... | -Uh-huh. | 
+fr	Après ta première victoire aux Grammy, 
+it	Quando vincerai il primo Grammy, 
+nl	Als je je eerste Grammy hebt gewonnen... 
+pl	Kiedy już zdobędziesz Grammy, 
+pr-br	Depois que vencer o primeiro Grammy, 
+pr	depois de venceres o teu primeiro Grammy, 
+ro	După ce o să câștigi primul Grammy, 
+sp	Después de que ganes tu primer Grammy, 
+sp-eu	Después de ganar tu primer Grammy, 
+sv	När du vunnit din första Grammy, 
+tr	İlk Grammy'ni kazandıktan sonra 
+vi	Sau khi giành giải Grammy đầu tiên, | 
+zh-long	等妳拿到第一座葛萊美獎 
+zh-short	在赢下第一个格莱美奖后 
+ja	グラミー賞を取ったら | 家に帰り― | 
+he	&rlm;‏אחרי שתזכי בגראמי הראשון שלך,‏ | 
+id	Setelah dapat Grammy pertamamu, 
+ru	Когда получишь первую «Грэмми» 
+th	หลังจากได้รางวัลแกรมมี่อันแรก | 
+ko	첫 그래미상을 받으면 | 
+

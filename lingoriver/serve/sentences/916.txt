@@ -1,0 +1,27 @@
+ar	&rlm;‏أحسنت. لقد أخفتها.‏ | 
+da	Godt gået. Du skræmte hende. 
+el	Μπράβο. Την τρόμαξες. 
+en	Good job. You scared her off. | 
+fi	Hienoa. Pelästytit hänet. 
+fr	Bravo. Tu lui as fait peur. 
+he	&rlm;‏עבודה טובה. הפחדת אותה.‏ | 
+id	Bagus. Kau menakutinya. 
+it	Bella mossa. L'hai spaventata. 
+ko	잘했다, 쫓아버렸네 | 
+nl	Goed zo. Je maakte haar bang. 
+no	Flott. Du skremte henne. 
+pl	Brawo. Wystraszyłeś ją. 
+pr	Bom trabalho. Assustaste-a. 
+pr-br	Muito bem. Você a assustou. 
+ro	Bravo! Ai speriat-o. 
+ru	Молодец. Ты её спугнул. 
+sp-eu	Bien hecho. La has asustado. 
+sp	Muy bien. La asustaste. 
+sv	Snyggt. Du skrämde henne. 
+th	ดีมาก นายทำให้เธอกลัว | 
+tr	Aferin. Onu korkuttun. 
+vi	Hay lắm. Anh làm cô ấy sợ rồi. | 
+zh-long	太棒了，你把人家嚇跑了 
+zh-short	干得好 你把她吓走了 
+ja	逃げてった | 
+

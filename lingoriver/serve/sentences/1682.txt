@@ -1,0 +1,23 @@
+id	Baiklah. 
+th	โอเค | 
+ja	そうね | 
+ru	Хорошо. 
+tr	Peki. 
+vi	Thôi được. | 
+ko	알았어요 | 
+zh-short	好吧 
+ar	&rlm;‏حسناً.‏ | 
+da	Okay. 
+el	Εντάξει. 
+en	Okay. | 
+fi	Hyvä on. 
+he	&rlm;‏בסדר.‏ | 
+pl	Dobrze. 
+pr-br	Está bem. 
+pr	Está bem. 
+ro	Bine. 
+sp	De acuerdo. 
+sp-eu	Vale. 
+sv	Okej. 
+zh-long	好吧 
+

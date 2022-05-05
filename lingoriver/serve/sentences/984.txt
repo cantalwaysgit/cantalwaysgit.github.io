@@ -1,0 +1,27 @@
+id	Sandy Wexler? Sembunyikan  pastrami . 
+en	Sandy Wexler? | Somebody hide the pastrami. | 
+ar	&rlm;‏"ساندي ويكسلر"؟ ليخفي أحد البسطرمة.‏ | 
+da	Sandy Wexler? Gem pastramien. 
+el	Ο Σάντι Γουέξλερ; Κρύψτε το παστράμι! 
+fi	Sandy Wexler? Pastrami piiloon. 
+he	&rlm;‏סנדי וקסלר? שמישהו יחביא את הפסטרמה.‏ | 
+it	Sandy Wexler? Nascondete il pastrami. 
+nl	Sandy Wexler? Verstop de pastrami. 
+no	Sandy Wexler? Noen må gjemme pastramien. 
+pl	Sandy Wexler? Chowajcie pastrami. 
+pr-br	Sandy Wexler? Alguém esconda o pastrami. 
+pr	Sandy Wexler? Escondam o  pastrami. 
+ro	Sandy Wexler? Să ascundă cineva pastrama! 
+sp-eu	¿Sandy Wexler? ¡Que escondan el fiambre! 
+sp	¿Sandy Wexler? Escondan el pastrami. 
+sv	Sandy Wexler? Bäst att gömma pastramin. 
+th	แซนดี้ เวกซ์เลอร์ | ใครเอาพาสตรามี่ไปซ่อนที | 
+tr	Sandy Wexler? Pastırmayı saklayın. 
+vi	Sandy Wexler? | Ai đó giấu thịt bò hun khói tẩm ướp. | 
+zh-long	山迪韋克斯勒？ 快把燻牛肉藏起來 
+zh-short	桑迪韦克斯勒？熏牛肉被人藏起来了 
+ru	Сэнди Уэкслер? Прячьте бастурму. 
+ja	サンディ？ | パストラミ泥棒め | 
+fr	Sandy Wexler ? Vite, cachez le pastrami. 
+ko	샌디 웩슬러? | 누가 파스트라미 좀 숨겨요 | 
+

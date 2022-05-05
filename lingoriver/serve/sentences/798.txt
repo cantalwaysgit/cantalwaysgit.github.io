@@ -1,0 +1,27 @@
+ar	&rlm;‏هذا ما نفعله. إنها عادتنا.‏ | 
+da	Det er det, vi gør. Det er vores ritual. 
+en	That's what we do. It's our ritual. | 
+fi	Niin me teemme. Se on rituaalimme. 
+fr	C'est notre truc. Notre rituel. 
+he	&rlm;‏זה מה שאנחנו עושים. זה הטקס הקבוע שלנו.‏ | 
+it	È così che funziona. È un rito. 
+ko	그게 우리가 의례처럼 | 하는 일이야 | 
+nl	Dat is ons ritueel. 
+no	Det er det vi gjør. Det er ritualet vårt. 
+pr-br	É o que fazemos. É o nosso ritual. 
+pr	É o que fazemos. É o nosso ritual. 
+ro	Așa facem noi. E ritualul nostru. 
+sp	Es lo que hacemos. Es nuestro ritual. 
+sp-eu	Es lo que hacemos. Es nuestro ritual. 
+sv	Det är så vi gör. Det är vår ritual. 
+th	นั่นคือที่พวกเราทำ | มันเป็นธรรมเนียมของเรา | 
+tr	Biz böyle yaparız. Bu bizim geleneğimiz. 
+vi	Chúng ta thường làm thế. Đó là nghi lễ. | 
+zh-long	我們就是這樣，這是我們的傳統 
+zh-short	这就是我们的风格 是我们的仪式 
+pl	To taki nasz rytuał. 
+ja	この事務所の“儀式”だ | 
+id	Itulah yang kami lakukan. Itu ritual kami. 
+ru	Конечно. У нас такой ритуал. 
+el	Έτσι κάνουμε. Είναι το τελετουργικό μας. 
+

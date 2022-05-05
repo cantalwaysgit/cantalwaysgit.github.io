@@ -1,0 +1,35 @@
+ar	&rlm;‏‏- لا أعلم شيئاً. | &rlm;‏- أكانت لديه حياة شخصية؟‏ | 
+da	-Jeg aner intet. -Havde han et privatliv? 
+el	-Δε γνωρίζω τίποτα. -Είχε προσωπική ζωή; 
+en	-I know nothing. I know nothing. | -Did he have a personal life? | 
+fi	-En tiedä mitään. -Oliko hänellä sellaista? 
+fr	- Aucune idée. - En avait-il seulement une ? 
+he	&rlm;‏‏אני לא יודע כלום. | &rlm;‏-היו לו חיים אישיים?‏ | 
+id	- Aku sama sekali tak tahu. - Dia punya kehidupan pribadi? 
+it	- Non ne so niente. - Aveva una vita privata? 
+ko	- 아무것도 몰라요 | - 사생활이 있었던가요? | 
+nl	Ik weet niets. -Had hij een privéleven? 
+no	-Jeg vet ingenting. -Hadde han et privatliv? 
+pl	- Nic nie wiem. - Miał je w ogóle? 
+pr-br	-Não sei de nada. -Ele tinha vida pessoal? 
+pr	- Desconheço. - Ele tinha vida pessoal? 
+ro	- Nu știu nimic. - Dar avea viață personală? 
+ru	-Ничего не знаю. -У него была личная жизнь? 
+sp-eu	- No sé nada. - ¿Tenía vida personal? 
+sp	- No sé nada. - ¿Tenía vida privada? 
+sv	-Jag vet ingenting. -Hade han nåt privatliv? 
+th	- ไม่รู้สิ | - เขามีชีวิตส่วนตัวไหม | 
+tr	-Hiç bilmiyorum. -Özel hayatı var mıydı? 
+vi	- Tôi chẳng biết gì. | - Anh ta có đời tư không? | 
+zh-long	-我一無所知 -他有私生活嗎？ 
+zh-short	-一无所知 -他有私生活吗？ 
+ja	知らないな | 
+
+tr	Ne bekliyorsun? 
+cs	Tak na co čekáš? 
+es	¿Qué estás esperando? 
+ja	&lrm;早く支度を | 
+sv	Vad väntar du på? 
+fi	Mitä sitten odotat? | 
+id	Tunggu apa lagi? 
+

@@ -1,0 +1,27 @@
+ar	&rlm;‏حسناً، ما الذي سنفعله اليوم أيها الكبير؟‏ | 
+da	Hvad skal vi lave i dag? 
+el	Τι θα κάνουμε σήμερα, μεγάλε; 
+en	[Sandy] Okay, | what are we doing today, big guy? | 
+fi	Mitä tänään tehdään? 
+fr	Qu'est-ce qui te branche ? 
+he	&rlm;‏בסדר, מה אנחנו עושים היום, גבר?‏ | 
+it	Che facciamo oggi, ragazzone? 
+nl	Wat gaan we vandaag doen? 
+no	Hva skal vi gjøre i dag? 
+pl	Co dziś robimy, wielkoludzie? 
+pr-br	Beleza, o que vamos fazer hoje, grandão? 
+pr	Muito bem, o que vamos fazer hoje? 
+ro	Bine. Ce facem azi, uriașule? 
+sp-eu	¿Qué vamos a hacer hoy, grandullón? 
+sp	¿Qué haremos hoy, grandote? 
+sv	Vad ska vi göra idag? 
+th	โอเค วันนี้เราจะทำอะไร ไอ้ตัวใหญ่ | 
+tr	Pekâlâ, bugün ne yapıyoruz koca adam? 
+vi	Nào, hôm nay ta làm gì, anh bạn to xác? | 
+zh-long	好，今天吃什麼，大隻佬？ 
+zh-short	好吧 我们今天做什么 大块头？ 
+id	Baiklah, apa yang kita lakukan hari ini, Jagoan? 
+ru	Ну, чем займемся сегодня? 
+ja	今日はどこへ行く？ | 
+ko	오늘 뭐 할까? | 
+

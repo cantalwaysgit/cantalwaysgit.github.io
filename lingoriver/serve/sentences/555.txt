@@ -1,0 +1,26 @@
+ru	-Знаешь что? -Что? 
+ja	じゃあ― | 
+ar	&rlm;‏‏- سأخبرك شيئاً. | &rlm;‏- ماذا؟‏ | 
+da	-Hør her. -Hvad? 
+el	-Άκου τι θα κάνουμε. -Τι; 
+en	-Tell you what... | -What? | 
+fi	-Kuules. -Mitä? 
+fr	- Tu sais quoi ? - Quoi ? 
+he	&rlm;‏‏אני אגיד לך מה. | &rlm;‏-מה?‏ | 
+it	- Senti una cosa. - Cosa? 
+ko	- 이렇게 하죠 | - 어떻게? | 
+no	-Hør her. -Ja? 
+pl	- Zróbmy tak. - Jak? 
+pr-br	-Quer saber? -Quê? 
+pr	- Fazemos o seguinte. - O quê? 
+ro	- Uite ce! - Ce? 
+sp-eu	- Escucha. - ¿Qué? 
+sp	- Te diré algo. - Dime. 
+sv	-Vet du vad? -Vad? 
+th	- เอาอย่างนี้นะ | - อะไร | 
+tr	-Bak ne diyeceğim. -Ne? 
+vi	- Thế này nhé. | - Gì vậy? | 
+zh-long	-這樣吧 -怎樣？ 
+zh-short	-这样吧 -什么？ 
+id	- Begini saja. - Apa? 
+

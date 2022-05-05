@@ -1,0 +1,27 @@
+ar	&rlm;‏لديك حاسوبك، صحيح؟‏ | 
+da	Du har din computer, ikke? 
+el	Έχεις τον υπολογιστή σου. 
+fi	Otetaan tietokone, 
+fr	Prends ton ordinateur. 
+he	&rlm;‏יש לך מחשב, נכון?‏ | 
+it	Hai un computer, giusto? 
+nl	Je hebt toch een computer? 
+pl	Masz komputer, nie? 
+pr-br	Você tem computador, certo? 
+pr	Tens o teu computador, certo? 
+ro	Ai computerul, da? 
+ru	У тебя же есть компьютер? 
+sp-eu	Tienes tu ordenador, ¿no? 
+sp	Tienes computadora, ¿verdad? 
+sv	Du har din dator, okej? 
+th	คุณมีคอมพิวเตอร์ใช่ไหม | 
+tr	Bilgisayarın var, değil mi? 
+vi	Anh có chiếc máy tính nhé? | 
+zh-long	你打開電腦 
+zh-short	用电脑 
+id	Kau punya komputer, bukan? 
+ko	컴퓨터는 있으시죠? | 
+en	You got your computer, right? | And you plug that into your phone line... | 
+ja	パソコンに | 電話回線をつなげば― | 
+no	Du har PC-en. 
+

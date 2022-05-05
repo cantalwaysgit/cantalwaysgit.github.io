@@ -1,0 +1,26 @@
+id	Dan pada malam saat aku sendiri 
+ja	たった一人で | 　　孤独に過ごす夜も | 
+ru	И ночью, когда я одна 
+ar	&rlm;‏وفي الليالي التي أكون فيها لوحدي‏ | 
+el	Και τις νύχτες που είμαι ολομόναχη 
+en	♪ And nights when I'm all alone ♪ | 
+fi	Ja iltaisin kun yksin oon 
+fr	Le soir quand je suis seule 
+he	&rlm;‏ובלילות כשאני לבד‏ | 
+it	E nelle notti che passo da sola 
+ko	혼자 있는 밤에 | 
+nl	en als ik 's nachts alleen ben 
+pl	A samotną nocą 
+pr-br	Todas as noites quando estou sozinha 
+pr	E nas noites em que estou só 
+ro	Și în serile în care sunt singură 
+sp	De noche cuando estoy sola 
+sp-eu	Y en las noches en que estoy sola 
+sv	Alla ensamma nätter 
+th	ในค่ำคืนที่ฉันเดียวดาย | 
+tr	Geceleri yalnız kaldığımda 
+vi	Và những đêm em lẻ bóng | 
+zh-long	那些寂寞的夜晚 
+zh-short	在我独自一人的夜里 
+da	Og om natten i min ensomhed 
+

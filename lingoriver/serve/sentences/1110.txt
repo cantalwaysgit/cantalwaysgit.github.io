@@ -1,0 +1,27 @@
+id	Karena aku juga takut. 
+ja	僕だって恐ろしい | 
+ar	&rlm;‏لأنني خائف أيضاً.‏ | 
+da	For det er jeg også. 
+en	'Cause I'm scared, too. | 
+fr	Moi aussi, j'ai peur. 
+he	&rlm;‏כי גם אני פוחד.‏ | 
+it	Perché ho paura anch'io. 
+nl	Want ik ben ook bang. 
+no	For det er jeg også. 
+pr-br	Porque eu também estou com medo. 
+pr	Porque eu também estou. 
+ro	Fiindcă și mie mi-e frică. 
+sp-eu	Porque yo también lo tengo. 
+sp	Yo también. 
+sv	Jag är också rädd. 
+vi	Vì tao cũng đang sợ đây. | 
+zh-long	我也好怕 
+fi	Minuakin pelottaa. 
+zh-short	因为我也怕 
+ko	나도 겁난다 | 
+pl	Ja też. 
+ru	Я тоже боюсь. 
+tr	Çünkü ben de korkuyorum. 
+th	เพราะฉันก็กลัวเหมือนกัน | 
+el	Κι εγώ φοβάμαι. 
+

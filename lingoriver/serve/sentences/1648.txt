@@ -1,0 +1,27 @@
+ar	&rlm;‏"ساندي"! كيف؟‏ | 
+da	Sandy! Hvordan? 
+el	Σάντι! Πώς; 
+en	-Sandy! How? | -What do you... Huh? | 
+fi	Sandy! Miten? 
+fr	Sandy ! Comment c'est possible ? 
+he	&rlm;‏סנדי! איך?‏ | 
+id	Sandy! Bagaimana bisa? 
+it	Sandy! Com'è possibile? 
+ko	샌디! 어떻게 한 거예요? | 
+pl	Sandy! Jak to się stało? 
+pr-br	Sandy! Como? 
+pr	Sandy! O que aconteceu? 
+sp-eu	¡Sandy! ¿Cómo? 
+sp	¡Sandy! ¿Cómo? 
+sv	Hur gjorde du? 
+vi	Sandy! Sao lại thế? | 
+zh-long	山迪！怎麼會這樣？ 
+zh-short	桑迪！怎么会？ 
+no	Sandy! Hvordan? 
+ja	サンディ　どうして？ | 
+tr	Sandy! Nasıl? 
+ru	Сэнди! 
+ro	Sandy! Cum? 
+th	แซนดี้ ทำได้ยังไง | 
+ru	Как? 
+

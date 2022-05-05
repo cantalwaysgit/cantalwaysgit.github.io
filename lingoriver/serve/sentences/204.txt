@@ -1,0 +1,56 @@
+ko	타자나에서 여기까진 | 무슨 일이야? | 
+ar	&rlm;‏ما الذي جلبكن إلى هنا من "تارزانا"؟‏ | 
+da	Hvad bringer jer hertil hele vejen fra Tarzana? 
+el	Τι σε φέρνει ως εδώ από την Ταρζάνα; 
+en	What brings you all the way out here | from Tarzana? | 
+fi	Millä asialla tulit tänne Tarzanasta asti? 
+fr	Qu'est-ce qui t'amène ? 
+he	&rlm;‏מה מביא אתכן כל הדרך מטרזנה?‏ | 
+id	Ada apa kau jauh-jauh kemari dari Tarzana? 
+it	Come mai sei venuta fino qui da Tarzana? 
+nl	Waarom ben je helemaal uit Tarzana gekomen? 
+no	Hva bringer dere helt hit fra Tarzana? 
+pl	Przyjechałyście aż z Tarzany? 
+pr-br	Por que vieram de Tarzana para cá? 
+pr	O que vos traz de Tarzana? 
+ro	Ce vă aduce aici tocmai din Tarzana? 
+sp-eu	¿Qué os trae por aquí desde Tarzana? 
+sp	¿Qué te trae por aquí desde Tarzana? 
+sv	Vad gör du ända här ute? 
+th	อะไรทำให้คุณมาถึงนี่จากทาร์ซานา | 
+tr	Tarzana'dan sizi hangi rüzgâr attı böyle? 
+vi	Điều gì mang cô từ tận Tarzana đến đây? | 
+zh-long	什麼風把妳從塔桑纳吹來這？ 
+zh-short	你怎么大老远从塔扎纳来了？ 
+ru	И что же привело вас сюда из Тарзаны? 
+ja	ターザナから何しにここへ？ | 
+
+pt-br	Ele não queria falar comigo 
+fi	Adam ei halunnut puhua. | 
+uk	Він не хотів зі мною говорити. 
+cs	Tenkrát se se mnou nechtěl bavit. 
+da	Han ville ikke tale med mig. | 
+el	Δεν ήθελε να μου μιλήσει τότε. 
+en	He didn't want to talk to me then. 
+es	Él no quiso hablarme entonces. 
+es-eu	No quiso hablarme entonces. 
+fr	Il ne voulait pas me parler. 
+he	‫הוא לא רצה אז לדבר איתי.‬ | 
+hu	Akkor nem akart beszélni velem. 
+it	Allora non voleva parlarmi. 
+ko	&lrm;그땐 나랑 얘기를 | &lrm;안 하려고 했어요 | 
+no	Han ville ikke snakke med meg da. 
+th	&lrm;ตอนนั้นเขาไม่อยากคุยกับฉัน | 
+tr	Adam önce konuşmak istemedi. 
+vi	&lrm;Lúc đó, cậu ấy | &lrm;không muốn nói chuyện với tôi. | 
+zh-long	他當時不想跟我說話 
+zh-short	他当时不想跟我说话 
+id	Dia tak mau bicara denganku saat itu. 
+ms	Waktu itu, Adam tak nak cakap dengan saya. 
+pt	Ele não queria falar comigo. 
+hr	Nije tada htio razgovarati sa mnom. Odgovori su mu bili neodređeni. 
+ja	&lrm;アダムは あまり話さず | &lrm;返事もあいまいでした | 
+ru	Тогда он не захотел со мной говорить. Отвечал как-то уклончиво. 
+sv	Då ville han inte prata med mig. Hans svar var väldigt vaga. 
+ro	Atunci nu a vrut să vorbim. 
+

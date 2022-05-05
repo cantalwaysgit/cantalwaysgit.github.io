@@ -1,0 +1,26 @@
+ar	&rlm;‏كنت أحبك‏ | 
+da	Jeg elskede dig 
+el	Ήμουν ερωτευμένη μαζί σου 
+en	♪ I was in love with you ♪ | 
+fi	Kun sinuun rakastuin 
+fr	J'étais amoureuse de toi 
+he	&rlm;‏הייתי מאוהבת בך‏ | 
+it	Ero innamorata di te 
+ko	너랑 사랑에 빠졌었잖아 | 
+nl	en verliefd op jou 
+pl	Kochałam cię 
+pr-br	Eu estava apaixonada por você 
+pr	Estava apaixonada por ti 
+ro	Eram îndrăgostită de tine 
+sp-eu	Estaba enamorada de ti 
+sp	Y de ti estaba enamorada 
+sv	Var jag kär i dig 
+th	ฉันรักคุณ | 
+tr	Sana âşıktım 
+vi	Em đem lòng yêu anh | 
+zh-long	我愛著你 
+zh-short	自己爱上了你 
+id	Aku jatuh cinta kepadamu Dan kau jatuh cinta kepadaku 
+ja	あなたに恋をして | 　　あなたも私を愛した | 
+ru	И я была влюблена в тебя 
+

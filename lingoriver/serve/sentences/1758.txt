@@ -1,0 +1,29 @@
+ja	人生を思いきり | 楽しむために… | 
+ko	인생은 모험입니다 | 단 한 순간도 놓치기 싫죠 | 
+ru	Жизнь - это приключение. 
+en	[narrator on TV] | Your life is an adventure. | 
+pl	Życie to przygoda. Nie chcesz jej przegapić. 
+th	ชีวิตคือการผจญภัย | ที่คุณไม่ต้องการพลาดแม้ชั่วขณะ | 
+ar	&rlm;‏الحياة مغامرة. لا تود أن تفوت دقيقة منها.‏ | 
+da	Livet er et eventyr. Man vil ikke gå glip af noget. 
+el	Η ζωή είναι μια περιπέτεια και δε θέλετε να χάνετε στιγμή. 
+fi	Elämä on seikkailu. Siitä ei halua missata hetkeäkään. 
+fr	La vie est une aventure. Profitez de chaque instant. 
+he	&rlm;‏החיים הם הרפתקה. אתה לא רוצה לפספס רגע.‏ | 
+it	La vita è un'avventura. Non perderne neanche un istante. 
+nl	Het leven is een avontuur. Je wilt niets missen. 
+no	Livet er et eventyr. Gå ikke glipp av et eneste øyeblikk. 
+pr	A vida é uma aventura. Não queira perder um único momento. 
+pr-br	A vida é uma aventura. Não quer perder nem um instante. 
+ro	Viața e o aventură. Nu trebuie să ratați nicio clipă. 
+sp-eu	Tu vida es una aventura. No te quieres perder nada. 
+sp	La vida es una aventura. No quieres perderte de nada. 
+sv	Livet är ett äventyr. Man vill inte missa nåt. 
+tr	Hayat bir maceradır. Bir anı bile kaçırmak istemezsiniz. 
+vi	Đời là một cuộc phiêu lưu. | Bạn không muốn bỏ lỡ dù một khoảnh khắc. | 
+zh-long	人生是場精采的冒險 妳不會想錯過每一刻 
+zh-short	人生就是场冒险 你不想错过任何一刻 
+id	Hidupmu adalah petualangan. Kau tidak mau melewatkannya. 
+en	You don't want to miss a single moment. | 
+ru	Не упускай ни минуты. 
+

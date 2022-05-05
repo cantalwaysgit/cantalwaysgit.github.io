@@ -1,0 +1,26 @@
+en	Oh. Oh, yeah. Good night. | 
+ko	그래, 잘 자 | 
+ja	なるほど　おやすみ | 
+id	Ya. Selamat malam. 
+ru	Да. Спокойной ночи. 
+pl	No tak. Dobranoc. 
+th	ครับ ราตรีสวัสดิ์ | 
+ar	&rlm;‏أجل. طابت ليلتك.‏ | 
+da	Godnat. 
+el	Εντάξει, καληνύχτα. 
+fi	Ai, no, hyvää yötä. 
+he	&rlm;‏כן. לילה טוב.‏ | 
+it	Ah, certo. Buonanotte. 
+no	Ja. God natt. 
+pr-br	Sim. Boa noite. 
+pr	Sim. Boa noite. 
+ro	Da. Noapte bună! 
+sp-eu	Sí. Buenas noches. 
+sp	Sí. Buenas noches. 
+sv	Visst. Godnatt. 
+tr	Evet. İyi geceler. 
+vi	Phải rồi. Chúc ngủ ngon. | 
+zh-long	好，晚安 
+zh-short	好的 晚安 
+fr	Bonne nuit. 
+

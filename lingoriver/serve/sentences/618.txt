@@ -1,0 +1,28 @@
+id	- Astaga, dia sungguh... - Buruk rupa? 
+ru	-Он такой... -Придурочный? 
+he	&rlm;‏‏הוא כזה... | 
+ar	&rlm;‏‏- إنه... | &rlm;‏- سافل؟‏ | 
+da	-Han er en stivstikker. -Stivstikker? 
+el	-Έχει τόσο... -Ανώμαλη έκφραση; 
+en	-Man, he's such a-- | -Boner face? | 
+fi	-Hän vouhottaa kuin... -Muna otsassa? 
+fr	- C'est vraiment une... - Une tête de nœud ? 
+it	- È un tale... - Schizzato? 
+ko	- 샌디는 정말... | - 진지 대마왕이야 | 
+nl	Hij is zo'n... -Blije eikel? 
+no	-Han er... -En dust? 
+pl	- Ale z niego... - Pajac. 
+pr-br	-Cara, ele é um... -Cara de cuíca. 
+pr	- Ele é tão... - Palerma? 
+ro	- E atât de... - Năuc? 
+sp-eu	- Es un... - Caraculo. 
+sp	- Viejo, está siempre... - ¿Excitado? 
+sv	-Han är så... -Överentusiastisk? 
+th	- เขาช่าง... | - น่าเกลียดงี่เง่า | 
+tr	-Yani o çok... -Bok suratlı mı? 
+vi	- Anh ấy chỉ... | - Khó chịu? | 
+zh-long	-媽呀，他實在是… -有夠雞巴 
+zh-short	-老兄 他太… -愚蠢了？ 
+ja	ヤボったい | 
+he	&rlm;פרצוף זין?‏ | 
+

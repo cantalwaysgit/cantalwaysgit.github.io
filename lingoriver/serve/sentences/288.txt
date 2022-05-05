@@ -1,0 +1,57 @@
+ar	&rlm;‏‏تخيلي لو أنك كنت تغنين على خشبة مسرح | &rlm;‏أمام 50 ألف شخص.‏ | 
+da	Forestil dig at synge på en scene foran 50.000 mennesker. 
+el	Φαντάσου να τραγουδούσες στη σκηνή, μπροστά σε 50.000 ανθρώπους. 
+en	Well, imagine if you were singing | on stage in front of 50,000 people. | 
+fi	Kuvittele laulavasi lavalla 50 000 ihmiselle. 
+fr	Imaginez-vous sur scène devant 50 000 personnes. 
+he	&rlm;‏דמייני שהיית שרה על במה בפני 50,000 איש.‏ | 
+it	Immagina di cantare davanti a 50.000 persone. 
+ko	5만 관중이 있는 무대에서 | 노래하는 걸 상상해 봐요 | 
+nl	Stel je voor dat je voor 50.000 mensen zingt. 
+pl	Wyobraź sobie, że śpiewasz na scenie przed 50-tysięczną widownią. 
+pr-br	Imagine se estivesse cantando num palco diante de 50 mil pessoas. 
+pr	Imagine que estava a cantar num palco diante de 50 mil pessoas. 
+ro	Imaginează-ți cum ar fi să cânți pe o scenă, în fața a 50.000 de oameni. 
+sp-eu	Imagine cantar en un escenario delante de 50 000 personas. 
+sp	Imagina si cantaras frente a 50 000 personas. 
+sv	Föreställ dig att du sjöng inför en publik på 50 000 personer. 
+tr	Sahnede 50.000 kişinin önünde şarkı söylediğini hayal et. 
+vi	Hãy tưởng tượng cô đang hát | trên sân khấu trước 50.000 người. | 
+zh-long	想像妳站在舞臺上 對著五萬名觀眾面唱歌 
+zh-short	想象一下你在舞台上唱歌 台下坐着五万名观众 
+ja	５万人の前で | 歌う自分を想像して | 
+no	Tenk deg å synge på en scene foran 50 000 mennesker. 
+id	Bayangkan kau bernyanyi di panggung, di hadapan 50.000 orang. 
+ru	Представьте, что поете со сцены для 50 000 человек. 
+th	งั้นก็ ลองนึกภาพตอนที่คุณร้องบนเวที | ต่อหน้าคน 50,000 คน | 
+
+cs	Marianna Nowaková. 
+es	Marianna Nowak. 
+hu	Marianna Nowak. 
+da	Marianna Nowak. | 
+el	Η Μαριάννα Νόβακ. 
+en	Marianna Nowak. 
+es-eu	Marianna Nowak. 
+fr	Marianna Nowak. 
+he	‫מריאנה נובאק.‬ | 
+hr	Marianna Nowak. 
+id	Marianna Nowak. 
+it	Marianna Nowak. 
+ja	&lrm;マリアンナ･ノバク | 
+ko	&lrm;마리안나 노바크예요 | 
+ms	Marianna Nowak. 
+nl	Marianna Nowak. 
+no	Marianna Nowak. 
+pt-br	Marianna Nowak. 
+pt	Marianna Nowak. 
+ro	Marianna Nowak. 
+sv	Marianna Nowak. 
+th	&lrm;มาริอันนา โนวัก | 
+tr	Marianna Nowak. 
+uk	Маріанна Новак. 
+vi	&lrm;Marianna Nowak. | 
+zh-long	瑪麗安娜諾瓦克 
+zh-short	玛丽安娜·诺瓦克 
+fi	Marianna Nowak. | 
+ru	Марианна Новак. 
+

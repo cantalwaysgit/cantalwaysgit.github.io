@@ -1,0 +1,25 @@
+ar	&rlm;‏‏لكنني شاهدت فيلم "بروبلم تشايلد". | &rlm;‏كان ذاك الغلام مضحكاً جداً.‏ | 
+da	Jeg har set  Far, mor og møgunge. Den knægt var hysterisk morsom. 
+el	Είδα  Το Τρομερό Παιδί,  όμως. Ο πιτσιρικάς είχε πολλή πλάκα. 
+en	I saw Problem Child, though. | That kid was hysterical. | 
+fi	Olen nähnyt  Kauhukakaran. Se muksu oli hulvaton. 
+fr	Mais j'ai vu  Junior le terrible. Hilarant, ce gamin. 
+he	&rlm;‏‏אבל ראיתי את "מותק, הילד השתגע". | &rlm;‏הילד הזה היה נהדר.‏ | 
+it	Ma ho visto  Piccola peste, con quel bambino simpaticissimo. 
+no	Men jeg så  Problem Child. Den gutten var kjempemorsom. 
+pl	Ale widziałem  Kochanego urwisa. Boki zrywać. 
+pr-br	Mas eu vi  O Pestinha. Aquele moleque era engraçadão. 
+pr	Mas vi  O Pestinha.  O puto era de gritos. 
+ro	Dar am văzut  Copilul problemă. Puștiul ăla era dus rău. 
+sp-eu	Pero he visto  Este chico es un demonio. Ese niño es tronchante. 
+sp	Pero vi  Adorable criatura. El nene era muy gracioso. 
+sv	Men jag såg  Problem Child. Den ungen var hysteriskt kul. 
+th	แต่ผมดูเรื่องพรอเบลมชายด์ | เด็กนั่นตลกสุดๆ | 
+vi	Nhưng tôi xem phim Problem Child rồi. | Thằng bé buồn cười thật. | 
+zh-long	但我看過《天才小搗蛋》 那小鬼有夠好笑的啦 
+zh-short	但我看了《问题儿童》 那孩子超搞笑 
+id	Tapi aku lihat  Problem Child . Anak itu lucu sekali. 
+ru	Но я видел «Трудного ребенка». Ужасно смешно. 
+tr	Problem Çocuk  filmini izledim ama. Çocuk çok komikti. 
+ko	‘쥬니어는 문제아’는 봤어요 | 빵 터지던데요 | 
+

@@ -1,0 +1,26 @@
+ar	&rlm;‏"كارسون"؟‏ | 
+da	Carson? 
+el	Ο Κάρσον; 
+en	Carson? | 
+fi	Carson? 
+fr	Carson ? 
+he	&rlm;‏קרסון?‏ | 
+it	Carson? 
+pr-br	Carson? 
+pr	O Carson? 
+sp	¿Carson? 
+sp-eu	¿Carson? 
+sv	Carson? 
+zh-long	卡森？ 
+zh-short	卡尔森吗？ 
+ko	카슨요? | 
+no	Carson? 
+id	Carson? 
+ru	Карсон? 
+th	คาร์สันเหรอ | 
+tr	Carson mı? 
+vi	Carson? | 
+ja	カーソンが？ | 
+pl	Carson? 
+ro	Carson? 
+
