@@ -14,9 +14,9 @@ function TextTrain(sentences, onSentenceNeed) {
     var suggestionsE
     var langASentenceE
     var langBSentenceE
-    var inputDoneE
+//    var inputDoneE
     var inputE
-    var placeholderE
+//    var placeholderE
 
     //    startButton.style.display = "none"
     //var doorUI = document.getElementById("ht-door")
@@ -29,12 +29,13 @@ function TextTrain(sentences, onSentenceNeed) {
 
     var container = document.getElementById("container")
 
-    inputE = document.getElementById("tt-input2")
-    placeholderE = document.getElementById("persistent-placeholder")
-    inputDoneE = document.getElementById("tt-input-done")
+    inputE = document.getElementById("editspan")
+//    placeholderE = document.getElementById("persistent-placeholder")
+//    inputDoneE = document.getElementById("tt-input-done")
+    var moveWithInputE = document.getElementById("move-with-input")
     langBSentenceE = document.getElementById("tt-lang-b")
     langASentenceE = document.getElementById("tt-lang-a")
-    suggestionsE = document.getElementById("tt-suggestions")
+    suggestionsE = document.getElementById("suggestions")
 //    helpE = document.getElementById("tt-help")
     var closeButton = document.getElementById("tt-close")
 
@@ -49,9 +50,11 @@ function TextTrain(sentences, onSentenceNeed) {
     
     // handleInput listens to input on inputE
     function handleInput(event) {
-        var s = inputE.value
+        var s = inputE.textContent
+	console.log("input: '" + s.charAt(s.length-1) + "'")
         // word break
-        if (s.charAt(s.length-1) == " ") { 
+        if (s.charAt(s.length-1).match(/\s/)) {
+	    console.log("word break")
             handleWordBreak()
         }
     }
@@ -59,6 +62,7 @@ function TextTrain(sentences, onSentenceNeed) {
     inputE.addEventListener("keydown", handleKeydown)
     // handleKeydown listenes for keydowns on inputE
     function handleKeydown(event) {
+	document.getElementById("start-tip").style.display = "none"
         if (event.code == "Tab") {     // skip sentence
             if(hasNextSentence()) {
                 nextSentence()
@@ -100,7 +104,14 @@ function TextTrain(sentences, onSentenceNeed) {
 //      swd.FillWithChapterString()
 
         // hacky, maybe on file loaded etc
-        nextSentenceTranslated()
+//        nextSentenceTranslated()
+
+	document.getElementById("start-tip").textContent = "[repeat the second line]"
+
+	inputE.focus()
+	
+	updateTrainSentence()
+        updateSuggestions()
 
 /*      if (swd.SentenceN > 0) {
             //            swd.onSentenceTranslated = nextSentenceTranslated
@@ -118,7 +129,7 @@ function TextTrain(sentences, onSentenceNeed) {
         }
         var wps = sentences[trainSentenceIndex].wordPairs
         // input does not match source
-        var userIn = inputE.value.trim()
+        var userIn = inputE.textContent.trim()
         //        var check = wordTranslitForUser(wps[wordIndex].Hebrew)
         var check = wps[wordIndex].langA
         if (userIn !== check &&
@@ -133,13 +144,16 @@ function TextTrain(sentences, onSentenceNeed) {
         // continue with...
         if (wordIndex < wps.length - 1) {     // ...next word
 	    //            inputDoneE.innerHTML +=  translit(check) + " "
-	    inputDoneE.innerHTML +=  userIn + " "
+	    //	    inputDoneE.innerHTML +=  userIn + " "
+	    // use single spans for linebreaks to work
+	    var span = document.createElement("span")
+	    span.className = "tt-input-done"
+	    span.innerHTML = userIn + " "
+	    moveWithInputE.parentNode.insertBefore(span, moveWithInputE)
+
             wordIndex++
-            inputE.value = ""
+            inputE.textContent = ""
             updateSuggestions()
-/*            if (displayMode == 1) {
-                placeholderE.value = placeholderE.value.replace(/[^ ]+ /, "")
-            } */
         }  else if (hasNextSentence()) {     // ...next sentence
             nextSentence()
             updateSuggestions()
@@ -189,7 +203,7 @@ function TextTrain(sentences, onSentenceNeed) {
     // display the next sentence
     function nextSentence() {
 
-        inputE.value = ""
+        inputE.textContent = ""
         wordIndex = 0
         trainSentenceIndex ++
 
@@ -208,8 +222,15 @@ function TextTrain(sentences, onSentenceNeed) {
     function updateTrainSentence() {
         var sentence = sentences[trainSentenceIndex]
 
-//      stopTranslateWait()
-        inputDoneE.innerText = ""
+	//      stopTranslateWait()
+
+	// clear input done
+	var spans = document.getElementsByClassName("tt-input-done")
+	while (spans.length > 0) {
+	    spans[0].parentNode.removeChild(spans[0])
+	}
+	//        inputDoneE.innerText = ""
+	
         // remember to hide langA and keep langB
         clearInputOnInput = true
 
@@ -239,18 +260,14 @@ function TextTrain(sentences, onSentenceNeed) {
         var langB = sentence.langB
 
 	langBSentenceE.innerHTML = translit(langB)
-//	langBSentenceE.innerText = langB
         langASentenceE.innerText = translit(langA)
 
-/*        case 1:
-            placeholderE.value = langA
-        } */
     }
 
     // generateSuggestions generates suggestions
     function generateSuggestions() {
 	
-	// return nothing
+	// leave blank
 	return ""
 
 	
@@ -305,15 +322,13 @@ function TextTrain(sentences, onSentenceNeed) {
     }
 
     // if translation
-    function nextSentenceTranslated() {
+/*    function nextSentenceTranslated() {
 //      stopTranslateWait()
 
-        updateTrainSentence()
-        updateSuggestions()
 
         // remove listener
 //      swd.onSentenceTranslated = null
-    } 
+    }  */
 
     // in-place shuffle
     function shuffle(array) {

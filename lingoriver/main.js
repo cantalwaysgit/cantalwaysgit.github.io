@@ -18,11 +18,11 @@ fetch('https://phrase-to-phrase.github.io/lingoriver-serve/lang.txt')
 	for (var l of languages) {
 	    var optionA = document.createElement("option")
 	    optionA.value = l
-	    optionA.textContent = l
+	    optionA.textContent = isoLangNames[l] ? isoLangNames[l].toLowerCase() : l
 	    langASelect.appendChild(optionA)
 	    var optionB = document.createElement("option")
 	    optionB.value = l
-	    optionB.textContent = l
+	    optionB.textContent = isoLangNames[l] ? isoLangNames[l].toLowerCase() : l
 	    if (l == "en") { optionB.selected = true }
 	    document.getElementById("langB").appendChild(optionB)
 	}
@@ -210,7 +210,7 @@ function getSentencePair(text, langA, langB) {
     var wp = []
     //  /([^\p{L}\p{M}]* +[^\p{L}\p{M}]*)/gu
 //    langASentence = insertBlanksJaZh(langASentence) // for check to work
-    var words = insertBlanksJaZh(langASentence).split(/[^\p{L}\p{M}]* +[^\p{L}\p{M}]*/u)
+    var words = insertBlanksJaZh(langASentence).split(/[^\p{L}\p{M}\p{N}]* +[^\p{L}\p{M}\p{N}]*/u)
     console.log("words: " + words)
     for (var s of words) {
 	// skip if s has no letter

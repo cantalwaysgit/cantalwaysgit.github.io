@@ -21,8 +21,37 @@
 	  border: none;
 	  background: none;
       }
+
+      #container {
+	  max-width: 800px;
+      }
+
+      .tt-input-done {
+	  vertical-align: top;
+	  display: inline-block;
+	  white-space: pre;
+      }
+
+      #move-with-input {
+	  display: inline-block;
+      }
       
-      input {
+      #editspan {
+	  min-height: 20px;
+	  min-width: 100px;
+	  max-width: 600px;
+	  display: inline-block;
+      }
+      
+      #editspan:focus {
+	  outline: none;
+      }
+
+      #start-tip {
+	  color: gray;
+      }
+      
+/*      input {
 	  font-size: 20pt;
       }
 
@@ -41,13 +70,7 @@
 
       .flex-wrap {
 	  display:flex;
-      }
-
-      #tt-input-done {
-	  vertical-align: top;
-	  display:inline-block;
-	  white-space:pre;
-      }
+      } */
       
     </style>
         <!--    <div style="position: fixed; bottom: 0px">-->
@@ -63,7 +86,7 @@
       </div>
       <br/>
 
-      <div id="container" style="position:relative">
+      <div id="container">
 
 	<!--  <div class="a88hkc" style="float:right; margin-top: 20pt" id="tt-help">help</div>-->
 	<div id="texttrain">
@@ -74,17 +97,26 @@
 	  <div id="tt-lang-a">
 	  </div>
 
-	  <div class="flex-wrap"> <!-- flex wrap -->
-	    <span id="tt-input-done">
-	    </span>
-	    <div class="tt-move-with-input" style="display:inline-block; flex-grow:1"> 
+
+	  <div id="move-with-input">
+	    <!-- i couldn't get a resizable <input> to work, this page suggested a editable span: https://css-tricks.com/auto-growing-inputs-textareas/ -->
+	    <span role="textbox" id="editspan" contenteditable></span><br/>
+	    <span id="suggestions"></span>
+	  </div>
+
+	  <span id="start-tip">
+	  </span>
+
+
+
+<!--	  <div class="flex-wrap"> <!-- flex wrap 
+	    <div id="tt-move-with-input" style="display:inline-block; flex-grow:1"> 
 	      <div class="inputcontainer">
 		<input id="tt-input2" type="text" value="" class="language-input"/>
 	      </div>
-	      <!--<input id="tt-input" oninput="this.style.width=this.value.length+'ch'" style="border: 1px solid red; font-size:14pt" autofocus> -->
 	      <div id="tt-suggestions" style="margin-left:1px; display:inline-block">
 	      </div>
-	    </div> <!-- move-with-input -->
+	    </div>
 	  </div> <!-- flex wrap --> 
 	</div>
       </div>
@@ -93,6 +125,7 @@
       <script src="tlit/unicode-tlit-array.js"></script>
       <script src="tlit/translit.js"></script>
       <script src="dict-03-04.js"></script>
+      <script src="iso-lang-names.js"></script>
       <script src="text-train.js"></script>
       <script src="main.js"></script>
 
