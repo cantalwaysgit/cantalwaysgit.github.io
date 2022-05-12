@@ -1,7 +1,0 @@
-id	Apa? 
-ru	Что? 
-en	[exclaims] | 
-ko	뭐야! | 
-
-en	[screams] 
-

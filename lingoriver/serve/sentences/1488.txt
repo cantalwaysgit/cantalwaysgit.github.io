@@ -1,8 +1,0 @@
-en	[Sandy] Go jump in a lake, fellas! | 
-fr	Allez vous noyer ! 
-nl	Ga lekker in een meer springen. 
-ja	さっさと失せろ！ | 
-id	Lompatlah ke dalam danau, kawan-kawan! 
-
-en	[gasps] 
-

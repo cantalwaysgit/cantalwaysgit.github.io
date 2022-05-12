@@ -1,7 +1,0 @@
-ja	8000ドルのワインだぞ | 殺される | 
-id	Dia habiskan 8.000 dolar demi anggur. Dia bisa membunuhku. 
-en	The man spent $8,000 on the wine. | He'll kill me. | 
-
-en	[Tommy] Oh, no. 
-ru	Нет. 
-

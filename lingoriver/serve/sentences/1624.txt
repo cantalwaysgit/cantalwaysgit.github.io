@@ -1,6 +1,0 @@
-en	[exclaiming] | 
-id	Siapa itu? 
-ko	만세! | 
-
-en	[laughing] 
-

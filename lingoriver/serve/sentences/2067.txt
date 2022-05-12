@@ -1,5 +1,0 @@
-ja	彼はマネジャーで親友だ | 
-id	Dia kembali menjadi manajerku dan sahabatku. 
-ru	Он снова мой менеджер и лучший друг. 
-en	He's my manager and my best friend again. | 
-

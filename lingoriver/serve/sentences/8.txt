@@ -1,6 +1,0 @@
-en	-You ready for this? | -Yeah, what's that? | 
-
-ja	&lrm;したわ | 
-
-en	[wind gusting] 
-
