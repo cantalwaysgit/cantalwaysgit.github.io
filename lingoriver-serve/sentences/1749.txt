@@ -11,8 +11,8 @@ he	&rlm;‏‏לא, אני אומר לך, | &rlm;‏הלך לך טוב יותר 
 it	Ti assicuro che è andata meglio di quanto pensi! 
 no	Nei, tro meg, du var bedre enn du tror! 
 pl	Poszło ci lepiej, niż myślisz! 
-pr-br	Não, acredite, foi melhor do que você imagina! 
-pr	Não, estou a dizer-te, foi melhor do que pensas! 
+pt-br	Não, acredite, foi melhor do que você imagina! 
+pt	Não, estou a dizer-te, foi melhor do que pensas! 
 ro	Crede-mă, a ieșit mai bine decât crezi! 
 sv	Nej, det gick bättre än du tror! 
 th	ไม่นะ ฉันขอบอก | มันมีผลดีกว่าที่นายคิด | 

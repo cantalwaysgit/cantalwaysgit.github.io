@@ -11,8 +11,8 @@ it	L'aurora boreale e le stelle in cielo
 ko	오로라와 하늘의 별은 | 
 nl	het noorderlicht en de sterren 
 pl	Pod zorzy blaskiem i gwiazdami 
-pr	A aurora boreal e as estrelas lá em cima 
-pr-br	A aurora boreal e estrelas no céu 
+pt	A aurora boreal e as estrelas lá em cima 
+pt-br	A aurora boreal e estrelas no céu 
 ro	Dincolo de aurora boreală Și de stele 
 sv	Norrskenet och stjärnorna där ovan 
 th	แสงเหนือและดวงดาวบนฟ้า | 

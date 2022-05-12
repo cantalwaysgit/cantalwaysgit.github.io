@@ -11,8 +11,8 @@ it	Ascolta, Sandy, hai fatto il tuo lavoro.
 nl	Jij hebt je werk gedaan. 
 no	Du har gjort jobben din. 
 pl	Zrobiłeś już swoje, Sandy. 
-pr-br	Sandy, você fez o seu trabalho. 
-pr	Sandy, fizeste o que te competia. 
+pt-br	Sandy, você fez o seu trabalho. 
+pt	Sandy, fizeste o que te competia. 
 ro	Sandy, ți-ai făcut treaba. 
 sv	Du gjorde ditt jobb. 
 tr	Bak Sandy, sen işini yaptın. 

@@ -13,8 +13,8 @@ it	Ma lo licenzieranno in tronco!
 nl	Ze zullen hem ontslaan. 
 no	Jøss! De kommer til å sparke ham! 
 pl	Wyleci za to z roboty! 
-pr-br	Cara! Aqueles caras vão demiti-lo! 
-pr	Caraças! Eles vão despedi-lo! 
+pt-br	Cara! Aqueles caras vão demiti-lo! 
+pt	Caraças! Eles vão despedi-lo! 
 ro	Doamne! Ăia o să-l dea afară! 
 sv	Jisses! Han får sparken! 
 th	ให้ตายสิ พวกนั้นจะไล่เขาออก | 

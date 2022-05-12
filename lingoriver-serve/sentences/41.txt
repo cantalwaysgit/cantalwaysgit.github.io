@@ -15,8 +15,8 @@ ko	아니요, 괜찮아요 | 에이전트가 있거든요 |
 nl	Hoeft niet. Ik heb een agent. 
 no	Ellers takk. Jeg har agent. 
 pl	Dzięki, mam agenta. 
-pr-br	Não, estou bem. Tenho um agente. 
-pr	Não é preciso. Tenho um agente. 
+pt-br	Não, estou bem. Tenho um agente. 
+pt	Não é preciso. Tenho um agente. 
 ro	Nu, e-n regulă. Am un agent. 
 th	ไม่ต้อง ผมมีตัวแทนแล้ว | 
 tr	Yok, böyle iyi. Temsilcim var. 

@@ -13,8 +13,8 @@ he	&rlm;‏לא, סנדי. זו לא הסיבה שעזבתי אותך.‏ |
 it	No, Sandy. Non me ne sono andato per quello. 
 no	Nei, Sandy. Det var ikke derfor jeg dro. 
 pl	Nie taki był powód. 
-pr-br	Não, Sandy. Não foi por isso que deixei você. 
-pr	Não, Sandy. Não foi por isso que te deixei. 
+pt-br	Não, Sandy. Não foi por isso que deixei você. 
+pt	Não, Sandy. Não foi por isso que te deixei. 
 ro	Nu, Sandy. Nu din cauza asta te-am părăsit. 
 sv	Det var inte därför jag lämnade dig. 
 th	ไม่ใช่ แซนดี้ | นั่นไม่ใช่สาเหตุที่ฉันจากนายไป | 

@@ -12,8 +12,8 @@ it	- Domenica il titolo sarà tuo. - Li spedirò a nanna.
 ko	- 타이틀을 차지할 거예요 | - 잘 자라고 해야죠 | 
 nl	Jij krijgt zondag de titel. -Ik laat ze slapen. 
 pl	- W niedzielę zdobędziesz tytuł. - Powiem mu dobranoc. 
-pr-br	-Vai conquistar o título no domingo. -Vou botar todos para nanar. 
-pr	- Vais ganhar o título no domingo. - Vou pô-los a dormir. 
+pt-br	-Vai conquistar o título no domingo. -Vou botar todos para nanar. 
+pt	- Vais ganhar o título no domingo. - Vou pô-los a dormir. 
 ro	- O să câștigi titlul duminică. - O să le-nchid ochișorii! 
 sv	-Du tar titeln på söndag. -Jag ska natta dem allihop. 
 th	- วันอาทิตย์จะได้ตำแหน่งแชมป์ | - จะทำให้พวกเขาปิดตาไปเลย | 

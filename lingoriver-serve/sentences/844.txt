@@ -15,8 +15,8 @@ ko	난 테헤란에 있잖아 | 이 얼간아 |
 nl	Ik ben in Teheran, idioot. 
 no	Jeg er i Teheran, din idiot. 
 pl	Jestem w Teheranie, imbecylu. 
-pr-br	Estou em Teerã, seu imbecil. 
-pr	Estou em Teerão, imbecil. 
+pt-br	Estou em Teerã, seu imbecil. 
+pt	Estou em Teerão, imbecil. 
 ro	Sunt în Teheran, imbecilule! 
 sv	Jag är i Teheran, din dumskalle. 
 th	ผมอยู่ที่เตหะราน ไอ้โง่เอ๋ย | 

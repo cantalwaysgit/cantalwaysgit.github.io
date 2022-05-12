@@ -14,8 +14,8 @@ ko	사랑해, 지금은 네 순간이야 | 네가 즐길 순간이라고 |
 nl	Ik hou van je. Dit is jouw moment. 
 no	Dette er ditt øyeblikk. Det er bare din fortjeneste. 
 pl	Kocham cię. To twoja chwila. Zapracowałeś na to. 
-pr	Adoro-te. Este é o teu momento. Isto é tudo teu. 
-pr-br	Amo você. Este é o seu momento. É tudo seu. 
+pt	Adoro-te. Este é o teu momento. Isto é tudo teu. 
+pt-br	Amo você. Este é o seu momento. É tudo seu. 
 sv	Jag älskar dig. Det är din stund. Du gjorde detta. 
 th	ฉันรักนาย นี่คือเวลาของนาย | ฝีมือนายทั้งนั้น | 
 tr	Seni seviyorum. Bu senin başarın. Hepsi senin. 

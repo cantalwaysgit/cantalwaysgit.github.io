@@ -11,8 +11,8 @@ he	&rlm;‏אני אהרוג אותך אם תגיד את זה שוב.‏ |
 it	Altrimenti ti uccido. 
 nl	Dan vermoord ik je. 
 no	Da dreper jeg deg. 
-pr-br	Vou matá-lo se disser. 
-pr	Vou matar-te se disseres. 
+pt-br	Vou matá-lo se disser. 
+pt	Vou matar-te se disseres. 
 ro	O să te omor dacă mai repeți asta. 
 sv	Då dödar jag dig. 
 th	ฉันจะฆ่านายถ้าพูดแบบนั้น | 
@@ -34,8 +34,8 @@ fr	Allez, quoi. Je peux pas...
 he	&rlm;‏‏תפסיק. אני לא יכול... | &rlm;‏-סנדי?‏ | 
 it	- Basta. Non posso... - Sandy? 
 no	-Slutt. Jeg kan aldri... -Sandy? 
-pr-br	-Pare. Não posso... -Sandy? 
-pr	- Para. Não consigo... - Sandy? 
+pt-br	-Pare. Não posso... -Sandy? 
+pt	- Para. Não consigo... - Sandy? 
 ro	- Încetează! Nu mai pot să... - Sandy? 
 sv	-Jag kan inte ens... -Sandy? 
 tr	-Dur. Ben hiç... -Sandy? 

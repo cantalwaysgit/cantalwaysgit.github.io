@@ -14,8 +14,8 @@ it	L'importante è che Courtney si senta al sicuro.
 nl	Het belangrijkste is dat Courtney zich veilig voelt. 
 no	Det viktige er at Courtney føler seg trygg. 
 pl	Courtney musi czuć się bezpiecznie. 
-pr-br	O importante é que Courtney se sinta segura. 
-pr	O importante é que a Courtney se sinta em segurança. 
+pt-br	O importante é que Courtney se sinta segura. 
+pt	O importante é que a Courtney se sinta em segurança. 
 ro	Courtney se simte în siguranță, asta e cel mai important. 
 sv	Det viktiga är att Courtney känner sig trygg. 
 th	สิ่งสำคัญคือคอร์ทนี่ย์รู้สึกปลอดภัย | 

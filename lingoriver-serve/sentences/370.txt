@@ -11,8 +11,8 @@ fr	Désolé, mais j'ai déjà donné.
 he	&rlm;‏סליחה, למדתי את זה בדרך הקשה.‏ | 
 id	Maaf, aku belajar dari pengalaman. 
 it	L'ho imparato sulla mia pelle. 
-pr-br	Desculpe, mas aprendi pelo modo difícil. 
-pr	Lamento, mas aprendi isso da pior forma. 
+pt-br	Desculpe, mas aprendi pelo modo difícil. 
+pt	Lamento, mas aprendi isso da pior forma. 
 ro	Îmi pare rău, am avut experiențe neplăcute. 
 sv	Jag lärde mig det den hårda vägen. 
 th	โทษที ผมเรียนรู้จากประสบการณ์ลำบาก | 

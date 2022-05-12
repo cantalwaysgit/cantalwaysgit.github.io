@@ -14,8 +14,8 @@ it	Tutte le canzoni erano su tutte le radio.
 nl	Ik hoorde elk nummer op elke zender. 
 no	Jeg hørte alle sangene på alle kanaler. 
 pl	Wszędzie puszczali jej piosenki. 
-pr-br	Ouvi todas as músicas em todas as estações. 
-pr	Ouvi todas as canções em todas as estações. 
+pt-br	Ouvi todas as músicas em todas as estações. 
+pt	Ouvi todas as canções em todas as estações. 
 ro	Am auzit toate cântecele la toate posturile de radio. 
 sv	Jag hörde alla låtar på alla stationer. 
 th	ฉันได้ยินทุกเพลงจากทุกสถานี | 

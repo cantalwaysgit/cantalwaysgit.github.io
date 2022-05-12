@@ -15,8 +15,8 @@ ko	꼭 통과해야 해요 | 먹고 살려고 투잡을 뛰거든요 |
 nl	Ik moet hem krijgen. Ik heb twee banen om hier te overleven. 
 no	Jeg må få rollen. Jeg må ha to jobber for å overleve her. 
 pl	Muszę dobrze wypaść. Teraz pracuję na dwa etaty. 
-pr-br	Preciso conseguir. Tenho dois empregos para conseguir sobreviver. 
-pr	Tenho de conseguir. Tenho dois empregos para sobreviver. 
+pt-br	Preciso conseguir. Tenho dois empregos para conseguir sobreviver. 
+pt	Tenho de conseguir. Tenho dois empregos para sobreviver. 
 ro	Trebuie să reușesc. Am două servicii ca să mă ajung. 
 sv	Jag måste få den. Jag har två jobb för att överleva. 
 th	ฉันต้องได้งานนี้ | ต้องทำสองงานเพื่ออยู่รอด | 

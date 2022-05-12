@@ -12,8 +12,8 @@ it	La Ice House non ti piace. Non so perché l'ho detto. Scusa.
 nl	Dat vind je niks. Ik weet niet waarom ik dat zei. Sorry. 
 no	Du liker ikke Ice House. Vet ikke hvorfor jeg sa det. Beklager. 
 pl	Nie lubisz Ice House. Nie wiem, czemu to powiedziałem. Wybacz. 
-pr-br	Você não gosta de lá. Não sei por que eu disse isso. Desculpe. 
-pr	Sei que não gosta da Ice House. Não sei porque falei nisso. Desculpe. 
+pt-br	Você não gosta de lá. Não sei por que eu disse isso. Desculpe. 
+pt	Sei que não gosta da Ice House. Não sei porque falei nisso. Desculpe. 
 ro	Știu că nu-ți place la The Ice House. Nu știu ce mi-a venit. Scuze. 
 sv	Du gillar inte Ice House. Vet inte varför jag sa det. Förlåt. 
 th	คุณไม่ชอบไอซ์เฮาส์ | ไม่รู้ว่าทำไมผมพูดแบบนั้น โทษที | 
@@ -39,8 +39,8 @@ it	Va bene, vado a vedere Kevin.
 nl	Ik ga naar Kevin kijken. 
 no	Jeg går og ser på Kevin. 
 pl	Idę obejrzeć Kevina. 
-pr-br	Certo, vou ver o Kevin. 
-pr	Pronto, vou ver como está o Kevin. 
+pt-br	Certo, vou ver o Kevin. 
+pt	Pronto, vou ver como está o Kevin. 
 ro	Bine. O să merg să mă uit la Kevin. 
 sv	Jag ska gå och se på Kevin. 
 th	เอาละ ผมจะไปดูเควิน | 

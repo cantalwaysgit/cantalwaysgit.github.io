@@ -14,8 +14,8 @@ it	Mettiamo della musica sexy.
 ko	섹시한 음악 좀 켜 봐 | 
 no	Vi setter på sexy musikk. 
 pl	Włączcie seksowną muzykę. 
-pr-br	Vamos pôr música sexy. 
-pr	Ponham música sensual. 
+pt-br	Vamos pôr música sexy. 
+pt	Ponham música sensual. 
 ro	Să punem niște muzică sexy! 
 sv	Sätt på lite sexig musik. 
 th	เปิดเพลงเซ็กซี่กันหน่อยสิ | 

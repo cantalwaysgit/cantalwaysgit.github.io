@@ -14,8 +14,8 @@ ko	- 네, 지금 이러면 안 되죠 | - 알아 |
 nl	Maar dit is geen goed moment. -Weet ik. 
 no	-Ja, men det passer litt dårlig nå. -Jeg vet det. 
 pl	- To trochę kiepska pora. - Wiem. 
-pr-br	-Sim, mas agora não é uma boa hora. -Eu sei. 
-pr	- Sim, mas não é boa altura. - Eu sei. 
+pt-br	-Sim, mas agora não é uma boa hora. -Eu sei. 
+pt	- Sim, mas não é boa altura. - Eu sei. 
 ro	- Da, dar nu e tocmai momentul potrivit. - Știu. 
 sv	-Ja, men det passar inte så bra nu. -Jag vet. 
 th	- ใช่ แต่ไม่ใช่เวลาที่เหมาะเลยนะ | - ผมรู้ | 

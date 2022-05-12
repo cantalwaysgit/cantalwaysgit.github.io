@@ -13,8 +13,8 @@ it	Sono nel tuo culo.
 ko	당신 엉덩이 안에 있어요 | 
 no	Jeg er i rumpa di. 
 pl	W twoim tyłku. 
-pr-br	Estou no seu rabo. 
-pr	Estou enfiado no teu traseiro. 
+pt-br	Estou no seu rabo. 
+pt	Estou enfiado no teu traseiro. 
 ro	Sunt în curul tău. 
 sv	Jag är i din rumpa. 
 th	อยู่ในก้นแก | 

@@ -17,8 +17,8 @@ he	&rlm;‏ואני לוחץ על זה ומושך את זה.‏ |
 it	Premo questo e alzo questa. 
 nl	Ik druk hier en trek dit eruit. 
 no	Og jeg trykker her og drar der. 
-pr-br	Tenho que apertar isso e levantar isso. 
-pr	Carrego aqui e puxo isto. 
+pt-br	Tenho que apertar isso e levantar isso. 
+pt	Carrego aqui e puxo isto. 
 ro	Apăs aici și apoi trag de asta. 
 tr	Şuna basıyorum ve şunu çekiyorum. 
 zh-long	按下去，拉起來 

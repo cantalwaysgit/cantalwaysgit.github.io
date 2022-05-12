@@ -11,8 +11,8 @@ it	Da dove hai tirato fuori quella roba? Non l'avessi mai fatto.
 ko	이런 아이디어는 어디서 나와? | 나 참 정말 | 
 nl	Hoe kom je op die dingen? Het was beter van niet. 
 pl	Jak ty to wszystko wymyślasz? Czasem tego wręcz żałuję. 
-pr-br	Onde inventa essas coisas? Eu queria que não inventasse. 
-pr	Onde vais buscar estas ideias? Gostava que não o fizesses. 
+pt-br	Onde inventa essas coisas? Eu queria que não inventasse. 
+pt	Onde vais buscar estas ideias? Gostava que não o fizesses. 
 ro	De unde-ți vin replicile astea? Aș vrea să nu-ți mai vină. 
 sv	Hur kommer du på allt? Jag önskar att du inte gjorde det. 
 th	ไปเอามุกเด็ดพวกนั้นมาจากไหน | ไม่น่าได้มาเลย | 

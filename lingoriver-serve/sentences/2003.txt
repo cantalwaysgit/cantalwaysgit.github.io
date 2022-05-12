@@ -17,8 +17,8 @@ he	&rlm;‏במקום את מה שאני חושב באמת.‏ |
 it	Piuttosto che dire ciò che penso davvero. 
 nl	In plaats van wat ik echt denk. 
 no	I stedet for å si det jeg egentlig tenker. 
-pr-br	Em vez de dizer o que realmente acho. 
-pr	e não aquilo que eu penso. 
+pt-br	Em vez de dizer o que realmente acho. 
+pt	e não aquilo que eu penso. 
 ro	Și nu ce gândesc cu adevărat. 
 sv	Istället för att säga vad jag tänker. 
 tr	Gerçekten düşündüğüm şeyi söylemek yerine. 

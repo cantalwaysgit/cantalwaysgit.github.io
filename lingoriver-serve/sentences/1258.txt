@@ -14,8 +14,8 @@ it	Finisce così?
 nl	Is dat het dan? 
 no	Så det var det? 
 pl	To koniec? 
-pr-br	Então é isso? 
-pr	Então, é assim? 
+pt-br	Então é isso? 
+pt	Então, é assim? 
 ro	Deci, gata? 
 sv	Så, det var det? 
 th	งั้นก็แค่นี้เหรอ | 

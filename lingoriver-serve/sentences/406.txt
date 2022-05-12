@@ -12,8 +12,8 @@ ko	난 록스타야 |
 nl	Ik ben een rockster. 
 no	Jeg er rockestjerne. 
 pl	Jestem gwiazdą rocka. 
-pr-br	Sou uma estrela do rock. 
-pr	Sou uma estrela de  rock. 
+pt-br	Sou uma estrela do rock. 
+pt	Sou uma estrela de  rock. 
 ro	Sunt o vedetă rock. 
 sv	Jag är en rockstjärna. 
 th	ฉันคือร็อกสตาร์ ฉันคือร็อกสตาร์ | 

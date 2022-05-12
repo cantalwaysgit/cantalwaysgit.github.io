@@ -8,7 +8,7 @@ es	¡Sí!
 he	&rlm;‏כן!‏ | 
 it	Sì! 
 ko	그거야 | 
-pr	Sim! 
+pt	Sim! 
 ro	Da! 
 th	ใช่เลย | 
 tr	Evet! 

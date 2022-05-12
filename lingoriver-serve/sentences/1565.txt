@@ -14,8 +14,8 @@ ko	약간 몸을 푸는 게 좋아 | 이런 |
 nl	Opwarmen is altijd goed. 
 no	Det er alltid bra å varme opp. 
 pl	Na początku dobrze jest się rozgrzać. 
-pr-br	É sempre bom aquecer um pouco antes. Está bem. 
-pr	É sempre bom aquecer um pouco. Pronto. 
+pt-br	É sempre bom aquecer um pouco antes. Está bem. 
+pt	É sempre bom aquecer um pouco. Pronto. 
 ro	E mereu bine să faci puțină încălzire. Bine. 
 sv	Det är alltid bra med uppvärmning. 
 th	มันดีเสมอที่จะอุ่นเครื่องหน่อยก่อน | โอเค | 

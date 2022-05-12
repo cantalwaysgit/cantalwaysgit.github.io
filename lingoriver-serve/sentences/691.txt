@@ -11,8 +11,8 @@ he	&rlm;‏כלי הנגינה!‏ |
 it	Lo strumento! 
 no	Instrumentet! 
 pl	To taki instrument! 
-pr-br	O instrumento! 
-pr	O instrumento! 
+pt-br	O instrumento! 
+pt	O instrumento! 
 ro	Instrumentul! 
 ru	Инструмент! 
 sv	Instrumentet! 

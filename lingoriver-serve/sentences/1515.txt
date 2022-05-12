@@ -11,8 +11,8 @@ it	- Come fai a saperlo? - Lo so e basta.
 nl	Hoe wist je dat? -Dat weet ik gewoon. 
 no	-Hvordan visste du det? -Fordi jeg vet. 
 pl	- Skąd wiedziałeś? - Wiem i już. 
-pr-br	-Como você sabia? -Porque eu sei. 
-pr	- Como sabias? - Porque sei. 
+pt-br	-Como você sabia? -Porque eu sei. 
+pt	- Como sabias? - Porque sei. 
 ro	- De unde știi? - Eu știu. 
 sv	-Hur vet du det? -För att jag gör det. 
 th	- คุณรู้ได้ยังไง | - เพราะผมรู้ | 

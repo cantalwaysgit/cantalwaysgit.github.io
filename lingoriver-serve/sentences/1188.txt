@@ -13,8 +13,8 @@ fr	- Mais bientôt. D'accord ? - On en reparlera.
 he	&rlm;‏‏אבל נביא אחד בקרוב. בסדר? | &rlm;‏-נדבר על זה.‏ | 
 it	- Presto ne chiameremo uno. Va bene? - Ne parleremo. 
 no	-Vi finner en snart. Ok? -Vi skal snakke om det. 
-pr-br	-Mas teremos um em breve. -Vamos falar disso depois. 
-pr	- Mas tratamos disso em breve. Certo? - Vamos conversar sobre isso. 
+pt-br	-Mas teremos um em breve. -Vamos falar disso depois. 
+pt	- Mas tratamos disso em breve. Certo? - Vamos conversar sobre isso. 
 ro	- Dar va veni curând și momentul ăla. Da? - Mai vorbim. 
 sv	-Men vi pratar med nån snart. Okej? -Vi kan prata om det. 
 th	- เราจะเริ่มอีกในไม่ช้า โอเคนะ | - เรื่องนั้นค่อยคุยกัน | 
@@ -39,8 +39,8 @@ he	&rlm;‏לחלוטין. אני חושב שזה צעד חכם.‏ |
 it	Certo. Mossa intelligente. 
 nl	Absoluut. Dat is slim. 
 pl	Jasne. Bardzo mądrze. 
-pr-br	Com certeza. É uma atitude inteligente. 
-pr	Sem dúvida. É inteligente. 
+pt-br	Com certeza. É uma atitude inteligente. 
+pt	Sem dúvida. É inteligente. 
 ro	Sigur. Mi se pare înțelept. 
 sv	Absolut. Jag tror att det är smart. 
 th	แน่นอน ผมคิดว่านั่นเข้าท่า | 

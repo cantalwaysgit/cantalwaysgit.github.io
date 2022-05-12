@@ -13,8 +13,8 @@ it	- È stato fantastico vederti, Cindy. - Ciao, Sandy.
 ko	- 반가웠어요, 신디 | - 잘 가요, 샌디 | 
 no	-Fint å se deg, Cindy. -Ha det, Sandy. 
 pl	- Miło było cię zobaczyć, Cindy. - Pa, Sandy. 
-pr-br	-Foi ótimo vê-la, Cindy. -Tchau, Sandy. 
-pr	- Foi um prazer ver-te, Cindy. - Adeus, Sandy. 
+pt-br	-Foi ótimo vê-la, Cindy. -Tchau, Sandy. 
+pt	- Foi um prazer ver-te, Cindy. - Adeus, Sandy. 
 ro	- Mă bucur că te-am văzut, Cindy! - Pa, Sandy! 
 sv	-Kul att se dig, Cindy. -Hej då, Sandy. 
 th	- ดีใจที่ได้เจอคุณนะ ซินดี้ | - บาย แซนดี้ | 

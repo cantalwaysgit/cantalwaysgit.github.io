@@ -12,8 +12,8 @@ ko	에이미에게는 | 진심으로 연기하라고 하지 |
 nl	En tegen haar zeg ik: 'Acteer altijd met je hart.' 
 no	Jeg ber henne alltid spille fra hjertet. 
 pl	A jej w ten sposób grać. 
-pr-br	E eu digo para ela: "Sempre atue com o coração." 
-pr	E a ela digo: "Representa sempre com o coração." 
+pt-br	E eu digo para ela: "Sempre atue com o coração." 
+pt	E a ela digo: "Representa sempre com o coração." 
 ro	Iar ei îi spun să pună mereu suflet în actorie. 
 sv	Till henne säger jag: "Agera alltid från hjärtat." 
 th	และผมบอกเธอให้ "แสดงจากใจเสมอ" | 

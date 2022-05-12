@@ -2,7 +2,7 @@ id	Kenapa kau mengkhianati Firuz?
 en	Why do you screw Firuz? | 
 ru	Зачем ты подвел Фируза? 
 tr	Firuz'a neden kazık atıyorsun? 
-pr-br	Por que você fodeu o Firuz? 
+pt-br	Por que você fodeu o Firuz? 
 ar	&rlm;‏لماذا أسأت إلى "فيروز"؟‏ | 
 da	Hvorfor tog du røven på Firuz? 
 el	Γιατί δεν ακούς τον Φαρούζ; 
@@ -14,7 +14,7 @@ he	&rlm;‏למה אתה דופק את פיירוז?‏ |
 it	Perché hai fregato Firuz? 
 ko	왜 퍼루즈를 엿 먹여? | 
 pl	Czemu kiwasz Firuza? 
-pr	Porque lixas o Firuz? 
+pt	Porque lixas o Firuz? 
 ro	De ce-l tragi în piept pe Firuz? 
 th	ทำไมถึงขัดขืนกฎของไฟรูซ | 
 vi	Sao anh qua mặt Firuz? | 

@@ -15,8 +15,8 @@ fr	Elle est géniale, hein ?
 he	&rlm;‏נכון שהיא טובה?‏ | 
 it	Lei, vero? 
 no	Ja, er hun ikke? 
-pr-br	Ela não é mesmo? 
-pr	Ela é mesmo assim, não é? 
+pt-br	Ela não é mesmo? 
+pt	Ela é mesmo assim, não é? 
 ro	Nu-i grozavă? 
 sv	Visst är hon? 
 tr	Kız çok iyi, değil mi? 
@@ -39,8 +39,8 @@ he	&rlm;‏היא? מי זו היא?‏ |
 it	Lei? Lei chi? 
 no	Hun? Hvem er hun? 
 pl	Ona? Czyli kto? 
-pr-br	Ela? Ela quem? 
-pr	Ela? Quem? 
+pt-br	Ela? Ela quem? 
+pt	Ela? Quem? 
 sv	Hon? Vem är hon? 
 th	เธอ เธอที่ไหนกัน | 
 tr	Kız mı? Hangi kız? 

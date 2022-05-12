@@ -1,4 +1,4 @@
-pr-br	O cara está estragando a música. 
+pt-br	O cara está estragando a música. 
 ja	歌い手がひどい | 
 id	Orang ini mengacaukannya. 
 ru	Он её изуродовал. 
@@ -15,7 +15,7 @@ it	Quel tizio la sta massacrando.
 nl	Die vent verpest het. 
 no	Den fyren slakter den. 
 pl	Masakruje ją. 
-pr	Este tipo está a assassiná-la. 
+pt	Este tipo está a assassiná-la. 
 ro	Tipul ăla îl măcelărește. 
 sv	Killen slaktar den. 
 th	หมอนี่ทำลายเพลงนี้ | 

@@ -13,8 +13,8 @@ ko	아이 친화적인 내용으로 가면 | 어떨까 생각 중이야 |
 nl	Ik heb nagedacht over je kindvriendelijke materiaal. 
 no	Jeg har tenkt på hvordan du kan lage barnevennlig materiale. 
 pl	Zastanawiałem się, jak możesz ulepszyć swoje występy dla dzieci. 
-pr-br	Andei pensando em como você pode trabalhar seu material infantil. 
-pr	Estive a pensar como podes trabalhar o teu material para crianças. 
+pt-br	Andei pensando em como você pode trabalhar seu material infantil. 
+pt	Estive a pensar como podes trabalhar o teu material para crianças. 
 ro	M-am gândit cum ți-ai putea alcătui materialul pentru copii. 
 ru	Я подумал, что тебе нужно поработать с детьми. 
 sv	Jag har tänkt på hur du kan jobba med barnvänligt material. 
@@ -40,8 +40,8 @@ ko	매직 마운틴에 가 봐 |
 nl	Ga naar Magic Mountain. 
 no	Dra til Magic Mountain. 
 pl	W parku Magic Mountain. 
-pr-br	Vá para o Magic Mountain. 
-pr	Talvez possas ir à Magic Mountain. 
+pt-br	Vá para o Magic Mountain. 
+pt	Talvez possas ir à Magic Mountain. 
 ro	Mergi în parcul de distracții. 
 th	ไปที่แมจิกเมาน์เทน | 
 tr	Büyülü Dağ'a gidebilirsin. 

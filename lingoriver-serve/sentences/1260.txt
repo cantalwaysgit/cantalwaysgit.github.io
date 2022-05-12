@@ -10,7 +10,7 @@ he	&rlm;‏סנדי.‏ |
 it	Sandy. 
 ko	샌디 | 
 pl	Sandy. 
-pr	Sandy. 
+pt	Sandy. 
 ro	Sandy! 
 sv	Sandy. 
 th	แซนดี้ | 
@@ -18,7 +18,7 @@ tr	Sandy.
 vi	Sandy. | 
 zh-long	山迪 
 zh-short	桑迪 
-pr-br	Sandy. 
+pt-br	Sandy. 
 ja	サンディ | 
 no	Sandy. 
 

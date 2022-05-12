@@ -7,8 +7,8 @@ fi	-Firuz? -Niin.
 it	- Firuz? - Sì. 
 ko	- 퍼루즈? | - 그래 | 
 pl	- Firuz? - Tak. 
-pr-br	-Firuz? -Sim. 
-pr	- Firuz? - Sim. 
+pt-br	-Firuz? -Sim. 
+pt	- Firuz? - Sim. 
 sv	-Firuz? -Ja. 
 tr	-Firuz mu? -Evet. 
 vi	- Firuz | - Phải. | 

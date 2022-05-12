@@ -13,8 +13,8 @@ ko	동생은 어때? 펜실베이니아 | 주립대학교에 입학했어? |
 nl	Hoe is het met je zus? Ging ze naar Penn State? 
 no	Og søsteren din? Kom hun inn på Penn State? 
 pl	Co u siostry? Dostała się na Penn State? 
-pr-br	Como está a sua irmã? Ela entrou na Universidade da Pensilvânia? 
-pr	Como está a tua irmã? Chegou a entrar na Penn State? 
+pt-br	Como está a sua irmã? Ela entrou na Universidade da Pensilvânia? 
+pt	Como está a tua irmã? Chegou a entrar na Penn State? 
 ro	Ce mai face sora ta? A fost admisă la Penn State? 
 ru	Как твоя сестра? Поступила в колледж? 
 sv	Hur mår din syster? Kom hon in på Penn State? 

@@ -11,8 +11,8 @@ it	Davvero? "So che non lo farai".
 ko	‘그런 줄 알고 있었어’라니 | 
 nl	'Ik weet dat je het niet doet.' 
 pl	Brzmiało to inaczej. 
-pr	A sério? "Eu sei que não vais." 
-pr-br	Você disse: "Sei que não faria isso." 
+pt	A sério? "Eu sei que não vais." 
+pt-br	Você disse: "Sei que não faria isso." 
 ro	Serios? "Știu că nu intenționai." 
 sv	Verkligen? "Det visste jag väl." 
 th	ถึงตอนไหนนะ "ผมรู้ว่าคุณจะไม่" | 

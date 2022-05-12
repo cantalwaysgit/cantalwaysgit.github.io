@@ -12,8 +12,8 @@ ko	그만둬야 해 |
 nl	Ik moet stoppen. Ik ga stoppen. 
 no	Jeg må slutte. Jeg skal slutte! 
 pl	Muszę z tym skończyć. Muszę! 
-pr-br	Tenho que parar. Vou parar! 
-pr	Tenho de parar. Eu vou parar! 
+pt-br	Tenho que parar. Vou parar! 
+pt	Tenho de parar. Eu vou parar! 
 ro	Trebuie să mă opresc. O să mă opresc! 
 sv	Jag måste sluta! 
 th	ฉันต้องหยุด ต้องหยุด | 

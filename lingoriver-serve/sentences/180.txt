@@ -14,8 +14,8 @@ it	Quindi siamo d'accordo.
 ko	동의한다는 거군 | 
 nl	Dan zijn we het eens. 
 pl	Czyli zgadzamy się. 
-pr-br	Então nós concordamos. 
-pr	Então, estamos de acordo. 
+pt-br	Então nós concordamos. 
+pt	Então, estamos de acordo. 
 ro	Deci suntem de acord. 
 sv	Då är vi överens. 
 th	งั้นเราก็เห็นพ้องกัน | 

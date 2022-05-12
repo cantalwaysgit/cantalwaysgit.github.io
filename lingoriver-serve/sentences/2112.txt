@@ -13,8 +13,8 @@ he	&rlm;‏הבה נמשיך במופע‏ |
 it	Andiamo avanti con lo show 
 ko	계속해서 쇼를 하자 | 
 pl	Niech przedstawienie dalej trwa 
-pr-br	Vamos prosseguir com o show 
-pr	Vamos prosseguir com o espetáculo 
+pt-br	Vamos prosseguir com o show 
+pt	Vamos prosseguir com o espetáculo 
 ro	Să continuăm cu spectacolul 
 th	มาแสดงโชว์กันเถอะ | 
 tr	Haydi, şov devam etsin 

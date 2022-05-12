@@ -8,8 +8,8 @@ he	&rlm;‏‏אתה לא צריך שיר כדי לעודד את זה, | &rlm;�
 it	Non serve che una canzone lo ribadisca, lo sanno di essere arrapati. 
 nl	Daar heb je geen lied voor nodig. Dat weten ze al. 
 pl	Nie potrzebują przypominania o tym w piosenkach. 
-pr-br	Não precisa de uma música que reforce, eles sabem que estão com tesão. 
-pr	Não é preciso uma canção a dizer isso. Eles sabem que estão com tusa. 
+pt-br	Não precisa de uma música que reforce, eles sabem que estão com tesão. 
+pt	Não é preciso uma canção a dizer isso. Eles sabem que estão com tusa. 
 ro	Nu e nevoie de un cântec pentru asta, ei știu că sunt excitați. 
 sv	Man behöver ingen sång som förstärker det, de vet att de är kåta. 
 th	ไม่ต้องมีเพลงมาเน้นเรื่องนั้น | ก็รู้อยู่แล้วว่าตัวเองเงี่ยนมาก | 

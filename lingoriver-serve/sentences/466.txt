@@ -12,8 +12,8 @@ it	- Non l'hai chiamato? - No, l'ho chiamato.
 ko	- 전화 안 했다는 거야? | - 아니, 전화했어 | 
 nl	Dus je hebt hem niet gebeld? -Ik heb gebeld. 
 pl	- Czyli tego nie zrobiłeś? - Dzwoniłem. 
-pr-br	-Então não ligou para ele? -Não, eu liguei. 
-pr	- Então, não lhe ligaste? - Não, eu liguei-lhe. 
+pt-br	-Então não ligou para ele? -Não, eu liguei. 
+pt	- Então, não lhe ligaste? - Não, eu liguei-lhe. 
 ro	- Deci nu l-ai sunat? - Nu, l-am sunat. 
 sv	-Så du ringde honom inte? -Jo, det gjorde jag. 
 th	- ไม่ได้โทรไปเหรอ | - โทรแล้ว | 

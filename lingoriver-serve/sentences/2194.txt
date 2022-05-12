@@ -14,8 +14,8 @@ ko	딱딱하게 섰다고요? |
 nl	Je zei 'lid'. 
 no	Du sa "wood". 
 pl	Powiedziałeś „pała”. 
-pr-br	Você disse "metido". 
-pr	Disseste que o "meteste". 
+pt-br	Você disse "metido". 
+pt	Disseste que o "meteste". 
 ro	Ai zis că ți-ai pus-o. 
 sv	Du sa "stånd". 
 th	พูดว่า "วูด" | 

@@ -16,8 +16,8 @@ he	&rlm;‏ראיתי כל מילה ממנו. זה היה מדהים.‏ |
 it	Ogni singola parola. Sensazionale. 
 ko	말 한마디 안 놓쳤지 | 대단했어 | 
 no	Jeg så hvert eneste ord. Det var sensasjonelt. 
-pr-br	Ouvi cada palavra. Foi sensacional. 
-pr	Vi cada palavra. Foi sensacional. 
+pt-br	Ouvi cada palavra. Foi sensacional. 
+pt	Vi cada palavra. Foi sensacional. 
 ro	Am auzit fiecare cuvânt. A fost senzațional! 
 sv	Jag såg alltihop. Det var fantastiskt. 
 tr	Kelimesi kelimesine. Müthişti. 

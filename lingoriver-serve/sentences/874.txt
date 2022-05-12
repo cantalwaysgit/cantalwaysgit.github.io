@@ -11,8 +11,8 @@ it	Che facciamo oggi, ragazzone?
 nl	Wat gaan we vandaag doen? 
 no	Hva skal vi gjøre i dag? 
 pl	Co dziś robimy, wielkoludzie? 
-pr-br	Beleza, o que vamos fazer hoje, grandão? 
-pr	Muito bem, o que vamos fazer hoje? 
+pt-br	Beleza, o que vamos fazer hoje, grandão? 
+pt	Muito bem, o que vamos fazer hoje? 
 ro	Bine. Ce facem azi, uriașule? 
 sv	Vad ska vi göra idag? 
 th	โอเค วันนี้เราจะทำอะไร ไอ้ตัวใหญ่ | 

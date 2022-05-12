@@ -7,8 +7,8 @@ fr	Firuz te dit au revoir.
 he	&rlm;‏להתראות מפיירוז.‏ | 
 it	Firuz ti saluta. 
 nl	Groeten van Firuz. 
-pr	Adeus, do Firuz. 
-pr-br	Firuz se despede. 
+pt	Adeus, do Firuz. 
+pt-br	Firuz se despede. 
 ro	Firuz spune "la revedere"! 
 sv	Farväl från Firuz. 
 tr	Firuz kaçar. 

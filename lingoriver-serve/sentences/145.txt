@@ -15,8 +15,8 @@ ko	- 꼭두각시인 기분이 어때요? | - 집안 대대로 하고 있어 |
 nl	Hoe is het om een pop te zijn? -Zit al jaren in de familie. 
 no	-Hvordan er det å være dukke? -Jeg kommer fra en lang rekke av dem. 
 pl	- Jak to jest być lalką? - Wywodzę się ze starego rodu lalek. 
-pr-br	-Como é ser marionete? -Venho de uma longa linhagem. 
-pr	- Como é ser um fantoche? - Eu venho de uma longa linhagem deles. 
+pt-br	-Como é ser marionete? -Venho de uma longa linhagem. 
+pt	- Como é ser um fantoche? - Eu venho de uma longa linhagem deles. 
 ro	- Cum e să fii păpușă? - Tradiția e îndelungată în familie. 
 sv	-Hur är det att vara docka? -Jag kommer från en lång rad av dockor. 
 th	- เป็นหุ่นแล้วรู้สึกยังไง | - ฉันมาจากเชื้อสายยาวเหยียด | 

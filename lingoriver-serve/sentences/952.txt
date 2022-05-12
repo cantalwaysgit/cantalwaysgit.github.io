@@ -12,8 +12,8 @@ it	Vuoi andare? Andiamo. Abita a Venice, vero?
 ko	가고 싶어? 들르지 뭐 | 베니스에 사는 거 맞지? | 
 nl	Wil je gaan? We gaan even langs. Hij woont toch in Venice? 
 pl	Chcesz jechać? Nie ma sprawy. Mieszka w Venice, prawda? 
-pr-br	Quer ir? Vamos lá. Ele mora em Venice, certo? 
-pr	Queres ir? Vamos passar por lá. Ele mora em Venice, não é? 
+pt-br	Quer ir? Vamos lá. Ele mora em Venice, certo? 
+pt	Queres ir? Vamos passar por lá. Ele mora em Venice, não é? 
 ro	Vrei să mergem? Hai! El stă în Venice, nu? 
 ru	Ты хочешь? Давай заскочим. Он же в Венис живет? 
 sv	Vill du gå? Vi kan kika in. Han bor väl i Venice? 

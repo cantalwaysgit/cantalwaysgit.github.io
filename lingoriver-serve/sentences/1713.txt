@@ -13,8 +13,8 @@ ko	- 저한테 말하는 거예요 | - 그래? |
 nl	Hij heeft het tegen mij. -Tegen jou? 
 no	-Han snakker til meg. -Snakker han til deg? 
 pl	- On mówi do mnie. - Do ciebie? 
-pr-br	-Ele está falando comigo. -Está falando com você? 
-pr	- Ele está a falar comigo. - Contigo? 
+pt-br	-Ele está falando comigo. -Está falando com você? 
+pt	- Ele está a falar comigo. - Contigo? 
 ro	- Vorbea cu mine. - Vorbea cu tine? 
 ru	-Это он мне. -Это он тебе? 
 sv	-Han pratar med mig. -Pratar han med dig? 

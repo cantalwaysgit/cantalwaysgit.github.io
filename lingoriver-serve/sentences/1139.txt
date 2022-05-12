@@ -15,8 +15,8 @@ ko	뒤돌아설게요 |
 nl	Ik draai me om. 
 no	Snur meg. 
 pl	Odwracam się. 
-pr-br	Estou me virando. 
-pr	Estou a virar. 
+pt-br	Estou me virando. 
+pt	Estou a virar. 
 ro	Mă întorc. 
 sv	Jag vänder mig. 
 th	หันหลัง | 

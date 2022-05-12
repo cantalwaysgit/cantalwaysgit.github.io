@@ -6,8 +6,8 @@ es-eu	¡No!
 es	¡No! 
 he	&rlm;‏לא!‏ | 
 it	No! 
-pr-br	Não! 
-pr	Não! 
+pt-br	Não! 
+pt	Não! 
 ro	Nu! 
 sv	Nej! 
 th	ไม่ | 

@@ -13,8 +13,8 @@ it	ma gli ho procurato un lavoro come arbitro degli Harlem Globetrotters.
 ko	대신 이미 다른 곳에 | 자리를 알아뒀어 | 
 no	men jeg har skaffet ham jobb som dommer for Harlem Globetrotters. 
 pl	ale załatwiłem mu już posadkę sędziego w Harlem Globetrotters. 
-pr-br	mas arrumei um emprego de árbitro dos Harlem Globetrotters. 
-pr	mas já lhe arranjei emprego como árbitro dos Harlem Globetrotters. 
+pt-br	mas arrumei um emprego de árbitro dos Harlem Globetrotters. 
+pt	mas já lhe arranjei emprego como árbitro dos Harlem Globetrotters. 
 ro	dar i-am făcut deja rost de un post de arbitru la Harlem Globetrotters. 
 th	แต่ฉันหางานให้เขาไปเป็นกรรมการ | ให้ฮาร์เล็มโกล้บทร็อตเตอร์ส | 
 tr	ama ona Harlem Globetrotters için hakemlik işi ayarladım. 

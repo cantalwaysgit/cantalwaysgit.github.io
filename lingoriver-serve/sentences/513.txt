@@ -15,8 +15,8 @@ ko	- 나야 | - 안녕, 케빈 |
 nl	Met mij. -Hé, Kevin. 
 no	-Det er meg. -Hei, Kevin. 
 pl	- To ja. - Cześć, Kevin. 
-pr-br	-Sou eu. -Oi, Kevin. 
-pr	- Sou eu. - Olá, Kevin. 
+pt-br	-Sou eu. -Oi, Kevin. 
+pt	- Sou eu. - Olá, Kevin. 
 ro	- Sunt eu. - Salut, Kevin! 
 th	- ฉันเอง | - ไง เควิน | 
 tr	-Benim. -Merhaba Kevin. 

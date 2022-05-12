@@ -18,8 +18,8 @@ it	- Non ho nessun manager. - Ora ce l'hai. Se vuoi.
 ko	- 전 매니저가 없어요 | - 원하면 내가 해줄게 | 
 nl	Ik heb geen manager. -Nu wel. Als je er een wilt. 
 no	-Jeg har ikke manager. -Det har du nå. Hvis du vil. 
-pr-br	-Não tenho empresário, cara. -Agora tem. Se quiser. 
-pr	- Eu não tenho empresário. - Agora já tens. Se quiseres um. 
+pt-br	-Não tenho empresário, cara. -Agora tem. Se quiser. 
+pt	- Eu não tenho empresário. - Agora já tens. Se quiseres um. 
 ro	- N-am impresar, amice. - Acum ai unul. Dacă vrei. 
 tr	-Menajerim yok ki. -Artık var. İstersen tabii. 
 vi	- Tôi không có người quản lý. | - Vậy giờ có rồi đấy. Nếu cậu muốn. | 

@@ -14,8 +14,8 @@ it	Ma che... Cosa succede, piccola?
 nl	Wat is er aan de hand? 
 no	Hva i... Hva er det som skjer? 
 pl	Co się dzieje, dziewczyno? 
-pr-br	Mas que... O que está acontecendo, garota? 
-pr	Mas que... O que se passa, miúda? 
+pt-br	Mas que... O que está acontecendo, garota? 
+pt	Mas que... O que se passa, miúda? 
 ro	Ce nai... Ce e cu tine, puștoaico? 
 sv	Vad i... Vad har hänt, vännen? 
 th	อะไร เกิดอะไรขึ้นล่ะ เด็กน้อย | 

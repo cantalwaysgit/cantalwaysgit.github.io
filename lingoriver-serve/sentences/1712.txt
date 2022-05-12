@@ -11,8 +11,8 @@ it	Lei può frequentare chi vuole! Ne ha tutto il diritto!
 nl	Ze mag uit met wie ze wil. Haar probleem. 
 no	Hun kan date hvem hun vil! Det er det hun gjør! 
 pl	Może się umawiać, z kim tylko chce! 
-pr-br	Ela pode sair com quem ela quiser! Isso é coisa dela! 
-pr	Ela pode andar com quem quiser! É lá com ela! 
+pt-br	Ela pode sair com quem ela quiser! Isso é coisa dela! 
+pt	Ela pode andar com quem quiser! É lá com ela! 
 ro	N-are decât să fie cu cine-o vrea! E treaba ei! 
 sv	Hon kan dejta vem hon vill. Det är hennes ensak! 
 th	เธอจะไปเดตใครก็ได้ตามใจ | นั่นมันเรื่องของเธอ | 

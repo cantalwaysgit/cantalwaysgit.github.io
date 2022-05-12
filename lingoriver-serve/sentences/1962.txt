@@ -10,8 +10,8 @@ fi	-Aion lopettaa. -Tee se.
 he	&rlm;‏‏אני אפסיק, אלפרד. | &rlm;‏-אתה צריך.‏ | 
 it	- Smetterò, Alfred. - Dovresti. 
 nl	Ik ga stoppen. -Moet je doen. 
-pr-br	-Vou parar, Alfred. -Deveria mesmo. 
-pr	- Vou parar, Alfred. - Devias. 
+pt-br	-Vou parar, Alfred. -Deveria mesmo. 
+pt	- Vou parar, Alfred. - Devias. 
 ro	- O să mă opresc, Alfred. - Ar trebui. 
 th	- ฉันจะต้องหยุด อัลเฟรด | - ควรหยุดแล้ว | 
 tr	-Duracağım Alfred. -Durmalısın. 

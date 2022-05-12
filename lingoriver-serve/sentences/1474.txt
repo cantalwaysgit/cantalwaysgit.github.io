@@ -13,8 +13,8 @@ it	Andiamo, ragazzi. Fatevi una vita.
 nl	Kom op, jongens. Krijg een eigen leven. 
 no	Kom igjen. Skaff dere et liv. 
 pl	Ja nie mogę, ludzie. Życia nie macie? 
-pr-br	Vamos, pessoal. Arrumem o que fazer. Nossa. 
-pr	Vá lá, malta. Arranjem uma vida. 
+pt-br	Vamos, pessoal. Arrumem o que fazer. Nossa. 
+pt	Vá lá, malta. Arranjem uma vida. 
 ro	Băieți, zău așa! Găsiți ceva util de făcut! Doamne! 
 sv	Kom igen. Skaffa er ett liv. 
 th	ทุกคน ไม่เอาน่า | ไปหาอย่างอื่นทำซะบ้าง ให้ตายสิ | 

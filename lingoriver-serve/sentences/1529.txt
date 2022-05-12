@@ -11,8 +11,8 @@ it	Mi sto perdendo. Sto scherzando.
 ko	따라가질 못하겠어 | 농담하는 거야 | 
 no	Jeg mister oversikten. Jeg tøyser med deg. 
 pl	Zaczynam się gubić. Żartuję tylko. 
-pr-br	Estou me perdendo. Estou brincando com você. 
-pr	Já me perco. Estou a brincar contigo. 
+pt-br	Estou me perdendo. Estou brincando com você. 
+pt	Já me perco. Estou a brincar contigo. 
 ro	Mă încurc. Glumesc cu tine. 
 sv	Jag är helt förvirrad. Jag driver bara med dig. 
 th	ชักงงแล้ว แค่ล้อเล่นน่า | 

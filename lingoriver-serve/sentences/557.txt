@@ -13,8 +13,8 @@ he	&rlm;‏כלומר, אתה בטוח? כי אני אתקשר.‏ |
 it	Sei sicuro? Guarda che ti chiamo. 
 ko	정말 괜찮겠어? | 진짜 전화할 거야 | 
 nl	Zeker weten? Want ik bel echt. 
-pr-br	Tem certeza? Porque eu vou ligar. 
-pr	Tens a certeza? Porque eu ligo mesmo. 
+pt-br	Tem certeza? Porque eu vou ligar. 
+pt	Tens a certeza? Porque eu ligo mesmo. 
 ro	Ești sigur? Chiar te voi suna. 
 sv	Är du säker? Så klart jag ringer. 
 th	แน่ใจหรือเปล่า เพราะผมจะโทรไปหา | 

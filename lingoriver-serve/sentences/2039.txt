@@ -12,8 +12,8 @@ ko	- 거기까지만 해요 | - 알았어 |
 nl	Genoeg waarheden. 
 no	-Ikke flere sannheter. -Greit. 
 pl	- Wystarczy tej prawdy. - Jasne. 
-pr-br	-Chega de verdade. -Com certeza. 
-pr	- Chega de verdades. - Com certeza. 
+pt-br	-Chega de verdade. -Com certeza. 
+pt	- Chega de verdades. - Com certeza. 
 ro	- Gata cu adevărurile! - Sigur. 
 sv	-Inga fler sanningar. -Absolut. 
 th	- ไม่เอาความจริงอีกแล้ว | - แน่นอน | 

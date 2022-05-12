@@ -15,8 +15,8 @@ he	&rlm;‏‏בטח שאתה אוהב אותה. | &rlm;‏היא מהמגזין
 it	È ovvio che ti piaccia. Era su quella pagina della rivista, scemo. 
 nl	Natuurlijk. Dezelfde als uit jouw vieze tijdschrift. 
 no	Selvsagt. Den er fra det frekke bildet ditt. 
-pr-br	Claro que sim.  É da página da sua revista suja, cabeção. 
-pr	Claro que adoras. É da tua revista porca, seu anormal. 
+pt-br	Claro que sim.  É da página da sua revista suja, cabeção. 
+pt	Claro que adoras. É da tua revista porca, seu anormal. 
 ro	Normal că-ți place. E din pagina revistei tale deocheate, ciudatule! 
 sv	Så klart du gör. Den är från en sida ur din snusktidning. 
 th	แน่สิ ก็มันมาจาก | หน้านิตยสารโป๊ของคุณน่ะสิ คนบ้า | 

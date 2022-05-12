@@ -14,8 +14,8 @@ ko	치피! 잘 지내? | 신시내티 휴가는 어땠어? |
 nl	Hoe is het? Hoe was je vakantie in Cincinnati? 
 no	Chippy! Hei! Står til? Hvordan var ferien i Cincinnati? 
 pl	Chippy! Co słychać? Jak tam wakacje w Cincinnati? 
-pr-br	Chippy! Como vai? Como foram as férias em Cincinnati? 
-pr	Chippy! Olá! Como vai isso? Como correram as férias em Cincinnati? 
+pt-br	Chippy! Como vai? Como foram as férias em Cincinnati? 
+pt	Chippy! Olá! Como vai isso? Como correram as férias em Cincinnati? 
 ro	Chippy! Salutare! Ce mai faci? Cum a fost vacanța ta în Cincinnati? 
 sv	Hej! Hur är det? Hur var semestern i Cincinnati? 
 th	ชิปปี้ เป็นไง | ไปพักผ่อนที่ซินซินเนติเป็นไงบ้าง | 

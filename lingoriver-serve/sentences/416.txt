@@ -13,8 +13,8 @@ ko	아주 좋네요 |
 nl	Heel goed. 
 no	Veldig bra. 
 pl	Bardzo ładnie. 
-pr-br	Muito bom. 
-pr	Muito bem. 
+pt-br	Muito bom. 
+pt	Muito bem. 
 ro	Foarte bine. 
 sv	Mycket bra. 
 th	ดีมาก | 

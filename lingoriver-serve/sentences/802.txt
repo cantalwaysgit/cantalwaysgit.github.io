@@ -13,8 +13,8 @@ ko	다들 서로 알잖아 |
 nl	Jullie wisten van elkaar. 
 no	Dere visste om hverandre. 
 pl	Przecież się wszyscy znacie. 
-pr-br	Vocês sabem uns dos outros. 
-pr	Vocês sabiam todos uns dos outros. 
+pt-br	Vocês sabem uns dos outros. 
+pt	Vocês sabiam todos uns dos outros. 
 ro	Voi vă cunoșteați foarte bine între voi. 
 ru	Вы все знаете друг о друге. 
 sv	Ni känner till varandra. 

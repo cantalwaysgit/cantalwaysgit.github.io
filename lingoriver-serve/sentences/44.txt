@@ -14,8 +14,8 @@ he	&rlm;‏סוכן זה עסק. מנהל זו משפחה.‏ |
 it	L'agente è per gli affari. Un manager è uno di famiglia. 
 nl	Een agent staat voor zaken. Een manager is familie. 
 no	En agent er forretninger. En manager er familie. 
-pr-br	Um agente é para os negócios. Um empresário é parte da família. 
-pr	Um agente é negócio. Um empresário é família. 
+pt-br	Um agente é para os negócios. Um empresário é parte da família. 
+pt	Um agente é negócio. Um empresário é família. 
 ro	Un agent înseamnă afacere. Un impresar înseamnă familie. 
 sv	En agent är affärer. En manager är familj. 
 th	ตัวแทนเป็นธุรกิจ | ผู้จัดการคือครอบครัว | 

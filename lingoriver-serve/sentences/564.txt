@@ -11,8 +11,8 @@ he	&rlm;‏אתה מוכן בבקשה לא לחסום את כל המעבר?‏ |
 it	Potrebbe non bloccare il corridoio? 
 no	Ikke sperr veien, er du snill. 
 pl	Blokuje pan przejście. 
-pr-br	Pode não bloquear o corredor todo? 
-pr	Importa-se de não bloquear o corredor? 
+pt-br	Pode não bloquear o corredor todo? 
+pt	Importa-se de não bloquear o corredor? 
 ro	Vrei să nu blochezi tot culoarul? 
 sv	Kan du sluta blockera gången? 
 th	กรุณาอย่าขวางช่องทางเดินได้ไหม | 

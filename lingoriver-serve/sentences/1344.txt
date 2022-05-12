@@ -10,8 +10,8 @@ he	&rlm;‏סינדי!‏ |
 it	Cindy! 
 no	Cindy! 
 pl	Cindy! 
-pr-br	Cindy! 
-pr	Cindy! 
+pt-br	Cindy! 
+pt	Cindy! 
 ro	Cindy! 
 ru	Синди! 
 sv	Cindy! 

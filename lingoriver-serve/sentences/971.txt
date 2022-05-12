@@ -13,8 +13,8 @@ ko	- 상대방요 | - 뭐? 아니야 |
 nl	De andere vent? -Wat? Nee. 
 no	-Den andre fyren? -Hva? Nei. 
 pl	- Ten drugi. - Co? Skąd. 
-pr-br	-O outro cara? -Quê? Não. 
-pr	- O outro tipo. - O quê? Não. 
+pt-br	-O outro cara? -Quê? Não. 
+pt	- O outro tipo. - O quê? Não. 
 ro	- Celălalt? - Ce? Nu. 
 sv	-Den andra killen? -Vadå? Nej. 
 th	- อีกฝ่ายไง | - อะไรนะ เปล่าเลย | 

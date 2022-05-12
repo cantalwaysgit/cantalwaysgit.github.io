@@ -15,8 +15,8 @@ ko	코트니, 단 한 번 만에 | 완벽하게 했어 |
 nl	Courtney, één opname. Perfectie. 
 no	Courtney, én tagning. Perfeksjon. 
 pl	Za pierwszym podejściem, Courtney. 
-pr-br	Courtney, de cara. Foi perfeito. 
-pr	Courtney, à primeira. Perfeição. 
+pt-br	Courtney, de cara. Foi perfeito. 
+pt	Courtney, à primeira. Perfeição. 
 ro	Courtney, din prima. Perfect! 
 sv	Courtney, en inspelning. Perfekt. 
 th	คอร์ทนี่ย์ เทกหนึ่ง เพอร์เฟก | 

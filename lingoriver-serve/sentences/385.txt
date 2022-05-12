@@ -12,8 +12,8 @@ it	Ora ho una scuderia di talenti a Hollywood
 ko	할리우드에서 재능있는 사람들을 | 모을 수 있게 됐고 | 
 nl	Want ik heb talenten in Hollywood... 
 pl	Mam grupę klientów w Hollywood. 
-pr-br	Pois eu tenho um grupo de talentos em Hollywood 
-pr	Porque fiquei com um grupo de artistas em Hollywood 
+pt-br	Pois eu tenho um grupo de talentos em Hollywood 
+pt	Porque fiquei com um grupo de artistas em Hollywood 
 ro	Fiindcă am o bază de talente la Hollywood, 
 sv	För jag har ett stall med talanger i Hollywood, 
 th	เพราะผมมีกลุ่มนักแสดงในฮอลลีวูด | 

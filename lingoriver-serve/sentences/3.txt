@@ -6,8 +6,8 @@ he	&rlm;‏חברת התקליטים שנאה את זה.‏ |
 it	L'etichetta era contraria. 
 ko	음반사는 싫어했죠 | 
 no	Plateselskapet hatet det. 
-pr	A editora detestou. 
-pr-br	A gravadora odiou. 
+pt	A editora detestou. 
+pt-br	A gravadora odiou. 
 ro	N-a avut succes. 
 tr	Plak şirketi nefret etti. 
 vi	Hãng thu âm rất ghét. | 

@@ -12,8 +12,8 @@ it	Con chi hai lavorato?
 ko	전엔 누구 매니저셨죠? | 
 nl	Wiens manager ben je? 
 pl	Kogo jeszcze masz? 
-pr-br	Foi empresário de mais quem? 
-pr	Foi empresário de mais quem? 
+pt-br	Foi empresário de mais quem? 
+pt	Foi empresário de mais quem? 
 ru	С кем вы еще работали? 
 th	เคยเป็นผู้จัดการให้ใครอีก | 
 tr	Başka kimin menajeriydin? 
@@ -36,8 +36,8 @@ it	Ha presente Indiana Jones?
 ko	인디애나 존스라고 | 들어보셨어요? | 
 nl	Ken je Indiana Jones? 
 pl	Słyszał pan o Indianie Jonesie? 
-pr-br	Já ouviu falar em Indiana Jones? 
-pr	Já ouviu falar do Indiana Jones? 
+pt-br	Já ouviu falar em Indiana Jones? 
+pt	Já ouviu falar do Indiana Jones? 
 sv	Har du hört om Indiana Jones? 
 th	รู้จักอินเดียน่า โจนส์ไหมครับ | 
 tr	Indiana Jones'u duymuş muydunuz? 

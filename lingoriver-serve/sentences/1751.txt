@@ -13,8 +13,8 @@ it	- Mi dispiace. - Non farlo.
 nl	Het spijt me. -Niet doen. 
 no	-Beklager. -Ikke si det. 
 pl	- Przykro mi. - Nie. 
-pr-br	-Sinto muito. -Não. 
-pr	- Lamento. - Não faças isso. 
+pt-br	-Sinto muito. -Não. 
+pt	- Lamento. - Não faças isso. 
 ro	- Îmi pare rău. - Nu trebuie. 
 sv	-Jag är ledsen. -Nej. 
 th	- ขอโทษ | - อย่า ไม่ต้อง | 

@@ -15,8 +15,8 @@ ko	에릭 레먼소프는 네 짝이 | 아니란 말을 하고 싶어 |
 nl	Ik wil zeggen dat Eric Lamonsoff de verkeerde man voor je is. 
 no	Det jeg prøver å si, er at Eric Lamonsoff er feil mann for deg. 
 pl	Eric Lamonsoff nie jest dla ciebie odpowiednim facetem. 
-pr-br	Quero dizer que o tal Eric Lamonsoff não é o cara certo para você. 
-pr	Estou a tentar dizer que esse Eric Lamonsoff não serve para ti. 
+pt-br	Quero dizer que o tal Eric Lamonsoff não é o cara certo para você. 
+pt	Estou a tentar dizer que esse Eric Lamonsoff não serve para ti. 
 ro	Încerc să-ți spun că acest Eric Lamonsoff nu e potrivit pentru tine. 
 sv	Det jag försöker säga är att Eric Lamonsoff är fel kille för dig. 
 th	ที่ผมพยายามจะบอกคือ | เอริค ลามอนซอฟฟ์ไม่ใช่สำหรับคุณ | 

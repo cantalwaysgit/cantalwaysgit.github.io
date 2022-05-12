@@ -9,8 +9,8 @@ fr	Que tu sois toi-même, parce qu'il t'aime.
 it	Semplicemente come sei, perché ti ama. 
 nl	Gewoon jezelf, omdat hij van je houdt. 
 pl	Taką, jaką jesteś, bo właśnie taką cię kocha. 
-pr-br	do jeito que você é, pois ele ama você. 
-pr	tal como és, porque ele ama-te. 
+pt-br	do jeito que você é, pois ele ama você. 
+pt	tal como és, porque ele ama-te. 
 sv	Precis som du är, för han älskar dig. 
 vi	đúng như con người em, vì anh ta yêu em. | 
 zh-long	保持妳原本的樣子，因為他愛妳 

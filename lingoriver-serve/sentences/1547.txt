@@ -13,8 +13,8 @@ ko	대화는 여기까지 하죠 |
 nl	Dit gesprek is afgelopen. 
 no	Denne samtalen er over. 
 pl	Koniec tej rozmowy. 
-pr-br	Esta conversa acabou. 
-pr	Esta conversa terminou. 
+pt-br	Esta conversa acabou. 
+pt	Esta conversa terminou. 
 ro	Discuția asta s-a încheiat. 
 ru	Так, хватит об этом. 
 sv	Detta samtal är slut. 

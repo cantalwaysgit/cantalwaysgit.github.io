@@ -14,8 +14,8 @@ it	Era assolutamente perfetta.
 nl	Het was echt perfect. 
 no	Alt var riktig. 
 pl	Totalna perfekcja. 
-pr-br	Foi perfeito. 
-pr	Foi irrepreensível. 
+pt-br	Foi perfeito. 
+pt	Foi irrepreensível. 
 ro	A ieșit atât de bine! 
 sv	Det var så perfekt. 
 th	คุณทำได้ถูกต้องสมบูรณ์แบบ | 

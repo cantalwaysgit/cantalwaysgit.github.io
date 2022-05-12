@@ -13,8 +13,8 @@ it	- E cosa sarebbe? - Non conosci l'email?
 nl	Wat is dat? -Weet je niet wat e-mail is? 
 no	-Hva er det? -Kjenner du ikke til e-post? 
 pl	- Co to? - Nie słyszałeś o niej? 
-pr-br	-E o que é isso? -Não sabe o que é um e-mail? 
-pr	- O quê? - Não sabes o que é um  e-mail? 
+pt-br	-E o que é isso? -Não sabe o que é um e-mail? 
+pt	- O quê? - Não sabes o que é um  e-mail? 
 ro	- Ce e aia? - Nu ai auzit de e-mail? 
 sv	-Vad är det? -Känner du inte till e-post? 
 th	- นั่นอะไร | - ไม่คุ้นเคยกับอีเมลเหรอ | 

@@ -9,8 +9,8 @@ fi	Hyvä on.
 he	&rlm;‏בסדר.‏ | 
 it	D'accordo. 
 pl	Dobra. 
-pr-br	Está bem. 
-pr	Muito bem. 
+pt-br	Está bem. 
+pt	Muito bem. 
 ro	Bine. 
 sv	Okej. 
 th	ตกลง | 

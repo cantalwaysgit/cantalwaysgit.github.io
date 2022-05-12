@@ -14,8 +14,8 @@ it	Davvero? Un triangolo? Non pensi che diventerebbe melensa?
 nl	Echt? Een triangel? Vind je dat niet duf klinken? 
 no	Seriøst? Triangel? Blir det ikke teit? 
 pl	Trójkąt? Nie za banalnie? 
-pr	A sério? Um triângulo? Não achas que ficaria piroso? 
-pr-br	Sério? Um triângulo? Não acha que vai ficar brega? 
+pt	A sério? Um triângulo? Não achas que ficaria piroso? 
+pt-br	Sério? Um triângulo? Não acha que vai ficar brega? 
 ro	Serios? Un trianglu? Nu ți se pare că ar fi de prost gust? 
 sv	Verkligen? En triangel? Tror du inte det låter töntigt? 
 th	จริงเหรอ สามเหลี่ยมอะนะ | ไม่รู้สึกว่ามันเลี่ยนไปเหรอ | 
@@ -46,8 +46,8 @@ it	In sottofondo. Che si senta appena.
 nl	Helemaal achterin. Nauwelijks hoorbaar. 
 no	Langt bak. Nesten ikke hørbart. 
 pl	Gdzieś w tle. Ledwo słyszalny. 
-pr-br	Bem no fundo. Quase inaudível. 
-pr	Um som muito distante. Que mal se ouve. 
+pt-br	Bem no fundo. Quase inaudível. 
+pt	Um som muito distante. Que mal se ouve. 
 ro	Pe fundal. Care abia se distinge. 
 sv	Bara i bakgrunden. Knappt hörbart. 
 tr	Çok arkada. Belli belirsiz duyulacak. 

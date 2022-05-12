@@ -15,8 +15,8 @@ it	Sta' zitto e basta.
 ko	닥치라고요! | 
 no	Bare hold kjeft. 
 pl	Zamknij. 
-pr-br	Cale a boca. 
-pr	Cala-te. 
+pt-br	Cale a boca. 
+pt	Cala-te. 
 ro	Mai taci odată! 
 sv	Håll klaffen! 
 tr	Kapa çeneni. 

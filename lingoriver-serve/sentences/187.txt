@@ -15,8 +15,8 @@ it	Ma niente di tutto ciò era di Sandy.
 nl	Die waren niet van Sandy. 
 no	Ikke noe av det tilhørte Sandy. 
 pl	Nic z tego nie było jego. 
-pr-br	Obviamente, nada pertencia ao Sandy. 
-pr	Claro que nada disso era do Sandy. 
+pt-br	Obviamente, nada pertencia ao Sandy. 
+pt	Claro que nada disso era do Sandy. 
 ro	Nimic nu îi aparținea lui Sandy. 
 sv	Men Sandy ägde inget av det. 
 th	ทั้งหมดนั่นไม่ใช่ของแซนดี้ | 

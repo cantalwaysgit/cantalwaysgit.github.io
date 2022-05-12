@@ -11,8 +11,8 @@ it	The Juice è in forma. Che si dice, delinquente?
 nl	OJ is nog vrij. Hoe gaat ie? 
 no	Juice er i farta! Hva skjer, råskinn? 
 pl	Moje gwiazdy! Się macie, chłopaki? 
-pr-br	O OJ está à solta! E aí, matador? 
-pr	Ele anda à solta! Tu matas-me. 
+pt-br	O OJ está à solta! E aí, matador? 
+pt	Ele anda à solta! Tu matas-me. 
 ro	OJ mișună pe-aici! Ce mai faci, smardoiule? 
 sv	Grisen är på isen! Vad händer, dödspolarn? 
 th	มามันกันอยู่ตรงนี้เอง ว่าไง ฆาตกร | 

@@ -15,8 +15,8 @@ ko	여자들이 쉽게 반하겠어요 |
 nl	Je bent vast een ladykiller. 
 no	Du må være populær hos damene. 
 pl	Musisz mieć powodzenie u kobiet. 
-pr-br	Você deve ser um Don Juan. 
-pr	Deves ser um quebra-corações. 
+pt-br	Você deve ser um Don Juan. 
+pt	Deves ser um quebra-corações. 
 ro	Cred că tipele sunt moarte după tine. 
 sv	Du måste vara en kvinnotjusare. 
 th	คุณคงมีสาวๆ ตอมเยอะแยะ | 

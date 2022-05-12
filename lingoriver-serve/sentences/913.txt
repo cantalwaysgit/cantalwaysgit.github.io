@@ -13,8 +13,8 @@ ko	- 다이얼 번호가 뭐냐고요 | - 대체 왜 그러는 거예요? |
 nl	Wat is het nummer? -Waar heb je last van, man? 
 no	-Hva er frekvensen? -Hva er det med deg? 
 pl	- Jaka to częstotliwość? - Co się tak ekscytujesz, koleś? 
-pr-br	-Qual é a frequência? -Está chapado, irmão? 
-pr	- Qual é a frequência? - Está a falar de quê? 
+pt-br	-Qual é a frequência? -Está chapado, irmão? 
+pt	- Qual é a frequência? - Está a falar de quê? 
 ro	- Ce frecvență are postul? - Despre ce bați câmpii acolo? 
 sv	-Vad är det för station? -Vad går du på? 
 th	- ช่องเบอร์อะไร | - คุณพูดบ้าอะไรไม่ทราบ | 

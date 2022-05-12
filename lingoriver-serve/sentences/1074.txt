@@ -14,8 +14,8 @@ it	- Via! - Courtney! D'accordo.
 ko	- 가라고! | - 코트니! 알았어요 | 
 no	-Gå! -Courtney! Ok. 
 pl	- Precz! - Courtney! 
-pr-br	-Dê o fora! -Courtney! Está bem. 
-pr	- Saiam! - Courtney! Muito bem. 
+pt-br	-Dê o fora! -Courtney! Está bem. 
+pt	- Saiam! - Courtney! Muito bem. 
 ro	- Pleacă! - Courtney! Bine. 
 sv	-Gå! -Courtney! Okej. 
 th	- ไป๊! | - คอร์ทนี่ย์ โอเค | 

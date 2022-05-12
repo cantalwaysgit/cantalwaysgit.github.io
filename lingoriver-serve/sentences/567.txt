@@ -9,8 +9,8 @@ he	&rlm;‏‏היי. | &rlm;‏-היי, שכן.‏ |
 it	- Ciao. - Ciao, vicino. 
 no	-Hei. -Hei, nabo. 
 pl	- Cześć. - Cześć, sąsiedzie. 
-pr-br	-Oi. -Oi, vizinho. 
-pr	- Olá. - Olá, vizinho. 
+pt-br	-Oi. -Oi, vizinho. 
+pt	- Olá. - Olá, vizinho. 
 ro	- Salut! - Bună, vecine! 
 ru	-Привет. -Привет, сосед. 
 sv	-Hej. -Hej, grannen. 

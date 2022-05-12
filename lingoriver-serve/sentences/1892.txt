@@ -15,8 +15,8 @@ fr	Samedi, à Malibu.
 he	&rlm;‏ביום שבת, במליבו.‏ | 
 it	Sabato, a Malibu. 
 nl	Zaterdag, in Malibu. 
-pr-br	Sábado, em Malibu. 
-pr	No sábado, em Malibu. 
+pt-br	Sábado, em Malibu. 
+pt	No sábado, em Malibu. 
 ro	Sâmbătă, în Malibu. 
 sv	På lördag, i Malibu. 
 tr	Cumartesi Malibu'da. 

@@ -13,8 +13,8 @@ it	Che tristezza.
 nl	Wat triest. 
 no	Det er så trist. 
 pl	Smutne. 
-pr-br	Isso é muito triste. 
-pr	Isso é tão triste. 
+pt-br	Isso é muito triste. 
+pt	Isso é tão triste. 
 ro	Ce trist! 
 sv	Det är så sorgligt. 
 th	น่าเศร้าจัง | 

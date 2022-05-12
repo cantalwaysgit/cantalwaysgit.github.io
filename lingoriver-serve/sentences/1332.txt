@@ -14,8 +14,8 @@ it	Come no, è naturale.
 ko	그건 자연스러운 거예요 | 
 no	Det er helt naturlig. 
 pl	To normalne. 
-pr-br	Claro, isso é natural. 
-pr	Isso é uma coisa natural. 
+pt-br	Claro, isso é natural. 
+pt	Isso é uma coisa natural. 
 ro	E normal. 
 sv	Visst, det är naturligt. 
 th	ใช่ มันเป็นเรื่องธรรมชาติ | 
@@ -35,8 +35,8 @@ fr	Es-tu un homme ?
 he	&rlm;‏אתה גבר, סנדי?‏ | 
 it	Tu sei un uomo, Sandy? 
 pl	Jesteś mężczyzną? 
-pr-br	Você é homem, Sandy? 
-pr	És um homem, Sandy? 
+pt-br	Você é homem, Sandy? 
+pt	És um homem, Sandy? 
 ro	Ești bărbat, Sandy? 
 sv	Är du en man, Sandy? 
 th	คุณเป็นผู้ชายหรือเปล่า แซนดี้ | 

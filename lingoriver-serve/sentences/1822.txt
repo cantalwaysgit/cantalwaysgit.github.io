@@ -9,8 +9,8 @@ he	&rlm;‏לא, אני בסדר.‏ |
 it	No, sto bene. 
 ko	아니, 난 괜찮아 | 
 nl	Nee, ik ben in orde. 
-pr-br	Não, estou bem. 
-pr	Não, eu estou bem. 
+pt-br	Não, estou bem. 
+pt	Não, eu estou bem. 
 ro	Nu, n-am nimic. 
 sv	Nej, jag mår bra. 
 vi	Không, tôi ổn mà. | 

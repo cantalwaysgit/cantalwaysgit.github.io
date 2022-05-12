@@ -11,8 +11,8 @@ it	Il traffico non è un problema. Si rilassi.
 ko	그건 문제없으니 | 편히 앉아서 쉬세요 | 
 nl	Dat is geen probleem. Relax. 
 pl	Proszę się nie przejmować i odprężyć. 
-pr-br	O trânsito não é um problema. Relaxe. 
-pr	O trânsito não é problema. Sente-se e descontraia. 
+pt-br	O trânsito não é um problema. Relaxe. 
+pt	O trânsito não é problema. Sente-se e descontraia. 
 ro	Se circulă bine. Relaxați-vă. 
 sv	Trafiken är inget problem. Sitt och slappna av. 
 th	จราจรไม่เป็นปัญหา | เชิญนั่งตามสบายครับ | 

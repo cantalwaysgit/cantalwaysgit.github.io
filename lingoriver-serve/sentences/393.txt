@@ -13,8 +13,8 @@ it	Quando Sandy trovava un nuovo cliente
 nl	Als Sandy een nieuwe cliënt had... 
 no	Når Sandy fikk en ny klient, 
 pl	Kiedy Sandy zdobywał klienta, 
-pr-br	Sempre que Sandy arrumava um cliente, 
-pr	Quando o Sandy captava um cliente, 
+pt-br	Sempre que Sandy arrumava um cliente, 
+pt	Quando o Sandy captava um cliente, 
 ro	Când Sandy lua un talent nou, 
 sv	När Sandy fått en ny klient, 
 th	ทุกครั้งที่แซนดี้เซ็นสัญญารับลูกค้า | 

@@ -10,8 +10,8 @@ he	&rlm;‏יש לזה טעם של ענבים.‏ |
 it	È un po' amaro. 
 nl	Hij is druifachtig. 
 pl	Mocno winogronowe. 
-pr-br	É que tem gosto de uva. 
-pr	Sabe às uvas. 
+pt-br	É que tem gosto de uva. 
+pt	Sabe às uvas. 
 ro	Are gust de struguri. 
 sv	Det är lite surt. 
 th	แค่มีรสองุ่นจัดไปหน่อย | 

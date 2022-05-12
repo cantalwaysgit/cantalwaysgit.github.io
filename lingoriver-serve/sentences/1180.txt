@@ -13,8 +13,8 @@ ko	봉투는 누가 붙여? 알투디투? | 이해가 안 되네 |
 nl	Wie likt er aan de envelop? R2-D2? Ik kan het niet volgen. 
 no	Hvem slikker konvolutten? R2-D2? Jeg skjønner ikke. 
 pl	Kto liże kopertę? R2-D2? Nic nie kumam. 
-pr-br	Quem lambe o envelope? O R2-D2? Agora fiquei perdido. 
-pr	E quem lambe o envelope? O R2-D2? Estou perdido. 
+pt-br	Quem lambe o envelope? O R2-D2? Agora fiquei perdido. 
+pt	E quem lambe o envelope? O R2-D2? Estou perdido. 
 ro	Cine linge plicul? R2-D2? Nu mai înțeleg. 
 ru	И кто облизывает конверт? Р2-Д2? Не понял. 
 sv	Vem slickar kuvertet? R2-D2? Jag är förvirrad. 

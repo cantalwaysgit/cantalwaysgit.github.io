@@ -14,8 +14,8 @@ fr	Quelqu'un a appelé les services sociaux pour signaler une fillette en détre
 he	&rlm;‏‏מישהו קרא לשירותי הרווחה. | &rlm;‏הם חשבו שילדה נפגעה.‏ | 
 it	Chiamarono i servizi sociali temendo che una bambina fosse in pericolo... 
 no	Noen ringte barnevernet. De trodde ei jente var i trøbbel. 
-pr-br	Chamaram o juizado de menores. Acharam que havia uma garota ferida. 
-pr	Ligaram para a proteção de menores. Pensaram que havia uma menina em perigo. 
+pt-br	Chamaram o juizado de menores. Acharam que havia uma garota ferida. 
+pt	Ligaram para a proteção de menores. Pensaram que havia uma menina em perigo. 
 ro	Cineva a chemat Protecția Copilului. A crezut că era o fetiță rănită. 
 th	มีคนโทรไปหาสวัสดิการเด็ก | เพราะนึกว่ามีเด็กผู้หญิงถูกทำร้าย | 
 tr	Çocuk esirgemeyi arayanlar olmuş. Kızın birine bir şey oldu sanmışlar. 
@@ -36,8 +36,8 @@ fr	dans une voiture.
 he	&rlm;‏‏כן. | &rlm;‏-במכונית.‏ | 
 it	...in auto. 
 no	-Ja. -I en bil. 
-pr-br	-É. -Em um carro. 
-pr	- Sim. - Num carro. 
+pt-br	-É. -Em um carro. 
+pt	- Sim. - Num carro. 
 ro	- Da. - Într-o mașină. 
 th	- ใช่ | - ในรถ | 
 tr	-Evet. -Arabada. 

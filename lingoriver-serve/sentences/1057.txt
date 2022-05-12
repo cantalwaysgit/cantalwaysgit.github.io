@@ -12,8 +12,8 @@ he	&rlm;‏רבה.‏ |
 it	Grazie mille. 
 no	Tusen takk. 
 pl	Bardzo. 
-pr-br	Muito obrigado. 
-pr	Muito. 
+pt-br	Muito obrigado. 
+pt	Muito. 
 ro	Foarte mult. 
 ru	Большое. 
 sv	...så mycket. 

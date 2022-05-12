@@ -14,8 +14,8 @@ it	per dire: "Mettiamo un... alla fine di una ballata".
 nl	'We laten de ballad eindigen met een...'? 
 no	"Vet du hva? La oss bruke en... på slutten av en ballade"? 
 pl	„A pod koniec ballady wstawmy... ”? 
-pr-br	"Quer saber? Vamos pôr um... no fim de uma balada?" 
-pr	"Sabem o que mais? Vamos pôr um... no final de uma balada"? 
+pt-br	"Quer saber? Vamos pôr um... no fim de uma balada?" 
+pt	"Sabem o que mais? Vamos pôr um... no final de uma balada"? 
 ro	"Știți ce? Să se audă un... la finalul unei balade"? 
 sv	"Vet ni vad? Vi sätter in ett... i slutet av balladen." 
 tr	"Bakın, hadi baladın sonuna şunu koyalım" desin? 

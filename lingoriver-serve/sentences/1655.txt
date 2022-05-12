@@ -14,8 +14,8 @@ ko	정말 기뻐요, 샌디! |
 nl	Ik ben zo blij, Sandy. 
 no	Jeg er så glad, Sandy! 
 pl	Tak bardzo się cieszę! 
-pr-br	Estou muito feliz, Sandy! 
-pr	Estou tão contente, Sandy! 
+pt-br	Estou muito feliz, Sandy! 
+pt	Estou tão contente, Sandy! 
 ro	Sunt așa de fericit, Sandy! 
 sv	Jag är så lycklig! 
 th	ฉันแฮปปีสุดๆ เลย แซนดี้ | 

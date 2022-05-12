@@ -14,8 +14,8 @@ it	Ti riprenderai.
 nl	Het komt wel goed. 
 no	Det ordner seg. 
 pl	Nic ci nie będzie. 
-pr-br	Você vai ficar bem. 
-pr	Vais ficar bem. 
+pt-br	Você vai ficar bem. 
+pt	Vais ficar bem. 
 ro	O să-ți revii. 
 sv	Du repar dig. 
 th	คุณจะไม่เป็นไร | 

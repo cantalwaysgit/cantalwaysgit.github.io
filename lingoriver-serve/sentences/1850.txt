@@ -13,8 +13,8 @@ it	Quest'uomo è un animale.
 ko	짐승 같은 인간 | 
 no	Den fyren er et udyr. 
 pl	Barbarzyńca. 
-pr-br	Este cara é um animal. 
-pr	Este tipo é um animal. 
+pt-br	Este cara é um animal. 
+pt	Este tipo é um animal. 
 ro	Tipul ăsta e feroce. 
 sv	Han är ett odjur. 
 th	หมอนี่ร้ายกาจ | 

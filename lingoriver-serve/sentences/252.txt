@@ -13,8 +13,8 @@ he	&rlm;‏הכי טוב בעיר‏ |
 it	Il migliore della città 
 nl	de beste in de stad 
 pl	Na cały świat 
-pr-br	O melhor da cidade 
-pr	O melhor que há 
+pt-br	O melhor da cidade 
+pt	O melhor que há 
 ro	Cea mai frumoasă 
 sv	Den finaste i stan 
 th	เลิศที่สุดในเมือง | 

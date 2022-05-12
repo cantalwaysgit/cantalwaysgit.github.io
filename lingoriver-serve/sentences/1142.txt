@@ -15,8 +15,8 @@ ko	삐삐는 챙길게 |
 nl	Ik hou de beeper bij me. 
 no	Jeg beholder personsøkeren. 
 pl	Pager sobie zatrzymam. 
-pr-br	Vou ficar com o bipe. 
-pr	Vou ficar com o  pager. 
+pt-br	Vou ficar com o bipe. 
+pt	Vou ficar com o  pager. 
 ro	O să păstrez pagerul. 
 sv	Jag behåller personsökaren. 
 th	ผมจะเก็บเพจเจอร์เอาไว้ | 

@@ -14,8 +14,8 @@ ko	프로 골퍼인 삼촌과 매일 | 골프하며 큰 건 안 비밀! |
 nl	Ik speelde vroeger echt niet elke dag met mijn oom die profgolfer is. 
 no	Jeg spilte ikke hver dag med proffonkelen min da jeg var liten. 
 pl	Wcale nie grywałam codziennie w golfa z wujkiem, zawodowym golfistą. 
-pr-br	Não cresci jogando todos os dias com o meu tio que é jogador profissional. 
-pr	Juro que não jogava todos os dias com o meu tio, que é profissional. 
+pt-br	Não cresci jogando todos os dias com o meu tio que é jogador profissional. 
+pt	Juro que não jogava todos os dias com o meu tio, que é profissional. 
 ro	Jur că n-am jucat zilnic în copilărie cu unchiul meu, care era profesionist. 
 sv	Jag spelade inte varje dag med min morbror som är golfproffs. 
 th	ฉันไม่ได้โตมาแบบเล่นทุกวัน | กับลุงที่เป็นโปรกอล์ฟ | 

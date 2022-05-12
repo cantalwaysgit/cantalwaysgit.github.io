@@ -11,8 +11,8 @@ it	- Via. - No, mi mancherà.
 nl	Nee, ik ga hem missen. 
 no	-Vekk. -Nei, jeg vil savne ham. 
 pl	- Sio. - Potrzebuję go. 
-pr-br	-Saia. -Não, vou sentir falta dele. 
-pr	- Sai. - Não, vou sentir falta dele. 
+pt-br	-Saia. -Não, vou sentir falta dele. 
+pt	- Sai. - Não, vou sentir falta dele. 
 ro	- Ieși! - Nu. O să-mi fie dor de el! 
 th	- ออกมา | - ไม่เอา ฉันจะคิดถึงเขา | 
 tr	-Çık. -Hayır, onsuz olmaz. 

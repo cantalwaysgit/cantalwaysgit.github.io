@@ -11,8 +11,8 @@ it	Mi scusi, signorina.
 ko	실례합니다, 아가씨 | 
 nl	Sorry, miss? 
 pl	Przepraszam. 
-pr-br	Com licença, moça? 
-pr	Desculpe, menina? 
+pt-br	Com licença, moça? 
+pt	Desculpe, menina? 
 ro	Scuză-mă, domnișoară. 
 sv	Ursäkta mig, fröken? 
 th	โทษทีครับคุณ | 

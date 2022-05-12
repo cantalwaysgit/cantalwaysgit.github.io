@@ -14,8 +14,8 @@ fr	Un type qui ne doutera jamais de toi.
 he	&rlm;‏גבר שלא יפקפק בך לעולם.‏ | 
 it	Un uomo che non avrebbe mai dubbi su di te. 
 pl	Który nigdy w ciebie nie zwątpi. 
-pr-br	Um cara que nunca vai duvidar de você. 
-pr	Um tipo que nunca duvidará de ti. 
+pt-br	Um cara que nunca vai duvidar de você. 
+pt	Um tipo que nunca duvidará de ti. 
 ro	Un tip care nu se va îndoi de tine. 
 tr	Senden asla şüphelenmeyecek bir adam. 
 vi	Một gã sẽ không bao giờ nghi ngờ em. | 

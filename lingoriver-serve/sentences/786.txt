@@ -11,8 +11,8 @@ it	Ti prego, mandami un sogno
 ko	술을 보내주세요 | 
 nl	stuur me een droom 
 pl	Postaw mi drinka 
-pr-br	Por favor, me dê um sonho 
-pr	Manda-me um sonho 
+pt-br	Por favor, me dê um sonho 
+pt	Manda-me um sonho 
 ro	Trimite-mi un vis, te rog 
 ru	Былью сказку сделай 
 sv	Snälla, ge mig en dröm 

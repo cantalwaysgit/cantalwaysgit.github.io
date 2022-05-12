@@ -11,8 +11,8 @@ it	Se andrà bene, l'anno prossimo lavorerò in una iurta.
 nl	Als het goed gaat, krijg ik volgend jaar een grotere tent. 
 no	Gjør jeg det bra her, lovte han meg en yurt neste år. 
 pl	A jak się spiszę, to za rok w jurcie. 
-pr-br	Se eu mandar bem aqui, será numa tenda mongol no ano que vem. 
-pr	Disse que, se me sair bem, para o ano me arranja um  yurt. 
+pt-br	Se eu mandar bem aqui, será numa tenda mongol no ano que vem. 
+pt	Disse que, se me sair bem, para o ano me arranja um  yurt. 
 ro	Dacă mă descurc aici, o să merg într-o iurtă la anul. 
 sv	Om jag klarar mig bra får jag en jurta nästa år. 
 th	บอกว่าถ้าผมทำได้ดีที่นี่ | ปีหน้าได้พูดในกระโจม | 

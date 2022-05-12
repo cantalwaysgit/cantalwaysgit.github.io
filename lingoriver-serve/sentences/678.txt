@@ -16,8 +16,8 @@ ko	한 번만 더 해야겠어 | 결함이 있었네 |
 nl	We doen het nog een laatste keer. Er was een storinkje. 
 no	Vi må ta det én gang til. Det ble en feil. 
 pl	Musisz zaśpiewać jeszcze raz. Wystąpił pewien błąd. 
-pr-br	Precisamos fazer uma última vez. Houve uma falha técnica. 
-pr	Temos de repetir uma última vez. Houve uma falha. 
+pt-br	Precisamos fazer uma última vez. Houve uma falha técnica. 
+pt	Temos de repetir uma última vez. Houve uma falha. 
 ro	Vom mai repeta pentru ultima oară. A fost o defecțiune. 
 th	เราแค่ต้องอัดอีกครั้งสุดท้าย | มีปัญหานิดหน่อย | 
 tr	Son bir kez tekrarlamalıyız. Bir hata olmuş. 

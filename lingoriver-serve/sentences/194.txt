@@ -10,8 +10,8 @@ he	&rlm;‏לא, לא... |
 ko	안 돼 | 
 no	Nei. Nei. 
 pl	O nie. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu! 
 sv	Nej! 
 th	อย่าๆ อย่านะ | 

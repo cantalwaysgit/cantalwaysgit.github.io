@@ -17,8 +17,8 @@ he	&rlm;‏‏אני לא מסכים. | &rlm;‏-לא, תראה.‏ |
 it	- Non sono d'accordo. - No, senti. 
 ko	- 그렇게 생각 안 해 | - 들어봐 | 
 no	-Jeg er ikke enig. -Jo, hør her. 
-pr-br	-Não concordo. -Não, olhe. 
-pr	- Não concordo. - Não, ouve. 
+pt-br	-Não concordo. -Não, olhe. 
+pt	- Não concordo. - Não, ouve. 
 ro	- Nu sunt de acord. - Uite! 
 vi	- Tôi không đồng ý. | - Không, nghe này. | 
 zh-long	-沒這回事 -聽我說 

@@ -13,8 +13,8 @@ it	Sandy, mi passeresti la salsa?
 ko	샌디, 그레이비 좀 주실래요? | 
 no	Sandy, kan du sende sausen? 
 pl	Możesz podać mi sos? 
-pr-br	Sandy, pode me passar o molho? 
-pr	Sandy, podes passar-me o molho? 
+pt-br	Sandy, pode me passar o molho? 
+pt	Sandy, podes passar-me o molho? 
 ro	Sandy, vrei să-mi dai sosul? 
 sv	Kan du skicka såsen, Sandy? 
 th	แซนดี้ ช่วยส่งเกรวีให้หน่อยได้ไหม | 

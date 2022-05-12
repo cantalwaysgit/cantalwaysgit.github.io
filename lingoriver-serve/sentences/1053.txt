@@ -13,8 +13,8 @@ it	Credo che questa lo sia.
 nl	Dit is vast speciaal genoeg. 
 no	Denne er spesiell nok. 
 pl	Ta taka jest. 
-pr	Acho que esta é especial que chegue. 
-pr-br	Acho que esta é bem especial. 
+pt	Acho que esta é especial que chegue. 
+pt-br	Acho que esta é bem especial. 
 ro	E destul de specială ocazia asta. 
 sv	Det här är speciellt nog. 
 th	คิดว่านี่พิเศษพอ | 

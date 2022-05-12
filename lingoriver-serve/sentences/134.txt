@@ -8,8 +8,8 @@ he	&rlm;‏אלוהים אדירים!‏ |
 it	Cristo santo! 
 ko	젠장! | 
 pl	Jezu Chryste! 
-pr-br	Minha nossa! 
-pr	Deus do Céu! 
+pt-br	Minha nossa! 
+pt	Deus do Céu! 
 ro	Iisuse! 
 sv	Herregud! 
 th	ให้ตายสิ | 

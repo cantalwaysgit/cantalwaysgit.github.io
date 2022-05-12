@@ -14,8 +14,8 @@ ko	종영 파티에 가면 웃으며 | 꾸역꾸역 먹고 있었죠 |
 nl	Je zag hem op een feest en hij lachte en propte zich vol. 
 no	Du kunne se ham på en avslutningsfest. Han ville le og stappe i seg mat. 
 pl	Na imprezach kończących zdjęcia zawsze się śmiał i obżerał. 
-pr-br	Ele ia a festas de encerramento e ficava rindo e enchendo a pança. 
-pr	Víamo-lo numa festa de conclusão de filme e ele estava a rir-se, a empanturrar-se. 
+pt-br	Ele ia a festas de encerramento e ficava rindo e enchendo a pança. 
+pt	Víamo-lo numa festa de conclusão de filme e ele estava a rir-se, a empanturrar-se. 
 ro	Îl vedeai la petrecerile de final râzând și îndopându-se. 
 sv	Man såg honom på en filmfest och han skrattade och käkade. 
 th	เห็นเขาตามงานปาร์ตี้ปิดกล้อง | หัวเราะเสียงดังแล้วก็กินไม่หยุด | 

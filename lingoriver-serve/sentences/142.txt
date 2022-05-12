@@ -10,8 +10,8 @@ he	&rlm;‏‏אני רק רוצה להכיר אותך טוב יותר. | &rlm;�
 it	- Vorrei solo conoscerti meglio. - Conoscermi meglio? Mi tieni in braccio. 
 nl	Ik wil je beter leren kennen. -Nog beter? Ik zit bij je op schoot. 
 pl	- Po prostu chcę cię lepiej poznać. - Lepiej? Siedzę ci na kolanie. 
-pr-br	-Só quero conhecer você melhor. -Me conhecer melhor? Estou no seu colo. 
-pr	- Só te quero conhecer melhor. - Conhecer-me melhor? Estou ao teu colo. 
+pt-br	-Só quero conhecer você melhor. -Me conhecer melhor? Estou no seu colo. 
+pt	- Só te quero conhecer melhor. - Conhecer-me melhor? Estou ao teu colo. 
 ro	- Încerc să te cunosc mai bine. - Zău? Stau în poala ta. 
 sv	-Jag vill bara lära känna dig bättre. -Bättre? Jag sitter i ditt knä. 
 th	- ฉันแค่อยากรู้จักนายให้ดีขึ้น | - ให้ดีขึ้นเหรอ ฉันนั่งบนตักนายอยู่นะ | 

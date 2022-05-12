@@ -11,8 +11,8 @@ it	Tu ti alleni?
 nl	Sport jij? 
 no	Trener du? 
 pl	Ty ćwiczysz? 
-pr-br	Você treina? 
-pr	Fazes exercício? 
+pt-br	Você treina? 
+pt	Fazes exercício? 
 ro	Te antrenezi? 
 sv	Tränar du? 
 th	คุณออกกำลังกายเหรอ | 

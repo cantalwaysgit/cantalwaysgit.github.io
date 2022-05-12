@@ -7,7 +7,7 @@ es-eu	Bip.
 fi	Piippaa. 
 he	&rlm;‏ביפ.‏ | 
 it	Bip. 
-pr-br	Bipe. 
+pt-br	Bipe. 
 ro	Bip. 
 sv	Pip. 
 th	เพจตอนนี้เลย | 

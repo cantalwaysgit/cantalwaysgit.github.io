@@ -10,8 +10,8 @@ fr	- Elle a une sacrée voix. - Tu vois.
 he	&rlm;‏‏בנאדם, הילדה הזו יודעת לשיר. | &rlm;‏-אמרתי לך.‏ | 
 it	- Caspita, se canta bene. - Te l'avevo detto. 
 nl	Die meid kan zingen. -Ik zei het toch. 
-pr-br	-Cara, essa garota canta bem. -Eu te disse. 
-pr	- Esta miúda sabe cantar. - Eu disse-te. 
+pt-br	-Cara, essa garota canta bem. -Eu te disse. 
+pt	- Esta miúda sabe cantar. - Eu disse-te. 
 sv	-Den tjejen kan sjunga. -Jag sa ju det. 
 th	- โย่ เพื่อน ผู้หญิงคนนี้ร้องเก่ง | - บอกแล้ว | 
 tr	-Bu kız şarkı söylemeyi biliyor. -Demiştim. 

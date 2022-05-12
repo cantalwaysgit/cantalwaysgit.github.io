@@ -11,8 +11,8 @@ he	&rlm;‏זהו זה.‏ |
 it	Così. 
 no	Sånn ja. 
 pl	Bardzo ładnie. 
-pr-br	É isso aí. 
-pr	É isso mesmo. 
+pt-br	É isso aí. 
+pt	É isso mesmo. 
 ro	Așa! 
 sv	Så ska det se ut. 
 th	นั่นเลยๆ | 
@@ -38,8 +38,8 @@ it	- Bobby Brown. - Ora ci siamo.
 nl	Bobby Brown. -Nu heb je het. 
 no	-Bobby Brown. -Nå har du det. 
 pl	- Bobby Brown. - Pięknie. 
-pr	- Bobby Brown. - Agora sim. 
-pr-br	-Bobby Brown. -Pegou o jeito. 
+pt	- Bobby Brown. - Agora sim. 
+pt-br	-Bobby Brown. -Pegou o jeito. 
 ro	- Bobby Brown. - Acum știi. 
 sv	-Bobby Brown. -Nu har du det. 
 th	- บ๊อบบี้ บราวน์ | - ตอนนี้อินแล้ว | 

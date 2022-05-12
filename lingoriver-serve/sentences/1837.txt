@@ -15,8 +15,8 @@ ko	장난해요, 마티? |
 nl	Neem je me in de maling? 
 no	Kødder du, Marty? 
 pl	Jaja sobie robisz, Marty? 
-pr-br	Está de brincadeira, Marty? 
-pr	Estás a brincar comigo, Marty? 
+pt-br	Está de brincadeira, Marty? 
+pt	Estás a brincar comigo, Marty? 
 ro	Glumești, Marty? 
 sv	Driver du med mig, Marty? 
 th	ล้อเล่นใช่ไหม มาร์ตี้ | 

@@ -14,8 +14,8 @@ it	Hai paura?
 nl	Ben je bang? 
 no	Er du redd? 
 pl	Boisz się? 
-pr-br	Está com medo? 
-pr	Estás com medo? 
+pt-br	Está com medo? 
+pt	Estás com medo? 
 ro	Ți-e frică? 
 sv	Är du rädd? 
 th	กลัวใช่ไหมล่ะ | 

@@ -14,8 +14,8 @@ ko	열렬히 맞아주세요 | 샌디와 코트니 웩슬러 부부! |
 nl	Verwelkom voor de allereerste keer: Mr en Mrs Sandy en Courtney Wexler. 
 no	En applaus for Mr. og Mrs. Sandy og Courtney Wexler. 
 pl	Powitajmy wszyscy państwa Sandy i Courtney Wexlerów. 
-pr-br	Deem as boas-vindas pela primeira vez ao Sr. Sandy e à Sra. Courtney Wexler. 
-pr	Deem as boas-vindas, pela primeira vez, aos Sr. e Sra. Sandy e Courtney Wexler. 
+pt-br	Deem as boas-vindas pela primeira vez ao Sr. Sandy e à Sra. Courtney Wexler. 
+pt	Deem as boas-vindas, pela primeira vez, aos Sr. e Sra. Sandy e Courtney Wexler. 
 ro	Aplaudați-i, pentru prima oară, pe dl și dna Sandy și Courtney Wexler. 
 sv	För första gången, en applåd för mr och mrs Sandy och Courtney Wexler. 
 th	กรุณาต้อนรับเป็นครั้งแรก นายแซนดี้ | และนางคอร์ทนี่ย์ เวกซ์เลอร์ | 

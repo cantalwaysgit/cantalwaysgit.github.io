@@ -10,8 +10,8 @@ he	&rlm;‏‏אבל ראיתי את "מותק, הילד השתגע". | &rlm;‏
 it	Ma ho visto  Piccola peste, con quel bambino simpaticissimo. 
 no	Men jeg så  Problem Child. Den gutten var kjempemorsom. 
 pl	Ale widziałem  Kochanego urwisa. Boki zrywać. 
-pr-br	Mas eu vi  O Pestinha. Aquele moleque era engraçadão. 
-pr	Mas vi  O Pestinha.  O puto era de gritos. 
+pt-br	Mas eu vi  O Pestinha. Aquele moleque era engraçadão. 
+pt	Mas vi  O Pestinha.  O puto era de gritos. 
 ro	Dar am văzut  Copilul problemă. Puștiul ăla era dus rău. 
 sv	Men jag såg  Problem Child. Den ungen var hysteriskt kul. 
 th	แต่ผมดูเรื่องพรอเบลมชายด์ | เด็กนั่นตลกสุดๆ | 

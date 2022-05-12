@@ -12,8 +12,8 @@ he	&rlm;‏זהו זה. אני גומר.‏ |
 it	Basta. Ora vengo. 
 nl	Genoeg. Ik ben nu klaar. 
 pl	Kończę już. 
-pr-br	Basta. Vou-me já. 
-pr	Pronto. Já me estou a chatear. 
+pt-br	Basta. Vou-me já. 
+pt	Pronto. Já me estou a chatear. 
 ro	Gata. Termin. 
 th	แค่นั้นนะ วางหูละ | 
 tr	Yeter. Attırmayın tepemin tasını. 

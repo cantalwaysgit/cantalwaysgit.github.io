@@ -12,8 +12,8 @@ ko	우리한테도 그랬는데 |
 nl	Dat zei hij ook tegen ons. 
 no	Det sa han til oss også. 
 pl	Nam też to powiedział. 
-pr-br	Foi o que ele nos disse. 
-pr	O cabrão disse-nos o mesmo. 
+pt-br	Foi o que ele nos disse. 
+pt	O cabrão disse-nos o mesmo. 
 ro	Și nouă ne-a zis la fel! 
 ru	И нам говорил. 
 sv	Det sa han till oss också. 

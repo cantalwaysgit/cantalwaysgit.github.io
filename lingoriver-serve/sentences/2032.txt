@@ -15,8 +15,8 @@ ko	사랑해 |
 nl	Ik hou van je. 
 no	Jeg elsker deg. 
 pl	Ja cię kocham. 
-pr-br	Eu amo você. 
-pr	Eu amo-te. 
+pt-br	Eu amo você. 
+pt	Eu amo-te. 
 ro	Te iubesc. 
 sv	Jag älskar dig. 
 th	ผมรักคุณ | 

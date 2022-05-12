@@ -12,8 +12,8 @@ it	Non potremmo metterlo in un cassetto? È terrificante.
 nl	Kunnen we hem in een la stoppen? Het is afschuwelijk. 
 no	Kan vi legge ham i en skuff? Det er skrekkelig. 
 pl	Schowajmy go do szuflady. Strach patrzeć. 
-pr-br	Podemos colocá-lo em uma gaveta? Isso é horrível. 
-pr	Podemos metê-lo numa gaveta? É horrível. 
+pt-br	Podemos colocá-lo em uma gaveta? Isso é horrível. 
+pt	Podemos metê-lo numa gaveta? É horrível. 
 ro	Îl putem băga într-un sertar? E groaznic. 
 sv	Kan vi lägga honom i en låda? Det är läskigt. 
 th	เอาเขาไปใส่ในลิ้นชักหรืออะไรได้ไหม | มันขนลุก | 

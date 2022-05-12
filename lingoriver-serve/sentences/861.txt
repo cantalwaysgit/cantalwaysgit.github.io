@@ -14,8 +14,8 @@ ko	- 뭐라고요? | - 농담이야 |
 nl	Wat? -Grapje van Firuz. 
 no	-Hva for noe? -Firuz spøker. 
 pl	- Że co? - Firuz żartuje. 
-pr-br	-O quê? -Firuz está brincando. 
-pr	- O quê? - O Firuz estava a brincar. 
+pt-br	-O quê? -Firuz está brincando. 
+pt	- O quê? - O Firuz estava a brincar. 
 ro	- Poftim? - Firuz glumește. 
 sv	-Vadå? -Firuz skämtar. 
 th	- คุณอะไรนะ | - ไฟรูซล้อเล่นน่า | 

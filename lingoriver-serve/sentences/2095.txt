@@ -14,8 +14,8 @@ ko	- 노래해! | - 어서! |
 nl	Zingen. 
 no	-Syng! -Gjør det! 
 pl	- Zaśpiewaj! - Śpiewaj! 
-pr-br	-Cante! -Cante! 
-pr	- Canta! - Força! 
+pt-br	-Cante! -Cante! 
+pt	- Canta! - Força! 
 ro	- Cântă! - Hai! 
 sv	-Sjung! -Gör det! 
 th	- ร้องเพลง ร้องเพลง | - ร้องสิ! | 

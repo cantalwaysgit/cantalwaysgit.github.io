@@ -10,8 +10,8 @@ it	E tu eri tanto innamorato di me
 ko	너도 나한테 푹 빠졌었지 | 
 nl	en jij was zo verliefd op mij 
 pl	Ty we mnie kochałeś się 
-pr-br	E você estava muito apaixonado por mim 
-pr	E tu tão apaixonado por mim 
+pt-br	E você estava muito apaixonado por mim 
+pt	E tu tão apaixonado por mim 
 ro	Și tu erai atât de îndrăgostit de mine 
 sv	Och du var kär i mig med 
 th	แล้วคุณก็รักฉันมาก | 

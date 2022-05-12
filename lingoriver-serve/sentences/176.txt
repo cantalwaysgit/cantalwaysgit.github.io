@@ -12,8 +12,8 @@ it	Forse.
 nl	Misschien. 
 no	Kanskje. 
 pl	Możliwe. 
-pr-br	Talvez. 
-pr	Talvez. 
+pt-br	Talvez. 
+pt	Talvez. 
 ro	Poate. 
 sv	Kanske det. 
 th	อาจใช่ | 

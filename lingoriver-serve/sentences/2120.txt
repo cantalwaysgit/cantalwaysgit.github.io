@@ -12,8 +12,8 @@ it	Hai ragione, figlio di buona donna!
 ko	그래, 들었다, 이 개자식아! | 
 no	Ja! Det stemmer, din drittsekk! 
 pl	Tak jest, sukinsynu! 
-pr-br	Sim! Exato, seu filho da puta! 
-pr	Sim! É verdade, seu filho da mãe! 
+pt-br	Sim! Exato, seu filho da puta! 
+pt	Sim! É verdade, seu filho da mãe! 
 ro	Da! Așa e, nenorocitule! 
 ru	Да, сукин ты сын! 
 sv	Det stämmer! Din jävel! 

@@ -13,8 +13,8 @@ it	È di te che parlo Sei tu che sogno
 ko	내가 얘기하고 꿈꾸는 건 | 당신이야 | 
 nl	ik praat over je en droom van je 
 pl	O tobie wciąż mówię O tobie śnię 
-pr-br	Eu só falo de você E eu sonho com você 
-pr	É de ti que eu falo E contigo que sonho 
+pt-br	Eu só falo de você E eu sonho com você 
+pt	É de ti que eu falo E contigo que sonho 
 ro	Despre tine vorbesc Și pe tine te visez 
 sv	Det är dig jag pratar om Och dig jag drömmer om 
 th	คุณคือคนที่ฉันพูดถึง | และคนที่ฉันฝันถึง | 

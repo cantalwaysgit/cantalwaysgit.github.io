@@ -11,7 +11,7 @@ es-eu
 fr
 it
 nl
-pr
+pt
 ro
 tr
 vi
@@ -23,7 +23,7 @@ ko
 es
 he
 pl
-pr-br
+pt-br
 sv
 
 uk
@@ -31,8 +31,6 @@ cs
 hr
 hu
 ms
-pt-br
-pt
 
 de
 

@@ -13,8 +13,8 @@ ko	노래가 전부 주옥같네 | 앨범 대박 나겠어 |
 nl	Elk nummer is ongelooflijk. Dat album wordt fantastisch. 
 no	Alle sangene er utrolige. Det albumet blir enormt. 
 pl	Każda piosenka jest niesamowita. Ten album będzie megahitem. 
-pr-br	Todas as músicas são incríveis. Esse álbum vai ser demais. 
-pr	Todas as canções são incríveis. O álbum vai ser fantástico. 
+pt-br	Todas as músicas são incríveis. Esse álbum vai ser demais. 
+pt	Todas as canções são incríveis. O álbum vai ser fantástico. 
 ro	Fiecare melodie e grozavă. Albumul o să aibă un succes răsunător. 
 ru	Все песни потрясающие. Альбом будет просто бомбой. 
 sv	Varje låt är fantastisk. Albumet kommer att bli en hit. 

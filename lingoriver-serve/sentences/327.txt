@@ -13,8 +13,8 @@ ko	저런 재능이면 | 꿈꾸던 삶을 살 수 있어요 |
 nl	Met haar talent kan ze een droomleven hebben. 
 no	Med hennes talent kan hun få det livet hun drømmer om. 
 pl	Z jej talentem może zostać gwiazdą. 
-pr-br	Com o talento dela, ela poderia ter a vida que sempre sonhou. 
-pr	Com o talento dela, podia concretizar o sonho de uma vida. 
+pt-br	Com o talento dela, ela poderia ter a vida que sempre sonhou. 
+pt	Com o talento dela, podia concretizar o sonho de uma vida. 
 ro	La ce talent are, ar putea avea o viață de vis. 
 ru	С её талантом она могла бы жить как в сказке. 
 sv	Med sin talang, kan hon få ett drömliv. 

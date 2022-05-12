@@ -15,8 +15,8 @@ ko	감옥에 계신다는 것도 | 말씀드릴 걸 그랬네요 |
 nl	Ik had ook iets moeten zeggen over de gevangenis. 
 no	Jeg burde ha nevnt det med fengselet. 
 pl	Powinnam też wspomnieć o więzieniu. 
-pr-br	Eu também deveria ter mencionado o lance da cadeia. 
-pr	Também devia ter referido a questão da prisão. 
+pt-br	Eu também deveria ter mencionado o lance da cadeia. 
+pt	Também devia ter referido a questão da prisão. 
 ro	Trebuia să spun și despre închisoare. 
 sv	Jag borde nog ha berättat om fängelset. 
 th	ฉันควรบอกเรื่องคุกด้วย | 

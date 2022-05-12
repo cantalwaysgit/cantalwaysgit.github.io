@@ -13,8 +13,8 @@ it	Non sono un brutto anatroccolo
 ko	난 미운 오리 새끼가 아니야 | 
 nl	ik ben geen lelijk eendje 
 pl	Nie jestem brzydkim kaczątkiem 
-pr-br	Não sou um patinho feio 
-pr	Não sou um patinho feio 
+pt-br	Não sou um patinho feio 
+pt	Não sou um patinho feio 
 ro	Nu sunt o rățușcă așa de urâtă 
 sv	Jag är ingen ful ankunge 
 th	ฉันไม่ใช่ลูกเป็ดขี้เหร่นัก | 

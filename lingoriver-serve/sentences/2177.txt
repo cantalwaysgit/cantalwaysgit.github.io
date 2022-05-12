@@ -14,8 +14,8 @@ it	Siete bravi ragazzi e fate cose interessanti.
 nl	Jullie zijn goeie jongens en doen leuke dingen. 
 no	Dere er gode gutter, og jeg liker det dere gjør. 
 pl	Dobre z was dzieciaki i podoba mi się to, co robicie. 
-pr-br	Vocês são bons garotos e gosto do que estão fazendo. 
-pr	Vocês são bons miúdos e gosto do que estão a fazer. 
+pt-br	Vocês são bons garotos e gosto do que estão fazendo. 
+pt	Vocês são bons miúdos e gosto do que estão a fazer. 
 ro	Uite, sunteți copii buni și-mi place munca voastră. 
 sv	Jag gillar det ni gör, grabbar. 
 th	ฟังนะ เธอเป็นเด็กดี | และฉันชอบที่เธอทำ | 

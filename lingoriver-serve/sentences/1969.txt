@@ -15,8 +15,8 @@ ko	달력에 표시해둬, 테드 | 알았지? 늦지 마 |
 nl	Zet het in je agenda. Kom niet te laat. 
 no	Skriv det i kalenderen din, Ted. Ok? Ikke bli sen. 
 pl	Zapisz sobie w kalendarzu, Ted. I nie spóźnij się. 
-pr	Aponta na agenda, Ted. Está bem? Não te atrases. 
-pr-br	Anote na sua agenda, Ted. Está bem? Não se atrase. 
+pt	Aponta na agenda, Ted. Está bem? Não te atrases. 
+pt-br	Anote na sua agenda, Ted. Está bem? Não se atrase. 
 ro	Notează-ți în calendar, Ted. Da? Nu vreau să întârzii. 
 sv	Skriv in det i kalendern, Ted. Kom inte för sent. 
 tr	Takvimine işle Ted. Tamam mı? Geç kalma. 

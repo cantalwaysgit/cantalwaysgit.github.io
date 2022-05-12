@@ -9,8 +9,8 @@ he	&rlm;‏כן.‏ |
 it	Sì. 
 ko	대단하죠 | 
 pl	Tak. 
-pr-br	Sim. 
-pr	Sim. 
+pt-br	Sim. 
+pt	Sim. 
 ro	Da! 
 ru	Да. 
 sv	Ja. 

@@ -11,8 +11,8 @@ it	Firuz è il padrone di casa.
 ko	아니, 퍼루즈는 이 집주인이야 | 
 no	Nei, Firuz er utleieren min. 
 pl	Nie, właściciel domu. 
-pr-br	Não, Firuz é o dono da casa. 
-pr	Não! O Firuz é o meu senhorio. 
+pt-br	Não, Firuz é o dono da casa. 
+pt	Não! O Firuz é o meu senhorio. 
 ro	Nu. Firuz e proprietarul meu. 
 sv	Nej! Firuz är min hyresvärd. 
 th	ไม่ใช่ ไฟรูซคือเจ้าของบ้านฉัน | 
@@ -38,8 +38,8 @@ he	&rlm;‏הוא לא מרשה לנו להיכנס לבריכה. זה אסור.
 it	E non ci permette di usare la piscina. È proibito. 
 ko	수영장에 들어가지 말라고 했어 | 금지된 일이라니까 | 
 no	Han lar oss ikke bruke bassenget. Det er forbudt. 
-pr-br	Ele não deixa entrar na piscina. É proibido. 
-pr	Não permite que usemos a piscina. É proibido. 
+pt-br	Ele não deixa entrar na piscina. É proibido. 
+pt	Não permite que usemos a piscina. É proibido. 
 ro	Nu ne permite să intrăm în piscină. E interzis. 
 sv	Han tillåter inte att vi är i poolen. Det är förbjudet. 
 tr	Havuza girmemize izin vermiyor. Yasak. 

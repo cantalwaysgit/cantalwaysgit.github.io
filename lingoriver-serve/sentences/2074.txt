@@ -13,8 +13,8 @@ it	- Non è... - Uno shot?
 ko	- 별로... | - 한잔해요? | 
 no	-Det er ikke... -Shot? 
 pl	- Nie jest... - Kielonka? 
-pr-br	-Não é... -Uma dose, cara? 
-pr	- Não é... - Queres? 
+pt-br	-Não é... -Uma dose, cara? 
+pt	- Não é... - Queres? 
 ro	- Nu e... - Ciocnim? 
 sv	-Det är inte... -En shot? 
 th	- ไม่ใช่... | - ช็อตไหม | 
@@ -38,8 +38,8 @@ ko	- 한잔합시다 | - 괜찮아 |
 nl	Nemen we een shotje? -Hoeft niet. 
 no	-En shot? -Ellers takk. 
 pl	- Golniemy? - Podziękuję. 
-pr-br	-Vamos encarar? -Não, obrigado. 
-pr	- Vamos beber um  shot? - Não quero. 
+pt-br	-Vamos encarar? -Não, obrigado. 
+pt	- Vamos beber um  shot? - Não quero. 
 ro	- Ciocnim? - Nu, e în regulă. 
 ru	-По рюмочке. -Нет, спасибо. 
 sv	-Ska vi ta en shot? -Det är bra. 

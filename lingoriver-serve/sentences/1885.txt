@@ -11,8 +11,8 @@ he	&rlm;‏אני פשוט מרגישה שאני צריכה שינוי.‏ |
 it	Ma ho bisogno di un cambiamento. 
 ko	변화가 필요한 것 같아요 | 
 pl	Ale potrzebuję zmiany otoczenia. 
-pr-br	Só sinto que preciso mudar. 
-pr	Só acho que preciso de uma mudança. 
+pt-br	Só sinto que preciso mudar. 
+pt	Só acho que preciso de uma mudança. 
 ro	Doar că simt nevoia unei schimbări. 
 sv	Jag behöver en förändring. 
 th	แค่รู้สึกว่าต้องการการเปลี่ยนแปลง | 

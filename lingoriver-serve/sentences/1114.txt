@@ -14,8 +14,8 @@ it	Bene. Tregua.
 nl	Genoeg. Wapenstilstand. 
 no	Det holder. Våpenhvile. 
 pl	To koniec. Rozejm. 
-pr	Basta. Tréguas. 
-pr-br	É isso. Trégua. 
+pt	Basta. Tréguas. 
+pt-br	É isso. Trégua. 
 ro	Gata. Armistițiu. 
 sv	Då så. Vapenvila. 
 th	นั่นเลย สงบศึก | 

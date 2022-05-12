@@ -11,8 +11,8 @@ it	Tutta quella storia del grunge è finita. Cosa ci vai a fare?
 nl	Grunge is ouderwets. Waarom zou je daarheen gaan? 
 no	Grunge er gammelt nytt. Hvorfor vil du dra dit? 
 pl	Grunge należy już do przeszłości. 
-pr	A cena do  grunge  está ultrapassada. O que vais para lá fazer? 
-pr-br	O lance de grunge já era. Por que iria para lá? 
+pt	A cena do  grunge  está ultrapassada. O que vais para lá fazer? 
+pt-br	O lance de grunge já era. Por que iria para lá? 
 ro	Stilul ăla grunge e fumat. De ce te-ai duce acolo? 
 sv	Hela grunge-grejen är omodern nu. Varför vill du flytta dit? 
 th	เพลงแนวกรันจ์มันหมดยุคแล้ว | ทำไมถึงจะไปที่นั่นล่ะ | 

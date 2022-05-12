@@ -16,8 +16,8 @@ it	- Non ha un microfono suo? - No, guarda.
 ko	- 마이크 같이 써야 해? | - 계속 들으세요 | 
 nl	Heeft hij geen eigen microfoon? 
 pl	- Nie ma swojego mikrofonu? - Nie, tak jest dobrze. 
-pr-br	-Ele não tem o próprio microfone? -Não, veja só. 
-pr	- Ele não tem microfone próprio? - Não, topa só. 
+pt-br	-Ele não tem o próprio microfone? -Não, veja só. 
+pt	- Ele não tem microfone próprio? - Não, topa só. 
 ro	- El n-are microfonul lui? - Nu. Uite! 
 sv	-Har han ingen egen mick? -Nej, kolla in det här. 
 tr	-Kendi mikrofonu yok mu? -Hayır, baksana. 

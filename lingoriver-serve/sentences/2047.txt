@@ -15,8 +15,8 @@ ko	저 친구로 하지 |
 nl	Daar is ie. 
 no	Der er han. 
 pl	Niech będzie. 
-pr	Aí está ele. 
-pr-br	Lá está ele. 
+pt	Aí está ele. 
+pt-br	Lá está ele. 
 ro	Uite-l! 
 sv	Där är han. 
 th	นั่นเลย | 

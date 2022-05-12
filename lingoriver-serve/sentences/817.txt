@@ -13,8 +13,8 @@ he	&rlm;‏לא. בסדר!‏ |
 it	No. Ecco! 
 ko	안 돼, 제발! | 
 pl	Nie rób tego. 
-pr-br	Não. Está bem! 
-pr	Não. Pronto! 
+pt-br	Não. Está bem! 
+pt	Não. Pronto! 
 ro	Nu. Bine! 
 sv	Nej. Okej! 
 th	ไม่เหรอ ได้เลย | 
@@ -39,8 +39,8 @@ it	Non avvicinarti o immergo tutto il piede.
 ko	가까이 오면 | 발을 전부 담글 거예요 | 
 nl	Kom niet dichterbij, want dan steek ik mijn hele voet erin. 
 pl	Nie podchodź, bo wsadzę całą stopę. 
-pr-br	Não se aproxime. Vou pôr o pé todo dentro. 
-pr	Não te aproximes. Juro que enfio lá o pé todo. 
+pt-br	Não se aproxime. Vou pôr o pé todo dentro. 
+pt	Não te aproximes. Juro que enfio lá o pé todo. 
 ro	Nu te apropia, fiindcă o să bag tot piciorul! 
 sv	Kom inte närmare. Då doppar jag hela foten. 
 th	อย่าเข้ามาใกล้นะ | ฉันจะหย่อนเข้าไปทั้งเท้าเลย | 

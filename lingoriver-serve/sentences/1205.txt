@@ -10,8 +10,8 @@ it	Hai smentito tu la notizia secondo cui
 nl	Kocht jij het verhaal af... 
 no	Dysset du ned historien 
 pl	Wyciszyłeś to, 
-pr-br	Você abafou a história 
-pr	Desmentiste a notícia de um tabloide 
+pt-br	Você abafou a história 
+pt	Desmentiste a notícia de um tabloide 
 ro	Ai înnăbușit subiectul 
 tr	Babasının bir hapishane isyanında 
 vi	Anh đã chặn câu chuyện trên tờ Enquirer | 

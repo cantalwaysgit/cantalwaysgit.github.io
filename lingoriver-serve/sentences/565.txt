@@ -11,8 +11,8 @@ he	&rlm;‏אנחנו רק חיים בו. לא חסמתי את המעבר.‏ |
 it	E tutti ci viviamo. Non stavo bloccando il corridoio. 
 nl	We leven erin. Ik blokkeerde hem niet. 
 no	Vi bare lever i den. Jeg sperret ikke veien. 
-pr-br	Estamos só vivendo nele. Eu não estava bloqueando o corredor. 
-pr	Nós só vivemos nele. Não estava a bloquear o corredor. 
+pt-br	Estamos só vivendo nele. Eu não estava bloqueando o corredor. 
+pt	Nós só vivemos nele. Não estava a bloquear o corredor. 
 ro	Noi trăim în ea. Nu blocam culoarul. 
 sv	Vi lever bara här. Jag blockerade inte gången. 
 th	เราแค่อยู่ในนั้น | ผมไม่ได้ขวางช่องทางเดิน | 

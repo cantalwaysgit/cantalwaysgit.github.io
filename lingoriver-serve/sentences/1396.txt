@@ -15,8 +15,8 @@ ko	충분한 자격이 있으니까 |
 nl	Je verdient het allemaal. 
 no	Du fortjener alt sammen. 
 pl	Zasługujesz na to. 
-pr-br	Você merece tudo isso. 
-pr	Mereces isso tudo. Mereces mesmo. 
+pt-br	Você merece tudo isso. 
+pt	Mereces isso tudo. Mereces mesmo. 
 ro	Meriți cu vârf și îndesat. 
 sv	Du förtjänar allt. 
 th	คุณสมควรกับทุกอย่าง | 

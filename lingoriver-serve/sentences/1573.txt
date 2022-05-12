@@ -15,8 +15,8 @@ ko	공에 문제를 실어서 | 날려버리는 거야 |
 nl	Stop je problemen in de bal en sla ze weg. 
 no	Legg problemene dine i ballen og send dem av gårde. 
 pl	Problemy posyłamy w tej piłce daleko stąd. 
-pr-br	Ponha seus problemas na bola e mande-os embora. 
-pr	Põe os teus problemas na bola e manda-os para longe. 
+pt-br	Ponha seus problemas na bola e mande-os embora. 
+pt	Põe os teus problemas na bola e manda-os para longe. 
 ro	Bagă-ți necazurile în minge și alungă-le. 
 sv	Lägg dina problem i bollen och skicka iväg dem. 
 th	เอาปัญหาทั้งหมดใส่ลงไปในลูก | แล้วส่งมันไปไกลๆ | 

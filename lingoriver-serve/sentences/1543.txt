@@ -8,8 +8,8 @@ fr	C'est quoi, ces fringues ?
 he	&rlm;‏למה יש לך אותם?‏ | 
 it	Perché hai questa roba? 
 pl	Skąd masz te ciuchy? 
-pr-br	Por que você tem isso? 
-pr	Porque tens estas roupas? 
+pt-br	Por que você tem isso? 
+pt	Porque tens estas roupas? 
 ro	De ce ai hainele astea? 
 sv	Varför äger du de här? 
 th	ทำไมคุณถึงมีชุดนี่ | 

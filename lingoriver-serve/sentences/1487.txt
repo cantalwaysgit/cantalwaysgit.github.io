@@ -11,8 +11,8 @@ it	- Courtney! - Buttatevi in un lago, ragazzi!
 ko	- 코트니! | - 꺼져, 이 인간들아! | 
 no	-Courtney! Courtney! -Drit og dra, folkens! 
 pl	- Courtney! - Weźcie idźcie się utopić! 
-pr-br	-Courtney! -Vão catar coquinho, rapazes! 
-pr	- Courtney! - Atirem-se ao lago! 
+pt-br	-Courtney! -Vão catar coquinho, rapazes! 
+pt	- Courtney! - Atirem-se ao lago! 
 ro	- Courtney! - Aruncați-vă în lac, băi! 
 sv	-Courtney! -Stick och brinn! 
 th	- คอร์ทนี่ย์ๆ | - ไปโดดทะเลสาบเลยไป พวกแก | 

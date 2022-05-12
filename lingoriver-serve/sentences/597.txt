@@ -14,8 +14,8 @@ ko	이게 웬일이에요, 매니저님? |
 nl	Kijk jij nou, Mr Manager. 
 no	Se på deg, managermannen. 
 pl	Prawdziwy z ciebie pan menedżer. 
-pr-br	Veja só você, Sr. Empresário. 
-pr	Olha para ti, Sr. Empresário. 
+pt-br	Veja só você, Sr. Empresário. 
+pt	Olha para ti, Sr. Empresário. 
 ro	Uită-te la tine! Impresarul-șef! 
 sv	Se på dig, mr Manager-mannen. 
 th	ดูคุณสิ คุณผู้จัดการ | 

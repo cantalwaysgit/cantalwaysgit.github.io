@@ -14,8 +14,8 @@ it	Lasci che Firuz si prenda cura di lei.
 nl	Firuz zorgt goed voor je. 
 no	La Firuz ta godt vare på deg. 
 pl	Firuz się panią zajmie. 
-pr-br	Deixe Firuz cuidar bem de você. 
-pr	Deixe que o Firuz cuide de si. 
+pt-br	Deixe Firuz cuidar bem de você. 
+pt	Deixe que o Firuz cuide de si. 
 ro	Lăsați-l pe Firuz să aibă grijă de dv. 
 sv	Låt Firuz ta hand om dig. 
 th	ให้ไฟรูซดูแลคุณเอง | 

@@ -13,8 +13,8 @@ ko	정말 멋진 순간이네요 |
 nl	wat een prachtig moment 
 no	For et herlig øyeblikk 
 pl	Cóż za cudowna chwila. 
-pr-br	Que momento maravilhoso 
-pr	Que momento maravilhoso 
+pt-br	Que momento maravilhoso 
+pt	Que momento maravilhoso 
 ro	Ce moment minunat! 
 ru	Какой чудесный момент! 
 sv	Vilken underbar stund 

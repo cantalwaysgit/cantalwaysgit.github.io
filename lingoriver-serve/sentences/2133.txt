@@ -11,8 +11,8 @@ id	Mereka tersenyum saat sedih
 it	Sorride quand'è triste 
 ko	힘들 때도 웃거든 | 
 pl	Nawet smutni uśmiechają się 
-pr-br	Eles sorriem quando estão tristes 
-pr	Sorriem quando estão em baixo 
+pt-br	Eles sorriem quando estão tristes 
+pt	Sorriem quando estão em baixo 
 ro	Zâmbesc când sunt triști 
 ru	Они улыбаются, когда им грустно 
 sv	De ler när de är nere 

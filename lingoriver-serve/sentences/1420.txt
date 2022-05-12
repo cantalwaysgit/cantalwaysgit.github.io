@@ -16,8 +16,8 @@ ko	예전 생활을 떠올려 봐 |
 nl	Dan weet je weer waar je vandaan kwam. 
 no	Husk hvor du kommer fra. 
 pl	Wspomnisz swoje początki. 
-pr-br	E lembre-se de suas origens. 
-pr	... e lembra-te de onde vieste. 
+pt-br	E lembre-se de suas origens. 
+pt	... e lembra-te de onde vieste. 
 ro	Și amintește-ți de unde ai plecat. 
 th	เพื่อเตือนใจว่าคุณมาจากไหน | 
 vi	Nó nhắc cô nhớ về xuất thân của mình. | 

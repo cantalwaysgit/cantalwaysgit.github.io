@@ -12,8 +12,8 @@ it	Il primo singolo di Courtney andò alla grande. L'album ancora di più.
 nl	Courtneys eerste single was een groot succes. Het album nog groter. 
 no	Courtneys første single var en kjempehit. Albumet ble enda større. 
 pl	Pierwszy singiel Courtney był hitem. Sam album jeszcze większym. 
-pr-br	O primeiro single da Courtney mandou bem. Lembro que o álbum fez mais sucesso ainda. 
-pr	O primeiro  single  da Courtney foi um sucesso. E o álbum ainda mais. 
+pt-br	O primeiro single da Courtney mandou bem. Lembro que o álbum fez mais sucesso ainda. 
+pt	O primeiro  single  da Courtney foi um sucesso. E o álbum ainda mais. 
 ro	Primul single al lui Courtney a avut succes mare. Albumul, și mai mare. 
 sv	Courtneys första singel var megastor. Albumet blev ännu större. 
 vi	Đĩa đơn đầu tay của Courtney thật tuyệt. | Tôi nhớ album còn tuyệt hơn. | 

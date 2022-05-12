@@ -14,8 +14,8 @@ he	&rlm;‏זה היה שיעור טאי בו קשה במיוחד. זה בסדר
 it	Ho fatto un corso di Tae Bo a impatto elevato. Tutto a posto. 
 nl	Een intensieve Tae Bo-cursus. 
 no	Det er fra en Tae Bo-time. Det går bra. 
-pr-br	Foi uma aula forte de Tae Bo que eu fiz. Tudo bem. 
-pr	Isto foi numa aula de Tae Bo de alto impacto. Está tudo bem. 
+pt-br	Foi uma aula forte de Tae Bo que eu fiz. Tudo bem. 
+pt	Isto foi numa aula de Tae Bo de alto impacto. Está tudo bem. 
 ro	Ceea ce vezi e urmarea unei lecții de Tae Bo. E-n regulă. 
 sv	Det var en närstrid på Tae Bo-kursen. Det är lugnt. 
 vi	Chỉ là buổi tập Tae Bo thôi mà. Không sao. | 

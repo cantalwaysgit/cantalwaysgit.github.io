@@ -9,8 +9,8 @@ he	&rlm;‏יש לך מחשב, נכון?‏ |
 it	Hai un computer, giusto? 
 nl	Je hebt toch een computer? 
 pl	Masz komputer, nie? 
-pr-br	Você tem computador, certo? 
-pr	Tens o teu computador, certo? 
+pt-br	Você tem computador, certo? 
+pt	Tens o teu computador, certo? 
 ro	Ai computerul, da? 
 ru	У тебя же есть компьютер? 
 sv	Du har din dator, okej? 

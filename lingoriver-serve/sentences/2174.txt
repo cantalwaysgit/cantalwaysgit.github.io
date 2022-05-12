@@ -13,8 +13,8 @@ it	Gli dispiace anche
 nl	Het spijt hem ook... 
 no	Og han er også lei for 
 pl	Przykro mu też, 
-pr-br	Ele também sente muito 
-pr	E também pede desculpa 
+pt-br	Ele também sente muito 
+pt	E também pede desculpa 
 ro	Și îi mai pare rău 
 ru	И еще ему жаль, 
 sv	Han ber också om ursäkt för 

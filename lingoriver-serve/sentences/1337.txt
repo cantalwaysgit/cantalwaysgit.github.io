@@ -13,8 +13,8 @@ ko	이리 와요 | 깜짝 선물이 있어요 |
 nl	Kom mee. Ik heb een verrassing. 
 no	Kom. Jeg har en overraskelse. 
 pl	Mam dla ciebie niespodziankę. 
-pr	Anda. Tenho uma surpresa. 
-pr-br	Venha. Eu tenho uma surpresa. 
+pt	Anda. Tenho uma surpresa. 
+pt-br	Venha. Eu tenho uma surpresa. 
 ro	Haide! Am o surpriză. 
 ru	Идем. У меня для тебя сюрприз. 
 sv	Kom. Jag har en överraskning. 

@@ -10,8 +10,8 @@ it	Una settimana più tardi, andò a vivere con Lenny Kravitz.
 nl	Een week later trok ze in bij Lenny Kravitz. 
 no	En uke senere flyttet hun og Lenny Kravitz sammen. 
 pl	Zamieszkała z Lennym Kravitzem, 
-pr-br	Uma semana depois, ela foi morar com Lenny Kravitz. 
-pr	Uma semana depois, ela foi viver com o Lenny Kravitz. 
+pt-br	Uma semana depois, ela foi morar com Lenny Kravitz. 
+pt	Uma semana depois, ela foi viver com o Lenny Kravitz. 
 ro	După o săptămână, s-a mutat cu Lenny Kravitz. 
 sv	En vecka senare flyttade hon ihop med Lenny Kravitz. 
 th	สัปดาห์หนึ่งต่อมา | เธอย้ายเข้าไปอยู่กับเลนนี่ คราวิตซ์ | 
@@ -36,8 +36,8 @@ he	&rlm;‏שבועיים מאוחר יותר, היא עזבה.‏ |
 it	Dopo altre due settimane, se ne andò. 
 nl	Twee weken later vertrok ze weer. 
 pl	a dwa tygodnie później wyprowadziła się. 
-pr-br	Duas semanas depois disso, ela foi embora. 
-pr	E duas semanas depois, separaram-se. 
+pt-br	Duas semanas depois disso, ela foi embora. 
+pt	E duas semanas depois, separaram-se. 
 ro	După două săptămâni, a plecat de la el. 
 sv	Två veckor efter det, flyttade hon ut. 
 th	สองอาทิตย์ต่อจากนั้น ก็ย้ายออก | 

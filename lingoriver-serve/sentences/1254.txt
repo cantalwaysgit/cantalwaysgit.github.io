@@ -14,8 +14,8 @@ it	Prenditi un po' di tempo per pensarci.
 ko	잠깐 시간을 갖고 생각해 봐요 | 
 nl	Neem de tijd om erover na te denken. 
 no	La oss tenke litt på det. 
-pr-br	Vamos dar um tempo para pensar melhor. 
-pr	Vamos esperar um minuto e pensar melhor. 
+pt-br	Vamos dar um tempo para pensar melhor. 
+pt	Vamos esperar um minuto e pensar melhor. 
 ro	Să ne retragem o clipă și să ne gândim. 
 sv	Vi kan väl fundera på det. 
 th	รอแป๊บนึงแล้วค่อยทบทวนกัน | 

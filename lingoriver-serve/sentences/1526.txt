@@ -11,8 +11,8 @@ he	&rlm;‏תקנה את כתב העת "פיפל" מדי פעם.‏ |
 it	Leggiti  People,  ogni tanto. 
 no	Les  People  av og til. 
 pl	Kup sobie czasem  People. 
-pr-br	Leia a revista  People  de vez em quando. 
-pr	Lê uma revista  People  de vez em quando. 
+pt-br	Leia a revista  People  de vez em quando. 
+pt	Lê uma revista  People  de vez em quando. 
 ro	Mai citește și tu din când în când revista  People. 
 th	หยิบนิตยสารพีเพิลมาอ่านบ้าง | 
 tr	Ara sıra  People  dergisi karıştır. 

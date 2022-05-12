@@ -14,8 +14,8 @@ it	- Non voglio essere buffo. - È per come l'hai detto.
 nl	Ik wil niet grappig zijn. -Hoe je het zei. 
 no	-Jeg prøver ikke å være det. -Måten du sa det på. 
 pl	- Nie chcę. - Śmiesznie to powiedziałeś. 
-pr-br	-Não tentei ser engraçado. -Foi como disse. 
-pr	- Não era para ter piada. - Foi a forma como disseste. 
+pt-br	-Não tentei ser engraçado. -Foi como disse. 
+pt	- Não era para ter piada. - Foi a forma como disseste. 
 ro	- Nu încerc asta. - Mă amuză cum ai spus-o. 
 sv	-Jag försöker inte vara rolig. -Du sa det roligt. 
 th	- ไม่ได้พยายามตลกเลยนะ | - วิธีที่พูดนั่นแหละ | 

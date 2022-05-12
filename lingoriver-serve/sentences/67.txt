@@ -14,8 +14,8 @@ it	Le piace?
 nl	Is het iets? 
 no	Noe bra? 
 pl	Coś dobrego? 
-pr-br	Achou algo bom? 
-pr	Vale alguma coisa? 
+pt-br	Achou algo bom? 
+pt	Vale alguma coisa? 
 ro	E bun? 
 sv	Nåt bra? 
 th	ดีไหม | 

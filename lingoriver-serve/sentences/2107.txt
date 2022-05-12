@@ -12,8 +12,8 @@ he	&rlm;‏מחייכים כשהם עצובים‏ |
 it	Sorride quand'è triste 
 ko	힘들 때도 웃거든 | 
 pl	Nawet smutni uśmiechają się 
-pr-br	Eles sorriem quando você está triste 
-pr	Sorriem quando estão em baixo 
+pt-br	Eles sorriem quando você está triste 
+pt	Sorriem quando estão em baixo 
 ro	Zâmbesc și când sunt triști 
 th	พวกเขายิ้มเมื่อยามเศร้า | 
 tr	Gülümserler, kan ağlarken içleri 

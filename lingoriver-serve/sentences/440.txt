@@ -14,8 +14,8 @@ it	Non frega a nessuno.
 ko	아무도 신경 안 써요 | 
 no	Ingen bryr seg. 
 pl	Olej to. 
-pr-br	Ninguém liga. Vamos. 
-pr	Ninguém quer saber disso. 
+pt-br	Ninguém liga. Vamos. 
+pt	Ninguém quer saber disso. 
 ro	Nu-i pasă nimănui. 
 sv	Ingen som bryr sig. 
 th	ไม่มีใครสนหรอก | 

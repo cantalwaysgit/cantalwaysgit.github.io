@@ -13,8 +13,8 @@ ko	라디오에서 노래를 들었다고 | 다음 주 쇼에 출연하래 |
 nl	Hij hoorde het nummer ook en heeft haar voor volgende week geboekt. 
 no	Han har også hørt sangen og booket henne til neste uke. 
 pl	Usłyszał piosenkę w radiu i już ją zaklepał do swojego programu. 
-pr-br	Ele ouviu a música no rádio e a agendou para o programa da semana que vem. 
-pr	Ele ouviu a canção no rádio e ela vai ao programa dele para a semana. 
+pt-br	Ele ouviu a música no rádio e a agendou para o programa da semana que vem. 
+pt	Ele ouviu a canção no rádio e ela vai ao programa dele para a semana. 
 ro	A auzit și el cântecul la radio și a rezervat-o pentru săptămâna viitoare. 
 sv	Han hörde också låten på radio. Han bokade henne till showen nästa vecka. 
 th	เขาได้ยินเพลงจากวิทยุเหมือนกัน | และจองเธอไปออกรายการอาทิตย์หน้า | 

@@ -12,8 +12,8 @@ it	in tutta sincerità, non mi sento di sacrificare.
 ko	도의상 얘기하면 | 그렇게 하고 싶지 않아 | 
 nl	...ik eigenlijk niet wil brengen. 
 no	jeg ikke ønsker å ofre. 
-pr-br	em sã consciência, não quero fazer. 
-pr	pensando bem, não quero fazer. 
+pt-br	em sã consciência, não quero fazer. 
+pt	pensando bem, não quero fazer. 
 ro	pe care, de bună-credință, nu vreau să le fac. 
 sv	som jag, med gott samvete, inte vill göra. 
 th	ซึ่งด้วยสำนึกผิดชอบชั่วดี | จริงๆ แล้วผมไม่อยากจะทำ | 

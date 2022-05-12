@@ -15,8 +15,8 @@ it	- Non l'ho mai detto. - L'hai detto. Va bene.
 nl	Heb ik nooit gezegd. -Wel. Geeft niet. 
 no	-Det har jeg aldri sagt. -Du sa det. Det er greit. 
 pl	- Wcale nie. - Tak mówiłeś. Rozumiem. 
-pr-br	-Eu nunca disse isso. -Você disse. Tudo bem. 
-pr	- Nunca disse isso. - Disseste. Não faz mal. 
+pt-br	-Eu nunca disse isso. -Você disse. Tudo bem. 
+pt	- Nunca disse isso. - Disseste. Não faz mal. 
 ro	- N-am zis asta niciodată. - Ba da. E-n regulă. 
 th	- ไม่เคยพูดแบบนั้น | - พูดนะ ไม่เป็นไร | 
 tr	-Öyle bir şey demedim. -Dedin. Sorun değil. 

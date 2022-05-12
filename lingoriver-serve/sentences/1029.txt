@@ -17,8 +17,8 @@ he	&rlm;‏מה את חושבת?‏ |
 it	Che ne pensi? 
 nl	Wat vind je ervan? 
 no	Hva synes du? 
-pr-br	O que você acha? 
-pr	O que achas? 
+pt-br	O que você acha? 
+pt	O que achas? 
 ro	Ce părere ai? 
 sv	Vad tycker du? 
 tr	Nasıl buldun? 

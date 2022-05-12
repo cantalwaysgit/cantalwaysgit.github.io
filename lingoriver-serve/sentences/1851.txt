@@ -13,8 +13,8 @@ he	&rlm;‏יוצא לו קצף מהפה.‏ |
 it	Sta schiumando dalla bocca. 
 no	Han fråder. 
 pl	Piana mu leci. 
-pr-br	Ele está espumando pela boca. 
-pr	Está mesmo a espumar pela boca. 
+pt-br	Ele está espumando pela boca. 
+pt	Está mesmo a espumar pela boca. 
 ro	Chiar face spume la gură. 
 sv	Han tuggar fradga. 
 th	เขาน้ำลายฟูมปากเลย | 

@@ -15,8 +15,8 @@ fr	Non, hors de question.
 he	&rlm;‏אל תיכנסו לבריכה.‏ | 
 it	La piscina non si usa. 
 pl	Na basen jest zakaz. 
-pr-br	Fiquem longe da piscina. 
-pr	Fiquem longe da piscina. 
+pt-br	Fiquem longe da piscina. 
+pt	Fiquem longe da piscina. 
 ro	Nu vă apropiați de piscină! 
 th	อย่ายุ่งกับสระ | 
 tr	Havuzdan uzak durun. 
@@ -39,8 +39,8 @@ he	&rlm;‏רק התלוצצתי.‏ |
 it	Scherzavo. 
 ko	농담이었어요 | 
 pl	Żartowałam. 
-pr-br	Eu estava brincando. 
-pr	Estava só a brincar. 
+pt-br	Eu estava brincando. 
+pt	Estava só a brincar. 
 ro	Glumeam. 
 th	แค่ล้อเล่นน่า | 
 tr	Şaka yapıyordum. 

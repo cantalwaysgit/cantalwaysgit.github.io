@@ -11,8 +11,8 @@ it	- È andata così. - È andata bene.
 ko	- 안타깝네요 | - 괜찮아 | 
 no	-Sånt skjer. -Det er bra. 
 pl	- No i masz. - To dobrze. 
-pr	- Aí tens. - É bom. 
-pr-br	-É isso aí. -Foi bom. 
+pt	- Aí tens. - É bom. 
+pt-br	-É isso aí. -Foi bom. 
 ro	- Poftim! - E bună. 
 sv	-Där hör du. -Det är bra. 
 th	- นั่นเลย | - มันดี | 

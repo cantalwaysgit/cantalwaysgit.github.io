@@ -12,8 +12,8 @@ it	Fallo e basta.
 nl	Doe het maar. 
 no	Bare gjør det. 
 pl	Lulaj go. 
-pr-br	Encare e pronto. 
-pr	Faz lá isso. 
+pt-br	Encare e pronto. 
+pt	Faz lá isso. 
 ro	Fă-o și gata! 
 sv	Sätt igång bara. 
 th	ทำเถอะน่า | 

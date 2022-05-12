@@ -10,8 +10,8 @@ id	- Tidak. Kau hebat. - Ayolah.
 it	- No, sei grande. - Ma dai. 
 no	Nei, du er flott. 
 pl	- Wcale nie. - No weź. 
-pr-br	-Não, você é ótima. -Vamos. 
-pr	- Não, és excelente. - Vamos lá. 
+pt-br	-Não, você é ótima. -Vamos. 
+pt	- Não, és excelente. - Vamos lá. 
 ro	- Ba nu. Ești grozavă. - Hai! 
 th	- ไม่เลย คุณเยี่ยม | - เอาน่า | 
 tr	-Hayır, harikasın. -Hadi ama. 
@@ -36,8 +36,8 @@ id	Ini mudah.
 it	È semplice. 
 no	Det er bare... Det er lett. 
 pl	To łatwe. 
-pr-br	É... É fácil. 
-pr	É fácil. 
+pt-br	É... É fácil. 
+pt	É fácil. 
 ro	E ușor. 
 th	มันแค่...  | มันง่าย | 
 tr	Bu çok... Kolay. 

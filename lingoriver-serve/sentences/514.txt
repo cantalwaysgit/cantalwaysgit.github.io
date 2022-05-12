@@ -9,8 +9,8 @@ fr	Tu savais que ça passait ?
 he	&rlm;‏ידעת שזה משודר?‏ | 
 it	Sapevi che andava in onda? 
 nl	Wist je dat? 
-pr-br	Sabia que estava no ar? 
-pr	Sabias que aquilo estava a dar? 
+pt-br	Sabia que estava no ar? 
+pt	Sabias que aquilo estava a dar? 
 ro	Știai că se difuzează? 
 th	รู้เปล่าว่ามันออกฉาย | 
 vi	Biết nó đã chiếu chứ? | 
@@ -33,8 +33,8 @@ fr	J'ignorais qu'ils le rediffuseraient.
 he	&rlm;‏לא ידעתי שהם ייתנו שידור חוזר.‏ | 
 it	No, non sapevo della replica. 
 nl	Nee, Ik wist niet dat ze het gingen herhalen. 
-pr-br	Não. Eu não sabia que teria reprise. 
-pr	Não. Eu não sabia que iam repetir. 
+pt-br	Não. Eu não sabia que teria reprise. 
+pt	Não. Eu não sabia que iam repetir. 
 ro	Nu. Nu știam că o vor reprograma. 
 th	เปล่า ไม่รู้ พวกเขาจะฉายซ้ำอยู่แล้ว | 
 vi	Không. Tôi không biết họ sẽ phát lại. | 

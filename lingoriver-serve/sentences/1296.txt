@@ -10,8 +10,8 @@ he	&rlm;לעזאזל עם זה.‏ |
 it	Ma per favore. 
 nl	Weg daarmee. 
 pl	Bez takich. 
-pr-br	Pare com isso. 
-pr	Não me lixem. 
+pt-br	Pare com isso. 
+pt	Não me lixem. 
 ro	Mai las-o baltă! 
 th	ไปไกลๆ เลยนั่น | 
 tr	Git başımdan. 

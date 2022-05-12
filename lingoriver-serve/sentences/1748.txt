@@ -13,8 +13,8 @@ he	&rlm;‏זה רעיון נורא!‏ |
 it	È stata un'idea terribile! 
 no	Det var en elendig idé! 
 pl	Fatalny pomysł! 
-pr-br	Foi uma péssima ideia! 
-pr	Que péssima ideia! 
+pt-br	Foi uma péssima ideia! 
+pt	Que péssima ideia! 
 ro	A fost o idee groaznică! 
 sv	Det var en urusel idé. 
 th	นี่เป็นความคิดไม่ดี | 

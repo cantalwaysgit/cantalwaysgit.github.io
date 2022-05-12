@@ -13,8 +13,8 @@ it	È una persona che devo chiamare.
 ko	전화해야 하는 사람이야 | 
 no	Dette er en jeg må ringe. 
 pl	Muszę zadzwonić. 
-pr-br	Preciso fazer uma ligação. 
-pr	É alguém a quem tenho mesmo de ligar. 
+pt-br	Preciso fazer uma ligação. 
+pt	É alguém a quem tenho mesmo de ligar. 
 ro	E cineva pe care chiar trebuie să sun. 
 sv	Det här är nån jag måste ringa. 
 th	นี่เป็นคนที่ผมต้องโทรกลับ | 

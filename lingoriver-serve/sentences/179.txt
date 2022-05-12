@@ -12,8 +12,8 @@ it	Sì, l'ho appena detto.
 ko	내가 방금 한 말이잖아 | 
 nl	Ja. Dat zei ik net. 
 pl	Właśnie o tym mówię. 
-pr-br	Foi o que acabei de dizer. 
-pr	Sim, era o que eu estava a dizer. 
+pt-br	Foi o que acabei de dizer. 
+pt	Sim, era o que eu estava a dizer. 
 ro	Tocmai asta spuneam! 
 ru	А я что говорю? 
 sv	Ja, jag sa ju det. 

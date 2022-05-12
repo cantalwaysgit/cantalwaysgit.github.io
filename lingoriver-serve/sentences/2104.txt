@@ -11,8 +11,8 @@ id	Perasaan senang itu Tidak bisa ditemukan di tempat lain
 it	Da nessuna parte Si ottiene quella sensazione 
 ko	사람들이 칭찬해주면 | 
 pl	To cudowne uczucie 
-pr-br	Em nenhum outro lugar você ficaria feliz 
-pr	Em mais lado nenhum há tal sensação 
+pt-br	Em nenhum outro lugar você ficaria feliz 
+pt	Em mais lado nenhum há tal sensação 
 ro	Nimic nu-ți poate aduce mai multă fericire 
 ru	Нигде ты так не радуешься 
 sv	Ingen annanstans blir man så glad 

@@ -12,8 +12,8 @@ ko	이사했군, 알았어 |
 nl	Dus hij is verhuisd. 
 no	Så han har flyttet. 
 pl	Czyli przeprowadził się. Spoko. 
-pr-br	Ele se mudou. Certo. 
-pr	Ele mudou-se. Pronto, mudou-se. 
+pt-br	Ele se mudou. Certo. 
+pt	Ele mudou-se. Pronto, mudou-se. 
 ro	Deci s-a mutat. Bine. S-a mutat. 
 sv	Okej, så han har flyttat. 
 th	งั้นเขาก็ย้ายแล้ว โอเค เขาย้ายแล้ว | 

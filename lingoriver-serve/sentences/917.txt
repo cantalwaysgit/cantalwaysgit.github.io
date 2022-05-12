@@ -11,8 +11,8 @@ he	&rlm;‏באמת.‏ |
 it	Forza. 
 no	Kom igjen. 
 pl	No dalej. 
-pr-br	Vamos lá. 
-pr	Vá lá. 
+pt-br	Vamos lá. 
+pt	Vá lá. 
 ro	Haide! 
 sv	Kom igen då. 
 th	มาเร็วสิ | 

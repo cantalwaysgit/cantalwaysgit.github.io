@@ -11,8 +11,8 @@ he	&rlm;‏‏אלא אם כן אתה מפנה | &rlm;‏את כל הציפור�
 it	se non elimini gli uccelli dal cielo, Tom. 
 no	før du får vekk alle fugler fra himmelen, Tom. 
 pl	jeśli nie usuniesz z nieba ptaków. 
-pr	a menos que tires os pássaros todos do céu, Tom. 
-pr-br	se você tirar todos os pássaros do céu,  Tom. 
+pt	a menos que tires os pássaros todos do céu, Tom. 
+pt-br	se você tirar todos os pássaros do céu,  Tom. 
 ro	dacă nu elimini toate zburătoarele din cer, Tom. 
 th	นอกเสียจากว่า | คุณจะกำจัดนกให้หมดท้องฟ้านะ ทอม | 
 tr	Gary Rodgers o atlayışı yapamaz Tom. 

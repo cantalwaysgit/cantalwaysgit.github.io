@@ -11,8 +11,8 @@ it	Intonazione perfetta.
 ko	완벽하네 | 
 nl	Perfect. 
 pl	Ideał. 
-pr-br	É perfeito. 
-pr	O tom é perfeito. 
+pt-br	É perfeito. 
+pt	O tom é perfeito. 
 sv	Det är perfekt. 
 th	ร้องได้เป๊ะไม่มีเพี้ยน | 
 tr	Mükemmel bir ses. 

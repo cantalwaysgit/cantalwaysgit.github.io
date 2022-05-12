@@ -14,8 +14,8 @@ it	Legalmente non posso fermarli, Kevin, abbiamo firmato un contratto.
 nl	Wettelijk gezien kan ik niets doen, want we hebben een contract getekend. 
 no	Jeg kan ikke stanse dem, juridisk sett, for vi skrev en kontrakt. 
 pl	Nie mogę nic zrobić, podpisaliśmy umowę. 
-pr-br	Não posso impedi-los legalmente, Kevin, pois nós assinamos um acordo. 
-pr	Legalmente não os posso impedir, Kevin, porque assinámos um acordo. 
+pt-br	Não posso impedi-los legalmente, Kevin, pois nós assinamos um acordo. 
+pt	Legalmente não os posso impedir, Kevin, porque assinámos um acordo. 
 ro	Nu-i pot opri legal, Kevin, fiindcă am semnat un contract. 
 sv	Jag kan inte stoppa dem, juridiskt sett. Vi har skrivit ett avtal. 
 th	ฉันหยุดพวกเขาไม่ได้ เควิน | ตามกฎหมายเราเซ็นสัญญาแล้ว | 

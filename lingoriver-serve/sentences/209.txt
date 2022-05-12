@@ -15,8 +15,8 @@ ko	전형적인 미국 어머니네 | 오스카 마이어도 못 당하겠어 |
 nl	Jij bent de perfecte Amerikaanse moeder. Oscar Mayer moet jou nemen. 
 no	Du er en typisk amerikansk mor. Oscar Mayer er gal om han sier nei. 
 pl	Jesteś wzorową amerykańską matką. W kanapkarni na pewno cię zatrudnią. 
-pr-br	Você é uma típica mãe americana. Oscar Mayer vai adorar aprová-la. 
-pr	És a mãe americana por excelência. A Oscar Mayer seria doida se te recusasse. 
+pt-br	Você é uma típica mãe americana. Oscar Mayer vai adorar aprová-la. 
+pt	És a mãe americana por excelência. A Oscar Mayer seria doida se te recusasse. 
 ro	Ești modelul mamei americane. Oscar Mayer ar fi nebun să te refuze. 
 sv	Du är den äkta amerikanska modern. Oscar Mayer vore dum om han sa nej. 
 th	คุณเป็นแม่อเมริกันตัวอย่าง | ออสการ์ เมเยอร์คงโง่ถ้าปฏิเสธคุณ | 

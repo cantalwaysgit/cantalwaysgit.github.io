@@ -13,8 +13,8 @@ ko	힘든 전화도 해주고 | 잘 싸워주기도 하죠 |
 nl	...de lastige telefoontjes doet, voor je vecht. 
 no	en som tar de vanskelige telefonene, kjemper de harde kampene. 
 pl	kto wykonuje za ciebie trudne telefony, walczy o twoje. 
-pr-br	que faça as ligações difíceis. Lute por boas causas. 
-pr	que faz os telefonemas difíceis, que trava as grandes batalhas. 
+pt-br	que faça as ligações difíceis. Lute por boas causas. 
+pt	que faz os telefonemas difíceis, que trava as grandes batalhas. 
 ro	care negociază la telefon, care luptă pentru tine. 
 sv	som tar de tuffa telefonsamtalen. Tar de svåra fajterna. 
 th	คนที่โทรศัพท์ที่หินๆ ให้ | ต่อสู้กับปัญหาใหญ่โต | 

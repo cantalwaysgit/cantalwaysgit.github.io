@@ -12,8 +12,8 @@ it	A me piace che i miei clienti partano piano.
 ko	난 고객이 천천히 | 시작하는 편을 좋아해 | 
 nl	Meestal wil ik dat mijn cliënten rustig beginnen. 
 pl	Zwykle radzę klientom zaczynać powoli. 
-pr-br	Geralmente gosto que meus clientes comecem devagar. 
-pr	Gosto que os meus clientes comecem devagar. 
+pt-br	Geralmente gosto que meus clientes comecem devagar. 
+pt	Gosto que os meus clientes comecem devagar. 
 ro	De obicei, prefer un debut mai lent pentru clienții mei. 
 th	ปกติแล้วผมอยากให้คนของผมเริ่มช้าๆ | 
 tr	Genellikle sanatçılarım hızlı başlasınlar istemem. 
@@ -38,8 +38,8 @@ it	Basso profilo e niente sovraesposizione.
 ko	과도하게 노출하지 않고 | 단순하게 | 
 nl	Hou het simpel. Niet te veel laten zien. 
 pl	Prostota bez parcia. 
-pr-br	Manter a simplicidade. Sem superexposição. 
-pr	Manter as coisas simples. Sem se exporem demasiado. 
+pt-br	Manter a simplicidade. Sem superexposição. 
+pt	Manter as coisas simples. Sem se exporem demasiado. 
 ro	Să fie simplu. Fără expunere în exces. 
 th	ทำแบบง่ายๆ ไม่โฉ่งฉ่างเกินไป | 
 tr	Basit tut. Fazla sergileme. 

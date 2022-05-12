@@ -13,8 +13,8 @@ he	&rlm;‏כל מה שהתנועה תרשה‏ |
 it	Tutto ciò che il traffico permetterà 
 ko	모든 게 탄탄대로야 | 
 pl	Absolutnie wszystko 
-pr-br	Tudo que o trânsito permitir 
-pr	Tudo o que o trânsito permite 
+pt-br	Tudo que o trânsito permitir 
+pt	Tudo o que o trânsito permite 
 ro	Oriunde vei ajunge 
 th	ทุกอย่างที่การจราจรจะอนุญาต | 
 tr	Trafiğin izin verdiği her şey 

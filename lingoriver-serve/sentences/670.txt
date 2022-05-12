@@ -15,8 +15,8 @@ ko	있는지도 몰랐던 | 음까지 올라가네 |
 nl	Je haalt noten waarvan ik het bestaan niet eens wist. 
 no	Du traff noter jeg ikke visste var oppfunnet. 
 pl	Nawet nie wiedziałem, że istnieją takie nuty. 
-pr	Acertaste em notas que nem sabia que tinham sido inventadas. 
-pr-br	Você atinge notas que ainda nem foram inventadas. 
+pt	Acertaste em notas que nem sabia que tinham sido inventadas. 
+pt-br	Você atinge notas que ainda nem foram inventadas. 
 ro	Ai atins note despre care nici nu știam că au fost inventate. 
 sv	Du sjöng toner som jag inte ens visste fanns. 
 th	ร้องโน้ตที่ | ผมไม่รู้ว่าคิดกันขึ้นมาแล้ว | 

@@ -15,8 +15,8 @@ it	Sì che lo so. Ho avuto il copione.
 nl	Dat weet ik wel. Ik heb het script. 
 no	Jo, det vet jeg. Jeg fikk manuset. 
 pl	Wiem. Dostałem scenariusz walki. 
-pr-br	Sim, eu sei disso. Eu tenho o roteiro. 
-pr	Sim, sei. Tenho o plano do combate. 
+pt-br	Sim, eu sei disso. Eu tenho o roteiro. 
+pt	Sim, sei. Tenho o plano do combate. 
 ro	Ba știu. Am scenariul. 
 th	ใช่ เรื่องนั้นรู้สิ เพิ่งได้บทมา | 
 tr	Evet, biliyorum. Senaryoyu aldım. 

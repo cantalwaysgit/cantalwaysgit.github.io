@@ -13,8 +13,8 @@ he	&rlm;‏לא. אתה לא עשית את זה.‏ |
 it	No. Non l'hai fatto. 
 no	Nei. Det gjorde du ikke. 
 pl	Nie. 
-pr-br	Não. Você não fez isso. 
-pr	Não. Tu não fizeste isso. 
+pt-br	Não. Você não fez isso. 
+pt	Não. Tu não fizeste isso. 
 ro	Nu. N-ai făcut asta. 
 sv	Nej. Du gjorde inte det. 
 th	เปล่า คุณไม่ได้ทำ | 
@@ -39,8 +39,8 @@ he	&rlm;‏‏אתה יודע איך אני יודע, סנדי? | &rlm;‏כי �
 it	E sai perché, Sandy? Perché ho fatto tutto io. 
 no	Vet du hvordan jeg vet det? For jeg gjorde det. 
 pl	A wiesz, skąd wiem? Bo ja to wszystko robiłem. 
-pr-br	Sabe como eu sei, Sandy? Porque eu fiz tudo isso. 
-pr	Sabes como é que eu sei, Sandy? Porque fui eu que fiz isso tudo. 
+pt-br	Sabe como eu sei, Sandy? Porque eu fiz tudo isso. 
+pt	Sabes como é que eu sei, Sandy? Porque fui eu que fiz isso tudo. 
 ro	Știi de unde știu, Sandy? Fiindcă eu le-am făcut pe toate. 
 sv	Vet du hur jag vet det? För att jag gjorde allt det. 
 th	รู้ไหมว่าทำไมผมถึงรู้ แซนดี้ | เพราะผมเป็นคนทำ | 

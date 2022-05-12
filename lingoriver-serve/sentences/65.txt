@@ -13,8 +13,8 @@ ko	- 친구도 없는 게 슬프던데요 | - 친구가 없어요 |
 nl	Het was zielig. Hij had geen vrienden. 
 no	-Leit. Som om han var venneløs. -Ingen venner. 
 pl	- Smutne. Nie miał przyjaciół. - Żadnych. 
-pr-br	-Era triste. Não tinha amigos. -Nenhum amigo. 
-pr	- Era triste. Parecia não ter amigos. - Não tinha amigos. 
+pt-br	-Era triste. Não tinha amigos. -Nenhum amigo. 
+pt	- Era triste. Parecia não ter amigos. - Não tinha amigos. 
 ro	- Era trist. Parcă nu avea prieteni. - N-avea prieteni. 
 ru	-Грустно... И друзей у него не было. -Не было. 
 sv	-Det var sorgligt, inga vänner. -Inga vänner. 

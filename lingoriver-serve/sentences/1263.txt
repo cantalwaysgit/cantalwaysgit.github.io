@@ -11,8 +11,8 @@ it	Diventerai una leggenda.
 nl	Je wordt een legende. 
 no	Du blir en legende. 
 pl	Zostaniesz legendą. 
-pr-br	Você será uma lenda. 
-pr	Vais ser uma lenda. 
+pt-br	Você será uma lenda. 
+pt	Vais ser uma lenda. 
 ro	O să ajungi o legendă. 
 th	คุณจะเป็นตำนาน | 
 tr	Efsane olacaksın. 

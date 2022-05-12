@@ -14,8 +14,8 @@ it	- La Yugo. Viene dalla Francia. - Non dalla Jugoslavia?
 nl	De Yugo. Uit Frankrijk. -Uit Joegoslavië, toch? 
 no	-Yugo, importert fra Frankrike. -Er den ikke fra Jugoslavia? 
 pl	- To Skoda, importowana z Francji. - Nie z Czech? 
-pr-br	-Yugo. Importado da França. -Não é da Iugoslávia? 
-pr	- O Yugo, importado de França. - Não é da Jugoslávia? 
+pt-br	-Yugo. Importado da França. -Não é da Iugoslávia? 
+pt	- O Yugo, importado de França. - Não é da Jugoslávia? 
 ro	- Yugo, importată din Franța. - Nu e din Iugoslavia? 
 sv	-Yugo. Importerad från Frankrike. -Kommer den inte från Jugoslavien? 
 th	- รถยูโก นำเข้าจากฝรั่งเศส | - ไม่ใช่ยูโกสลาเวียหรอกเหรอ | 

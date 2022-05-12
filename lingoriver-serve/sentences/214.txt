@@ -13,8 +13,8 @@ it	- Fate le brave con il sig. Wexler. - Sì, mamma.
 ko	- 웩슬러 씨 말 잘 들어 | - 네, 엄마 | 
 no	-Vær snille mot Mr. Wexler. Ok? -Ja, mamma. 
 pl	- Bądźcie miłe dla pana Wexlera. - Tak, mamo. 
-pr-br	-Filhas, sejam boazinhas com o Sr. Wexler. -Sim, mamãe. 
-pr	- Sejam simpáticas com o Sr. Wexler, sim? - Sim, mamã. 
+pt-br	-Filhas, sejam boazinhas com o Sr. Wexler. -Sim, mamãe. 
+pt	- Sejam simpáticas com o Sr. Wexler, sim? - Sim, mamã. 
 ro	- Fetelor, să vă purtați frumos! Da? - Da, mami. 
 ru	-Слушайтесь мистера Уэкслера! -Да, мама. 
 sv	-Var snälla mot mr Wexler. -Ja, mamma. 

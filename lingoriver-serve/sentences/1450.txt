@@ -15,8 +15,8 @@ ko	전 세계가 다 볼 거라는 거야 | 그건 좋은 거잖아 |
 nl	...en de hele wereld toekijkt. Dat is positief. 
 no	og hele verden vil se det. Det er positivt. 
 pl	To bardzo dobrze. Cały świat będzie to oglądał. 
-pr-br	e o mundo vai assistir. Isso é um lado positivo. 
-pr	e o mundo inteiro estará a ver. Isso é positivo. 
+pt-br	e o mundo vai assistir. Isso é um lado positivo. 
+pt	e o mundo inteiro estará a ver. Isso é positivo. 
 ro	iar lumea o să se uite. E un lucru bun. 
 sv	medan hela världen ser på. Det är positivt. 
 th	และทั้งโลกจะมองดู นั่นเป็นเรื่องดี | 

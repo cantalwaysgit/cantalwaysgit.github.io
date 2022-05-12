@@ -1,7 +1,7 @@
 id	Tetap gunakan akordeon. 
 ru	«Не бросай аккордеон. 
 ja	“アコーディオンと | アロハシャツで…” | 
-pr	Mantém-te com o acordeão. Usa só camisas havaianas. 
+pt	Mantém-te com o acordeão. Usa só camisas havaianas. 
 ar	&rlm;‏التزم بالأكورديون.‏ | 
 da	Hold dig til harmonikaen. 
 el	Μείνε στο ακορντεόν. 
@@ -14,7 +14,7 @@ he	&rlm;‏תישאר עם האקורדיון.‏ |
 it	Continua con la fisarmonica. 
 ko	아코디언을 놓지 말고 | 
 pl	Graj na akordeonie. 
-pr-br	Continue com o acordeão. 
+pt-br	Continue com o acordeão. 
 ro	"Rămâi la acordeon." 
 sv	Håll dig till dragspel. 
 th	ใช้แค่หีบเพลงชัก | 
@@ -37,7 +37,7 @@ it	Indossa solo camicie hawaiane.
 ko	하와이언 셔츠만 입고 | 
 no	Gå i hawaii-skjorter. 
 pl	Chodź w hawajskich koszulach. 
-pr-br	Use somente camisas havaianas. 
+pt-br	Use somente camisas havaianas. 
 ro	"Poartă numai cămăși hawaiiene." 
 sv	Ha bara på dig hawaiiskjortor. 
 th	ใส่แต่เสื้อฮาวาย | 

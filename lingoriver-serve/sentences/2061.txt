@@ -14,8 +14,8 @@ ko	진실을 얘기하기 시작했고 | 대부분은 결국 큰 성공을 거�
 nl	Doordat hij ze de waarheid zei, kregen de meesten grote carrières. 
 no	Fordi han begynte å si sannheten, fikk de fleste av dem gode karrierer. 
 pl	W końcu zaczął mówić im prawdę i odnieśli sukces. 
-pr-br	Ele começou a dizer a verdade para eles e a maioria teve carreiras incríveis. 
-pr	Como começou a dizer-lhes a verdade, a maioria teve grandes carreiras. 
+pt-br	Ele começou a dizer a verdade para eles e a maioria teve carreiras incríveis. 
+pt	Como começou a dizer-lhes a verdade, a maioria teve grandes carreiras. 
 ro	Fiindcă le-a zis adevărul, majoritatea s-au ales cu o carieră de succes. 
 sv	Eftersom han började säga sanningen, blev de flesta rätt framgångsrika. 
 th	เพราะเขาเริ่มพูดความจริงกับพวกเขา | พวกเขาส่วนใหญ่ดังๆ กัน | 

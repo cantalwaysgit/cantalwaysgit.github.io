@@ -9,8 +9,8 @@ fr	Six épisodes, 15 000 $ chacun, et on avise ensuite.
 it	Sei puntate, 15.000 dollari a botta e poi vediamo cosa succede. 
 nl	Zes afleveringen, $15.000 ieder, en dan kijken we wat we doen. 
 pl	Sześć odcinków, za każdy 15 tysięcy. A potem się zobaczy. 
-pr-br	Seis episódios, US$ 15 mil cada e depois definimos como será. 
-pr	Seis episódios, 15 mil dólares cada um e depois logo vemos. 
+pt-br	Seis episódios, US$ 15 mil cada e depois definimos como será. 
+pt	Seis episódios, 15 mil dólares cada um e depois logo vemos. 
 sv	Sex avsnitt, 15 000 per avsnitt och så går vi vidare därifrån. 
 vi	Sáu tập, 15 ngàn mỗi buổi, | và sau đó chúng tôi sẽ cân nhắc tiếp. | 
 zh-long	六集，每集一萬五 之後再看看怎麼樣 

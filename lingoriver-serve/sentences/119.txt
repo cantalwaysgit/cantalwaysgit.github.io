@@ -15,8 +15,8 @@ ko	자, 여러분, 한번 해봅시다 |
 nl	Oké, we doen het. 
 no	Ok, folkens, da gjør vi det. 
 pl	No to do dzieła. 
-pr-br	Ei, pessoal, vamos nessa. 
-pr	Muito bem, malta, vamos lá. 
+pt-br	Ei, pessoal, vamos nessa. 
+pt	Muito bem, malta, vamos lá. 
 ro	Bine, să începem! 
 sv	Okej, nu kör vi. 
 th	เอาละ ทุกคน เริ่มกันเลย | 

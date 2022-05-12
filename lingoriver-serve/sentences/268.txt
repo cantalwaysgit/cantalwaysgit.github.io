@@ -15,8 +15,8 @@ ko	당신한테 조언해주고 | 당신을 안내해주고 |
 nl	...iemand die je adviseert, je begeleidt... 
 no	...en som gir deg råd og veiledning, 
 pl	...kimś, kto ci doradza, udziela porad, 
-pr	... alguém que a aconselha, que a orienta, 
-pr-br	...alguém que a aconselhe, oriente, 
+pt	... alguém que a aconselha, que a orienta, 
+pt-br	...alguém que a aconselhe, oriente, 
 ro	...cineva care te îndrumă, cineva care te povățuiește, 
 sv	Nån som ger dig råd, nån som vägleder dig, 
 th	คนที่ให้คำปรึกษาคุณ แนะนำคุณ | 

@@ -11,8 +11,8 @@ it	Non ce la faccio.
 ko	안 되겠어요 | 
 nl	Ik kan het niet. 
 pl	Nie mogę. 
-pr-br	Não posso fazer isso. Não consigo. 
-pr	Não consigo fazer isto. 
+pt-br	Não posso fazer isso. Não consigo. 
+pt	Não consigo fazer isto. 
 ro	Nu pot s-o fac. 
 sv	Jag kan inte göra det. 
 th	ผมทำไม่ได้ ทำไม่ได้ | 

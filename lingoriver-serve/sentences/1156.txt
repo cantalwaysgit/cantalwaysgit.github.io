@@ -14,8 +14,8 @@ ko	- 코트니한텐 그게 필요해요 | - 내일 알아볼게 |
 nl	Zo doen ze dat. -Dat regel ik morgenochtend voor je. 
 no	-Sånn skal det gjøres. -Jeg kan ordne det for deg i morgen. 
 pl	- Każda gwiazda tak robi. - Jutro się tym zajmę. 
-pr-br	-É assim que tem que ser. -Posso resolver isso amanhã para você. 
-pr	- Uma artista como tu precisa disso. - Posso tratar disso amanhã. 
+pt-br	-É assim que tem que ser. -Posso resolver isso amanhã para você. 
+pt	- Uma artista como tu precisa disso. - Posso tratar disso amanhã. 
 ro	- De asta au nevoie artiștii ca tine. - Voi rezolva mâine-dimineață. 
 sv	-Det är så de gör för nån som du. -Jag tar hand om det imorgon. 
 th	- แบบนั้นเลย | - พรุ่งนี้ผมจะจัดการให้ | 

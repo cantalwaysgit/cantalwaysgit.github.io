@@ -14,8 +14,8 @@ ko	녹음 덱이 또 있어? | 안에 있나? |
 nl	Een ander deck? Zit het hierin? 
 no	Har du et annet opptak? 
 pl	Gdzie jest piosenka? W jakiejś innej konsoli? 
-pr-br	Você tem outro aparelho? Está no painel? 
-pr	Está noutro sítio? Está na mesa? 
+pt-br	Você tem outro aparelho? Está no painel? 
+pt	Está noutro sítio? Está na mesa? 
 ro	Mai ai vreo bandă? E în pupitru? 
 sv	Har du nåt annat band? Finns det i mixerbordet? 
 th	มีเทปอีกอันไหม อยู่ในบอร์ดหรือเปล่า | 

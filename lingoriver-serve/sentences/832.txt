@@ -8,7 +8,7 @@ es-eu	¡Sí!
 es	¡Sí! 
 he	&rlm;‏כן!‏ | 
 ko	오예! | 
-pr	Boa! 
+pt	Boa! 
 ro	Da! 
 sv	Ja! 
 th	เย่! | 

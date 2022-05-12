@@ -13,8 +13,8 @@ it	Papà, che ci fai qui?
 ko	아빠, 웬일이세요? | 
 no	Hva gjør du her? 
 pl	Co ty tu robisz, tato? 
-pr-br	Pai, o que está fazendo aqui? 
-pr	Pai, o que fazes aqui? 
+pt-br	Pai, o que está fazendo aqui? 
+pt	Pai, o que fazes aqui? 
 ro	Ce cauți aici, tată? 
 sv	Pappa, vad gör du här? 
 th	พ่อมาทำอะไรที่นี่ | 

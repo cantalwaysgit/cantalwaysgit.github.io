@@ -13,8 +13,8 @@ it	Già. È vero. Come sta tua madre?
 ko	그래, 그랬지 | 어머니는 어떠셔? | 
 no	Ja, stemmer. Står til med moren din? 
 pl	Jasne. To co tam u mamy? 
-pr-br	Sim, certo. Como está a sua mãe? 
-pr	Sim. Pois foi. Como está a tua mãe? 
+pt-br	Sim, certo. Como está a sua mãe? 
+pt	Sim. Pois foi. Como está a tua mãe? 
 ro	Da. Exact. Ce mai face mama ta? 
 sv	Det stämmer. Hur mår din mamma? 
 th	อ๋อ ใช่ แม่คุณเป็นไง | 

@@ -13,8 +13,8 @@ ko	- 전화 안 했잖아 | - 네가 전화한 줄 알았는데 |
 nl	Nietwaar. -Ik dacht dat jij hem gebeld had. 
 no	-Nei. -Jeg trodde du ringte ham. 
 pl	- Wcale nie. - Myślałem, że ty dzwoniłeś. 
-pr-br	-Não ligou. -Achei que você tinha ligado. 
-pr	- Não ligaste. - Pensava que lhe tinhas ligado. 
+pt-br	-Não ligou. -Achei que você tinha ligado. 
+pt	- Não ligaste. - Pensava que lhe tinhas ligado. 
 ro	- Ba nu. - Am crezut că l-ai sunat tu. 
 ru	-Не звонил. -Я думал, ты звонил. 
 sv	-Nej, det gjorde du inte. -Jag trodde du gjorde det. 

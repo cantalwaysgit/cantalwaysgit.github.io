@@ -13,8 +13,8 @@ ko	거만하고 아는 척하는 | 말쑥한 아이비리그 겁쟁이야 |
 nl	Hij is een pompeuze betweter en een Ivy League-mietje. 
 no	Han er en pompøs, bedrevitende Ivy League-dritt. 
 pl	To wszechwiedząca bufonowata cipa po prestiżowej uczelni. 
-pr-br	Ele é um sabe-tudo que se acha, um puxa-saco maricas da Ivy League. 
-pr	É um cobarde presunçoso e bajulador típico de universidade privada. 
+pt-br	Ele é um sabe-tudo que se acha, um puxa-saco maricas da Ivy League. 
+pt	É um cobarde presunçoso e bajulador típico de universidade privada. 
 ro	E un îngâmfat prețios, un filfizon fandosit de școală din Ivy League. 
 ru	Он напыщенный всезнайка, мелкий сноб из Лиги плюща. 
 sv	Han är en uppblåst besserwisser, en sliskig Ivy League-råtta. 

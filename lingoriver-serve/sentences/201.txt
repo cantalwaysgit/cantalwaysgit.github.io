@@ -14,8 +14,8 @@ ko	- 롤라예요 | - 제시예요 |
 nl	Lola. -Jesse. 
 no	-Lola. -Jesse. 
 pl	- Lola. - Jesse. 
-pr-br	-Lola. -Jesse. 
-pr	- Lola. - Jesse. 
+pt-br	-Lola. -Jesse. 
+pt	- Lola. - Jesse. 
 ro	- Lola. - Jesse. 
 sv	-Lola. -Jesse. 
 th	- โลล่า | - เจสซี่ | 

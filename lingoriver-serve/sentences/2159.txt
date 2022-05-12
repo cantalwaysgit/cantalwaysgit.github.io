@@ -11,8 +11,8 @@ it	Ci sono in questo momento.
 nl	Daar zit ik nu in. 
 no	Jeg er der nå. 
 pl	Właśnie w nim jestem. 
-pr-br	Estou dentro do seu rabo agora. 
-pr	Estou lá neste momento. 
+pt-br	Estou dentro do seu rabo agora. 
+pt	Estou lá neste momento. 
 ro	Sunt acolo chiar acum. 
 sv	Jag är där inne nu. 
 th	อยู่ในนั้นเวลานี้ | 

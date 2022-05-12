@@ -11,8 +11,8 @@ he	&rlm;‏חכה רגע. זה מה שאתה חושב שקרה?‏ |
 it	Aspetta un attimo. È quello che pensi sia successo? 
 ko	잠깐만 | 그렇게 알고 있었던 거야? | 
 pl	Chwileczkę. Myślisz, że tak właśnie było? 
-pr-br	Espere aí. É isso que acha que aconteceu? 
-pr	Espera. Achas que foi isso que aconteceu? 
+pt-br	Espere aí. É isso que acha que aconteceu? 
+pt	Espera. Achas que foi isso que aconteceu? 
 ro	Stai așa! Asta crezi tu că s-a întâmplat? 
 sv	Vänta lite. Är det vad du tror hände? 
 vi	Khoan. Anh nghĩ là thế à? | 

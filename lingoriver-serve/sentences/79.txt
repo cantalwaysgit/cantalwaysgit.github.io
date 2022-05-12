@@ -13,8 +13,8 @@ he	&rlm;‏‏אני לא יודע. | &rlm;‏-עבודה טובה.‏ |
 it	- Non lo so. - Ottimo lavoro. 
 no	-Vet ikke. -Bra jobba. 
 pl	- Nie wiem. - Brawo. 
-pr-br	-Não sei. -Muito bem. 
-pr	- Não sei. - Bom trabalho. 
+pt-br	-Não sei. -Muito bem. 
+pt	- Não sei. - Bom trabalho. 
 ro	- Nu știu. - Bravo! 
 sv	-Jag vet inte. -Snyggt. 
 th	- ไม่รู้ | - ทำได้ดี | 

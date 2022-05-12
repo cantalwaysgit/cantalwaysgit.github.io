@@ -13,8 +13,8 @@ ko	그리고 저 남자는 누구예요? |
 nl	En wie is hij? 
 no	Og hvem er den fyren? 
 pl	I kto to w ogóle jest? 
-pr-br	Certo, e quem é aquele cara? 
-pr	E quem é aquele tipo? 
+pt-br	Certo, e quem é aquele cara? 
+pt	E quem é aquele tipo? 
 ro	Ăla cine e? 
 ru	Так, а вот это кто? 
 sv	Och vem är han? 

@@ -10,8 +10,8 @@ he	&rlm;‏זה נשמע כמו התעללות מינית בילדים.‏ |
 it	Mi sentirei un molestatore. 
 no	Det føles veldig overgriper-aktig. 
 pl	Wyjdę na pedofila. 
-pr-br	Isso parece pedofilia. 
-pr	Isso parece coisa de pedófilo. 
+pt-br	Isso parece pedofilia. 
+pt	Isso parece coisa de pedófilo. 
 ro	Pare molestare de copii. 
 sv	Det känns väldigt barnövergreppigt. 
 th	นั่นเหมือนลวนลามเด็กยังไงไม่รู้ | 

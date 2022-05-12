@@ -9,8 +9,8 @@ es	¡Sí!
 he	&rlm;‏כן!‏ | 
 no	Ja! 
 pl	Tak! 
-pr-br	Sim! 
-pr	Sim! 
+pt-br	Sim! 
+pt	Sim! 
 ro	Da! 
 sv	Visst! 
 th	ได้สิ | 
@@ -35,8 +35,8 @@ it	È la protagonista di  Sound of Music, al Pasadena Playhouse.
 nl	Ze heeft de hoofdrol in  Sound of Music in het Pasadena Playhouse. 
 no	Hun fikk hovedrollen i  Sound of Music på Pasadena Playhouse. 
 pl	Dostała rolę w  Dźwiękach muzyki. Grają to w Pasadena Playhouse. 
-pr-br	Bem, ela será a protagonista de  A Noviça Rebelde  no Teatro de Pasadena. 
-pr	Tem o papel principal em  Música no Coração no Pasadena Playhouse. 
+pt-br	Bem, ela será a protagonista de  A Noviça Rebelde  no Teatro de Pasadena. 
+pt	Tem o papel principal em  Música no Coração no Pasadena Playhouse. 
 ro	A obținut rolul principal din Sunetul muzicii,  la Pasadena Playhouse. 
 sv	Hon fick en huvudroll i  Sound of Music på Pasadena Playhouse. 
 th	เธอได้บทนำในเรื่องมนต์รักเพลงสวรรค์ | ที่พาซาดีนา เพลย์เฮาส์ | 

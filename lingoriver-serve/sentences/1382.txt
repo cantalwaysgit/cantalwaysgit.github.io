@@ -11,8 +11,8 @@ it	Ma le battute sono le stesse.
 ja	すでにオチがバレてる | 
 no	Men sluttpoenget er det samme. 
 pl	Puenty się nie zmieniają. 
-pr-br	Mas a piada é a mesma. As pessoas já ouviram. 
-pr	Mas as piadas são as mesmas. O público já as conhece. 
+pt-br	Mas a piada é a mesma. As pessoas já ouviram. 
+pt	Mas as piadas são as mesmas. O público já as conhece. 
 ro	Dar poantele sunt aceleași. 
 sv	Men poängerna är desamma. Folk har redan hört dem. 
 th	แต่ตรงมุกเด็ดเหมือนเดิม | คนเคยได้ยินกันแล้ว | 

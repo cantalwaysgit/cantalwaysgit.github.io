@@ -13,8 +13,8 @@ it	Cosa? No, l'ha detto lei.
 ko	뭐라고? 코트니한테 들은 건데 | 
 nl	Wat? Nee, dat zei zij. 
 pl	Ona tak powiedziała. 
-pr-br	Quê? Não, ela disse que ele morava. 
-pr	O quê? Não, ela é que disse. 
+pt-br	Quê? Não, ela disse que ele morava. 
+pt	O quê? Não, ela é que disse. 
 ro	Poftim? Nu, ea a zis asta. 
 sv	Vadå? Nej, hon sa det. 
 th	อะไร เปล่า เธอบอกว่าเขาเคยอยู่ | 

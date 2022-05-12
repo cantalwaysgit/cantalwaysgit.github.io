@@ -14,8 +14,8 @@ it	Perché mi hai chiamato?
 ko	무슨 일로 전화한 거야? | 
 no	Hvorfor ringer du? 
 pl	Czemu dzwonisz? 
-pr-br	Por que está ligando? 
-pr	Porque estás a ligar? 
+pt-br	Por que está ligando? 
+pt	Porque estás a ligar? 
 ro	De ce mă suni? 
 sv	Varför ringer du? 
 th	ทำไมถึงโทรมาล่ะ | 

@@ -9,8 +9,8 @@ he	&rlm;‏‏זה נכון... | &rlm;‏-תעזוב אותי!‏ |
 it	- È proprio... - Lasciami! 
 no	-Det stemmer... -Ikke rør meg! 
 pl	Puść mnie! 
-pr-br	-Isso mesmo... -Saia! 
-pr	- Pois é... - Larga! 
+pt-br	-Isso mesmo... -Saia! 
+pt	- Pois é... - Larga! 
 ro	- Așa e... - Lasă-mă! 
 sv	-Okej... -Rör mig inte! 
 th	- ใช่แล้ว... | - ไปห่างๆ | 

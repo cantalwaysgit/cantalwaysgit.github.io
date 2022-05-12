@@ -12,8 +12,8 @@ ko	폴이 보통은 웃기는데 | 오늘 밤은 너무 진부해요 |
 nl	Paul Reiser is meestal grappig, maar vanavond zijn z'n grappen flauw. 
 no	Paul Reiser pleier å være morsom, men kveldens vitser er bare teite. 
 pl	Paul Reiser jest zazwyczaj śmieszny, ale dzisiaj ma nędzne żarty. 
-pr-br	Paul Reiser geralmente é engraçado, mas as piadas dele hoje estão bregas. 
-pr	O Paul Reiser costuma ser engraçado, mas as piadas de hoje já têm barbas. 
+pt-br	Paul Reiser geralmente é engraçado, mas as piadas dele hoje estão bregas. 
+pt	O Paul Reiser costuma ser engraçado, mas as piadas de hoje já têm barbas. 
 ro	Paul Reiser e amuzant de obicei, dar bancurile din seara asta sunt proaste. 
 sv	Paul Reiser brukar vara kul, men hans skämt ikväll är bara töntiga. 
 th	ปกติแล้วพอล ไรเซอร์ตลกดี | แต่มุกคืนนี้เลี่ยนๆ ชอบกล | 

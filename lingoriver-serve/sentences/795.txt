@@ -12,8 +12,8 @@ it	Grazie... Credo.
 ko	고마워요, 맞나? | 
 nl	Bedankt, denk ik. 
 pl	Dzięki. Chyba. 
-pr-br	Obrigada, acho? 
-pr	Obrigada, acho eu. 
+pt-br	Obrigada, acho? 
+pt	Obrigada, acho eu. 
 ro	Mersi, cred? 
 ru	Спасибо... что ли. 
 sv	Tack, tror jag? 

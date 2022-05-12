@@ -8,8 +8,8 @@ he	&rlm;‏אמש חלמתי חלום‏ |
 it	Stanotte ho fatto un sogno 
 ko	어젯밤 꿈을 꿨어 | 
 nl	vannacht had ik 'n droom 
-pr-br	Ontem à noite eu tive um sonho 
-pr	Ontem tive um sonho 
+pt-br	Ontem à noite eu tive um sonho 
+pt	Ontem tive um sonho 
 ro	Aseară am avut un vis 
 sv	Igår hade jag en dröm 
 th	เมื่อคืนฉันฝันถึง | 
@@ -33,8 +33,8 @@ he	&rlm;‏שהיית כאן איתי‏ |
 it	Tu eri qui con me 
 ko	넌 나와 함께 있었지 | 
 nl	en jij was bij me 
-pr-br	Que você estava comigo 
-pr	Que estavas aqui comigo 
+pt-br	Que você estava comigo 
+pt	Que estavas aqui comigo 
 ro	Că erai aici, cu mine 
 sv	Att du var här med mig 
 th	มีคุณมาอยู่กับฉัน | 

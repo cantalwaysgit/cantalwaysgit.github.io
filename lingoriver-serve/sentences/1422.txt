@@ -11,8 +11,8 @@ he	&rlm;‏‏לא, לא על השיער הזה. | &rlm;‏-קורטני...‏ |
 it	- Non con questa acconciatura. - Courtney... 
 no	Nei, ikke på håret ditt. 
 pl	- Nie w tej. - Courtney. 
-pr-br	-Não com esse cabelo. -Courtney... 
-pr	- Não com o teu cabelo. - Courtney... 
+pt-br	-Não com esse cabelo. -Courtney... 
+pt	- Não com o teu cabelo. - Courtney... 
 ro	- Nu cu coafura asta. - Courtney... 
 sv	-Inte på det håret. -Courtney... 
 th	- ไม่ใช่ ไม่ใช่บนผมคุณ | - คอร์ทนี่ย์ | 
@@ -37,8 +37,8 @@ it	- Prometti? - ...andiamo.
 nl	Beloofd? -We moeten gaan. 
 no	-Lover du? -Vi må gå. 
 pl	- Obiecujesz? - Tak. 
-pr-br	-Promete? -...temos que ir. 
-pr	- Prometes? - ... temos de nos ir embora. 
+pt-br	-Promete? -...temos que ir. 
+pt	- Prometes? - ... temos de nos ir embora. 
 ro	- Promiți? - Trebuie să mergem. 
 sv	-Lovar du? -Vi måste gå. 
 th	- สัญญาได้ไหม | - เราต้องไปแล้ว | 
@@ -63,8 +63,8 @@ it	- Promesso. - Ci vediamo.
 nl	Beloofd. -Ik moet je zien. 
 no	-Jeg lover. -Vi må møtes. 
 pl	Musimy się spotkać. 
-pr-br	-Prometo. -Tenho que ver você. 
-pr	- Prometo. - Preciso de te ver. 
+pt-br	-Prometo. -Tenho que ver você. 
+pt	- Prometo. - Preciso de te ver. 
 ro	- Promit. - Trebuie să te văd. 
 sv	-Jag lovar. -Jag måste träffa dig. 
 th	- ผมสัญญา | - ฉันอยากเจอคุณนะ | 

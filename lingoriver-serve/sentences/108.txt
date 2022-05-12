@@ -12,8 +12,8 @@ ko	네 말대로 다들 왔네 |
 nl	Je zei dat ze zouden komen. 
 no	Du sa de ville komme. De kom. 
 pl	Mieli przyjść, więc są. 
-pr-br	Você disse que viriam. E vieram. 
-pr	Disseste que viriam e vieram. 
+pt-br	Você disse que viriam. E vieram. 
+pt	Disseste que viriam e vieram. 
 ro	Ai zis că vor veni. Au venit. 
 sv	Du sa att de skulle komma. 
 th	นายบอกว่าคนจะมาดู ก็มาแล้ว | 

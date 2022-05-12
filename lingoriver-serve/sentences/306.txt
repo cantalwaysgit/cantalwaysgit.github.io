@@ -10,8 +10,8 @@ he	&rlm;‏זה בסדר. אני אוהב את אלסקה.‏ |
 it	Non c'è problema. Adoro questo posto. 
 ko	괜찮아요 | 저 알래스카 좋아해요 | 
 pl	Nie szkodzi. Lubię Alaskę. 
-pr-br	Tudo bem. Eu adoro lá. 
-pr	Não há problema. Eu adoro. 
+pt-br	Tudo bem. Eu adoro lá. 
+pt	Não há problema. Eu adoro. 
 ro	Nu-i nimic. Îmi place acolo. 
 th	ไม่เป็นไร ผมชอบที่นั่น | 
 tr	Sorun değil. Oraya bayılırım. 
@@ -37,8 +37,8 @@ he	&rlm;‏היא יפהפייה.‏ |
 it	È bellissimo. 
 ko	아름답잖아요  | 
 pl	Pięknie tam. 
-pr-br	É lindo. 
-pr	É lindo. 
+pt-br	É lindo. 
+pt	É lindo. 
 ro	E frumos. 
 th	มันสวยมาก | 
 tr	Çok güzel. 

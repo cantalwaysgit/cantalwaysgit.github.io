@@ -13,8 +13,8 @@ ko	아세니오!  | 다시 봐서 반갑네 |
 nl	Hé, Arsenio. Leuk je weer te zien. 
 no	Hei, Arsenio! Fint å se deg igjen. 
 pl	Cześć, Arsenio! Miło cię znowu zobaczyć. 
-pr-br	Ei, Arsenio! Que bom vê-lo novamente. 
-pr	Olá, Arsenio! Prazer em ver-te outra vez, miúdo. 
+pt-br	Ei, Arsenio! Que bom vê-lo novamente. 
+pt	Olá, Arsenio! Prazer em ver-te outra vez, miúdo. 
 ro	Salut, Arsenio! Mă bucur să te revăd, puștiule. 
 ru	Эй, Арсенио! Рад снова тебя видеть. 
 sv	Tjena, Arsenio! Kul att se dig igen. 

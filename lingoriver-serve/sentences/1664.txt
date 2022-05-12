@@ -13,8 +13,8 @@ it	Come fai a prenderti cura di tutti tranne che di te stesso?
 nl	Hoe kun je voor iedereen zorgen en nooit aan jezelf denken? 
 no	Hvordan klarer du å passe på alle andre og aldri tenke på deg selv? 
 pl	Jak ty to robisz? Martwisz się o wszystkich, a o siebie nie. 
-pr-br	Por que cuida de todos e nunca se preocupa consigo mesmo? 
-pr	Como consegues cuidar de toda a gente e nunca te preocupas contigo próprio? 
+pt-br	Por que cuida de todos e nunca se preocupa consigo mesmo? 
+pt	Como consegues cuidar de toda a gente e nunca te preocupas contigo próprio? 
 ro	Cum poți să ai grijă de toată lumea și să nu te gândești la tine niciodată? 
 sv	Hur kan du ta hand om alla andra och aldrig tänka på dig själv? 
 th	คุณดูแลทุกคนได้ไง | โดยไม่เคยเป็นห่วงตัวเอง | 

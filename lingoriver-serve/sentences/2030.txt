@@ -12,8 +12,8 @@ it	Vuole soltanto che tu sia te stessa.
 ko	그냥 네가 | 너 자신이 되길 원한대 | 
 nl	Alleen dat jij jezelf bent. 
 pl	Żebyś była sobą. 
-pr-br	A única coisa que ele quer em troca é que você seja você mesma, 
-pr	Em troca, ele só quer que sejas tu mesma, 
+pt-br	A única coisa que ele quer em troca é que você seja você mesma, 
+pt	Em troca, ele só quer que sejas tu mesma, 
 ro	Nu-și dorește decât să fii tu însăți. 
 ru	Он хочет только, чтобы ты была собой. 
 sv	Allt han vill är att du är du. 

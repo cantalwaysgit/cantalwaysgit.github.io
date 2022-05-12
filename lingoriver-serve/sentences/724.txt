@@ -12,8 +12,8 @@ it	Fatemi capire. Chi ha avuto quell'idea assurda?
 ko	하나만 여쭤볼게요 | 대체 누가 생각한 거예요? | 
 nl	Van wie was dat krankzinnige idee? 
 pl	Muszę zapytać. Kto wpadł na ten szalony pomysł? 
-pr-br	Vou fazer uma pergunta. De quem foi a ideia maluca? 
-pr	Deixa-me perguntar-te: quem teve essa ideia idiota? 
+pt-br	Vou fazer uma pergunta. De quem foi a ideia maluca? 
+pt	Deixa-me perguntar-te: quem teve essa ideia idiota? 
 ro	Sunt curios. Cine a avut ideea asta tâmpită? 
 ru	Можно спросить? Чья эта дикая идея? 
 sv	Får jag fråga en sak? Vems galna idé var det? 

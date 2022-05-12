@@ -10,8 +10,8 @@ it	Hai un manager.
 ko	새 매니저가 생겼구나 | 
 nl	je hebt een nieuwe manager 
 pl	Masz nowego menedżera. 
-pr-br	Você tem um novo empresário 
-pr	Tu tens um empresário 
+pt-br	Você tem um novo empresário 
+pt	Tu tens um empresário 
 ro	Te-ai ales cu un impresar nou 
 sv	Du har en ny manager 
 th	ลูกมีผู้จัดการคนใหม่แล้ว | 

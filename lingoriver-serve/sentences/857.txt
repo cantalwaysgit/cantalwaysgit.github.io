@@ -15,8 +15,8 @@ ko	그 노래는 언제까지 | 반복해서 들을 거야? |
 nl	Hoe vaak ga je naar dat nummer luisteren? 
 no	Hvor mange ganger skal du høre på den sangen? 
 pl	Ile razy będziesz słuchał tej piosenki? 
-pr-br	Quantas vezes vai ouvir aquela música? 
-pr	Quantas vezes vais ouvir essa canção? 
+pt-br	Quantas vezes vai ouvir aquela música? 
+pt	Quantas vezes vais ouvir essa canção? 
 ro	De câte ori o să mai asculți cântecul ăla? 
 sv	Hur många gånger ska du lyssna på den låten? 
 th	คุณจะฟังเพลงเดียวนั่นกี่ครั้ง | 

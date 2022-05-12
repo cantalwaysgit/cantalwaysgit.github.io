@@ -13,8 +13,8 @@ ko	힘든 시기였어요 |
 nl	Een zware tijd. 
 no	En vanskelig tid. 
 pl	Dramat. 
-pr-br	Foi uma fase difícil. 
-pr	Foi um momento difícil. 
+pt-br	Foi uma fase difícil. 
+pt	Foi um momento difícil. 
 ro	Vremuri grele! 
 ru	Ему было тяжело. 
 sv	Det var en svår tid. 

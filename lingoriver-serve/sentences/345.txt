@@ -3,7 +3,7 @@ ko	참, 맞다, 죄송해요 | 칼로 긋지 말아 주세요 |
 sv	Det är sant. Förlåt mig. Knivhugg mig inte, tack. 
 ja	悪気はなかった　刺さないで | 
 da	Nej, det er rigtigt. Beklager. Stik mig ikke ned. 
-pr-br	Certo. Sinto muito. Por favor, não me apunhale. 
+pt-br	Certo. Sinto muito. Por favor, não me apunhale. 
 vi	Phải rồi. Tôi xin lỗi. Đừng khử tôi. | 
 el	Με συγχωρείς.  Σε παρακαλώ, μη με μαχαιρώσεις. 
 pl	Fakt. Niech mi pan nie wsadza kosy. 
@@ -18,7 +18,7 @@ id	Benar. Maaf. Tolong jangan tusuk aku.
 it	Mi dispiace. Non mi accoltelli, la prego. 
 nl	Dat is waar. Sorry. Steek me niet neer. 
 no	Det stemmer. Beklager. Ikke knivstikk meg. 
-pr	Pois é. Peço desculpa. Não me esfaqueie, por favor. 
+pt	Pois é. Peço desculpa. Não me esfaqueie, por favor. 
 ro	Așa e. Vă cer scuze. Vă rog să nu mă tăiați. 
 th	ใช่สิ ผมขอโทษ กรุณาอย่าปาดคอผม | 
 tr	Doğru. Özür dilerim. Lütfen beni şişlemeyin. 

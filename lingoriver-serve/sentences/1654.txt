@@ -14,8 +14,8 @@ it	Che ne dici, campione? Sono fiero di te.
 nl	Ik ben trots op je. 
 no	Hva sier du, mester? Stolt av deg. 
 pl	Jestem z ciebie dumny, mistrzu. 
-pr-br	O que diz, campeão? Estou orgulhoso de você. 
-pr	O que dizes, campeão? Estou orgulhoso de ti. 
+pt-br	O que diz, campeão? Estou orgulhoso de você. 
+pt	O que dizes, campeão? Estou orgulhoso de ti. 
 ro	Ce zici, campionule? Sunt mândru de tine. 
 th	ว่าไง แชมป์ ภูมิใจในตัวนายนะ | 
 tr	Ne diyorsun şampiyon? Seninle gurur duyuyorum. 

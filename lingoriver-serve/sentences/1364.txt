@@ -5,8 +5,8 @@ en	-[man 1] Cindy! | -[man 2] Cindy! |
 es-eu	- ¡Cindy! - ¡Cindy! 
 he	&rlm;‏‏סינדי! | &rlm;‏-סינדי!‏ | 
 no	-Cindy! -Cindy! 
-pr-br	-Cindy! -Cindy! 
-pr	- Cindy! - Cindy! 
+pt-br	-Cindy! -Cindy! 
+pt	- Cindy! - Cindy! 
 ro	- Cindy! - Cindy! 
 th	- ซินดี้ | - ซินดี้ | 
 tr	Cindy! 

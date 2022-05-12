@@ -13,8 +13,8 @@ it	Cerchiamo di essere concentrati. Va bene?
 ko	이번에는 제대로 하자 | 알았지? | 
 nl	We letten goed op, oké? 
 pl	A my będziemy bardziej uważać. 
-pr-br	Vamos ficar atentos desta vez. Está bem? 
-pr	Nós vamos estar atentos. Está bem? 
+pt-br	Vamos ficar atentos desta vez. Está bem? 
+pt	Nós vamos estar atentos. Está bem? 
 ro	Noi o să fim atenți aici. Bine? 
 sv	Vi ska hålla ögonen på vägen. 
 th	เราจะระวังให้ทางนี้ โอเคไหม | 

@@ -14,8 +14,8 @@ he	&rlm;‏יש לי הודעה.‏ |
 it	Il segnale. 
 no	Det piper. 
 pl	Ktoś do mnie napiera. 
-pr-br	Uma mensagem. 
-pr	Estão a dar-me um toque. 
+pt-br	Uma mensagem. 
+pt	Estão a dar-me um toque. 
 ro	Am bipuri la șold. 
 sv	Nån söker mig. 
 tr	Çağrı geldi. 

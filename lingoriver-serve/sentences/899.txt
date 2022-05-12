@@ -12,8 +12,8 @@ it	Ti rendi conto di quanto sia stupido?
 ko	그게 얼마나 | 어이없는 소린지 알아? | 
 nl	Weet je wel hoe dom dat klinkt? 
 pl	To głupota. 
-pr-br	Vê como isso parece idiota? 
-pr	Tens ideia do idiota que isso é? 
+pt-br	Vê como isso parece idiota? 
+pt	Tens ideia do idiota que isso é? 
 ro	Știi cât de idiot sună asta? 
 sv	Vet du hur korkat det låter? 
 tr	Bu ne kadar aptalca, haberin var mı? 

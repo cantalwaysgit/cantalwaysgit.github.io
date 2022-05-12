@@ -12,8 +12,8 @@ fr	J'en ai même six. J'ai plein de Blancs dans ma vie.
 he	&rlm;‏‏יש לי שישה סוכנים. | &rlm;‏יש לי הרבה לבנים בחיים שלי.‏ | 
 it	Ne ho sei. Sono circondato da bianchi. 
 ko	에이전트가 여섯이나 있어요 | 이미 주변에 백인은 충분해요 | 
-pr-br	Tenho seis agentes. Tem muitos brancos na minha vida. 
-pr	Tenho seis agentes. É muita malta branca na minha vida. 
+pt-br	Tenho seis agentes. Tem muitos brancos na minha vida. 
+pt	Tenho seis agentes. É muita malta branca na minha vida. 
 ro	De fapt, am șase agenți. Sunt o mulțime de albi în viața mea. 
 th	มีตัวแทนหกคน ชีวิตผมมีคนขาวเพียบ | 
 tr	Hatta altı temsilci. Hayatımda yeterince beyaz var. 

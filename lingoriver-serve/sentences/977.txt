@@ -8,8 +8,8 @@ fi	Carson?
 fr	Carson ? 
 he	&rlm;‏קרסון?‏ | 
 it	Carson? 
-pr-br	Carson? 
-pr	O Carson? 
+pt-br	Carson? 
+pt	O Carson? 
 sv	Carson? 
 zh-long	卡森？ 
 zh-short	卡尔森吗？ 

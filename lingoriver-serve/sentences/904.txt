@@ -9,8 +9,8 @@ he	&rlm;‏באיזו תחנה זה?‏ |
 it	Che stazione è? 
 ko	어느 방송국이에요? | 
 nl	Welke zender is dat? 
-pr-br	Qual estação está? 
-pr	Qual é a estação? 
+pt-br	Qual estação está? 
+pt	Qual é a estação? 
 sv	Vilken station är det? 
 tr	Hangi kanal? 
 vi	Đài nào vậy? | 

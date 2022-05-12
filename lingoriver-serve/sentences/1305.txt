@@ -6,8 +6,8 @@ he	&rlm;‏לבבות מלאים תשוקה‏ |
 it	Con il cuore pieno di desiderio 
 ko	욕망으로 가득한 마음 | 
 nl	een hart vol verlangen 
-pr-br	Corações cheios de desejo 
-pr	Coração cheio de desejo 
+pt-br	Corações cheios de desejo 
+pt	Coração cheio de desejo 
 ro	Inima plină de dorință 
 th	หัวใจเปี่ยมด้วยแรงปรารถนา | 
 tr	Yürekler dolmuş arzuyla 

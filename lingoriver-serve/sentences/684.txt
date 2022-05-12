@@ -13,8 +13,8 @@ it	Premilo! Sta girando!
 nl	Druk erop. Hij draait. 
 no	Trykk! Det snurrer! 
 pl	Naciskaj! Teraz się kręci! 
-pr-br	Aperte! Está rodando! 
-pr	Carrega! Está a girar! 
+pt-br	Aperte! Está rodando! 
+pt	Carrega! Está a girar! 
 ro	Apasă-l! Se învârtește! 
 sv	Tryck på den! Den snurrar! 
 th	กดสิ! มันหมุนแล้ว | 

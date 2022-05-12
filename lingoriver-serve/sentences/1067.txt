@@ -15,8 +15,8 @@ it	- Subito! Fuori! - Me ne vado.
 nl	Wegwezen. -Ik ga. 
 no	-Nå! Ut! -Jeg skal gå. 
 pl	- Wynocha! - Idę. 
-pr-br	-Agora! Fora! -Vou embora. 
-pr	- Já! Fora! - Eu vou-me embora. 
+pt-br	-Agora! Fora! -Vou embora. 
+pt	- Já! Fora! - Eu vou-me embora. 
 ro	- Acum! Afară! - O să plec. 
 sv	-Nu! Ut! -Jag ska gå. 
 th	- เดี๋ยวนี้ ออกไป ไป! | - ผมจะไปแล้ว | 

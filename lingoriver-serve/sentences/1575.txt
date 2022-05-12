@@ -1,6 +1,6 @@
 ru	Это был ломаный удар. Да. 
 en	Yeah, I was playing a dogleg right. | 
-pr-br	-Eu estava fazendo uma manobra. -Uma manobra? 
+pt-br	-Eu estava fazendo uma manobra. -Uma manobra? 
 pl	- To była nagła zmiana toru lotu. - Zmiana? 
 ar	&rlm;‏‏- كنت ألعب ضربة مائلة نحو اليمين. | &rlm;‏- ضربة مائلة؟‏ | 
 da	-Jeg slog en dogleg til højre. -En dogleg? 
@@ -13,7 +13,7 @@ he	&rlm;‏‏חבטתי רגל של כלב ימינה. כן. | &rlm;‏-רגל 
 it	- È una buca a gomito verso destra. - Buca a gomito? 
 nl	Ik speelde een dogleg. -Een dogleg? 
 no	-Jeg tok en hundebein høyre. -Hundebein? 
-pr	- Estava a fazer uma jogada curva. - Uma jogada curva? 
+pt	- Estava a fazer uma jogada curva. - Uma jogada curva? 
 ro	- Am țintit spre gaura în unghi abrupt. - Abrupt? 
 sv	-Jag spelade ett dogleg-höger. -Ett dogleg? 
 th	- ผมเล่นให้ไปตามทางที่เลี้ยวขวา | - ทางที่เลี้ยวขวาเหรอ | 
@@ -28,7 +28,7 @@ en	-A dogleg? | -Right. |
 ja	難コース？ | 
 id	Dogleg ? 
 ru	-Ломаный? -Чтобы обогнуть деревья, я так и задумал. 
-pr-br	Tem que dobrar ao redor das árvores. 
+pt-br	Tem que dobrar ao redor das árvores. 
 ja	木をよけて曲げる練習だよ | 
 id	Benar. Harus dibelokkan di pohon. 
 pl	Zawinąłem piłkę za drzewami. 
@@ -44,7 +44,7 @@ he	&rlm;צריך לסובב אותו מסביב לעצים.‏ | &rlm;זה מה 
 it	La pallina deve evitare gli alberi. 
 nl	Hij moet afbuigen rond de bomen. 
 no	Du må svinge den rundt trærne. 
-pr	Tens de contornar as árvores. Estava a fazer isso. 
+pt	Tens de contornar as árvores. Estava a fazer isso. 
 ro	Trebuie s-o dai după copaci. 
 sv	Man måste skruva den runt träden. 
 th	ต้องให้เลี้ยวต้นไม้ไป | 

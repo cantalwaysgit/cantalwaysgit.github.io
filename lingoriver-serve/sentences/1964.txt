@@ -10,8 +10,8 @@ he	&rlm;‏אתה יודע מה? באמת מצחיק, וירד אל.‏ |
 it	Ah, sì? Molto divertente, Weird Al. 
 ko	진짜 웃기네요 | 기괴한 알 씨 | 
 pl	Bardzo zabawne, Weird Al. 
-pr-br	Quer saber? Muito engraçado, Weird Al. 
-pr	Sabes o que mais? Tens muita piada, Weird Al. 
+pt-br	Quer saber? Muito engraçado, Weird Al. 
+pt	Sabes o que mais? Tens muita piada, Weird Al. 
 ro	Știi ce? Foarte amuzant, Weird Al! 
 sv	Vet du vad? Kul, Weird Al. 
 th	รู้อะไรไหม อัลจอมเพี้ยน | 

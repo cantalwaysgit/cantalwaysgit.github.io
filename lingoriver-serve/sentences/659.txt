@@ -14,8 +14,8 @@ ko	그래야죠 |
 nl	Doe ik. 
 no	Greit. 
 pl	Jasne. 
-pr-br	Pode deixar. 
-pr	Claro. 
+pt-br	Pode deixar. 
+pt	Claro. 
 ro	S-a făcut! 
 sv	Jag fattar. 
 tr	Tamamdır. 

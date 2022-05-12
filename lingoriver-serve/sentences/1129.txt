@@ -13,8 +13,8 @@ it	ricevetti una chiamata simile per un invasore notturno.
 nl	...kreeg ik net zo'n telefoontje over een nachtelijke indringer. 
 no	fikk jeg en lignende telefon om en inntrenger en sen kveld. 
 pl	też do mnie dzwoniono w sprawie takich nocnych gości. 
-pr-br	recebi uma chamada parecida por causa de um invasor na madrugada. 
-pr	recebi uma chamada parecida sobre um intruso durante a noite. 
+pt-br	recebi uma chamada parecida por causa de um invasor na madrugada. 
+pt	recebi uma chamada parecida sobre um intruso durante a noite. 
 ro	am primit un telefon asemănător în legătură cu un delincvent nocturn. 
 sv	fick jag ett liknande samtal om en nattlig inkräktare. 
 th	ผมได้รับโทรศัพท์คล้ายกัน | เกี่ยวกับผู้บุกรุกกลางดึก | 

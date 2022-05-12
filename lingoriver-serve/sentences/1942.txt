@@ -14,8 +14,8 @@ ko	고마워, 같이 못 하게 돼서 | 정말 안타깝게 생각해 |
 nl	Dank je. Maar het spijt me dat we het niet samen konden doen. 
 no	Takk. Jeg er bare lei for at vi ikke fikk gjøre det sammen. 
 pl	Dziękuję. Żałuję tylko, że nie osiągnęliśmy go razem. 
-pr-br	Obrigado. Sinto muito não termos trabalhado juntos. 
-pr	Obrigado. Lamento muito não o termos podido fazer juntos. 
+pt-br	Obrigado. Sinto muito não termos trabalhado juntos. 
+pt	Obrigado. Lamento muito não o termos podido fazer juntos. 
 ro	Mersi. Îmi pare rău doar că nu le-am putut face împreună. 
 sv	Tack. Jag är ledsen att vi inte kunde göra det tillsammans. 
 th	ขอบคุณ ฉันแค่เสียใจ | ที่เราร่วมงานกันไม่ได้ | 

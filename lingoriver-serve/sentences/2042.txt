@@ -16,8 +16,8 @@ he	&rlm;‏תשמור את הנשיקה. באתי הנה בשביל חתונה.�
 it	Risparmiatevi il bacio. Sono venuto fin qui per un matrimonio. 
 nl	Bewaar die kus voor straks. Ik kwam voor een bruiloft. 
 no	Spar det kysset. Jeg kom hit for et bryllup. 
-pr-br	Poupem o beijo. Vim aqui para um casamento. 
-pr	Guardem o beijo. Eu vim cá para um casamento. 
+pt-br	Poupem o beijo. Vim aqui para um casamento. 
+pt	Guardem o beijo. Eu vim cá para um casamento. 
 ro	Mai târziu cu sărutul! Am venit tocmai până aici pentru o nuntă. 
 sv	Spara kyssen. Jag är här för ett bröllop. 
 tr	Öpücüğü sonraya saklayın. Buraya bir düğün için geldim. 

@@ -16,8 +16,8 @@ it	Fermo!
 ko	중지! | 
 nl	Pauze. 
 no	Bryt! 
-pr-br	Tempo! 
-pr	Parem! 
+pt-br	Tempo! 
+pt	Parem! 
 sv	Bryt! 
 tr	Ayrılın! 
 vi	Dừng lại! | 

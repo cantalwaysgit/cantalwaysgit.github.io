@@ -16,8 +16,8 @@ he	&rlm;‏לילה טוב, כולם. לילה טוב.‏ |
 it	Buonanotte a tutti. 
 nl	Welterusten, allemaal. 
 pl	Dobranoc wszystkim. Dobranoc. 
-pr	Boa noite a todos. 
-pr-br	Boa noite, pessoal. 
+pt	Boa noite a todos. 
+pt-br	Boa noite, pessoal. 
 ro	Noapte bună tuturor! 
 sv	God natt, allihop. 
 tr	İyi geceler. İyi geceler millet. İyi geceler. 

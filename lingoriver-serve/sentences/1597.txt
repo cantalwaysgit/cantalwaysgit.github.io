@@ -12,7 +12,7 @@ th	พวกเขาอยากให้ฉันพากย์เสีย�
 vi	Họ muốn tôi | lồng tiếng trong phim về đồ chơi. | 
 zh-long	他們要我幫電影裡的玩具配音 
 zh-short	他们想让我 在一部讲玩具的电影里配音 
-pr	Querem que faça uma voz num filme sobre brinquedos. 
+pt	Querem que faça uma voz num filme sobre brinquedos. 
 da	De vil have, jeg lægger stemme til en film om legetøj. 
 es-eu	Quieren que haga una voz en una película sobre juguetes. 
 fi	Minut halutaan ääninäyttelijäksi leluista kertovaan elokuvaan. 
@@ -22,7 +22,7 @@ ro	Vor să fiu vocea unui personaj dintr-un film nou, cu jucării.
 sv	De vill att jag gör en röst i en film om leksaker. 
 tr	Oyuncaklarla ilgili bir filmde seslendirme yapmamı istiyorlar. 
 fr	Ils veulent ma voix pour un film sur des jouets. 
-pr-br	Querem a minha voz para um desenho sobre brinquedos. 
+pt-br	Querem a minha voz para um desenho sobre brinquedos. 
 id	Mereka mau aku mengisi suara untuk film animasi tentang mainan. 
 en	in some animated movie | about a bunch of toys. | 
 

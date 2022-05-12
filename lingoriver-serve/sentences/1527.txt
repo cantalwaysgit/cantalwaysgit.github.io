@@ -14,8 +14,8 @@ it	Lui era tre fidanzati fa.
 ko	벌써 그 이후로 | 세 명을 더 사귀었어요 | 
 no	Det var for tre kjærester siden. 
 pl	On był trzech chłopaków temu. 
-pr-br	Isso foi há três namorados. 
-pr	Já tive três namorados depois desse. 
+pt-br	Isso foi há três namorados. 
+pt	Já tive três namorados depois desse. 
 ro	El a fost acum trei iubiți. 
 sv	Det var för tre pojkvänner sen. 
 th	นั่นมันแฟนสามคนที่แล้ว | 

@@ -12,8 +12,8 @@ it	Allora perché mi tratti come se lo fossi?
 nl	Waarom behandel je me dan zo? 
 no	Så hvorfor behandler du meg som en? 
 pl	To czemu mnie tak traktujesz? 
-pr-br	Então por que está me tratando como um? 
-pr	Então, porque me tratas como se fosse? 
+pt-br	Então por que está me tratando como um? 
+pt	Então, porque me tratas como se fosse? 
 ro	Atunci, de ce te porți așa cu mine? 
 sv	Varför behandlar du mig som en då? 
 th	งั้นทำไมถึงทำกับผมแบบนี้ล่ะ | 

@@ -10,8 +10,8 @@ he	&rlm;‏בבקשה תחזרי לבית. אני מבקש יפה.‏ |
 it	Ti prego di tornare in casa. Te lo chiedo gentilmente. 
 ko	다시 집으로 들어와 | 상냥하게 부탁하는 거야 | 
 nl	Kom mee naar binnen. Ik vraag het aardig. 
-pr-br	Por favor, volte para a casa. Estou pedindo com educação. 
-pr	Por favor, volta para dentro de casa. Estou a pedir com jeitinho. 
+pt-br	Por favor, volte para a casa. Estou pedindo com educação. 
+pt	Por favor, volta para dentro de casa. Estou a pedir com jeitinho. 
 ro	Te rog să te întorci în casă. Te rog frumos. 
 sv	Snälla, gå in i huset. Jag ber dig snällt. 
 tr	Lütfen eve dön. Rica ediyorum. 

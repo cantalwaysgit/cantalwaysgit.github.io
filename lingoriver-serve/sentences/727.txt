@@ -12,8 +12,8 @@ it	Devi essere proprio un gran coglione
 nl	Wat een eikel moet je zijn als je zegt: 
 no	Hvor stor kødd må du være for å si: 
 pl	Jakim trzeba być debilem, żeby powiedzieć: 
-pr-br	Só um puta idiota diria: 
-pr	É preciso ser muito idiota para dizer: 
+pt-br	Só um puta idiota diria: 
+pt	É preciso ser muito idiota para dizer: 
 ro	Cât de idiot trebuie să fii ca să spui: 
 sv	Hur stor skitstövel måste man vara för att säga: 
 tr	İnsan nasıl bir hıyar olmalı ki, 

@@ -13,8 +13,8 @@ it	Per la mia dieta vanno bene. Prenderò un wurstel senza pane.
 nl	Allebei goed voor het Atkins. Ik neem een knakworst zonder broodje. 
 no	Alt er greit for Atkins. Kan ta en frankfurter uten brød. 
 pl	Byle przestrzegać Atkinsa. Zjem frankfurterkę bez bułki. 
-pr-br	Os dois são bons para a dieta Atkins. Posso comer um cachorro-quente sem pão. 
-pr	Qualquer um serve para a dieta Atkins. Posso comer salsicha sem o pão. 
+pt-br	Os dois são bons para a dieta Atkins. Posso comer um cachorro-quente sem pão. 
+pt	Qualquer um serve para a dieta Atkins. Posso comer salsicha sem o pão. 
 ro	Ambele sunt bune pentru dieta Atkins. Pot lua un crenvurst fără chiflă. 
 sv	Det passar Atkinsdieten. Jag kan ta en korv, inget bröd. 
 th	มันดีกับสูตรแอตคินส์หมด | ฉันสั่งไส้กรอกไม่เอาขนมปังได้ | 

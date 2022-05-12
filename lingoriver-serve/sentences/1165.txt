@@ -10,8 +10,8 @@ he	&rlm;‏אתה רוצה שהיא תתחרה בעצמה?‏ |
 it	Non deve farsi concorrenza da sola. 
 nl	Wil je dat ze concurreert met zichzelf? 
 pl	Sama sobie ma robić konkurencję? 
-pr-br	Quer vê-la competir com ela mesma? 
-pr	Queres que ela compita contra si própria? 
+pt-br	Quer vê-la competir com ela mesma? 
+pt	Queres que ela compita contra si própria? 
 ro	Nu vrei să concureze cu ea însăși, nu? 
 sv	Varför konkurrera med sig själv? 
 th	อยากให้เธอแข่งกับตัวเองเหรอ | 

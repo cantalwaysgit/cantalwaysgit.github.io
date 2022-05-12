@@ -14,8 +14,8 @@ it	Non potevo certo lasciarti in reparto con la gente normale.
 nl	Ik zou je niet op de gewone afdeling laten liggen. 
 no	Jeg ville ikke la deg ligge på avdelingen for vanlige folk. 
 pl	Nie mogłam ci pozwolić leżeć na szpitalnym oddziale. 
-pr-br	Eu não ia deixá-lo como um maloqueiro na ala pública. 
-pr	Não te ia deixar ficar numa enfermaria para gente normal. 
+pt-br	Eu não ia deixá-lo como um maloqueiro na ala pública. 
+pt	Não te ia deixar ficar numa enfermaria para gente normal. 
 ro	Doar nu era să te las să te chinuiești într-un salon obișnuit! 
 sv	Jag tänkte inte låta dig ligga på en allmän sal. 
 th	ฉันไม่ปล่อยให้คุณไปนอนห้องรวม | กับคนอื่นหรอกน่า | 

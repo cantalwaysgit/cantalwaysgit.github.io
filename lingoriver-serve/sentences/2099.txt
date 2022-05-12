@@ -12,8 +12,8 @@ ko	더 나쁠 수도 있어요 | 뭘 먹으면 어쩌려고요 |
 nl	Het kan erger. Hij zou kunnen eten. 
 no	Det kunne vært verre. Han kunne ha spist. 
 pl	Mogło być gorzej. Mógł jeść. 
-pr-br	Poderia ter sido pior. Ele poderia estar comendo. 
-pr	Podia ser pior. Ele podia estar a comer. 
+pt-br	Poderia ter sido pior. Ele poderia estar comendo. 
+pt	Podia ser pior. Ele podia estar a comer. 
 ro	Putea fi mai rău. Putea să mănânce. 
 sv	Det kunde vara värre. Han kunde äta. 
 th	นี่ อาจจะแย่ไปกว่านี้ได้ | ถ้าให้เขากิน | 

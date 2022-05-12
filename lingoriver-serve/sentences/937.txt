@@ -11,8 +11,8 @@ it	Dev'essere scappato dagli studi della Paramount.
 nl	Die was vast ontsnapt uit de Paramount-studio. 
 no	Den må ha rømt fra Paramount. 
 pl	Pewnie uciekł z wytwórni Paramount. 
-pr-br	Deve ter fugido do estúdio da Paramount. 
-pr	Deve ter fugido do terreno da Paramount. 
+pt-br	Deve ter fugido do estúdio da Paramount. 
+pt	Deve ter fugido do terreno da Paramount. 
 ro	Cred că a scăpat de pe platourile Paramount. 
 sv	Ja, den måste ha rymt från Paramount. 
 th	ใช่ คงหนีออกมาจากโรงถ่ายพาราเมาต์ | 

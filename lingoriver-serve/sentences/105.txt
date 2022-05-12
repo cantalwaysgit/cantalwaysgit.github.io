@@ -14,8 +14,8 @@ it	Che c'è da ridere?
 ko	왜 웃어요? | 
 nl	Waarom lach je? 
 pl	Czemu się śmiejesz? 
-pr-br	Por que está rindo? 
-pr	Estás a rir de quê? 
+pt-br	Por que está rindo? 
+pt	Estás a rir de quê? 
 ro	De ce râzi? 
 th	ทำไมถึงหัวเราะล่ะ | 
 tr	Ne gülüyorsun? 
@@ -40,8 +40,8 @@ it	Sei buffo. Mi fai ridere.
 ko	네가 재미있어서 | 날 웃기니까 | 
 nl	Je bent grappig. Ik moet om je lachen. 
 pl	Bo jesteś zabawny. 
-pr-br	Você é engraçado, me faz rir. 
-pr	Tens piada. Fazes-me rir. 
+pt-br	Você é engraçado, me faz rir. 
+pt	Tens piada. Fazes-me rir. 
 ro	Ești amuzant. Mă faci să râd. 
 th	ก็มันขำดี นายทำให้หัวเราะ | 
 tr	Komiksin. Beni güldürüyorsun. 

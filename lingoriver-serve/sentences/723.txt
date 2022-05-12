@@ -11,8 +11,8 @@ it	Certo, consideralo sparito.
 ko	그래, 그렇게 해야지 | 
 nl	Ja, die gaat eruit. 
 pl	Jasne, nie ma sprawy. 
-pr-br	Sim, considere eliminado. 
-pr	Sim. Vai sair de certeza. 
+pt-br	Sim, considere eliminado. 
+pt	Sim. Vai sair de certeza. 
 ro	Da, e ca și rezolvat. 
 ru	Да-да. Считайте, его уже нет. 
 sv	Ja, visst. Den ska bort. 

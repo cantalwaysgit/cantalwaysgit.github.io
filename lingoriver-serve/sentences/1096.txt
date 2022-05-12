@@ -13,8 +13,8 @@ he	&rlm;‏‏הדלתות שלך נעולות? | &rlm;‏-כן.‏ |
 it	- Ti sei chiusa dentro? - Sì. 
 no	-Er dørene låst? -Ja. 
 pl	- Zamknęłaś drzwi? - Tak. 
-pr-br	-As portas estão trancadas? -Sim. 
-pr	- Tens as portas trancadas? - Sim. 
+pt-br	-As portas estão trancadas? -Sim. 
+pt	- Tens as portas trancadas? - Sim. 
 ro	- Ușile sunt încuiate? - Da. 
 sv	-Är alla dörrar låsta? -Ja. 
 th	- ล็อกประตูหรือเปล่า | - ล็อกแล้ว | 

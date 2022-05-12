@@ -2,7 +2,7 @@ ja	Ｌ･ワッサーマンの隣人と | 話してる |
 id	Maaf, aku sedang bicara dengan tetangga Lew Wasserman. 
 ru	Простите, я говорю с соседом Лью Вассермана. 
 en	Excuse me, I am talking | to Lew Wasserman's neighbor right now. | 
-pr-br	Estou falando com o vizinho do Lew Wasserman. 
+pt-br	Estou falando com o vizinho do Lew Wasserman. 
 ar	&rlm;‏معذرة، أتحدث مع جار "لو واسرمان".‏ | 
 da	Undskyld, jeg taler med Lew Wassermans nabo. 
 es	Disculpe, estoy hablando con el vecino de Lew Wasserman. 
@@ -15,7 +15,7 @@ ko	이봐요, 지금 루 와서먼의 | 이웃과 통화 중이에요 |
 nl	Sorry, ik praat met Lew Wassermans buurman. 
 no	Unnskyld, jeg snakker med naboen til Lew Wasserman. 
 pl	Rozmawiam z sąsiadem Lew Wassermana. 
-pr	Desculpe, estou a falar com o vizinho do Lew Wasserman. 
+pt	Desculpe, estou a falar com o vizinho do Lew Wasserman. 
 ro	Pardon! Vorbesc cu vecinul lui Lew Wasserman. 
 sv	Ursäkta mig, jag pratar med Lew Wassermans granne. 
 tr	Pardon, Lew Wasserman'ın komşusuyla konuşuyorum da. 

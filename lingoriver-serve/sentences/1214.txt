@@ -11,8 +11,8 @@ it	C'ero anch'io. L'ho visto.
 nl	Ik was erbij. Ik heb het gezien. 
 no	Jeg var der. Jeg så det. 
 pl	Byłem tam. Widziałem to. 
-pr-br	Eu estava lá. Eu vi. 
-pr	Eu estava lá e vi. 
+pt-br	Eu estava lá. Eu vi. 
+pt	Eu estava lá e vi. 
 ro	Eram acolo. Am văzut. 
 sv	Jag var där. Jag såg det. 
 th	ผมอยู่ที่นั่น ผมเห็น | 

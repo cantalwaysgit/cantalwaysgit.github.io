@@ -15,8 +15,8 @@ ko	제 고객은 세상에서 | 가장 무모한 공중 곡예사예요 |
 nl	Mijn cliënt is de beste trapeze-artiest ter wereld. 
 no	Sir, klienten min er verdens beste på dette. Takk. 
 pl	Mój klient jest najlepszy na świecie w takich popisach kaskaderskich. 
-pr-br	Senhor, meu cliente é o melhor trapezista intrépido do mundo. Obrigado. 
-pr	O meu cliente é o trapezista mais temerário do mundo. Obrigado. 
+pt-br	Senhor, meu cliente é o melhor trapezista intrépido do mundo. Obrigado. 
+pt	O meu cliente é o trapezista mais temerário do mundo. Obrigado. 
 ro	Domnule, clientul meu e cel mai curajos artist al trapezului. Mersi. 
 sv	Min klient är världens mest våghalsiga trapetskonstnär. Så att du vet. 
 th	คนของผมเป็นศิลปินกายกรรมชิงช้าสูง | ที่กล้าเสี่ยงที่สุดในโลก ขอบคุณ | 

@@ -12,8 +12,8 @@ it	L'ho pagato 8000 dollari in Côte de Nuits.
 nl	Ik heb er $8000 voor betaald op het Côte de Nuits. 
 no	Jeg betalte 8 000 for den på Côte de Nuits. 
 pl	W Côte de Nuits dałem za nie osiem tysięcy. 
-pr-br	Paguei oito mil nele em Côte de Nuits. 
-pr	Paguei oito mil dólares por ele em Côte de Nuits. 
+pt-br	Paguei oito mil nele em Côte de Nuits. 
+pt	Paguei oito mil dólares por ele em Côte de Nuits. 
 ro	Am plătit opt mii de dolari pe el la Côte de Nuits. 
 th	ซื้อมาแปดพันเหรียญที่โคตเดนุต์ส | 
 tr	Côte de Nuits'de ona sekiz bin dolar saydım. 

@@ -10,8 +10,8 @@ he	&rlm;‏זה יהיה הגיוני אם אני אהרוג אותך, ארסי�
 it	Sarebbe logico se ti uccidessi, Arsenio. 
 ko	내가 널 죽여도 | 이해가 될 거야, 아세니오 | 
 no	Det gir mening om jeg dreper deg, Arsenio. 
-pr-br	Fará sentido se eu matar você, Arsenio. 
-pr	Faz sentido que eu te mate, Arsenio. 
+pt-br	Fará sentido se eu matar você, Arsenio. 
+pt	Faz sentido que eu te mate, Arsenio. 
 ro	E de înțeles dacă te omor, Arsenio. 
 sv	Fatta om jag dödar dig. 
 th	มันมีเหตุผลถ้าฉันฆ่าแก อาเซนนิโอ | 

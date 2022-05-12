@@ -11,8 +11,8 @@ ko	롤러코스터 좋아하니? |
 nl	Houden jullie van achtbanen? 
 no	Liker dere berg-og-dal-baner? 
 pl	Lubicie kolejki górskie? 
-pr-br	Vocês gostam de montanhas-russas? 
-pr	Vocês gostam de montanhas-russas? 
+pt-br	Vocês gostam de montanhas-russas? 
+pt	Vocês gostam de montanhas-russas? 
 sv	Gillar ni berg- och-dalbanor? 
 vi	Các cháu thích chơi tàu lượn chứ? | 
 zh-long	喜歡雲霄飛車嗎？ 

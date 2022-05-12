@@ -8,8 +8,8 @@ fr	Merde !
 he	&rlm;‏שיט!‏ | 
 it	Merda! 
 ko	이런! | 
-pr-br	Ah, merda! 
-pr	Porra! 
+pt-br	Ah, merda! 
+pt	Porra! 
 sv	Helvete! 
 tr	Kahretsin! 
 vi	Chết tiệt! | 

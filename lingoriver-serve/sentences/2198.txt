@@ -12,8 +12,8 @@ he	&rlm;‏‏בסדר, טוב. | &rlm;‏-בסדר.‏ |
 it	- Bene. - Ottimo. 
 no	-Bra. -Greit. 
 pl	Może być. 
-pr-br	-Ficou bom. -Bom. 
-pr	- Está ótimo. - Pronto. 
+pt-br	-Ficou bom. -Bom. 
+pt	- Está ótimo. - Pronto. 
 ro	- Bine. - Bine. 
 sv	-Det räcker. -Bra. 
 th	- เอาละ ดี | - โอเค | 

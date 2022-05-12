@@ -8,8 +8,8 @@ fr	Si vous avez du temps pour parler et que maintenant vous convient,
 he	&rlm;‏אם אתה יכול לדבר, ויש לך זמן,‏ | 
 it	Se è disponibile ed è un buon momento, 
 pl	Jeśli ma pan czas, żeby o tym porozmawiać, 
-pr-br	Se estiver disponível para falar, agora é a hora, 
-pr	Se estiver disponível e for boa altura, 
+pt-br	Se estiver disponível para falar, agora é a hora, 
+pt	Se estiver disponível e for boa altura, 
 ro	Dacă aveți timp, iar momentul e potrivit, 
 th	ถ้าคุณว่าง ตอนนี้คือโอกาสคุย | 
 tr	Konuşacak durumdaysanız hazır buradayken 

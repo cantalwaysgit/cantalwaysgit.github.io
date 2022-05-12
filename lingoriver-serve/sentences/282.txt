@@ -13,8 +13,8 @@ ko	- 포춘 쿠키 점괘 같네요 | - 그 작가도 제 고객이에요 |
 nl	Je klinkt als een gelukskoekje. -De schrijver ervan was mijn cliënt. 
 no	-Du høres ut som en lykkekake. -Jeg representerte en som skrev dem. 
 pl	- Brzmisz jak wróżba z ciastka. - Miałem klienta, który je pisał. 
-pr-br	-Você parece um biscoito da sorte. -Eu representava um cara que escreve isso. 
-pr	- Parece um biscoito da sorte. - Já representei um tipo que os escrevia. 
+pt-br	-Você parece um biscoito da sorte. -Eu representava um cara que escreve isso. 
+pt	- Parece um biscoito da sorte. - Já representei um tipo que os escrevia. 
 sv	-Du låter som en lyckokaka. -Jag företrädde en kille som skrev dem. 
 tr	-Kurabiyeden çıkan fallar gibi konuştun. -Onları yazan bir adamı temsil ediyordum. 
 vi	- Anh cứ như bánh tiên tri ấy. | - Tôi từng đại diện cho gã viết thứ đó. | 

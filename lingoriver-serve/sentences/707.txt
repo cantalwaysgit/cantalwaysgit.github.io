@@ -12,8 +12,8 @@ he	&rlm;‏כן. זה עניין של תפוסה. זו לא אשמתו. זה...�
 it	Sì, ma non c'erano posti liberi. Non è colpa sua. 
 nl	Ja. Het gaat om capaciteit. Niet zijn schuld. 
 pl	Pewnie nie było już miejsc. To nie jego wina. 
-pr-br	Sim. Tem um limite de pessoas. Não é culpa dele. É... 
-pr	Sim. Foi uma questão de lotação. A culpa não foi dele. 
+pt-br	Sim. Tem um limite de pessoas. Não é culpa dele. É... 
+pt	Sim. Foi uma questão de lotação. A culpa não foi dele. 
 ro	Nu. E din cauza funcției. Nu e vina lui. E... 
 sv	Det handlar om att det var fullt. Det är inte hans fel. 
 th	ไม่หรอก มันเรื่องของจำนวน | ไม่ใช่ความผิดของเขา มัน... | 

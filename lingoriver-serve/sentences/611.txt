@@ -13,8 +13,8 @@ he	&rlm;‏אחזור בעוד כמה שניות.‏ |
 it	Torno tra un secondo. 
 no	Jeg er straks tilbake. 
 pl	To zajmie chwilkę. 
-pr-br	Já volto. 
-pr	Eu já volto. 
+pt-br	Já volto. 
+pt	Eu já volto. 
 ro	Mă întorc în câteva clipe. 
 sv	Jag är tillbaka snart. 
 th	เดี๋ยวมานะ | 

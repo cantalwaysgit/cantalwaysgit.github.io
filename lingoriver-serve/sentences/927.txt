@@ -14,8 +14,8 @@ it	Che ne dite di questo pezzo?
 nl	Wat een nummer, hè, jongens? 
 no	For en sang, hva? 
 pl	Niezła piosenka, co? 
-pr-br	E essa música, hein, pessoal? 
-pr	Que tal esta canção? 
+pt-br	E essa música, hein, pessoal? 
+pt	Que tal esta canção? 
 ro	Ce ziceți de cântecul ăsta, băieți? 
 sv	Vad säger ni om låten, grabbar? 
 th	เพลงนี่เป็นไง เพื่อน | 

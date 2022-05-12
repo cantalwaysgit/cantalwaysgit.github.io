@@ -14,8 +14,8 @@ it	Dai. Facciamo affari, ma divertendoci.
 nl	Als we zaken gaan doen, moeten we beseffen dat het ook leuk is. 
 no	Skal vi gjøre forretninger, må vi også kunne ha det moro. 
 pl	Robimy razem interesy, ale zabawa też jest ważna. 
-pr-br	Se vamos trabalhar juntos, temos de nos divertir também. 
-pr	Se vamos trabalhar juntos, temos de perceber que também é divertido. 
+pt-br	Se vamos trabalhar juntos, temos de nos divertir também. 
+pt	Se vamos trabalhar juntos, temos de perceber que também é divertido. 
 ro	Zău! O să facem afaceri, trebuie să ne și distrăm. 
 sv	Ska vi göra affärer med varandra, måste vi ha lite kul också. 
 th	ไม่เอาน่า ถ้าจะร่วมทำธุรกิจกัน | ต้องรู้สึกสนุกด้วย | 

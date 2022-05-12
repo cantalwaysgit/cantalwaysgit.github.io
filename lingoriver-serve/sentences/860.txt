@@ -14,8 +14,8 @@ it	La canzone è bella e lei anche.
 nl	Het nummer is mooi en zij ook. 
 no	Sangen er bra, og jeg liker henne også. 
 pl	Piosenka jest dobra, Courtney też niezła. 
-pr	A canção é boa e também gosto dela. 
-pr-br	A música é boa e gosto dela também. 
+pt	A canção é boa e também gosto dela. 
+pt-br	A música é boa e gosto dela também. 
 ro	Melodia e bună și îmi place și ea. 
 sv	Det är en bra låt och jag gillar henne. 
 th	เพลงเพราะดี และผมชอบเธอด้วย | 
@@ -40,8 +40,8 @@ it	Quando è andata in bagno, ho visto un bel panorama.
 nl	Toen ze in de badkamer was, kon ik haar goed zien. 
 no	Da hun var på toalettet, fikk jeg en god titt. 
 pl	Dobrze się jej przyjrzałem, gdy była w łazience. 
-pr-br	Dei uma boa olhada nela quando ela foi ao banheiro. 
-pr	Quando ela foi à casa de banho, consegui ver bastante bem. 
+pt-br	Dei uma boa olhada nela quando ela foi ao banheiro. 
+pt	Quando ela foi à casa de banho, consegui ver bastante bem. 
 ro	Când era în baie, am avut o priveliște chiar frumoasă. 
 sv	När hon var i badrummet, kunde jag se ordentligt. 
 th	ตอนที่เธออยู่ในห้องน้ำ | ได้มองเธอเต็มตา | 

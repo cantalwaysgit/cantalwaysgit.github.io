@@ -14,8 +14,8 @@ it	- Falli a pezzi. - D'accordo.
 nl	Ga ervoor. 
 no	-Gi dem inn. -Ok. 
 pl	Połamania nóg. 
-pr-br	-Bote pra quebrar. -Está bem. 
-pr	- Vai-te a eles. - Está bem. 
+pt-br	-Bote pra quebrar. -Está bem. 
+pt	- Vai-te a eles. - Está bem. 
 ro	- Fă-i praf, puștoaico! - Bine. 
 sv	-Ge dem vad de tål. -Okej. 
 th	- ลุยเลย สู้ๆ | - โอเค | 

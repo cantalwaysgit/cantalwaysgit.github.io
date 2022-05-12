@@ -11,8 +11,8 @@ it	Ma la canzone ha delle potenzialità. Non c'è alcun dubbio.
 ko	하지만 노래는 잠재력이 있어요 | 그건 틀림없죠 | 
 nl	Maar het nummer heeft potentieel. Zeker weten. 
 pl	Ale piosenka niewątpliwie ma potencjał. 
-pr-br	Mas a música tem potencial. Sim, certamente. 
-pr	Mas a canção tem potencial. Não há dúvida. 
+pt-br	Mas a música tem potencial. Sim, certamente. 
+pt	Mas a canção tem potencial. Não há dúvida. 
 ro	Dar melodia are potențial. Fără nicio îndoială. 
 sv	Men sången har potential. Utan tvekan. Tveklöst. 
 th	แต่ตัวเพลงมีแวว | ใช่ อย่างไม่ต้องสงสัยเลย | 

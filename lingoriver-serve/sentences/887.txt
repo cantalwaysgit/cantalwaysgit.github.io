@@ -14,8 +14,8 @@ it	- Niente di provocatorio o insolito. - No.
 nl	Niets uitdagends, niets onbekends. 
 no	-Ikke noe utfordrende eller ukjent. -Nei. 
 pl	Bez trudnych, niepopularnych tematów. 
-pr-br	-Nada desafiador, nada diferente. -Não. 
-pr	- Nada desafiador, nada estranho. - Não. 
+pt-br	-Nada desafiador, nada diferente. -Não. 
+pt	- Nada desafiador, nada estranho. - Não. 
 ro	- Nimic provocator, nimic necunoscut. - Nu. 
 sv	-Inga utmaningar, inget okänt. -Nej. 
 th	- ไม่มีอะไรท้าทาย หรือไม่คุ้นเคย | - ใช่แล้ว | 

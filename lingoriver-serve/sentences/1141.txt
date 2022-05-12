@@ -17,8 +17,8 @@ es	La de la inmobiliaria me dijo que David Crosby murió tres veces aquí.
 fr	L'agent immobilier m'a dit que David Crosby y était mort trois fois. 
 he	&rlm;‏‏סוכנת הנדל"ן אמרה לי שדיוויד קרוסבי | &rlm;‏מת בבית הזה שלוש פעמים.‏ | 
 it	L'agente mi ha detto che David Crosby è morto tre volte qui dentro. 
-pr	A senhora da imobiliária disse-me que o David Crosby morreu aqui três vezes. 
-pr-br	A corretora me disse que David Crosby morreu três vezes aqui. 
+pt	A senhora da imobiliária disse-me que o David Crosby morreu aqui três vezes. 
+pt-br	A corretora me disse que David Crosby morreu três vezes aqui. 
 sv	Hyrestanten sa att David Crosby dog tre gånger här. 
 zh-short	房产经纪跟我说 大卫克罗斯比在这里死过三次 
 id	Agen rumah itu memberitahuku 

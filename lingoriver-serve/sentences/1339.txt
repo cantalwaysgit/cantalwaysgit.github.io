@@ -13,8 +13,8 @@ fr	- Viens. Assieds-toi ici. - Quoi ?
 he	&rlm;‏‏בוא איתי. פשוט שב כאן. | &rlm;‏-מה זה?‏ | 
 it	- Vieni. Siediti qui. - Di che si tratta? 
 no	-Bli med. Sitt her. -Hva er dette? 
-pr-br	-Venha. Sente-se aqui. -O que é isso? 
-pr	- Vem. Senta-te aqui. - O que é isto? 
+pt-br	-Venha. Sente-se aqui. -O que é isso? 
+pt	- Vem. Senta-te aqui. - O que é isto? 
 ro	- Hai! Stai aici. - Ce e asta? 
 sv	-Kom. Sätt dig. -Vad är detta? 
 th	- มาสิ มานั่งนี่ | - นี่อะไร | 
@@ -35,8 +35,8 @@ fi	-Istu. -Selvä.
 fr	Assis. 
 he	&rlm;‏‏עכשיו, שב. | &rlm;‏-כן.‏ | 
 it	- Siediti. - Sì. 
-pr-br	-Sente-se. -Sim. 
-pr	- Senta-te. - Sim. 
+pt-br	-Sente-se. -Sim. 
+pt	- Senta-te. - Sim. 
 ro	- Stai jos! - Da! 
 sv	-Sitt. -Oj då. 
 th	- ทีนี้ นั่งลง | - ครับ | 

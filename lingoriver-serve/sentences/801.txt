@@ -13,8 +13,8 @@ ko	다른 고객이 있다는 걸 | 오늘 처음 알았어요 |
 nl	We wisten niet eens dat je andere cliënten had. 
 no	Vi visste ikke at du hadde andre klienter før i dag. 
 pl	Dziś dowiedzieliśmy się, że masz innych klientów. 
-pr-br	Só ficamos sabendo que você tinha outros clientes hoje. 
-pr	Só descobrimos hoje que tinhas outros clientes. 
+pt-br	Só ficamos sabendo que você tinha outros clientes hoje. 
+pt	Só descobrimos hoje que tinhas outros clientes. 
 sv	Vi visste inte att du hade andra klienter förrän idag. 
 th	เราไม่รู้ว่า | มีคนอื่นในสังกัดจนกระทั่งวันนี้ | 
 tr	Bugüne dek temsil ettiğin başka birileri olduğunu bilmiyorduk. 

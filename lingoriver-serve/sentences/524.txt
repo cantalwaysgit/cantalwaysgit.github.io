@@ -14,8 +14,8 @@ ko	배리 부바치예요 |
 nl	Barry Bubatzi. 
 no	Barry Bubatzi. 
 pl	Barry Bubatzi. 
-pr	Barry Bubatzi. 
-pr-br	Barry Bubatzi. 
+pt	Barry Bubatzi. 
+pt-br	Barry Bubatzi. 
 ro	Barry Bubatzi. 
 sv	Barry Bubatzi. 
 th	แบร์รี่ บูบาต์ซี่ | 

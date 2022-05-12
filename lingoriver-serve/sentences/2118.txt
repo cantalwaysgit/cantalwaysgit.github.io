@@ -9,8 +9,8 @@ he	&rlm;‏השריף שמלווה אותך אל מחוץ לעיר‏ |
 it	Lo sceriffo che ti scorta fuori città 
 ko	보안관이 마을 밖으로 | 호위해 줄 거야 | 
 pl	Szybko skończyć możesz się też 
-pr-br	O delegado que o acompanha Para fora da cidade 
-pr	O xerife que nos escolta Para fora da cidade 
+pt-br	O delegado que o acompanha Para fora da cidade 
+pt	O xerife que nos escolta Para fora da cidade 
 ro	Șeriful care te dă afară din oraș 
 th	นายอำเภอที่คุ้มกันเราออกจากเมือง | 
 tr	Şerif seni kasabadan kovalar 

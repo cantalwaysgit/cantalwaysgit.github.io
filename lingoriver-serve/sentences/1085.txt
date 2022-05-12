@@ -10,8 +10,8 @@ he	&rlm;‏קורטני הגיעה למעמד של ויטני יוסטון.‏ |
 it	Courtney arrivò al livello di Whitney Houston. 
 no	Courtney fikk Whitney Houston-status. 
 pl	Courtney osiągnęła poziom Whitney Houston. 
-pr	A Courtney chegou às alturas da Whitney Houston. 
-pr-br	Courtney estourou e ficou com status de Whitney Houston. 
+pt	A Courtney chegou às alturas da Whitney Houston. 
+pt-br	Courtney estourou e ficou com status de Whitney Houston. 
 ro	Courtney mergea pe urmele lui Whitney Houston. 
 th	คอร์ทนี่ย์ดังขึ้น | เทียบระดับวิตนีย์ ฮุสตัน | 
 tr	Courtney, Whitney Houston konumuna yükselmişti. 
@@ -38,8 +38,8 @@ he	&rlm;‏באמת?‏ |
 it	È vero. 
 no	Virkelig? 
 pl	Naprawdę? 
-pr	A sério? 
-pr-br	Sério? 
+pt	A sério? 
+pt-br	Sério? 
 ro	Serios? 
 th	จริงเรอะ | 
 tr	Öyle mi? 
@@ -61,8 +61,8 @@ it	- Incredibile. - E di Mariah Carey.
 ko	- 대단했죠 | - 머라이어 캐리 | 
 no	-Sprøtt. -Mariah Carey. 
 pl	- Nieźle. - Mariah Carey. 
-pr-br	-Foi uma loucura. -Mariah Carey. 
-pr	- Foi uma loucura. - Da Mariah Carey. 
+pt-br	-Foi uma loucura. -Mariah Carey. 
+pt	- Foi uma loucura. - Da Mariah Carey. 
 ro	- A fost o nebunie. - Ale lui Mariah Carey. 
 sv	Mariah Carey. 
 th	- มันบ้ามาก | - มารายห์ แครี่ | 

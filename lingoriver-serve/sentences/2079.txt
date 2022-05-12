@@ -11,8 +11,8 @@ fr	Je suis navré. Je comprends rien de ce que vous dites.
 he	&rlm;‏אני מצטער. אני לא מבין מילה ממה שאמרת.‏ | 
 it	Mi dispiace, non capisco una parola. 
 ko	죄송해요, 뭐라고 하는지 | 하나도 못 알아듣겠어요 | 
-pr-br	Desculpe. Não entendo uma palavra que diz. 
-pr	Desculpe. Não percebo nada do que diz. 
+pt-br	Desculpe. Não entendo uma palavra que diz. 
+pt	Desculpe. Não percebo nada do que diz. 
 ro	Scuze. Nu înțeleg nimic din ce spui. 
 sv	Jag förstår inte vad du säger. 
 th	ผมเสียใจ ผมไม่เข้าใจที่คุณพูด | 

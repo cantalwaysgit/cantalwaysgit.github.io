@@ -14,8 +14,8 @@ ko	사고 치는 걸 | 좋아하시는군요 |
 nl	Je veroorzaakt graag problemen. 
 no	Du liker å lage trøbbel. 
 pl	Ale z ciebie mąciwoda. 
-pr-br	Gosta de causar encrencas, certo, Sandy? 
-pr	Gosta de arranjar sarilhos, não gosta? 
+pt-br	Gosta de causar encrencas, certo, Sandy? 
+pt	Gosta de arranjar sarilhos, não gosta? 
 ro	Îți place să creezi necazuri. 
 ru	Вы любите мутить воду. 
 sv	Du gillar att ställa till problem. 

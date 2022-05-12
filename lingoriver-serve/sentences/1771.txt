@@ -1,5 +1,5 @@
 id	matahari akan selalu menyinari kalian. 
-pr	... o sol brilhará sempre para vocês. 
+pt	... o sol brilhará sempre para vocês. 
 sv	...skiner solen alltid på en. 
 ja	“太陽の光は | 君の上に降り注ぐんだよ” | 
 ru	...солнце... 
@@ -15,7 +15,7 @@ it	...e il sole risplenderà sempre su di voi.
 nl	...dan schijnt de zon altijd op je. 
 no	...vil solen alltid skinne på dere. 
 pl	a słonko zawsze dla was zaświeci. 
-pr-br	...o sol sempre iluminará vocês. 
+pt-br	...o sol sempre iluminará vocês. 
 ro	...soarele va răsări mereu pe strada voastră. 
 th	อาทิตย์จะส่องสว่างให้เราเสมอ | 
 tr	...güneş daima üzerinize parlar. 

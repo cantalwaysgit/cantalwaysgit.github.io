@@ -9,8 +9,8 @@ it	A volte tendo a dire alle persone ciò che credo vogliano sentirsi dire.
 ko	가끔 나는 사람들이 | 듣고 싶어 하는 말만 해 | 
 nl	Soms vertel ik mensen wat ik denk dat ze willen horen. 
 pl	Może czasem mówię ludziom to, co myślę, że chcą usłyszeć, 
-pr-br	Talvez às vezes eu tenha um jeito de dizer às pessoas o que acho que querem ouvir. 
-pr	Talvez às vezes eu diga às pessoas aquilo que acho que querem ouvir 
+pt-br	Talvez às vezes eu tenha um jeito de dizer às pessoas o que acho que querem ouvir. 
+pt	Talvez às vezes eu diga às pessoas aquilo que acho que querem ouvir 
 sv	Ibland kanske jag säger till folk vad jag tror att de vill höra. 
 tr	Bazen insanlara duymak istediklerini sandığım şeyi söylüyor olabilirim. 
 vi	Có thể đôi khi anh nói theo kiểu | mà anh nghĩ họ muốn nghe. | 

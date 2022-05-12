@@ -15,8 +15,8 @@ ko	네 얼굴의 뼈란 뼈는 | 전부 아작낼까 봐 겁나! |
 nl	Ik ben bang dat ik je gezicht aan gort sla. 
 no	Jeg er redd for å knuse alle bein i trynet ditt! 
 pl	Boję się, że zmienię twoją twarz w papkę! 
-pr-br	Estou com medo de quebrar todos os ossos da sua cara! 
-pr	Tenho medo de ter de te partir os ossos todos da cara! 
+pt-br	Estou com medo de quebrar todos os ossos da sua cara! 
+pt	Tenho medo de ter de te partir os ossos todos da cara! 
 ro	Mi-e frică să nu-ți zdrobesc fiecare oscior al feței! 
 sv	Jag är rädd att jag ska krossa alla ben i ditt ansikte! 
 th	ฉันกลัวว่าจะฟาดหน้าแก | จนกระดูกแหลกไม่มีชิ้นดี | 

@@ -13,8 +13,8 @@ he	&rlm;‏שמעת מה שרצית לשמוע.‏ |
 it	Capivi quello che ti faceva comodo. 
 nl	Je hoorde wat je wilde horen. 
 no	Du hørte det du ville høre. 
-pr-br	Você ouviu o que queria ouvir. 
-pr	Ouviste o que querias ouvir. 
+pt-br	Você ouviu o que queria ouvir. 
+pt	Ouviste o que querias ouvir. 
 ro	Ai auzit ce ai vrut să auzi. 
 th	นายได้ยินสิ่งที่นายต้องการได้ยิน | 
 vi	Anh chỉ nghe điều anh muốn nghe. | 

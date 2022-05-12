@@ -11,8 +11,8 @@ he	&rlm;‏‏נושף בסילון‏, קורא לו מסטול ימי‏ |
 it	Saliamo su un jet Chiamalo idrovolante 
 nl	stap in een jet noem het een hydroplane 
 pl	Sztachniemy się i odlecimy 
-pr	Até levantamos do chão Num hidroavião 
-pr-br	Queimando um no avião Chame-o de hidroplano 
+pt	Até levantamos do chão Num hidroavião 
+pt-br	Queimando um no avião Chame-o de hidroplano 
 ro	Mergem cu avionul Îi spune hidroavion 
 ru	Летим на самолете Или на гидроплане... 
 sv	Vi tar vår jet Högre och högre 

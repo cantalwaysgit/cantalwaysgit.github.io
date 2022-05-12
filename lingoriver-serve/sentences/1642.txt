@@ -11,8 +11,8 @@ it	È l'ora della nanna!
 nl	Het is tijd om te gaan slapen. 
 no	På tide å si nattinatt! 
 pl	Pora na dobranoc! 
-pr-br	É hora de nanar! 
-pr	Está na hora da soneca! 
+pt-br	É hora de nanar! 
+pt	Está na hora da soneca! 
 ro	E timpul să-nchizi ochișorii! 
 sv	Dags att säga nattinatti! 
 th	ได้เวลาปิดตาแล้ว | 

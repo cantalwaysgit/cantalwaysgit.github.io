@@ -13,8 +13,8 @@ he	&rlm;‏לחלוץ את ה... בשביל השטיח שלך? כן.‏ |
 it	Togliermi... Per il tappeto. Certo. 
 no	Ta av... På grunn av teppet? Ja. 
 pl	Co? A, przez dywan. 
-pr-br	Tirar meus... Por causa do tapete? Sim. 
-pr	Descalçar... Por causa do tapete? Sim. 
+pt-br	Tirar meus... Por causa do tapete? Sim. 
+pt	Descalçar... Por causa do tapete? Sim. 
 ro	Să-mi scot... Din cauza covorului? Da. 
 sv	Tar av mig... För mattans skull. 
 th	ถอดรองเท้า พรมคุณ อ๋อใช่ | 

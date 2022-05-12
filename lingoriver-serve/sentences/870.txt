@@ -14,8 +14,8 @@ it	Li avevo avvertiti, ma si sono tuffati comunque.
 nl	Ik zei dat ze het zwembad niet in mochten, maar ze deden het toch. 
 no	Jeg ba dem ikke gå i bassenget, og de gjorde det likevel. 
 pl	Mówiłem im, żeby nie wchodzili, ale mnie nie posłuchali. 
-pr-br	Eu falei para não entrarem na piscina, mas eles entraram mesmo assim. 
-pr	Eu disse-lhes para não irem para a piscina e eles foram à mesma. 
+pt-br	Eu falei para não entrarem na piscina, mas eles entraram mesmo assim. 
+pt	Eu disse-lhes para não irem para a piscina e eles foram à mesma. 
 ro	Le-am zis să nu intre în piscină, iar ei tot au intrat. 
 sv	Jag sa att de inte fick hoppa i poolen, men de gjorde det ändå. 
 th	รู้ไหม ผมห้ามไม่ให้พวกเขาลงสระ | แล้วพวกเขาก็ลงจนได้ | 

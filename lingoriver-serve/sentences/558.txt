@@ -15,8 +15,8 @@ fr	Je sais.
 he	&rlm;‏אני יודע.‏ | 
 it	Lo so. 
 ko	알아요 | 
-pr-br	Eu sei. 
-pr	Eu sei. 
+pt-br	Eu sei. 
+pt	Eu sei. 
 ro	Știu. 
 sv	Jag vet. 
 tr	Biliyorum. 

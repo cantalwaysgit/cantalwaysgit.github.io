@@ -14,8 +14,8 @@ ko	TV 관계자는 | 공격적인 사람에게만 반응하거든 |
 nl	Die tv-eikels reageren alleen op agressief gedrag. 
 no	Sånne TV-drittsekker svarer bare på mobbing og aggresjon. 
 pl	Telewizyjne szychy rozumieją wyłącznie język agresji. 
-pr-br	Esses pilantras da TV só cedem com valentia e agressão. 
-pr	Estes idiotas da televisão só reagem à intimidação e à agressividade. 
+pt-br	Esses pilantras da TV só cedem com valentia e agressão. 
+pt	Estes idiotas da televisão só reagem à intimidação e à agressividade. 
 ro	Idioții ăștia din televiziune nu răspund decât dacă ești agresiv. 
 sv	TV-idioterna förstår bara hårda tag och aggressivitet. 
 th	พวกทีวีงี่เง่านี่ตอบสนองแต่กับ | การข่มขู่และความรุนแรง | 

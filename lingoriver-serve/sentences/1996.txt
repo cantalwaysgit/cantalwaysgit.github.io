@@ -9,8 +9,8 @@ it	Sandy?
 ko	샌디? | 
 no	Sandy? 
 pl	Sandy? 
-pr-br	Sandy? 
-pr	Sandy? 
+pt-br	Sandy? 
+pt	Sandy? 
 ro	Sandy? 
 sv	Sandy? 
 th	แซนดี้ | 

@@ -14,8 +14,8 @@ it	Sì, so come mi chiamo.
 nl	Ja, ik weet mijn naam. 
 no	Ja, jeg kan navnet mitt. 
 pl	Wiem, jak się nazywam. 
-pr-br	Sim, eu sei o meu nome. 
-pr	Sim, eu sei o meu nome. 
+pt-br	Sim, eu sei o meu nome. 
+pt	Sim, eu sei o meu nome. 
 ro	Da, știu cum mă cheamă. 
 sv	Ja, jag vet vad jag heter. 
 tr	Evet, adımı biliyorum. 

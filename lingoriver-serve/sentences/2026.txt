@@ -13,8 +13,8 @@ it	Continua.
 nl	Ga door. 
 no	Fortsett. 
 pl	Mów dalej. 
-pr-br	Continue. 
-pr	Continua. 
+pt-br	Continue. 
+pt	Continua. 
 ro	Continuă. 
 sv	Fortsätt. 
 th	ว่าต่อไปสิ | 

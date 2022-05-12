@@ -13,8 +13,8 @@ ko	자살하려는 건가요? | 그런 건 찍을 수 없는데요! |
 nl	Pleegt u zelfmoord? Dat mag ik vast niet filmen. 
 no	Begår du selvmord? Jeg har ikke lov til å filme det! 
 pl	Chce pan popełnić samobójstwo? Nie mogę tego nakręcić! 
-pr-br	Vai cometer suicídio? Pois não posso filmar isso! 
-pr	Vai suicidar-se? Acho que não posso filmar isso! 
+pt-br	Vai cometer suicídio? Pois não posso filmar isso! 
+pt	Vai suicidar-se? Acho que não posso filmar isso! 
 ro	Vreți să vă sinucideți? Nu pot filma asta! 
 sv	Ska du begå självmord? Jag får nog inte filma det. 
 th	คุณจะฆ่าตัวตายใช่ไหม | ผมไม่ได้รับอนุญาตให้ถ่ายนะ | 

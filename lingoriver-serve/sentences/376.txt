@@ -15,8 +15,8 @@ ko	고객 이상이었지 | 내 절친이었으니까 |
 nl	Meer dan dat. Mijn beste vriend. 
 no	Mer enn det. Han var min beste venn. 
 pl	I moim najlepszym przyjacielem. 
-pr-br	Mais do que isso. Ele era meu melhor amigo. 
-pr	Mais do que isso, era o meu melhor amigo. 
+pt-br	Mais do que isso. Ele era meu melhor amigo. 
+pt	Mais do que isso, era o meu melhor amigo. 
 ro	Ba mai mult. Mi-a fost cel mai bun prieten. 
 sv	Mer än så. Han var min bästa vän. 
 th	มากกว่านั้น เขาเป็นเพื่อนซี้ของผม | 

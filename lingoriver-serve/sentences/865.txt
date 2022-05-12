@@ -16,8 +16,8 @@ ko	아무튼 샌디 | 수영장을 쓰는 건 질색이야! |
 nl	Maar mensen in mijn zwembad vind ik niks. 
 no	Men folk i bassenget mitt, det liker jeg ikke! 
 pl	Nie mogę pozwolić, żeby ktoś kąpał się w moim basenie! 
-pr-br	Mas Sandy, não gosto de gente na minha piscina! 
-pr	Mas, Sandy, eu não gosto de pessoas na minha piscina! 
+pt-br	Mas Sandy, não gosto de gente na minha piscina! 
+pt	Mas, Sandy, eu não gosto de pessoas na minha piscina! 
 ro	Dar, Sandy, nu-mi place să văd oameni la mine în piscină! 
 sv	Men, folk i min pool, det gillar jag inte! 
 tr	Ama Sandy, havuzuma girilmesinden hiç hoşlanmıyorum! 

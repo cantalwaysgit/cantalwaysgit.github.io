@@ -11,8 +11,8 @@ it	Sorrido perché potresti diventare il nuovo Captain Kangaroo.
 ko	새 캡틴 캥거루가 될 생각에 | 웃고 있는 거야 | 
 nl	Ik glimlach omdat jij misschien de nieuwe Captain Kangaroo wordt. 
 pl	Cieszę się, bo możesz zostać nowym Kapitanem Kangaroo. 
-pr-br	Só estou sorrindo porque você pode virar o novo Capitão Canguru. 
-pr	Estou a sorrir pelo facto de poderes vir a ser o novo Capitão Canguru. 
+pt-br	Só estou sorrindo porque você pode virar o novo Capitão Canguru. 
+pt	Estou a sorrir pelo facto de poderes vir a ser o novo Capitão Canguru. 
 ro	Zâmbesc gândindu-mă că ai putea deveni noul căpitan Kangaroo. 
 sv	Jag ler åt det faktum att du kan bli nya Captain Kangaroo. 
 th	ก็ยิ้มเพราะความจริงที่ว่า | นายอาจเป็นกัปตันแคงการูคนใหม่ | 

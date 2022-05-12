@@ -1,6 +1,6 @@
 id	Alfred adalah klien pertamaku. 
 ja	僕のタレントだった | 
-pr-br	Alfred foi o meu primeiro cliente. 
+pt-br	Alfred foi o meu primeiro cliente. 
 ru	Альфред - мой первый клиент. 
 ar	&rlm;‏كان "ألفريد" زبوني الأول.‏ | 
 da	Alfred var min første klient. 
@@ -15,7 +15,7 @@ ko	알프레드는 내 첫 고객이었어 |
 nl	Alfred was mijn eerste cliënt. 
 no	Alfred var min første klient. 
 pl	Był moim pierwszym klientem. 
-pr	O Alfred foi o meu primeiro cliente. 
+pt	O Alfred foi o meu primeiro cliente. 
 ro	Alfred a fost primul meu client. 
 sv	Alfred var min första klient. 
 th	อัลเฟรดเป็นลูกค้าคนแรกของผม | 

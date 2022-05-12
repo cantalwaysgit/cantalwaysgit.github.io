@@ -14,8 +14,8 @@ it	Dobbiamo fare quella cosa. Inizi tu?
 nl	We gaan het doen. Wil jij beginnen? 
 no	Vi skal gjøre greia. Vil du begynne? 
 pl	Nagrywamy już. Zaczniesz? 
-pr-br	Vamos fazer aquilo. Quer começar? 
-pr	Vamos fazer aquilo. Queres começar? 
+pt-br	Vamos fazer aquilo. Quer começar? 
+pt	Vamos fazer aquilo. Queres começar? 
 ro	O să înregistrăm. Vrei să începi tu? 
 sv	Vi ska köra grejen. Vill du börja? 
 th	เราจะเริ่มแล้ว คุณอยากเริ่มไหม | 

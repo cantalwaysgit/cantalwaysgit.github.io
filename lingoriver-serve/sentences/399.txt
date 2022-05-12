@@ -13,8 +13,8 @@ ko	전 춤 못 춰요 |
 nl	Ik kan niet dansen. 
 no	Jeg er ikke danser. 
 pl	Nie jestem tancerką. 
-pr-br	Não sou dançarina. 
-pr	Não sou bailarina. 
+pt-br	Não sou dançarina. 
+pt	Não sou bailarina. 
 ro	Nu sunt dansatoare! 
 ru	Я не танцую. 
 th	ฉันไม่ใช่นักเต้น | 

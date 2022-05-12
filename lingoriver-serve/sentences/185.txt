@@ -14,8 +14,8 @@ ko	그런 고급 자동차 소장품은 | 처음 봤어요 |
 nl	De mooiste verzameling auto's ooit. 
 no	En av den beste bilsamlingene jeg har sett. 
 pl	Fantastyczna kolekcja luksusowych samochodów. 
-pr-br	Uma das melhores coleções de carros que já vi. 
-pr	Uma das melhores coleções de carros de luxo que já vi. 
+pt-br	Uma das melhores coleções de carros que já vi. 
+pt	Uma das melhores coleções de carros de luxo que já vi. 
 ro	Era acolo una dintre cele mai bune colecții de mașini luxoase. 
 sv	En av de största bilsamlingarna jag nånsin sett. 
 th	มีรถสะสมยอดเยี่ยมที่สุดที่ผมเคยเห็น | 

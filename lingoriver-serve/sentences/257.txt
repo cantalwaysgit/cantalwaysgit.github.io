@@ -12,8 +12,8 @@ it	È sdolcinato, ma divertente.
 ko	진부하지만 재미있어요 | 
 nl	Banaal, maar wel leuk. 
 pl	Taki tam teatrzyk. 
-pr	A história é pirosa, mas divertida. 
-pr-br	É brega, mas divertido. 
+pt	A história é pirosa, mas divertida. 
+pt-br	É brega, mas divertido. 
 ro	E o prostie, dar e amuzant. 
 sv	Töntigt, men kul. 
 th	มันเลี่ยนหน่อยแต่ก็สนุกดี | 
@@ -36,8 +36,8 @@ he	&rlm;‏נדוש? היה בזה יותר. אני סנדי וקסלר.‏ |
 it	Sdolcinato? Aveva molta grinta. Sono Sandy Wexler. 
 ko	진부하다니요? 개성 있던데요 | 전 샌디 웩슬러예요 | 
 pl	Co? Byłaś świetna. Jestem Sandy Wexler. 
-pr-br	Brega? Aquilo foi um diferencial. Meu nome é Sandy Wexler. 
-pr	Pirosa? Teve muita energia. Chamo-me Sandy Wexler. 
+pt-br	Brega? Aquilo foi um diferencial. Meu nome é Sandy Wexler. 
+pt	Pirosa? Teve muita energia. Chamo-me Sandy Wexler. 
 ro	Prostie? Mi s-a părut avangardist. Sunt Sandy Wexler. 
 sv	Töntigt? Det var häftigt. Jag är Sandy Wexler. 
 th	เลี่ยนหรือ มันมีความพิเศษ | ผมแซนดี้ เวกซ์เลอร์ | 

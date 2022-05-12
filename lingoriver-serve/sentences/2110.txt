@@ -11,8 +11,8 @@ fr	Même si tu passes la nuit dehors en hiver
 he	&rlm;‏אתה עלול להיות תקוע בקור‏ | 
 it	Potresti rimanere fuori al freddo 
 pl	I na bruk lecisz bęc 
-pr-br	Pode acabar quebrando a cara 
-pr	Estás sujeito a ficar ao frio 
+pt-br	Pode acabar quebrando a cara 
+pt	Estás sujeito a ficar ao frio 
 ro	Poate vei tremura în frig 
 th	คุณอาจถูกทิ้งหนาวอยู่ข้างนอก | 
 tr	Kapının önüne konacağını bilsen bile 

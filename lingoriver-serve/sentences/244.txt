@@ -12,8 +12,8 @@ ko	네, 아주 아름다운 백조로군요 |
 nl	Ja, inderdaad een mooie zwaan. 
 no	Ja, en veldig fin svane. 
 pl	Co za piękny łabędź. 
-pr-br	Sim, é certamente um lindo cisne. 
-pr	Sim, sem dúvida, um belo cisne. 
+pt-br	Sim, é certamente um lindo cisne. 
+pt	Sim, sem dúvida, um belo cisne. 
 ro	Da, ești într-adevăr o lebădă foarte frumoasă. 
 sv	Ja, det var verkligen en fin svan. 
 th	ใช่ เป็นหงส์ที่งดงามจริงๆ | 

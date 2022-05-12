@@ -17,8 +17,8 @@ it	Jonesy?
 ko	존지? | 
 nl	Jonesy? 
 no	Jonesy? 
-pr-br	Jonesy? 
-pr	O Jonesy? 
+pt-br	Jonesy? 
+pt	O Jonesy? 
 ro	Jonesy? 
 sv	Jonesy? 
 zh-long	瓊斯兄呀？ 
@@ -36,8 +36,8 @@ it	- Sì. - Jonesy dà una festa?
 ko	- 그래요 | - 존지가 파티를 한대? | 
 no	Skal Jonesy ha fest? 
 pl	Urządza imprezę? 
-pr-br	-Está bem. -Jonesy vai dar uma festa? 
-pr	- Muito bem. - O Jonesy vai dar uma festa? 
+pt-br	-Está bem. -Jonesy vai dar uma festa? 
+pt	- Muito bem. - O Jonesy vai dar uma festa? 
 ro	- Bine. - Jonesy dă o petrecere? 
 sv	-Okej. -Så Jonesy ska ha fest? 
 th	- โอเค | - โจนซี่มีปาร์ตี้ | 

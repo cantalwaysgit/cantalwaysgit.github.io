@@ -12,8 +12,8 @@ ko	매니저는 거짓말을 하지만 | 샌디는 예술적인 차원이에요 
 nl	Managers liegen, maar Sandy maakte er een kunst van. 
 no	Managere lyver, men Sandy var en kunstner. 
 pl	Menedżerowie kłamią, ale Sandy był mistrzem. 
-pr-br	Empresários mentem, mas Sandy era um especialista. 
-pr	Os empresários mentem, mas o Sandy transformou-o numa arte. 
+pt-br	Empresários mentem, mas Sandy era um especialista. 
+pt	Os empresários mentem, mas o Sandy transformou-o numa arte. 
 ro	Impresarii mint, dar Sandy era maestru. 
 ru	Все менеджеры врут, но он превратил это в искусство. 
 sv	Managers ljuger, men Sandy gjorde det till en konstform. 

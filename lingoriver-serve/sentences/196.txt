@@ -13,8 +13,8 @@ ko	오지 마! 오지 말라고! |
 nl	Blijf. 
 no	Dekk! 
 pl	Waruj! 
-pr-br	Sentados! 
-pr	Fica! 
+pt-br	Sentados! 
+pt	Fica! 
 ro	Șezi! 
 sv	Stanna! Sitt! 
 th	หยุด หยุด หยุด! | 

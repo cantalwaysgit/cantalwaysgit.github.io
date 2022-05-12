@@ -13,8 +13,8 @@ it	Cosa? L'ha pagato 8000 dollari. Mi ucciderebbe.
 nl	Wat? Hij gaf $8000 uit voor die wijn. Hij vermoordt me. 
 no	Hva? Han betalte 8 000 dollar. Han kommer til å drepe meg. 
 pl	Facet dał osiem tysięcy za butelkę. Zabije mnie. 
-pr-br	Quê? O cara gastou US$ 8 mil no vinho. Ele vai me matar. 
-pr	O quê? O homem gastou oito mil dólares no vinho. Ele matava-me. 
+pt-br	Quê? O cara gastou US$ 8 mil no vinho. Ele vai me matar. 
+pt	O quê? O homem gastou oito mil dólares no vinho. Ele matava-me. 
 ro	Poftim? Omul a cheltuit opt mii de dolari pe vin. O să mă omoare. 
 sv	Vadå? Han spenderade 8 000 dollar på vin. Han skulle döda mig. 
 th	อะไรนะ เขาจ่ายไป 8,000 เหรียญ | เขาจะฆ่าผมน่ะสิ | 

@@ -13,8 +13,8 @@ he	&rlm;‏והוא נתן לי את המספר שלו.‏ |
 it	Mi diede comunque il suo numero. 
 no	Og han ga meg nummeret sitt. 
 pl	Ale dał mi swój numer. 
-pr-br	Mas ele me deu o número dele. 
-pr	Mas deu-me o número dele. 
+pt-br	Mas ele me deu o número dele. 
+pt	Mas deu-me o número dele. 
 ro	Mi-a lăsat numărul lui, totuși. 
 sv	Men han gav mig sitt nummer. 
 th	ถึงยังงั้นเขาก็ให้เบอร์เขากับผมนะ | 

@@ -10,8 +10,8 @@ fr	Personne ne le bipait.
 he	&rlm;‏אני לא חושב שאף אחד שלח לו הודעות.‏ | 
 it	In realtà non lo cercava mai nessuno. 
 pl	Nikt do niego nie dzwonił. 
-pr	Acho que ninguém lhe enviava mensagens, 
-pr-br	Acho que ninguém o estava bipando. 
+pt	Acho que ninguém lhe enviava mensagens, 
+pt-br	Acho que ninguém o estava bipando. 
 ro	Nu cred că-l căuta nimeni. 
 th	คิดว่าไม่มีใครส่งเพจเจอร์มาหาเขา | 
 tr	Bence kimse ona çağrı atmıyordu. 
@@ -36,8 +36,8 @@ fr	Il était là : "Purée, Mackenzie Phillips."
 he	&rlm;‏כי הוא היה אומר, "אלוהים, מקנזי פיליפס".‏ | 
 it	Diceva: "Cavolo, Mackenzie Phillips". 
 pl	Mówił tylko: „To Mackenzie Phillips”. 
-pr-br	Pois ele dizia: "Nossa, é Mackenzie Phillips." 
-pr	porque ele dizia: "Caramba, a Mackenzie Phillips." 
+pt-br	Pois ele dizia: "Nossa, é Mackenzie Phillips." 
+pt	porque ele dizia: "Caramba, a Mackenzie Phillips." 
 ro	Zicea: "Doamne! Mackenzie Phillips." 
 th	เพราะเขาคงพูดว่า | "ให้ตาย แมคเคนซี ฟิลลิปส์" | 
 tr	Çünkü şöyle derdi, "Vay, Mackenzie Phillips." 

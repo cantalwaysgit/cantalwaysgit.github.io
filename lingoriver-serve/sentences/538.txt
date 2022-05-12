@@ -13,8 +13,8 @@ it	- Ecco perché amo quest'uomo. - Perché?
 ko	- 이래서 내가 이분을 좋아해 | - 뭐? | 
 no	-Det er derfor jeg elsker den fyren. -Hva? 
 pl	- Właśnie dlatego go kocham. - Co? 
-pr-br	-É por isso que eu amo esse cara. -Quê? 
-pr	- Vês, é por isto que eu o adoro. - O quê? 
+pt-br	-É por isso que eu amo esse cara. -Quê? 
+pt	- Vês, é por isto que eu o adoro. - O quê? 
 ro	- Vezi? De asta îl ador pe tipul ăsta. - Poftim? 
 th	- เห็นไหม เพราะงี้ผมถึงชอบเขา | - อะไรนะ | 
 tr	-İşte bu adamı bu yüzden seviyorum. -Ne? 

@@ -16,8 +16,8 @@ it	Non so cosa facesse, ma si avvertiva l'amore.
 ko	뭘 해줬는지는 몰라도 | 애정이 느껴졌어요 | 
 nl	Ik wist niet wat hij voor ze deed, maar je voelde liefde. 
 pl	Nie wiem, co robił, ale na pewno ich kochał. 
-pr-br	Não sei o que ele fazia, mas dava para sentir que havia amor. 
-pr	Não sei bem o que fazia por eles, mas sentia-se o amor. 
+pt-br	Não sei o que ele fazia, mas dava para sentir que havia amor. 
+pt	Não sei bem o que fazia por eles, mas sentia-se o amor. 
 ro	Nu știu ce le făcea, dar dragostea plutea în aer. 
 sv	Jag vet inte vad han gjorde för dem men man kände kärleken. 
 th	ไม่แน่ใจว่าเขาทำอะไรให้ | แต่รู้ได้ถึงความรักที่เขามีให้ | 

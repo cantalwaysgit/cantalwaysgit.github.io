@@ -11,8 +11,8 @@ he	&rlm;‏אם עבדת בלוס אנג'לס בכל זמן בשנות ה-90,‏
 it	Chiunque lavorasse a Los Angeles negli anni '90 
 ko	1990년대에 | LA에서 일했다면 | 
 pl	Gdybyś w latach 90. pracował w Los Angeles, 
-pr-br	Se você trabalhasse em Los Angeles nos anos 90, 
-pr	Se trabalhassem em Los Angeles em qualquer altura dos anos 90, 
+pt-br	Se você trabalhasse em Los Angeles nos anos 90, 
+pt	Se trabalhassem em Los Angeles em qualquer altura dos anos 90, 
 ro	Dacă lucrai în Los Angeles, oricând în anii '90, 
 th	หากคุณทำงานในลอสแอนเจลิสในยุค 1990 | 
 tr	1990'larda Los Angeles'ta çalıştıysanız 
@@ -37,8 +37,8 @@ he	&rlm;‏נתקלת בו.‏ |
 it	prima o poi si imbatteva in lui. 
 ko	분명히 마주쳤을 거예요 | 
 pl	tobyś go spotkał. 
-pr-br	cruzaria com ele. 
-pr	davam de caras com ele. 
+pt-br	cruzaria com ele. 
+pt	davam de caras com ele. 
 ro	te ciocneai de el. 
 th	คุณจะต้องเจอเขา | 
 tr	ona rastlamışsınızdır. 

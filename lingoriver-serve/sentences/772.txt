@@ -14,8 +14,8 @@ it	Che fai? Perché pensiamo alla sua situazione sentimentale?
 nl	Waarom maken we ons druk over haar huwelijkse staat? 
 no	Hva gjør du? Hvorfor snakker vi om sivilstatusen hennes? 
 pl	Dlaczego rozmawiamy o jej życiu osobistym? 
-pr-br	O que está fazendo aqui? Por que estamos preocupados com o estado civil dela? 
-pr	O que estás a fazer? O que nos interessa o estado civil dela? 
+pt-br	O que está fazendo aqui? Por que estamos preocupados com o estado civil dela? 
+pt	O que estás a fazer? O que nos interessa o estado civil dela? 
 ro	Ce faci? De ce te interesează starea ei civilă? 
 sv	Vad gör du här? Varför oroar vi oss för hennes civilstånd? 
 th	ทำอะไรอยู่ | ทำไมห่วงว่าเธอโสดหรือไม่โสด | 

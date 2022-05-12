@@ -14,8 +14,8 @@ ko	그런 건 걱정 말고 | 빨리 낫기나 하세요 |
 nl	Maak je daar niet druk om. Word gewoon beter. 
 no	Ikke tenk på det. Tenk på å bli frisk. 
 pl	Nie myśl o tym. Skup się na zdrowieniu. 
-pr-br	Não se preocupe com isso. Preocupe-se em melhorar. 
-pr	Não te preocupes com isso. Preocupa-te em melhorar. 
+pt-br	Não se preocupe com isso. Preocupe-se em melhorar. 
+pt	Não te preocupes com isso. Preocupa-te em melhorar. 
 ro	Lasă asta. Vreau doar să te faci bine. 
 ru	Не думай об этом. Думай о своем здоровье. 
 sv	Tänk inte på det. Tänk bara på att bli bättre. 

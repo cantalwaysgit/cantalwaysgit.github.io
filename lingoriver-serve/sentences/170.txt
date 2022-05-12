@@ -13,8 +13,8 @@ ko	매달 한 번 프레드 트라발레나 | 오프닝 공연도 하고 있잖�
 nl	Je mag eens per maand openen voor Fred Travalena in de Trop. 
 no	Du varmer opp for Fred Travalena på Trop en gang i måneden. 
 pl	Występujesz też przed Fredem Travalenem w Vegas. 
-pr-br	E uma vez por mês faria um show de abertura para Fred Travalena no Trop. 
-pr	E tens o espetáculo mensal a fazer a abertura do Fred Travalena no Trop. 
+pt-br	E uma vez por mês faria um show de abertura para Fred Travalena no Trop. 
+pt	E tens o espetáculo mensal a fazer a abertura do Fred Travalena no Trop. 
 ro	Și mai ai și un număr lunar în deschiderea lui Fred Travalena, la Tropicana. 
 sv	Och du öppnar för Fred Travalena en gång i månaden på Trop. 
 tr	Ayda bir de Trop'ta Fred Travalena'dan önce çıkıyorsun. 

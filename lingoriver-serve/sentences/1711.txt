@@ -9,8 +9,8 @@ fr	Je vais très bien, merci !
 he	&rlm;‏אני בסדר, תודה רבה.‏ | 
 it	Sto bene, grazie mille! 
 pl	Nic mi nie jest, dziękuję bardzo! 
-pr-br	Estou bem, muito obrigado! 
-pr	Eu estou bem, muito obrigado! 
+pt-br	Estou bem, muito obrigado! 
+pt	Eu estou bem, muito obrigado! 
 ro	Mă simt bine. Mulțumesc! 
 sv	Jag mår bra. Tack ska du ha. 
 th	ผมไม่เป็นไร ขอบคุณมาก | 

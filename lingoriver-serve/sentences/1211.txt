@@ -11,8 +11,8 @@ it	le aprisse il concerto allo Universal Amphitheatre.
 nl	...haar openingsact was in het Universal Amphitheatre. 
 no	varmet opp for henne på Universal Amphitheatre. 
 pl	wystąpił nieustraszony kaskader Gary. 
-pr-br	fosse o ato de abertura do Anfiteatro Universal. 
-pr	fazia a abertura dela no Universal Amphitheatre. 
+pt-br	fosse o ato de abertura do Anfiteatro Universal. 
+pt	fazia a abertura dela no Universal Amphitheatre. 
 ro	să apară în deschiderea ei la Universal Amphitheatre. 
 sv	var förband åt henne på Universal Amphitheatre. 
 th	ไปเปิดรายการของเธอ | ที่ยูนิเวอร์แซลแอมพิเทียร์เตอร์ | 

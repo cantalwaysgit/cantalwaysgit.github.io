@@ -15,8 +15,8 @@ ko	뭐지? |
 nl	Wat is dat? 
 no	Hva er det? 
 pl	Co to? 
-pr-br	O que é isso? 
-pr	O que é aquilo? 
+pt-br	O que é isso? 
+pt	O que é aquilo? 
 ro	Ce se aude? 
 th	นั่นอะไร | 
 tr	Ne o? 
@@ -39,8 +39,8 @@ it	È la canzone di Courtney.
 ko	코트니 노래잖아 | 
 no	Det er Courtneys sang. 
 pl	To piosenka Courtney. 
-pr-br	É a música da Courtney. 
-pr	É a música da Courtney. 
+pt-br	É a música da Courtney. 
+pt	É a música da Courtney. 
 ro	E cântecul lui Courtney. 
 th	นั่นเพลงของคอร์ทนี่ย์ | 
 tr	Courtney'nin şarkısı. 
@@ -61,8 +61,8 @@ it	Chiedile che stazione è.
 ko	어느 방송국인지 물어봐 | 
 no	Spør henne hvilken kanal det er. 
 pl	Zapytaj o stację. 
-pr-br	Pergunte para ela em qual estação está. 
-pr	Pergunta-lhe qual é a estação. 
+pt-br	Pergunte para ela em qual estação está. 
+pt	Pergunta-lhe qual é a estação. 
 ro	Întreab-o pe ce post e. 
 sv	Fråga henne vilken station det är. 
 th	ถามเธอสิว่าสถานีอะไร | 

@@ -14,8 +14,8 @@ it	Specchiati nel lago. E vedrai.
 ko	호수에 비춰보세요 | 보면 아실 거예요 | 
 nl	Bekijk jezelf in het meer. Dan zie je het. 
 pl	Spójrz na swoje odbicie w wodzie. 
-pr-br	Olhe-se no lago. Você verá. 
-pr	Olha o teu reflexo no lago. Vais ver. 
+pt-br	Olhe-se no lago. Você verá. 
+pt	Olha o teu reflexo no lago. Vais ver. 
 ro	Privește-te în apa lacului! O să vezi. 
 sv	Se själv på din spegelbild i sjön. 
 th	มองตัวเองในทะเลสาบสิ เจ้าจะได้เห็น | 

@@ -12,8 +12,8 @@ ko	전 너무 피곤해서 | 이만 가볼게요 |
 nl	Ik ben bekaf. Ik ga naar bed. 
 no	Jeg er utslitt. Jeg tar kvelden. 
 pl	Padam z nóg. Idę spać. 
-pr	Bem, estou exausto. Por hoje já chega. 
-pr-br	Estou exausto. Vou nessa. 
+pt	Bem, estou exausto. Por hoje já chega. 
+pt-br	Estou exausto. Vou nessa. 
 ro	Eu sunt extenuat. O să mă retrag. 
 sv	Jag är dödstrött. Jag ska dra mig. 
 th	ผมเหนื่อยจัง ต้องขอเลิกแค่นี้ละ | 

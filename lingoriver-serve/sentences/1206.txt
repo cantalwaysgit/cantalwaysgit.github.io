@@ -15,8 +15,8 @@ ko	코트니 아버지가 자고 있었단 | 기사를 무마하셨나요? |
 nl	...over haar vader die in slaap viel tijdens een gevangenisrel? 
 no	om at faren hennes sovnet under et fangeopprør? 
 pl	że jej ojciec zasnął podczas zamieszek w więzieniu? 
-pr-br	do pai dela pegando no sono durante um motim da prisão? 
-pr	sobre o pai dela adormecer durante um motim na prisão? 
+pt-br	do pai dela pegando no sono durante um motim da prisão? 
+pt	sobre o pai dela adormecer durante um motim na prisão? 
 ro	cu tatăl ei care a adormit în timpul unei revolte la penitenciar? 
 tr	uyuyakalmasıyla ilgili haberi örtbas ettin mi? 
 vi	ông bố quản giáo của cô ấy ngủ quên | trong vụ bạo loạn trong tù? | 

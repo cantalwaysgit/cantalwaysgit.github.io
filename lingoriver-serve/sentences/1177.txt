@@ -12,8 +12,8 @@ it	E puoi spedire un documento a un computer dalla parte opposta del Paese
 nl	...en dan kun je een document versturen naar een andere computer... 
 no	...og du kan sende et dokument til en annen PC på den andre siden av landet 
 pl	I możesz przesłać dokument komuś na drugim końcu kraju. 
-pr-br	e manda um documento para outro computador do outro lado do país 
-pr	e podes enviar um documento para um computador no outro lado do país 
+pt-br	e manda um documento para outro computador do outro lado do país 
+pt	e podes enviar um documento para um computador no outro lado do país 
 ro	și poți trimite un document la alt computer din capătul opus al țării 
 sv	och så kan man skicka ett dokument till en annan dator tvärsöver landet, 
 th	แล้วสามารถส่งข้อความข้ามประเทศ | ไปที่คอมพิวเตอร์อีกเครื่อง | 

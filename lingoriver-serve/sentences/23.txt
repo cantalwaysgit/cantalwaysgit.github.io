@@ -1,5 +1,5 @@
 ru	Но если вы с ним встретились, 
-pr-br	Mas quem quer que o conhecesse nunca o esquecia. 
+pt-br	Mas quem quer que o conhecesse nunca o esquecia. 
 id	Tapi orang yang menjumpainya tidak akan pernah melupakannya. 
 ja	だが一度 会ったら | 一生 忘れないだろう | 
 ar	&rlm;‏لكن من قابله لن ينساه أبداً.‏ | 
@@ -16,7 +16,7 @@ ko	하지만 누구든 샌디를 만나면 | 절대 잊지 못해요 |
 nl	Maar als je hem ontmoet had, vergat je hem nooit meer. 
 no	Men ingen som traff ham, kan glemme ham. 
 pl	Ale kiedy się go raz spotkało, trudno było o nim zapomnieć. 
-pr	Mas quem o conhecia, nunca o esquecia. 
+pt	Mas quem o conhecia, nunca o esquecia. 
 ro	Dar oricine îl întâlnea nu-l mai uita niciodată. 
 sv	Men alla som träffade honom, glömde honom aldrig. 
 th	แต่ใครที่เคยเจอหน้าจะไม่มีวันลืมเขา | 

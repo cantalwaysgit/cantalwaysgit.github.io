@@ -8,8 +8,8 @@ es	¡No!
 he	&rlm;‏לא!‏ | 
 it	No! 
 pl	Nie! 
-pr-br	Não! 
-pr	Não! 
+pt-br	Não! 
+pt	Não! 
 ro	Nu! 
 ru	Нет! 
 sv	Nej! 

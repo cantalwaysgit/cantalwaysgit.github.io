@@ -7,8 +7,8 @@ fi	Älä anna egosi määrätä.
 fr	Mets ton ego de côté. 
 it	Evita che il tuo ego le sia d'impaccio. 
 pl	Niech twoje ego wszystkiego nie zepsuje. 
-pr-br	Não deixe o seu ego atrapalhar. 
-pr	Não deixes o teu ego interferir. 
+pt-br	Não deixe o seu ego atrapalhar. 
+pt	Não deixes o teu ego interferir. 
 ro	Nu lăsa orgoliul să strice tot. 
 sv	Låt inte ditt ego stå i vägen. 
 tr	Egonu bu işe karıştırma. 

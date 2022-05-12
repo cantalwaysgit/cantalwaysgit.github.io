@@ -7,8 +7,8 @@ es-eu	BOBBY "A DORMIR" BARNES
 he	&rlm;‏‏- ‏בובי "בקבוקי" בארנס -‏ | 
 it	"NINNA NANNA" BOBBY BARNES 
 ko	“‘재워줄게’  | 보비 반스” | 
-pr	BOBBY BARNES "SONECA" 
-pr-br	"SONECA" 
+pt	BOBBY BARNES "SONECA" 
+pt-br	"SONECA" 
 ro	"NOAPTE BUNĂ!" BOBBY BARNES 
 th	("จอมปิดตาดำ" บ๊อบบี้ บาร์นส์) | 
 tr	"UYKU VAKTİ" BOBBY BARNES 

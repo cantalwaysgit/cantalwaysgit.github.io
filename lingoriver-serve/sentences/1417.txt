@@ -11,8 +11,8 @@ it	Promettimi che ci vedremo presto.
 nl	We moeten snel iets afspreken. Beloof het me. 
 no	La oss finne på noe snart. Lov meg det. 
 pl	Musimy się spotkać. Obiecaj mi. 
-pr-br	Prometa que vamos nos encontrar em breve. 
-pr	Sandy, promete-me que nos encontramos em breve. 
+pt-br	Prometa que vamos nos encontrar em breve. 
+pt	Sandy, promete-me que nos encontramos em breve. 
 ro	Să ne mai vedem curând! Promite-mi. 
 sv	Vi måste träffas snart. Lova det. 
 th	แล้วมาเจอกันเร็วๆ นี้นะ สัญญากับฉัน | 

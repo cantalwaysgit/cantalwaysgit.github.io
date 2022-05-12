@@ -11,8 +11,8 @@ it	Puoi diventare qualcuno.
 nl	Je kunt iemand worden. 
 no	Du kan bli noen. 
 pl	Możesz wiele osiągnąć. 
-pr	Atente no que lhe digo, podia ser alguém. 
-pr-br	Você poderia ser famosa. 
+pt	Atente no que lhe digo, podia ser alguém. 
+pt-br	Você poderia ser famosa. 
 ro	Te-ai putea realiza. 
 sv	Du kan bli någon. 
 th	คุณดังได้ | 

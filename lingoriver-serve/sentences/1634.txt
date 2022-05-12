@@ -11,8 +11,8 @@ it	Tirati su, campione!
 ko	괜찮아, 링 위로 올라가! | 
 nl	Ga terug, kampioen. 
 pl	Wracaj do niego! 
-pr-br	Ei, volte lá, campeão! 
-pr	Pronto, volta para lá, grandalhão! 
+pt-br	Ei, volte lá, campeão! 
+pt	Pronto, volta para lá, grandalhão! 
 ro	Întoarce-te acolo, campionule! 
 ru	Так, возвращайся! 
 sv	In med dig igen! 

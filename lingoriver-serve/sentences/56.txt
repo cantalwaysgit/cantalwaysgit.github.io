@@ -12,7 +12,7 @@ ko	- 어려움을 이겨내시면... | - 언제까지 통화할 거예요? |
 nl	Als je goed terechtkomt... -Hé, hoelang duurt het nog? 
 no	-Lander du på bena... -Hvor lenge skal du prate? 
 pl	- Chcesz spaść na cztery łapy... - Długo jeszcze? 
-pr	- Se te voltares a erguer... - Vai demorar muito? 
+pt	- Se te voltares a erguer... - Vai demorar muito? 
 ro	- Dacă aterizezi în picioare... - Amice, cât mai durează? 
 sv	-Om du landar på fötterna... -Är du klar snart? 
 th	- ถ้าคุณโชคดี... | - จะคุยอีกนานไหม | 
@@ -22,7 +22,7 @@ zh-long	-如果你腳踏實地… -你還要講多久？
 zh-short	-如果你成功了… -你要打多久？ 
 id	- Jika kau mengatasinya... - Bung, berapa lama lagi? 
 ru	-Если тебе повезет... -Вы скоро? 
-pr-br	-Se você se reerguer... -Vai demorar muito? 
+pt-br	-Se você se reerguer... -Vai demorar muito? 
 ja	足で着地を… | 
 
 es	KASIA: OYE, NO VENGAS A MI FIESTA DE CUMPLEAÑOS. 

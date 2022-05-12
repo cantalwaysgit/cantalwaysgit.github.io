@@ -11,8 +11,8 @@ it	Mi scusi. È stata fantastica.
 ko	실례합니다, 정말 훌륭했어요 | 
 nl	Pardon. Je was geweldig. 
 pl	Przepraszam. Byłaś fantastyczna. 
-pr-br	Com licença. Você foi fantástica. 
-pr	Desculpe. Foi fantástica. 
+pt-br	Com licença. Você foi fantástica. 
+pt	Desculpe. Foi fantástica. 
 ro	Scuzați-mă! Ați fost senzațională pe scenă. 
 sv	Ursäkta mig. Du var strålande på scen. 
 th	โทษที คุณสุดยอดเลยบนเวที | 

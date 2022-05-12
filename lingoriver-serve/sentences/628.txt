@@ -11,8 +11,8 @@ it	Per questo ci sono io.
 ko	내 역할이 뭐겠어? | 
 nl	Daar heb je mij voor. 
 pl	Po to masz mnie. 
-pr-br	É por isso que você tem a mim. 
-pr	É por isso que me tens a mim. 
+pt-br	É por isso que você tem a mim. 
+pt	É por isso que me tens a mim. 
 ro	De asta mă ai pe mine. 
 sv	Det är det du har mig till. 
 tr	O yüzden ben varım ya. 

@@ -14,8 +14,8 @@ he	&rlm;‏מה שחשוב זה מה שהוא אומר.‏ |
 it	Quello che conta sono le battute. 
 nl	Het belangrijkste is wat hij zegt. 
 no	Det viktige er hva han sier. 
-pr-br	O importante é o que o cara diz. 
-pr	O importante é o que ele diz. 
+pt-br	O importante é o que o cara diz. 
+pt	O importante é o que ele diz. 
 ro	Contează ce spune tipul. 
 sv	Det viktiga är vad han säger. 
 tr	Önemli olan ne söylediği. 

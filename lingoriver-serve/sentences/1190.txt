@@ -13,8 +13,8 @@ ko	- 괜찮으시죠? | - 네, 여왕님 |
 nl	Goed? -Ja, mijn koningin. 
 no	-Greit? -Ja, min dronning. 
 pl	- Dobrze? - Tak, królowo. 
-pr-br	-Está bem? -Sim, minha rainha. 
-pr	- Está bem? - Sim, minha rainha. 
+pt-br	-Está bem? -Sim, minha rainha. 
+pt	- Está bem? - Sim, minha rainha. 
 ro	- Da? - Da, regina mea. 
 sv	-Okej? -Ja, min drottning. 
 th	- โอเคไหม | - ครับ ราชินีของผม | 

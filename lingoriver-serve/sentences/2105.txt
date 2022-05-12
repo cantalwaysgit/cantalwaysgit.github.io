@@ -9,8 +9,8 @@ he	&rlm;‏כשתגנוב ההשתחוות הנוספת‏ |
 it	Che si prova con un secondo inchino 
 ko	어디서도 그런 행복한 | 기분을 느낄 수 없어 | 
 pl	Kiedy publika bisu chce 
-pr-br	Quando ganha mais aplausos 
-pr	Quando se consegue mais uma vénia 
+pt-br	Quando ganha mais aplausos 
+pt	Quando se consegue mais uma vénia 
 ro	Când ți se face o reverență în plus 
 th	เมื่อคุณได้ขโมยโค้งคำนับอีกครั้ง | 
 tr	Fazladan bir reverans kapmanız kadar 

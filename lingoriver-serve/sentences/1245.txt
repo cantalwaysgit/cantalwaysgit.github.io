@@ -7,8 +7,8 @@ es-eu	Como mi cartera de talentos.
 it	Per esempio la mia scuderia di talenti. 
 ko	재능있는 내 고객들 말이야 | 
 nl	Zoals mijn groep talenten. 
-pr-br	Como meu grupo de talentos. 
-pr	Como o meu grupo de artistas. 
+pt-br	Como meu grupo de talentos. 
+pt	Como o meu grupo de artistas. 
 sv	Som mitt stall med talanger. 
 zh-long	比如說我的藝人們 
 zh-short	我手里的其他艺人 

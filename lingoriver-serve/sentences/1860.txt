@@ -15,8 +15,8 @@ ko	농담이에요 | 병원으로 갔어요 |
 nl	Nee. Hij ging naar het ziekenhuis. 
 no	Nei da. Han dro på sykehuset. 
 pl	Żartuję. Zabrali go do szpitala. 
-pr-br	Brincadeira. Ele foi para o hospital. 
-pr	Estava a brincar. Levaram-no para o hospital. 
+pt-br	Brincadeira. Ele foi para o hospital. 
+pt	Estava a brincar. Levaram-no para o hospital. 
 ro	Glumesc. L-au dus la spital. 
 th	ล้อเล่นน่า เขาไปโรงพยาบาล | 
 tr	Şaka yapıyorum. Hastaneye gitti. 

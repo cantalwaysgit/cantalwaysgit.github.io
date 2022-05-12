@@ -13,8 +13,8 @@ it	Andrai alla grande.
 nl	Het komt goed met je. 
 no	Du klarer deg fint. 
 pl	Poradzisz sobie. 
-pr-br	Você vai ficar bem. 
-pr	Vais ficar bem. 
+pt-br	Você vai ficar bem. 
+pt	Vais ficar bem. 
 ro	O să te descurci. 
 sv	Du kommer att klara dig. 
 th	คุณจะไม่เป็นไร | 

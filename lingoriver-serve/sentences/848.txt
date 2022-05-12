@@ -13,8 +13,8 @@ he	&rlm;‏אתה יותר טוב ממה שיש בטלוויזיה האיראנ�
 it	Sei molto meglio della TV iraniana. 
 nl	Je bent veel beter dan de Iraanse tv. 
 pl	Jesteś lepszy niż irańska telewizja. 
-pr-br	É melhor ver você do que a programação da TV iraniana. 
-pr	És muito melhor do que o que temos na televisão iraniana. 
+pt-br	É melhor ver você do que a programação da TV iraniana. 
+pt	És muito melhor do que o que temos na televisão iraniana. 
 ro	Ești mai bun decât orice program de la televiziunea iraniană. 
 sv	Du är bättre än allt som visas på iransk TV. 
 th	คุณสนุกกว่ารายการทีวีในอิหร่าน | 

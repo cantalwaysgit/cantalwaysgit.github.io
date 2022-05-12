@@ -2,7 +2,7 @@ ar	&rlm;‏"صفحات الدمية - السيد (باتنز)"‏ |
 es-eu	LOS SÁBADOS SON DEL SR. BOTONES 
 es	LAS PÁGINAS DEL TÍTERE 
 he	&rlm;‏‏- עיתון הבובות | &rlm;‏מר כפתורים -‏ | 
-pr-br	PÁGINAS DE UMA MARIONETE SR. BOTÕES 
+pt-br	PÁGINAS DE UMA MARIONETE SR. BOTÕES 
 ro	PAGINILE PĂPUȘILOR DL BUTTONS 
 th	(พัปเพตเพจส์) | (คุณบัตตันส์) | 
 tr	KUKLA SAYFALARI BAY DÜĞME 

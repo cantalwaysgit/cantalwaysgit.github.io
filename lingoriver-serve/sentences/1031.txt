@@ -11,8 +11,8 @@ id	Bagaimana, Sandy? Kau menyukainya?
 it	Ti piace, Sandy? 
 ko	마음에 들어, 샌디? | 
 nl	Wat vind jij, Sandy? 
-pr-br	Está gostando, Sandy? 
-pr	Gostas, Sandy? 
+pt-br	Está gostando, Sandy? 
+pt	Gostas, Sandy? 
 sv	Gillar du det, Sandy? 
 tr	Beğendin mi Sandy? 
 vi	Anh có thích không, Sandy? | 

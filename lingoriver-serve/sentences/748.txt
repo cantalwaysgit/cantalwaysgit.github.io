@@ -14,8 +14,8 @@ he	&rlm;‏לא, הוא נשען על המתג.‏ |
 it	Sei appoggiato sull'interruttore. 
 no	Han lener seg mot lysbryteren. 
 pl	Oparł się o włącznik. 
-pr-br	Não, ele está encostado no interruptor. 
-pr	Não, ele está encostado ao interruptor. 
+pt-br	Não, ele está encostado no interruptor. 
+pt	Não, ele está encostado ao interruptor. 
 ro	Nu, se sprijină el de întrerupător. 
 sv	Nej, han lutar sig mot lampknappen. 
 tr	Hayır, ışık düğmesine yaslanıyor. 

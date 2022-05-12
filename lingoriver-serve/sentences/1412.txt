@@ -12,8 +12,8 @@ it	Mi piacerebbe. Ma devo andare in un posto.
 nl	Dat zou ik wel willen, maar ik moet ergens heen. 
 no	Skulle gjerne gjort det, men jeg har en avtale. 
 pl	Chętnie, ale nie mogę. 
-pr	Adorava, mas tenho de ir a um sítio. 
-pr-br	Eu adoraria, mas tenho compromisso. 
+pt	Adorava, mas tenho de ir a um sítio. 
+pt-br	Eu adoraria, mas tenho compromisso. 
 ro	Mi-ar plăcea. Dar trebuie să merg undeva. 
 sv	Det vore kul, men jag ska nån annanstans. 
 th	ก็อยากไป แต่ต้องไปที่อื่น | 

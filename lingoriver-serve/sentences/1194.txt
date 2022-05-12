@@ -13,8 +13,8 @@ it	Io sono il motivo?
 ko	나 때문에? | 
 no	Er jeg grunnen? 
 pl	Przeze mnie? 
-pr-br	Por minha causa? 
-pr	Por minha causa? 
+pt-br	Por minha causa? 
+pt	Por minha causa? 
 ro	Din cauza mea? 
 sv	Är jag orsaken? 
 th	ผมคือเหตุผลเหรอ | 

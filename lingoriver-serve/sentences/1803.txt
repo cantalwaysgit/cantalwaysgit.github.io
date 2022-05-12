@@ -13,8 +13,8 @@ ko	- 제가 뭐랬어요? | - 그러게 |
 nl	Zei ik het niet? 
 no	-Hva var det jeg sa? -Ja, flott. 
 pl	- Mówiłem. - Jasne. 
-pr-br	-Eu não disse a você? -Sim, ótimo. 
-pr	- Não te tinha dito? - Sim, ótimo. 
+pt-br	-Eu não disse a você? -Sim, ótimo. 
+pt	- Não te tinha dito? - Sim, ótimo. 
 ro	- Nu ți-am zis eu? - Grozav! 
 sv	-Sa jag inte det? -Ja, visst. 
 th	- ผมบอกแล้วใช่ไหม | - ใช่ | 

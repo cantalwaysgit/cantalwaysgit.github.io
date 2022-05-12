@@ -12,8 +12,8 @@ fr	Sache que je me teins les cheveux.
 he	&rlm;‏תקשיבי, אני צובע את השיער.‏ | 
 it	Senti, mi tingo i capelli. 
 pl	Posłuchaj. Farbuję włosy. 
-pr-br	Ouça, eu tinjo o meu cabelo. 
-pr	Escuta, eu pinto o cabelo. 
+pt-br	Ouça, eu tinjo o meu cabelo. 
+pt	Escuta, eu pinto o cabelo. 
 ro	Ascultă! Mă vopsesc. 
 sv	Jag färgar håret. 
 th	ฟังนะ ผมย้อมสีผม | 

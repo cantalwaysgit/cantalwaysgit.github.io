@@ -5,7 +5,7 @@ da	Træk pengene ud af Apple, for ingen bruger Macintosh.
 ro	Scoate-ți toți banii de la Apple, fiindcă nu se mai folosește Macintosh. 
 ja	〝コートニー？〞 | 
 pl	Sprzedaj wszystkie Apple. Macintosha nikt już nie używa. 
-pr-br	Tire toda a sua grana da Apple, pois ninguém está usando o Macintosh. 
+pt-br	Tire toda a sua grana da Apple, pois ninguém está usando o Macintosh. 
 tr	Bütün paranı Apple'dan çek çünkü artık kimse Macintosh kullanmıyor. 
 ja	アップル社の株を | 全部 売れ | 
 ja	〝コートニー？〞 | 

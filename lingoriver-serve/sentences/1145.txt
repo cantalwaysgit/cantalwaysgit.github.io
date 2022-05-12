@@ -15,8 +15,8 @@ ko	바지 벗는다 |
 nl	De broek gaat naar beneden. 
 no	Så buksa er av. 
 pl	Portki w dół. 
-pr-br	Estou tirando as calças. 
-pr	Então, as calças estão a sair. 
+pt-br	Estou tirando as calças. 
+pt	Então, as calças estão a sair. 
 ro	Pantalonii cad. 
 sv	Byxorna är på väg av. 
 th	ถอดกางเกงออกมาแล้ว | 

@@ -12,8 +12,8 @@ ko	대단했어요 |
 nl	Heel goed. 
 no	Den var god. 
 pl	Dobre. 
-pr-br	Muito bom. 
-pr	Muito bem. 
+pt-br	Muito bom. 
+pt	Muito bem. 
 ro	Foarte bine. 
 sv	Mycket bra. 
 th	เยี่ยมมาก | 

@@ -12,8 +12,8 @@ it	Devo essere onesto. È assolutamente ridicolo.
 ko	솔직히 말하면 | 정말 터무니없었어요 | 
 nl	Eerlijk gezegd, dat was echt belachelijk. 
 pl	Będę szczery. Jest totalnie z dupy wzięty. 
-pr-br	Vou ser sincero. Aquilo foi ridículo. 
-pr	Tenho de ser sincero. Ficou absolutamente ridículo. 
+pt-br	Vou ser sincero. Aquilo foi ridículo. 
+pt	Tenho de ser sincero. Ficou absolutamente ridículo. 
 ro	O să fiu sincer. A fost de-a dreptul ridicolă. 
 ru	Скажу вам честно. Это был идиотизм. 
 sv	Jag måste vara ärlig. Den var skrattretande. 

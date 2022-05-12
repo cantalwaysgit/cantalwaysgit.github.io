@@ -9,8 +9,8 @@ fr	- Tu sais, Baryshnikov... - Tais-toi. Je prends le relais.
 he	&rlm;‏‏את יודעת, ברישניקוב... | &rlm;‏-תשתוק, סנדי, אני אדאג לה.‏ | 
 it	- Sai, Baryshnikov... - Sandy, ci penso io. 
 no	-Baryshnikov... -Klapp igjen, jeg fikser det. 
-pr-br	-Sabe, Baryshnikov... -Cale a boca, Sandy, deixe-a comigo. 
-pr	- O Baryshnikov... - Cala-te, Sandy, eu trato dela. 
+pt-br	-Sabe, Baryshnikov... -Cale a boca, Sandy, deixe-a comigo. 
+pt	- O Baryshnikov... - Cala-te, Sandy, eu trato dela. 
 ro	- Să știi că Barîșnikov... - Gata, Sandy! E pe mâinile mele. 
 th	- รู้ไหม แบรีชนิคอฟ... | - หุบปากเลย แซนดี้ ฉันดูเธอให้เอง | 
 tr	-Bilirsin, Baryshnikov... -Sus Sandy, o iş bende. 

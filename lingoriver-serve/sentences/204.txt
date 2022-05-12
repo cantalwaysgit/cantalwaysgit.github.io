@@ -13,8 +13,8 @@ it	Come mai sei venuta fino qui da Tarzana?
 nl	Waarom ben je helemaal uit Tarzana gekomen? 
 no	Hva bringer dere helt hit fra Tarzana? 
 pl	Przyjechałyście aż z Tarzany? 
-pr-br	Por que vieram de Tarzana para cá? 
-pr	O que vos traz de Tarzana? 
+pt-br	Por que vieram de Tarzana para cá? 
+pt	O que vos traz de Tarzana? 
 ro	Ce vă aduce aici tocmai din Tarzana? 
 sv	Vad gör du ända här ute? 
 th	อะไรทำให้คุณมาถึงนี่จากทาร์ซานา | 

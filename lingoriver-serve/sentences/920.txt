@@ -9,8 +9,8 @@ he	&rlm;‏הנה זה!‏ |
 it	Eccola! 
 nl	Daar is het. 
 pl	Jest! 
-pr-br	Aqui. Achei! 
-pr	Cá está! 
+pt-br	Aqui. Achei! 
+pt	Cá está! 
 ro	Aici e! 
 sv	Där är den! 
 tr	İşte bu. Buldum! 

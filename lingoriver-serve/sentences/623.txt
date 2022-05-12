@@ -14,8 +14,8 @@ fr	J'y crois pas.
 he	&rlm;‏אלוהים.‏ | 
 it	Mio Dio. 
 ko	세상에 | 
-pr-br	Ah, meu Deus. 
-pr	Meu Deus. 
+pt-br	Ah, meu Deus. 
+pt	Meu Deus. 
 ro	Dumnezeule! 
 sv	Herregud. 
 tr	Aman Tanrım. 
@@ -37,8 +37,8 @@ fr	Quoi ? Elle est jolie.
 he	&rlm;‏מה? זו תמונה טובה.‏ | 
 it	Che c'è? È una bella foto. 
 pl	Co? To ładne zdjęcie. 
-pr-br	Quê? É uma foto legal. 
-pr	O que foi? É uma boa fotografia. 
+pt-br	Quê? É uma foto legal. 
+pt	O que foi? É uma boa fotografia. 
 ro	Ce e? E o fotografie reușită. 
 sv	Vadå? Det är en bra bild. 
 th	อะไร รูปนี้ดีนะ | 
@@ -63,8 +63,8 @@ he	&rlm;‏סנדי כבר ביקש ממני להדפיס אותה בשבילו.
 it	Me ne ha chiesto una copia anche Sandy. 
 no	Sandy har allerede bedt meg gjøre det. 
 pl	Sandy już mnie o nie poprosił. 
-pr-br	Sandy já me pediu para fazer para ele. 
-pr	O Sandy já me pediu para lhe fazer isso. 
+pt-br	Sandy já me pediu para fazer para ele. 
+pt	O Sandy já me pediu para lhe fazer isso. 
 ro	Sandy mi-a zis deja că vrea el poza aia. 
 th	แซนดี้ขอให้ผมทำแบบนั้นให้เขาแล้ว | 
 tr	Sandy de aynısından istedi. 

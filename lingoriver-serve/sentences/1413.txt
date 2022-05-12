@@ -11,8 +11,8 @@ it	Una mia cliente, Amy Baskin... Ti ricordi di Amy?
 nl	Mijn cliënt, Amy Baskin... Je kent Amy nog wel. 
 no	Klienten min, Amy Baskin... Du husker Amy. 
 pl	Moja klientka, Amy Baskin... Pamiętasz ją? 
-pr	A minha cliente, a Amy Baskin... Lembras-te da Amy. 
-pr-br	Minha cliente, Amy Baskin... Você se lembra da Amy. 
+pt	A minha cliente, a Amy Baskin... Lembras-te da Amy. 
+pt-br	Minha cliente, Amy Baskin... Você se lembra da Amy. 
 ro	O clientă, Amy Baskin... O mai știi pe Amy. 
 sv	Min klient, Amy Baskin. Du minns väl Amy? 
 th	ลูกค้าผม เอมี่ บาสกิน จำเอมี่ได้นะ | 

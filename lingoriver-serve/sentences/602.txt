@@ -15,8 +15,8 @@ ko	수영장은 출입 금지야 | 아무튼, 유리가 들렀더군 |
 nl	Het zwembad is verboden terrein. Huisregels. Yuri kwam langs. 
 no	Det er forbudt område. Husregler. Yuri kom innom kontoret mitt. 
 pl	Na basen jest zakaz wstępu. Yuri wpadł do mnie do biura. 
-pr	A piscina está interdita. Regras da casa. O Yuri passou no meu escritório. 
-pr-br	É proibido usar a piscina. Regras da casa. Então, Yuri foi no meu escritório. 
+pt	A piscina está interdita. Regras da casa. O Yuri passou no meu escritório. 
+pt-br	É proibido usar a piscina. Regras da casa. Então, Yuri foi no meu escritório. 
 ro	Piscina e interzisă. Regulile casei. Yuri a trecut pe la mine, la birou. 
 sv	Poolen är förbjudet område. Husregler. Yuri kom förbi mitt kontor. 
 th	สระห้ามเล่น กฎของบ้าน | ยูริแวะมาที่ออฟฟิศผม | 

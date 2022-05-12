@@ -13,8 +13,8 @@ ko	축하해요 |
 nl	Gefeliciteerd. 
 no	Gratulerer. 
 pl	Gratulacje. 
-pr-br	Parabéns. 
-pr	Muitos parabéns. 
+pt-br	Parabéns. 
+pt	Muitos parabéns. 
 ro	Felicitări! 
 sv	Grattis. 
 th	ยินดีด้วย | 

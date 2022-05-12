@@ -15,8 +15,8 @@ ko	기분이 어때? |
 nl	Hoe voel je je? 
 no	Hvordan føler du deg? 
 pl	Jak się czujesz? 
-pr-br	Como você está? 
-pr	Como te sentes? 
+pt-br	Como você está? 
+pt	Como te sentes? 
 ro	Cum te simți? 
 sv	Hur mår du? 
 th	รู้สึกยังไง | 

@@ -15,8 +15,8 @@ it	Nessuno mi chiama così da anni.
 ko	그 이름 들은 것도 | 정말 오랜만이네 | 
 nl	Zo word ik al jaren niet genoemd. 
 pl	Nie nazywają mnie tak od lat. 
-pr-br	Ninguém me chama assim há anos. 
-pr	Há anos que ninguém me chamava isso. 
+pt-br	Ninguém me chama assim há anos. 
+pt	Há anos que ninguém me chamava isso. 
 ro	Nu mi-a mai zis nimeni așa de ani buni. 
 th	ไม่มีใครเรียกชื่อนั้นมานานแล้ว | 
 tr	Yıllardır bana böyle diyen olmamıştı. 
@@ -39,8 +39,8 @@ fr	Ça fait plaisir de te voir.
 he	&rlm;‏טוב לראות אותך, סנדי.‏ | 
 it	Che piacere, Sandy. 
 pl	Miło cię widzieć. 
-pr-br	Que bom ver você, Sandy. 
-pr	É bom ver-te, Sandy. 
+pt-br	Que bom ver você, Sandy. 
+pt	É bom ver-te, Sandy. 
 ro	Mă bucur să te văd, Sandy. 
 sv	Kul att se dig, Sandy. 
 th	ดีจังที่ได้เจอ แซนดี้ | 
@@ -61,8 +61,8 @@ he	&rlm;‏היי, מה אתה עושה כאן?‏ |
 it	Ehi, che ci fai da queste parti? 
 no	Hva gjør du her? 
 pl	Co ty tutaj robisz? 
-pr-br	O que você está fazendo aqui? 
-pr	Olá, o que estás aqui a fazer? 
+pt-br	O que você está fazendo aqui? 
+pt	Olá, o que estás aqui a fazer? 
 ro	Ce faci aici? 
 sv	Vad gör du här? 
 th	เฮ่ มาทำอะไรที่นี่ | 

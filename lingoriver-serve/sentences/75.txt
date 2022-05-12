@@ -15,8 +15,8 @@ it	La prossima volta si prenderà il suo ketchup.
 nl	De volgende keer neemt hij zelf ketchup mee. 
 no	Neste gang tar han sin egen ketsjup. 
 pl	Następnym razem sam weźmie keczup. 
-pr-br	Na próxima, ele vai trazer o próprio ketchup. 
-pr	Para a próxima, ele traz o seu próprio  ketchup. 
+pt-br	Na próxima, ele vai trazer o próprio ketchup. 
+pt	Para a próxima, ele traz o seu próprio  ketchup. 
 ro	Data viitoare o să aibă ketchupul lui. 
 sv	Nästa gång tar han med egen ketchup. 
 th	คราวหน้าเขามี | ซอสมะเขือเทศของตัวเองเลย | 

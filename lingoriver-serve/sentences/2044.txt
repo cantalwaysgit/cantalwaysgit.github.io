@@ -15,8 +15,8 @@ ko	붐붐은 교파 공통 목사예요 |
 nl	Boom Boom is benoemd tot interkerkelijke predikant. 
 no	Boom Boom er ordinert. 
 pl	Bum Bum jest międzywyznaniowym pastorem. 
-pr-br	Bubu foi ordenado ministro interdenominacional. 
-pr	O Boom Boom foi ordenado pastor interdenominacional. 
+pt-br	Bubu foi ordenado ministro interdenominacional. 
+pt	O Boom Boom foi ordenado pastor interdenominacional. 
 ro	Boom Boom e hirotonisit preot interconfesional. 
 sv	Boom Boom är prästvigd som samkyrklig präst. 
 th	บูมบูมได้บวชเป็น | บาทหลวงระหว่างคณะนิกาย | 

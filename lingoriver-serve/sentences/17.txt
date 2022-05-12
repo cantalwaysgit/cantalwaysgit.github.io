@@ -14,8 +14,8 @@ ko	주변에서 흔히 보던 | 할리우드 매니저였어요 |
 nl	Hij was zo'n Hollywood-manager die je overal zag. 
 no	Han var en av de Hollywood-managerne som alltid var til stede. 
 pl	Sandy był typem menedżera, którego widuje się bardzo często. 
-pr-br	Ele era um daqueles empresários de Hollywood que você via por aí. 
-pr	Era um daqueles empresários de Hollywood que víamos constantemente. 
+pt-br	Ele era um daqueles empresários de Hollywood que você via por aí. 
+pt	Era um daqueles empresários de Hollywood que víamos constantemente. 
 ro	Era unul dintre impresarii de la Hollywood prezenți peste tot. 
 sv	Han var en Hollywoodmanager som man alltid såg ute. 
 th	เขาเป็นผู้จัดการฮอลลีวูด | ชนิดที่เราเห็นอยู่บ่อยๆ | 

@@ -11,8 +11,8 @@ it	Non ti direi di rompere un accordo se non esistesse un'offerta migliore.
 nl	Ik zou je geen deal laten afzeggen, als er geen beter aanbod zou zijn. 
 no	Jeg ville ikke bedt deg bryte en avtale uten at jeg trodde det fantes noe bedre. 
 pl	Nie doradzałbym ci zerwania umowy, gdybym nie miał czegoś lepszego. 
-pr-br	Eu não diria para você quebrar um acordo se não tivesse uma proposta melhor. 
-pr	Não te dizia para quebrares um acordo se não achasse que havia um melhor. 
+pt-br	Eu não diria para você quebrar um acordo se não tivesse uma proposta melhor. 
+pt	Não te dizia para quebrares um acordo se não achasse que havia um melhor. 
 ro	Nu ți-aș spune să te retragi, dacă n-aș avea o afacere mai bună. 
 sv	Jag skulle aldrig be dig bryta ett avtal, om det inte fanns ett bättre erbjudande. 
 th	ผมจะไม่บอกให้ยกเลิกสัญญา | นอกจากคิดว่าจะมีข้อเสนอที่ดีกว่า | 

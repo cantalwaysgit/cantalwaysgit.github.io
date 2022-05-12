@@ -12,8 +12,8 @@ it	Sembra che tu sia caduto nella tromba dell'ascensore.
 ko	매니저분이 | 승강기에서 떨어지신 것 같네요 | 
 nl	Je ziet eruit alsof je in een liftschacht bent gevallen. 
 pl	Wygląda, jakby wpadł do szybu windy. 
-pr-br	Parece que você caiu em um poço de elevador. 
-pr	Ele parece ter caído num poço de elevador. O que se passa? 
+pt-br	Parece que você caiu em um poço de elevador. 
+pt	Ele parece ter caído num poço de elevador. O que se passa? 
 ro	Arăți de parcă ai fi căzut în puțul liftului. 
 ru	Вид у тебя, будто ты упал в шахту лифта. 
 sv	Din manager ser ut som om han ramlat ner i ett hisschakt. 

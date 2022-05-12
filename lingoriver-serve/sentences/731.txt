@@ -15,8 +15,8 @@ ko	여기가 스튜디오 A예요 |
 nl	Dit is studio A. 
 no	Dette er Studio A. 
 pl	To Studio A. 
-pr-br	Este é o Estúdio A. 
-pr	Este é o Estúdio A. 
+pt-br	Este é o Estúdio A. 
+pt	Este é o Estúdio A. 
 ro	Aici e Studioul A. 
 sv	Här är studio A. 
 th	นี่คือสตูดิโอเอ | 

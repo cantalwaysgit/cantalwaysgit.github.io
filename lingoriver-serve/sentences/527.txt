@@ -14,8 +14,8 @@ he	&rlm;‏‏שיהוקי? זה אתה? | &rlm;‏-כן.‏ |
 it	- Singhiozzo? Sei tu? - Sì. 
 no	-Hikke? Er det deg? -Ja. 
 pl	- Czkawka? To ty? - Tak. 
-pr-br	-Soluço? É você? -Sim. 
-pr	- Soluços? És tu? - Sim. 
+pt-br	-Soluço? É você? -Sim. 
+pt	- Soluços? És tu? - Sim. 
 ro	- Sughiț! Tu ești? - Da. 
 sv	-Hickaren? Är det du? -Just det. 
 th	- จอมสะอึก คุณเหรอนั่น | - ใช่ | 

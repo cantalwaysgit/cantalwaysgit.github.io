@@ -10,7 +10,7 @@ fr	Je t'avais interdit la piscine, et toi, tu fais quoi ? Tu vas dedans.
 it	Dovevi stare alla larga dalla mia piscina e tu cosa fai? Ci entri. 
 nl	Ik zeg dat je uit m'n zwembad moet blijven en wat doe jij? Je gaat erin. 
 no	Jeg ber deg holde deg unna bassenget, og hva gjør du? Du går uti. 
-pr	Mando-te ficar longe da minha piscina e o que fazes? Entras lá. 
+pt	Mando-te ficar longe da minha piscina e o que fazes? Entras lá. 
 sv	Jag ber dig hålla dig borta från poolen. Vad gör du? Du hoppar i. 
 tr	Sana havuzumdan uzak dur, demiştim. Sen ne yaptın? İçine girdin. 
 zh-long	叫你別碰我的泳池，結果呢？ 你還是碰了 
@@ -23,7 +23,7 @@ th	ผมบอกไม่ให้ใช้สระว่ายน้ำ | �
 ro	Ți-am zis să nu te apropii de piscină, iar tu ce faci? Intri în ea. 
 el	Είπα να μείνεις μακριά από την πισίνα μου κι εσύ μπήκες μέσα. 
 he	&rlm;‏‏אמרתי לך לא להיכנס לבריכה, ומה אתה עושה? | &rlm;‏נכנס לבריכה.‏ | 
-pr-br	Eu mando você ficar longe da minha piscina e você entra nela? 
+pt-br	Eu mando você ficar longe da minha piscina e você entra nela? 
 en	You go in my pool. | 
 
 pl	Przegapiłeś najlepsze! 

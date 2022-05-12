@@ -12,8 +12,8 @@ it	I bambini lo adorano! Potrebbe essere il nuovo Buttons.
 nl	De kinderen vinden hem geweldig. Hij kan de nieuwe Buttons zijn. 
 no	Barna elsker fyren din! Han kan bli den neste Buttons. 
 pl	Dzieciaki są zachwycone! To może być nowy Buttons. 
-pr-br	A molecada está adorando o programa. Ele pode ser o próximo Botões. 
-pr	Os miúdos estão a adorá-lo! Ele podia ser o próximo Buttons. 
+pt-br	A molecada está adorando o programa. Ele pode ser o próximo Botões. 
+pt	Os miúdos estão a adorá-lo! Ele podia ser o próximo Buttons. 
 ro	Copiii ăștia îl adoră pe tipul tău. Ar putea fi noul Buttons. 
 sv	Ungarna älskar honom! Han kan bli nästa mr Buttons. 
 th	เด็กๆ ชอบคนของคุณ | เขาอาจเป็นคุณบัตตันส์คนต่อไปได้ | 

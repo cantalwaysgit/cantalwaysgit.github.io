@@ -14,8 +14,8 @@ ko	홍보 담당자랑 미팅이 있거든요 |
 nl	Een afspraak met publiciteitsagenten. 
 no	Vi skal møte PR-konsulenter. 
 pl	Mamy spotkania z agentami prasowymi. 
-pr-br	Temos reuniões com assessores de imprensa. 
-pr	Temos reuniões publicitárias. 
+pt-br	Temos reuniões com assessores de imprensa. 
+pt	Temos reuniões publicitárias. 
 ro	Avem întâlniri cu editorii. 
 sv	Vi har möten med reklamagenter. 
 th	เรามีประชุมกับนักประชาสัมพันธ์ | 

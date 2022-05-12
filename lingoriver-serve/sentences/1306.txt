@@ -1,4 +1,4 @@
-pr-br	Querendo que você me deseje 
+pt-br	Querendo que você me deseje 
 ar	&rlm;‏أريدك أن ترغب بي"‏ | 
 es	Deseo que me desees 
 es-eu	Deseándote 
@@ -6,7 +6,7 @@ he	&rlm;‏רוצה אותך רוצה אותי‏ |
 it	Voglio te e tu vuoi me 
 ko	당신을 원해 | 
 nl	ik wil dat je mij wilt 
-pr	Querer-te a querer-me 
+pt	Querer-te a querer-me 
 ro	Te doresc, mă dorești 
 th	ต้องการให้คุณต้องการฉัน | 
 tr	İstiyorum seni, iste beni 

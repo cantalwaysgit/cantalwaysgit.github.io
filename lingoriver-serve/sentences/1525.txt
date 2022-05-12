@@ -10,8 +10,8 @@ fr	Marc Anthony ? Sérieux.
 he	&rlm;‏מארק אנתוני? בחייך.‏ | 
 it	Marc Anthony? Ma dai. 
 pl	Co ty gadasz? 
-pr-br	Marc Anthony? Qual é. 
-pr	O Marc Anthony? Ora. 
+pt-br	Marc Anthony? Qual é. 
+pt	O Marc Anthony? Ora. 
 ro	Marc Anthony? Zău! 
 th	มาร์ค แอนโทนี่เรอะ ไม่เอาน่า | 
 tr	Marc Anthony mi? Hadi ama. 

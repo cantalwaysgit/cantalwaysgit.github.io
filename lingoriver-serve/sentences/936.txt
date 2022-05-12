@@ -13,8 +13,8 @@ ko	마이크 타이슨한테 | 한 대 얻어맞은 것 같네요 |
 nl	Jij ziet eruit alsof Mike Tyson je heeft geslagen. 
 no	Du ser ut som om Mike Tyson slo deg ned. 
 pl	A ty, jakby cię znokautował Mike Tyson. 
-pr-br	Você parece nocauteado pelo Mike Tyson. 
-pr	Tu pareces ter levado uma tareia do Mike Tyson. 
+pt-br	Você parece nocauteado pelo Mike Tyson. 
+pt	Tu pareces ter levado uma tareia do Mike Tyson. 
 ro	Tu arăți de parcă te-ar fi doborât Mike Tyson! 
 ru	А ты - как жертва Майка Тайсона. 
 sv	Du ser ut som Mike Tyson har knockat dig. 
@@ -35,8 +35,8 @@ fr	Il t'est arrivé quoi ?
 he	&rlm;‏מה קרה?‏ | 
 it	Che ti è successo? 
 ko	무슨 일 있었어요? | 
-pr-br	O que aconteceu? 
-pr	O que aconteceu? 
+pt-br	O que aconteceu? 
+pt	O que aconteceu? 
 ro	Ce s-a întâmplat? 
 sv	Vad hände? 
 tr	Ne oldu? 
@@ -62,8 +62,8 @@ he	&rlm;‏נתקלתי במוס במלרוז.‏ |
 it	Mi sono scontrato con un alce sulla Melrose. 
 no	Jeg kjørte på en elg på Melrose. 
 pl	W Melrose wpadłem na łosia. 
-pr	Bati contra um alce na Melrose. 
-pr-br	Atropelei um alce em Melrose. 
+pt	Bati contra um alce na Melrose. 
+pt-br	Atropelei um alce em Melrose. 
 ro	M-am ciocnit de un elan pe bulevardul Melrose. 
 sv	Jag sprang på en älg på Melrose. 
 tr	Melrose'da bir geyiğe çarptım. 

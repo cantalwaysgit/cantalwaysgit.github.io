@@ -13,8 +13,8 @@ it	Pervertito.
 nl	Smeerlap. 
 no	Pervo. 
 pl	Zbok. 
-pr-br	Pervertido. 
-pr	Tarado. 
+pt-br	Pervertido. 
+pt	Tarado. 
 ro	Perversule! 
 sv	Pervo. 
 th	ลามก | 

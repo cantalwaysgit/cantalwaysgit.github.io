@@ -10,8 +10,8 @@ he	&rlm;‏עברת התקף לב קל. יריית אזהרה.‏ |
 it	Ha avuto un leggero attacco di cuore. Un avvertimento. 
 nl	U had een kleine hartaanval. Een waarschuwing. 
 no	Du hadde et lite hjerteinfarkt. Et varselsskudd. 
-pr-br	Você teve um pré-infarto. Uma prévia. 
-pr	Teve um pequeno ataque cardíaco. Foi um aviso. 
+pt-br	Você teve um pré-infarto. Uma prévia. 
+pt	Teve um pequeno ataque cardíaco. Foi um aviso. 
 ro	Ați avut un infarct minor. A fost un avertisment. 
 tr	Küçük bir kalp krizi geçirdiniz. Bu bir uyarıydı. 
 vi	Anh bị đau tim nhẹ. Mức cảnh báo. | 

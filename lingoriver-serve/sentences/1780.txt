@@ -8,8 +8,8 @@ fi	Tapoitko hänet?
 it	L'hai ucciso tu? 
 ko	네가 죽였어? | 
 nl	Heb je hem vermoord? 
-pr-br	Você o matou? 
-pr	Mataste-o? 
+pt-br	Você o matou? 
+pt	Mataste-o? 
 sv	Dödade du honom? 
 vi	Anh giết ông ấy à? | 
 zh-long	你殺了他？ 

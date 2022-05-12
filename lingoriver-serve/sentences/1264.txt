@@ -1,5 +1,5 @@
 id	Bintang paling terang di langit. 
-pr-br	A estrela mais brilhante do mundo. 
+pt-br	A estrela mais brilhante do mundo. 
 ja	誰より輝く星だ | 
 ar	&rlm;‏أكثر النجوم ضياءً.‏ | 
 el	Το πιο φωτεινό αστέρι. 
@@ -12,7 +12,7 @@ it	La stella più brillante.
 nl	De grootste ster. 
 no	Den lyseste stjernen. 
 pl	Największą z gwiazd. 
-pr	A estrela mais brilhante. 
+pt	A estrela mais brilhante. 
 ro	Cea mai strălucitoare stea. 
 ru	Самой яркой звездой. 
 th	ดวงดาวที่เจิดจรัสที่สุด | 

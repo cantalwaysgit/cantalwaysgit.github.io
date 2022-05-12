@@ -14,8 +14,8 @@ ko	안녕하세요, 신디! |
 nl	Hoi, Cindy. 
 no	Hei, Cindy! 
 pl	Cześć, Cindy! 
-pr-br	Oi, Cindy! 
-pr	Olá, Cindy! 
+pt-br	Oi, Cindy! 
+pt	Olá, Cindy! 
 ro	Bună, Cindy! 
 sv	Hej, Cindy. 
 th	หวัดดีครับซินดี้ | 

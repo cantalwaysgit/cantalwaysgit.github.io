@@ -16,8 +16,8 @@ ko	거대한 토네이도는 | 미풍에서 시작하죠 |
 nl	De sterkste tornado begint met 'n briesje. 
 no	Den sterkeste tornado begynner med en svak bris. 
 pl	Nawet największe tornado na początku jest zefirkiem. 
-pr-br	O tornado mais forte começa com uma leve brisa. 
-pr	O tornado mais poderoso começa com uma pequena brisa. 
+pt-br	O tornado mais forte começa com uma leve brisa. 
+pt	O tornado mais poderoso começa com uma pequena brisa. 
 ro	Cele mai mari tornade pornesc de la o adiere. 
 sv	Den mäktigaste tornadon börjar med en liten bris. 
 tr	En kuvvetli kasırga ufak bir meltemle başlar. 

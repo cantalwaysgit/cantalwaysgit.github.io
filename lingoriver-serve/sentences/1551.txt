@@ -12,8 +12,8 @@ he	&rlm;‏‏מה נעשה היום? | &rlm;‏-כל מה שתרצי, ילדו�
 it	- Oggi che facciamo? - Quello che vuoi, piccola. 
 nl	Wat gaan we vandaag doen? -Wat jij wilt. 
 no	-Hva skal vi gjøre i dag? -Hva du vil. 
-pr-br	-O que vamos fazer hoje? -O que você quiser, garota. 
-pr	- O que vamos fazer hoje? - O que quiseres, miúda. 
+pt-br	-O que vamos fazer hoje? -O que você quiser, garota. 
+pt	- O que vamos fazer hoje? - O que quiseres, miúda. 
 ro	- Ce facem azi? - Orice vrei tu, puștoaico. 
 sv	-Vad ska vi göra idag? -Vad du vill. 
 th	- วันนี้เราจะทำอะไร | - อะไรก็ได้ที่อยากทำเลย เด็กน้อย | 

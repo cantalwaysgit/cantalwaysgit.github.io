@@ -9,8 +9,8 @@ fr	Seattle ? Qu'est-ce que tu racontes ?
 it	A Seattle? Ma che dici? 
 nl	Seattle? Wat bedoel je? 
 pl	Do Seattle? O czym ty mówisz? 
-pr-br	Seattle? Do que você está falando? 
-pr	Seattle? Que conversa é essa? 
+pt-br	Seattle? Do que você está falando? 
+pt	Seattle? Que conversa é essa? 
 ro	Seattle? Ce spui acolo? 
 sv	Seattle? Vad pratar du om? 
 tr	Seattle mı? Sen ne diyorsun? 

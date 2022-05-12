@@ -10,8 +10,8 @@ he	&rlm;‏‏אני חושב שיועץ הבטיחות אמר | &rlm;‏שיש 
 it	Il consulente per la sicurezza ha detto che hai quattro secondi 
 nl	Ik geloof dat de veiligheidsadviseur zei dat je binnen vier seconden... 
 pl	Doradca ds. bezpieczeństwa powiedział, że musisz wylądować w wodzie 
-pr	Acho que o consultor de segurança falou em quatro segundos 
-pr-br	Acho que o consultor de segurança disse que tem quatro segundos 
+pt	Acho que o consultor de segurança falou em quatro segundos 
+pt-br	Acho que o consultor de segurança disse que tem quatro segundos 
 ro	Consilierul pe probleme de siguranță cred că zicea că ai patru secunde 
 sv	Säkerhetsrådgivaren sa att du har fyra sekunder, 
 th	คิดว่าที่ปรึกษาความปลอดภัยบอกว่า | นายมีเวลาสี่วินาที | 
@@ -38,7 +38,7 @@ it	per arrivare all'acqua.
 nl	...nat moet zijn. 
 no	før du må bli våt. 
 pl	po czterech sekundach. 
-pr-br	antes de se molhar. 
+pt-br	antes de se molhar. 
 ro	înainte să trebuiască să intri în apă. 
 sv	innan du måste bli våt. 
 th	ก่อนที่ต้องให้ตัวเปียก | 
@@ -46,7 +46,7 @@ tr	ıslanman gerekirmiş.
 vi	trước khi gặp nước. | 
 zh-long	你一定要下水 
 zh-short	必须下水 
-pr	até teres de te molhar. - Achas ou falou mesmo? Em quatro? 
+pt	até teres de te molhar. - Achas ou falou mesmo? Em quatro? 
 ru	Потом тебе надо срочно в воду. 
 id	sebelum kau harus basah. 
 ko	그 전에 물에 닿아야 해 | 

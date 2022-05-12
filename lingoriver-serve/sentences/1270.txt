@@ -11,8 +11,8 @@ it	Il suono del pianto non è mai piacevole,
 ko	울음소리는 원래 | 듣기 좋진 않지만 | 
 nl	Je mag best eens goed huilen. 
 pl	Ludzie różnie płaczą, 
-pr-br	Não que o choro das pessoas seja bonito, 
-pr	Não é que alguém chore bem, 
+pt-br	Não que o choro das pessoas seja bonito, 
+pt	Não é que alguém chore bem, 
 ro	Nu că n-am plânge serios cu toții, 
 th	ไม่มีใครร้องไห้น่าฟังหรอก | 
 tr	Kimse hoş bir şekilde ağlamaz 
@@ -36,8 +36,8 @@ he	&rlm;‏אבל הבכי שלו נשמע כמו מוס בודד.‏ |
 it	ma il suo ricordava il verso di un alce solitario. 
 nl	Maar dat van hem klonk als een eenzame eland. 
 pl	ale on brzmiał jak samotny łoś. 
-pr-br	mas o choro dele parecia um alce solitário. 
-pr	mas o choro dele parecia o de um alce abandonado. 
+pt-br	mas o choro dele parecia um alce solitário. 
+pt	mas o choro dele parecia o de um alce abandonado. 
 ro	dar plânsul lui se auzea ca și cum ar fi urlat un elan singuratic. 
 th	แต่เสียงร้องของเขา | มันเหมือนกวางที่หงอยเหงา | 
 tr	ama o ağlarken yalnız bir geyik gibi sesler çıkarıyormuş. 

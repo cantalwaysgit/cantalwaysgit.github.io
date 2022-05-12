@@ -13,8 +13,8 @@ ko	- 헛소리 들었지? | - 정말이야 |
 nl	Geloof jij het? -Echt. 
 no	-Hør på dette pisspreiket. -Jeg var det. 
 pl	- Bujda na resorach. - Naprawdę byłem. 
-pr-br	-Quanta mentira. -Eu estava, sim. 
-pr	- Isso é tudo treta. - A sério que estive. 
+pt-br	-Quanta mentira. -Eu estava, sim. 
+pt	- Isso é tudo treta. - A sério que estive. 
 ro	- Te ții numai de vrăjeli! - Chiar am fost. 
 sv	-Det är bara en massa skitsnack. -Jag var där. 
 th	- ฟังคำโกหกพวกนั้นสิ | - ฉันอยู่นะ | 

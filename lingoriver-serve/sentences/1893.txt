@@ -13,8 +13,8 @@ it	Si chiama Eric Lamonsoff. Non è nel nostro campo.
 nl	Hij heeft Eric Lamonsoff. Hij zit niet in de showbizz. 
 no	Han heter Eric Lamonsoff. Han er ikke i showbusiness. 
 pl	Nazywa się Eric Lamonsoff i nie pracuje w show-biznesie. 
-pr-br	O nome dele é Eric Lamonsoff. Ele não é artista. 
-pr	Chama-se Eric Lamonsoff. Não é do mundo do espetáculo. 
+pt-br	O nome dele é Eric Lamonsoff. Ele não é artista. 
+pt	Chama-se Eric Lamonsoff. Não é do mundo do espetáculo. 
 ro	Îl cheamă Eric Lamonsoff. Nu e în showbiz. 
 sv	Han heter Eric Lamonsoff. Han jobbar inte med showbusiness. 
 th	เขาชื่อเอริค ลามอนซอฟฟ์ | เขาไม่ได้อยู่ในวงการบันเทิง | 

@@ -15,8 +15,8 @@ ko	- 전화했어? | - 그래, 전화했지 |
 nl	Heb je hem gebeld? 
 no	-Ringte du ham? -Ja, jeg ringte ham. 
 pl	- Dzwoniłeś do niego? - Tak. 
-pr-br	-Ligou para ele? -Sim, liguei para ele. 
-pr	- Ligaste-lhe? - Sim, liguei. 
+pt-br	-Ligou para ele? -Sim, liguei para ele. 
+pt	- Ligaste-lhe? - Sim, liguei. 
 ro	- L-ai sunat? - Da, l-am sunat. 
 sv	-Ringde du honom? -Ja, det gjorde jag. 
 th	- โทรไปหาเขาหรือยัง | - ใช่ โทรแล้ว | 

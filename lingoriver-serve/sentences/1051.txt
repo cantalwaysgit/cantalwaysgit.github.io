@@ -16,8 +16,8 @@ he	&rlm;‏אנחנו ניקרע מצחוק. בחייך.‏ |
 it	Ci faremo delle belle risate. Dai. 
 nl	Dat wordt lachen. Kom op. 
 no	Vi kommer til å le oss i hjel. Kom igjen. 
-pr-br	Vamos morrer de rir. Diga. 
-pr	Vamos fartar-nos de rir. Vá lá. 
+pt-br	Vamos morrer de rir. Diga. 
+pt	Vamos fartar-nos de rir. Vá lá. 
 ro	O să râdem de-o să ne prăpădim. Hai! 
 sv	Vi skulle skratta ihjäl oss. Kom igen. 
 tr	Gülmekten öleceğiz. Hadi ama. 

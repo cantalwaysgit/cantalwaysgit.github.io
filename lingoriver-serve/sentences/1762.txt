@@ -13,8 +13,8 @@ ko	- 냉이 뭐예요? | - 나도 먹으면 안 돼요? |
 nl	Wat is afscheiding? -Mag ik dat ook? 
 no	-Hva er vaginal utflod? -Kan jeg få litt? 
 pl	- Co to są upławy? - Mogę trochę dostać? 
-pr-br	-O que é corrimento vaginal? -Eu quero um pouco. 
-pr	- O que é corrimento vaginal? - Também posso ter? 
+pt-br	-O que é corrimento vaginal? -Eu quero um pouco. 
+pt	- O que é corrimento vaginal? - Também posso ter? 
 ro	- Ce sunt secrețiile vaginale? - Îmi dai și mie? 
 ru	-Что такое выделения? -А мне можно? 
 sv	-Vad är vaginalkräm? -Kan jag få det? 

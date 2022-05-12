@@ -10,8 +10,8 @@ he	&rlm;‏לחייך בעוד האולם מתמלא‏ |
 it	Sorridere guardando Il teatro che si riempie 
 ko	극장에 관객이 차는 걸 | 미소 지으며 바라보기 | 
 pl	Sala wypełnia się po brzegi 
-pr-br	Sorrir ao ver o teatro enchendo 
-pr	Sorrir ao ver a sala encher 
+pt-br	Sorrir ao ver o teatro enchendo 
+pt	Sorrir ao ver a sala encher 
 ro	Să zâmbești când sala se umple 
 sv	Och le när man ser teatern fyllas 
 th	ยิ้มเมื่อเห็นคนทยอยเข้าโรงละคร | 

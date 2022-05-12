@@ -17,8 +17,8 @@ ko	훨씬 낫네요 |
 nl	Dat is veel beter. 
 no	Mye bedre. 
 pl	O wiele lepiej. 
-pr-br	Bem melhor. 
-pr	Muito melhor. 
+pt-br	Bem melhor. 
+pt	Muito melhor. 
 ro	E mult mai bine! 
 tr	Bu çok daha iyi. 
 vi	Tốt hơn rồi. | 

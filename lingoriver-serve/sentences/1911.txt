@@ -12,8 +12,8 @@ it	Ero felice anche soltanto Galleggiando a valle
 ko	하류에서도 행복하게 지냈지 | 
 nl	ik ging gewoon met de stroom mee 
 pl	Płynęłam sobie z prądem 
-pr-br	Eu estava feliz flutuando Correnteza abaixo 
-pr	Eu era feliz a flutuar rio abaixo 
+pt-br	Eu estava feliz flutuando Correnteza abaixo 
+pt	Eu era feliz a flutuar rio abaixo 
 ro	Mă lăsam dusă de val 
 ru	Я просто плыла по течению 
 sv	Var jag nöjd med att flyta nedströms 

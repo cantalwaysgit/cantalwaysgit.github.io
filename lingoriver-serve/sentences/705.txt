@@ -12,8 +12,8 @@ ko	그건 마티 잘못이 아니잖아 | 괜찮아, 다른 클럽도 많아 |
 nl	Dat is niet zijn schuld. Geeft niet. Er zijn andere clubs. 
 no	Det er ikke hans skyld. Det går bra. Det finnes andre klubber. 
 pl	Nic nie szkodzi. To nie jego wina. Są jeszcze inne kluby. 
-pr	A culpa não foi dele. Não houve problema. Há outros clubes. 
-pr-br	Não foi culpa dele. Tudo bem. Há outros clubes. 
+pt	A culpa não foi dele. Não houve problema. Há outros clubes. 
+pt-br	Não foi culpa dele. Tudo bem. Há outros clubes. 
 ro	N-a fost vina lui. E în regulă. Mai sunt și alte cluburi. 
 sv	Det är inte hans fel. Det är lugnt. Det finns andra klubbar. 
 th	ฟังนะ นั่นไม่ใช่ความผิดของเขา | ไม่เป็นไร คลับอื่นก็มี | 

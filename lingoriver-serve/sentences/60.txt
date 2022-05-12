@@ -12,8 +12,8 @@ ko	사생활요? |
 nl	Zijn privéleven? 
 no	Privatlivet hans? 
 pl	Jego życie osobiste? 
-pr	A vida pessoal dele? 
-pr-br	A vida pessoal dele? 
+pt	A vida pessoal dele? 
+pt-br	A vida pessoal dele? 
 ro	Viața lui personală? 
 sv	Sandys privatliv? 
 th	ชีวิตส่วนตัวเขาเหรอ | 

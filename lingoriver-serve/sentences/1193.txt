@@ -14,8 +14,8 @@ it	Sandy, tu sei il motivo per cui le serve un addetto stampa.
 ko	샌디, 당신 때문에 | 홍보 담당자가 필요한 거예요 | 
 no	Sandy, du er grunnen til at hun trenger PR-agent. 
 pl	To właśnie przez ciebie potrzebuje agenta prasowego. 
-pr-br	Sandy, é por sua causa que ela precisa  de um assessor de imprensa. 
-pr	Sandy, é por tua causa que ela precisa de um agente publicitário. 
+pt-br	Sandy, é por sua causa que ela precisa  de um assessor de imprensa. 
+pt	Sandy, é por tua causa que ela precisa de um agente publicitário. 
 ro	Sandy, din cauza ta are nevoie de un editor. 
 sv	Du är orsaken till att hon behöver en reklamagent. 
 th	แซนดี้ คุณคือเหตุผล | ที่เธอต้องมีนักประชาสัมพันธ์ | 

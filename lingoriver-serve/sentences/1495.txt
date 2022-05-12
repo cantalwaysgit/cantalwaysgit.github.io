@@ -10,8 +10,8 @@ he	&rlm;‏ואת... נושמת.‏ |
 it	Respiri. 
 no	Og du puster. 
 pl	Oddychasz. 
-pr-br	E você está respirando. 
-pr	E estás a respirar. 
+pt-br	E você está respirando. 
+pt	E estás a respirar. 
 ro	Și respiri. 
 sv	Och du andas. 
 th	หายใจอยู่หรือเปล่า | 

@@ -14,8 +14,8 @@ ko	진짜 귀엽지? |
 nl	Schattig, toch? 
 no	Er det søtt? 
 pl	Urocze. 
-pr-br	Não é adorável? 
-pr	Não é adorável? 
+pt-br	Não é adorável? 
+pt	Não é adorável? 
 ro	Nu e adorabilă? 
 sv	Är det inte underbart? 
 th	นั่นน่ารักไหม | 

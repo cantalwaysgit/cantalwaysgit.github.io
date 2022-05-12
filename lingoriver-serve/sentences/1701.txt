@@ -12,8 +12,8 @@ ko	그래서 뭔가를 공유할 수 있는 | 사람을 갈구하게 되죠 |
 nl	Daarom verlang je naar iemand om het mee te delen. 
 no	Du lengter etter noen å dele det med. 
 pl	Dlatego chce się go z kimś dzielić. 
-pr	Ansiamos por alguém com quem o partilhar. 
-pr-br	Você anseia compartilhar com alguém. 
+pt	Ansiamos por alguém com quem o partilhar. 
+pt-br	Você anseia compartilhar com alguém. 
 ro	Tânjești la cineva cu care să-l împarți. 
 ru	Хочется его с кем-то разделить. 
 sv	Man längtar efter nån att dela den med. 

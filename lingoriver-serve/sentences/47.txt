@@ -13,8 +13,8 @@ ko	그러니, 아세니오 | 함께 행복해 보겠어? |
 nl	Dus, Arsenio, wil je samen blij worden? 
 no	Så hva sier du, Arsenio, skal vi bli lykkelige sammen? 
 pl	To jak będzie? Popracujemy razem? 
-pr-br	Então, o que diz, Arsenio, quer ser feliz comigo? 
-pr	O que dizes, Arsenio, vamos ser felizes juntos? 
+pt-br	Então, o que diz, Arsenio, quer ser feliz comigo? 
+pt	O que dizes, Arsenio, vamos ser felizes juntos? 
 ro	Ce zici, Arsenio, vrei să ne mulțumim unul pe celălalt? 
 sv	Vad säger du, Arsenio, ska vi bli nöjda tillsammans? 
 th	ว่าไงล่ะ อาเซนนิโอ | อยากแฮปปีด้วยกันไหม | 

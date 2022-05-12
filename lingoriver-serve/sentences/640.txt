@@ -12,8 +12,8 @@ it	Non credo alle mie orecchie.
 nl	Ik kan niet bevatten wat ik net hoorde. 
 no	Jeg kommer ikke over det jeg hørte. 
 pl	Uszom własnym nie wierzę. 
-pr-br	Não acredito no que acabei de ouvir. 
-pr	Não consigo esquecer o que ouvi. 
+pt-br	Não acredito no que acabei de ouvir. 
+pt	Não consigo esquecer o que ouvi. 
 ro	Nu-mi vine să cred ce am auzit. 
 th	ไม่อยากเชื่อที่ได้ยินเลย | 
 tr	Az önce duyduklarıma inanamıyorum. 

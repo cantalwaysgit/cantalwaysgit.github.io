@@ -13,8 +13,8 @@ ko	얘들아, 진정해 | 알았어, 샌디, 믿을게 |
 nl	Hé, jongens. Sandy, ik geloof je. 
 no	Vær så snill, dere. Ja vel. Sandy, jeg tror deg. 
 pl	Przestańcie. Ja ci wierzę, Sandy. 
-pr-br	Pessoal, por favor. Está bem. Sandy, eu acredito em você. 
-pr	Pronto, malta, por favor. Sandy, eu acredito em ti. 
+pt-br	Pessoal, por favor. Está bem. Sandy, eu acredito em você. 
+pt	Pronto, malta, por favor. Sandy, eu acredito em ti. 
 ro	Gata. Vă rog! Sandy, eu te cred. 
 ru	Ребята, хватит. Ладно. Сэнди, я тебе верю. 
 sv	Hörni, sluta nu. Jag tror dig, Sandy. 

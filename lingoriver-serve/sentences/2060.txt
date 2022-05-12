@@ -13,8 +13,8 @@ ko	예전 고객 하나하나에 | 다시 손을 내밀기 시작했죠 |
 nl	En hij zocht weer contact met zijn vroegere cliënten. 
 no	Han begynte å kontakte gamle klienter. 
 pl	Zaczął odzyskiwać swoich dawnych klientów. 
-pr-br	E ele começou a procurar seus antigos clientes um por um. 
-pr	E começou a contactar cada um dos seus antigos clientes. 
+pt-br	E ele começou a procurar seus antigos clientes um por um. 
+pt	E começou a contactar cada um dos seus antigos clientes. 
 ro	A început să-și caute foștii clienți. 
 ru	Он начал возвращать своих старых клиентов. 
 sv	Han tog kontakt med alla sina gamla klienter. 

@@ -14,8 +14,8 @@ it	Ma bene. Ora aspetta.
 nl	Goed. Wacht. 
 no	Ja vel! Vent nå. 
 pl	Zaczekaj. 
-pr-br	É isso aí. Fique assim. 
-pr	Está bem! Tem calma. 
+pt-br	É isso aí. Fique assim. 
+pt	Está bem! Tem calma. 
 ro	Bine! Mai ușurel! 
 sv	Okej. Vänta lite. 
 th	เอาละ หยุดตรงนี้ | 

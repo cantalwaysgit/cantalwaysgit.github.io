@@ -13,8 +13,8 @@ it	Mi scusi. Sa che ore sono?
 nl	Sorry. Weet u hoe laat het is? 
 no	Unnskyld meg. Hvor mye er klokka? 
 pl	Wie pan, która godzina? 
-pr-br	Com licença. Que horas são? 
-pr	Desculpe. Pode dizer-me as horas? 
+pt-br	Com licença. Que horas são? 
+pt	Desculpe. Pode dizer-me as horas? 
 ro	Scuze, domnule. Știți cât e ceasul? 
 sv	Ursäkta. Hur mycket är klockan? 
 th	โทษที กี่โมงแล้ว | 

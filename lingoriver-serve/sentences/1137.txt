@@ -17,8 +17,8 @@ fr	Sérieux ?
 he	&rlm;‏באמת?‏ | 
 it	Ma davvero? 
 no	Seriøst? 
-pr	A sério? 
-pr-br	Sério? 
+pt	A sério? 
+pt-br	Sério? 
 th	จริงเรอะ | 
 tr	Sahi mi? 
 vi	Thật sao? | 

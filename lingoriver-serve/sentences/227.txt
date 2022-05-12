@@ -12,8 +12,8 @@ it	Non è vero.
 ko	안 그랬어 | 
 no	Nei da. 
 pl	Nieprawda. 
-pr-br	Não disse. 
-pr	Não disse nada. 
+pt-br	Não disse. 
+pt	Não disse nada. 
 ro	Ba nu. 
 ru	Не говорил. 
 sv	Nej då. 

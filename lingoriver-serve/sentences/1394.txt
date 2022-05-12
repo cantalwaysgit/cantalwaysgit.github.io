@@ -11,8 +11,8 @@ he	&rlm;‏‏אתה נראה נהדר! | &rlm;‏-תודה.‏ |
 it	- Sei in gran forma! - Grazie. 
 nl	Je ziet er goed uit. 
 pl	Dobrze wyglądasz. 
-pr-br	-Você está demais! -Valeu. 
-pr	- Estás ótimo! - Obrigado. 
+pt-br	-Você está demais! -Valeu. 
+pt	- Estás ótimo! - Obrigado. 
 ro	- Arăți grozav! - Mersi. 
 sv	-Du ser bra ut. -Tack. 
 th	- คุณดูเยี่ยม | - ขอบคุณ | 
@@ -36,8 +36,8 @@ it	- Io? E tu? - Ti vedo bene!
 nl	Ik? Kijk jou. -Je ziet er goed uit. 
 no	Gjør jeg? Se på deg, da! 
 pl	Ja? Spójrz w lustro. 
-pr-br	-Eu estou bem? Veja você. -Está incrível! 
-pr	- Eu? Olha para ti. - Estás bem! 
+pt-br	-Eu estou bem? Veja você. -Está incrível! 
+pt	- Eu? Olha para ti. - Estás bem! 
 ro	- Eu? Uite la tine! - Arăți așa bine! 
 sv	-Jag? Se på dig. -Du ser bra ut. 
 th	- ผมดูดีเหรอ ดูคุณสิ | - คุณดูดี | 

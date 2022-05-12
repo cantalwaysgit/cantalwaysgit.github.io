@@ -14,8 +14,8 @@ ko	큰물로 끌고 오셨잖아요 |
 nl	Jij bracht haar naar de hoogste klasse. 
 no	Du fikk henne til toppligaen. 
 pl	Wywindowałeś ją do pierwszej ligi. 
-pr-br	Você a mostrou aos maiorais. 
-pr	Trouxeste-a para o campeonato principal. 
+pt-br	Você a mostrou aos maiorais. 
+pt	Trouxeste-a para o campeonato principal. 
 ro	Ai băgat-o în față! 
 sv	Du fick henne till toppen. 
 th	คุณพาเธอเข้ามาสู่ระดับแนวหน้า | 

@@ -14,8 +14,8 @@ he	&rlm;‏זה אומר שאשמח לקצת חברה.‏ |
 it	significa che ho voglia di compagnia. 
 nl	...betekent dat dat ik gezelschap wil. 
 no	...betyr det at jeg vil ha selskap. 
-pr-br	significa que preciso de companhia. 
-pr	significa que preciso de companhia. 
+pt-br	significa que preciso de companhia. 
+pt	significa que preciso de companhia. 
 ro	înseamnă că m-aș bucura de musafiri. 
 ru	...значит, мне не помешает компания. 
 sv	...så vill jag ha sällskap. 

@@ -11,8 +11,8 @@ he	&rlm;‏ג'רי רוג'רס, גבירותיי ורבותיי! |
 it	Jerry Rodgers, signore e signori. 
 nl	Jerry Rodgers, dames en heren. 
 no	Jerry Rodgers, mine damer og herrer. 
-pr-br	Senhoras e senhores, Jerry Rodgers. 
-pr	Jerry Rodgers, senhoras e senhores. 
+pt-br	Senhoras e senhores, Jerry Rodgers. 
+pt	Jerry Rodgers, senhoras e senhores. 
 ro	Jerry Rodgers, doamnelor și domnilor! 
 sv	Jerry Rodgers, mina damer och herrar. 
 tr	Jerry Rodgers, hanımlar ve beyler. 

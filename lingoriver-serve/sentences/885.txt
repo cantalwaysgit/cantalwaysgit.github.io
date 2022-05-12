@@ -12,8 +12,8 @@ it	No, sono d'accordo con te.
 nl	Nee, ik ben het met je eens. 
 no	Jeg var enig med deg. 
 pl	Przyznaję ci rację. 
-pr-br	Não, concordo com você. 
-pr	Não, estou a concordar contigo. 
+pt-br	Não, concordo com você. 
+pt	Não, estou a concordar contigo. 
 ro	Nu, sunt de acord cu tine. 
 sv	Nej, jag håller med dig. 
 th	ไม่เลย ฉันเห็นด้วยกับนาย | 

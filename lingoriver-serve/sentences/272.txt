@@ -12,8 +12,8 @@ it	E inoltre sei bellissima.
 ko	게다가 당신은 | 아름답기까지 하고요 | 
 nl	En je bent ook nog beeldschoon. 
 pl	I jeszcze jesteś piękna. 
-pr-br	E você é linda. 
-pr	E também é linda. 
+pt-br	E você é linda. 
+pt	E também é linda. 
 ro	Și se întâmplă să mai fii și frumoasă. 
 sv	Och du är så vacker. 
 tr	Çok da güzelsin. 

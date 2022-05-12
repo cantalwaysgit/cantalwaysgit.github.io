@@ -13,8 +13,8 @@ fi	Sitten oli Ted Rafferty,
 he	&rlm;‏‏יש בחור אחד, טד רפרטי... | &rlm;‏-כן.‏ | 
 no	-Han hadde Ted Rafferty... -Ja. 
 pl	Jego klientem był Ted Rafferty. 
-pr-br	-Tem o Ted Rafferty... -É. 
-pr	- E o Ted Rafferty... - Sim. 
+pt-br	-Tem o Ted Rafferty... -É. 
+pt	- E o Ted Rafferty... - Sim. 
 ro	- Ar mai fi Ted Rafferty... - Da. 
 sv	Det var ju Ted Rafferty... 
 th	- เขามีเท็ด รัฟเฟอร์ตี้ | - ใช่ | 
@@ -39,8 +39,8 @@ fi	vatsastapuhuja. Ei järin hyvä. Keskivälin esiintyjiä.
 fr	C'était un marionnettiste. Pas super doué. 
 he	&rlm;‏‏... שעשה מופע עם בובות. לא טוב כל כך. | &rlm;‏מופע ברמה בינונית.‏ | 
 pl	Taki lalkarz. Niezbyt dobry. 
-pr-br	...que era ventríloquo. Não tão bom. Meia-boca. 
-pr	... que era ventríloquo. Não muito bom. Mediano. 
+pt-br	...que era ventríloquo. Não tão bom. Meia-boca. 
+pt	... que era ventríloquo. Não muito bom. Mediano. 
 ro	Era păpușar. Nu era foarte bun. Făcea un număr mediocru. 
 sv	...som hade en handdocka. Inte så bra. Halvbra. 
 th	ซึ่งแสดงหุ่น ไม่ดีนัก พวกคั่นรายการ | 

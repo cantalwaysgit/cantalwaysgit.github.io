@@ -10,8 +10,8 @@ he	&rlm;‏כן. חכי רגע. רק בשר.‏ |
 it	Sì. Scusa un secondo. Solo carne. 
 no	Ja. Vent litt. Bare kjøtt. 
 pl	Tak. Poczekaj. Na boczku. 
-pr-br	Sim. Espere. Só carne. 
-pr	Sim. Espera. Só carne. 
+pt-br	Sim. Espere. Só carne. 
+pt	Sim. Espera. Só carne. 
 ro	Da. Stai așa! Doar carne. 
 sv	Ja. Vänta lite. Bara kött. 
 th	ใช่ เดี๋ยวก่อน แค่เนื้อ | 

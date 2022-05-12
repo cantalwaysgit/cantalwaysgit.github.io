@@ -17,8 +17,8 @@ es-eu	A por ellos, chavalita.
 es	Vamos por ellos, señorita. 
 he	&rlm;‏תראי להם, ילדונת.‏ | 
 it	Dacci dentro, piccola. 
-pr-br	Mande ver, garota. 
-pr	Vamos a isso, miúda. 
+pt-br	Mande ver, garota. 
+pt	Vamos a isso, miúda. 
 ro	Uimește-i, puștoaico! 
 sv	Ge järnet nu, vännen. 
 zh-long	上吧，小鬼 

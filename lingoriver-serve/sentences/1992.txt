@@ -10,8 +10,8 @@ he	&rlm;‏מה אנחנו עושים כאן?‏ |
 it	Che ci facciamo qui? 
 ko	여기엔 왜 온 거예요? | 
 no	Hva gjør vi her? 
-pr-br	O que estamos fazendo aqui? 
-pr	O que estamos a fazer aqui? 
+pt-br	O que estamos fazendo aqui? 
+pt	O que estamos a fazer aqui? 
 sv	Vad gör vi här? 
 vi	Chúng ta làm gì ở đây vậy? | 
 zh-long	你載我來這裡幹嘛？ 

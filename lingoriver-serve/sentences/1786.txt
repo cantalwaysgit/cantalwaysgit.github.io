@@ -12,8 +12,8 @@ ko	- 부담을 떨치지 못했네 | - 겁쟁이처럼 떠나버렸어 |
 nl	Hij kon de druk niet aan. -Hij nam de laffe uitweg. 
 no	-Han taklet ikke presset. -Han valgte feigingens løsning. 
 pl	- Nie wytrzymał presji. - Odszedł jak tchórz. 
-pr-br	-Ele não aguentou a pressão. -Fugiu como um covarde. 
-pr	- Ele não aguentou a pressão. - Escolheu ser cobarde. 
+pt-br	-Ele não aguentou a pressão. -Fugiu como um covarde. 
+pt	- Ele não aguentou a pressão. - Escolheu ser cobarde. 
 ro	- N-a suportat stresul! - A ales să dispară ca un laș. 
 sv	-Han klarade inte pressen. -Han fegade sig ut. 
 th	- เขารับแรงกดดันไม่ไหว | - เขาเลือกทางออกที่ขี้ขลาด | 

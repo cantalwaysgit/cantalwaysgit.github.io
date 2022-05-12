@@ -15,8 +15,8 @@ it	Ho la sceneggiatura originale di  Sul lago dorato.
 nl	Ik heb het originele script van  On Golden Pond. 
 no	Jeg har originalmanuset til  On Golden Pond. 
 pl	Mam oryginalny scenariusz Nad złotym stawem. 
-pr-br	Eu tenho o roteiro original de  Num Lago Dourado. 
-pr	Tenho o guião original de  A Casa do Lago. 
+pt-br	Eu tenho o roteiro original de  Num Lago Dourado. 
+pt	Tenho o guião original de  A Casa do Lago. 
 ro	Am scenariul original al filmului Pe heleșteul auriu. 
 sv	Jag har originalmanuset till  Sista sommaren. 
 th	ฉันมีบทดั้งเดิมของหนังเรื่อง | ออนโกลเดนพอนด์ | 

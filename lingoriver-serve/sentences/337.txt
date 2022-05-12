@@ -13,8 +13,8 @@ it	Perché io posso farle una promessa guardandola fisso negli occhi.
 ko	당신 눈을 똑바로 보고 | 이렇게 약속할 거니까요 | 
 nl	Ik kijk je recht aan en beloof je dit. 
 pl	Bo mogę spojrzeć panu prosto w oczy i obiecać jedno. 
-pr-br	Porque posso olhar nos seus olhos e prometer uma coisa. 
-pr	Porque eu consigo olhá-lo nos olhos e prometer-lhe o seguinte: 
+pt-br	Porque posso olhar nos seus olhos e prometer uma coisa. 
+pt	Porque eu consigo olhá-lo nos olhos e prometer-lhe o seguinte: 
 ro	Fiindcă vă pot privi în ochi și vă pot face o promisiune. 
 sv	För att jag kan se dig rakt i ögonen och lova dig detta. 
 th	เพราะผมสามารถมองตาคุณตรงๆ | แล้วสัญญาตามนี้ได้ | 

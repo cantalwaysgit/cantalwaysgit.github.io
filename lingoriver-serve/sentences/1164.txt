@@ -8,8 +8,8 @@ es	pero este disco estará en los  rankings  por meses.
 fr	mais son album va se vendre pendant des mois. 
 he	&rlm;‏אבל האלבום שלה יישאר במצעדים במשך חודשים.‏ | 
 it	ma il suo disco rimarrà ancora in classifica per mesi. 
-pr-br	mas o álbum dela vai ficar meses na praça. 
-pr	mas o álbum atual vai estar meses nas tabelas de vendas. 
+pt-br	mas o álbum dela vai ficar meses na praça. 
+pt	mas o álbum atual vai estar meses nas tabelas de vendas. 
 ro	dar albumul de acum va fi în topuri luni la rând. 
 th	แต่แผ่นเสียงของเธอจะติดอันดับ | ไปอีกหลายเดือนเลย | 
 tr	ama albümü daha aylarca listede kalacak. 

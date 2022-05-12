@@ -12,8 +12,8 @@ it	E io ti amerò
 ko	난 당신을 사랑할 거야 | 
 nl	en ik zal van je houden 
 pl	Będę cię kochać 
-pr-br	E eu vou amar você 
-pr	E eu vou amar-te 
+pt-br	E eu vou amar você 
+pt	E eu vou amar-te 
 ro	Și te voi iubi 
 ru	И я буду любить тебя 
 sv	Och jag ska älska dig 

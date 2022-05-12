@@ -13,8 +13,8 @@ fr	On recommence.
 he	&rlm;‏בוא נעשה את זה שוב.‏ | 
 it	Rifacciamola. 
 pl	Jeszcze raz. 
-pr-br	Vamos fazer de novo. 
-pr	Vamos repetir. 
+pt-br	Vamos fazer de novo. 
+pt	Vamos repetir. 
 ro	Să repetăm! 
 sv	Vi gör om det. 
 tr	Tekrar yapalım. 

@@ -11,8 +11,8 @@ it	Sì, lo so. È lì.
 ko	알아요, 저기 있잖아요 | 
 nl	Weet ik. Hij zit daar. 
 pl	Wiem, tam siedzi. 
-pr-br	Sim, eu sei. Ele está ali. 
-pr	Sim, eu sei. Ele está ali. 
+pt-br	Sim, eu sei. Ele está ali. 
+pt	Sim, eu sei. Ele está ali. 
 ro	Da, știu. E chiar acolo. 
 sv	Jag vet. Han sitter där. 
 th	ใช่ ฉันรู้ เขาอยู่ตรงนั้น | 

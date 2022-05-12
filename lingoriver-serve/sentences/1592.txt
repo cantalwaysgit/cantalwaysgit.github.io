@@ -14,8 +14,8 @@ ko	- 괜찮아? | - 제가 즐기는 날이잖아요 |
 nl	Gaat het? -Nu is het mijn dag. 
 no	-Går det bra? -Nå er det min dag. 
 pl	- W porządku? - Mój dzień, ja decyduję. 
-pr-br	-Tudo bem? -Hoje é meu dia. Vamos. 
-pr	- Estás bem? - É o meu dia. Vá lá. 
+pt-br	-Tudo bem? -Hoje é meu dia. Vamos. 
+pt	- Estás bem? - É o meu dia. Vá lá. 
 ro	- Te simți bine? - E ziua mea acum. Hai! 
 sv	Det är min dag nu. Kom igen. 
 th	- คุณโอเคไหม | - วันนี้วันของฉัน มาสิ | 

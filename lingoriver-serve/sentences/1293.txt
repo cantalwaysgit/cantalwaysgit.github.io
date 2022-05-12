@@ -9,8 +9,8 @@ he	&rlm;‏אני יודע שזה הגורל‏ |
 it	So che era destino 
 nl	ik weet dat het voorbestemd is 
 pl	To nasze przeznaczenie 
-pr-br	Sei que é destino 
-pr	Sei que é o destino 
+pt-br	Sei que é destino 
+pt	Sei que é o destino 
 ro	Știu că e destinul 
 sv	Jag vet att det är ödet 
 th	ฉันรู้ว่ามันคือพรหมลิขิต | 

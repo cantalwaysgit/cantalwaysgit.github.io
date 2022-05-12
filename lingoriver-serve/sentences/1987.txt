@@ -15,8 +15,8 @@ ko	교통은 어때요? |
 nl	Is er veel verkeer? 
 no	Hvordan er trafikken? 
 pl	Jak dziś korki? 
-pr-br	Como está o trânsito? 
-pr	Como está o trânsito? 
+pt-br	Como está o trânsito? 
+pt	Como está o trânsito? 
 ro	Cum se circulă? 
 sv	Hur är trafiken? 
 th	จราจรเป็นไงบ้าง | 

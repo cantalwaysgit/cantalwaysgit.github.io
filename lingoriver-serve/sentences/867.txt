@@ -14,8 +14,8 @@ it	- Fai in modo che non si ripeta. - D'accordo.
 nl	Je wilt geen tweede. -Mee eens. 
 no	-Du vil ikke ha en til. -Enig. 
 pl	- Drugiej nie chcesz. - Zgadzam się. 
-pr-br	-Que o erro não se repita. -Concordo. 
-pr	- Não queres ser avisado duas vezes. - Concordo. 
+pt-br	-Que o erro não se repita. -Concordo. 
+pt	- Não queres ser avisado duas vezes. - Concordo. 
 ro	- N-ai vrea să ajungi la a doua abatere. - De acord. 
 sv	-Du vill inte ha en andra varning. -Jag håller med. 
 th	- อย่าทำผิดครั้งที่สองนะ | - ตกลง | 

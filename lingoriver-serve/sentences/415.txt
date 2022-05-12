@@ -16,8 +16,8 @@ fr	Allez, prends la pose.
 he	&rlm;‏בסדר. בואי נראה את זה.‏ | 
 it	Bene. Vediamo un po'. 
 nl	Oké. Toe maar. 
-pr-br	Certo. Vamos ver. 
-pr	Muito bem. Mostra. 
+pt-br	Certo. Vamos ver. 
+pt	Muito bem. Mostra. 
 sv	Nu ska vi se. 
 vi	Được rồi. Xem nào. | 
 zh-long	好，給我個姿勢 

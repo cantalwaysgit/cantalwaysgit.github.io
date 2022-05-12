@@ -16,8 +16,8 @@ ko	정말 잘해, 거침이 없다니까 | 이 지역 최고야 |
 nl	Zo goed. Over onbevreesd gesproken. De beste in de stad. 
 no	Det er så bra. Snakker om fryktløs. Absolutt den beste i byen. 
 pl	Świetny jest. Tylko on ma odwagę o tym mówić. 
-pr-br	Ele é ótimo. Destemido. O melhor da cidade até agora. 
-pr	É excelente. Não tem medo de nada. Não há melhor na cidade. 
+pt-br	Ele é ótimo. Destemido. O melhor da cidade até agora. 
+pt	É excelente. Não tem medo de nada. Não há melhor na cidade. 
 ro	Minunat! Nu simte frica. Nu e nimeni mai bun în oraș. 
 sv	Han är så bra. Snacka om orädd. Helt klart bäst i stan. 
 tr	Çok iyi. Korkusuz. Kenttekilerin en iyisi. 

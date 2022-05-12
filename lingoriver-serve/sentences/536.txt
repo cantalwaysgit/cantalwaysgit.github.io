@@ -12,8 +12,8 @@ ko	- 최근에 졸업했어요 | - 집안에 인물 하나 더 났군 |
 nl	Net afgestudeerd. -Nog een succesvolle Bubatzi. 
 no	-Hun tok nettopp eksamen. -Enda en vellykket Bubatzi. 
 pl	- Właśnie skończyła studia. - Kolejny sukces Bubatzi. 
-pr	- Acabou de concluir o curso. - Mais um Bubatzi de sucesso. 
-pr-br	-Ela acabou de se formar. -Mais uma Bubatzi bem-sucedida. 
+pt	- Acabou de concluir o curso. - Mais um Bubatzi de sucesso. 
+pt-br	-Ela acabou de se formar. -Mais uma Bubatzi bem-sucedida. 
 ro	- Tocmai a absolvit. - O altă Bubatzi de succes. 
 th	- เพิ่งเรียนจบ | - บูบาต์ซี่อีกคนที่ประสบความสำเร็จ | 
 tr	-Yeni mezun oldu. -Bir başarılı Bubatzi daha. 

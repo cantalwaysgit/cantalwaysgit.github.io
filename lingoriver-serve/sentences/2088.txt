@@ -15,8 +15,8 @@ ko	- 신혼부부 나오라 해 | - 연기 그만하고 |
 nl	Laat het echtpaar komen. -Kap met je act. 
 no	-Få ut paret. -Kutt ut nummeret ditt. 
 pl	- Dawać młodą parę. - Kończ ten występ. 
-pr-br	-Tragam o casal. -Chega desse papinho. 
-pr	- Traz o casal. - Acaba a tua atuação. 
+pt-br	-Tragam o casal. -Chega desse papinho. 
+pt	- Traz o casal. - Acaba a tua atuação. 
 ro	- Să vină perechea! - Încheie-ți numărul! 
 sv	-Ta ut brudparet. -Avsluta ditt nummer. 
 th	- เชิญบ่าวสาวออกมาเลย | - หยุดแสดงได้แล้ว | 

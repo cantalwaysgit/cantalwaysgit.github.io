@@ -7,8 +7,8 @@ es	De acuerdo.
 es-eu	Vale. 
 he	&rlm;‏בסדר.‏ | 
 it	Ci sono. 
-pr-br	Está bem. 
-pr	Está bem. 
+pt-br	Está bem. 
+pt	Está bem. 
 ro	Bine. 
 th	โอเค | 
 tr	Tamam. 

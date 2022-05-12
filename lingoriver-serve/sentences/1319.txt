@@ -12,8 +12,8 @@ id	Duduklah, Sandy.
 it	Perché non ti siedi, Sandy? 
 ko	앉으세요, 샌디 | 
 pl	Usiądź sobie. 
-pr-br	Por que não se senta, Sandy? 
-pr	Porque não te sentas, Sandy? 
+pt-br	Por que não se senta, Sandy? 
+pt	Porque não te sentas, Sandy? 
 ro	Ce-ar fi să stai jos, Sandy? 
 sv	Sätt dig, Sandy. 
 th	ทำไมไม่นั่งลงล่ะ แซนดี้ | 

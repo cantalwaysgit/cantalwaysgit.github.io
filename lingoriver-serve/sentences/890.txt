@@ -7,8 +7,8 @@ fr	Il fait semblant d'être sous acide tout du long.
 he	&rlm;‏מעמיד פנים שהוא מסטול מאסיד כל ההופעה.‏ | 
 it	Che fingono di essere fatti per tutto il numero. 
 nl	Hij doet alsof hij aan het trippen is. 
-pr-br	Ele finge estar chapado o tempo todo. 
-pr	... que finge estar sob efeito de ácidos o espetáculo inteiro. 
+pt-br	Ele finge estar chapado o tempo todo. 
+pt	... que finge estar sob efeito de ácidos o espetáculo inteiro. 
 th	แกล้งเมายาตลอดรายการ | 
 tr	Program boyunca asit tribindeymiş gibi yapacak. 
 vi	Giả vờ phê thuốc suốt chương trình. | 

@@ -11,8 +11,8 @@ he	&rlm;‏‏היי, אחי, אני לא יכולה לראות. | &rlm;‏-מה
 it	- Ehi, non ci vedo. - Come? Va bene. 
 no	-Jeg ser ikke. -Hva? Greit. 
 pl	- Nic nie widzę. - Co? Dobra. 
-pr-br	-Ei, cara, não consigo ver. -Quê? Está bem. 
-pr	- Pá, não consigo ver. - O quê? Está bem. 
+pt-br	-Ei, cara, não consigo ver. -Quê? Está bem. 
+pt	- Pá, não consigo ver. - O quê? Está bem. 
 ro	- Amice, nu mai văd! - Poftim? Bine. 
 sv	-Jag ser inget. -Vadå? Okej. 
 th	- นี่คุณ ฉันมองไม่เห็น | - อะไรนะ โอเค | 

@@ -13,8 +13,8 @@ it	Perché no?
 nl	Waarom niet? 
 no	Hvorfor ikke? 
 pl	Dlaczego nie? 
-pr-br	Por que não diz? 
-pr	Porquê? 
+pt-br	Por que não diz? 
+pt	Porquê? 
 ro	De ce nu vrei? 
 ru	Ну почему? 
 sv	Varför inte då? 

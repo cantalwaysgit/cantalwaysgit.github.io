@@ -11,8 +11,8 @@ it	Lo ha provato la scienza.
 ko	과학자가 증명한 사실이야 | 
 no	Det er vitenskapelig bevist. 
 pl	To potwierdzone naukowo. 
-pr-br	Cientistas já provaram isso. 
-pr	Os cientistas já o provaram. 
+pt-br	Cientistas já provaram isso. 
+pt	Os cientistas já o provaram. 
 ro	E dovedit științific. 
 sv	Forskarna har bevisat det. 
 th	นักวิทยาศาสตร์ได้พิสูจน์แล้ว | 

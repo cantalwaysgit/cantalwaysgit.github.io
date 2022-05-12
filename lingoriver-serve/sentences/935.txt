@@ -13,8 +13,8 @@ id	Terima kasih!
 it	Grazie! 
 no	Takk! 
 pl	Dziękuję! 
-pr-br	Obrigada! 
-pr	Obrigada! 
+pt-br	Obrigada! 
+pt	Obrigada! 
 ro	Mulțumesc! 
 ru	Спасибо! 
 sv	Tack! 

@@ -9,8 +9,8 @@ fr	Gary Rodgers ne fera pas ce saut
 he	&rlm;‏‏תראה, גארי רוג'רס | &rlm;‏לא יכול לעשות את הקפיצה הזו‏ | 
 it	Gary Rodgers non può fare un salto simile 
 pl	Gary Rodgers nie da rady skoczyć, 
-pr-br	Gary Rodgers só consegue fazer aquele salto 
-pr	O Gary Rodgers não pode fazer esse salto 
+pt-br	Gary Rodgers só consegue fazer aquele salto 
+pt	O Gary Rodgers não pode fazer esse salto 
 ro	Gary Rodgers nu poate face saltul ăla 
 ru	Гэри Роджерс не будет прыгать, 
 th	ฟังนะ แกรี่ รอดเจอร์กระโดดไม่ได้ | 

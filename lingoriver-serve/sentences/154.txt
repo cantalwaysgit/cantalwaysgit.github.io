@@ -14,8 +14,8 @@ ko	- 있어요 | - 연예인 포스터는 빼고요 |
 nl	Eigenlijk wel. -De poster van Anita Bryant telt niet. 
 no	-Ja, faktisk. -Anita Bryant-plakaten din teller ikke. 
 pl	- Byłem. - Plakat Anity Bryant się nie liczy. 
-pr-br	-Na verdade, sim. -Seu pôster da Anita Bryant não conta. 
-pr	- Por acaso, já. - O  poster  da Anita Bryant não conta. 
+pt-br	-Na verdade, sim. -Seu pôster da Anita Bryant não conta. 
+pt	- Por acaso, já. - O  poster  da Anita Bryant não conta. 
 ro	- Chiar am. - Afișul cu Anita Bryant nu se pune. 
 sv	-Det har jag faktiskt. -Din Anita Bryant-affisch räknas inte. 
 th	- จริงๆ แล้วเคย | - ไม่นับโปสเตอร์แอนิตา ไบรอันต์นะ | 

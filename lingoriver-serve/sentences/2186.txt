@@ -14,8 +14,8 @@ it	Della Wexler Scoreggioni?
 ko	웩슬러 방귀 파티의 샌디? | 
 nl	Van Wexler Fartists. 
 no	Fra Wexler Fartists? 
-pr-br	Da Peidistas Wexler? 
-pr	Da Wexler Peidistas? 
+pt-br	Da Peidistas Wexler? 
+pt	Da Wexler Peidistas? 
 ro	De la Bășinoșii Wexler? 
 sv	Från Wexler Brakartists? 
 th	จากเวกซ์เลอร์ฟาร์ทิสต์สใช่ไหม | 

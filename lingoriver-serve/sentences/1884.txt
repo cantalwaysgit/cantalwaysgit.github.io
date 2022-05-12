@@ -13,8 +13,8 @@ fr	Certes.
 he	&rlm;‏אני מניחה.‏ | 
 it	Direi di sì. 
 pl	Może i tak. 
-pr	Acho que sim. 
-pr-br	Acho que sim. 
+pt	Acho que sim. 
+pt-br	Acho que sim. 
 ro	Așa cred. 
 sv	Jag antar det. 
 tr	Sanırım öyle. 

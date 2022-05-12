@@ -13,8 +13,8 @@ he	&rlm;‏את נושמת?‏ |
 it	Stai respirando? 
 no	Puster du? 
 pl	Oddychasz? 
-pr-br	Está respirando? 
-pr	Estás a respirar? 
+pt-br	Está respirando? 
+pt	Estás a respirar? 
 ro	Respiri? 
 sv	Andas du? 
 th	หายใจอยู่หรือเปล่า | 

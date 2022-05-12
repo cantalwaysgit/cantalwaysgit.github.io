@@ -8,8 +8,8 @@ fr	Tout roule.
 he	&rlm;‏‏אני מבין. | &rlm;‏-אני בסדר.‏ | 
 it	Sono a posto. 
 ko	- 그렇군 | - 괜찮아요 | 
-pr-br	-Certo. -Estou tranquilo. 
-pr	- Certo. - Estou servido. 
+pt-br	-Certo. -Estou tranquilo. 
+pt	- Certo. - Estou servido. 
 ro	- Da. - Mi-e bine. 
 th	- อ๋อ | - ไม่ต้องเลย | 
 tr	-Evet. -Böyle iyi. 

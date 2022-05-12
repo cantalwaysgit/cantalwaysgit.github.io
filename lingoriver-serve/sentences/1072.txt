@@ -13,8 +13,8 @@ fr	Dehors !
 he	&rlm;‏תסתלק!‏ | 
 it	Vattene! 
 no	Kom deg ut! 
-pr-br	Vá embora! 
-pr	Fora! 
+pt-br	Vá embora! 
+pt	Fora! 
 ro	Ieși! 
 sv	Försvinn! 
 th	ไปให้พ้น! | 

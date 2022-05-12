@@ -11,8 +11,8 @@ it	ma anche la persona per cui provava qualcosa.
 ko	좋아했던 사람을 잃었으니까요 | 
 nl	...hij verloor ook iemand voor wie hij iets voelde. 
 no	men også det mennesket han hadde følelser for. 
-pr-br	ele perdeu a pessoa de quem gostava. 
-pr	como também perdeu uma pessoa por quem tinha sentimentos. 
+pt-br	ele perdeu a pessoa de quem gostava. 
+pt	como também perdeu uma pessoa por quem tinha sentimentos. 
 ro	dar și pe cea față de care nutrea sentimente. 
 sv	han hade också förlorat en person som han hade känslor för. 
 th	แต่ยังสูญเสียคนที่เขามีใจให้อีกด้วย | 

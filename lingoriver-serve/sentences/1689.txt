@@ -13,8 +13,8 @@ he	&rlm;‏אלוהים, כן!‏ |
 it	Oddio, sì! 
 no	Herregud, ja! 
 pl	Boże, tak! 
-pr-br	Ah, é isso aí! 
-pr	Céus, sim! 
+pt-br	Ah, é isso aí! 
+pt	Céus, sim! 
 ro	Doamne, da! 
 sv	Herregud, ja. 
 th	โอ้ พระเจ้าช่วย ใช่แล้ว | 

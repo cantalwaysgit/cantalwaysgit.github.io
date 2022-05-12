@@ -13,8 +13,8 @@ it	Forte. Allora, andiamo alla festa?
 ko	재밌네요, 이제 가볼까요? | 
 nl	Oké. Zullen we naar het feest gaan? 
 pl	Fajnie. To jak, jedziemy? 
-pr-br	Legal. Então vamos à festa? 
-pr	Está bem, porreiro. Vamos para a festa? 
+pt-br	Legal. Então vamos à festa? 
+pt	Está bem, porreiro. Vamos para a festa? 
 ro	Grozav! Mergem acum la petrecere? 
 sv	Coolt. Ska vi gå på festen? 
 th	โอเค เจ๋ง เราไปงานปาร์ตี้กันดีไหม | 

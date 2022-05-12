@@ -15,8 +15,8 @@ ko	빨리 왔네, 금방 갈게 |
 nl	Het is nog vroeg. Ik kom eraan. 
 no	Det er tidlig. Kommer straks. 
 pl	Wcześnie. Zaraz zejdę. 
-pr-br	É cedo. Já desço. 
-pr	Veio cedo. Eu já desço. 
+pt-br	É cedo. Já desço. 
+pt	Veio cedo. Eu já desço. 
 ro	A venit mai repede. Cobor imediat. 
 th	มาเร็วนะ ฉันจะลงไปเดี๋ยวนี้ | 
 tr	Erken gelmiş. Hemen geliyorum. 

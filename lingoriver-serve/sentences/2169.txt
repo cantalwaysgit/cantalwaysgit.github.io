@@ -14,8 +14,8 @@ fr	Beavis n'a pas été très sympa hier soir.
 he	&rlm;‏‏כן. ביוויס לא היה מאוד מנומס | &rlm;‏אתמול בלילה, באטהד.‏ | 
 it	Sì. Beavis non è stato molto gentile ieri notte, Butt-Head. 
 no	Beavis var ikke så høflig i går, Butt-Head. 
-pr-br	É. O Beavis não foi muito gentil ontem à noite, Butt-Head. 
-pr	Sim. O Beavis não foi simpático a noite passada, Butt-Head. 
+pt-br	É. O Beavis não foi muito gentil ontem à noite, Butt-Head. 
+pt	Sim. O Beavis não foi simpático a noite passada, Butt-Head. 
 ro	Da, Beavis n-a fost foarte politicos aseară, Butt-Head. 
 sv	Ja. Beavis var inte alltför snäll i går. 
 th	ใช่ บีวิสไม่ค่อยสุภาพ | เมื่อคืนก่อน บัตต์-เฮด | 
@@ -37,8 +37,8 @@ fi	Siksi soitankin.
 fr	C'est pour ça que j'appelle. 
 he	&rlm;‏לכן אני מתקשר.‏ | 
 it	È per questo che ho chiamato. 
-pr-br	É por isso que estou ligando. 
-pr	É por isso que estou a ligar. 
+pt-br	É por isso que estou ligando. 
+pt	É por isso que estou a ligar. 
 ro	De asta te-am sunat. 
 th	เพราะงั้นถึงได้โทรมา | 
 tr	O yüzden arıyorum. 

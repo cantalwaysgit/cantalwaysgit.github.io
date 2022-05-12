@@ -13,8 +13,8 @@ ko	보류 중이던 광고는 | 어떻게 됐어요? |
 nl	En die commercial waarvoor ik in de wacht sta? 
 no	Fikk vi Mentos-reklamen jeg sto på vent for? 
 pl	Dali znać w sprawie reklamy mentosów? 
-pr-br	E o comercial do Mentos que me colocaram na espera? 
-pr	Conseguimos o anúncio da Mentos em que tinha ficado na lista de espera? 
+pt-br	E o comercial do Mentos que me colocaram na espera? 
+pt	Conseguimos o anúncio da Mentos em que tinha ficado na lista de espera? 
 ro	Ce se mai aude cu reclama pe care se așteptau s-o filmez? 
 ru	Что с рекламой «Ментос», которую мне обещали? 
 sv	Nåt svar från reklamfilmen som jag förväntades göra? 

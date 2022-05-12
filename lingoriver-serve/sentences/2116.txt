@@ -11,8 +11,8 @@ id	Sakit kepala, sakit jantung Sakit punggung, orang gagal
 it	I mal di testa, la tristezza, I mal di schiena, i flop 
 ko	두통, 고민, 요통, 실패작 | 
 pl	Bóle głowy i zawody Bóle pleców i klapy 
-pr	As enxaquecas, as mágoas As dores, os fracassos 
-pr-br	As dores de cabeça, corações partidos Dores nas costas, fiascos 
+pt	As enxaquecas, as mágoas As dores, os fracassos 
+pt-br	As dores de cabeça, corações partidos Dores nas costas, fiascos 
 ro	Durerile de cap, de inimă De spate, eșecurile 
 ru	Боль в голове, боль в сердце Боль в спине, падения 
 sv	Huvudvärken, hjärtesorgerna Ryggontet, flopparna 

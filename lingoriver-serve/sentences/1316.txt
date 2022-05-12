@@ -11,8 +11,8 @@ it	Eccoci qua.
 nl	We zijn er. 
 no	Og her er vi. 
 pl	Jesteśmy na miejscu. 
-pr-br	Chegamos. 
-pr	E cá estamos. 
+pt-br	Chegamos. 
+pt	E cá estamos. 
 ro	Și am ajuns! 
 sv	Här är det. 
 th	นี่เลย | 

@@ -13,8 +13,8 @@ ko	아니, 괜찮아 |
 nl	Ja, prima. 
 no	Ja, alt er bra. 
 pl	Tak. Wszystko gra. 
-pr-br	Sim, garota, está tudo bem. 
-pr	Sim, está tudo bem. 
+pt-br	Sim, garota, está tudo bem. 
+pt	Sim, está tudo bem. 
 sv	Jadå, vännen, allt är bra. 
 th	ไม่เป็นไร เด็กน้อย ทุกอย่างโอเค | 
 tr	Evet, evlat, gayet iyiyiz. 

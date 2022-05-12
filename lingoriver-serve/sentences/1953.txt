@@ -17,8 +17,8 @@ it	Tu dici alle persone ciò che credi vogliano sentirsi dire.
 ko	다들 듣고 싶어 하는 것 같은 | 말만 하잖아 | 
 nl	Je vertelt mensen wat je denkt dat ze willen horen. 
 no	Du sier det du tror folk ønsker å høre. 
-pr-br	Você diz às pessoas o que acha que querem ouvir. 
-pr	Tu dizes às pessoas o que achas que querem ouvir. 
+pt-br	Você diz às pessoas o que acha que querem ouvir. 
+pt	Tu dizes às pessoas o que achas que querem ouvir. 
 ro	Ba tu le spui oamenilor ce crezi că vor ei să audă. 
 th	นายพูดในสิ่งที่คนเขาอยากได้ยิน | 
 vi	Anh nói với mọi người | điều anh nghĩ họ muốn nghe. | 

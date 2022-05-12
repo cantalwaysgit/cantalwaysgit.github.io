@@ -13,8 +13,8 @@ he	&rlm;‏אתה רוצה להרגיש את זה?‏ |
 it	La vuoi sentire? 
 no	Vil du kjenne det? 
 pl	Chcesz go poczuć? 
-pr-br	Quer sentir? 
-pr	Queres senti-lo? 
+pt-br	Quer sentir? 
+pt	Queres senti-lo? 
 ro	Vrei s-o simți? 
 sv	Vill du känna på den? 
 th	อยากโดนมันไหม | 

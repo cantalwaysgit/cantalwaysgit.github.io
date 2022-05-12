@@ -16,8 +16,8 @@ ko	후치가 최고 인기 개로 | 등극하자 샘났던 거야 |
 nl	Hij was jaloers dat Hooch nu de beroemdste hond was. 
 no	Han var sjalu fordi Hooch var bransjens mest populære hund. 
 pl	Był zazdrosny o to, że Hooch stał się taki popularny. 
-pr-br	Ele estava com ciúme por Hooch ser o cachorro mais cobiçado do cinema. 
-pr	Estava com inveja de o Hooch ser o cão mais badalado. 
+pt-br	Ele estava com ciúme por Hooch ser o cachorro mais cobiçado do cinema. 
+pt	Estava com inveja de o Hooch ser o cão mais badalado. 
 ro	Era gelos că acum Hooch era pe val în industrie. 
 sv	Han var avundsjuk på att Hooch nu var den hetaste hunden i branschen. 
 tr	Hooch'un piyasadaki en tutulan köpek olmasını kıskanmış. 

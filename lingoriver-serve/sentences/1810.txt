@@ -11,8 +11,8 @@ he	&rlm;‏‏לא חשוב. אני אגיד לך מה, | &rlm;‏בוא למש�
 it	Comunque, vieni nel mio ufficio tra un'ora. 
 no	Samme det. Kom til mitt kontor om en time. 
 pl	Nieważne. Wpadnij za godzinę do mojego biura. 
-pr-br	Que seja. Bom, esteja no meu escritório daqui a uma hora. 
-pr	Não importa. Fazemos o seguinte, vai ao meu escritório daqui a uma hora. 
+pt-br	Que seja. Bom, esteja no meu escritório daqui a uma hora. 
+pt	Não importa. Fazemos o seguinte, vai ao meu escritório daqui a uma hora. 
 ro	În fine. Uite ce e! Te aștept la mine în birou într-o oră. 
 th	อะไรก็ตาม จะบอกอะไรให้ | อีกชั่วโมงมาที่ออฟฟิศผม | 
 tr	Neyse. Bak, ne diyeceğim, bir saat sonra ofisime gel. 

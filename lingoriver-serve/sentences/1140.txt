@@ -12,8 +12,8 @@ it	Comunque sono contento che tu abbia preso questa casa.
 nl	Ik ben blij dat je dit huis hebt genomen. 
 no	Jeg er glad du valgte dette stedet, forresten. 
 pl	Cieszę się, że kupiłaś ten dom. 
-pr	Ainda bem que ficaste com esta casa. 
-pr-br	Fico feliz que tenha comprado esta casa. 
+pt	Ainda bem que ficaste com esta casa. 
+pt-br	Fico feliz que tenha comprado esta casa. 
 ro	Mă bucur că ți-ai luat casa asta, apropo. 
 sv	Jag är glad du flyttade hit. 
 th	ผมดีใจที่คุณเอาบ้านนี้ | 

@@ -14,8 +14,8 @@ it	Fatti coprire.
 nl	Ik doe dit over je heen. 
 no	La meg ta denne for deg. 
 pl	Przykryję cię. 
-pr-br	Vou arrumar isso para você. 
-pr	Deixa-me tapar-te. 
+pt-br	Vou arrumar isso para você. 
+pt	Deixa-me tapar-te. 
 ro	O să te învelesc eu. 
 sv	Jag ska ge dig lite täcke. 
 th	ให้ผมดึงผ้าห่มให้ | 

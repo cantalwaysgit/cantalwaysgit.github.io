@@ -13,8 +13,8 @@ it	Tu sei bellissima e basta.
 ko	넌 그 자체로 아름다워 | 그런 말 하지 마 | 
 no	Du er vakker, er du. Gi deg. 
 pl	Jesteś po prostu piękna i tyle. 
-pr-br	Você é linda assim. Pare. 
-pr	Tu és linda. Para. 
+pt-br	Você é linda assim. Pare. 
+pt	Tu és linda. Para. 
 ro	Ești frumoasă. Încetează! 
 ru	Ты прекрасна. Прекрати. 
 sv	Du är vacker. Säg inte så. 

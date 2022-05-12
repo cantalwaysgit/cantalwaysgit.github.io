@@ -11,8 +11,8 @@ it	Non sono un medico, ma Sandy sembra davvero uno straccio.
 ko	내가 의사는 아니지만 | 샌디 상태가 안 좋아 보이네 | 
 nl	Ik ben geen arts, maar Sandy ziet er heel slecht uit. 
 pl	Nie jestem lekarzem, ale Sandy wygląda jak gówno na patyku. 
-pr-br	Não sou médico, mas a cara do Sandy está mais feia do que sempre foi. 
-pr	Eu cá não sou médico, mas o Sandy está com péssimo aspeto. 
+pt-br	Não sou médico, mas a cara do Sandy está mais feia do que sempre foi. 
+pt	Eu cá não sou médico, mas o Sandy está com péssimo aspeto. 
 ro	Nu sunt doctor, dar Sandy arată ca un rahat pe băț. 
 sv	Jag är ingen läkare, men Sandy ser inget vidare ut. 
 tr	Ben doktor değilim ama bok gibi görünüyorsun Sandy. 

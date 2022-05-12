@@ -14,8 +14,8 @@ ko	- 좋아, 어서 하자! | - 안 돼, 그건 아니야! |
 nl	Ja. Dat doen we. -Nee. Dat is geen deel van het ritueel. 
 no	-Ja! Vi gjør det! -Nei. Det er ikke del av ritualet! 
 pl	- Zróbmy to! - Nie. To nie jest część rytuału! 
-pr-br	-Sim! Vamos! -Não, isso não é parte do ritual! 
-pr	- Sim! Vamos a isso! - Não. Isso não faz parte do ritual! 
+pt-br	-Sim! Vamos! -Não, isso não é parte do ritual! 
+pt	- Sim! Vamos a isso! - Não. Isso não faz parte do ritual! 
 ro	- Da! S-o facem! - Nu. Asta nu face parte din ritual! 
 sv	-Ja! Det gör vi! -Nej. Det ingår inte i ritualen. 
 th	- ใช่ ไปกันเลย | - ไม่ ไม่ได้ นั่นไม่ใช่ธรรมเนียม | 

@@ -14,8 +14,8 @@ ko	오늘 어떤 식으로 축하할까? | 라디오에도 나왔어! |
 nl	Hoe gaan we 't vieren? Je was op de radio. 
 no	Hvordan skal vi feire? Du var på radio! 
 pl	Jak to uczcimy? Twoją piosenkę puszczali w radiu! 
-pr-br	Como vamos comemorar? Você estava na rádio! 
-pr	O que vamos fazer para comemorar? Passaste na rádio! 
+pt-br	Como vamos comemorar? Você estava na rádio! 
+pt	O que vamos fazer para comemorar? Passaste na rádio! 
 ro	Ce facem astă-seară ca să sărbătorim? Te-am auzit la radio! 
 ru	Как будем праздновать? Ты на радио! 
 sv	Vad ska vi göra för att fira? Du var på radion! 

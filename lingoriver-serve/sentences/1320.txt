@@ -5,8 +5,8 @@ es-eu	- Vaya. - ¿Qué quieres beber?
 he	&rlm;‏‏היי. | &rlm;‏-מה תרצה לשתות?‏ | 
 it	- Ehi. - Cosa bevi? 
 ko	- 그래요 | - 뭐 마실래요? | 
-pr-br	-Ei. -O que gostaria de beber? 
-pr	- Pronto. - O que queres beber? 
+pt-br	-Ei. -O que gostaria de beber? 
+pt	- Pronto. - O que queres beber? 
 sv	-Du. -Vad vill du ha att dricka? 
 th	- เฮ่ | - อยากดื่มอะไร | 
 tr	-Hey. -Ne içmek istersin? 
@@ -36,8 +36,8 @@ he	&rlm;‏יש לי קצת כאב בטן.‏ |
 id	Perutku agak tidak enak, 
 it	Ho un po' di acidità, 
 pl	Brzuch mnie trochę boli. 
-pr-br	Estou com um pouco de azia. 
-pr	Estou com indigestão. 
+pt-br	Estou com um pouco de azia. 
+pt	Estou com indigestão. 
 ro	Mă cam supără burta. 
 sv	Jag är lite sur i magen. 
 th	ท้องผมเป็นกรดหน่อยๆ | 
@@ -62,8 +62,8 @@ he	&rlm;‏‏אם יש לך דיאט בלאק צ'רי של ד"ר בראון | &
 it	della Dr. Brown dietetica alla ciliegia sarebbe perfetta. 
 no	Flott hvis du har en Dr. Brown's black cherry light. 
 pl	Chętnie bym się napił wiśniowego doktora browna. 
-pr-br	Se tiver Dr. Brown de cereja diet seria perfeito. 
-pr	Se tiveres Dr. Brown de cereja, seria ótimo. 
+pt-br	Se tiver Dr. Brown de cereja diet seria perfeito. 
+pt	Se tiveres Dr. Brown de cereja, seria ótimo. 
 ro	Dacă ai avea vreun suc dietetic de cireșe negre, ar fi perfect. 
 sv	Om du har Dr Browns black cherry-light, så blir det perfekt. 
 th	ถ้าคุณมีแบลคเชอร์รี่ไดเอต | ยี่ห้อดร.บราวน์ส จะเยี่ยมมาก | 

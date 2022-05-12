@@ -12,8 +12,8 @@ ko	좋은 소식이야 | 미스터 버튼스가 죽었대! |
 nl	Geweldig nieuws. Mr Buttons is dood. 
 no	Gode nyheter. Mr. Buttons er død! 
 pl	Mam wspaniałe wieści. Pan Buttons nie żyje! 
-pr-br	Ótimas notícias, o Sr. Botões está morto! 
-pr	Ótimas notícias. O Mr. Buttons está morto! 
+pt-br	Ótimas notícias, o Sr. Botões está morto! 
+pt	Ótimas notícias. O Mr. Buttons está morto! 
 ro	Am o veste grozavă! Dl Buttons a murit! 
 sv	Underbara nyheter. Mr Buttons är död! 
 th	ข่าวดี คุณบัตตันส์ตายแล้ว | 

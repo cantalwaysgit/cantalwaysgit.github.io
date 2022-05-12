@@ -16,8 +16,8 @@ he	&rlm;‏אז אתה באמת חושב שאני יכולה להיות מישה
 it	Davvero credi che potrei diventare qualcuno? 
 nl	Denk je echt dat ik iemand kan worden? 
 pl	Wierzysz, że mogę odnieść sukces? 
-pr	Achas mesmo que eu poderia ser alguém? 
-pr-br	Acha mesmo que posso ficar famosa? 
+pt	Achas mesmo que eu poderia ser alguém? 
+pt-br	Acha mesmo que posso ficar famosa? 
 ro	Deci chiar crezi că m-aș putea realiza? 
 th	คุณคิดจริงๆ เหรอว่าฉันจะดังได้ | 
 tr	Gerçekten ünlü olabilir miyim sence? 

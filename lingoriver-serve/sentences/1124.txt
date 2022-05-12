@@ -14,8 +14,8 @@ it	Capito? Ma l'ho spaventato.
 nl	Maar ik heb tegen hem geschreeuwd. 
 no	Ok? Men jeg skrek til ham. 
 pl	Ale nawrzeszczałem na niego. 
-pr-br	Está bem? Mas eu gritei com ele. 
-pr	Está bem? Mas gritei-lhe. 
+pt-br	Está bem? Mas eu gritei com ele. 
+pt	Está bem? Mas gritei-lhe. 
 ro	Da? Dar am țipat la el. 
 sv	Men jag skrek på den. 
 th	ผมตะโกนใส่มัน | 

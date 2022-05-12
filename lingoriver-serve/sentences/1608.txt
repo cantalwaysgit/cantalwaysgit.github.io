@@ -13,8 +13,8 @@ it	prima di immobilizzare Ted DiBiase e vincere il titolo!
 nl	...voor hij Ted DiBiase klem had en de titel won. 
 no	før han endelig slo Ted DiBiase og vant beltet! 
 pl	zanim załatwił Teda DiBiase i zdobył pas! 
-pr	até vencer o Ted DiBiase e ganhar o cinto de campeão! 
-pr-br	antes de finalmente nocautear Ted DiBiase e ganhar o cinturão! 
+pt	até vencer o Ted DiBiase e ganhar o cinto de campeão! 
+pt-br	antes de finalmente nocautear Ted DiBiase e ganhar o cinturão! 
 ro	până când a reușit să-l învingă pe Ted DiBiase și să câștige centura! 
 th	ก่อนที่จะเอาชนะเท็ด ดีไบอาส | และได้เข็มขัดในที่สุด | 
 tr	o kemeri kazanana kadar 24 kere yenildi! 

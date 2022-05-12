@@ -10,8 +10,8 @@ it	Perché parli di Chili's?
 ko	칠리스 얘기는 왜 해요? | 
 nl	Waarom heb je het over Chili's? 
 no	Hvorfor snakker du om Chili's? 
-pr-br	Por que está falando do Chili's? 
-pr	Porque estás a falar do Chili's? 
+pt-br	Por que está falando do Chili's? 
+pt	Porque estás a falar do Chili's? 
 ro	De ce tot o dai cu restaurantul? 
 sv	Varför snackar du om Chili's? 
 th	ทำไมพูดถึงร้านชิลีส์ | 

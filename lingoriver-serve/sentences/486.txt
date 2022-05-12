@@ -14,8 +14,8 @@ ko	약했어요? |
 nl	Ben je stoned of zo? 
 no	Er du stein? 
 pl	Zjarałeś się? 
-pr-br	Você está chapado? 
-pr	Estás pedrado? 
+pt-br	Você está chapado? 
+pt	Estás pedrado? 
 ro	Ești drogat? 
 ru	Ты обкурился? 
 sv	Är du stenad? 

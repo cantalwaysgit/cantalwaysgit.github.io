@@ -14,8 +14,8 @@ ko	이미 얘기했던가요? |
 nl	Heb ik dat al gezegd? 
 no	Har jeg sagt det alt? 
 pl	Już tak mówiłem? 
-pr-br	Eu já tinha dito isso? 
-pr	Já tinha dito? 
+pt-br	Eu já tinha dito isso? 
+pt	Já tinha dito? 
 ro	Am zis-o deja? 
 sv	Har jag redan använt den? 
 th	ผมพูดไปแล้วเหรอ | 

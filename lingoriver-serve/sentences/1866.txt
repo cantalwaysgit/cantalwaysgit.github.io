@@ -14,8 +14,8 @@ it	Questa camera è troppo bella. Non me la posso permettere.
 nl	Deze kamer is te mooi, die kan ik me niet veroorloven. 
 no	Dette rommet er for fint for meg. Jeg har ikke råd til dette. 
 pl	Bardzo ładna salka. Nie stać mnie na coś takiego. 
-pr-br	Este quarto é muito bonito para mim. Não posso pagá-lo. 
-pr	Este quarto é demasiado bom para mim. Não posso pagar isto. 
+pt-br	Este quarto é muito bonito para mim. Não posso pagá-lo. 
+pt	Este quarto é demasiado bom para mim. Não posso pagar isto. 
 ro	Camera asta e prea frumoasă pentru mine. Nu-mi permit așa ceva. 
 sv	Rummet är för fint. Jag har inte råd med det. 
 th	ห้องนี้มันดีเกินไป ผมไม่มีเงินจ่าย | 

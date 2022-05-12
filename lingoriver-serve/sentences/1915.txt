@@ -11,8 +11,8 @@ it	Ma tu mi hai visto
 ko	당신은 나를 봤어 | 
 nl	maar jij zag me 
 pl	Ale dostrzegłeś mnie 
-pr-br	Mas você me viu 
-pr	Mas tu viste-me 
+pt-br	Mas você me viu 
+pt	Mas tu viste-me 
 ro	Dar tu m-ai văzut 
 sv	Men du såg mig 
 tr	Ama sen beni gördün 

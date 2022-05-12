@@ -14,8 +14,8 @@ it	Grazie di tutto. Mi ha fatto molto piacere.
 ko	전부 고마워 | 
 no	Takk for alt. Setter pris på det. 
 pl	Dziękuję za wszystko. 
-pr-br	Obrigado por tudo. De verdade. 
-pr	Obrigado por tudo. Eu agradeço. 
+pt-br	Obrigado por tudo. De verdade. 
+pt	Obrigado por tudo. Eu agradeço. 
 ro	Îți mulțumesc pentru tot. Ai fost o comoară. 
 sv	Tack för allt. Jag uppskattade det. 
 th	ขอบคุณสำหรับทุกอย่าง | ซาบซึ้งทุกอย่างเลย | 

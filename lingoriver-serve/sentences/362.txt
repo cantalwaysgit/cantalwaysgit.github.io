@@ -13,8 +13,8 @@ he	&rlm;‏למעלה עם כל שאר הכוכבים.‏ |
 it	Lassù con tutte le altre stelle. 
 no	Opp dit til alle de andre stjernene. 
 pl	O tam, do panteonu gwiazd. 
-pr-br	Vai lá para cima com as outras estrelas. 
-pr	Lá em cima, com as outras estrelas. 
+pt-br	Vai lá para cima com as outras estrelas. 
+pt	Lá em cima, com as outras estrelas. 
 ro	Alături de celelalte stele frumoase. 
 sv	En av de största stjärnorna. 
 th	บนนั้นกับดาวอื่นๆ | 

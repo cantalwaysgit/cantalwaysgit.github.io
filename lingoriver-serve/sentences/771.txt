@@ -14,8 +14,8 @@ ko	사귀는 사람 있대요? | 내 스타일인데 |
 nl	Heeft ze iemand? Want ze is mijn type. 
 no	Har hun noen? For jeg tror hun er min type. 
 pl	Ma kogoś? To dziewczyna w moim typie. 
-pr-br	Ela tem namorado? Acho que ela é o meu tipo. 
-pr	Ela anda com alguém? Porque acho que faz o meu género. 
+pt-br	Ela tem namorado? Acho que ela é o meu tipo. 
+pt	Ela anda com alguém? Porque acho que faz o meu género. 
 ro	Are pe cineva? Cred că e genul meu. 
 sv	Träffar hon nån? För hon är precis min typ. 
 th	เธอมีใครหรือยัง | เพราะคิดว่าเธอสเปกผม | 

@@ -9,8 +9,8 @@ he	&rlm;‏אני חושבת שיש מישהו מחוץ לבית שלי.‏ |
 it	C'è qualcuno fuori da casa mia. 
 ko	누가 집 밖에 있는 것 같아요 | 
 pl	Ktoś jest przed moim domem. 
-pr	Acho que está alguém junto à minha casa. 
-pr-br	Acho que tem alguém do lado de fora da minha casa. 
+pt	Acho que está alguém junto à minha casa. 
+pt-br	Acho que tem alguém do lado de fora da minha casa. 
 ro	Cred că e cineva în fața casei mele. 
 sv	Nån verkar vara utanför mitt hus. 
 tr	Galiba evimin önünde biri var. 

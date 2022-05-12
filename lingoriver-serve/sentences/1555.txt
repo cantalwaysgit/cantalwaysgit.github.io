@@ -12,8 +12,8 @@ it	- Dai! Corri! - Va bene!
 ko	- 달려! | - 알았어요! | 
 no	-Fort! Løp! -Ok! 
 pl	- Biegiem! - Dobra! 
-pr-br	-Vá! Corra! -Está bem! 
-pr	- Corre! - Está bem! 
+pt-br	-Vá! Corra! -Está bem! 
+pt	- Corre! - Está bem! 
 ro	- Hai! Fugi! - Bine! 
 ru	-Давай! Беги! -Бегу! 
 sv	-Spring! -Okej! 

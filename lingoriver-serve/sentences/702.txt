@@ -15,8 +15,8 @@ ko	샌디, 아버지가 꼭 | 인사드리라고 하셨어요 |
 nl	M'n vader wilde dat ik je de groeten deed. 
 no	Faren min ba meg hilse. 
 pl	Sandy, tata kazał mi ciebie pozdrowić. 
-pr-br	Sandy, meu pai pediu para eu dar "oi" para você. 
-pr	Sandy, o meu pai manda-te cumprimentos. 
+pt-br	Sandy, meu pai pediu para eu dar "oi" para você. 
+pt	Sandy, o meu pai manda-te cumprimentos. 
 ro	Sandy, tata a insistat să te salut. 
 sv	Sandy, min pappa ville att jag skulle hälsa till dig. 
 th	แซนดี้ พ่อผมบอกให้สวัสดีแทนให้ได้ | 

@@ -14,8 +14,8 @@ ko	너 말고, 배리, 안녕! |
 nl	Nee, jij niet, Barry. Hoi. 
 no	Nei, ikke du, Barry. Hei! 
 pl	Nie ty, Barry. Cześć! 
-pr-br	Você não, Barry. Oi! 
-pr	Não és tu, Barry. Olá! 
+pt-br	Você não, Barry. Oi! 
+pt	Não és tu, Barry. Olá! 
 ro	Nu tu, Barry. Salut! 
 sv	Nej, inte du, Barry. Hej. 
 th	ไม่ ไม่ใช่คุณนะ แบร์รี่ หวัดดี | 

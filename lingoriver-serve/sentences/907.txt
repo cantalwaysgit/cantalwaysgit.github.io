@@ -12,8 +12,8 @@ he	&rlm;‏היא מכירה אותי.‏ |
 it	Mi conosce. 
 nl	Ze kent me. 
 no	Hun kjenner meg. 
-pr-br	Ela me conhece. 
-pr	Ela conhece-me. 
+pt-br	Ela me conhece. 
+pt	Ela conhece-me. 
 ro	Mă cunoaște. 
 sv	Hon känner mig. 
 th	เธอรู้จักฉัน | 

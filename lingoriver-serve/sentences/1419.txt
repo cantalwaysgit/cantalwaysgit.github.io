@@ -16,8 +16,8 @@ it	- Indosserai il cappello da anatroccolo... - Oddio.
 nl	Je doet de lelijke eendjes-hoed op... 
 no	-Ta på den stygge andunge-hatten... -Kjære vene. 
 pl	- Nałożysz czapkę brzydkiego kaczątka. - Boże. 
-pr-br	-Ponha aquele chapéu de patinho feio... -Meu Deus. 
-pr	- Põe o chapéu do patinho feio... - Céus. 
+pt-br	-Ponha aquele chapéu de patinho feio... -Meu Deus. 
+pt	- Põe o chapéu do patinho feio... - Céus. 
 ro	- Pune-ți costumul de rățușcă urâtă... - Doamne! 
 th	- ใส่หมวกลูกเป็ดขี้เหร่... | - ให้ตายสิ | 
 vi	- Cô đội cái mũ con vịt xấu xí... | - Chúa ơi. | 

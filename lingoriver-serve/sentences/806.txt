@@ -13,8 +13,8 @@ ko	처음인데 어떻게 이걸 | 의례라고 할 수 있어요? |
 nl	Als het de eerste keer is, is het toch geen ritueel? 
 no	Hvordan er det et ritual om det er første gang? 
 pl	To nie jest żaden rytuał. 
-pr-br	Se é a primeira vez, como pode ser um ritual? 
-pr	Se é a primeira vez, como pode ser um ritual? 
+pt-br	Se é a primeira vez, como pode ser um ritual? 
+pt	Se é a primeira vez, como pode ser um ritual? 
 ro	Dacă e o premieră, cum să fie ritual? 
 sv	Om det är första gången, hur kan det vara en ritual? 
 tr	Bu bir ilkse, nasıl gelenek olabilir? 

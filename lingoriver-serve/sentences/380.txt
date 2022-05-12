@@ -13,8 +13,8 @@ it	Non era lui lo stronzo, ero io. È stata colpa mia.
 nl	Hij niet. Ik was een zak. Het was mijn schuld. 
 no	Nei. Jeg var kødden. Det var min skyld. 
 pl	Nie, to ja zachowałem się jak fiut. To była moja wina. 
-pr-br	Ele não era pilantra. Eu fui pilantra. Foi culpa minha. 
-pr	O imbecil não foi ele. Fui eu. A culpa foi minha. 
+pt-br	Ele não era pilantra. Eu fui pilantra. Foi culpa minha. 
+pt	O imbecil não foi ele. Fui eu. A culpa foi minha. 
 ro	Nu el a fost ticălos, eu am fost. A fost vina mea. 
 sv	Han var inget as. Det var mitt fel. 
 th	เขาไม่ได้บ้า ผมต่างหากที่บ้า | ความผิดผมเอง | 

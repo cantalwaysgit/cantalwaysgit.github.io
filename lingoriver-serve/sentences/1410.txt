@@ -10,8 +10,8 @@ he	&rlm;‏לא, עבדנו יחד בעבר.‏ |
 it	No. Noi lavoravamo insieme. 
 nl	Nee. We hebben vroeger samengewerkt. 
 pl	Nie. Pracowaliśmy razem. 
-pr-br	Não. Nós trabalhávamos juntos. 
-pr	Não. Nós trabalhámos juntos. 
+pt-br	Não. Nós trabalhávamos juntos. 
+pt	Não. Nós trabalhámos juntos. 
 ro	Nu. Noi am colaborat. 
 sv	Nej, vi brukade jobba tillsammans. 
 th	ไม่ใช่ เราเคยร่วมงานกัน | 

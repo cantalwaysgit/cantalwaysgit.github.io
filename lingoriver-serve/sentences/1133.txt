@@ -10,8 +10,8 @@ he	&rlm;‏אתה מטורף, סנדי. תוריד את המכנסיים שלך.
 it	Sei fuori di testa, Sandy. Togliti i pantaloni. 
 ko	제정신이 아니네요 | 그 바지도 벗으세요 | 
 nl	Je bent gestoord. Doe die broek uit. 
-pr-br	Você é louco, Sandy. Tire as calças. 
-pr	Tu és louco, Sandy. Tira essas calças. 
+pt-br	Você é louco, Sandy. Tire as calças. 
+pt	Tu és louco, Sandy. Tira essas calças. 
 sv	Du är galen. Ta av dig byxorna. 
 tr	Sen delisin Sandy. Çıkar şu pantolonu. 
 vi	Anh thật điên, Sandy. Cởi quần ra. | 

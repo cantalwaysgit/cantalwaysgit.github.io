@@ -12,8 +12,8 @@ he	&rlm;‏חשבתי שהייתי בלתי נראית‏ |
 it	Pensavo di essere invisibile 
 nl	ik dacht dat ik onzichtbaar was 
 pl	Byłam niewidzialna 
-pr-br	Eu achei que era invisível 
-pr	Eu pensava que era invisível 
+pt-br	Eu achei que era invisível 
+pt	Eu pensava que era invisível 
 ro	Credeam că sunt invizibilă 
 sv	Jag trodde jag var osynlig 
 th	ฉันนึกว่าไม่มีใครเห็นฉัน | 

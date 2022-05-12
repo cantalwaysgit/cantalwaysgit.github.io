@@ -13,8 +13,8 @@ ko	- 개들한테 그러셨잖아요 | - 1분 전에요 |
 nl	Wel tegen de honden. -Net nog. 
 no	-Du sa det til hundene. -Nå nettopp. 
 pl	- Powiedziałeś to psom. - Minutę temu. 
-pr-br	-Disse aos cachorros. -Disse há um minuto. 
-pr	- Disseste aos cães. - Há um minuto. 
+pt-br	-Disse aos cachorros. -Disse há um minuto. 
+pt	- Disseste aos cães. - Há um minuto. 
 ro	- Le-ai spus așa câinilor. - Acum un minut. 
 ru	-Говорили. Собакам. -Только что. 
 sv	-Du sa det till hundarna. -För en minut sen. 

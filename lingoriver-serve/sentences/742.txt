@@ -15,8 +15,8 @@ ko	세계 최고의 음향 시설을 | 갖추고 있어요 |
 nl	De beste akoestiek van de wereld. 
 no	Det har verdens beste akustikk. 
 pl	Tu jest najlepsza akustyka na świecie. 
-pr-br	Tem a melhor acústica do planeta. 
-pr	Tem a melhor acústica no planeta. 
+pt-br	Tem a melhor acústica do planeta. 
+pt	Tem a melhor acústica no planeta. 
 ro	Are cea mai bună acustică de pe planetă. 
 sv	Den har världens bästa akustik. 
 th	มันให้คุณสมบัติของเสียงดีที่สุดในโลก | 

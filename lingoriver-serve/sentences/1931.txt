@@ -14,8 +14,8 @@ es-eu	Aquí es donde se me ocurren mis mejores ideas.
 fr	C'est ici que je trouve l'inspiration. 
 he	&rlm;‏כאן אני מקבל את כל הרעיונות הכי טובים שלי.‏ | 
 it	È qui che mi vengono le idee migliori. 
-pr-br	Bem, é aqui que tenho as minhas melhores ideias. 
-pr	É aqui que tenho as minhas melhores ideias. 
+pt-br	Bem, é aqui que tenho as minhas melhores ideias. 
+pt	É aqui que tenho as minhas melhores ideias. 
 ro	Aici îmi vin ideile cele mai bune. 
 sv	Det är här jag får mina bästa idéer. 
 tr	En iyi fikirleri burada buluyorum. 

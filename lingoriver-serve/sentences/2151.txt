@@ -14,8 +14,8 @@ he	&rlm;‏אתה גארי ביוסי?‏ |
 it	Sei Gary Busey? 
 ko	게리 부시야? | 
 no	Er det Gary Busey? 
-pr-br	Você é Gary Busey? 
-pr	É o Gary Busey? 
+pt-br	Você é Gary Busey? 
+pt	É o Gary Busey? 
 ro	Ești Gary Busey? 
 sv	Är det Gary Busey? 
 th	แกรี่ บิวซีย์ใช่ไหม | 
@@ -37,8 +37,8 @@ he	&rlm;‏אין סיכוי! טמבל.‏ |
 it	Sbagliato! Imbecille. 
 no	Nei! Dust. 
 pl	Coś ty! Głupek. 
-pr-br	Não é! Idiota. 
-pr	Nada disso! Idiota. 
+pt-br	Não é! Idiota. 
+pt	Nada disso! Idiota. 
 ro	Nici vorbă! Idiotule! 
 sv	Aldrig. Dumskalle. 
 th	ไม่มีทาง ไอ้โง่ | 

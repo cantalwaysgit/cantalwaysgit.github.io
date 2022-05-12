@@ -13,8 +13,8 @@ he	&rlm;‏תקשיבי, לא היו לו רק שיהוקים,‏ | &rlm;אלא 
 it	Non solo gli veniva il singhiozzo, 
 no	Ikke bare hadde han hikke, 
 pl	To nie była zwykła czkawka. 
-pr-br	Ele não tinha apenas soluços, 
-pr	Ele não teve só soluços, 
+pt-br	Ele não tinha apenas soluços, 
+pt	Ele não teve só soluços, 
 ro	Nu era orice sughiț. 
 th	ฟังนะ เขาไม่ได้แค่สะอึก | 
 tr	Hıçkırık tutmakla kalmamıştı, 

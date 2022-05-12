@@ -14,8 +14,8 @@ it	- Esiste un'offerta migliore? - Assolutamente.
 ko	- 더 좋은 제안이 있나요? | - 물론이지 | 
 no	-Finnes det noe bedre? -Helt klart. 
 pl	- Jest lepsza oferta? - Oczywiście. 
-pr-br	-E tem uma proposta melhor? -Com certeza. 
-pr	- Há melhor? - Sem dúvida. 
+pt-br	-E tem uma proposta melhor? -Com certeza. 
+pt	- Há melhor? - Sem dúvida. 
 ro	- Și ai o afacere mai bună? - Sigur. 
 sv	-Finns det nåt bättre? -Absolut. 
 th	- มีข้อเสนอที่ดีกว่าเหรอ | - แน่นอน | 
@@ -38,8 +38,8 @@ it	Esiste un'offerta irrinunciabile.
 ko	대단한 제안이 있어 | 
 no	Det er et flott tilbud der ute. 
 pl	I to bardzo poważna. 
-pr-br	Tem uma proposta agressiva. 
-pr	Há uma oferta muito agressiva. 
+pt-br	Tem uma proposta agressiva. 
+pt	Há uma oferta muito agressiva. 
 ro	Am o ofertă solidă. 
 sv	Det är ett grymt erbjudande. 
 th	มีข้อเสนอสุดยอดข้างนอกนั่น | 

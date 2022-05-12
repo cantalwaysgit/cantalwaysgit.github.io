@@ -15,8 +15,8 @@ it	Bling mi ha detto che Quincy Jones mi aspetta alla sua festa, stasera.
 nl	Bling belde net en Quincy Jones heeft me uitgenodigd op zijn feest. 
 no	Bling ringte. Quincy Jones ba meg på fest i kveld. 
 pl	Dzwonił Bling. Quincy Jones zaprosił mnie do siebie na imprezę. 
-pr	Bem, o Bling ligou e o Quincy Jones convidou-me para ir à festa dele. 
-pr-br	Bling acabou de ligar e Quincy Jones me convidou para a festa dele hoje. 
+pt	Bem, o Bling ligou e o Quincy Jones convidou-me para ir à festa dele. 
+pt-br	Bling acabou de ligar e Quincy Jones me convidou para a festa dele hoje. 
 ro	A sunat Bling să-mi spună că Quincy Jones m-a invitat astă-seară la petrecerea lui. 
 sv	Bling ringde nyss. Quincy Jones bjöd mig på sin fest ikväll. 
 th	บลิงก์เพิ่งโทรมาบอกว่าควินซี่ โจนส์ | เชิญฉันไปงานปาร์ตี้ของเขาคืนนี้ | 

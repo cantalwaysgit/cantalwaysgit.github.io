@@ -12,8 +12,8 @@ ko	- 햄버거예요, 이 양반아 | - 햄버거? |
 nl	Het is een hamburger, gek. 
 no	-Det er en hamburger, gærning. -Hamburger? 
 pl	- To zwykły hamburger. - Hamburger? 
-pr-br	-É um hambúrguer, seu louco. -Um hambúrguer? 
-pr	- É um hambúrguer, seu maluco. - Um hambúrguer? 
+pt-br	-É um hambúrguer, seu louco. -Um hambúrguer? 
+pt	- É um hambúrguer, seu maluco. - Um hambúrguer? 
 ro	- E doar un hamburger, nebunule. - Un hamburger? 
 sv	Det är en hamburgare, din tok. 
 th	- แค่แฮมเบอร์เกอร์ คนบ้า | - แฮมเบอร์เกอร์เหรอ | 
@@ -38,8 +38,8 @@ ko	- 빵을 같이 먹어야죠 | - 빵이라... |
 nl	En zonder broodje mis je iets. -Het broodje... 
 no	-Du går glipp av noe uten brødet. -Brødet... 
 pl	- Z bułką byłby lepszy. - No tak... 
-pr-br	-Está perdendo sem o pão. -O pão... 
-pr	- E ficas a perder ao não comer o pão. - O pão... 
+pt-br	-Está perdendo sem o pão. -O pão... 
+pt	- E ficas a perder ao não comer o pão. - O pão... 
 ro	- Și e mai bun cu chiflă. - În legătură cu chifla... 
 sv	-Du går miste om nåt utan brödet. -Och brödet... 
 th	- ไม่กินขนมปังมันขาดอะไรไปนะ | - ทีนี้ ขนมปัง... | 
@@ -67,8 +67,8 @@ it	- Prima devo perdere altri due chili. - Oddio.
 ko	- 2kg 빼면 먹을게 | - 세상에 | 
 no	-To kilo til, så kan jeg spise brød igjen. -Herregud. 
 pl	- Zrzucę dwa kilo i wrócę do bułek. - Boże. 
-pr-br	-Se eu perder mais 2,5 kg, volto ao pão. -Ah, meu Deus. 
-pr	- Se perder dois quilos, volto ao pão. - Meu Deus. 
+pt-br	-Se eu perder mais 2,5 kg, volto ao pão. -Ah, meu Deus. 
+pt	- Se perder dois quilos, volto ao pão. - Meu Deus. 
 ro	- Să mai slăbesc vreo două kilograme. - Dumnezeule! 
 sv	-Om jag går ner två kilo, tar jag bröd. -Herregud. 
 th	- ถ้าลดได้สองกิโล จะกลับไปกินขนมปัง | - ให้ตายสิ | 

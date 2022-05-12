@@ -14,8 +14,8 @@ it	Si nascondeva
 ko	그는 자신을 숨겼지 | 
 nl	verstopte hij zich 
 pl	Pod ziemię zapadł się 
-pr-br	Ele se escondeu 
-pr	Ele tratou de se esconder 
+pt-br	Ele se escondeu 
+pt	Ele tratou de se esconder 
 ro	S-a ascuns 
 sv	Gömde han sig för världen 
 th	เขาซ่อนตัวอยู่ | 

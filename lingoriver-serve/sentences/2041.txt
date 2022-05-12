@@ -6,8 +6,8 @@ es-eu	Bésame.
 es	Solo bésame. 
 it	Baciami. 
 nl	Kus me gewoon. 
-pr	Beija-me. 
-pr-br	Apenas me beije. 
+pt	Beija-me. 
+pt-br	Apenas me beije. 
 sv	Kyss mig. 
 vi	Hôn em đi. | 
 zh-long	吻我吧 

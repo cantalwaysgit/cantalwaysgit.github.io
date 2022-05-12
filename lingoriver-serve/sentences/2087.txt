@@ -14,8 +14,8 @@ ko	또 뭐가 있죠? |
 nl	Wat gebeurt er nog meer? 
 no	Hva annet skjer? 
 pl	Co jeszcze? 
-pr-br	O que mais está rolando? 
-pr	O que mais se passa? 
+pt-br	O que mais está rolando? 
+pt	O que mais se passa? 
 ro	Ce se mai întâmplă? 
 sv	Vad händer mer? 
 th	มีอะไรเกิดขึ้นอีกนะ | 

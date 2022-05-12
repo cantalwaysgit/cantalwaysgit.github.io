@@ -19,8 +19,8 @@ es-eu	Cómo he dicho... Mira cuánta gente.
 es	La manera en que lo dije... Mira a toda esta gente. 
 he	&rlm;‏האופן שאמרתי... תראה כמה קהל.‏ | 
 it	Per come ho detto... Guarda quanta gente c'è. 
-pr	A forma como disse... Olha para o tamanho desta multidão. 
-pr-br	Como eu disse... Veja só a plateia. 
+pt	A forma como disse... Olha para o tamanho desta multidão. 
+pt-br	Como eu disse... Veja só a plateia. 
 zh-long	我說話的…看看就這點觀眾 
 zh-short	我说的方式… 看看才来了多少观众 
 ko	제 말투는... | 저기 관중 좀 보세요 | 

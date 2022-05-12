@@ -12,8 +12,8 @@ it	Non sono abituata alla celebrità. Vorrei che tutti fossero felici.
 nl	Dat rockster zijn is nieuw voor me. Ik probeer iedereen blij te maken. 
 no	Denne rockestjerne-greia er ny for meg. Jeg prøver å glede alle. 
 pl	Wciąż próbuję się odnaleźć w roli gwiazdy. Staram się, żeby wszyscy byli szczęśliwi. 
-pr-br	Essa coisa de celebridade é nova para mim. Faço o que posso pra deixar todos felizes. 
-pr	Isto de ser estrela é novidade para mim. Faço o que posso para agradar a todos. 
+pt-br	Essa coisa de celebridade é nova para mim. Faço o que posso pra deixar todos felizes. 
+pt	Isto de ser estrela é novidade para mim. Faço o que posso para agradar a todos. 
 ro	Treaba asta cu vedeta rock e nouă. Fac tot ce pot să-i mulțumesc pe toți. 
 sv	Rockstjärnegrejen är ny för mig. Jag gör allt för att göra alla glada. 
 th	ความเป็นร็อกสตาร์มันใหม่สำหรับฉัน | ฉันทำดีที่สุดเพื่อให้ทุกคนแฮปปี | 

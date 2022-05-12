@@ -11,8 +11,8 @@ it	Vediamo chi hanno scelto i giudici come campione della serata.
 nl	We kijken wie de jury als kampioen heeft gekozen. 
 no	La oss se hvem dommerne velger i kveld. 
 pl	Dowiedzmy się, kto dziś wygrał. 
-pr-br	Vamos descobrir quem os juízes escolheram como campeão da noite. 
-pr	Vamos ver quem o júri escolheu como campeão desta noite. 
+pt-br	Vamos descobrir quem os juízes escolheram como campeão da noite. 
+pt	Vamos ver quem o júri escolheu como campeão desta noite. 
 ro	Să vedem ce campion au ales jurații azi pentru revenire. 
 sv	Nu får vi snart veta vem domarna utser till återvändande mästare. 
 th	มาดูสิว่าคืนนี้กรรมการเลือกใคร | ให้เป็นแชมป์ที่จะได้กลับมา | 

@@ -14,8 +14,8 @@ ko	뭐래? |
 nl	Wat zei hij? 
 no	Hva sa han? 
 pl	Co powiedział? 
-pr-br	O que ele disse? 
-pr	O que disse ele? 
+pt-br	O que ele disse? 
+pt	O que disse ele? 
 ro	Ce a zis? 
 sv	Vad sa han? 
 th	แล้วเขาว่าไง | 

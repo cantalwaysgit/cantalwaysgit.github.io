@@ -13,8 +13,8 @@ ko	아니, 가벼운 사고였어 | 내 상대를 봤어야 하는데 |
 nl	Een ongelukje. Je zou die andere vent moeten zien. 
 no	Nei. En liten kollisjon. Du skulle sett den andre fyren. 
 pl	Miałem małą stłuczkę. Żałuj, że nie widziałeś tego drugiego. 
-pr-br	Não, eu... Foi só um incidente sem importância. Deveria ver o outro cara. 
-pr	Não. Foi um toque de carro. Devias ver como ficou o outro tipo. 
+pt-br	Não, eu... Foi só um incidente sem importância. Deveria ver o outro cara. 
+pt	Não. Foi um toque de carro. Devias ver como ficou o outro tipo. 
 ro	Nu. O mică tamponare. Ar trebui să-l vezi pe celălalt. 
 ru	Нет... Просто авария. Видел бы ты второго парня. 
 sv	Nej då. En liten krock. Du skulle se den andra snubben. 

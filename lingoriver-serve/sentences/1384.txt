@@ -11,8 +11,8 @@ it	- Quindi saranno battute nuove. - No, ma le dirai con la tua voce.
 nl	Dan zijn het nieuwe grappen. -Maar je doet ze met jouw stem. 
 no	-Da er det nye vitser. -Men du gjør dem med din stemme. 
 pl	- Czyli nowe dowcipy. - Ale swoim głosem. 
-pr-br	-Assim serão novas piadas. -Não, mas as contará do seu jeito. 
-pr	- Então, são piadas novas. - Mas conta-las com a tua voz. 
+pt-br	-Assim serão novas piadas. -Não, mas as contará do seu jeito. 
+pt	- Então, são piadas novas. - Mas conta-las com a tua voz. 
 ro	- Deci vor fi glume noi. - Dar va fi vocea ta. 
 sv	-Då är det nya skämt. -Nej, men du gör dem med din röst. 
 th	- งั้นก็ต้องเป็นมุกใหม่ | - ไม่ใช่ แต่นายพูดด้วยเสียงนาย | 

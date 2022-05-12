@@ -14,8 +14,8 @@ it	"Ho chiamato e mi hanno tenuto 45 minuti in attesa".
 nl	'Ik belde en ze zetten me 45 minuten in de wacht.' 
 no	"Jeg ringte dem, og de satte meg på vent i tre kvarter." 
 pl	Mówiłem, że dali mi się we znaki, bo długo kazali mi czekać. 
-pr-br	"Liguei para eles e me deixaram na espera por cerca de 45 minutos." 
-pr	"Eu liguei-lhes e deixaram-me 45 minutos à espera." 
+pt-br	"Liguei para eles e me deixaram na espera por cerca de 45 minutos." 
+pt	"Eu liguei-lhes e deixaram-me 45 minutos à espera." 
 ro	"I-am sunat și m-au pus să aștept vreo 45 de minute." 
 sv	"Jag ringde dem och de lät mig vänta i cirka 45 minuter." 
 th	"ผมโทรไปแล้ว | พวกเขาปล่อยให้ผมรอคิวอยู่ 45 นาที" | 

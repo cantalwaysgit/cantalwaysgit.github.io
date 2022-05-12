@@ -13,8 +13,8 @@ he	&rlm;‏נגבש עסקה.‏ |
 it	Prepariamo un contratto. 
 no	Vi lager en avtale. 
 pl	Ustalimy warunki. 
-pr-br	Vamos fazer um acordo. 
-pr	Vamos alinhavar um acordo. 
+pt-br	Vamos fazer um acordo. 
+pt	Vamos alinhavar um acordo. 
 ro	O să batem palma. 
 th	เราจะตกลงทำสัญญากัน | 
 tr	Bir sözleşme yapalım. 

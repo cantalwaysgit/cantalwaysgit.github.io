@@ -11,8 +11,8 @@ it	Voleva tenersi impegnato.
 ko	계속 바쁘게 살았어요 | 
 nl	Hij hield zich bezig. 
 pl	Rzucił się w wir pracy. 
-pr-br	Ele se manteve ocupado. 
-pr	Ele manteve-se ocupado. 
+pt-br	Ele se manteve ocupado. 
+pt	Ele manteve-se ocupado. 
 ro	S-a îngropat în muncă. 
 sv	Han jobbade mycket. 
 th	เขาทำตัวให้ไม่ว่าง | 

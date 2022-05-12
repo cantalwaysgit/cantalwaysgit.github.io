@@ -11,8 +11,8 @@ it	D'accordo, Sandy.
 ko	알았어요, 샌디 | 
 no	Greit, Sandy. 
 pl	Dobrze, Sandy. 
-pr-br	Está bem, Sandy. 
-pr	Está bem, Sandy. 
+pt-br	Está bem, Sandy. 
+pt	Está bem, Sandy. 
 ro	Bine, Sandy. 
 sv	Okej, Sandy. 
 th	เอาละ แซนดี้ | 

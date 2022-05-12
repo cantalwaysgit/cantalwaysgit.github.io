@@ -14,8 +14,8 @@ ko	미국 최고의 여성용 | 냉 연고를 만나 보시죠 |
 nl	Vag-Eze, de nummer één onder de vaginale crèmes tegen afscheiding. 
 no	Vag-Eze, Amerikas fremste salve for vaginal utflod. 
 pl	Vag-Eze, numer jeden na upławy. 
-pr-br	Vag-Eze, a melhor pomada para corrimento vaginal dos Estados Unidos. 
-pr	Vag-Eze, a pomada número um da América para o corrimento vaginal. 
+pt-br	Vag-Eze, a melhor pomada para corrimento vaginal dos Estados Unidos. 
+pt	Vag-Eze, a pomada número um da América para o corrimento vaginal. 
 ro	Vag-Eze, crema revoluționară a Americii pentru secreții vaginale. 
 sv	Vag-Eze, Amerikas främsta vaginalkräm. 
 th	แวจ-อีซ ขี้ผึ้งกันตกขาว | อันดับหนึ่งแห่งอเมริกา | 

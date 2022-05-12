@@ -14,8 +14,8 @@ ko	엘 세군도 캠핑카 지역 | 주민 여러분 |
 nl	Dames en heren van het El Segundo Motor Home Court... 
 no	Mine damer og herrer i El Segundo Motor Home Court, 
 pl	Proszę państwa, z El Segundo Motor Home Court, 
-pr-br	Senhoras e senhores, direto do pátio de trailers El Segundo, 
-pr	Senhoras e senhores do Parque de Caravanas El Segundo, 
+pt-br	Senhoras e senhores, direto do pátio de trailers El Segundo, 
+pt	Senhoras e senhores do Parque de Caravanas El Segundo, 
 ro	Doamnelor și domnilor de la El Segundo Motor Home Court, 
 sv	Mina damer och herrar, från El Segundo Motor Home Court, 
 th	ท่านสุภาพสตรีสุภาพบุรุษ | แห่งเอลเซกุนโดมอเตอร์โฮมคอร์ต | 

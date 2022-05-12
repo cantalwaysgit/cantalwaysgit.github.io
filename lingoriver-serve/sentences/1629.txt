@@ -15,8 +15,8 @@ it	- Mi dispiace. Questa devi guadagnartela. - Cosa?
 ko	- 미안해, 자네 힘으로 이겨 | - 뭐라고요? | 
 no	-Du må gjøre deg fortjent til dette. -Hva? 
 pl	- Na ten nokaut musisz sobie zapracować. - Co? 
-pr-br	-Desculpe. Essa terá de merecer. -Quê? 
-pr	- Lamento. Vais ter de merecer. - O quê? 
+pt-br	-Desculpe. Essa terá de merecer. -Quê? 
+pt	- Lamento. Vais ter de merecer. - O quê? 
 ro	- Îmi pare rău. Va trebui să lupți. - Poftim? 
 sv	-Ledsen. Du måste förtjäna den här. -Vadå? 
 th	- เสียใจ อันนี้ต้องชนะเอง | - อะไรนะ | 

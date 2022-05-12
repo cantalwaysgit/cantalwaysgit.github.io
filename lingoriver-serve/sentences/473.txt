@@ -15,8 +15,8 @@ ko	글쎄, 달라요 |
 nl	Ik weet het niet. Je bent anders. 
 no	Jeg vet ikke. Annerledes. 
 pl	Nie wiem. Jesteś jakiś inny. 
-pr-br	Não sei. Diferente. 
-pr	Não sei. Diferente. 
+pt-br	Não sei. Diferente. 
+pt	Não sei. Diferente. 
 ro	Nu știu. E ceva diferit. 
 sv	Jag vet inte. Annorlunda. 
 tr	Bilmiyorum. Farklı. 

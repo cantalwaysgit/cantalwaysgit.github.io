@@ -13,8 +13,8 @@ it	Non voglio più vederlo!
 nl	Ik wil dat nooit meer zien. 
 no	Jeg vil aldri se det mer! 
 pl	Nie chcę tego oglądać! 
-pr-br	Nunca mais quero ver aquilo! 
-pr	Não quero voltar a ver aquilo! 
+pt-br	Nunca mais quero ver aquilo! 
+pt	Não quero voltar a ver aquilo! 
 ro	Nu mai vreau să văd emisiunea aia! 
 sv	Jag vill inte se det igen! 
 th	ฉันไม่อยากเห็นมันอีกเลย | 

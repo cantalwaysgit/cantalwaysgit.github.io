@@ -10,8 +10,8 @@ he	&rlm;‏לעזאזל!‏ |
 it	Maledizione! 
 ko	이런 망할! | 
 no	Helvete heller! 
-pr-br	Droga! 
-pr	Raios partam! 
+pt-br	Droga! 
+pt	Raios partam! 
 ro	Fir-ar a naibii! 
 sv	Herrejävlar! 
 tr	Lanet olsun! 

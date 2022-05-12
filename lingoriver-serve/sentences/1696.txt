@@ -15,8 +15,8 @@ it	Grazie. Vado a New York.
 ko	'고마워요, 전 뉴욕으로 가요' | 
 no	Takk. Jeg drar til New York. 
 pl	Dziękuję. Lecę do Nowego Jorku. 
-pr-br	Obrigada. Estou indo para Nova York. 
-pr	Obrigada. Vou a Nova Iorque. 
+pt-br	Obrigada. Estou indo para Nova York. 
+pt	Obrigada. Vou a Nova Iorque. 
 ro	Mulțumesc. Am plecat la New York. 
 sv	Tack, jag åker till New York. 
 tr	Sağ ol. New York'a gidiyorum. 
@@ -35,8 +35,8 @@ he	&rlm;‏סנדי יודע הכי טוב.‏ |
 it	Sandy sa cos'è meglio. 
 ko	'샌디가 제일 잘 알잖아요' | 
 no	Sandy vet best. 
-pr-br	Sandy sabe das coisas. 
-pr	O Sandy é que sabe. 
+pt-br	Sandy sabe das coisas. 
+pt	O Sandy é que sabe. 
 ro	Sandy știe cel mai bine. 
 sv	Sandy vet bäst. 
 tr	Sandy en iyisini bilir. 

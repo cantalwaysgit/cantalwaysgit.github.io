@@ -13,8 +13,8 @@ he	&rlm;‏‏כשאני נותן לך את המשחק | &rlm;‏עיניים מ
 it	I miei dolci baci Occhi di champagne 
 nl	want ik geef je een kus ogen als champagne 
 pl	Zapodam ci buziaka W oczęta spojrzę 
-pr-br	Pois vou beijar você Olhos de champanhe 
-pr	Dou-te um beijo que te assanhe Olhos de champanhe 
+pt-br	Pois vou beijar você Olhos de champanhe 
+pt	Dou-te um beijo que te assanhe Olhos de champanhe 
 ro	Când vei fi cu mine Ochi de șampanie 
 sv	För jag ger dig kärlek Bubblor av champagne 
 th	เพราะผมให้จูบ หัวใจแชมเปญ | 

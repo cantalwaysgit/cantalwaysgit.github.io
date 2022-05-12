@@ -11,8 +11,8 @@ he	&rlm;‏‏באמת? | &rlm;‏-המשבצת שלו פנויה, חבר'ה.‏
 it	- Davvero? - La sua fascia oraria è libera. 
 no	-Er det sant? -Tiden hans er ledig. 
 pl	- Serio? - Zwolniło się miejsce. 
-pr	- A sério? - A rubrica dele está vaga. 
-pr-br	-Sério? -Tem uma vaga, pessoal. 
+pt	- A sério? - A rubrica dele está vaga. 
+pt-br	-Sério? -Tem uma vaga, pessoal. 
 ro	- Serios? - Intervalul lui e liber. 
 sv	-Verkligen? -Det är en öppning. 
 th	- จริงเหรอ | - เวลาแสดงของเขาเปิดว่าง เพื่อน | 

@@ -15,8 +15,8 @@ ko	어젯밤에는 빚졌어요 | 창피하네요 |
 nl	Ik sta bij je in het krijt voor gisteravond. Wat gênant. 
 no	Jeg skylder deg for i går kveld. Det er flaut. 
 pl	Jestem twoją dłużniczką. Bardzo mi wstyd za wczoraj. 
-pr-br	Devo a você por ontem à noite. Estou envergonhada. 
-pr	Devo-te isso pela noite passada. Estou tão envergonhada. 
+pt-br	Devo a você por ontem à noite. Estou envergonhada. 
+pt	Devo-te isso pela noite passada. Estou tão envergonhada. 
 ro	Îți sunt datoare pentru aseară. Sunt jenată. 
 sv	Jag är tacksam för igår kväll. Jag skäms. 
 th	เรื่องเมื่อคืนฉันเป็นหนี้คุณ | ฉันรู้สึกละอายใจ | 

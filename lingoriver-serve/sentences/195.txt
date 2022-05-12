@@ -7,8 +7,8 @@ he	&rlm;‏לא.‏ לא, לא... |
 id	Tidak. 
 ko	안 돼 | 
 no	Nei. Nei, nei. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu! 
 sv	Åh, nej! 
 th	อย่าๆ อย่านะ อย่าๆ | 

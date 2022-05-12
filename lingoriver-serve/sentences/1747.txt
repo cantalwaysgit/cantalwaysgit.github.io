@@ -14,8 +14,8 @@ he	&rlm;‏‏למה גרמת לי לשיר את השיר הזה? | &rlm;‏הם
 it	Perché mi hai fatto cantare quel pezzo? Lo detestano! 
 nl	Waarom laat je mij dat lied zingen? Ze haten het. 
 no	Hvorfor ba du meg synge den sangen? De hatet det! 
-pr-br	Por que me fez cantar aquela música? Eles odiaram! 
-pr	Porque me mandaste cantar aquilo? Eles detestaram! 
+pt-br	Por que me fez cantar aquela música? Eles odiaram! 
+pt	Porque me mandaste cantar aquilo? Eles detestaram! 
 ro	De ce naiba m-ai pus să cânt cântecul ăla? Îl urăsc! 
 sv	Varför skulle jag sjunga den? De hatade den! 
 th	ทำไมถึงให้ฉันร้องเพลงนั้น | พวกเขาไม่ชอบเลย | 

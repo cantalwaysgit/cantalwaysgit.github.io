@@ -15,8 +15,8 @@ ko	약간 포도 맛이 났어요 |
 nl	Hij was een beetje druifachtig. 
 no	Den har litt mye drue. 
 pl	Czuć było winogrona. 
-pr-br	Estava com gosto forte de uva. 
-pr	Sabia um pouco às uvas. 
+pt-br	Estava com gosto forte de uva. 
+pt	Sabia um pouco às uvas. 
 ro	Avea puțin gust de struguri. 
 sv	Det var lite surt. 
 th	มันแค่มีรสองุ่นจัดไปหน่อย | 

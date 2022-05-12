@@ -12,8 +12,8 @@ it	- L'ha detto bene. Rodgers. - Perché gliel'ho detto io.
 ko	- 로저스라고 했잖아 | - 제가 정정했으니까요 | 
 nl	Hij zei het. Rodgers. -Omdat ik het zei. 
 pl	- Powiedział Rodgers. - Bo go poprawiłem! 
-pr-br	-Ele disse isso. Ele disse Rodgers. -Porque eu disse! 
-pr	- Ele disse Rodgers. - Porque eu lhe disse! 
+pt-br	-Ele disse isso. Ele disse Rodgers. -Porque eu disse! 
+pt	- Ele disse Rodgers. - Porque eu lhe disse! 
 ro	- A zis Rodgers. - Fiindcă l-am corectat! 
 sv	-Han sa Rodgers. -För att jag sa till honom. 
 tr	-Öyle dedi. Rodgers dedi. -Ben düzelttim diye! 

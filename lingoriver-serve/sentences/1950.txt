@@ -15,8 +15,8 @@ ko	‘기괴하다’라는 말에 | 저작권을 딸 수 있다면서 |
 nl	Dat we copyright konden vragen op 't woord 'vreemd'. 
 no	Du sa vi kunne ta copyright på ordet "rar". 
 pl	Mówiłeś, że możemy zastrzec słowo „dziwny”. 
-pr-br	Você disse que poderíamos patentear a palavra  "weird". 
-pr	Disseste que podíamos pedir direitos de autor da palavra "estranho". 
+pt-br	Você disse que poderíamos patentear a palavra  "weird". 
+pt	Disseste que podíamos pedir direitos de autor da palavra "estranho". 
 ro	Ai zis că putem rezerva drepturile cuvântului "ciudat". 
 sv	Du sa att vi kunde få copyright på ordet "weird". 
 th	นายพูดว่าเราจดลิขสิทธิ์คำว่า | "เพี้ยน" ได้ | 

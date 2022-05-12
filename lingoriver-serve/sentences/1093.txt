@@ -7,8 +7,8 @@ es	Temo que sea el loco que me ha estado llamando.
 fr	Peut-être un des cinglés qui m'appellent. 
 it	Credo che sia il maniaco che mi telefona. 
 ko	저한테 전화하던 | 그 변태일까 봐 겁나요 | 
-pr-br	Tenho medo de que seja um louco que anda me ligando. 
-pr	Tenho medo que seja um dos malucos que me têm ligado. 
+pt-br	Tenho medo de que seja um louco que anda me ligando. 
+pt	Tenho medo que seja um dos malucos que me têm ligado. 
 sv	Det kanske är en av galningarna  som ringt. 
 vi	Tôi sợ đó là tên khùng | đã gọi liên tục cho tôi. | 
 zh-long	我怕會不會是那個 一直狂打來的變態 

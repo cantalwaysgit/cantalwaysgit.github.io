@@ -15,8 +15,8 @@ ko	- 그게 나야? | - 네 |
 nl	En ben ik dat? 
 no	-Og det er meg? -Ja. 
 pl	- I to ja? - Tak. 
-pr-br	-E eu sou o escolhido? -Sim. 
-pr	- E sou eu? - Sim. 
+pt-br	-E eu sou o escolhido? -Sim. 
+pt	- E sou eu? - Sim. 
 ro	- Adică eu? - Da. 
 sv	-Och det är jag? -Ja. 
 th	- และผมคือหนึ่งนั่นใช่ไหม | - ใช่ | 

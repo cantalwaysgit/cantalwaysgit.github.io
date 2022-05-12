@@ -10,8 +10,8 @@ it	Cosa?
 ko	뭐야! | 
 no	Hva for noe? 
 pl	Co to? 
-pr-br	Quê? 
-pr	O quê? 
+pt-br	Quê? 
+pt	O quê? 
 ro	Poftim? 
 sv	Va? 
 th	อะไรเนี่ย | 

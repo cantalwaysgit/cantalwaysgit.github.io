@@ -12,8 +12,8 @@ it	Come si fa a sentire una forma?
 ko	모양을 어떻게 들어요? | 
 no	Hvordan kan du høre en form? 
 pl	Słyszysz kształty? 
-pr-br	Como consegue ouvir uma forma? 
-pr	Como consegues ouvir uma forma? 
+pt-br	Como consegue ouvir uma forma? 
+pt	Como consegues ouvir uma forma? 
 ro	Cum poți să auzi o formă? 
 sv	Hur kan du höra en form? 
 th	จะได้ยินเสียงรูปทรงได้ยังไง | 

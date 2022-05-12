@@ -13,8 +13,8 @@ ko	- 해봐도 돼요? | - 쳐볼래? 좋아 |
 nl	Mag ik het proberen? -Wil je dat? Goed. 
 no	-Kan jeg prøve? -Vil du prøve? Ok. 
 pl	- Mogę ja? - Chcesz? 
-pr-br	-Posso tentar? -Quer tentar? Está bem. 
-pr	- Posso tentar? - Queres tentar? Está bem. 
+pt-br	-Posso tentar? -Quer tentar? Está bem. 
+pt	- Posso tentar? - Queres tentar? Está bem. 
 ro	- Pot să încerc și eu? - Vrei să încerci? Bine. 
 ru	-А можно я? -Хочешь попробовать? Да. 
 sv	-Får jag försöka? -Vill du försöka? 

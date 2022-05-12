@@ -9,8 +9,8 @@ he	&rlm;‏אני לא יודע. תעשה מה שהוא אומר.‏ |
 it	Non lo so. Facciamo come dice. 
 nl	Geen idee. Doe wat hij zegt. 
 pl	Nie wiem. Rób, co mówi. 
-pr-br	Não sei. Faça o que ele diz. 
-pr	Não sei. Faz o que ele diz. 
+pt-br	Não sei. Faça o que ele diz. 
+pt	Não sei. Faz o que ele diz. 
 ro	Nu știu. Fă cum spune. 
 th	ไม่รู้ ทำตามที่เขาบอก | 
 tr	Bilmem. Ne diyorsa yap. 

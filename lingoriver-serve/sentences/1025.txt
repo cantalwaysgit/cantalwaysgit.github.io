@@ -13,8 +13,8 @@ fr	- Il est dans le coin, tu crois ? - Bonne idée.
 it	- Sarà qui in giro? - Lo rivedo con piacere. 
 nl	Denk je dat hij er is? -Leuk om hem weer te zien. 
 pl	- Jest tutaj? - Miło będzie go zobaczyć. 
-pr	- Achas que ele está por aí? - Sim, vai ser bom voltar a vê-lo. 
-pr-br	-Acha que ele está por aqui? -Vai ser bom vê-lo. 
+pt	- Achas que ele está por aí? - Sim, vai ser bom voltar a vê-lo. 
+pt-br	-Acha que ele está por aqui? -Vai ser bom vê-lo. 
 ro	- Crezi că e pe aici? - E bine să te vezi cu el. 
 th	- คิดว่าเขาอยู่ไหม | - คงดีถ้าได้เจอเขา | 
 tr	-Buralarda mıdır? -Onu görmek güzel olacak. 

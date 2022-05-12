@@ -10,8 +10,8 @@ it	Forza!
 ko	파이팅! | 
 no	Kom igjen! 
 pl	Dajesz! 
-pr-br	Vamos! 
-pr	Vamos! 
+pt-br	Vamos! 
+pt	Vamos! 
 ro	Haide! 
 sv	Kom igen! 
 tr	Hadi! 

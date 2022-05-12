@@ -13,8 +13,8 @@ it	Non puoi farmi questo!
 nl	Nee. Dat mag je me niet aandoen. 
 no	Nei! Du kan ikke gjøre det mot meg! 
 pl	Nie możesz mi tego zrobić! 
-pr-br	Não pode fazer isso comigo! 
-pr	Não! Tu não me podes fazer isso! 
+pt-br	Não pode fazer isso comigo! 
+pt	Não! Tu não me podes fazer isso! 
 ro	Nu! Nu-mi poți face asta! 
 sv	Nej! Du kan inte göra så mot mig. 
 th	ไม่นะ ทำแบบนั้นกับฉันไม่ได้นะ | 

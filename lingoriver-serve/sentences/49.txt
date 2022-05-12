@@ -9,8 +9,8 @@ es-eu	¿Vale?
 es	¿Sí? 
 he	&rlm;‏בסדר?‏ | 
 ko	알았지? | 
-pr-br	Está bem? 
-pr	Está bem? 
+pt-br	Está bem? 
+pt	Está bem? 
 ro	Da? 
 sv	Okej? 
 th	โอเคไหม | 

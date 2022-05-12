@@ -10,8 +10,8 @@ it	Atkins.
 ko	앳킨스 다이어트예요 | 
 nl	Atkins. 
 pl	Atkins. 
-pr	Atkins. 
-pr-br	Atkins. 
+pt	Atkins. 
+pt-br	Atkins. 
 ro	Atkins. 
 sv	Atkins. 
 th	สูตรแอตคินส์ | 

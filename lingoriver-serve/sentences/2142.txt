@@ -11,8 +11,8 @@ it	Non puoi essere il manager di un cartone animato.
 nl	Daar kun je geen manager voor zijn. 
 no	Du kan ikke være manager for en tegnefilmfigur. 
 pl	Nie można zostać jej menedżerem. 
-pr-br	Personagens de desenho não têm empresário. 
-pr	Não se pode representar uma personagem de banda desenhada. 
+pt-br	Personagens de desenho não têm empresário. 
+pt	Não se pode representar uma personagem de banda desenhada. 
 ro	Nu poți fi impresarul unui personaj de animație. 
 sv	Man kan inte företräda en tecknad figur. 
 th	จริงๆ แล้วเป็นผู้จัดการ | ให้ตัวละครการ์ตูนไม่ได้ | 

@@ -14,8 +14,8 @@ ko	바지 위에 | 버튼 두는 걸 잊었잖아! |
 nl	Je vergat die knop erop te doen. 
 no	Du husket ikke engang knappen på buksa di! 
 pl	Zapominasz nawet o guzikach na koszuli! 
-pr-br	Nem se lembrou de abotoar o seu macacão! 
-pr	Não te lembraste de meter o botão na porra do macacão! 
+pt-br	Nem se lembrou de abotoar o seu macacão! 
+pt	Não te lembraste de meter o botão na porra do macacão! 
 ro	Nu ți-ai amintit că cel mai important e butonul! 
 sv	Du kan inte ens knäppa dina byxknappar. 
 th	คุณลืมที่จะใส่ปุ่มไปบนชุดเนี่ย | 

@@ -1,5 +1,5 @@
 id	Bling, kuperkenalkan, Amy Baskin. Bagiku, dia Grace Kelly selanjutnya. 
-pr-br	Bling, quero que conheça Amy Baskin. Para mim, ela é a próxima Grace Kelly. 
+pt-br	Bling, quero que conheça Amy Baskin. Para mim, ela é a próxima Grace Kelly. 
 en	Bling, I want you to meet Amy Baskin. | 
 ru	Блинг, познакомься с Эми Баскин. 
 ar	&rlm;‏‏أيها المبهرج "بلينغ"، قابل "إيمي باسكين". | &rlm;‏إنها "غرايس كيلي" التالية بالنسبة إلي.‏ | 
@@ -15,7 +15,7 @@ ko	블링, 에이미 배스킨이야 | 우리 차세대 그레이스 켈리지 |
 nl	Bling, dit is Amy Baskin. Volgens mij is zij de nieuwe Grace Kelly. 
 no	Bling, hils på Amy Baskin. For meg er hun den neste Grace Kelly. 
 pl	Bling, poznaj Amy Baskin. Uważam, że to nowa Grace Kelly. 
-pr	Bling, apresento-te a Amy Baskin. Para mim, é a próxima Grace Kelly. 
+pt	Bling, apresento-te a Amy Baskin. Para mim, é a próxima Grace Kelly. 
 ro	Bling, ea e Amy Baskin. Pentru mine, e viitoarea Grace Kelly. 
 sv	Bling, får jag presentera Amy Baskin? Vår nästa Grace Kelly. 
 th	บลิงก์ ผมอยากให้พบกับเอมี่ บาสกิน | สำหรับผมเธอคือเกรซ เคลลี่คนต่อไป | 

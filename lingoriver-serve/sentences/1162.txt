@@ -14,8 +14,8 @@ fr	On devrait retourner en studio.
 he	&rlm;‏חשבתי שכדאי שנחזור לאולפן.‏ | 
 it	Pensavo che dovremmo tornare in studio. 
 pl	Może wrócilibyśmy do studia? 
-pr-br	Acho que deveríamos voltar ao estúdio. 
-pr	Estava a pensar que devíamos voltar para o estúdio. 
+pt-br	Acho que deveríamos voltar ao estúdio. 
+pt	Estava a pensar que devíamos voltar para o estúdio. 
 ro	Mă gândeam să ne întoarcem în studio. 
 th	ผมคิดว่าเราน่าจะกลับไปที่สตูดิโอ | 
 tr	Stüdyoya dönmeliyiz diye düşünüyordum. 
@@ -34,8 +34,8 @@ es	Quizá jugar un poco con nuevas melodías.
 fi	tuunailemaan uusia kappaleita. 
 fr	Pour bosser sur de nouvelles chansons. 
 he	&rlm;‏אולי נשחק עם שירים חדשים.‏ | 
-pr-br	Talvez brincar com novas melodias. 
-pr	Talvez fazer umas músicas novas. 
+pt-br	Talvez brincar com novas melodias. 
+pt	Talvez fazer umas músicas novas. 
 tr	Yeni melodiler üzerinde oynarız. 
 vi	Có lẽ là thử với vài giai điệu mới. | 
 zh-long	錄個幾首新歌 

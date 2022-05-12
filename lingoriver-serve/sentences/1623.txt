@@ -10,8 +10,8 @@ fi	Ei!
 he	&rlm;‏לא!‏ | 
 ko	안 돼! | 
 pl	Nie! 
-pr-br	Não! 
-pr	Não! 
+pt-br	Não! 
+pt	Não! 
 ro	Nu! 
 sv	Nej! 
 th	ไม่นะ | 

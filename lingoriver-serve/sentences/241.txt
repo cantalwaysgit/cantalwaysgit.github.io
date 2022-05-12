@@ -13,8 +13,8 @@ he	&rlm;‏‏במשך כל החורף | &rlm;‏בסבך העלים הבודד 
 it	Per tutto l'inverno In quei solitari mucchi di foglie 
 nl	de hele winter in zijn eenzame berg bladeren 
 pl	Przez całą zimę pod stertą liści tkwił 
-pr-br	Por todo o inverno Em seu solitário montinho de folhas 
-pr	Durante todo o inverno No monte solitário de folhas 
+pt-br	Por todo o inverno Em seu solitário montinho de folhas 
+pt	Durante todo o inverno No monte solitário de folhas 
 ro	Toată iarna Singură, în mormanul acesta de frunze 
 sv	Genom hela vintern I sin ensamma lövhög 
 th	ตลอดฤดูหนาว ในกองใบไม้เหงาหงอย | 

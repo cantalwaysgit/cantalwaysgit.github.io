@@ -11,8 +11,8 @@ it	Sì, sono Sandy Wexler.
 ko	그래, 나 샌디 웩슬러야 | 
 nl	Ja, ik ben Sandy Wexler. 
 pl	Sandy Wexler. 
-pr-br	Sim, sou Sandy Wexler. 
-pr	Sim, sou o Sandy Wexler. 
+pt-br	Sim, sou Sandy Wexler. 
+pt	Sim, sou o Sandy Wexler. 
 ro	Da, sunt Sandy Wexler. 
 th	ใช่แล้ว ผมแซนดี้ เวกซ์เลอร์ | 
 tr	Evet, ben Sandy Wexler. 
@@ -36,8 +36,8 @@ it	Ci siamo visti al mare da Bernie, con Doug e Danny.
 ko	버니네 해변 별장에서 | 더그랑 대니랑 같이 봤잖아 | 
 nl	Ik ontmoette je in Bernies strandhuis, met Doug en Danny. 
 pl	Poznaliśmy się na plaży u Berniego. Byłeś z Dougiem i Dannym. 
-pr-br	Conheci você na casa de praia de Bernie, com Doug e Danny. 
-pr	Conhecemo-nos na casa de praia do Bernie, com o Doug e o Danny. 
+pt-br	Conheci você na casa de praia de Bernie, com Doug e Danny. 
+pt	Conhecemo-nos na casa de praia do Bernie, com o Doug e o Danny. 
 ro	Ne-am întâlnit la casa de vacanță a lui Bernie, cu Doug și Danny. 
 th	เจอกันที่บ้านริมหาดของเบอร์นี่ | พร้อมดั๊กและแดนนี่ | 
 tr	Bernie'nin sahil evinde tanıştık. Doug ve Danny'yle birlikteydin. 

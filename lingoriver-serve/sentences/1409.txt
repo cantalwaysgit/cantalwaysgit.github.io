@@ -10,8 +10,8 @@ he	&rlm;‏זה הזקן מ"משאלת לב" שסיפרת לי עליו?‏ |
 it	È il vecchio che hai aiutato tramite l'organizzazione Make-A-Wish? 
 nl	Is dit die doe-een-wens-man over wie je het had? 
 pl	To właśnie życzenie tego typka spełniasz? 
-pr-br	Esse é o cara do Make-A-Wish que você me disse? 
-pr	Este é o tipo do Make-A-Wish de que me falaste? 
+pt-br	Esse é o cara do Make-A-Wish que você me disse? 
+pt	Este é o tipo do Make-A-Wish de que me falaste? 
 ro	El e tipul de la fundația umanitară despre care îmi spuneai? 
 sv	Är det här välgörenhetskillen du snackade om? 
 th	นี่คือคนจากเมก-อะ-วิช | ที่คุณเล่าให้ฟังใช่ไหม | 

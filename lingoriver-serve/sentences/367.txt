@@ -14,8 +14,8 @@ it	Lo so. Te l'ho detto che avresti viaggiato.
 ko	알아, 내가 말했잖아 | 사방으로 돌아다닐 거라고 | 
 no	Jeg vet det. Jeg sa jo at du ville nå langt. 
 pl	Wiem. Będziesz dużo podróżować. 
-pr-br	Eu sei. Eu disse que você iria a lugares. 
-pr	Eu sei. Eu disse-te que ias longe. 
+pt-br	Eu sei. Eu disse que você iria a lugares. 
+pt	Eu sei. Eu disse-te que ias longe. 
 ro	Știu. Ți-am zis eu că o să ajungi departe. 
 sv	Jag vet. Jag sa ju att du skulle få resa. 
 th	ผมรู้ ก็บอกแล้ว คุณจะได้ไปไหนต่อไหน | 
@@ -38,8 +38,8 @@ he	&rlm;‏‏זה ממש ערמומי, סנדי. | &rlm;‏-תודה.‏ |
 it	- Geniale, Sandy. - Grazie. 
 ko	- 정말 청산유수네요 | - 고마워 | 
 pl	- Wybrnąłeś. - Dziękuję. 
-pr-br	-Que maravilha, Sandy. -Obrigado. 
-pr	- Que grande lábia, Sandy. - Obrigado. 
+pt-br	-Que maravilha, Sandy. -Obrigado. 
+pt	- Que grande lábia, Sandy. - Obrigado. 
 ro	- Ce subtil, Sandy! - Mulțumesc. 
 sv	-Snygg räddning. -Tack. 
 th	- นั่นเนียนมากเลยนะ แซนดี้ | - ขอบคุณ | 

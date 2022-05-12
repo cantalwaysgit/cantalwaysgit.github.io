@@ -11,8 +11,8 @@ it	cosa che sfortunatamente accade. Penso alla scuderia.
 nl	En die heb ik, helaas. Mijn talenten. 
 no	og det har jeg dessverre. Stallen. 
 pl	A tak właśnie jest. Mam pozostałych klientów. 
-pr-br	mas, infelizmente, eu tenho. O grupo. 
-pr	o que é o caso infelizmente. O grupo. 
+pt-br	mas, infelizmente, eu tenho. O grupo. 
+pt	o que é o caso infelizmente. O grupo. 
 ro	și, din păcate, am. Oamenii mei. 
 sv	vilket jag gör. Stallet. 
 th	ซึ่งโชคร้ายที่มันเป็นอย่างนั้น | คนอื่นที่ผมดูแล | 

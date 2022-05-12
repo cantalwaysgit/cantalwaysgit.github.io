@@ -10,8 +10,8 @@ it	Meglio di questa?
 nl	Beter dan dit allemaal? 
 no	Bedre enn alt dette? 
 pl	Większą niż ja tutaj? 
-pr-br	Melhor que tudo isso? 
-pr	Melhor do que isto? 
+pt-br	Melhor que tudo isso? 
+pt	Melhor do que isto? 
 ro	Mai bună decât asta? 
 sv	Bättre än det här? 
 th	ดีกว่าทั้งหมดนี่เหรอ | 

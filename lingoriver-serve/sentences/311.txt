@@ -15,8 +15,8 @@ ko	감정의 감옥요 | 종신형을 살고 있죠 |
 nl	Een emotionele gevangenis. Dat is levenslang. 
 no	Et følelsesmessig fengsel. Det er en livstidsdom. 
 pl	Emocjonalnym więzieniu. Dostałem dożywocie. 
-pr-br	Uma cadeia emocional. Acredite, é prisão perpétua. 
-pr	Uma prisão emocional. Acredita que é uma pena perpétua. 
+pt-br	Uma cadeia emocional. Acredite, é prisão perpétua. 
+pt	Uma prisão emocional. Acredita que é uma pena perpétua. 
 ro	O închisoare emoțională. E sentință pe viață, te asigur. 
 sv	Ett känslomässigt fängelse. Det är en livstids dom, säger jag bara. 
 th	คุกอารมณ์ นั่นโทษทั้งชีวิตนะ ขอบอก | 

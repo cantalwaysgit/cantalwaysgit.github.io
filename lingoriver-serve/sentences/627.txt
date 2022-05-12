@@ -15,8 +15,8 @@ ko	데모가 없는데요 |
 nl	Ik heb geen demo. 
 no	Jeg har ikke en demo. 
 pl	Nie mam dema. 
-pr-br	Eu não tenho uma demo. 
-pr	Eu não tenho nenhuma demo. 
+pt-br	Eu não tenho uma demo. 
+pt	Eu não tenho nenhuma demo. 
 ro	N-am așa ceva. 
 sv	Jag har ingen demo. 
 th	ฉันไม่มีเทปเดโม | 

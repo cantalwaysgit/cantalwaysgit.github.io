@@ -10,8 +10,8 @@ it	È così che funziona. È un rito.
 ko	그게 우리가 의례처럼 | 하는 일이야 | 
 nl	Dat is ons ritueel. 
 no	Det er det vi gjør. Det er ritualet vårt. 
-pr-br	É o que fazemos. É o nosso ritual. 
-pr	É o que fazemos. É o nosso ritual. 
+pt-br	É o que fazemos. É o nosso ritual. 
+pt	É o que fazemos. É o nosso ritual. 
 ro	Așa facem noi. E ritualul nostru. 
 sv	Det är så vi gör. Det är vår ritual. 
 th	นั่นคือที่พวกเราทำ | มันเป็นธรรมเนียมของเรา | 

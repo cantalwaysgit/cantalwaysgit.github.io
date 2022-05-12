@@ -14,8 +14,8 @@ it	Che succede?
 ko	이게 뭐야? | 
 nl	Wat is dit? 
 no	Hva er dette? 
-pr-br	O que é isso? 
-pr	O que é isto? 
+pt-br	O que é isso? 
+pt	O que é isto? 
 ro	Ce e asta? 
 sv	Vad är det? 
 th	นี่อะไร | 

@@ -12,8 +12,8 @@ ko	설마요 |
 nl	Dat meen je niet. 
 no	Gi deg. 
 pl	Zalewasz. 
-pr-br	Não acredito. 
-pr	Está a brincar. 
+pt-br	Não acredito. 
+pt	Está a brincar. 
 ro	Du-te de-aici! 
 sv	Det menar du inte. 
 th	เชื่อเลย | 

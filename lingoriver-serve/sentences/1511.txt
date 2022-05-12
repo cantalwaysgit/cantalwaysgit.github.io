@@ -14,8 +14,8 @@ it	Solo un incontro. Non ti chiedo altro.
 nl	Ontmoet hem. Meer vraag ik niet. 
 no	Bare møt ham. Det er alt jeg ber om. 
 pl	Spotkaj się z nim jakoś na boczku. Tylko o to proszę. 
-pr-br	Encontre-se com ele. Só estou pedindo isso. 
-pr	Fala com ele. É só isso que peço. 
+pt-br	Encontre-se com ele. Só estou pedindo isso. 
+pt	Fala com ele. É só isso que peço. 
 ro	Doar întâlnește-te cu el, atât. 
 sv	Träffa honom. Det är allt jag ber dig om. 
 th	แค่เจอเขาหน่อย ผมขอให้ทำแค่นี้ | 

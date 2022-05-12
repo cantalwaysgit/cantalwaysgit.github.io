@@ -15,8 +15,8 @@ it	- Non mi frega di Chili's. - Pensavo volessi andarci.
 nl	Chili's boeit me niet. -Je wilde er toch heen? 
 no	-Jeg driter i Chili's. -Jeg trodde du ville dit. 
 pl	- W dupie mam Chili's. - Chciałeś iść. 
-pr-br	-Não ligo para o Chili's. -Achei que você queria ir. 
-pr	- Estou a cagar-me para o Chili's. - Pensava que querias ir lá. 
+pt-br	-Não ligo para o Chili's. -Achei que você queria ir. 
+pt	- Estou a cagar-me para o Chili's. - Pensava que querias ir lá. 
 ro	- Nu-mi pasă de restaurant acum. - Credeam că vrei să mergi. 
 sv	-Jag skiter i Chili's just nu. -Du ville ju gå dit. 
 th	- ฉันไม่สนเรื่องชิลีส์ | - นึกว่าอยากจะไป | 

@@ -13,8 +13,8 @@ it	Ci sono i bambini in fila, fai delle scenette per loro.
 nl	Daar zie je kinderen en je doet grappen voor ze. 
 no	Fremfør vitser for ungene som står i kø. 
 pl	Opowiadaj żarty dzieciom stojącym w kolejce. 
-pr-br	Verá as crianças na fila, fará piadas para elas. 
-pr	Vês os miúdos na fila e começas a contar-lhes piadas. 
+pt-br	Verá as crianças na fila, fará piadas para elas. 
+pt	Vês os miúdos na fila e começas a contar-lhes piadas. 
 ro	O să fie mulți copii acolo și glumești cu ei. 
 th	เห็นเด็กๆ เข้าแถว | ไปคุยตลกกับพวกเขา | 
 tr	Kuyrukta bekleyen çocuklara espriler yap. 

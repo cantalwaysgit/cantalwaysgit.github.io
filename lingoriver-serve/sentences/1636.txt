@@ -13,8 +13,8 @@ ko	내려왔네, 진짜로 싸운다 |
 nl	Daar is ie. Het wordt echt. 
 no	Der har vi det. Nå er det alvor. 
 pl	Rozkręca się. 
-pr-br	Lá está ele. Está esquentando. 
-pr	Lá está ele. Agora é a sério. 
+pt-br	Lá está ele. Está esquentando. 
+pt	Lá está ele. Agora é a sério. 
 ro	Așa, acum e pe bune. 
 ru	Вот так. Это уже серьезно. 
 sv	Där är det. Det är på allvar. 

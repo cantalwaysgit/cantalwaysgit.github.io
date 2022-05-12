@@ -9,8 +9,8 @@ he	&rlm;‏לעזאזל, אתה 100 אחוז צודק.‏ |
 it	Cavolo, hai ragione al cento per cento. 
 nl	Je hebt helemaal gelijk. 
 no	Helvete, du har helt rett. 
-pr-br	Caramba, você tem toda razão. 
-pr	Raios, tens toda a razão. 
+pt-br	Caramba, você tem toda razão. 
+pt	Raios, tens toda a razão. 
 ro	Fir-ar să fie! Ai dreptate în totalitate. 
 sv	Du har 100 % rätt. 
 th	ให้ตายสิ ถูกเต็มร้อยเลย | 

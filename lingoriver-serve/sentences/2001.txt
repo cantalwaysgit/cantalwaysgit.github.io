@@ -16,8 +16,8 @@ it	Ascolta, il punto è questo.
 ko	있잖아 | 
 no	Nå skal du høre. 
 pl	Sprawa wygląda tak. 
-pr-br	O negócio é o seguinte. 
-pr	Olha, passa-se o seguinte. 
+pt-br	O negócio é o seguinte. 
+pt	Olha, passa-se o seguinte. 
 ro	Uite care e treaba! 
 sv	Så här är det. 
 tr	Bak, mesele şu. 

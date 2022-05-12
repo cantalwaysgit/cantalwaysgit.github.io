@@ -11,8 +11,8 @@ he	&rlm;‏אני לא יודעת.‏ |
 it	Non lo so. 
 no	Jeg vet ikke. 
 pl	Nie wiem. 
-pr-br	Não sei. 
-pr	Não sei. 
+pt-br	Não sei. 
+pt	Não sei. 
 ro	Nu știu! 
 sv	Jag vet inte. 
 th	ฉันไม่รู้ | 
@@ -37,8 +37,8 @@ it	Va avanti da quando mi sono trasferita qui.
 nl	Dat gebeurt sinds ik hier woon. 
 no	Det har vært sånn siden jeg flyttet inn. 
 pl	Jest tak, od kiedy się tu wprowadziłam. 
-pr-br	Acontece desde que me mudei para cá. 
-pr	Tem acontecido desde que me mudei para cá. 
+pt-br	Acontece desde que me mudei para cá. 
+pt	Tem acontecido desde que me mudei para cá. 
 ro	Am problema asta de când m-am mutat. 
 sv	Jag har haft problem ända sen jag flyttade in. 
 th	เจอเรื่องนี้ตั้งแต่ย้ายมาอยู่ที่นี่ | 

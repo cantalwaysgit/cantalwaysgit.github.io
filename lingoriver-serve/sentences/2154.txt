@@ -12,8 +12,8 @@ he	&rlm;‏אתה מוצץ ביצים.‏ |
 it	Fai veramente schifo. 
 no	Du suger balle. 
 pl	Na maksa. 
-pr-br	Você é um saco cabeludo. 
-pr	Mamas nas bolas. 
+pt-br	Você é um saco cabeludo. 
+pt	Mamas nas bolas. 
 ro	Sugi boașe. 
 sv	Du suger fett. 
 th	แกห่วยแตก | 

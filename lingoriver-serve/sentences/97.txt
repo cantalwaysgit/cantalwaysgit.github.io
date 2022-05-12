@@ -13,8 +13,8 @@ it	Teneva molto ai suoi clienti.
 nl	Hij gaf echt om zijn cliënten. 
 no	Han brød seg virkelig om klientene. 
 pl	Troszczył się o klientów. 
-pr-br	Ele se preocupava muito com os seus clientes. 
-pr	Preocupava-se mesmo com os clientes. 
+pt-br	Ele se preocupava muito com os seus clientes. 
+pt	Preocupava-se mesmo com os clientes. 
 ro	Chiar ținea la clienții lui. 
 sv	Han brydde sig om sina klienter. 
 th	เขาแคร์คนที่เขาดูแลจริงจัง | 
@@ -38,8 +38,8 @@ he	&rlm;‏‏הוא הפך אותם לבני משפחתו. | &rlm;‏הוא ה�
 it	Erano la sua famiglia. Stava sempre con loro. 
 nl	Ze waren als familie voor hem. Hij was er altijd. 
 pl	Byli dla niego jak rodzina. Spędzał z nimi czas. 
-pr-br	Ele fazia deles a sua família. Estava sempre com eles. 
-pr	Fazia deles a sua família. Estava sempre com eles. 
+pt-br	Ele fazia deles a sua família. Estava sempre com eles. 
+pt	Fazia deles a sua família. Estava sempre com eles. 
 ro	Erau familia lui. Era cu ei mereu. 
 sv	De blev hans familj. Han var med dem jämt. 
 tr	Onları aileden biri gibi görürdü. Hep yanlarındaydı. 

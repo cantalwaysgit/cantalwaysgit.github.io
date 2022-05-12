@@ -12,8 +12,8 @@ ko	새를 처리할 방법요 |
 nl	Om van die vogels af te komen. 
 no	For å bli kvitt fuglene. 
 pl	Żeby pozbyć się ptaków. 
-pr-br	Um jeito de nos livrarmos dos pássaros. 
-pr	Uma forma de nos livrarmos dos pássaros. 
+pt-br	Um jeito de nos livrarmos dos pássaros. 
+pt	Uma forma de nos livrarmos dos pássaros. 
 ro	O cale să scăpăm de păsări! 
 sv	Att bli av med fåglarna. 
 th	วิธีกำจัดนกพวกนั้น | 

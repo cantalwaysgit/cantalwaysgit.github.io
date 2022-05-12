@@ -12,8 +12,8 @@ it	Ascolta.
 ko	생각해 봐 | 
 no	Hør her. 
 pl	Słuchaj. 
-pr-br	Está bem, olhe. 
-pr	Pronto, olha. 
+pt-br	Está bem, olhe. 
+pt	Pronto, olha. 
 ro	Uite ce e! 
 sv	Hör på mig. 
 th	โอเค ฟังนะ | 
@@ -38,8 +38,8 @@ ko	좋은 점은, 다 큰 어른이 | 네 얼굴을 깔고 앉는 걸 |
 nl	Het goede nieuws is dat er een volwassen man op je zit... 
 no	Det fine er at en voksen mann skal sette seg på deg 
 pl	Dorosły facet usiądzie ci na twarzy. 
-pr	A coisa boa é que terás um homem adulto sentado na tua cara 
-pr-br	A coisa boa é que vai ter um adulto sentado na sua cara 
+pt	A coisa boa é que terás um homem adulto sentado na tua cara 
+pt-br	A coisa boa é que vai ter um adulto sentado na sua cara 
 ro	Partea cea bună e că un om mare o să stea pe fața ta, 
 sv	Det positiva är att en vuxen man  sitter på ditt ansikte 
 th	เรื่องดีก็คือ นายจะได้คนโตๆ | นั่งทับบนหน้า | 

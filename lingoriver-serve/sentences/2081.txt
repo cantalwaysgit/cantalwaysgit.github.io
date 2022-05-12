@@ -13,8 +13,8 @@ it	Bene. Salve a tutti.
 ko	자, 안녕하세요, 여러분 | 
 no	Ja vel. Hallo. Hei, folkens. 
 pl	Witam wszystkich. 
-pr-br	Certo. Olá. Oi, pessoal. 
-pr	Muito bem. Olá, pessoal. 
+pt-br	Certo. Olá. Oi, pessoal. 
+pt	Muito bem. Olá, pessoal. 
 ro	Bine. Bună ziua! 
 sv	Hallå! Hej på er. 
 th	เอาละ ฮัลโหลๆ สวัสดีทุกท่าน | 

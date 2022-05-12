@@ -9,8 +9,8 @@ he	&rlm;‏תראי.‏.. |
 it	Ma guarda. 
 no	Se. 
 pl	Popatrz no. 
-pr-br	Olhe. 
-pr	Olha... 
+pt-br	Olhe. 
+pt	Olha... 
 ro	Uite! 
 sv	Ser man på. 
 th	ดูสิ | 

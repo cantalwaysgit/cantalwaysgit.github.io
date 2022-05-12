@@ -12,8 +12,8 @@ he	&rlm;‏היי, ארסיניו. טוב לראות אותך.‏ |
 it	Ciao, Arsenio. Che piacere. 
 no	Hei, Arsenio. Hyggelig å se deg. 
 pl	Miło cię widzieć, Arsenio. 
-pr-br	Oi, Arsenio. Que bom vê-lo. 
-pr	Olá, Arsenio. Prazer em ver-te. 
+pt-br	Oi, Arsenio. Que bom vê-lo. 
+pt	Olá, Arsenio. Prazer em ver-te. 
 ro	Salut, Arsenio! Mă bucur să te văd. 
 sv	Hej, Arsenio. Angenämt. 
 th	เฮ่ อาเซนนิโอ ดีใจที่ได้เจอ | 
@@ -36,8 +36,8 @@ he	&rlm;‏אני סנדי וקסלר, המנהל שלה.‏ |
 it	Sono Sandy Wexler, il suo manager. 
 no	Sandy Wexler, manageren hennes. 
 pl	Sandy Wexler, jej menedżer. 
-pr-br	Sou Sandy Wexler, o empresário dela. 
-pr	Sou o Sandy Wexler, o empresário dela. 
+pt-br	Sou Sandy Wexler, o empresário dela. 
+pt	Sou o Sandy Wexler, o empresário dela. 
 ro	Sunt Sandy Wexler, impresarul ei. 
 sv	Jag är Sandy Wexler, hennes manager. 
 th	ผมแซนดี้ เวกซ์เลอร์ ผู้จัดการของเธอ | 

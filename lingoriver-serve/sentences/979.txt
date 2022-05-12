@@ -11,8 +11,8 @@ he	&rlm;‏‏אם תצטרכי אותי אי פעם, במה 29. | &rlm;‏אה�
 it	Se hai bisogno di me, Studio 29. Mi trovi sempre, tesoro. 
 nl	Als je me nodig hebt, studio 29. Daar ben ik altijd. 
 pl	Gdybyś mnie szukała, będę w Scenie 29. Zawsze i na wieki. 
-pr-br	Se precisar de mim, Estúdio 29. Estarei lá para sempre, meu bem. 
-pr	Se precisares de mim, Palco 29. Não vou sair de lá. 
+pt-br	Se precisar de mim, Estúdio 29. Estarei lá para sempre, meu bem. 
+pt	Se precisares de mim, Palco 29. Não vou sair de lá. 
 ro	Dacă ai nevoie de mine, Stage 29. Te voi aștepta mereu, scumpo. 
 sv	Om du behöver mig, studio 29. Jag kommer vara där för evigt. 
 tr	Bana ihtiyacın olursa Stüdyo 29'dayım. İlelebet orada olacağım yavrum. 

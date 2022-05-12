@@ -11,8 +11,8 @@ it	Cavolo, che culone!
 nl	Dat is een grote kont. 
 no	Det er en stor rumpe! 
 pl	Ale ma wielką dupę! 
-pr-br	Nossa, que bundão! 
-pr	Caramba, que cu enorme! 
+pt-br	Nossa, que bundão! 
+pt	Caramba, que cu enorme! 
 ro	Doamne, ce fund mare are! 
 sv	Vilken stor bak! 
 th	เวร นั่นก้นใหญ่ชะมัด | 

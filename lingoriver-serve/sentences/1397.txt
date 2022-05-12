@@ -13,8 +13,8 @@ it	Te lo meriti anche tu. Non sarei qui, senza di te.
 nl	Jij ook. Zonder jou had ik hier niet gestaan. 
 no	Du fortjener det også. Jeg ville ikke vært her uten deg. 
 pl	Ty też. Bez ciebie bym tu nie dotarła. 
-pr-br	Você também merece. Eu não estaria aqui se não fosse por você. 
-pr	Tu também mereces. Eu não estaria aqui se não fosses tu. 
+pt-br	Você também merece. Eu não estaria aqui se não fosse por você. 
+pt	Tu também mereces. Eu não estaria aqui se não fosses tu. 
 ro	Și tu meriți. N-aș fi fost aici fără tine. 
 sv	Det gör du med. Jag skulle inte vara här utan dig. 
 th	คุณก็สมควรเช่นกัน | ฉันคงมาถึงที่นี่ไม่ได้ถ้าไม่มีคุณ | 

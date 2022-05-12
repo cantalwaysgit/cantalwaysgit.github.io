@@ -9,8 +9,8 @@ it	Ma nessuno di loro sa davvero chi sei.
 ko	하지만 누구도 진짜 너를 몰라 | 
 nl	Maar ze wisten niet wie je echt bent. 
 pl	Ale oni nie wiedzą, kim jesteś naprawdę. 
-pr-br	Mas nenhum deles conhece você. 
-pr	Mas nenhum deles sabe quem tu és. 
+pt-br	Mas nenhum deles conhece você. 
+pt	Mas nenhum deles sabe quem tu és. 
 ro	Dar nimeni nu știe cine ești. 
 sv	Men ingen av dem vet vem du är på riktigt. 
 th	แต่ไม่มีใครรู้จักตัวตนจริงๆ ของคุณ | 

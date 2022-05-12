@@ -11,8 +11,8 @@ he	&rlm;‏‏סנדי וקסלר? | &rlm;‏-כן.‏ |
 it	- Sandy Wexler? - Sì. 
 no	-Sandy Wexler? -Ja. 
 pl	- Sandy Wexler? - Tak. 
-pr-br	-Sandy Wexler? -Sim. 
-pr	- Sandy Wexler? - Sim. 
+pt-br	-Sandy Wexler? -Sim. 
+pt	- Sandy Wexler? - Sim. 
 ro	- Sandy Wexler? - Da. 
 sv	-Sandy Wexler. -Ja. 
 th	- แซนดี้ เวกซ์เลอร์ใช่ไหม | - ใช่ | 

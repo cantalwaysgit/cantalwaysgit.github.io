@@ -11,8 +11,8 @@ it	Grazie, Q-Bert. Splendida serata.
 ko	고마워요, 큐버트 | 즐거운 밤이었어요 | 
 nl	Bedankt, Q-bert. Een geweldige avond. 
 no	Takk, Q-bert. Det var en flott kveld. 
-pr-br	Obrigado, Q-bert. Foi uma ótima noite. 
-pr	Obrigado, Q-bert. Foi uma ótima noite. 
+pt-br	Obrigado, Q-bert. Foi uma ótima noite. 
+pt	Obrigado, Q-bert. Foi uma ótima noite. 
 ro	Mulțumesc, Q-bert! A fost o seară grozavă. 
 sv	Tack, Q-bert. Det var en kul kväll. 
 th	เฮ่ ขอบคุณ คิวเบิร์ต | เป็นคืนที่สุดยอด | 

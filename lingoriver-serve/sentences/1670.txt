@@ -13,8 +13,8 @@ he	&rlm;‏זה היום הכי טוב שהיה לי זה שנים.‏ |
 it	Da anni non stavo così bene. 
 ko	이렇게 즐거운 날은 | 몇 년 만에 처음이에요 | 
 pl	Dawno się tak dobrze nie bawiłam. 
-pr-br	Não tenho um dia bom como este há anos. 
-pr	Foi o melhor dia que tive em vários anos. 
+pt-br	Não tenho um dia bom como este há anos. 
+pt	Foi o melhor dia que tive em vários anos. 
 ro	E cea mai frumoasă zi pe care am avut-o după mulți ani. 
 ru	Это мой лучший день за много лет. 
 sv	Det är den bästa dan jag haft på länge. 

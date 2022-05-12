@@ -14,8 +14,8 @@ it	- È la nuova Grace Kelly. - Adesso è possibile.
 ko	- 차세대 그레이스 켈리라니까 | - 그러실 필요 없습니다 | 
 nl	Zij is de nieuwe Grace Kelly. -Dat hoeft niet. 
 no	-Den jenta er den nye Grace Kelly. -Det må du ikke. 
-pr-br	-Esta garota é a nova Grace Kelly. -Não precisa. 
-pr	- Ela é a nova Grace Kelly. - Não é preciso. 
+pt-br	-Esta garota é a nova Grace Kelly. -Não precisa. 
+pt	- Ela é a nova Grace Kelly. - Não é preciso. 
 ro	- Fata asta e noua Grace Kelly. - Nu trebuie. 
 sv	-Hon är den nya Grace Kelly. -Du måste inte det. 
 tr	-Bu kız, geleceğin Grace Kelly'si olacak. -Bu şart değil. 

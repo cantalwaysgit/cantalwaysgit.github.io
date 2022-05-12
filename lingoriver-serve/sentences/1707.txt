@@ -11,8 +11,8 @@ it	Siamo stati insieme?
 ko	나랑 사귀었다고? | 
 nl	Had ik iets met haar? 
 pl	Chodziłem z nią? 
-pr-br	Eu saí com ela? 
-pr	Eu andei com ela? 
+pt-br	Eu saí com ela? 
+pt	Eu andei com ela? 
 ro	Am fost cu ea? 
 sv	Gick jag ut med henne? 
 tr	Onunla çıktım mı? 

@@ -13,8 +13,8 @@ it	Abbassate il volume. Lasciatela dormire.
 nl	Doe zachtjes. Laat haar slapen. 
 no	Demp dere. La henne sove. 
 pl	Nie szczekajcie. Dajcie jej pospać. 
-pr-br	Abaixem a voz. Deixem-na dormir. 
-pr	Ladrem mais baixo. Deixem-na dormir. 
+pt-br	Abaixem a voz. Deixem-na dormir. 
+pt	Ladrem mais baixo. Deixem-na dormir. 
 ro	Mai încet cu gălăgia! Lăsați-o să doarmă! 
 sv	Var tysta. Låt henne sova. 
 th	เงียบๆ กันหน่อย ปล่อยให้เธอหลับ | 

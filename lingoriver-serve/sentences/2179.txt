@@ -15,8 +15,8 @@ ko	- 잠깐만요 | - 알았어 |
 nl	Wacht even. 
 no	-Vent litt. -Ok. 
 pl	- Zaczekaj. - Dobrze. 
-pr-br	-Espere um instante. -Está bem. 
-pr	- Espera um instante. - Está bem. 
+pt-br	-Espere um instante. -Está bem. 
+pt	- Espera um instante. - Está bem. 
 ro	- Stai așa un pic. - Bine. 
 sv	-Vänta lite. -Okej. 
 th	- รอแป๊บ | - โอเค | 

@@ -10,8 +10,8 @@ he	&rlm;‏‏אנחנו עדיין מתאהבים‏ לנצח‏ |
 it	Ci innamoreremo ancora Per sempre 
 nl	we worden verliefd voor altijd 
 pl	Kochamy się 
-pr	Ainda nos apaixonamos Para sempre 
-pr-br	Ainda nos apaixonamos Para sempre 
+pt	Ainda nos apaixonamos Para sempre 
+pt-br	Ainda nos apaixonamos Para sempre 
 ro	Încă ne mai îndrăgostim Pentru totdeauna 
 sv	Vi är förälskade För evigt 
 th	เรายังตกหลุมรัก | ชั่วนิรันดร์ | 

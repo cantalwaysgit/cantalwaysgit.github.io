@@ -14,8 +14,8 @@ ko	- 다쳤어요? | - 누가? |
 nl	Raakte hij gewond? -Wie? 
 no	-Ble han skadet? -Hvem? 
 pl	- Oberwał? - Kto? 
-pr-br	-Ele se machucou? -Quem? 
-pr	- Ficou magoado? - Quem? 
+pt-br	-Ele se machucou? -Quem? 
+pt	- Ficou magoado? - Quem? 
 ro	- A fost rănit? - Cine? 
 sv	-Blev han skadad? -Vem då? 
 th	- เขาบาดเจ็บเหรอ | - ใครบาดเจ็บ | 

@@ -8,8 +8,8 @@ fr	À part ça, très belle cérémonie.
 he	&rlm;‏עכשיו, זה היה חתיכת טקס.‏ | 
 it	Bella la cerimonia. 
 pl	Ceremonia był niezła. 
-pr-br	Também foi uma cerimônia e tanto. 
-pr	Foi uma cerimónia incrível. 
+pt-br	Também foi uma cerimônia e tanto. 
+pt	Foi uma cerimónia incrível. 
 ro	Și ceremonia a fost pe cinste. 
 sv	Vilken ceremoni. 
 vi	Đó là một nghi lễ kỳ quặc. | 

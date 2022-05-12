@@ -11,8 +11,8 @@ he	&rlm;‏על מה אתה מצביע? אני יכול רק ללכת קדימה
 it	Cosa stai indicando? Posso andare solo in avanti. 
 nl	Waar wijs je naar? Ik kan alleen vooruit. 
 pl	Co mi pokazujesz? Mogę tylko w jedną stronę. 
-pr-br	Para o que está apontando? Só posso ir para frente. 
-pr	Para onde estás a apontar? Só posso ir para a frente. 
+pt-br	Para o que está apontando? Só posso ir para frente. 
+pt	Para onde estás a apontar? Só posso ir para a frente. 
 sv	Vad pekar du på? Jag kan bara åka framåt. 
 tr	Nereye işaret ediyorsun? Sadece ileri gidebilirim. 
 vi	Anh chỉ cái gì thế? | Tôi chỉ có thể nhảy về phía trước. | 

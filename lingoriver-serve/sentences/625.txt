@@ -14,8 +14,8 @@ it	Ho delle novità interessanti.
 ko	흥미로운 소식이 있어 | 
 no	Jeg har interessante nyheter. 
 pl	Mam ciekawe wieści. 
-pr-br	Tenho notícias interessantes. 
-pr	Tenho notícias interessantes. 
+pt-br	Tenho notícias interessantes. 
+pt	Tenho notícias interessantes. 
 ro	Am o veste interesantă. 
 sv	Jag har intressanta nyheter. 
 th	ผมมีข่าวน่าตื่นเต้น | 
@@ -38,8 +38,8 @@ he	&rlm;‏‏קפיטול רקורדס מעוניינים להיפגש איתך
 it	Quelli della Capitol Records vogliono incontrarti tra una settimana. 
 ko	캐피톨 레코드에서 | 다음 주에 널 보고 싶대 | 
 pl	Za tydzień masz spotkanie w Capitol Records. 
-pr	A Capitol Records quer reunir contigo na próxima semana. 
-pr-br	A Capitol Records quer encontrar com você na semana que vem. 
+pt	A Capitol Records quer reunir contigo na próxima semana. 
+pt-br	A Capitol Records quer encontrar com você na semana que vem. 
 ro	Cei de la Capitol Records vor să te cunoască săptămâna viitoare. 
 sv	Capitol Records vill träffa dig nästa vecka. 
 tr	Capitol Records gelecek hafta seninle tanışmak istiyor. 

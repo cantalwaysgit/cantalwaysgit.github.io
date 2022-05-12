@@ -11,8 +11,8 @@ it	Da "My Bologna" fino a "Pretty Fly for a Rabbi".
 nl	Van 'My Bologna' tot 'Pretty Fly for a Rabbi'. 
 no	Fra "My Bologna" til "Pretty Fly for a Rabbi 
 pl	„My Bologna”, „Pretty Fly for a Rabbi”. 
-pr-br	De "My Bologna" a "Pretty Fly for a Rabbi". 
-pr	Desde o "My Bologna" ao "Pretty Fly for a Rabbi". 
+pt-br	De "My Bologna" a "Pretty Fly for a Rabbi". 
+pt	Desde o "My Bologna" ao "Pretty Fly for a Rabbi". 
 ro	De la "My Bologna" la "Pretty Fly for a Rabbi". 
 sv	Från "My Bologna" till "Pretty Fly for a Rabbi". 
 th	จาก "มายโบโลญา" จนถึง | "พริตตี้ฟลายฟอร์อะแรบไบ" | 

@@ -14,8 +14,8 @@ he	&rlm;‏לא, אני לא הומו למיטב ידיעתי.‏ |
 it	No, per quanto ne so non sono gay. 
 no	Nei, ikke så vidt jeg vet. 
 pl	Nie jestem gejem, o ile mi wiadomo. 
-pr-br	Não, que eu saiba, não sou gay. 
-pr	Não, tanto quanto sei, não sou  gay. 
+pt-br	Não, que eu saiba, não sou gay. 
+pt	Não, tanto quanto sei, não sou  gay. 
 ro	Nu, din câte știu, nu sunt gay. 
 sv	Nej, det är jag inte, vad jag vet. 
 th	ไม่ใช่ เท่าที่รู้ผมไม่เป็นเกย์ | 

@@ -13,8 +13,8 @@ it	Sig.na Clarke, scusi se la disturbo, le dispiacerebbe?
 ko	방해해서 죄송하지만 | 사인해 주시겠어요? | 
 nl	Sorry dat ik u lastigval, maar kunt u... 
 pl	Przepraszam, że przeszkadzam, pani Clarke. Podpisze mi pani? 
-pr-br	Srta. Clarke, desculpe incomodá-la, mas pode me dar um autógrafo? 
-pr	Menina Clarke, lamento incomodá-la, mas será que podia? 
+pt-br	Srta. Clarke, desculpe incomodá-la, mas pode me dar um autógrafo? 
+pt	Menina Clarke, lamento incomodá-la, mas será que podia? 
 ro	Dră Clarke, îmi pare rău că vă deranjez, dar îmi dați un autograf? 
 sv	Jag är ledsen att behöva störa er, men kan du? 
 th	คุณคลาร์ก ฉันขอโทษที่มารบกวน | แต่จะกรุณาได้ไหม | 

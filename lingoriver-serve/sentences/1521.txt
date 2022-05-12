@@ -11,8 +11,8 @@ id	Pertanyaannya, kenapa mabuk?
 it	La domanda è: perché? 
 no	Spørsmålet er hvorfor. 
 pl	Pytanie brzmi: dlaczego? 
-pr-br	A questão é: por que fazemos isso? 
-pr	O importante é saber porque o fazemos. 
+pt-br	A questão é: por que fazemos isso? 
+pt	O importante é saber porque o fazemos. 
 ro	Întrebarea e de ce o facem. 
 sv	Frågan är varför vi blir det? 
 th	ปัญหาคือ ทำไมเราถึงทำอย่างนั้น | 

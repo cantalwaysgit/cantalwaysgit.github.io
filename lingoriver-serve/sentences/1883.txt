@@ -12,8 +12,8 @@ he	&rlm;‏היא הייתה די טובה אלייך, הייתי אומר... |
 it	A te ha voluto molto bene. Grazie mille. 
 no	Den har vært ganske god mot deg. 
 pl	Było dla ciebie bardzo łaskawe, dziękuję bardzo. 
-pr-br	Mas ela foi boa para você, muito obrigado. 
-pr	Tem sido muito boa para ti. Obrigadinho. 
+pt-br	Mas ela foi boa para você, muito obrigado. 
+pt	Tem sido muito boa para ti. Obrigadinho. 
 ro	Ție ți-a priit, mulțumesc. 
 sv	Den har varit snäll mot dig, tack ska du ha. 
 th	มันดีกับคุณนะ ขอบคุณมาก | 

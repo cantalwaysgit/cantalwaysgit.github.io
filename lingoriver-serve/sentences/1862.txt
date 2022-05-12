@@ -16,8 +16,8 @@ it	Dove sono?
 nl	Waar ben ik? 
 no	Hvor er jeg? 
 pl	Gdzie jestem? 
-pr-br	Onde estou? 
-pr	Onde estou? 
+pt-br	Onde estou? 
+pt	Onde estou? 
 ro	Unde sunt? 
 sv	Var är jag? 
 tr	Neredeyim ben? 

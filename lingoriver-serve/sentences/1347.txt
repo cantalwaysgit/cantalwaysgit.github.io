@@ -13,8 +13,8 @@ it	Non preoccuparti per Peter. Vuole solo che io sia felice.
 ko	피터는 걱정하지 마세요 | 내가 행복하길 바라니까요 | 
 nl	Geen zorgen over Peter. Hij wil dat ik gelukkig ben. 
 pl	Peterem się nie przejmuj. On chce, żebym była szczęśliwa. 
-pr-br	Não se preocupe com o Peter. Ele só quer a minha felicidade. 
-pr	Não te preocupes com o Peter. Ele só quer a minha felicidade. 
+pt-br	Não se preocupe com o Peter. Ele só quer a minha felicidade. 
+pt	Não te preocupes com o Peter. Ele só quer a minha felicidade. 
 ro	Nu te gândi la Peter. El vrea să fiu fericită. 
 sv	Oroa dig inte för Peter. Han vill att jag ska vara lycklig. 
 th	ไม่ต้องห่วงปีเตอร์ | เขาแค่ต้องการให้ฉันมีความสุข | 

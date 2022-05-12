@@ -14,8 +14,8 @@ it	Perché non è più il mio lavoro.
 nl	Omdat dat mijn werk niet meer is. 
 no	Fordi det ikke er jobben min mer. 
 pl	Bo to już nie moje zadanie. 
-pr-br	Porque não é mais meu trabalho. 
-pr	Porque já não me compete fazer isso. 
+pt-br	Porque não é mais meu trabalho. 
+pt	Porque já não me compete fazer isso. 
 ro	Fiindcă nu mai sunt impresarul tău. 
 sv	För det är inte mitt jobb längre. 
 th	เพราะมันไม่ใช่หน้าที่ผมแล้ว | 

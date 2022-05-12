@@ -11,8 +11,8 @@ fi	Älä kuule yritä! Perun koko jutun!
 fr	Tu vas pas me faire ça ! Sinon, j'annule tout ! 
 he	&rlm;‏אל תעשה לי את זה! אני אסיים את זה!‏ | 
 it	Non farmi una cosa simile! Voglio darci un taglio! 
-pr-br	Não faça isso comigo! Vou desligar essa coisa! 
-pr	Não me faças isso! Eu cancelo isto! 
+pt-br	Não faça isso comigo! Vou desligar essa coisa! 
+pt	Não me faças isso! Eu cancelo isto! 
 ro	Nu-mi face asta! O să renunț la tot numărul! 
 sv	Gör inte så mot mig! Då stoppar jag alltihop! 
 tr	Bunu bana yapma! Bu işe bir son vereceğim! 
@@ -33,8 +33,8 @@ es	¿Me oyes?
 fi	Kuulitko? 
 fr	Tu m'entends ? 
 it	Hai capito? 
-pr-br	Está me ouvindo? 
-pr	Estás a ouvir? 
+pt-br	Está me ouvindo? 
+pt	Estás a ouvir? 
 ro	Înțelegi? 
 sv	Hör du vad jag säger? 
 tr	Duydun mu beni? 

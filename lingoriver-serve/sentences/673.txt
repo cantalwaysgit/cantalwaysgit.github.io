@@ -13,8 +13,8 @@ ko	버튼 안 누를 줄 알았어 |
 nl	Ik wist dat je niet ging drukken. 
 no	Jeg visste du ikke ville trykke på knappen. 
 pl	Wiedziałem, że nie naciśniesz guzika. 
-pr-br	Sabia que não ia apertar o botão. 
-pr	Eu sabia que não carregarias no botão. 
+pt-br	Sabia que não ia apertar o botão. 
+pt	Eu sabia que não carregarias no botão. 
 ro	Știam că n-o să apeși butonul! 
 th	รู้เลยว่าจะลืมกดปุ่ม | 
 tr	Düğmeye basmayacağını biliyordum. 

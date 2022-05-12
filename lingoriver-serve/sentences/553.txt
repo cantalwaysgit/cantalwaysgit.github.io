@@ -13,8 +13,8 @@ it	Ti sei fatto un bel mazzo, amico.
 ko	정말 뼈 빠지게 일했잖아 | 
 no	Du jobbet hardt. 
 pl	Tyrałeś jak wół. 
-pr-br	Você se esforçou bastante, garoto. 
-pr	Fartaste-te de trabalhar. 
+pt-br	Você se esforçou bastante, garoto. 
+pt	Fartaste-te de trabalhar. 
 ro	Te-ai spetit, puștiule. 
 sv	Du har jobbat häcken av dig. 
 th	คุณได้ทุ่มเททำงานหนักแล้ว พ่อหนุ่ม | 

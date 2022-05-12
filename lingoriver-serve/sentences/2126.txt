@@ -10,8 +10,8 @@ fr	Rien ne vaut le show-biz Pour autant que je sache
 it	Non c'è nessun business Come lo show business 
 ko	연예계만 한 사업도 없지 | 내가 아는 한은 그래 | 
 pl	Nie ma to jak show-biznes Nie ma drugiej takiej branży 
-pr-br	Não há trabalho como o   show business É o melhor de todos 
-pr	Não há mundo como o do espetáculo Não há comparação 
+pt-br	Não há trabalho como o   show business É o melhor de todos 
+pt	Não há mundo como o do espetáculo Não há comparação 
 vi	Không có ngành nào như ngành giải trí | Không như ngành nào tôi biết | 
 zh-long	演藝圈無與倫比 前所未見 
 zh-short	据我所知 相比其他 演艺事业独一无二 

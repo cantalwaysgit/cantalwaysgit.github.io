@@ -12,8 +12,8 @@ it	- Senti. - Fuori!
 ko	- 들어봐요 | - 나가라고! | 
 no	-Hør her. -Ut! 
 pl	- Słuchaj. - Won! 
-pr-br	-Ouça. -Fora! 
-pr	- Escuta. - Fora! 
+pt-br	-Ouça. -Fora! 
+pt	- Escuta. - Fora! 
 ro	- Ascultă! - Afară! 
 sv	-Hör på... -Ut! 
 th	- ฟังนะ | - ไป! | 

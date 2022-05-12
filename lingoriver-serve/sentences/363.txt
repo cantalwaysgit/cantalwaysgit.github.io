@@ -12,8 +12,8 @@ it	- Io quale stella sono? - Vuoi sapere quale sei?
 nl	Welke ster ben ik? -Wil je dat weten? 
 no	-Hvilken stjerne er jeg? -Vil du vite hvilken? 
 pl	- Którą jestem gwiazdą? - Chcesz wiedzieć? 
-pr-br	-Que estrela eu sou? -Quer saber que estrela é? 
-pr	- Que estrela sou? - Queres saber que estrela és? 
+pt-br	-Que estrela eu sou? -Quer saber que estrela é? 
+pt	- Que estrela sou? - Queres saber que estrela és? 
 ro	- Care stea sunt eu? - Vrei să știi care stea ești tu? 
 sv	-Vilken stjärna är jag? -Vill du veta det? 
 th	- ฉันเป็นดาวดวงไหนล่ะ | - อยากรู้หรือว่าดวงไหน | 

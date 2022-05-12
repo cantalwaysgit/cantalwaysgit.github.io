@@ -11,8 +11,8 @@ ko	머리 염색하셨어요? |
 nl	Heb je je haar geverfd? 
 no	Har du farget håret? 
 pl	Ufarbowałeś włosy? 
-pr-br	Você tingiu o cabelo? 
-pr	Pintaste o cabelo? 
+pt-br	Você tingiu o cabelo? 
+pt	Pintaste o cabelo? 
 ro	Te-ai vopsit cumva? 
 sv	Har du färgat håret? 
 th	คุณย้อมผมใช่ไหม | 

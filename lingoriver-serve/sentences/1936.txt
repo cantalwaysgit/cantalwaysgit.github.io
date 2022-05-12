@@ -10,8 +10,8 @@ he	&rlm;‏תודה. אתה זה שחיבר את הכול.‏ |
 it	Grazie. Sei tu che hai dato un senso a tutto. 
 no	Takk. Det var du som ga meg ideen. 
 pl	Dzięki. To wszystko dzięki tobie. 
-pr-br	Obrigado. Tudo graças a você. 
-pr	Obrigado. Foi tudo graças a ti. 
+pt-br	Obrigado. Tudo graças a você. 
+pt	Obrigado. Foi tudo graças a ti. 
 ro	Mersi. Toate sunt datorită ție. 
 sv	Tack. Det var du som ordnade allt. 
 th	ขอบคุณ นายเป็นคนที่เอามันมารวมกัน | 

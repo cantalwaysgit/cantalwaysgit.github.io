@@ -14,8 +14,8 @@ it	Possiede una catena di negozi di caffè.
 nl	Hij heeft een aantal koffiezaken. 
 no	Han eier en kjede med kaffebutikker. 
 pl	Ma sieć sklepów z kawą. 
-pr-br	É proprietário de uma rede de cafeterias. 
-pr	É dono de uma cadeia de lojas de café. 
+pt-br	É proprietário de uma rede de cafeterias. 
+pt	É dono de uma cadeia de lojas de café. 
 ro	Deține un lanț de cafenele. 
 sv	Han äger en kaffebutikskedja. 
 th	เขาเป็นเจ้าของเครือข่ายร้านกาแฟ | 

@@ -11,8 +11,8 @@ it	Chi ho chiamato?
 ko	누구한테 전화했는데? | 
 nl	Wie belde ik? 
 pl	A do kogo dzwoniłem? 
-pr	A quem é que eu liguei? 
-pr-br	Para quem eu liguei? 
+pt	A quem é que eu liguei? 
+pt-br	Para quem eu liguei? 
 ro	Pe cine am sunat? 
 sv	Vem ringde jag? 
 tr	Kimi aramışım? 

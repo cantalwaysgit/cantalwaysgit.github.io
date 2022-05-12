@@ -1,4 +1,4 @@
-pr-br	Então por que não quero ir? 
+pt-br	Então por que não quero ir? 
 id	Lalu kenapa aku tak mau pergi? 
 ja	気が乗らない | 
 ru	Тогда почему я не хочу? 
@@ -8,7 +8,7 @@ en	Then why don't I wanna go? |
 es-eu	¿Y por qué no quiero ir? 
 fi	Miksen sitten halua lähteä? 
 it	E perché non voglio andare? 
-pr	Então, porque não quero ir? 
+pt	Então, porque não quero ir? 
 vi	Vậy sao tôi không muốn đi? | 
 zh-long	那為什麼我不想去？ 
 zh-short	那我怎么会不想去呢？ 

@@ -10,8 +10,8 @@ he	&rlm;‏אבא. ביי.‏ |
 it	Papà. Ciao. 
 nl	Pap. Dag. 
 no	Pappa. Ha det. 
-pr-br	Pai. Tchau. 
-pr	Pai. Adeus. 
+pt-br	Pai. Tchau. 
+pt	Pai. Adeus. 
 ro	Tată. Pa! 
 sv	Pappa. Hej då. 
 tr	Görüşürüz baba. 

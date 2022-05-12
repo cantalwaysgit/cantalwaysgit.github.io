@@ -14,8 +14,8 @@ it	- Sandy? - Chi è?
 nl	Sandy? -Wie is dat? 
 no	-Sandy? -Hvem er det? 
 pl	- Sandy? - Kto to? 
-pr-br	-Sandy? -Quem é? 
-pr	- Sandy? - Quem é? 
+pt-br	-Sandy? -Quem é? 
+pt	- Sandy? - Quem é? 
 ro	- Sandy? - Cine e? 
 sv	-Sandy? -Vem är det? 
 th	- แซนดี้ | - นั่นใคร | 

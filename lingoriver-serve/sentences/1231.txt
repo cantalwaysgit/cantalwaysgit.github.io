@@ -14,8 +14,8 @@ fi	Ai, no, hyvää yötä.
 he	&rlm;‏כן. לילה טוב.‏ | 
 it	Ah, certo. Buonanotte. 
 no	Ja. God natt. 
-pr-br	Sim. Boa noite. 
-pr	Sim. Boa noite. 
+pt-br	Sim. Boa noite. 
+pt	Sim. Boa noite. 
 ro	Da. Noapte bună! 
 sv	Visst. Godnatt. 
 tr	Evet. İyi geceler. 

@@ -10,8 +10,8 @@ he	&rlm;‏מה שלומך?‏ |
 it	Come stai? 
 ko	어떻게 지내세요? | 
 pl	Co u ciebie? 
-pr-br	Como vai? 
-pr	Como estás? 
+pt-br	Como vai? 
+pt	Como estás? 
 ro	Ce mai faci? 
 th	สบายดีไหมคะ | 
 tr	Nasılsın? 

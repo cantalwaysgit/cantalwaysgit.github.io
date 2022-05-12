@@ -11,8 +11,8 @@ he	&rlm;‏‏הייתי בווייטנאם, אבל, אתם יודעים, | &rlm
 it	Sono stato in Vietnam, ma era il 1984 
 ko	전 베트남에 있었지만 | 그때가 1984년이라 | 
 pl	Byłem w Wietnamie, ale w 1984 roku. 
-pr-br	Estive na guerra do Vietnã, mas isso foi em 1984, 
-pr	Eu estive no Vietname, mas foi em 1984, 
+pt-br	Estive na guerra do Vietnã, mas isso foi em 1984, 
+pt	Eu estive no Vietname, mas foi em 1984, 
 ro	Eu eram în Vietnam, în 1984, 
 sv	Jag var i Vietnam, men jag var där 1984. 
 th	ผมไปเวียดนาม แต่เป็นปี 1984 | 

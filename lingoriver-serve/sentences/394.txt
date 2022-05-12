@@ -14,8 +14,8 @@ it	chiedeva ai suoi collaboratori di migliorarne lo stile.
 nl	...had hij een team dat de cliënt meteen een make-over gaf. 
 no	satte han et team i sving med en makeover av klienten. 
 pl	organizował rzeszę ludzi, która zaczynała go przerabiać. 
-pr-br	ele tinha uma equipe que imediatamente começava a transformar o cliente. 
-pr	tinha uma equipa de pessoas que começava a adaptar o cliente. 
+pt-br	ele tinha uma equipe que imediatamente começava a transformar o cliente. 
+pt	tinha uma equipa de pessoas que começava a adaptar o cliente. 
 ro	avea o echipă care se ocupa imediat de client. 
 sv	så hade han ett helt team som började förändra klienten. 
 th	เขามีทีมที่จะ | ลงมือปรับแต่งลูกค้าทันที | 

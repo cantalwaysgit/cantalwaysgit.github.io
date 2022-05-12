@@ -12,8 +12,8 @@ it	Mi hai sentito, Pauly.
 ko	내 말 들었지, 폴리? | 
 no	Du hørte meg, Pauly. 
 pl	Słyszałeś, Pauly. 
-pr-br	Você me ouviu, Pauly. 
-pr	Tu ouviste, Pauly. 
+pt-br	Você me ouviu, Pauly. 
+pt	Tu ouviste, Pauly. 
 ro	M-ai auzit, Pauly. 
 sv	Du hörde mig, Pauly. 
 th	ได้ยินผมแล้ว พอลลี่ | 

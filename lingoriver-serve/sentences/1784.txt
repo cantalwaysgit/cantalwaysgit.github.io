@@ -13,8 +13,8 @@ ko	그건 아닌 것 같아 | 정말 안타깝네 |
 nl	Dat voelt niet goed. Ik vind het erg voor hem. 
 no	Føles ikke riktig. Jeg synes synd på ham. 
 pl	No nie wiem, przykro mi, że umarł. 
-pr-br	Não me parece certo, me sinto mal por ele. 
-pr	Não me parece certo. Tenho pena dele. 
+pt-br	Não me parece certo, me sinto mal por ele. 
+pt	Não me parece certo. Tenho pena dele. 
 ro	Nu mi se pare corect. Îmi pare rău pentru el. 
 ru	Это как-то нехорошо. Мне его жалко. 
 sv	Det känns inte rätt. Jag är ledsen för hans skull. 

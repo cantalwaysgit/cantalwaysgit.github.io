@@ -12,8 +12,8 @@ it	Negozi che vendono solo caffè? Non saprei.
 ko	그냥 커피만 파는 가게? 글쎄 | 
 no	Butikker som selger bare kaffe? Jeg vet ikke. 
 pl	Sklep, który sprzedaje tylko kawę? No nie wiem. 
-pr-br	Loja que vende só café? Sei lá. 
-pr	Uma loja que só vende café? Não sei. 
+pt-br	Loja que vende só café? Sei lá. 
+pt	Uma loja que só vende café? Não sei. 
 ro	Un local care să vândă numai cafea? Nu știu. 
 sv	En butik som bara säljer kaffe? Jag vet inte. 
 tr	Sadece kahve satan bir dükkân mı? Bilmem ki. 

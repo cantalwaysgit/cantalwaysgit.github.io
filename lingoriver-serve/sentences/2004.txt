@@ -15,8 +15,8 @@ it	Ho pensato che se iniziassi a dire ciò che penso,
 nl	Dus ik dacht dat als ik zeg wat ik denk... 
 no	Så jeg tenkte at hvis jeg begynner å si det jeg tenker... 
 pl	Pomyślałem, że jeśli zacznę mówić to, co myślę, 
-pr-br	Então, eu estava pensando, se eu começasse a dizer o que acho, 
-pr	E pensei que, se começasse a dizer aquilo que penso, 
+pt-br	Então, eu estava pensando, se eu começasse a dizer o que acho, 
+pt	E pensei que, se começasse a dizer aquilo que penso, 
 ro	M-am gândit că poate, dacă voi spune ce gândesc, 
 th	ผมเลยมาคิดดู | หากผมเริ่มพูดสิ่งที่ตัวเองคิด | 
 tr	Ben de düşündüm ki düşündüğüm şeyi söylemeye başlarsam 

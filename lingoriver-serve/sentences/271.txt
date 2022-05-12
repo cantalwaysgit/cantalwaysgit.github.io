@@ -14,8 +14,8 @@ it	La tua voce
 ko	그러니까, 당신 목소리는 | 
 no	Stemmen din 
 pl	Twój głos 
-pr	A sua voz... 
-pr-br	Digo, a sua voz, 
+pt	A sua voz... 
+pt-br	Digo, a sua voz, 
 ro	Vocea ta 
 sv	Din röst... 
 tr	Yani, sesin, 
@@ -39,8 +39,8 @@ it	ricorda quella della figlia di un uccellino e un angelo.
 ko	마치 새와 천사가 | 아이를 낳은 것 같았어요 | 
 no	høres ut som om en fugl og en engel har fått barn sammen. 
 pl	brzmi jak głos dziecka ptaka i anioła. 
-pr-br	parece de filha de um pássaro com um anjo. 
-pr	Parece que um pássaro e um anjo tiveram um filho. 
+pt-br	parece de filha de um pássaro com um anjo. 
+pt	Parece que um pássaro e um anjo tiveram um filho. 
 ro	sună de parcă ai fi rezultatul împreunării unei păsări cu un înger. 
 sv	Den låter som om en fågel och en ängel skulle få barn. 
 th	ฟังเหมือน นกและนางฟ้ากำลังคลอดลูก | 

@@ -11,8 +11,8 @@ it	Lei lo chiama Quincelius.
 nl	Zij noemt hem Quincelius. 
 no	Hun kaller ham Quincelius. 
 pl	Nazywa go Quincelius. 
-pr-br	Ela o chama de Quincelius. 
-pr	Ela chama-lhe Quincelius. 
+pt-br	Ela o chama de Quincelius. 
+pt	Ela chama-lhe Quincelius. 
 ro	Ea îi spune Quincelius. 
 sv	Hon kallar honom Quincelius. 
 th	เธอเรียกเขาว่าควินเซเลียส | 

@@ -17,8 +17,8 @@ ko	그래서 시애틀로 이사하려고요 |
 nl	Dus ik verhuis naar Seattle. 
 no	Så jeg skal flytte til Seattle. 
 pl	Przeprowadzam się do Seattle. 
-pr-br	Então vou me mudar para Seattle. 
-pr	Por isso, vou mudar-me para Seattle. 
+pt-br	Então vou me mudar para Seattle. 
+pt	Por isso, vou mudar-me para Seattle. 
 ro	Așa că mă mut în Seattle. 
 sv	Jag flyttar till Seattle. 
 tr	Seattle'a taşınıyorum. 

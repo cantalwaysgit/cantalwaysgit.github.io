@@ -14,8 +14,8 @@ ko	물론이지 | 우리 재미있게 놀자 |
 nl	Natuurlijk. We gaan lol maken. 
 no	Ikke vær dum. Så klart. Vi skal more oss. 
 pl	No pewnie. Będziemy się świetnie bawić. 
-pr-br	Não seja boba. Claro. Nós vamos nos divertir, pessoal. 
-pr	Não sejas tola. É claro. Vamos divertir-nos muito. 
+pt-br	Não seja boba. Claro. Nós vamos nos divertir, pessoal. 
+pt	Não sejas tola. É claro. Vamos divertir-nos muito. 
 ro	Cum să nu? Desigur! O să ne distrăm de minune, copii! 
 sv	Var inte dum. Självklart. Vi ska ha kul. 
 th	พูดบ้าๆ ได้แน่นอน | พวกหนูจะสนุกกันแน่เลย | 

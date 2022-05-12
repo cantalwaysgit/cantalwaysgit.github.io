@@ -14,8 +14,8 @@ he	&rlm;‏‏שמעת שלא נכנסת להילקרסט? | &rlm;‏-כן, שמ
 it	- Non ti hanno preso all'Hillcrest. - Sì, ho saputo. 
 no	-Vet du at du ikke kom inn på Hillcrest? -Ja. 
 pl	- Ale do Hillcrest nie wejdziesz. - Wiem. 
-pr-br	-Soube que não entrou em Hillcrest? -Sim, fiquei sabendo. 
-pr	- Soubeste que não entraste em Hillcrest? - Sim, soube. 
+pt-br	-Soube que não entrou em Hillcrest? -Sim, fiquei sabendo. 
+pt	- Soubeste que não entraste em Hillcrest? - Sim, soube. 
 ro	- Știi că n-ai fost admis la Hillcrest? - Da, am auzit. 
 th	- ได้ยินว่าเข้าฮิลเครสต์ไม่ได้ | - ก็ได้ยินอย่างนั้น | 
 tr	-Seni Hillcrest'e almamışlar, duydun mu? -Evet, duydum. 

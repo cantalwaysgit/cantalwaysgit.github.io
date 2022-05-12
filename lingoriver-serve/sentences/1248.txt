@@ -8,8 +8,8 @@ fr	C'est trop, désolé.
 he	&rlm;‏זה הרבה, ילדה. אני מצטער.‏ | 
 it	Non ce la faccio, piccola, mi dispiace. 
 no	Det er mye. Jeg er lei for det. 
-pr-br	Isso é demais, garota. Sinto muito. 
-pr	É muito, miúda. Lamento. 
+pt-br	Isso é demais, garota. Sinto muito. 
+pt	É muito, miúda. Lamento. 
 th	มันเยอะมาก ผมเสียใจ | 
 tr	Bu çok fazla geliyor evlat. Üzgünüm. 
 zh-long	難以負荷，小鬼，我很抱歉 

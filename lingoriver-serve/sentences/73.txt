@@ -13,8 +13,8 @@ it	- Annesso. - Già.
 ko	- 콤보였어요 | - 맞아요 | 
 no	-Komboen. Ja. -Ja. 
 pl	Zgadza się. 
-pr	- A combinação. - Sim. 
-pr-br	-Forçadíssimos. É. -É. 
+pt	- A combinação. - Sim. 
+pt-br	-Forçadíssimos. É. -É. 
 ro	- Al aplauzelor. - Da. 
 sv	Mixen, ja. 
 th	- เป็นชุด ใช่เลย | - ใช่ | 

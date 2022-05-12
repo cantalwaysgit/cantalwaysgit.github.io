@@ -11,8 +11,8 @@ it	Ted, benvenuto nella famiglia UPN.
 ko	테드, UPN 가족이 된 걸 | 환영해요 | 
 nl	Welkom bij de UPN-familie. 
 pl	Ted, witamy w rodzinie UPN. 
-pr-br	Ted, bem-vindo à família UPN. 
-pr	Ted, bem-vindo à família UPN. 
+pt-br	Ted, bem-vindo à família UPN. 
+pt	Ted, bem-vindo à família UPN. 
 sv	Välkommen till UPN-familjen, Ted. 
 tr	Ted, UPN ailesine hoş geldin. 
 vi	Ted, chào mừng về gia đình UPN. | 

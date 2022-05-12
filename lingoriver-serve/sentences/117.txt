@@ -13,8 +13,8 @@ it	Si chiama Gary Rodgers. L'hai detto giusto, no?
 ko	게리 로저스 | 게리 로저스라고 하셨죠? | 
 nl	Gary Rodgers. Dat zei je toch? 
 pl	Gary Rodgers. Tak pan powiedział, nie? 
-pr-br	É Gary Rodgers. Você disse, certo? 
-pr	Gary Rodgers. É Gary Rodgers. Foi o que disseste? 
+pt-br	É Gary Rodgers. Você disse, certo? 
+pt	Gary Rodgers. É Gary Rodgers. Foi o que disseste? 
 ro	Gary Rodgers. Ai zis Gary Rodgers, nu? 
 sv	Det är Gary Rodgers. Det var väl det du sa? 
 th	แกรี่ รอดเจอร์ ชื่อแกรี่ รอดเจอร์ | คุณเรียกถูกใช่ไหม | 

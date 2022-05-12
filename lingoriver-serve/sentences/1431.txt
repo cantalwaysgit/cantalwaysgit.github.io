@@ -12,8 +12,8 @@ ko	프로 레슬링요 |
 nl	Professioneel worstelen. 
 no	Fribryting. 
 pl	Wrestlingu. 
-pr-br	Um lutador profissional de luta livre. 
-pr	Um profissional de luta livre. 
+pt-br	Um lutador profissional de luta livre. 
+pt	Um profissional de luta livre. 
 ro	Wrestling profesionist. 
 sv	Professionell wrestling. 
 th	มวยปล้ำมืออาชีพ | 

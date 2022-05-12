@@ -8,7 +8,7 @@ he	&rlm;‏‏- וראייטי | &rlm;‏"מגע של מלאכים" גרסה מ�
 it	VARIETY RINNOVATO "IL TOCCO DI UN ANGELO" 
 ko	“‘버라이어티’ | ‘천사의 손길’ 재계약” | 
 no	"EN ENGEL IBLANT OSS" FORNYET 
-pr-br	"O TOQUE DE UM ANJO" RENOVADA 
+pt-br	"O TOQUE DE UM ANJO" RENOVADA 
 ro	ATINGEREA ÎNGERILOR - SEZON NOU 
 th	(เดลีวาไรตี) | 
 tr	'TOUCHED BY AN ANGEL' YENİLENDİ 

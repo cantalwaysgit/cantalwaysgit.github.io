@@ -14,8 +14,8 @@ it	Ma non è mai stato in televisione.
 nl	Maar hij is nooit op tv geweest. 
 no	Men han har aldri vært på TV. 
 pl	Ale nie ma doświadczenia w telewizji. 
-pr-br	Mas a questão é que ele nunca apareceu na TV. 
-pr	Mas a questão é que nunca foi à televisão. 
+pt-br	Mas a questão é que ele nunca apareceu na TV. 
+pt	Mas a questão é que nunca foi à televisão. 
 ro	Problema e că el n-a mai apărut la TV până acum. 
 sv	Men faktum är att han aldrig var på TV. 
 th	แต่ความจริงคือ เขาไม่เคยออกทีวี | 

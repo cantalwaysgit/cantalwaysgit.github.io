@@ -14,8 +14,8 @@ it	- È l'ora della nanna anche per te. - No!
 nl	Je moet gaan slapen. 
 no	-På tide å si nattinatt. -Nei! 
 pl	- Pora na dobranoc. - Nie! 
-pr-br	-É hora de nanar. -Não! 
-pr	- Está na hora da tua soneca. - Não! 
+pt-br	-É hora de nanar. -Não! 
+pt	- Está na hora da tua soneca. - Não! 
 ro	- E timpul să-nchizi ochișorii. - Nu! 
 sv	-Dags att säga nattinatti. -Nej! 
 th	- ได้เวลานายปิดตาแล้ว | - ไม่นะ | 

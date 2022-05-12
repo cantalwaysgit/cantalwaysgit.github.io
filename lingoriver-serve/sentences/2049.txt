@@ -10,8 +10,8 @@ fr	Veux-tu m'épouser ?
 he	&rlm;‏האם תינשאי לי?‏ | 
 it	Mi vuoi sposare? 
 pl	Wyjdziesz za mnie? 
-pr-br	Quer se casar comigo? 
-pr	Casas comigo? 
+pt-br	Quer se casar comigo? 
+pt	Casas comigo? 
 ro	Te măriți cu mine? 
 th	จะแต่งงานกับผมไหม | 
 tr	Benimle evlenir misin? 

@@ -15,8 +15,8 @@ ko	왜? 나 아니었어 |
 nl	Wat? Dat deed ik niet. 
 no	Hva? Det var ikke meg. Var ikke meg. 
 pl	Co? To nie ja. 
-pr-br	Quê? Não fui eu. 
-pr	O que foi? Não fui eu. 
+pt-br	Quê? Não fui eu. 
+pt	O que foi? Não fui eu. 
 ro	Ce e? N-a fost vina mea. 
 sv	Vadå? Det var inte jag. 
 tr	Ne? Ben değildim. Değildim. 

@@ -10,8 +10,8 @@ he	&rlm;‏כן, הולך לה טוב.‏ |
 it	Sta andando alla grande. 
 no	Ja, hun gjør det bra. 
 pl	Nieźle sobie radzi. 
-pr-br	Sim, ela está indo bem. 
-pr	Sim, ela está ótima. 
+pt-br	Sim, ela está indo bem. 
+pt	Sim, ela está ótima. 
 ro	Da, se descurcă minunat. 
 th	ใช่ เธอไปได้ดี | 
 tr	Evet, çok iyi gidiyor. 

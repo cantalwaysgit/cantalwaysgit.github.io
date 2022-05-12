@@ -15,8 +15,8 @@ ko	완전히 휘트니야 | 100%라고 볼 수 있지 |
 nl	Het is duidelijk Whitney. 100%. 
 no	Det er definitivt Whitney. 100 prosent. 
 pl	To druga Whitney. Bez wątpienia. 
-pr-br	Certamente a Whitney. É ela, 100%. 
-pr	É claramente a Whitney. É ela a 100 %. 
+pt-br	Certamente a Whitney. É ela, 100%. 
+pt	É claramente a Whitney. É ela a 100 %. 
 ro	E clar o nouă Whitney. E ea 100%. 
 th	มันเป็นแบบวิตนีย์ แบบเธอเต็มร้อย | 
 tr	Kesinlikle Whitney. %100. 

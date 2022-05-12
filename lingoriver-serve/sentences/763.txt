@@ -11,8 +11,8 @@ it	Ero innamorata di te
 ko	너랑 사랑에 빠졌었잖아 | 
 nl	en verliefd op jou 
 pl	Kochałam cię 
-pr-br	Eu estava apaixonada por você 
-pr	Estava apaixonada por ti 
+pt-br	Eu estava apaixonada por você 
+pt	Estava apaixonada por ti 
 ro	Eram îndrăgostită de tine 
 sv	Var jag kär i dig 
 th	ฉันรักคุณ | 

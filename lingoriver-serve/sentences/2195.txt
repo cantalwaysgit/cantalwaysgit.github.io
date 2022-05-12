@@ -13,8 +13,8 @@ he	&rlm;‏בסדר. קדימה!‏ |
 it	Ma andiamo! 
 no	Ja vel. Kom igjen! 
 pl	Dość tego! 
-pr-br	Certo. Vamos lá. 
-pr	Pronto. Vá lá! 
+pt-br	Certo. Vamos lá. 
+pt	Pronto. Vá lá! 
 ro	Bine. Gata! 
 sv	Lägg av! 
 th	เอาละ พอแล้ว | 

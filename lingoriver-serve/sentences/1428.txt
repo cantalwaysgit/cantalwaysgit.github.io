@@ -12,8 +12,8 @@ it	Un altro doloroso addio per Sandy.
 nl	Dat was een zwaar afscheid. 
 no	Enda en tøff avskjed for Sandy. 
 pl	To było dla Sandy'ego trudne. 
-pr-br	Essa foi outra despedida difícil para o Sandy. 
-pr	Foi outra despedida dura para o Sandy. 
+pt-br	Essa foi outra despedida difícil para o Sandy. 
+pt	Foi outra despedida dura para o Sandy. 
 ro	A fost altă despărțire dureroasă pentru Sandy. 
 sv	Det var ett tufft avsked för Sandy. 
 th	มันเป็นการบอกลาที่ลำบากสำหรับแซนดี้ | 
@@ -38,8 +38,8 @@ it	Non sapeva se avrebbe mai rivisto Courtney.
 nl	Hij wist niet of hij Courtney ooit nog zou zien. 
 no	Han visste ikke om han ville treffe Courtney igjen. 
 pl	Nie wiedział, czy jeszcze kiedyś zobaczy Courtney. 
-pr-br	Ele não sabia se iria ver Courtney de novo. 
-pr	Ele nem sequer sabia se voltaria a ver a Courtney. 
+pt-br	Ele não sabia se iria ver Courtney de novo. 
+pt	Ele nem sequer sabia se voltaria a ver a Courtney. 
 ro	Nici nu știa dacă avea s-o mai vadă pe Courtney. 
 sv	Han visste inte om han skulle få se Courtney igen. 
 th	ไม่รู้ว่าจะได้เจอคอร์ทนี่ย์อีกไหม | 

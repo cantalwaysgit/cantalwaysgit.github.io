@@ -13,8 +13,8 @@ ko	같이 식사한 적은 없지만 | 좀 역겹다고 들었어요 |
 nl	Ik heb nooit met hem gegeten, maar dat scheen smerig te zijn. 
 no	Spiste aldri med Sandy, men hørte det var ekkelt. 
 pl	Nie jadłam z nim, ale podobno było to obrzydliwe. 
-pr-br	Nunca comi com o Sandy, mas soube que era nojento. 
-pr	Nunca comi com o Sandy, mas ouvi dizer que era nojento. 
+pt-br	Nunca comi com o Sandy, mas soube que era nojento. 
+pt	Nunca comi com o Sandy, mas ouvi dizer que era nojento. 
 ro	N-am mâncat niciodată cu Sandy, dar am auzit că era scârbos. 
 ru	Я никогда не ела с Сэнди, но, говорят, это был ужас. 
 sv	Jag åt aldrig med Sandy, men jag har hört att det var vidrigt. 

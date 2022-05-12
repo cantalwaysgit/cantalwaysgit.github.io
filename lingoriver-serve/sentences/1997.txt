@@ -14,8 +14,8 @@ ko	너랑 내가 또다시 | 별 아래에 서게 됐어 |
 nl	Wij twee weer onder de sterren. 
 no	Bare deg og meg under stjernene igjen. 
 pl	Tylko ty i ja pod gwiazdami. Jak kiedyś. 
-pr-br	Só eu e você sob as estrelas novamente, garota. 
-pr	Só tu e eu novamente sob as estrelas, miúda. 
+pt-br	Só eu e você sob as estrelas novamente, garota. 
+pt	Só tu e eu novamente sob as estrelas, miúda. 
 ro	Doar noi doi sub stele iar, puștoaico. 
 ru	Только мы вдвоем под звездами, детка. 
 sv	Du och jag under stjärnorna igen, vännen. 

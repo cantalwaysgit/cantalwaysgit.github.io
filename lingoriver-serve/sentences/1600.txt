@@ -12,8 +12,8 @@ it	La signora di Chili's ha detto che ci aspetteranno fino alle 22:30.
 ko	칠리스 직원이 우리를 위해 | 10시 반까지 열어두겠대 | 
 nl	De vrouw bij Chili's zei dat ze voor ons tot 22.30 uur open blijven. 
 pl	Kobieta w Chili's powiedziała, że poczekają dla nas z zamknięciem. 
-pr	A senhora do Chili's disse que manteriam as portas abertas até às 22h30 para nós. 
-pr-br	A moça do Chili's disse que ficam abertos até as 22h30 para nós. 
+pt	A senhora do Chili's disse que manteriam as portas abertas até às 22h30 para nós. 
+pt-br	A moça do Chili's disse que ficam abertos até as 22h30 para nós. 
 ro	Tipa de la restaurant a zis că ne așteaptă până la 22:30. 
 sv	Damen på Chili's sa att de har öppet till kl. 22.30 för oss. 
 th	สาวที่ร้านชิลีส์บอกว่าจะเปิดร้าน | รอเราจนถึงสี่ทุ่มครึ่ง | 

@@ -9,8 +9,8 @@ fr	Oui, ça paraît logique.
 he	&rlm;‏כן. זה הגיוני.‏ | 
 it	Già. È logico. 
 no	Ja. Det gir mening. 
-pr-br	Sim. Faz sentido. 
-pr	Sim. Faz sentido. 
+pt-br	Sim. Faz sentido. 
+pt	Sim. Faz sentido. 
 ro	Da. E de înțeles. 
 th	ใช่ นั่นสิมีเหตุผล | 
 tr	Evet ya. Anlaşıldı. 

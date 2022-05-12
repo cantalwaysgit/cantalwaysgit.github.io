@@ -8,8 +8,8 @@ fi	Kiitos.
 he	&rlm;‏תודה.‏ | 
 it	Grazie. 
 no	Takk. 
-pr-br	Obrigado. 
-pr	Obrigado. 
+pt-br	Obrigado. 
+pt	Obrigado. 
 sv	Tack. 
 tr	Sağ ol. 
 vi	Cảm ơn chị. | 

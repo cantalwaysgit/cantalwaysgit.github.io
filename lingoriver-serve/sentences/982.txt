@@ -13,8 +13,8 @@ he	&rlm;‏‏זו הייתה תחבולה של משא ומתן. | &rlm;‏או�
 it	Era una tattica. Forse ho un po' esagerato. 
 no	Det var et forhandlingstriks. Jeg kan ha gått for langt. 
 pl	Chciałem negocjować, ale trochę przesadziłem z tym Carsonem. 
-pr-br	Foi uma tática de negociação. Posso ter exagerado. 
-pr	Era uma jogada de negociação. Talvez tenha ido longe de mais. 
+pt-br	Foi uma tática de negociação. Posso ter exagerado. 
+pt	Era uma jogada de negociação. Talvez tenha ido longe de mais. 
 ro	A fost un truc de negociere. Cred că am exagerat un pic. 
 sv	Det var ett förhandlingsknep. Jag spelade nog för högt. 
 th	มันเป็นกลไกการต่อรอง | ผมอาจจะเล่นแรงไปหน่อย | 

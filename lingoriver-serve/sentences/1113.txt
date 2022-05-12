@@ -11,8 +11,8 @@ it	Te ne sei andato?
 nl	Ben je weg? 
 no	Er du borte? 
 pl	Nie ma cię? 
-pr-br	Você foi embora? 
-pr	Foste-te embora? 
+pt-br	Você foi embora? 
+pt	Foste-te embora? 
 ro	Ai plecat? 
 sv	Är du borta? 
 th	หนีไปแล้วเหรอ | 

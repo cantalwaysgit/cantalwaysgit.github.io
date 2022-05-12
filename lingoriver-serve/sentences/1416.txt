@@ -10,8 +10,8 @@ id	Ya, itu yang utama.
 it	Proprio la protagonista. 
 ko	그게 무슨 주인공이야? | 
 pl	No, główna rola. 
-pr-br	Uma protagonista e tanto. 
-pr	É mesmo o papel principal. 
+pt-br	Uma protagonista e tanto. 
+pt	É mesmo o papel principal. 
 ro	Da, rolul principal... 
 ru	Да, это главная роль. 
 sv	Ja, det är huvudrollen. 
@@ -37,8 +37,8 @@ he	&rlm;‏נכון, היא חיית מסיבות ראשית.‏ |
 it	Sì. L'invitata protagonista. 
 ko	맞아, 파티광 중 1번이잖아 | 
 pl	Będzie głównym uczestnikiem. 
-pr-br	Sim, é a protagonista das baladeiras. 
-pr	Pois é. É o papel principal dos convidados. 
+pt-br	Sim, é a protagonista das baladeiras. 
+pt	Pois é. É o papel principal dos convidados. 
 ro	Așa e. E prima la petrecere. 
 sv	Det är det. Hon är huvud-festdeltagare. 
 th	ใช่แล้ว นำในบทคนไปงานปาร์ตี้ | 

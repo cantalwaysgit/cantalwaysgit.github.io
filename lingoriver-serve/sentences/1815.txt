@@ -10,8 +10,8 @@ he	&rlm;‏הם אהבו אותך מאוד.‏ |
 it	Li hai fatti impazzire. 
 ko	다들 좋아 죽던걸 | 
 no	De elsket deg. 
-pr-br	Eles adoraram você. 
-pr	Eles adoraram-te. 
+pt-br	Eles adoraram você. 
+pt	Eles adoraram-te. 
 ro	Te-au adorat. 
 ru	Они от тебя в восторге. 
 sv	De älskade dig. 

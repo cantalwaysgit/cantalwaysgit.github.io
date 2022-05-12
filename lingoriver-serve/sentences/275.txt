@@ -14,8 +14,8 @@ it	Se fosse stato possibile, sarei già qualcuno.
 ko	대단한 사람이 될 거였으면 | 이미 됐겠죠 | 
 nl	Als ik iemand kon worden, was ik dat al geweest. 
 pl	Gdybym była dobra, już bym to osiągnęła. 
-pr-br	Se fosse para eu ser famosa, já seria agora. 
-pr	Se eu tivesse de ser alguém, já seria. 
+pt-br	Se fosse para eu ser famosa, já seria agora. 
+pt	Se eu tivesse de ser alguém, já seria. 
 ro	Dacă era să mă realizez, o făceam până acum. 
 sv	Om jag kunde bli någon, hade jag varit det nu. 
 th	ถ้าฉันจะดัง ตอนนี้ก็คงดังไปแล้ว | 

@@ -12,8 +12,8 @@ it	- Vieni qui. - Che facciamo?
 nl	Kom hier. -Wat gaan we doen? 
 no	-Kom hit. -Hva skal vi? 
 pl	- Podejdź. - Co robimy? 
-pr-br	-Venha aqui. -O que vamos fazer? 
-pr	- Vem cá. - Para quê? 
+pt-br	-Venha aqui. -O que vamos fazer? 
+pt	- Vem cá. - Para quê? 
 ro	- Hai încoace! - Ce facem? 
 sv	-Kom hit. -Vad ska vi göra? 
 th	- มานี่ | - เราจะทำอะไร | 

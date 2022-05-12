@@ -15,8 +15,8 @@ ko	이제 알았으니 됐지 | 그나마 다행이야 |
 nl	Nu weten we het. Dat is mooi. 
 no	Nå vet vi det. Nei, dette er bra. 
 pl	Teraz już wiemy. To dobrze. 
-pr	Agora já sabemos. É bom. 
-pr-br	Agora sabemos disso. É bom saber. 
+pt	Agora já sabemos. É bom. 
+pt-br	Agora sabemos disso. É bom saber. 
 ro	Acum am aflat. E un lucru bun. 
 sv	Nu vet vi det. Det är bra det. 
 th	ตอนนี้เรารู้แล้ว ตอนนี้เรารู้แล้ว | ไม่ มันเป็นเรื่องดี | 

@@ -10,8 +10,8 @@ fr	La scène, les accessoires et le maquillage
 he	&rlm;‏התלבושות, התפאורה, האיפור, האביזרים‏ | 
 it	La scenografia, il trucco, Gli oggetti di scena 
 pl	Kostiumy, scenografia, makijaż, rekwizyty 
-pr-br	O cenário, a maquiagem, os objetos de cena 
-pr	Os fatos, o cenário, A maquilhagem, os adereços 
+pt-br	O cenário, a maquiagem, os objetos de cena 
+pt	Os fatos, o cenário, A maquilhagem, os adereços 
 ro	Costumele, decorul Machiajul, recuzita 
 sv	...kulisserna, sminket, rekvisitan  
 th	ทิวทัศน์ เครื่องแต่งหน้า ฉากประกอบ | 
@@ -36,8 +36,8 @@ id	Penonton yang menghiburmu saat kau sedih
 it	Il pubblico che ti consola Quando sei triste 
 ko	우울할 때는 | 관객들이 힘을 준다네 | 
 pl	Publika brawami niesie cię 
-pr-br	A plateia que anima você Quando está pra baixo 
-pr	O público que nos levanta Quando estamos em baixo 
+pt-br	A plateia que anima você Quando está pra baixo 
+pt	O público que nos levanta Quando estamos em baixo 
 ro	Publicul care te înveselește Când ești trist 
 ru	Публика, которая поддержит тебя В трудный момент 
 sv	Publiken som lyfter dig när du är nere 

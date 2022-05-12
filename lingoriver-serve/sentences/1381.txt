@@ -10,8 +10,8 @@ he	&rlm;‏בקול שלך.‏ |
 it	Con la tua voce. 
 no	Gjør dem med din egen stemme. 
 pl	Swoim głosem. 
-pr-br	Você as contará do seu jeito. 
-pr	Mas conta-las com a tua voz. 
+pt-br	Você as contará do seu jeito. 
+pt	Mas conta-las com a tua voz. 
 ro	Va fi vocea ta. 
 sv	Men du gör dem med din röst. 
 th	แต่นายทำด้วยเสียงตัวเอง | 

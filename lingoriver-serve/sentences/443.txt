@@ -11,8 +11,8 @@ fr	Il faut... réfléchir.
 he	&rlm;‏אתה רק... חושב.‏ | 
 it	E pensi. 
 no	Bare... Tenk. 
-pr-br	E... Pense. 
-pr	E pensas. 
+pt-br	E... Pense. 
+pt	E pensas. 
 ro	Te gândești. 
 tr	Sadece... Düşün. 
 vi	Cô chỉ...cứ nghĩ thôi. | 

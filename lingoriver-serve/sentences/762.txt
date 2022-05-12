@@ -12,8 +12,8 @@ it	Avevo 17 anni
 ko	내가 17살 때 | 
 nl	ik was 17 
 pl	Miałam 17 lat 
-pr-br	Quando eu tinha 17 anos 
-pr	Quando tinha 17 
+pt-br	Quando eu tinha 17 anos 
+pt	Quando tinha 17 
 ro	Când aveam 17 ani 
 ru	Мне было 17 
 sv	När jag var 17 

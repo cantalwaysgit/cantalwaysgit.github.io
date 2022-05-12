@@ -11,8 +11,8 @@ ko	- 저기 있네! | - 다들 잘 지냈어요? |
 nl	Daar is hij. -Hé, hoe gaat het? 
 no	-Der er han! -Ja! Står til? 
 pl	- Jest! - Siemanko! 
-pr	- Ali está ele! - Sim! Como estão? 
-pr-br	-Lá está ele! -É! E aí? 
+pt	- Ali está ele! - Sim! Como estão? 
+pt-br	-Lá está ele! -É! E aí? 
 ro	- Uite-l! - Da! Ce mai faceți? 
 ru	-Вот и он! -Да! Как дела? 
 sv	-Där är han! -Hur mår ni? 

@@ -14,8 +14,8 @@ ko	내게 리들러 의상을 | 손빨래하게 했지 |
 nl	Hij dacht dat wasmachines de rek uit de stof haalden. 
 no	fordi han mente at vaskemaskiner kunne strekke stoffet. 
 pl	bo bał się, że automatyczna pralka porozciąga materiał. 
-pr-br	porque ele achava que máquinas de lavar roupa alargavam o tecido. 
-pr	porque achava que as máquinas de lavar podiam esticar o material. 
+pt-br	porque ele achava que máquinas de lavar roupa alargavam o tecido. 
+pt	porque achava que as máquinas de lavar podiam esticar o material. 
 ro	fiindcă credea că mașinile de spălat ar putea întinde materialul. 
 sv	för han ansåg att maskintvätt töjde ut materialet. 
 th	เพราะเขาคิดว่าเครื่องซักผ้า | อาจทำให้ผ้ายืดหมด | 

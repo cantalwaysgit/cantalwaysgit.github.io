@@ -15,8 +15,8 @@ ko	베이스에 약간 문제가 생겨서 | 수정을 했으니 |
 nl	Er was een hapering in de bas die we hebben verholpen... 
 no	En feil med bassen, som vi har fikset, 
 pl	Jakieś zawirowania z basem, ale już skorygowaliśmy. 
-pr-br	Houve um contratempo no grave que tivemos que retificar 
-pr	Havia um salto entre agudos e graves que nós retificámos 
+pt-br	Houve um contratempo no grave que tivemos que retificar 
+pt	Havia um salto entre agudos e graves que nós retificámos 
 ro	Se auzea un tremur-cutremur al basului, pe care l-am reglat, 
 sv	Det var nåt knasdarr på basen som vi har korrigerat, 
 th	ปัญหาตรงปรับเสียงสูงต่ำนิดหน่อย | ซึ่งแก้ไขได้แล้ว | 
@@ -40,8 +40,8 @@ it	e ora siamo pronti per te.
 nl	...en we zijn klaar voor je. 
 no	og vi er klare for deg. 
 pl	Czekamy na ciebie. 
-pr-br	e já estamos prontos para você. 
-pr	e estamos preparados para ti. 
+pt-br	e já estamos prontos para você. 
+pt	e estamos preparados para ti. 
 ro	iar acum suntem gata să te auzim. 
 sv	och vi är redo för dig. 
 th	และเราพร้อมแล้ว | 

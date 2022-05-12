@@ -8,8 +8,8 @@ he	&rlm;‏‏כן. | &rlm;‏-בואי נראה.‏ |
 it	- Sì. - Vediamo. 
 no	-Ja. -Skal vi se. 
 pl	- Tak. - Zobaczmy. 
-pr-br	-Sim. -Vamos ver. 
-pr	- Sim. - Vejamos. 
+pt-br	-Sim. -Vamos ver. 
+pt	- Sim. - Vejamos. 
 ro	- Da. - Să vedem! 
 sv	-Ja. -Få se. 
 th	- ใช่ | - ขอดูหน่อย | 

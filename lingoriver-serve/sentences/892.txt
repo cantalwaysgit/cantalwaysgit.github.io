@@ -10,8 +10,8 @@ he	&rlm;‏אני לא רוצה אוכל סיני.‏ |
 it	Non mangio cinese a pranzo. 
 nl	Ik wil geen Chinees. 
 pl	Nie na lunch. 
-pr-br	Não quero almoçar comida chinesa. 
-pr	Não quero almoçar comida chinesa. 
+pt-br	Não quero almoçar comida chinesa. 
+pt	Não quero almoçar comida chinesa. 
 ro	Nu vreau mâncare chinezească. 
 th	เที่ยงไม่กินอาหารจีน | 
 tr	Öğleyin Çin yemeği istemem. 

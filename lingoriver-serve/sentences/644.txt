@@ -13,8 +13,8 @@ ko	깜빡하고 녹음 버튼을 | 안 눌렀을 수도 있어요 |
 nl	Misschien vergat ik op de recordknop te drukken. 
 no	Jeg kan ha glemt å trykke på record. 
 pl	Możliwe, że zapomniałem włączyć nagrywanie. 
-pr-br	Posso ter esquecido de apertar o botão para gravar. 
-pr	É possível que me tenha esquecido de pôr a gravar. 
+pt-br	Posso ter esquecido de apertar o botão para gravar. 
+pt	É possível que me tenha esquecido de pôr a gravar. 
 ro	Probabil am uitat să apăs pe butonul de înregistrare. 
 ru	Я мог забыть включить запись. 
 sv	Det finns en risk att jag glömde trycka på "spela in". 

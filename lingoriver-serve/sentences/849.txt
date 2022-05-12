@@ -7,8 +7,8 @@ es	Te veo con tocino,
 fr	Je te vois cuire du bacon, 
 he	&rlm;‏אני רואה אותך עם בייקון,‏ | 
 it	Ti vedo col bacon sul lavandino 
-pr-br	Vejo você com bacon, 
-pr	Vejo-te a comer  bacon  no lava-loiças , 
+pt-br	Vejo você com bacon, 
+pt	Vejo-te a comer  bacon  no lava-loiças , 
 sv	Jag ser dig äta bacon. 
 tr	Pastırma yediğini, 
 vi	Tôi thấy anh ăn thịt xông khói ở chậu rửa, | 
@@ -36,8 +36,8 @@ he	&rlm;‏‏אני רואה אותך ישן בכיסא שלי, | &rlm;‏צו�
 it	e quando dormi sulla mia poltrona guardando il mio Cinemax. 
 no	ser deg sove i stolen min, se på min Cinemax. 
 pl	zasypiasz w moim fotelu, oglądając mojego Cinemaxa. 
-pr	a adormecer na minha cadeira, a ver o meu Cinemax. 
-pr-br	vejo que dorme na minha poltrona e vê o meu Cinemax. 
+pt	a adormecer na minha cadeira, a ver o meu Cinemax. 
+pt-br	vejo que dorme na minha poltrona e vê o meu Cinemax. 
 ro	te văd cum adormi în scaunul meu, cum te uiți la Cinemaxul meu. 
 sv	Jag ser dig somna i min stol när du kollar mitt Cinemax. 
 th	เห็นคุณหลับบนเก้าอี้ผม | ดูช่องซีเนแมกซ์ของผม | 

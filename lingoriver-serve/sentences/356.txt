@@ -15,8 +15,8 @@ it	L'aurora boreale è bella, ma io parlavo dell'hamburger.
 nl	Het noorderlicht is mooi. Maar ik bedoelde de hamburger. 
 no	Nordlyset var fint, men jeg snakket om burgeren. 
 pl	Zorza jest fajna, ale ja mówiłem o burgerze. 
-pr	A aurora boreal é incrível. Mas estava a falar do hambúrguer. 
-pr-br	Aurora boreal é demais. Mas eu estava falando do hambúrguer. 
+pt	A aurora boreal é incrível. Mas estava a falar do hambúrguer. 
+pt-br	Aurora boreal é demais. Mas eu estava falando do hambúrguer. 
 ro	Aurora boreală e specială. Eu mă refeream la hamburger. 
 sv	Norrskenet är bra, men jag pratade om hamburgaren. 
 th	แสงเหนือก็ใช่ | แต่ผมพูดถึงเบอร์เกอร์น่ะ | 

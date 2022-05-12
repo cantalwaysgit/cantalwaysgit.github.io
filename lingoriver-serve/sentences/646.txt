@@ -1,7 +1,7 @@
 en	Uh, then I forgot. | 
 ja	忘れた | 
 ru	Но забыл. 
-pr-br	Mas depois esqueci. 
+pt-br	Mas depois esqueci. 
 ar	&rlm;‏ثم نسيت.‏ | 
 el	Και μετά το ξέχασα. 
 es	Luego lo olvidé. 
@@ -12,7 +12,7 @@ it	...ma mi sono dimenticato.
 nl	En ik vergat het. 
 no	Så glemte jeg det. 
 pl	Ale zapomniałem. 
-pr	E depois esqueci-me. 
+pt	E depois esqueci-me. 
 ro	Apoi am uitat. 
 sv	Sen så glömde jag. 
 th	แล้วผมก็ลืม | 

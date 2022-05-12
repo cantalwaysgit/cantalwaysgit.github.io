@@ -11,7 +11,7 @@ fr	- C'est bon, Sandy ? - Nickel.
 he	&rlm;‏‏אתה בסדר, סנדי? | &rlm;‏-מרגיש בנוח.‏ | 
 it	- Tutto bene, Sandy? - Perfetto. 
 nl	Gaat het, Sandy? -Prima. 
-pr	- Estás bem, Sandy? - Confortável. 
+pt	- Estás bem, Sandy? - Confortável. 
 ro	- Te simți bine, Sandy? - Confortabil. 
 th	- โอเคไหม แซนดี้ | - สบายดี | 
 tr	-İyi misin Sandy? -Sorun yok. 
@@ -20,7 +20,7 @@ zh-long	-山迪，還好嗎？ -好得很
 zh-short	-你还好吧 桑迪？ -非常好 
 no	-Går det bra, Sandy? -Behagelig. 
 pl	- W porządku? - Jak najbardziej. 
-pr-br	-Está tudo bem, Sandy? -À vontade. 
+pt-br	-Está tudo bem, Sandy? -À vontade. 
 sv	-Mår du bra, Sandy? -Förträffligt. 
 ko	- 괜찮으세요? | - 아주 좋아 | 
 fi	-Onko kaikki hyvin? -Oikein mukavasti. 

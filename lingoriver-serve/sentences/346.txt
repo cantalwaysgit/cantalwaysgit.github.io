@@ -13,8 +13,8 @@ ko	칼로 긋다니요? | 난 여기 직원이에요 |
 nl	Je neersteken? Ik ben geen gevangene. Ik werk hier. De nachtdienst. 
 no	Jeg er ikke innsatt. Jeg jobber her. Nattevakt. 
 pl	Kosy? Nie jestem więźniem. Ja tu pracuję, człowieku. 
-pr-br	Apunhalá-lo? Cara, não sou detento. Trabalho aqui. Faço o turno noturno. 
-pr	Esfaqueá-lo? Eu não sou recluso. Trabalho aqui. Faço o turno da noite. 
+pt-br	Apunhalá-lo? Cara, não sou detento. Trabalho aqui. Faço o turno noturno. 
+pt	Esfaqueá-lo? Eu não sou recluso. Trabalho aqui. Faço o turno da noite. 
 ro	Să te tai? Amice, nu sunt deținut. Lucrez aici. Sunt în tura de noapte. 
 ru	Заточкой? Я не заключенный. Я тут работаю. В ночную смену. 
 sv	Knivhugga? Jag är ingen intern. Jag jobbar här, jag har nattskiftet. 

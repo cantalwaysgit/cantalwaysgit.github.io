@@ -12,8 +12,8 @@ he	&rlm;‏‏אני מתנצל בפני הבגדים שלי | &rlm;‏אם אנ
 it	E mi scuso con i miei vestiti quando non li indosso. 
 no	Jeg sier unnskyld til klærne mine om jeg ikke bruker dem. 
 pl	Przepraszam swoje ubrania, jeśli ich nie noszę. 
-pr-br	Peço perdão às minhas roupas se não as uso. 
-pr	E peço desculpa às minhas roupas se não as usar. 
+pt-br	Peço perdão às minhas roupas se não as uso. 
+pt	E peço desculpa às minhas roupas se não as usar. 
 ro	Îmi cer scuze hainelor mele, dacă nu le port. 
 sv	Jag ber mina kläder om ursäkt när jag inte bär dem. 
 th	ผมขอโทษเสื้อผ้าที่ไม่ได้ใส่ | 

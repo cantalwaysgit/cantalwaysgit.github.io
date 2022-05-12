@@ -15,8 +15,8 @@ ko	방금은 ‘타임스’의 | 재닛 매슬린이었어요 |
 nl	Dat was Janet Maslin van de  Times. 
 no	Det var Janet Maslin fra  The Times. 
 pl	To tylko Janet Maslin z  Timesa. 
-pr-br	Era a Janet Maslin do  Times. 
-pr	Era a Janet Maslin, do  Times. 
+pt-br	Era a Janet Maslin do  Times. 
+pt	Era a Janet Maslin, do  Times. 
 ro	Era Janet Maslin de la  Times. 
 sv	Det där var Janet Maslin från  Times. 
 th	นั่นเจเนต มัสลินจากไทมส์ | 

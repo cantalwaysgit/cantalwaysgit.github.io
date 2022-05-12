@@ -15,8 +15,8 @@ ko	- 그러면 그냥 잊은 거네? | - 네 |
 nl	Dus het is meer dan misschien. Je vergat het? 
 no	-Så du glemte det virkelig? -Ja. 
 pl	- Czyli to bardzo możliwe. Zapomniałeś? - Tak. 
-pr-br	-Então é mais do que "pode ser". Esqueceu? -Sim. 
-pr	- Não é só possível. Esqueceste mesmo. - Sim. 
+pt-br	-Então é mais do que "pode ser". Esqueceu? -Sim. 
+pt	- Não é só possível. Esqueceste mesmo. - Sim. 
 ro	- E mai mult decât probabil. Ai uitat? - Da. 
 sv	-Så det är mer än en risk. Du glömde? -Ja. 
 th	- งั้นก็มีมากกว่าโอกาส คุณลืมใช่ไหม | - ครับ | 

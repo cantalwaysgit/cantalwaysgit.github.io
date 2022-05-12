@@ -11,8 +11,8 @@ it	Quando mi hai trovato
 ko	당신이 그때 날 찾았어 | 
 nl	toen vond jij me 
 pl	Tam mnie znalazłeś 
-pr-br	Foi quando você me encontrou 
-pr	Foi então que me encontraste 
+pt-br	Foi quando você me encontrou 
+pt	Foi então que me encontraste 
 ro	Atunci m-ai găsit tu 
 sv	Det var då du hittade mig 
 tr	Beni buldun o günlerde 

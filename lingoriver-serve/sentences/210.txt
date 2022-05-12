@@ -14,8 +14,8 @@ ko	웨스 크레이븐 영화의 | 매춘부 오디션 아니었어요? |
 nl	Ik zou toch auditie doen voor de rol van een hoer in een Wes Craven-film? 
 no	Jeg trodde rollen var hore i en Wes Craven-film. 
 pl	Co takiego? To miała być rola dziwki w filmie Wesa Cravena. 
-pr-br	Achei que o teste fosse para interpretar uma prostituta num filme de Wes Craven. 
-pr	Pensava que ia fazer uma audição para prostituta num filme do Wes Craven. 
+pt-br	Achei que o teste fosse para interpretar uma prostituta num filme de Wes Craven. 
+pt	Pensava que ia fazer uma audição para prostituta num filme do Wes Craven. 
 ro	Parcă trebuia să iau rolul unei prostituate într-un film de Wes Craven! 
 sv	Jag trodde att jag skulle provspela som hora i en Wes Craven-film. 
 th	ฉันนึกว่าไปคัดเล่นบทโสเภณี | ในหนังของเวส เครเวน | 

@@ -12,8 +12,8 @@ he	&rlm;‏עשיתי קעקוע.‏ |
 it	Mi sono fatto un tatuaggio. 
 ko	문신 하나 새겼어 | 
 pl	Zrobiłem sobie tatuaż. 
-pr-br	Eu fiz uma tatuagem. 
-pr	Pois, fiz uma tatuagem. 
+pt-br	Eu fiz uma tatuagem. 
+pt	Pois, fiz uma tatuagem. 
 ro	M-am tatuat. 
 sv	Jag har tatuerat mig. 
 th	ผมไปสักมาน่ะ | 
@@ -34,8 +34,8 @@ he	&rlm;‏מה עשית?‏ |
 it	Di che tipo? 
 ko	어떤 거로요? | 
 pl	Jaki? 
-pr-br	O que fez? 
-pr	De quê? 
+pt-br	O que fez? 
+pt	De quê? 
 ro	Cu ce? 
 sv	Vadå för nåt? 
 th	สักลายอะไรล่ะ | 
@@ -60,8 +60,8 @@ he	&rlm;‏נשיכה של כלב.‏ |
 it	È il morso di un cane. 
 nl	Een soort hondenbeet. 
 pl	Ugryzienia psa. 
-pr-br	Uma mordida de cachorro. 
-pr	É uma tatuagem de mordidela de cão. 
+pt-br	Uma mordida de cachorro. 
+pt	É uma tatuagem de mordidela de cão. 
 ro	Cu mușcătura unui câine. 
 sv	Det är ett hundbett. 
 th	เป็นรอยหมากัด | 

@@ -14,8 +14,8 @@ ko	멀리 치면 재미있으니 | 긴 막대로 칠게 |
 nl	Ik gebruik de lange club, want ver slaan is leuk. 
 no	Jeg bruker den store pinnen, for det er gøy å slå langt. 
 pl	Wezmę ten duży. Nim najdalej leci. 
-pr-br	Vou usar o taco longo porque é divertido arremessar longe. 
-pr	Pego no taco grande porque é divertido bater para longe. 
+pt-br	Vou usar o taco longo porque é divertido arremessar longe. 
+pt	Pego no taco grande porque é divertido bater para longe. 
 ro	O să iau crosa mare, e distractiv să le trimiți departe. 
 sv	Jag tar stora klubban, för det är kul att skjuta långt. 
 th	ผมจะใช้หัวไม้ใหญ่ | เพราะสนุกดีที่ได้ตีไกลๆ | 

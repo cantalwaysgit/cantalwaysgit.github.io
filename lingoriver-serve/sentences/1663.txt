@@ -9,8 +9,8 @@ he	&rlm;‏תאכלו את הצלעות האלה, חבר'ה.‏ |
 it	Godetevi le costolette. 
 nl	Eet die ribbetjes op, jongens. 
 pl	Wcinajcie sobie, chłopcy. 
-pr-br	Comam todas as costelinhas, meninos. 
-pr	Comam as costeletas, meninos. 
+pt-br	Comam todas as costelinhas, meninos. 
+pt	Comam as costeletas, meninos. 
 sv	Käka upp revbensspjällen! 
 tr	Kaburgalara yumulun çocuklar. 
 vi	Chúng mày ăn hết chỗ sườn heo nướng đó đi. | 

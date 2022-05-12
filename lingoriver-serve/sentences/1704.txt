@@ -13,8 +13,8 @@ it	- Chris Cornell. - George Clooney.
 ko	- 크리스 코넬 | - 조지 클루니 | 
 nl	Chris Cornell. -Clooney. 
 no	-Chris Cornell. -Clooney. 
-pr-br	-Chris Cornell. -George Clooney. 
-pr	- Chris Cornell. - George Clooney. 
+pt-br	-Chris Cornell. -George Clooney. 
+pt	- Chris Cornell. - George Clooney. 
 ro	- Chris Cornell. - George Clooney. 
 sv	-Chris Cornell. -Clooney. 
 th	- คอร์เนลล์ | - คลูนีย์ | 

@@ -12,8 +12,8 @@ it	Ma che vuol dire? Come faccio a scoprirmi da solo?
 ko	그게 무슨 뜻이야? | 자신을 어떻게 발굴해? | 
 nl	Wat bedoel je? Hoe kan ik mezelf ontdekken? 
 pl	Co to w ogóle znaczy? Jak mam odkryć sam siebie? 
-pr-br	O que isso significa? Como vou me descobrir? 
-pr	O que significa isso? Como é que eu me descubro? 
+pt-br	O que isso significa? Como vou me descobrir? 
+pt	O que significa isso? Como é que eu me descubro? 
 ro	Ce mai înseamnă și asta? Cum să mă descopăr singur? 
 sv	Vad betyder det? Hur upptäcker jag mig själv? 
 th	แล้วนั่นมันหมายความว่าอะไร | ฉันจะค้นพบตัวเองได้ยังไง | 

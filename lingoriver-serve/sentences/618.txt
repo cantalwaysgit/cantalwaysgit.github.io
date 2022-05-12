@@ -14,8 +14,8 @@ ko	- 샌디는 정말... | - 진지 대마왕이야 |
 nl	Hij is zo'n... -Blije eikel? 
 no	-Han er... -En dust? 
 pl	- Ale z niego... - Pajac. 
-pr-br	-Cara, ele é um... -Cara de cuíca. 
-pr	- Ele é tão... - Palerma? 
+pt-br	-Cara, ele é um... -Cara de cuíca. 
+pt	- Ele é tão... - Palerma? 
 ro	- E atât de... - Năuc? 
 sv	-Han är så... -Överentusiastisk? 
 th	- เขาช่าง... | - น่าเกลียดงี่เง่า | 

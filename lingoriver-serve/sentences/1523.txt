@@ -12,8 +12,8 @@ he	&rlm;‏נפרדתי מבילי.‏ |
 it	Ho rotto con Billy. 
 no	Jeg slo opp med Billy. 
 pl	Zerwałam z Billym. 
-pr-br	Terminei com o Billy. 
-pr	Terminei tudo com o Billy. 
+pt-br	Terminei com o Billy. 
+pt	Terminei tudo com o Billy. 
 ro	M-am despărțit de Billy. 
 th	ฉันเพิ่งเลิกกับบิลลี่ | 
 tr	Billy'den ayrıldım. 

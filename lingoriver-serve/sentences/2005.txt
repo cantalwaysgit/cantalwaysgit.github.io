@@ -1,7 +1,7 @@
 id	mungkin aku bisa mencari tahu hal yang benar-benar ingin didengar orang. 
 ru	возможно, я узнаю, что они на самом деле хотят слышать. 
 ja	そのほうが | 相手は喜ぶのかもって | 
-pr-br	talvez eu descobrisse que é isso que as pessoas querem ouvir de verdade. 
+pt-br	talvez eu descobrisse que é isso que as pessoas querem ouvir de verdade. 
 sv	så kanske jag upptäcker att det är vad folk faktiskt vill höra. 
 ar	&rlm;‏فقد أكتشف أنه ما أراد الناس سماعه فعلاً.‏ | 
 da	så finder jeg måske ud af, at det er, hvad folk ville høre. 
@@ -17,7 +17,7 @@ ko	다들 진짜 듣고 싶어 했던 걸 | 알아낼 수 있지 않을까 싶�
 nl	...dat misschien is wat mensen echt willen horen. 
 no	...viser det seg kanskje at det er det folk faktisk vil høre. 
 pl	dowiem się, co ludzie naprawdę chcą usłyszeć. 
-pr	talvez descobrisse que é isso que as pessoas querem ouvir. 
+pt	talvez descobrisse que é isso que as pessoas querem ouvir. 
 ro	voi afla că asta vrea lumea să audă. 
 th	ผมอาจจะค้นพบว่าจริงๆ แล้ว | คนเขาอยากได้ยินอะไร | 
 tr	belki insanların gerçekten duymak istediklerinin bu olduğunu görürüm. 

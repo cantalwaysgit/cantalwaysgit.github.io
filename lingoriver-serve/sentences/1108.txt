@@ -13,8 +13,8 @@ it	Pensi di poterti nascondere?
 nl	Denk je je te kunnen verstoppen? 
 no	Tror du at du kan gjemme deg? 
 pl	Myślisz, że się ukryjesz? 
-pr	Achas que te podes esconder? 
-pr-br	Quê? Acha que pode se esconder? 
+pt	Achas que te podes esconder? 
+pt-br	Quê? Acha que pode se esconder? 
 ro	Ce e? Crezi că te poți ascunde? 
 sv	Vadå? Tror du att du kan gömma dig? 
 th	อะไร คิดว่าจะหลบซ่อนได้เรอะ | 

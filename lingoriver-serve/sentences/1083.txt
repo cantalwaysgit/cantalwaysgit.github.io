@@ -11,8 +11,8 @@ he	&rlm;‏קורטני!‏ |
 it	Courtney! 
 ko	좋아요, 코트니! | 
 pl	Courtney! 
-pr-br	Courtney! 
-pr	Courtney! 
+pt-br	Courtney! 
+pt	Courtney! 
 ro	Courtney! 
 sv	Courtney! 
 tr	Courtney! 

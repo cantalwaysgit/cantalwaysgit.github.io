@@ -13,8 +13,8 @@ it	Non sono felice se tu non sei felice, ecco la verità.
 ko	사실 자네가 행복하지 않으면 | 나도 행복하지 않아 | 
 nl	Ik ben pas blij als jij blij bent. 
 pl	Nie jestem szczęśliwy, jeśli ty też nie jesteś. 
-pr-br	A verdade é que só fico feliz se você estiver feliz. 
-pr	Na verdade, só estou feliz se tu estiveres. 
+pt-br	A verdade é que só fico feliz se você estiver feliz. 
+pt	Na verdade, só estou feliz se tu estiveres. 
 ro	Adevărul e că eu nu sunt mulțumit dacă nu ești și tu. 
 sv	Sanningen är att jag inte är nöjd om inte du är det. 
 th	ความจริงคือ ผมไม่แฮปปี | ถ้าคุณไม่แฮปปี | 

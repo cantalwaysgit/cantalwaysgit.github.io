@@ -10,7 +10,7 @@ id	Tarik investasimu dari Apple karena tak ada lagi yang memakai Macintosh.
 it	Vendi le Apple, perché il Macintosh è un fiasco. 
 ko	애플 주식 다 팔아 | 요즘 매킨토시 안 쓰잖아 | 
 no	Ta alle pengene dine ut av Apple, for ingen bruker Macintosh. 
-pr	Tira o teu dinheiro todo da Apple porque já ninguém usa o Macintosh. 
+pt	Tira o teu dinheiro todo da Apple porque já ninguém usa o Macintosh. 
 ru	Продай акции «Эппл». «Макинтоши» никому не нужны. 
 th	ถอนเงินทั้งหมดออกจากแอปเปิล | เพราะไม่มีใครใช้แมคคินทอชแล้ว | 
 vi	Bán tháo mã Apple đi, | vì chẳng ai dùng Macintosh nữa. | 

@@ -13,8 +13,8 @@ it	Dobbiamo trovare quella che comunica il messaggio giusto:
 ko	제대로 된 메시지를 전달하는 | 사진을 찾아야 해요 | 
 nl	We moeten de foto vinden met de boodschap: 
 pl	Musimy znaleźć takie, które mówi: 
-pr-br	Temos que achar a que expressa a mensagem certa: 
-pr	Temos de encontrar aquela que passa a mensagem certa: 
+pt-br	Temos que achar a que expressa a mensagem certa: 
+pt	Temos de encontrar aquela que passa a mensagem certa: 
 ro	Trebuie să găsim una care să transmită mesajul potrivit: 
 th	เราต้องหาภาพที่แสดงความหมายที่เหมาะ | 
 tr	Doğru mesajı ifade edeni bulmalıyız. 

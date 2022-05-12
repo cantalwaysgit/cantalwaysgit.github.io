@@ -12,8 +12,8 @@ he	&rlm;‏איך אני נראה?‏ |
 it	Come sto? 
 ko	어때 보여? | 
 pl	Jak wyglądam? 
-pr-br	Como estou? 
-pr	Como estou? 
+pt-br	Como estou? 
+pt	Como estou? 
 ro	Cum îmi stă? 
 sv	Hur ser jag ut? 
 th	ฉันเป็นไง | 
@@ -38,8 +38,8 @@ fr	Je dois avouer que oui.
 he	&rlm;‏אתה למעשה נראה טוב.‏ | 
 it	Decisamente bene. 
 pl	Nawet dobrze. 
-pr-br	Você está ótimo. 
-pr	Por acaso, estás muito bem. 
+pt-br	Você está ótimo. 
+pt	Por acaso, estás muito bem. 
 ro	De fapt, îți stă chiar bine. 
 sv	Du ser faktiskt bra ut. 
 th	จริงๆ แล้วคุณดูดีมาก | 

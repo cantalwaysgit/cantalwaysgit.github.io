@@ -14,8 +14,8 @@ it	L'ho fatto apposta per fare uno scherzo.
 ko	이번엔 일부러 한 거야 | 장난이라고 | 
 no	Den gangen var med vilje. En spøk. 
 pl	Teraz było specjalnie. Taki żarcik. 
-pr-br	Dessa vez eu fiz de propósito. Para brincar. 
-pr	Desta vez foi de propósito. Era uma piada. 
+pt-br	Dessa vez eu fiz de propósito. Para brincar. 
+pt	Desta vez foi de propósito. Era uma piada. 
 ro	Am făcut-o intenționat de data asta. Am glumit. 
 sv	Nu gjorde jag det med flit. Ett skämt. 
 th	ครั้งนี้ตั้งใจทำ ล้อเล่นน่ะ | 
@@ -39,8 +39,8 @@ he	&rlm;‏אני לא יכול לצחוק, חבר'ה? בחייכם.‏ |
 it	Non posso fare uno scherzo, ragazzi? Dai. 
 no	Får jeg ikke lov til å spøke? Kom igjen. 
 pl	No co? Żartować już nie wolno? 
-pr-br	Não posso brincar, pessoal? Qual é? 
-pr	Não posso fazer piadas? Vá lá. 
+pt-br	Não posso brincar, pessoal? Qual é? 
+pt	Não posso fazer piadas? Vá lá. 
 ro	Nu pot glumi și eu? Să fim serioși! 
 sv	Får jag inte skämta? Kom igen. 
 th	ล้อเล่นไม่ได้เหรอ ไม่เอาน่า | 

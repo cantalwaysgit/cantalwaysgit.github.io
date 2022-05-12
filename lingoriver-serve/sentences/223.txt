@@ -13,8 +13,8 @@ ko	- 할리우드의 왕이시잖아요 | - 그런 말 한 적 없어 |
 nl	Je bent de koning van Hollywood. -Heb ik nooit gezegd. 
 no	-Du er kongen av Hollywood. -Det har jeg aldri sagt. 
 pl	- Jesteś królem Hollywoodu. - Pierwsze słyszę. 
-pr-br	-É o rei de Hollywood. -Eu nunca disse isso. 
-pr	- Pensava que eras o rei de Hollywood. - Nunca disse isso. 
+pt-br	-É o rei de Hollywood. -Eu nunca disse isso. 
+pt	- Pensava que eras o rei de Hollywood. - Nunca disse isso. 
 ro	- Ești regele Hollywoodului. - N-am zis niciodată asta. 
 ru	-Вы же король Голливуда. -Я этого не говорил. 
 sv	-Du är ju kungen av Hollywood. -Har jag aldrig sagt. 

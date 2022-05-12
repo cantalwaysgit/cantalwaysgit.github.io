@@ -13,8 +13,8 @@ it	Sì, mi hanno trovato.
 ko	그래, 찾았어 | 
 no	Ja, de fant meg. 
 pl	Znaleźli. 
-pr-br	Sim, eles me encontraram. 
-pr	Sim, encontraram. 
+pt-br	Sim, eles me encontraram. 
+pt	Sim, encontraram. 
 ro	Normal că m-au găsit. 
 sv	Ja, de hittade mig. 
 th	ใช่ พวกเขาตามผมเจอ | 
@@ -38,8 +38,8 @@ he	&rlm;‏פשוט תישארי במקום, בסדר? תישארי כאן.‏ |
 it	Tu non ti muovere, d'accordo? Resta lì. 
 no	Bare vent her. Bli der. 
 pl	Zostań. Nie ruszaj się stąd. 
-pr-br	Fique aí. Não saia daí. 
-pr	Não saias daí, está bem? Fica aí. 
+pt-br	Fique aí. Não saia daí. 
+pt	Não saias daí, está bem? Fica aí. 
 ro	Tu rămâi acolo, da? Nu te mișca. 
 sv	Ta det lugnt bara. Stanna där du är. 
 th	อยู่ตรงนี้ เข้าใจไหม อยู่ตรงนี้นะ | 

@@ -11,8 +11,8 @@ he	&rlm;‏‏אתה רוצה שאספר את הבדיחות האלה | &rlm;‏
 it	Dovrei dire quelle battute ai Grammy del prossimo anno? 
 nl	Wil je dat ik deze grappen doe tijdens de Grammy's van volgend jaar? 
 pl	Mam za rok opowiedzieć te same dowcipy? 
-pr-br	Quer que eu conte essas piadas no Grammy do ano que vem? 
-pr	Queres que eu conte as mesmas piadas nos Grammy do ano que vem? 
+pt-br	Quer que eu conte essas piadas no Grammy do ano que vem? 
+pt	Queres que eu conte as mesmas piadas nos Grammy do ano que vem? 
 ro	Vrei să spun bancurile pe care le zice el, la ceremonia de anul viitor? 
 ru	Ты хочешь, чтобы я рассказывал это на будущем «Грэмми»? 
 sv	Vill du att jag ska köra de här skämten på nästa års Grammy-gala? 

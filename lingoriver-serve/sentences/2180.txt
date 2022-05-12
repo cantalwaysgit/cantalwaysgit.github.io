@@ -14,8 +14,8 @@ it	- Beavis vuole dirti una cosa. - D'accordo.
 ko	- 비비스가 할 말이 있대요 | - 알았어 | 
 nl	Beavis wil iets zeggen. 
 no	-Beavis vil si noe, sir. -Ok. 
-pr-br	-Beavis quer dizer uma coisa, senhor. -Está bem. 
-pr	- O Beavis quer dizer uma coisa. - Está bem. 
+pt-br	-Beavis quer dizer uma coisa, senhor. -Está bem. 
+pt	- O Beavis quer dizer uma coisa. - Está bem. 
 ro	- Beavis vrea să zică ceva, domnule. - Bine. 
 sv	-Beavis vill säga en sak. -Okej. 
 th	- บีวิสอยากพูดอะไรหน่อย | - โอเค | 

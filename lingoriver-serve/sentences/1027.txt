@@ -15,8 +15,8 @@ ko	코트니, 내가 제일 좋아하는 | 도메인 오트 반돌 로제예요 
 nl	Domaines Ott Bandol Rosé. Mijn favoriet. 
 no	Og nå, Courtney, Domaines Ott Bandol Rosé. Favoritten min. 
 pl	To jest Domaines Ott Bandol Rosé. Moje ulubione. 
-pr-br	Courtney, Domaines Ott Bandol Rosé. Meu preferido. 
-pr	Muito bem, Courtney. Domaines Ott Bandol Rosé. O meu preferido. 
+pt-br	Courtney, Domaines Ott Bandol Rosé. Meu preferido. 
+pt	Muito bem, Courtney. Domaines Ott Bandol Rosé. O meu preferido. 
 ro	Courtney, ăsta e Domaines Ott Bandol Rosé. E preferatul meu. 
 sv	Nu, Courtney, det är Domaines Ott Bandol Rosé. Min favorit. 
 th	โอเค ทีนี้นะ คอร์ทนี่ย์ | โดเมนส์ออตบันโดลโรเซ่ ไวน์โปรดของผม | 

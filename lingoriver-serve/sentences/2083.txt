@@ -10,8 +10,8 @@ it	Grandioso. Mi ha scritturato per lavorare in una tenda.
 nl	Fantastisch. Hij boekte me in een tent. 
 no	Dette er fantastisk. Han booket meg i et telt. 
 pl	Fantastycznie. Mam zlecenie w namiocie. 
-pr-br	Isso é fantástico. Ele me agendou trabalho em uma tenda, é isso aí. 
-pr	Fantástico. Pôs-me numa tenda. É isso que isto é. 
+pt-br	Isso é fantástico. Ele me agendou trabalho em uma tenda, é isso aí. 
+pt	Fantástico. Pôs-me numa tenda. É isso que isto é. 
 ro	E grozav! M-a trimis să-mi fac numărul într-un cort. 
 sv	Det är fantastiskt. Han bokade mig i ett tält. 
 th	นี่มันยอดเยี่ยม เขาจองผมให้มาพูด | ในเต็นท์ ซึ่งก็เป็นอย่างที่เป็น | 

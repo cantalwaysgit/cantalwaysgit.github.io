@@ -13,8 +13,8 @@ ko	맞아요, 좋습니다 |
 nl	Je hebt gelijk. 
 no	Du har rett. Ok. 
 pl	Macie rację. 
-pr-br	Você tem razão. Está bem. 
-pr	Têm razão. Pronto. 
+pt-br	Você tem razão. Está bem. 
+pt	Têm razão. Pronto. 
 ro	Așa e. Bine. 
 ru	Ты прав. Да. 
 sv	Ni har rätt. Okej. 

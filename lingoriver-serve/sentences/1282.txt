@@ -8,8 +8,8 @@ es	ROLLING STONE REINA COURTNEY
 fi	KUNINGATAR COURTNEY 
 he	&rlm;‏‏- רולינג סטון | &rlm;‏המלכה קורטני -‏ | 
 it	COURTNEY LA REGINA 
-pr	A RAINHA COURTNEY 
-pr-br	RAINHA COURTNEY 
+pt	A RAINHA COURTNEY 
+pt-br	RAINHA COURTNEY 
 sv	DROTTNING COURTNEY 
 th	(โรลลิ่งสโตน | ราชินีคอร์ทนี่ย์) | 
 tr	KRALİÇE COURTNEY 

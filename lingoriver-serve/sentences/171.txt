@@ -16,8 +16,8 @@ ko	그건 놓치고 싶지 않아 |
 nl	Dat wil ik niet kwijt. 
 no	Jeg vil ikke miste det. 
 pl	Nie chcemy tego stracić. 
-pr-br	Não quero perder isso. 
-pr	Não quero perder isso. 
+pt-br	Não quero perder isso. 
+pt	Não quero perder isso. 
 ro	Nu vreau să renunțăm la el. 
 tr	Bunu kaybetmek istemem. 
 vi	Tôi không muốn bỏ lỡ nó. | 
@@ -40,8 +40,8 @@ ko	다음 단계로 | 넘어갈 때인 것 같아 |
 nl	Misschien is het tijd voor de volgende stap. 
 no	Det kan være på tide å ta det videre. 
 pl	Pora na kolejny krok. 
-pr-br	Talvez seja hora de subir o nível. 
-pr	Talvez esteja na hora de avançar para o nível seguinte. 
+pt-br	Talvez seja hora de subir o nível. 
+pt	Talvez esteja na hora de avançar para o nível seguinte. 
 ro	Ar fi momentul să mai facem un pas. 
 th	อาจถึงเวลาขยับขึ้นอีกขั้นแล้ว | 
 tr	Bir sonraki seviyeye geçme vakti gelmiş olabilir. 

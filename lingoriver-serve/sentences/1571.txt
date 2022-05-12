@@ -1,5 +1,5 @@
 ru	Ну... 
-pr-br	Vamos dar adeus a todos os nossos problemas. 
+pt-br	Vamos dar adeus a todos os nossos problemas. 
 ar	&rlm;‏لنودع جميع مشاكلنا، موافقة؟‏ | 
 da	Lad os bare sige farvel til alle vores problemer. 
 el	Ας αποχαιρετήσουμε όλα μας τα προβλήματα, εντάξει; 
@@ -14,7 +14,7 @@ ko	우리의 모든 문제에 | 작별을 고하자, 알았지? |
 nl	We vergeten al onze problemen, oké? 
 no	Si farvel til alle våre problemer, ok? 
 pl	Odkładamy na bok wszelkie troski. 
-pr	Vamos dizer adeus a todos os nossos problemas, está bem? 
+pt	Vamos dizer adeus a todos os nossos problemas, está bem? 
 ro	Să ne luăm adio de la toate necazurile noastre, da? 
 sv	Nu säger vi farväl till våra problem. 
 th	มาบอกลาปัญหาทั้งหมด โอเคไหม | 

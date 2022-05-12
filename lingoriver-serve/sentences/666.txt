@@ -13,8 +13,8 @@ he	&rlm;‏‏אני חולמת עליו | &rlm;‏ובלילות כשאני ל�
 it	...che sogno E nelle notti che passo da sola 
 nl	waar ik van droom en 's nachts als ik alleen ben 
 pl	O tobie marzę A samotną nocą 
-pr-br	E eu sonho com você Todas as noites quando estou sozinha 
-pr	Que sonho E nas noites em que estou só 
+pt-br	E eu sonho com você Todas as noites quando estou sozinha 
+pt	Que sonho E nas noites em que estou só 
 ro	Visez Iar în serile în care sunt singură 
 sv	Jag drömmer om Och alla ensamma nätter 
 th	ที่ฉันฝันถึง | และในค่ำคืนที่ฉันเดียวดาย | 

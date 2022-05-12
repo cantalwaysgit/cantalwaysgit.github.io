@@ -15,8 +15,8 @@ ko	심판이 우리 고객이야 | 동료끼리 서로 봐줘야지 |
 nl	De scheidsrechter is een cliënt en Wexler Artists zorgen voor elkaar. 
 no	Dommeren er en klient. Wexler Artists passer på hverandre. 
 pl	Sędzia to mój klient, a w Wexler Artists sobie pomagamy. 
-pr-br	O árbitro é um cliente e um cuida do outro na Artistas Wexler. 
-pr	O árbitro é um cliente e na Wexler Artists olhamos uns pelos outros. 
+pt-br	O árbitro é um cliente e um cuida do outro na Artistas Wexler. 
+pt	O árbitro é um cliente e na Wexler Artists olhamos uns pelos outros. 
 ro	Arbitrul lor ne e client, iar la Wexler Artists avem grijă unul de celălalt. 
 sv	Domaren är en klient och Wexler Artists månar om varandra. 
 th	กรรมการเป็นลูกค้าคนหนึ่ง | เวกซเลอร์อาร์ทิสต์สดูแลกันและกัน | 

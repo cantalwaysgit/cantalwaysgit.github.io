@@ -12,7 +12,7 @@ ko	이거 놔 |
 nl	Laat me met rust. 
 no	Slipp meg. 
 pl	Zostaw mnie. 
-pr	Larga-me. 
+pt	Larga-me. 
 ro	Lasă-mă! 
 sv	Släpp mig. 
 th	อย่ามายุ่งกับฉัน | 
@@ -20,7 +20,7 @@ tr	Çekilin başımdan.
 vi	Bỏ tôi ra. | 
 zh-long	放開我 
 zh-short	别碰我 
-pr-br	Me soltem. 
+pt-br	Me soltem. 
 ru	Отстаньте. 
 id	Menjauhlah. 
 ja	触るな | 

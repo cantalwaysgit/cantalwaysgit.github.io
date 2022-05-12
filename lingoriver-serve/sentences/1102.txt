@@ -11,8 +11,8 @@ he	&rlm;‏אתה אוהב את זה?‏ |
 it	Ti piace? 
 no	Liker du det? 
 pl	Podoba ci się? 
-pr-br	Gosta disso? 
-pr	Gostas disto? 
+pt-br	Gosta disso? 
+pt	Gostas disto? 
 ro	Îți place asta? 
 sv	Gillar du den? 
 th	ชอบนี่ไหมล่ะ | 

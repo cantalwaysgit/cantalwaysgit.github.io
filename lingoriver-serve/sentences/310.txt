@@ -12,8 +12,8 @@ it	Stai scherzando?
 ko	장난해요? | 
 no	Tuller du? 
 pl	Żartujesz? 
-pr-br	Está brincando? 
-pr	Estás a brincar? 
+pt-br	Está brincando? 
+pt	Estás a brincar? 
 ro	Glumești? 
 ru	Серьезно? 
 sv	Skämtar du? 
@@ -37,8 +37,8 @@ it	Ho passato tutta l'infanzia in prigione.
 ko	전 어린 시절 내내 | 감옥에 있었어요 | 
 no	Jeg tilbrakte hele barndommen i fengsel. 
 pl	Całe dzieciństwo spędziłem w więzieniu. 
-pr-br	Fiquei na cadeia toda a minha infância. 
-pr	Eu passei a infância na prisão. 
+pt-br	Fiquei na cadeia toda a minha infância. 
+pt	Eu passei a infância na prisão. 
 ro	Am stat la închisoare toată copilăria. 
 sv	Jag satt i fängelse hela barndomen. 
 th	ผมอยู่ในคุกตลอดช่วงวัยเด็ก | 

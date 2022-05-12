@@ -13,8 +13,8 @@ he	&rlm;‏‏זה בשביל נוכחות בימתית. | &rlm;‏-מספיק.�
 it	- Devi saper stare sul palco. - Basta. 
 nl	Het gaat om hoe je je presenteert. 
 no	-Det handler om utstråling... -Nok nå. 
-pr-br	-Tem a ver com presença no palco. -Basta. 
-pr	- Tem que ver com presença em palco. - Chega. 
+pt-br	-Tem a ver com presença no palco. -Basta. 
+pt	- Tem que ver com presença em palco. - Chega. 
 ro	- Contează prezența pe scenă. - Destul! 
 th	- มันเกี่ยวกับการวางท่าบนเวที | - พอแล้ว | 
 tr	-Sahnede kendini göstermen için. -Yeter. 

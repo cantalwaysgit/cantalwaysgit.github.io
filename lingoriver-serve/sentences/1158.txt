@@ -11,8 +11,8 @@ it	Ah, sì? Bene. Buon per te.
 ko	그래? 잘했네 | 
 nl	O, ja? Goed van je. 
 pl	Naprawdę? To bardzo dobrze. 
-pr	A sério? Boa. Ainda bem para ti. 
-pr-br	Já? Ótimo. Bom para você. 
+pt	A sério? Boa. Ainda bem para ti. 
+pt-br	Já? Ótimo. Bom para você. 
 ro	Da? Bravo ție! 
 sv	Har du? Det låter ju bra. 
 tr	Öyle mi? Güzel. Aferin sana. 

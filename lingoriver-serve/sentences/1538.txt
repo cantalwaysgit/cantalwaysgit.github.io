@@ -11,8 +11,8 @@ it	Cerca di non assomigliare a Michael Jackson.
 ko	마이클 잭슨처럼 안 보이게 | 위장하거든 | 
 nl	Hij ziet er gewoon niet uit als Michael Jackson. 
 pl	Nie wygląda wtedy jak Michael Jackson. 
-pr-br	Ele não se parece com o Michael Jackson. 
-pr	Não se parece com o Michael Jackson. 
+pt-br	Ele não se parece com o Michael Jackson. 
+pt	Não se parece com o Michael Jackson. 
 ro	Dar nu seamănă cu Michael Jackson. 
 sv	Han ser inte ut som Michael Jackson. 
 th	เขาแค่ดูไม่เหมือนไมเคิล แจ็คสัน | 

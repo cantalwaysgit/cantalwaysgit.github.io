@@ -13,8 +13,8 @@ he	&rlm;‏‏אחריך, מחטב ירכיים. | &rlm;‏-היי! חכי רג�
 it	- Ti seguo, ThighMaster. - Ehi! Aspetta un minuto. 
 no	-Vis vei, ThighMaster. -Hei! Vent nå litt. 
 pl	- Prowadź, Thighmasterze. - Wypraszam sobie. 
-pr-br	-Você na frente, bunda sarada. -Ei! Espere aí. 
-pr	- Vai à frente, nádegas firmes. - Espera lá. 
+pt-br	-Você na frente, bunda sarada. -Ei! Espere aí. 
+pt	- Vai à frente, nádegas firmes. - Espera lá. 
 ro	- Deschide drumul, dle Flexor! - Stai așa un pic! 
 sv	-Visa vägen, ThighMaster. -Hallå! Ta det lugnt. 
 th	- นำทางไปเลย เครื่องกระชับต้นขา | - เฮ่ เดี๋ยว รอแป๊บ | 

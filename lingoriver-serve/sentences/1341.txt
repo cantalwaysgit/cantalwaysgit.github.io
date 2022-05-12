@@ -12,8 +12,8 @@ it	Ho camminato con i calzini sul tappeto. Non vorrei darti la scossa.
 nl	Ik liep op m'n sokken op het kleed. Ik wil je geen schok geven. 
 no	Jeg har gått på teppet i sokkelesten. Jeg vil ikke gi deg støt. 
 pl	Chodziłem po dywanie w skarpetkach. Nie chcę cię strzelić prądem. 
-pr	Andei de meias em cima do tapete. Não te quero dar um choque. 
-pr-br	Eu acabei de andar no carpete de meia. Não quero dar choque estático em você. 
+pt	Andei de meias em cima do tapete. Não te quero dar um choque. 
+pt-br	Eu acabei de andar no carpete de meia. Não quero dar choque estático em você. 
 ro	Am mers cu șosetele pe covor. Nu vreau să te electrocutez. 
 sv	Jag gick på mattan i strumporna. Jag vill inte ge dig en stöt. 
 th	ผมเพิ่งใส่ถุงเท้าเดินบนพรม | ไม่อยากให้คุณโดนไฟฟ้าสถิตช็อต | 

@@ -12,8 +12,8 @@ he	&rlm;‏אני מרגישה שהם יצאו משליטה.‏ |
 it	Mi sta sfuggendo di mano. 
 ko	통제 불능이 된 것 같아요 | 
 pl	Brak w nim kontroli. 
-pr-br	Parece fora de controle. 
-pr	Parece estar fora de controlo. 
+pt-br	Parece fora de controle. 
+pt	Parece estar fora de controlo. 
 ro	Simt că o ia la vale. 
 sv	Jag har tappat kontrollen. 
 th	มันรู้สึกควบคุมไม่ได้ | 

@@ -14,8 +14,8 @@ it	Sandy è morto così. Sul pavimento della sala riunioni della UPN.
 nl	En zo stierf Sandy. Op de vloer van de vergaderzaal van UPN. 
 no	Og slik døde Sandy. På gulvet i møterommet hos UPN. 
 pl	I właśnie tak zmarł Sandy. Na podłodze w sali konferencyjnej UPN-u. 
-pr-br	E foi assim que Sandy morreu. No chão da sala de reuniões da UPN. 
-pr	E foi assim que o Sandy morreu. Na sala de reuniões da UPN. 
+pt-br	E foi assim que Sandy morreu. No chão da sala de reuniões da UPN. 
+pt	E foi assim que o Sandy morreu. Na sala de reuniões da UPN. 
 ro	Și așa a murit Sandy. La etajul de conferințe din UPN. 
 sv	Och så dog Sandy. På ett kontorsgolv på UPN. 
 th	และนั่นคือวิธีที่แซนดี้ตาย | บนพื้นห้องประชุมที่ยูพีเอ็น | 

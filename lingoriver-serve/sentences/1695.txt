@@ -9,8 +9,8 @@ fr	Une journée parfaite, une nuit encore meilleure.
 it	La giornata è stata perfetta, la notte meglio ancora. 
 ko	'낮은 즐거웠고 | 밤은 더 좋았어요' | 
 nl	De dag was perfect en de nacht nog beter. 
-pr-br	O dia foi perfeito, a noite foi melhor. 
-pr	O dia foi perfeito e a noite foi ainda melhor. 
+pt-br	O dia foi perfeito, a noite foi melhor. 
+pt	O dia foi perfeito e a noite foi ainda melhor. 
 ro	Ziua a fost perfectă, noaptea, și mai și. 
 sv	Dan var perfekt, natten bättre. 
 tr	Gün mükemmeldi, gece daha da iyiydi. 

@@ -11,8 +11,8 @@ he	&rlm;‏באמת, מספיק.‏ |
 it	Chiuso. 
 no	Gi deg nå. 
 pl	Wystarczy. 
-pr-br	Chega disso. 
-pr	Pronto. 
+pt-br	Chega disso. 
+pt	Pronto. 
 ro	Hai odată! 
 ru	Прекратите это. 
 sv	Kom igen. 

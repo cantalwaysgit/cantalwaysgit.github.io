@@ -12,8 +12,8 @@ he	&rlm;‏מה האבטחה של הדבר הזה?‏ |
 it	A che serve tutta quella sicurezza? 
 no	Hva er sikkerheten her? 
 pl	Po co tak zabezpieczać? 
-pr-br	Qual é a segurança disso? 
-pr	Qual é o nível de segurança daquilo? 
+pt-br	Qual é a segurança disso? 
+pt	Qual é o nível de segurança daquilo? 
 ro	De ce e nevoie de atâta siguranță? 
 sv	Vad är säkerheten för en sån sak? 
 th	ทำไมต้องปลอดภัยขนาดนั้น | 

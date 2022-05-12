@@ -1,6 +1,6 @@
 id	Aku tidak punya kamera di kamar mandi lagi. 
 pl	W łazience nie ma już kamer. 
-pr-br	Não tenho mais câmeras no banheiro. 
+pt-br	Não tenho mais câmeras no banheiro. 
 ar	&rlm;‏لم تعد توجد كاميرات في الحمامات بعد الآن.‏ | 
 da	Jeg har ikke kameraer på badeværelset mere. 
 el	Δεν έχω πια κάμερες στην τουαλέτα. 
@@ -13,7 +13,7 @@ he	&rlm;‏כבר אין לי מצלמות בשירותים.‏ |
 it	Non ci sono più le telecamere in bagno. 
 ko	화장실 카메라는 치웠어 | 
 nl	Ik heb geen camera's meer in de badkamer. 
-pr	Já não tenho câmaras na casa de banho. 
+pt	Já não tenho câmaras na casa de banho. 
 ro	Nu mai am camere în baie. 
 tr	Artık banyoda kamera yok. 
 vi	Tôi không đặt camera trong phòng tắm nữa. | 

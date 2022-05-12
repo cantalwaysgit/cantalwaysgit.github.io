@@ -15,8 +15,8 @@ ko	- 자면서 실례했나? | - 고마워요 |
 nl	Had ik een steek terwijl ik sliep? 
 no	-Brukte jeg det mens jeg sov? -Takk. 
 pl	- Załatwiłem się? - Dzięki. 
-pr-br	-Usei o urinol enquanto dormia? -Obrigada. 
-pr	- Usei a arrastadeira enquanto dormia? - Obrigada. 
+pt-br	-Usei o urinol enquanto dormia? -Obrigada. 
+pt	- Usei a arrastadeira enquanto dormia? - Obrigada. 
 ro	- Am folosit plosca cât am dormit? - Mersi. 
 sv	-Använde jag bäckenet när jag sov? -Tack. 
 th	- ตอนที่หลับอยู่ใช้กระโถนเหรอ | - ขอบคุณ | 

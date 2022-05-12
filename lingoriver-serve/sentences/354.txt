@@ -14,8 +14,8 @@ fr	Une aurore boréale avec mon nouveau pote, Sandy.
 he	&rlm;‏אורות הצפון והחבר החדש שלי, סנדי.‏ | 
 it	L'aurora boreale e il mio nuovo amico, Sandy. 
 nl	Het noorderlicht en mijn nieuwe vriend, Sandy. 
-pr	A aurora boreal e o meu novo amigo, Sandy. 
-pr-br	A aurora boreal e meu novo amigo Sandy. 
+pt	A aurora boreal e o meu novo amigo, Sandy. 
+pt-br	A aurora boreal e meu novo amigo Sandy. 
 ro	Aurora boreală și noul meu prieten, Sandy. 
 sv	Norrsken och min nya vän, Sandy. 
 tr	Kuzey ışıkları ve yeni arkadaşım Sandy. 

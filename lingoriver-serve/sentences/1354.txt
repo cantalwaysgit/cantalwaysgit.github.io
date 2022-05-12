@@ -15,8 +15,8 @@ ko	싫다네요, 미안해요 |
 nl	Hij zegt nee. Het spijt me. 
 no	Nei. Han sier nei. Beklager. 
 pl	Jemu się to nie podoba. Przykro mi. 
-pr-br	Não. Ele disse que não. Sinto muito. 
-pr	Ele diz que não. Lamento. 
+pt-br	Não. Ele disse que não. Sinto muito. 
+pt	Ele diz que não. Lamento. 
 ro	Nu. Refuză. Îmi pare rău. 
 sv	Han säger nej. Jag är ledsen. 
 th	ไม่ได้ เขาบอกว่าไม่ ผมเสียใจ | 

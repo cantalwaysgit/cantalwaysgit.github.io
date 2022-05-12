@@ -14,8 +14,8 @@ it	L'ha fatto Elizabeth Taylor. L'ha fatto Sherwood Schwartz.
 nl	Elizabeth Taylor deed het. En Sherwood Schwartz. 
 no	Elizabeth Taylor og Sherwood Schwartz gjorde det. 
 pl	Elizabeth Taylor też. Sherwood Schwartz również. 
-pr	A Elizabeth Taylor fez. O Sherwood Schwartz fez. 
-pr-br	Elizabeth Taylor fez. Sherwood Schwartz também. 
+pt	A Elizabeth Taylor fez. O Sherwood Schwartz fez. 
+pt-br	Elizabeth Taylor fez. Sherwood Schwartz também. 
 ro	Elizabeth Taylor. Sherwood Schwartz. 
 sv	Elizabeth Taylor, Sherwood Schwartz... 
 th	เอลิซาเบท เทย์เลอร์ก็ทำ | เชอร์วูด ชวาร์ตซ์ก็ทำ | 

@@ -11,8 +11,8 @@ it	Non era una vacanza. Mia madre è morta. Sono andato al suo funerale.
 ko	휴가가 아니라 어머니가 | 돌아가셔서 장례식에 다녀왔어요 | 
 nl	Dat was geen vakantie. Ik ging naar de begrafenis van mijn moeder. 
 pl	Nie jechałem na wakacje, tylko na pogrzeb matki. 
-pr-br	Não eram férias. A minha mãe faleceu. Fui para o funeral. 
-pr	Não foram férias. A minha mãe morreu. Fui lá para o funeral. 
+pt-br	Não eram férias. A minha mãe faleceu. Fui para o funeral. 
+pt	Não foram férias. A minha mãe morreu. Fui lá para o funeral. 
 ro	N-a fost vacanță. A murit mama. Am fost la înmormântare. 
 sv	Det var ingen semester. Mamma dog. Jag var där för begravningen. 
 th	ไม่ใช่การพักผ่อน แม่ผมตาย | ผมไปงานศพ | 

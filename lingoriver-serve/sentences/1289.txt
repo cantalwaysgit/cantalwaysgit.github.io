@@ -9,8 +9,8 @@ fr	À plus, mec.
 he	&rlm;‏להתראות, אחי.‏ | 
 it	Ci vediamo. 
 no	Ses. 
-pr	Até logo. 
-pr-br	Até mais, mano. 
+pt	Até logo. 
+pt-br	Até mais, mano. 
 ro	Pa, barosane! 
 th	เจอกันนะ เพื่อน | 
 tr	Görüşürüz moruk. 

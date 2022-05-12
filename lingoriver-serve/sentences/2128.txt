@@ -15,8 +15,8 @@ fr	Traverser le pays, c'est un plaisir
 he	&rlm;‏‏הנסיעה ברחבי הארץ ‏תהיה מרגשת‏ | 
 it	Viaggiare per il Paese sarà emozionante 
 ko	전국을 누비는 건 | 정말 신날 거야 | 
-pr-br	Viajar pelo país será emocionante 
-pr	Viajar pelo país será emocionante 
+pt-br	Viajar pelo país será emocionante 
+pt	Viajar pelo país será emocionante 
 ro	Deplasările prin țară Vor fi palpitante 
 th	เดินทางไปทั่วประเทศ | จะน่าตื่นเต้น | 
 tr	Heyecanlı olur Ülkeyi baştan sona gezmek 

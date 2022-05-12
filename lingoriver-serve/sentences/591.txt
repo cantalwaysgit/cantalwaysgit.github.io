@@ -15,8 +15,8 @@ ko	흥분해서 미안해 | 자네가 내 말을 안 듣잖아 |
 nl	Sorry dat ik boos werd, maar je luisterde niet. 
 no	Ja. Beklager at jeg ble sint, men du hørte ikke etter. 
 pl	Przepraszam, że się uniosłem, ale nie słuchałeś mnie. 
-pr-br	Desculpe por ter me irritado, mas você não estava ouvindo. 
-pr	Certo. Desculpa ter-me enervado, mas não estavas a ouvir. 
+pt-br	Desculpe por ter me irritado, mas você não estava ouvindo. 
+pt	Certo. Desculpa ter-me enervado, mas não estavas a ouvir. 
 ro	Scuză-mă că m-am aprins, dar nu mă ascultai. 
 sv	Ledsen att jag brusade upp, men du lyssnade inte. 
 th	ขอโทษที่ผมแรงไปหน่อย | แต่คุณไม่ฟังผมเลย | 

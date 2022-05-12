@@ -11,8 +11,8 @@ it	- Non devi prepararti per il tuo rap? - Con calma.
 nl	Moet je je rap niet voorbereiden? -Dat komt wel. 
 no	-Har du ikke rap å forberede? -Vi kommer til det. 
 pl	- Nie musisz ćwiczyć rapu? - Wszystko po kolei. 
-pr-br	-Não deveria estar preparando seu rap? -Vamos chegar lá. 
-pr	- Não devias estar a preparar o teu  rap? - Vamos chegar lá. 
+pt-br	-Não deveria estar preparando seu rap? -Vamos chegar lá. 
+pt	- Não devias estar a preparar o teu  rap? - Vamos chegar lá. 
 ro	- N-ar trebui să lucrezi la rapul tău? - O să facem și asta. 
 sv	-Ska inte du förbereda din rap? -Vi kommer dit. 
 th	- ควรเตรียมร้องแรปของคุณไม่ใช่เหรอ | - เดี๋ยวก็จะทำ | 
@@ -44,8 +44,8 @@ ko	영감님, 전부 할 거라고요 |
 nl	Oude man, daar komen we wel aan toe. 
 no	Gamlen, vi kommer til alt sammen. 
 pl	Przyjdzie na to pora, staruszku. 
-pr-br	Velhote, vamos fazer tudo. 
-pr	Vamos chegar a isso tudo, meu velho. 
+pt-br	Velhote, vamos fazer tudo. 
+pt	Vamos chegar a isso tudo, meu velho. 
 ro	O să le facem pe toate, bătrâne. 
 th	ลุง เดี๋ยวเราค่อยทำทั้งหมดนี่ | 
 tr	Hepsini halledeceğiz moruk. 
@@ -69,8 +69,8 @@ ko	영감님이라니? | 난 그렇게 안 늙었어 |
 nl	Oude man? Zo oud ben ik niet. 
 no	Jeg er ikke så gammel. 
 pl	Aż taki stary nie jestem. 
-pr-br	Velhote? Não sou tão velho assim. 
-pr	Velho? Não sou assim tão velho. 
+pt-br	Velhote? Não sou tão velho assim. 
+pt	Velho? Não sou assim tão velho. 
 ro	Bătrâne? Nu-s chiar așa de bătrân. 
 th	ลุงเหรอ ผมไม่ได้แก่ | 
 tr	Moruk mu? O kadar yaşlı değilim. 

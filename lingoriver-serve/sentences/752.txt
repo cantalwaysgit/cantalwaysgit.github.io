@@ -8,8 +8,8 @@ fi	Kokeillaan uudestaan.
 fr	On reprend. 
 he	&rlm;‏בואו ננסה שוב.‏ | 
 it	Prova di nuovo. 
-pr-br	Vamos tentar de novo. 
-pr	Vamos tentar novamente. 
+pt-br	Vamos tentar de novo. 
+pt	Vamos tentar novamente. 
 sv	Då försöker vi igen. 
 vi	Thử lại nhé. | 
 zh-long	再來一次 

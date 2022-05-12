@@ -10,8 +10,8 @@ he	&rlm;‏כי גם אני פוחד.‏ |
 it	Perché ho paura anch'io. 
 nl	Want ik ben ook bang. 
 no	For det er jeg også. 
-pr-br	Porque eu também estou com medo. 
-pr	Porque eu também estou. 
+pt-br	Porque eu também estou com medo. 
+pt	Porque eu também estou. 
 ro	Fiindcă și mie mi-e frică. 
 sv	Jag är också rädd. 
 vi	Vì tao cũng đang sợ đây. | 

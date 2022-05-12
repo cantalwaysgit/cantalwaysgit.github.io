@@ -10,8 +10,8 @@ he	&rlm;‏‏אבל בכל מקום | &rlm;‏אמרו לו בפניו‏ |
 it	Ma in qualsiasi posto Gli dicevano in faccia 
 nl	maar overal zeggen ze tegen hem 
 pl	Wszędzie jednak słyszało słowa te 
-pr-br	Mas em todos os lugares Eles disseram a ele 
-pr	Mas em todos os sítios Disseram-lhe na cara 
+pt-br	Mas em todos os lugares Eles disseram a ele 
+pt	Mas em todos os sítios Disseram-lhe na cara 
 ro	Dar peste tot I-au zis în față 
 sv	Men vart han än kom Sa de åt honom 
 th	แต่ในทุกที่ | โดนพวกเขาพูดใส่หน้า ทีนี้ | 

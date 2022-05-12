@@ -14,8 +14,8 @@ it	Non c'è problema.
 ko	그러지 뭐 | 
 no	Da gjør vi det. 
 pl	Dobra. 
-pr-br	Vamos resolver logo isso. 
-pr	Vamos tratar disso. 
+pt-br	Vamos resolver logo isso. 
+pt	Vamos tratar disso. 
 ro	S-o facem și pe asta! 
 sv	Då gör vi det. 
 th	งั้นก็ไปกันเลย | 

@@ -14,8 +14,8 @@ it	- Vieni. Dai. - Tengo gli occhiali o li tolgo?
 ko	- 어서 와요 | - 안경은 어쩔까? 벗어? | 
 no	-Kom hit. Kom igjen. -Med eller uten briller? 
 pl	- Chodź. Śmiało. - Mam zdjąć okulary? 
-pr-br	-Venha aqui. -Com ou sem óculos? 
-pr	- Vem cá. Anda. - Uso os óculos ou tiro-os? 
+pt-br	-Venha aqui. -Com ou sem óculos? 
+pt	- Vem cá. Anda. - Uso os óculos ou tiro-os? 
 ro	- Hai! - Să-mi las ochelarii sau să-i scot? 
 sv	-Kom hit nu. -Ska jag ha på mig glasögonen, eller inte? 
 th	- มานี่ มาเร็ว | - ให้ใส่แว่นหรือไม่ใส่แว่นล่ะ | 

@@ -13,8 +13,8 @@ he	&rlm;‏השגתי לך מבחן במה.‏ |
 it	Ti ho fissato il provino. 
 no	Jeg skaffet dere audition. 
 pl	Załatwiłem wam casting. 
-pr-br	Consegui o teste para vocês. 
-pr	Consegui-te a audição. 
+pt-br	Consegui o teste para vocês. 
+pt	Consegui-te a audição. 
 ro	V-am programat la probă. 
 sv	Jag ordnade en audition. 
 th	ผมจองให้คุณไปคัดตัว | 

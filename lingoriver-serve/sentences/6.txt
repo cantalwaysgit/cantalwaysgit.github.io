@@ -9,8 +9,8 @@ it	Era il tizio che mi fissava con rabbia.
 nl	Dat was de man die zo boos naar me keek. 
 no	Det var fyren som glodde sint på meg. 
 pl	To on się ciągle na mnie gapił. 
-pr-br	Foi esse cara que ficou me olhando bravo. 
-pr	Era o tipo a olhar para mim com um ar furioso. 
+pt-br	Foi esse cara que ficou me olhando bravo. 
+pt	Era o tipo a olhar para mim com um ar furioso. 
 ro	Era tipul care se holba furios la mine. 
 sv	Det var han som hade stirrat argt på mig. 
 tr	Öfkeyle beni süzüp duran adamdı bu. 

@@ -10,8 +10,8 @@ es	Mary. Sandy Wexler.
 he	&rlm;‏מרי. סנדי וקסלר.‏ | 
 it	Mary. Sandy Wexler. 
 pl	Mary. Sandy Wexler. 
-pr-br	Mary. Sandy Wexler. 
-pr	Mary. Sandy Wexler. 
+pt-br	Mary. Sandy Wexler. 
+pt	Mary. Sandy Wexler. 
 ro	Mary. Sandy Wexler. 
 th	แมรี่ แซนดี้ เวกซ์เลอร์ | 
 tr	Mary. Sandy Wexler. 
@@ -35,8 +35,8 @@ fr	Enchantée.
 he	&rlm;‏נעים מאוד.‏ | 
 it	Molto piacere. 
 pl	Miło mi poznać. 
-pr-br	Prazer em conhecê-lo. 
-pr	Muito prazer. 
+pt-br	Prazer em conhecê-lo. 
+pt	Muito prazer. 
 ro	Încântată! 
 th	ยินดีที่รู้จัก | 
 tr	Memnun oldum. 

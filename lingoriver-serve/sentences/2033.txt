@@ -15,8 +15,8 @@ ko	언제나 널 사랑했어 |
 nl	Ik heb altijd van je gehouden. 
 no	Jeg har alltid elsket deg. 
 pl	Zawsze cię kochałem. 
-pr-br	Sempre amei. 
-pr	Sempre te amei. 
+pt-br	Sempre amei. 
+pt	Sempre te amei. 
 ro	Te-am iubit mereu. 
 sv	Jag har alltid älskat dig. 
 tr	Hep sevdim. 

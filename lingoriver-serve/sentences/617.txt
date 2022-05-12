@@ -16,8 +16,8 @@ it	A sopportare le assurdità di Sandy.
 ko	정신 나간 샌디를 대하는 거요 | 
 no	Takler all Sandy-galskapen. 
 pl	Znosisz szaleństwa Sandy'ego. 
-pr	Aturar as maluqueiras do Sandy. 
-pr-br	Lidar com essa loucura do Sandy. 
+pt	Aturar as maluqueiras do Sandy. 
+pt-br	Lidar com essa loucura do Sandy. 
 ro	Să suporți toate nebuniile lui Sandy. 
 th	จัดการกับความเพี้ยนบ้าบอของแซนดี้ | 
 tr	Tüm bu Sandy saçmalıklarıyla baş etmeyi. 

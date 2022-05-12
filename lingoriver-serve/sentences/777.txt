@@ -10,8 +10,8 @@ fr	Je l'aime J'ai besoin de lui
 he	&rlm;‏‏אני אוהבת אותו | &rlm;‏אני צריכה אותו כל כך‏ | 
 it	Lo amo Ho tanto bisogno di lui 
 pl	Kocham go Potrzebuję go 
-pr-br	Eu o amo Preciso tanto dele 
-pr	Eu amo-o Preciso tanto dele 
+pt-br	Eu o amo Preciso tanto dele 
+pt	Eu amo-o Preciso tanto dele 
 ro	Îl iubesc Am atâta nevoie de el 
 sv	Jag älskar honom Jag behöver honom 
 th	ฉันรักเขา ฉันต้องการเขาสุดๆ | 
@@ -37,8 +37,8 @@ he	&rlm;‏בואי.‏ |
 it	Dai. 
 no	Kom igjen. 
 pl	Dalej, dalej. 
-pr-br	Vamos. 
-pr	Vamos lá. 
+pt-br	Vamos. 
+pt	Vamos lá. 
 ro	Haide! 
 sv	Kom igen. 
 th	มาสิ มาสิ มาสิ | 

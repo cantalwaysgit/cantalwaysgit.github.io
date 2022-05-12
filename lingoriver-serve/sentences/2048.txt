@@ -11,8 +11,8 @@ he	&rlm;‏מה את אומרת, ילדה?‏ |
 it	Che ne dici, piccola? 
 no	Hva sier du? 
 pl	Co ty na to? 
-pr-br	O que diz, garota? 
-pr	O que dizes, miúda? 
+pt-br	O que diz, garota? 
+pt	O que dizes, miúda? 
 ro	Ce zici, puștoaico? 
 sv	Vad säger du, vännen? 
 th	ว่าไง เด็กน้อย | 

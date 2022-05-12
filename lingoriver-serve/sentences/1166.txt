@@ -10,8 +10,8 @@ he	&rlm;‏‏עם מי עוד אתה רוצה שהיא תתחרה? | &rlm;‏כ
 it	A chi altri dovrebbe fare concorrenza? Così vincerebbe sicuramente. 
 nl	Met wie wil je anders concurreren? Je kunt alleen maar winnen. 
 pl	A z kim innym? Na pewno przez to nie straci. 
-pr-br	Com quem mais ela vai competir? Na minha opinião, é vitória na certa. 
-pr	Com quem mais iria ela competir? É impossível perder. 
+pt-br	Com quem mais ela vai competir? Na minha opinião, é vitória na certa. 
+pt	Com quem mais iria ela competir? É impossível perder. 
 ro	Cu cine altcineva să mai concureze? N-are decât de câștigat. Părerea mea. 
 sv	Vem ska hon annars konkurrera med? Alla vinner på det, tycker jag. 
 th	แล้วจะให้เธอแข่งกับใครล่ะ | คือมันมีแต่ได้กับได้ ผมว่า | 

@@ -14,8 +14,8 @@ it	Dio, ti prego, mi serve un miracolo.
 nl	Alsjeblieft, God. Ik heb een wonder nodig. 
 no	Vær så snill, Gud, jeg trenger et mirakel. 
 pl	Proszę cię, Boże, potrzebuję cudu. 
-pr-br	Por favor, Deus, eu preciso de um milagre. 
-pr	Por favor, Deus, preciso de um milagre. 
+pt-br	Por favor, Deus, eu preciso de um milagre. 
+pt	Por favor, Deus, preciso de um milagre. 
 ro	Te rog, Doamne! Am nevoie de un miracol. 
 sv	Jag behöver ett mirakel. 
 th	ได้โปรด พระเจ้า ผมต้องการปาฏิหาริย์ | 

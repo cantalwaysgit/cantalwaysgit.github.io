@@ -2,7 +2,7 @@ sv	Jag borde väl ha berättat att pappa bor i Alaska.
 es	Supongo que debí mencionar que papá está en Alaska. 
 no	Jeg burde ha nevnt at pappa er i Seward i Alaska. 
 ja	パパはアラスカの | 半島にいるの | 
-pr-br	Eu devia ter mencionado que meu pai está no Alasca. 
+pt-br	Eu devia ter mencionado que meu pai está no Alasca. 
 tr	Sanırım babamın Seward, Alaska'da  olduğunu söylemem gerekirdi. 
 ar	&rlm;‏‏أظن أنني كان يجب أن أذكر | &rlm;‏أن أبي يعيش في "آلاسكا".‏ | 
 da	Jeg skulle nok have sagt, at far bor i Alaska. 
@@ -16,7 +16,7 @@ it	Avrei dovuto dirti che papà vive in Alaska.
 ko	아빠가 알래스카에 계시는 걸 | 미리 말씀드릴 걸 그랬네요 | 
 nl	Ik had moeten zeggen dat pap in Alaska woont. 
 pl	Zapomniałam wspomnieć, że tata mieszka na Alasce. 
-pr	Acho que devia ter dito que o meu pai mora no Alasca. 
+pt	Acho que devia ter dito que o meu pai mora no Alasca. 
 ro	Cred că trebuia să spun că tata e în Alaska. 
 th	คิดว่าฉันควรบอกว่าพ่ออยู่ที่อะแลสกา | 
 vi	Lẽ ra tôi nên nói | bố tôi đang ở Seward, Alaska. | 

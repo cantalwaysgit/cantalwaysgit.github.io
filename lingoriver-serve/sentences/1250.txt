@@ -12,8 +12,8 @@ it	Con queste premesse, non sarebbe giusto neanche nei tuoi confronti.
 nl	Deze situatie is ook niet eerlijk tegenover jou. 
 no	Dagens situasjon er urettferdig mot deg også. 
 pl	To niesprawiedliwe również względem ciebie. 
-pr	A situação atual também não é justa para ti. 
-pr-br	É que essa situação atual também não é justa com você. 
+pt	A situação atual também não é justa para ti. 
+pt-br	É que essa situação atual também não é justa com você. 
 ro	În contextul dat, nu e corect nici pentru tine. 
 sv	Det här är inte rättvist mot dig heller. 
 th	สถานการณ์ปัจจุบัน | ก็ไม่ยุติธรรมกับคุณอีกด้วย | 

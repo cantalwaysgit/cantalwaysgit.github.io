@@ -14,8 +14,8 @@ it	E l'anno prossimo le dirai tu.
 ko	내년에는 네가 올라가서 | 저 농담을 던지고 있을 거야 | 
 nl	Volgend jaar vertel jij die grappen. 
 no	Neste år vil du fortelle de vitsene. 
-pr-br	No ano que vem, você estará contando essas piadas. 
-pr	Para o ano, és tu a contá-las porque as escreveste. 
+pt-br	No ano que vem, você estará contando essas piadas. 
+pt	Para o ano, és tu a contá-las porque as escreveste. 
 ro	Anul viitor, le vei spune tu. 
 sv	Nästa år berättar du de skämten. 
 th	ปีหน้าจะเป็นนายที่ปล่อยมุกนี่ | 

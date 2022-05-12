@@ -13,8 +13,8 @@ ko	‘해피 데이즈’와 | 포춘 쿠키를 썼죠 |
 nl	Hij schreef voor  Happy Days en gelukskoekjes. 
 no	Han skrev for  Happy Days  og lykkekaker. 
 pl	Pisał scenariusze  Happy Days  i te wróżby. 
-pr-br	Ele escreveu  Dias Felizes e biscoitos da sorte. 
-pr	Escrevia para a série  Happy Days e para biscoitos da sorte. 
+pt-br	Ele escreveu  Dias Felizes e biscoitos da sorte. 
+pt	Escrevia para a série  Happy Days e para biscoitos da sorte. 
 ro	A scris pentru  Happy Days  și răvașe. 
 ru	Их и сценарии «Счастливых дней». 
 sv	Han skrev för  Gänget och jag och lyckokakor. 

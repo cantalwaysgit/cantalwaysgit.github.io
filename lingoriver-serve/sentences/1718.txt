@@ -14,7 +14,7 @@ it	Sicuro che abbia detto quattro?
 nl	Geloof je dat of zei hij vier? 
 no	Tror du at han sa det? Fire? 
 pl	Na pewno po czterech? 
-pr-br	Você acha ou ele disse isso? Quatro? 
+pt-br	Você acha ou ele disse isso? Quatro? 
 ro	Crezi sau chiar a zis patru? 
 sv	Tror du det eller sa han det? 
 th	คิดว่าพูด หรือเขาพูดจริงๆ สี่วิฯ อะนะ | 

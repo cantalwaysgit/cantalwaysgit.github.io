@@ -14,8 +14,8 @@ it	So cosa intendi.
 ko	무슨 말씀이신지는 알아요 | 
 no	Jeg vet hva du mener. 
 pl	Rozumiem cię. 
-pr-br	Entendo o que quer dizer. 
-pr	Eu compreendo. 
+pt-br	Entendo o que quer dizer. 
+pt	Eu compreendo. 
 ro	Știu ce vrei să spui. 
 sv	Jag vet vad du menar. 
 th	ผมรู้ว่าคุณหมายถึงอะไร | 
@@ -39,8 +39,8 @@ it	Ho un sacco di idee, ma domani non posso.
 ko	저도 아이디어는 많지만 | 내일은 안 돼요 | 
 no	Jeg har mange ideer, men jeg kan ikke i morgen. 
 pl	Mam wiele pomysłów, ale jutro nie mogę. 
-pr-br	Tenho muitas ideias, mas amanhã não posso. 
-pr	Tenho montes de ideias, mas amanhã não posso. 
+pt-br	Tenho muitas ideias, mas amanhã não posso. 
+pt	Tenho montes de ideias, mas amanhã não posso. 
 ro	Am o mulțime de idei, dar nu pot mâine. 
 sv	Jag har många idéer, men jag kan inte imorgon. 
 th	ฉันมีความคิดเยอะแยะ | แต่พรุ่งนี้ไม่ว่าง | 

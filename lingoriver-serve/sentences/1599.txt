@@ -11,8 +11,8 @@ it	- Sandy sa cos'è meglio. - È così.
 nl	Sandy weet 't het best. -Ik weet 't het best. 
 no	-Sandy vet best. -Det gjør jeg faktisk. 
 pl	- Sandy wie najlepiej. - Żebyś wiedziała. 
-pr-br	-Sandy sabe das coisas. -Eu sei das coisas. 
-pr	- O Sandy é que sabe. - Sei mesmo. 
+pt-br	-Sandy sabe das coisas. -Eu sei das coisas. 
+pt	- O Sandy é que sabe. - Sei mesmo. 
 ro	- Sandy știe cel mai bine. - Chiar știe. 
 sv	-Sandy vet bäst. -Jag vet bäst. 
 th	- แซนดี้รู้ดีที่สุด | - ฉันรู้ดีที่สุด | 

@@ -12,8 +12,8 @@ he	&rlm;‏זה יום גדול, קורטני קלארק.‏ |
 it	È un giorno importante, Courtney Clarke. 
 no	Det er en stor dag, Courtney Clarke. 
 pl	To ważny dzień, pani Courtney Clarke. 
-pr-br	É um dia importante, Courtney Clarke. 
-pr	É um grande dia, Courtney Clarke. 
+pt-br	É um dia importante, Courtney Clarke. 
+pt	É um grande dia, Courtney Clarke. 
 ro	E o zi importantă, dră Courtney Clarke. 
 sv	Det är en stor dag, Courtney Clarke. 
 th	วันนี้เป็นวันสำคัญนะ | คุณคอร์ทนี่ย์ คลาร์ก | 

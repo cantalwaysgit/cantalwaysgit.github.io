@@ -11,8 +11,8 @@ he	&rlm;‏מוזיקה לפני הכול.‏ |
 it	La musica prima di tutto. 
 no	Musikken er viktigst. 
 pl	Muzyka przede wszystkim. 
-pr	A música está em primeiro lugar. 
-pr-br	Música em primeiro lugar. 
+pt	A música está em primeiro lugar. 
+pt-br	Música em primeiro lugar. 
 ro	Muzica e pe primul loc. 
 sv	Musiken kommer först. 
 th	ดนตรีมาก่อน | 

@@ -14,8 +14,8 @@ it	Sì. Gli dispiace che tu sia un imbecille.
 nl	Ja. Het spijt hem dat jij zo'n sukkel bent. 
 no	Ja. Beavis sier han er lei for at du er en tulling. 
 pl	Tak. Jest mu przykro, że jesteś takim głupkiem. 
-pr-br	Sim, o Beavis sente muito por você ser um idiota. 
-pr	Sim. O Beavis pede desculpa por seres tão idiota. 
+pt-br	Sim, o Beavis sente muito por você ser um idiota. 
+pt	Sim. O Beavis pede desculpa por seres tão idiota. 
 ro	Da. Beavis zice că-i pare rău fiindcă ești așa de cretin. 
 sv	Beavis ber om ursäkt för att du är en sån korkskalle. 
 th	ใช่ บีวิสบอกว่าเขาเสียใจ | ที่แกงี่เง่ามาก | 

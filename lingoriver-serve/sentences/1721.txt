@@ -13,8 +13,8 @@ ko	좋아, 간다 | 오른쪽 종아리부터야 |
 nl	Daar gaan we. Eerst de rechterkuit. 
 no	Da gjør vi det. Høyre bein først. 
 pl	Zaczynamy. Najpierw prawa łydka. 
-pr-br	Vamos lá. Primeiro a panturrilha direita. 
-pr	Pronto, vamos lá. Primeiro a perna direita. 
+pt-br	Vamos lá. Primeiro a panturrilha direita. 
+pt	Pronto, vamos lá. Primeiro a perna direita. 
 sv	Nu kör vi. Högra vaden först. 
 tr	Pekâlâ, başlıyoruz. Önce sağ baldır. 
 vi	Nào, bắt đầu. Chân phải trước. | 

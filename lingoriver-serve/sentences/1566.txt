@@ -10,8 +10,8 @@ he	&rlm;‏יש לי למעשה בעיה קטנה בגב.‏ |
 it	Ho un problemino alla schiena. 
 ko	등에 약간 | 문제가 생긴 것 같아 | 
 nl	Ik heb een probleem met mijn rug. 
-pr-br	Estou com um probleminha nas costas. 
-pr	Tenho um problema nas costas. 
+pt-br	Estou com um probleminha nas costas. 
+pt	Tenho um problema nas costas. 
 ro	De fapt, am o mică problemă cu spatele. 
 sv	Jag har lite problem med ryggen. 
 tr	Aslında sırtımda bir sorun var. 

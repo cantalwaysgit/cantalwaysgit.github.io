@@ -12,8 +12,8 @@ he	&rlm;‏‏זו החברה שלי, מרי. | &rlm;‏-היי.‏ |
 it	- La mia ragazza, Mary. - Salve. 
 ko	- 제 여자친구 메리예요 | - 안녕하세요 | 
 pl	- Moja dziewczyna, Mary. - Cześć. 
-pr-br	-Esta é a Mary, minha namorada. -Oi. 
-pr	- Esta é a Mary, a minha miúda. - Olá. 
+pt-br	-Esta é a Mary, minha namorada. -Oi. 
+pt	- Esta é a Mary, a minha miúda. - Olá. 
 ro	- Ea e iubita mea, Mary. - Bună! 
 ru	-Это моя девушка Мэри. -Привет. 
 sv	-Här är min tjej, Mary. -Hej. 

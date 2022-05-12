@@ -10,8 +10,8 @@ he	&rlm;‏בסדר. קדימה. בוא נכבס אותם.‏ |
 it	Bene. Diamogli una lavata. 
 nl	We gaan hem wassen. 
 pl	Chodźmy je uprać. 
-pr-br	Está bem. Vamos lavar isso. 
-pr	Muito bem. Anda. Vamos pôr isto a lavar. 
+pt-br	Está bem. Vamos lavar isso. 
+pt	Muito bem. Anda. Vamos pôr isto a lavar. 
 ro	Bine. Hai să punem astea la spălat. 
 sv	Okej, nu får vi dem tvättade. 
 th	เอาละ เอานี่ไปซักกัน | 

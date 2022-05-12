@@ -10,8 +10,8 @@ he	&rlm;‏הלוואי שיכולתי להישאר כאן.‏ |
 it	Vorrei poter restare qui. 
 ko	여기서 지낼 수 있다면 | 좋겠어요 | 
 pl	Chciałabym tu zostać. 
-pr-br	Eu queria poder ficar aqui. 
-pr	Quem me dera poder ficar aqui. 
+pt-br	Eu queria poder ficar aqui. 
+pt	Quem me dera poder ficar aqui. 
 ro	Mi-ar plăcea să pot rămâne aici. 
 sv	Jag önskar jag kunde stanna här. 
 tr	Keşke burada kalabilsem. 

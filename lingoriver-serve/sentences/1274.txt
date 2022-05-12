@@ -13,8 +13,8 @@ it	Sandy non aveva perso solo la cliente di maggior talento,
 nl	Want Sandy verloor niet alleen zijn grootste talent ooit... 
 no	For Sandy mistet ikke bare sin mest talentfulle klient noensinne, 
 pl	Sandy stracił nie tylko swojego najbardziej utalentowanego klienta, 
-pr-br	Pois além de Sandy ter perdido sua cliente mais talentosa, 
-pr	Porque o Sandy não só perdeu a sua cliente mais talentosa de sempre, 
+pt-br	Pois além de Sandy ter perdido sua cliente mais talentosa, 
+pt	Porque o Sandy não só perdeu a sua cliente mais talentosa de sempre, 
 ro	Fiindcă Sandy nu și-a pierdut doar cea mai talentată clientă, 
 sv	Sandy hade inte bara förlorat sin mest framgångsrika klient nånsin, 
 th	เพราะไม่เพียงที่แซนดี้สูญเสีย | ลูกค้าที่มีพรสวรรค์ที่สุดที่เคยมี | 

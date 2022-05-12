@@ -14,8 +14,8 @@ it	Ricordi? Ci siamo conosciuti al mare da Bernie.
 nl	Weet je nog? We ontmoetten elkaar in Bernies strandhuis. 
 no	Husker du? Vi traff hverandre hos Bernie. 
 pl	Spotkaliśmy się w domku Berniego na plaży. 
-pr-br	Lembra? Nos conhecemos na casa de praia de Bernie. 
-pr	Conhecemo-nos na casa de praia do Bernie, lembras-te? 
+pt-br	Lembra? Nos conhecemos na casa de praia de Bernie. 
+pt	Conhecemo-nos na casa de praia do Bernie, lembras-te? 
 ro	Mai știi? Ne-am văzut la casa de vacanță a lui Bernie. 
 sv	Minns du? Vi träffades hemma hos Bernie. 
 th	จำได้ไหม เราเคยเจอกัน | ที่บ้านริมหาดของเบอร์นี่ | 

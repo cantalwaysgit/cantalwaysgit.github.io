@@ -13,8 +13,8 @@ it	Ho celebrato il Bar Mitzvah tanto tempo fa.
 ko	오래전에 성인식을 치르긴 했죠 | 
 no	Jeg hadde bar mitzvah for lenge siden. 
 pl	Miałem bar micwę, ale wieki temu. 
-pr-br	Meu  bar mitzvah  foi há muito tempo. 
-pr	Fizeram-me um  bar mitzvah, mas foi há muito tempo. 
+pt-br	Meu  bar mitzvah  foi há muito tempo. 
+pt	Fizeram-me um  bar mitzvah, mas foi há muito tempo. 
 ro	Am avut ceremonia Bar Mitzvah, dar acum mult timp. 
 sv	Jag hade min bar mitzvah för länge sen. 
 th	ผมเข้าพิธีบาร์มิตซวาห์นานมาแล้ว | 

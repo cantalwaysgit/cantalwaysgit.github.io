@@ -20,8 +20,8 @@ fr	- Tais-toi. - Entendu.
 he	&rlm;‏‏תפסיק לדבר. | &rlm;‏-בסדר. אני אפסיק.‏ | 
 it	- Stai zitto. - Va bene. 
 no	-Vær stille. -Greit. 
-pr-br	-Pare de falar. -Está bem. Vou parar. 
-pr	- Para de falar. - Está bem. Vou parar. 
+pt-br	-Pare de falar. -Está bem. Vou parar. 
+pt	- Para de falar. - Está bem. Vou parar. 
 sv	-Sluta prata. -Okej. 
 zh-long	-別說了 -好，不說了 
 ja	分かった | 

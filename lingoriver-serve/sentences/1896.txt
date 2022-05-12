@@ -12,8 +12,8 @@ it	Non credo che possa funzionare.
 ko	그건 잘 안 될 것 같은데 | 
 no	Det kommer ikke til å fungere. 
 pl	Nic z tego nie będzie. 
-pr-br	Isso não vai dar certo, garota. 
-pr	Isso não vai resultar. 
+pt-br	Isso não vai dar certo, garota. 
+pt	Isso não vai resultar. 
 ro	N-o să aibă succes, puștoaico. 
 ru	Вряд ли это сработает. 
 sv	Det kommer inte att funka. 

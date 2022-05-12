@@ -14,8 +14,8 @@ it	È il nuovo disco? Possiamo ascoltarlo?
 ko	음반인가요?  | 틀어줄래요? | 
 no	Er det platen? Kan du spille den? 
 pl	To ta płyta? Mogę odsłuchać? 
-pr-br	Esse é o disco? Pode tocá-lo? 
-pr	É esse o disco? Pode pôr a tocar? 
+pt-br	Esse é o disco? Pode tocá-lo? 
+pt	É esse o disco? Pode pôr a tocar? 
 ro	Ăla e albumul? Vrei să-l pui? 
 sv	Är det skivan? Får jag spela den? 
 th	นั่นแผ่นเสียงใช่ไหม เปิดได้ไหม | 
@@ -37,8 +37,8 @@ he	&rlm;‏‏יש נגן בחדר? | &rlm;‏-כן.‏ |
 it	- C'è un lettore in camera? - Sì. 
 no	-Er det en spiller på rommet? -Ja. 
 pl	- Jest tu odtwarzacz? - Tak. 
-pr-br	-Tem um aparelho no quarto? -Sim. 
-pr	- Há algum leitor no quarto? - Sim. 
+pt-br	-Tem um aparelho no quarto? -Sim. 
+pt	- Há algum leitor no quarto? - Sim. 
 ro	- Avem vreun CD-player aici? - Da. 
 sv	-Finns det en CD-spelare här? -Ja. 
 th	- มีเครื่องเล่นในห้องหรือเปล่า | - มีค่ะ | 

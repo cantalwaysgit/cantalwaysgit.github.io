@@ -8,8 +8,8 @@ es	- ¿Yo? - Sí, tú.
 fr	- Moi ? - Oui, toi. 
 he	&rlm;‏‏לי? | &rlm;‏-כן, לך.‏ | 
 it	- Io? - Sì, tu. 
-pr-br	-Eu? -Sim, você. 
-pr	- Eu? - Sim, tu. 
+pt-br	-Eu? -Sim, você. 
+pt	- Eu? - Sim, tu. 
 ro	- Eu? - Da. Tu. 
 tr	-Bende mi? -Evet, sende. 
 vi	- Tôi ư? | - Phải, cô. | 
@@ -34,8 +34,8 @@ fr	Fais-moi une promesse.
 he	&rlm;‏תבטיחי לי את זה.‏ | 
 it	Fammi una promessa. 
 nl	Beloof me dit. 
-pr-br	Prometa uma coisa. 
-pr	Promete-me o seguinte: 
+pt-br	Prometa uma coisa. 
+pt	Promete-me o seguinte: 
 ro	Promite-mi ceva. 
 th	สัญญากับผมนะ | 
 tr	Söz ver bana. 

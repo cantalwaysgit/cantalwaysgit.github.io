@@ -15,8 +15,8 @@ ko	어떻게 샌디가 됐죠? |
 nl	Hoe ben je Sandy geworden? 
 no	Hvordan blir man Sandy? 
 pl	Jak zostać Sandym? 
-pr-br	Como você se tornou Sandy? 
-pr	Como te tornaste no Sandy? 
+pt-br	Como você se tornou Sandy? 
+pt	Como te tornaste no Sandy? 
 ro	Cum poți să devii Sandy? 
 sv	Hur blev du Sandy? 
 th	คุณกลายเป็นแซนดี้ได้ยังไง | 

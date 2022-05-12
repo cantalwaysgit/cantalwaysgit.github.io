@@ -12,8 +12,8 @@ it	Succede di tutto stasera, vero?
 nl	Vanavond gebeurt het, hè? 
 no	Alt skjer i kveld, ikke sant? 
 pl	Dziś będzie wspaniały wieczór. 
-pr-br	Tem de tudo esta noite, não tem? 
-pr	Hoje acontece de tudo aqui, não é? 
+pt-br	Tem de tudo esta noite, não tem? 
+pt	Hoje acontece de tudo aqui, não é? 
 ro	Evenimentul serii e aici, nu-i așa? 
 ru	Сегодня тут будет круто, да? 
 sv	Allt kan hända ikväll, eller hur? 

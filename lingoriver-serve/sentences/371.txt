@@ -9,8 +9,8 @@ he	&rlm;‏פרידה קשה?‏ |
 it	Una rottura dolorosa? 
 ko	안 좋게 헤어졌나요? | 
 pl	Złamane serce? 
-pr-br	Teve um término de relação difícil? 
-pr	Uma separação difícil? 
+pt-br	Teve um término de relação difícil? 
+pt	Uma separação difícil? 
 ro	O despărțire urâtă? 
 sv	En svår separation? 
 tr	Kötü bir ayrılık mı yaşadın? 

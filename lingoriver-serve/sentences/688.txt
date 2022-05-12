@@ -15,8 +15,8 @@ ko	아기를 낳은 것 같아 |
 nl	...de liefde bedreven en een baby kregen. 
 no	elsket og fikk barn sammen. 
 pl	zrobili sobie dziecko. 
-pr-br	tivessem tido um filho. 
-pr	tivessem feito amor e tido um bebé. 
+pt-br	tivessem tido um filho. 
+pt	tivessem feito amor e tido um bebé. 
 ro	s-ar fi împreunat și ar fi făcut un copil. 
 sv	skulle älska och få barn. 
 th	เอากันแล้วคลอดลูกออกมา | 

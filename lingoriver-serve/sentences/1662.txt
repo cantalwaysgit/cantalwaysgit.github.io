@@ -14,8 +14,8 @@ it	Non voglio fare brutta figura. Andiamo.
 ko	오늘 안 가면 다음에 | 엿 먹일까 봐 그래, 가자 | 
 nl	Ik wil het niet verpesten  voor de volgende keer. 
 no	Jeg vil ikke at hun skal lure oss neste gang. Kom igjen. 
-pr-br	Não quero que ela ferre a gente da próxima vez. Vamos. 
-pr	Não quero que ela nos lixe da próxima vez. Vamos. 
+pt-br	Não quero que ela ferre a gente da próxima vez. Vamos. 
+pt	Não quero que ela nos lixe da próxima vez. Vamos. 
 ro	Nu vreau ca ea să-și piardă încrederea în noi. Hai! 
 sv	Jag vill inte att hon lurar oss nästa gång. Nu drar vi. 
 th	ฉันไม่อยากให้เธอมีปัญหา | กับเราในครั้งต่อไป ไปเถอะ | 

@@ -13,8 +13,8 @@ ko	해본 적 없는 수업을 | 꼭 듣게끔 하죠 |
 nl	Hij liet ze cursussen doen voor dingen die ze niet konden. 
 no	Han sendte dem på kurs i ting de ikke drev med. 
 pl	Wysyłał klienta na zajęcia, których nie potrzebował. 
-pr-br	Ele os colocava em aulas para fazerem coisas que não faziam. 
-pr	Ele inscrevia-os em aulas para coisas que não faziam. 
+pt-br	Ele os colocava em aulas para fazerem coisas que não faziam. 
+pt	Ele inscrevia-os em aulas para coisas que não faziam. 
 ro	Își băga clienții la cursuri de care n-aveau nevoie. 
 ru	Записывал на курсы того, чего тот не умел. 
 sv	Han anmälde dem till lektioner för sånt de inte sysslade med. 

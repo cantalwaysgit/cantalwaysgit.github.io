@@ -12,8 +12,8 @@ it	Meglio tenere in attesa gli addetti stampa.
 nl	We wachten met de publiciteitsagent. 
 no	Vi venter med PR-konsulentene. 
 pl	Wstrzymajmy się na razie. 
-pr-br	Vamos adiar o lance do assessor de imprensa. 
-pr	Vamos adiar isto da publicidade. 
+pt-br	Vamos adiar o lance do assessor de imprensa. 
+pt	Vamos adiar isto da publicidade. 
 ro	Poate amânăm cu editorii. 
 sv	Vi avvaktar med reklamagenterna. 
 th	เราจะหยุดเรื่องประชาสัมพันธ์ไว้ก่อน | 

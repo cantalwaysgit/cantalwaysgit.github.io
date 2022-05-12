@@ -14,8 +14,8 @@ es-eu	No.
 es	No. 
 fi	En. 
 he	&rlm;‏לא.‏ | 
-pr-br	Não. 
-pr	Nada disso. 
+pt-br	Não. 
+pt	Nada disso. 
 ro	Nu. 
 sv	Nej. 
 tr	Hayır, hayır. 

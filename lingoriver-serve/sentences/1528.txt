@@ -11,8 +11,8 @@ it	Dovrò iniziare a scrivermi qualche nome.
 ko	이름 좀 받아 적어놔야겠네 | 
 no	Jeg må begynne å skrive ned noen av navnene. 
 pl	Muszę zacząć ich sobie zapisywać. 
-pr-br	Ei, preciso começar a anotar estes nomes. 
-pr	Tenho de começar a apontar os nomes. 
+pt-br	Ei, preciso começar a anotar estes nomes. 
+pt	Tenho de começar a apontar os nomes. 
 ro	Ar trebui să încep să-mi notez câteva dintre numele astea. 
 sv	Oj, jag måste börja skriva ner alla namn. 
 th	ผมคงต้องเริ่มจดชื่อไว้แล้วล่ะ | 

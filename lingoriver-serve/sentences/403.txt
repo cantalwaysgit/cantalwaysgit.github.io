@@ -12,8 +12,8 @@ fr	- On y va. - Pour être à l'aise.
 he	&rlm;‏‏הנה. | &rlm;‏-זה בשביל להרגיש בנוח.‏ | 
 it	- Eccoci. - Rilassati. 
 no	-Sånn. -...om å føle seg vel. 
-pr-br	-Vamos. -Tem a ver com ficar à vontade. 
-pr	- Vamos lá. - Tem que ver com estar confortável. 
+pt-br	-Vamos. -Tem a ver com ficar à vontade. 
+pt	- Vamos lá. - Tem que ver com estar confortável. 
 ro	- Începem! - Trebuie să fii în largul tău. 
 th	- เอาละนะ | - เรื่องของการทำตัวสบายๆ | 
 tr	-Başlıyoruz. -Rahat olman için. 

@@ -11,8 +11,8 @@ it	Grazie, Sandy. Dopo tutti questi anni, mi fa lavorare a un matrimonio.
 nl	Bedankt, Sandy. Na jaren samenwerking laat hij me een bruiloft doen. 
 no	Takk, Sandy. Etter alle disse årene i bransjen booker han meg til et bryllup. 
 pl	Dziękuję, Sandy. Po tylu latach w końcu występuję na ślubie. 
-pr-br	Obrigado, Sandy. Depois de tantos anos, ele me fez trabalhar em um casamento. 
-pr	Obrigado, Sandy. Depois de tantos anos, pôs-me a trabalhar num casamento. 
+pt-br	Obrigado, Sandy. Depois de tantos anos, ele me fez trabalhar em um casamento. 
+pt	Obrigado, Sandy. Depois de tantos anos, pôs-me a trabalhar num casamento. 
 ro	Mersi, Sandy. După atâția ani, m-a adus să lucrez la o nuntă. 
 sv	Tack, Sandy. Efter alla år i branschen får jag jobba på ett bröllop. 
 th	ขอบคุณ แซนดี้ หลังจากหลายปีผ่านมา | เขาให้ผมเป็นพิธีกรงานแต่ง | 

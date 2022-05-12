@@ -13,8 +13,8 @@ it	Fai volare farfalle, farfalla
 ko	날 설레게 해 | 
 nl	je geeft me vlinders 
 pl	Przez ciebie czuję motylki 
-pr-br	Você me dá arrepios 
-pr	Provocas-me arrepios 
+pt-br	Você me dá arrepios 
+pt	Provocas-me arrepios 
 ro	Simt fluturi Fluturi 
 sv	Du ger mig fjärilar, fjärilar 
 th	คุณทำให้ผีเสื้อกระพือปีก | 

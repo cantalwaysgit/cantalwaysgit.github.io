@@ -11,8 +11,8 @@ it	Non mi devi ringraziare. È stato un piacere.
 ko	고마울 거 없어 | 당연히 해야지 | 
 nl	Je hoeft me niet te bedanken. Ik doe het graag. 
 pl	Nie musisz mi dziękować. To była dla mnie przyjemność. 
-pr-br	Não precisa me agradecer. É um prazer. 
-pr	Não precisas de me agradecer. Foi um prazer. 
+pt-br	Não precisa me agradecer. É um prazer. 
+pt	Não precisas de me agradecer. Foi um prazer. 
 ro	Nu trebuie să-mi mulțumești. A fost plăcerea mea. 
 th	ไม่ต้องขอบคุณผม ด้วยความยินดียิ่ง | 
 tr	Teşekkür etmene gerek yok. Benim için zevkti. 

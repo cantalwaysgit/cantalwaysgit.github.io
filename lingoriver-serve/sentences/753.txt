@@ -15,8 +15,8 @@ ko	처음부터 |
 nl	Vanaf het begin. 
 no	Fra begynnelsen. 
 pl	Od początku. 
-pr-br	Do início. 
-pr	Do início. 
+pt-br	Do início. 
+pt	Do início. 
 ro	De la capăt! 
 sv	Från början. 
 th	จากเริ่มต้นเลย | 

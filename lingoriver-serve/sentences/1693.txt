@@ -16,8 +16,8 @@ ko	노력해 볼게요 |
 nl	Dat probeer ik. 
 no	Jeg prøver. 
 pl	Staram się. 
-pr-br	Estou tentando. 
-pr	Estou a tentar. 
+pt-br	Estou tentando. 
+pt	Estou a tentar. 
 ro	Încerc. 
 sv	Jag ska försöka. 
 tr	Denerim. 

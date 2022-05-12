@@ -15,8 +15,8 @@ ko	이 사진도 확대해 주실래요? |
 nl	En kun je die uitvergroten? 
 no	Og kan du forstørre dette? 
 pl	I wywołaj dla mnie też to. 
-pr-br	Você pode ampliar esta? 
-pr	E podes aumentar aquela? 
+pt-br	Você pode ampliar esta? 
+pt	E podes aumentar aquela? 
 ro	Și poți s-o mărești pe aia? 
 sv	Kan du förstora den där? 
 th	แล้วช่วยขยายรูปนั้นได้ไหม | 

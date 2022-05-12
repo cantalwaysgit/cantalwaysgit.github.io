@@ -14,8 +14,8 @@ ko	목소리나 상업성을 따지자면 | 당연히 가능해 |
 nl	Qua geluid en commercieel gezien, absoluut. 
 no	Når det gjelder lyd og salgbarhet, absolutt. 
 pl	Jeśli chodzi o skalę głosu i sprzedaż, to tak. 
-pr-br	Em relação à música e comercialidade, com certeza. 
-pr	Em termos de som e valor comercial, sem dúvida. 
+pt-br	Em relação à música e comercialidade, com certeza. 
+pt	Em termos de som e valor comercial, sem dúvida. 
 ro	În ceea ce privește muzica și vânzările, sigur. 
 th	ในแง่ของเสียงและความขายได้ แน่นอน | 
 tr	Ses ve satış olanakları açısından, kesinlikle. 

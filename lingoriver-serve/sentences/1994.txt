@@ -13,8 +13,8 @@ it	Vado a chiamare la polizia.
 nl	Ja. Om de politie te bellen. 
 no	Ja, for å ringe politiet. 
 pl	Wejdę i wezwę policję. 
-pr-br	Eu vou chamar a polícia. 
-pr	Vou mesmo. Para chamar a Polícia. 
+pt-br	Eu vou chamar a polícia. 
+pt	Vou mesmo. Para chamar a Polícia. 
 ro	Asta fac. O să sun la poliție. 
 ru	Зайду. И вызову полицию. 
 sv	Ja, för att ringa polisen. 

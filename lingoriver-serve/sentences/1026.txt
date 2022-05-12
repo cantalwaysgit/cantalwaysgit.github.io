@@ -16,8 +16,8 @@ it	Sì, cerchiamolo.
 nl	We gaan hem zoeken. 
 no	Vi finner ham. 
 pl	Poszukajmy go. 
-pr-br	Sim, vamos encontrá-lo. 
-pr	Sim, vamos procurá-lo. 
+pt-br	Sim, vamos encontrá-lo. 
+pt	Sim, vamos procurá-lo. 
 ro	Da, să-l găsim. 
 th	ใช่ ไปหาเขากัน | 
 tr	Evet, hadi onu bulalım. 

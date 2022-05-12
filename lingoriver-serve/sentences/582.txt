@@ -13,8 +13,8 @@ he	&rlm;‏לילה טוב.‏ |
 it	Buonanotte. 
 no	Ha det bra. 
 pl	Dobranoc. 
-pr	Boa noite. 
-pr-br	Boa noite. 
+pt	Boa noite. 
+pt-br	Boa noite. 
 ro	Noapte bună! 
 sv	God natt. 
 th	ราตรีสวัสดิ์ | 

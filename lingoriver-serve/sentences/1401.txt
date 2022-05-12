@@ -12,8 +12,8 @@ it	È il mio discografico. E nient'altro.
 ko	업무상 만나지 | 이제는 그런 사이 아니에요 | 
 nl	Hij is mijn label-man. Niet meer mijn vriend. 
 pl	Wydaje moje płyty. Już nie jesteśmy razem. 
-pr-br	Ele é da minha gravadora. Não é mais o meu namorado. 
-pr	Pois, ele é só o meu produtor. Já não é meu namorado. 
+pt-br	Ele é da minha gravadora. Não é mais o meu namorado. 
+pt	Pois, ele é só o meu produtor. Já não é meu namorado. 
 ro	El se ocupă de casa de discuri. Nu mai sunt cu el în felul ăla. 
 sv	Han är min skivbolagskille. Han är inte min pojkvän längre. 
 th	เขาเป็นคนดูแลผลงานฉัน | แต่ไม่ใช่แฟนอีกแล้ว | 

@@ -13,8 +13,8 @@ he	&rlm;‏לא קיבלת כוכב אחד ב"מחפשים כוכב"?‏ |
 it	Non sei quello che ha preso una sola stella a  Star Search? 
 nl	Kreeg jij niet één ster bij  Star Search? 
 no	Fikk du ikke én stjerne på  Star Search? 
-pr-br	Não recebeu uma estrela em  Star Search? 
-pr	Não obteve uma estrela no  Star Search? 
+pt-br	Não recebeu uma estrela em  Star Search? 
+pt	Não obteve uma estrela no  Star Search? 
 ro	N-ai primit o stea la  Star Search? 
 sv	Fick du inte en stjärna i  Star Search  häromdan? 
 th	คุณใช่ไหมที่ได้ดาวเดียว | ในรายการสตาร์เซิร์ช | 

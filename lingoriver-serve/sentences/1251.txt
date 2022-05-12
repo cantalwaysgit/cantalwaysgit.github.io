@@ -14,8 +14,8 @@ it	Non posso dedicarmi a te completamente se penso anche ad altro,
 nl	Ik kan me niet 100% aan jou wijden als ik andere dingen aan m'n hoofd heb. 
 no	Jeg kan ikke gi deg 100 % hvis jeg har andre ting å tenke på, 
 pl	Nie mogę poświęcić się tobie w 100%, jeśli głowę zaprzątają mi inne rzeczy. 
-pr-br	Não posso me comprometer 100% com você se eu tiver outras coisas em mente, 
-pr	Não me posso comprometer a 100 % se tiver outras coisas em mente, 
+pt-br	Não posso me comprometer 100% com você se eu tiver outras coisas em mente, 
+pt	Não me posso comprometer a 100 % se tiver outras coisas em mente, 
 ro	Nu mă pot concentra pe deplin la tine dacă mai am și altele pe cap 
 sv	Jag kan inte engagera mig i dig till 100 % om jag tänker på annat, 
 th	ผมให้คุณเต็มร้อยไม่ได้ | หากผมมีเรื่องอื่นในใจ | 

@@ -14,8 +14,8 @@ ko	- 내가 우승했어! | - 네가 짱 먹어! |
 nl	Ik heb de riem. Ik ben kampioen. 
 no	Jeg fikk beltet! Jeg er mester! 
 pl	- Zdobyłem pas! Jestem mistrzem! - Brawo! 
-pr-br	-Venci o cinturão! Sou o campeão! -Você é o cara! 
-pr	- Tenho o cinto! Sou o campeão! - És o maior! 
+pt-br	-Venci o cinturão! Sou o campeão! -Você é o cara! 
+pt	- Tenho o cinto! Sou o campeão! - És o maior! 
 ro	- Am obținut centura! Sunt campionul! - Ești cel mai tare! 
 sv	-Jag fick bältet, jag är mästare! -Du är bäst! 
 th	- ได้เข็มขัดแล้ว ฉันเป็นแชมป์ | - นายคือแชมป์ | 

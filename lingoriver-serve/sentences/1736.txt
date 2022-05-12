@@ -11,8 +11,8 @@ he	&rlm;‏‏סנדי. | &rlm;‏-קירבי.‏ |
 it	- Sandy. - Kirby. 
 no	-Sandy. -Kirby. 
 pl	- Sandy. - Kirby. 
-pr-br	-Sandy. -Kirby. 
-pr	- Sandy. - Kirby. 
+pt-br	-Sandy. -Kirby. 
+pt	- Sandy. - Kirby. 
 ro	- Sandy! - Kirby. 
 sv	-Sandy. -Kirby. 
 th	- แซนดี้ | - เคอร์บี้ | 

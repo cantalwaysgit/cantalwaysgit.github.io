@@ -15,8 +15,8 @@ ko	식사 예절은 말 같았지만 | 훌륭한 매니저였어요 |
 nl	...had de tafelmanieren van een paard, maar hij was een geweldige manager. 
 no	hadde bordskikken til en hest, men han var en flott manager. 
 pl	jadł jak świnia, ale był wspaniałym menedżerem. 
-pr	à mesa portava-se como um cavalo, mas era um excelente empresário. 
-pr-br	tinha modos de um cavalo, mas era um grande empresário. 
+pt	à mesa portava-se como um cavalo, mas era um excelente empresário. 
+pt-br	tinha modos de um cavalo, mas era um grande empresário. 
 ro	la masă avea manierele unui cal, dar era un impresar grozav. 
 sv	hans bordsskick var som en hästs, men han var en bra manager. 
 th	มารยาทบนโต๊ะอาหารแบบม้า | แต่เขาเป็นผู้จัดการที่สุดยอด | 

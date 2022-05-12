@@ -11,8 +11,8 @@ it	No, dissi che era assurdo non poterla depositare.
 nl	Ik zei dat het vreemd was dat we geen copyright kregen. 
 no	Nei, jeg sa det var rart at vi ikke kunne gjøre det. 
 pl	Nie, powiedziałem, że to dziwne, że nie możemy go zastrzec. 
-pr-br	Não, eu disse que era estranho não conseguirmos patenteá-la. 
-pr	Não, disse que era estranho não podermos pedir direitos de autor. 
+pt-br	Não, eu disse que era estranho não conseguirmos patenteá-la. 
+pt	Não, disse que era estranho não podermos pedir direitos de autor. 
 ro	Nu. Am zis că e ciudat că nu putem rezerva drepturile. 
 sv	Nej, jag sa att det var skumt att vi inte fick copyright. 
 th	เปล่า ฉันพูดว่ามันเพี้ยน | ที่เราไม่สามารถจดลิขสิทธิ์มันได้ | 

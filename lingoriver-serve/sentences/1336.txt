@@ -16,8 +16,8 @@ fr	Tu sais ce qui me plaît chez toi ?
 he	&rlm;‏‏אתה יודע מה אני אוהבת בך? | &rlm;‏-כן?‏ | 
 it	- Sai cosa adoro di te? - Cosa? 
 ko	- 당신이 왜 좋은지 알아요? | - 왜요? | 
-pr-br	-Sabe o que amo em você? -Sim? 
-pr	- Sabes o que adoro em ti? - O quê? 
+pt-br	-Sabe o que amo em você? -Sim? 
+pt	- Sabes o que adoro em ti? - O quê? 
 ro	- Știi ce ador la tine? - Ce? 
 th	- รู้ไหมฉันชอบอะไรเกี่ยวกับคุณ | - อะไรหรือ | 
 vi	- Anh biết tôi thích gì ở anh không? | - Vâng? | 
@@ -37,8 +37,8 @@ fr	Ta voix.
 he	&rlm;‏את הקול שלך.‏ | 
 it	La voce. 
 ko	목소리 때문에요 | 
-pr	A tua voz. 
-pr-br	A sua voz. 
+pt	A tua voz. 
+pt-br	A sua voz. 
 ro	Vocea ta. 
 th	เสียงคุณ | 
 vi	Chất giọng của anh. | 

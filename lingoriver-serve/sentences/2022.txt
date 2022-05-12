@@ -13,8 +13,8 @@ it	C'è un uomo che desidera esserti completamente devoto per tutta la vita.
 ko	너한테 평생 100% 헌신할 | 남자가 있어 | 
 nl	Er is een man die jou de rest van je leven toegewijd wil zijn. 
 no	En fyr som vil gi deg 100 % resten av sitt liv. 
-pr-br	Tem um cara disposto a se dedicar 100% a você por toda a sua vida. 
-pr	Há um tipo disposto a dedicar-se 100 % a ti para o resto da tua vida. 
+pt-br	Tem um cara disposto a se dedicar 100% a você por toda a sua vida. 
+pt	Há um tipo disposto a dedicar-se 100 % a ti para o resto da tua vida. 
 ro	Există un tip care dorește să-ți fie devotat pe deplin toată viața. 
 sv	Det finns en kille som är villig att vara dig trogen hela livet. 
 tr	Hayatın boyunca kendini %100 sana adamaya hazır bir adam var. 

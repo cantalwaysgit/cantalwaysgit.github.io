@@ -11,8 +11,8 @@ ko	이거 정말 맛이 기막히군 |
 nl	Wat lekker. 
 no	Hvor godt er dette? Fenomenalt. 
 pl	Czy dobre? Przepyszne. 
-pr-br	Isto aqui está demais. Uma delícia. 
-pr	Isto está mesmo bom. Fenomenal. 
+pt-br	Isto aqui está demais. Uma delícia. 
+pt	Isto está mesmo bom. Fenomenal. 
 ro	Cât de bun e? Fenomenal! 
 sv	Hur gott är inte det här? Fenomenalt. 
 th	อร่อยจริงเลย สุดยอด | 

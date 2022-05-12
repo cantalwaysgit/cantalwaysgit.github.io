@@ -15,8 +15,8 @@ ko	중국 음식 먹을래? |
 nl	Chinees? 
 no	Kinesisk? 
 pl	Chińszczyzna? 
-pr-br	Comida chinesa? 
-pr	Comida chinesa? 
+pt-br	Comida chinesa? 
+pt	Comida chinesa? 
 ro	Mâncare chinezească? 
 sv	Kinamat? 
 th	อาหารจีนล่ะ | 

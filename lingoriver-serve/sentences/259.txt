@@ -12,8 +12,8 @@ it	Non riuscivo a staccarle gli occhi di dosso.
 ko	눈을 뗄 수가 없었어요 | 
 nl	Ik moest naar je blijven kijken. 
 pl	Nie mogłem oderwać od ciebie oczu. 
-pr-br	Não consegui tirar os olhos de você no palco. 
-pr	Não consegui tirar os olhos de si. 
+pt-br	Não consegui tirar os olhos de você no palco. 
+pt	Não consegui tirar os olhos de si. 
 ro	Nu mi-am putut lua ochii de la tine. 
 ru	Я не мог оторвать от вас глаз. 
 sv	Jag kunde inte ta ögonen från dig. 

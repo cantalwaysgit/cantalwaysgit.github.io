@@ -17,8 +17,8 @@ it	Lascerò che sia tu a occupartene, va bene?
 ko	그건 너한테 맡길게, 됐지? | 
 nl	Dat laat ik dan aan jou over, goed? 
 no	Jeg lar deg ta deg av det. 
-pr-br	Vou deixar você cuidar de tudo isso,  está bem? 
-pr	Eu deixo-te tratar disso, está bem? 
+pt-br	Vou deixar você cuidar de tudo isso,  está bem? 
+pt	Eu deixo-te tratar disso, está bem? 
 ro	Te las pe tine să te ocupi, da? 
 sv	Du får ta hand om allt. 
 tr	Sen halledersin, tamam mı? 

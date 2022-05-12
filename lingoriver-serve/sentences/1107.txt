@@ -11,8 +11,8 @@ it	Cos'era?
 nl	Wat is dat? 
 no	Hva er det? 
 pl	Co? 
-pr-br	O que foi isso? 
-pr	O que foi aquilo? 
+pt-br	O que foi isso? 
+pt	O que foi aquilo? 
 ro	Ce s-a auzit? 
 sv	Vad är det? 
 th	นั่นอะไร | 

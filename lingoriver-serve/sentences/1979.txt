@@ -12,8 +12,8 @@ it	Ti sorprende?
 nl	Verbaast je dat? 
 no	Er du overrasket? 
 pl	Dziwisz się? 
-pr-br	Está surpreso com isso? 
-pr	Estás admirado? 
+pt-br	Está surpreso com isso? 
+pt	Estás admirado? 
 ro	Și te surprinde? 
 sv	Överraskar det dig? 
 th	ประหลาดใจเหรอ | 

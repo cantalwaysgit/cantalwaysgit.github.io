@@ -14,8 +14,8 @@ it	da quando mi hanno aggredito a Ventura Place.
 nl	...sinds ik ben aangevallen op Ventura Place. 
 no	...siden jeg ble angrepet på Ventura Place. 
 pl	od kiedy mnie napadli na Ventura Place. 
-pr-br	desde que fui atacado no shopping. 
-pr	desde que fui atacado em Ventura Place. 
+pt-br	desde que fui atacado no shopping. 
+pt	desde que fui atacado em Ventura Place. 
 ro	de când am fost atacat pe strada Ventura Place. 
 sv	ända sen jag attackerades på Ventura Place. 
 th	ตั้งแต่โดนทำร้ายที่เวนทูราเพลซ | 

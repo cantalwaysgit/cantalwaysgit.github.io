@@ -14,8 +14,8 @@ it	Non lo indosserò.
 ko	안 쓸 거예요 | 
 nl	Dat doe ik niet. 
 pl	Nie założę. 
-pr-br	Nem pensar. 
-pr	Não vou pôr isso. 
+pt-br	Nem pensar. 
+pt	Não vou pôr isso. 
 ro	Nici vorbă. 
 sv	Det gör jag inte. 
 th	ฉันจะไม่ใส่ | 
@@ -37,8 +37,8 @@ fr	...pour te rappeler d'où tu viens.
 he	&rlm;‏ותזכירי לעצמך מאיפה הגעת.‏ | 
 it	...per ricordarti da dove vieni. 
 nl	Dan weet je weer waar het begon. 
-pr-br	...assim se lembrará de suas origens. 
-pr	... para te lembrares de onde vens. 
+pt-br	...assim se lembrará de suas origens. 
+pt	... para te lembrares de onde vens. 
 ro	...să-ți amintești de unde ai plecat. 
 sv	...för att minnas var du började. 
 th	เพื่อเตือนใจว่าคุณมาจากไหน | 

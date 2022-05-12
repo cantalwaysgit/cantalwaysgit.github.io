@@ -10,8 +10,8 @@ fr	Un peu bizarre, le prêtre et le rabbin ensemble.
 he	&rlm;‏זה היה מוזר, הכומר והרבי ביחד.‏ | 
 it	Anche se è strano avere un prete e un rabbino insieme. 
 no	Det var pinlig, presten og rabbien sammen. 
-pr-br	Foi estranho ver o padre e o rabino juntos. 
-pr	Foi estranho ver o padre e o rabino juntos. 
+pt-br	Foi estranho ver o padre e o rabino juntos. 
+pt	Foi estranho ver o padre e o rabino juntos. 
 ro	A fost puțin ciudat, preotul și rabinul laolaltă. 
 sv	Det var underligt med både en präst och rabbi tillsammans. 
 th	มันกระอักกระอ่วน | บาทหลวงกับแรบไบอยู่ด้วยกัน | 
@@ -38,8 +38,8 @@ he	&rlm;‏הרבי חיפש בגוגל, "מי זה ישו הנוצרי"?‏ |
 it	Il rabbino ha cercato su Google: "Chi è Gesù Cristo?" 
 ko	랍비는 구글로 예수 그리스도가 | 누군지 검색했죠 | 
 no	Rabbien googlet: "Hvem er Jesus Kristus?" 
-pr-br	O rabino estava no Google: "Quem é Jesus Cristo?" 
-pr	O rabino estava a pesquisar: "Quem é Jesus Cristo?" 
+pt-br	O rabino estava no Google: "Quem é Jesus Cristo?" 
+pt	O rabino estava a pesquisar: "Quem é Jesus Cristo?" 
 ro	Rabinul căuta pe Google: "Cine e Iisus Hristos?" 
 th	แรบไบกูเกิลดูว่า "ใครคือพระเยซู" | 
 vi	Giáo sĩ tra google, "Chúa Jesus là ai?" | 
@@ -60,8 +60,8 @@ fr	Mais c'est rien.
 he	&rlm;‏אבל זה בסדר.‏ | 
 it	Ma va bene. 
 no	Men det er greit. 
-pr-br	Mas tudo bem. 
-pr	Mas não faz mal. 
+pt-br	Mas tudo bem. 
+pt	Mas não faz mal. 
 ro	Dar e în regulă. 
 vi	Nhưng không sao. | 
 zh-long	沒關係 

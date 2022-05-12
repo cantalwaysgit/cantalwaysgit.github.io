@@ -15,8 +15,8 @@ ko	샌디, 저건 비행기잖아요 |
 nl	Sandy, dat is een vliegtuig. 
 no	Sandy, det er et fly. 
 pl	To samolot. 
-pr-br	Sandy, aquilo é um avião. 
-pr	Sandy, aquilo é um avião. 
+pt-br	Sandy, aquilo é um avião. 
+pt	Sandy, aquilo é um avião. 
 ro	Sandy, ăla e un avion! 
 sv	Sandy, det är ett flygplan. 
 th	แซนดี้ นั่นมันเครื่องบิน | 

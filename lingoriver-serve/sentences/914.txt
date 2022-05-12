@@ -13,8 +13,8 @@ it	Voglio sapere che stazione sta ascoltando!
 nl	Ik vraag naar welke zender je luistert. 
 no	Jeg spør deg hvilken kanal du hører på! 
 pl	Pytam o stację radiową! 
-pr-br	Estou perguntando qual é a estação que está ouvindo! 
-pr	Estou a perguntar que estação está a ouvir! 
+pt-br	Estou perguntando qual é a estação que está ouvindo! 
+pt	Estou a perguntar que estação está a ouvir! 
 ro	Te întreb ce post de radio asculți! 
 sv	Jag frågar vilken station du lyssnar på! 
 th	ผมกำลังถามว่าคุณฟังสถานีอะไรอยู่ | 

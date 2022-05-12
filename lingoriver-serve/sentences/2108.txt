@@ -11,8 +11,8 @@ it	È davvero felice.
 ko	정말 행복한가 보네 | 
 nl	Hij is zo gelukkig. 
 pl	Jest taki szczęśliwy. 
-pr-br	Ele está muito feliz. 
-pr	Ele está tão feliz. 
+pt-br	Ele está muito feliz. 
+pt	Ele está tão feliz. 
 ro	E atât de fericit! 
 sv	Han är så lycklig. 
 tr	Çok mutlu. 

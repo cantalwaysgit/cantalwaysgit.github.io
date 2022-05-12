@@ -14,8 +14,8 @@ ko	원하는 대가가 뭔데요? |
 nl	Wat wil hij ervoor terug? 
 no	Hva vil han ha til gjengjeld? 
 pl	Czego chce w zamian? 
-pr-br	O que ele quer em troca? 
-pr	O que é que ele quer em troca? 
+pt-br	O que ele quer em troca? 
+pt	O que é que ele quer em troca? 
 ro	Dar ce-și dorește el în schimb? 
 ru	И чего он просит взамен? 
 sv	Vad vill han ha i gengäld? 

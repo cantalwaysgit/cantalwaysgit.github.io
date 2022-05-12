@@ -14,8 +14,8 @@ he	&rlm;‏האידיוט הזה רוצה להיות המנהל שלך?‏ |
 it	Il matto che vuole farti da manager? 
 ko	이 멍청이가 | 네 매니저 하겠대? | 
 nl	Wil deze idioot je manager zijn? 
-pr-br	Este idiota quer ser seu empresário? 
-pr	É o idiota que quer ser teu empresário? 
+pt-br	Este idiota quer ser seu empresário? 
+pt	É o idiota que quer ser teu empresário? 
 ro	Fraierul ăsta vrea să-ți fie impresar? 
 sv	Är det dåren som vill företräda dig? 
 th	ไอ้โง่นี่เหรอที่อยากเป็นผู้จัดการลูก | 

@@ -1,7 +1,7 @@
 id	Reiser luar biasa di panggung. Ayolah. 
 pl	Reiser jest świetny. 
 ru	Райзер сегодня отжигает. 
-pr-br	Reiser está detonando lá. 
+pt-br	Reiser está detonando lá. 
 ar	&rlm;‏"رايزر" مضحك جداً.‏ | 
 da	Reiser er da sjov. 
 el	Ο Ράιζερ σκίζει εκεί έξω. 
@@ -14,7 +14,7 @@ it	Reiser è fenomenale.
 ko	폴 라이저가 잘하네 | 
 nl	Reiser is geweldig. 
 no	Reiser er rå der ute. 
-pr	O Reiser está a arrasar, então? 
+pt	O Reiser está a arrasar, então? 
 ro	Reiser face un spectacol de zile mari. 
 sv	Reiser är fantastisk på scen. 
 th	ไรเซอร์เจ๋งมากเลย | 

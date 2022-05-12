@@ -14,8 +14,8 @@ ko	훌륭하네요 |
 nl	Ja, dat is briljant. 
 no	Ja, det er fantastisk. 
 pl	Wspaniale. 
-pr-br	Isso, brilhante. 
-pr	Sim, excelente. 
+pt-br	Isso, brilhante. 
+pt	Sim, excelente. 
 ro	Da, e genial! 
 sv	Det är fantastiskt. 
 th	ใช่เลย สุดยอด | 

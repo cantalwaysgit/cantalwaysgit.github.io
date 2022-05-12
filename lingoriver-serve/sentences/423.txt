@@ -13,8 +13,8 @@ it	Bene. Sì. Muoviamo la carrozzeria. Scuotere, chiaro?
 ko	좋아요, 한번 해봅시다 | 
 nl	Oké. We gaan shoopen. 
 pl	Salt-n-Pepa. To jest to. 
-pr-br	Só no chupa-chupa. Chupa que é de uva. 
-pr	Muito bem. Vamos sensualizar. Toca a sensualizar, sim? 
+pt-br	Só no chupa-chupa. Chupa que é de uva. 
+pt	Muito bem. Vamos sensualizar. Toca a sensualizar, sim? 
 ro	Bine. Să-i dăm bătaie! Ne unduim, da? 
 ru	Вот-вот. Бамс-бамс! Покажем им бамс-бамс? 
 sv	Okej. Låt oss shoopa till det. Shoop it up! 

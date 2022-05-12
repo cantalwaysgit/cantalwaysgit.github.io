@@ -13,8 +13,8 @@ ko	잘 풀렸다니 다행이야 | 진심으로 |
 nl	Ik ben echt blij dat het je gelukt is. 
 no	Jeg er glad det ordnet seg for deg. Det er jeg virkelig. 
 pl	Cieszę się, że odniosłeś sukces. Naprawdę. 
-pr	Ainda bem que correu bem. Fico feliz por ti. Sinceramente. 
-pr-br	Fico feliz que tudo tenha dado certo. De verdade. 
+pt	Ainda bem que correu bem. Fico feliz por ti. Sinceramente. 
+pt-br	Fico feliz que tudo tenha dado certo. De verdade. 
 ro	Mă bucur că s-au aranjat toate pentru tine. Sincer. 
 sv	Jag är glad att du lyckades. 
 th	ดีใจนะที่มันออกมาดีสำหรับนาย | จริงๆ นะ ด้วยความสัตย์ | 

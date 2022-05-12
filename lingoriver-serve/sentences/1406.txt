@@ -15,8 +15,8 @@ ko	라미로 알레한드로예요 |
 nl	Ramiro Alejandro. 
 no	Ramiro Alejandro. 
 pl	Ramiro Alejandro. 
-pr-br	Ramiro Alejandro. 
-pr	Ramiro Alejandro. 
+pt-br	Ramiro Alejandro. 
+pt	Ramiro Alejandro. 
 ro	Ramiro Alejandro. 
 sv	Ramiro Alejandro. 
 th	รามิโร อเลฮันโดร | 

@@ -1,7 +1,7 @@
 el	Θα πηδήξει όντως πάνω από όλα αυτά τα τροχόσπιτα; 
 sv	Ska han verkligen hoppa över alla trailrarna? 
 ja	あんな距離 飛べるのか？ | 
-pr-br	Ele vai mesmo saltar sobre todos aqueles trailers? 
+pt-br	Ele vai mesmo saltar sobre todos aqueles trailers? 
 da	Har han tænkt sig at springe over de campingvogne? 
 ar	&rlm;‏هل سيقفز حقاً فوق كل تلك المقطورات؟‏ | 
 en	He's really gonna jump | over all those trailers? | 
@@ -16,7 +16,7 @@ ko	정말 트레일러를 | 전부 뛰어넘을 건가요? |
 nl	Gaat hij echt over al die trailers springen? 
 no	Skal han virkelig hoppe over alle vognene? 
 pl	Naprawdę przeskoczy te przyczepy? 
-pr	Ele vai mesmo saltar por cima daquelas caravanas todas? 
+pt	Ele vai mesmo saltar por cima daquelas caravanas todas? 
 ro	Chiar o să sară peste toate rulotele alea? 
 ru	Он правда перепрыгнет все эти трейлеры? 
 th	เขาจะกระโดดข้าม | รถพ่วงทั้งหมดนั่นได้จริงๆ เหรอ | 

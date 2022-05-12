@@ -6,7 +6,7 @@ es-eu	TIRITAS
 fr	PANSEMENTS 
 he	&rlm;‏- פלסטר -‏ | 
 no	PLASTER 
-pr	PENSOS RÁPIDOS 
+pt	PENSOS RÁPIDOS 
 ro	LEUCOPLAST 
 sv	PLÅSTER 
 th	(พลาสเตอร์ยา) | 

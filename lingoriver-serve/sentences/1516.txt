@@ -13,8 +13,8 @@ it	Perché lo so. Io so tutto.
 nl	Ik weet alles. 
 no	Fordi jeg vet. Jeg vet alt. 
 pl	Ja wiem wszystko. 
-pr-br	Porque eu sei. Eu sei de tudo. 
-pr	Porque sei. Eu sei tudo. 
+pt-br	Porque eu sei. Eu sei de tudo. 
+pt	Porque sei. Eu sei tudo. 
 ro	Eu știu totul. 
 sv	För att jag vet allt. 
 th	เพราะผมรู้ ผมรู้ทุกอย่าง | 

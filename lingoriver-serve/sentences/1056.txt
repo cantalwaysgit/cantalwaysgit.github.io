@@ -11,8 +11,8 @@ he	&rlm;‏כן. תודה.‏.. |
 it	Sì. Grazie. 
 ko	네, 고마워요 | 
 no	Ja. Takk. 
-pr-br	Sim. Obrigado. 
-pr	Sim. Obrigado. 
+pt-br	Sim. Obrigado. 
+pt	Sim. Obrigado. 
 ro	Da. Mulțumesc. 
 th	ครับ ขอบคุณ | 
 tr	Evet. Teşekkür ederim. 

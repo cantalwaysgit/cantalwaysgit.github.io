@@ -8,8 +8,8 @@ es	- ¡Sandy! - No.
 he	&rlm;‏‏סנדי! | &rlm;‏-לא.‏ | 
 it	- Sandy! - No. 
 ko	- 샌디! | - 안 돼 | 
-pr-br	-Sandy! -Não. 
-pr	- Sandy! - Não. 
+pt-br	-Sandy! -Não. 
+pt	- Sandy! - Não. 
 ro	- Sandy! - Nu. 
 vi	- Sandy! | - Không. | 
 zh-long	-山迪！ -糟糕 

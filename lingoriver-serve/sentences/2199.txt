@@ -6,7 +6,7 @@ es-eu	¡Sí!
 es	¡Sí! 
 he	&rlm;‏כן!‏ | 
 ko	오예! | 
-pr	Sim! 
+pt	Sim! 
 ro	Da! 
 sv	Ja! 
 th	เย่ | 

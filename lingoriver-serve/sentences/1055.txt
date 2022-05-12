@@ -11,8 +11,8 @@ it	Dimmi che ne pensi, tesoro.
 ko	맛이 어떤지 말해줘요 | 
 nl	Vertel me wat je ervan vindt. 
 pl	Powiedzcie, co sądzicie. 
-pr-br	Me diga o que acha, querida. 
-pr	Diz-me o que achas, querida. 
+pt-br	Me diga o que acha, querida. 
+pt	Diz-me o que achas, querida. 
 sv	Få höra vad du tycker, raring. 
 tr	Ne düşündüğünü söyle yavrum. 
 vi	Phát biểu cảm tưởng nhé. | 

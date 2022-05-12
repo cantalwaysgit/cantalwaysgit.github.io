@@ -13,8 +13,8 @@ he	&rlm;‏הייתה רעידת אדמה בלוס אנג'לס.‏ |
 it	A Los Angeles c'è stato un terremoto. 
 no	Det var jordskjelv i Los Angeles. 
 pl	W Los Angeles było trzęsienie ziemi. 
-pr-br	Houve um terremoto em Los Angeles. 
-pr	Houve um tremor de terra em Los Angeles. 
+pt-br	Houve um terremoto em Los Angeles. 
+pt	Houve um tremor de terra em Los Angeles. 
 ro	A fost un cutremur în Los Angeles. 
 sv	Det var jordbävning i Los Angeles. 
 th	เกิดแผ่นดินไหวในลอสแอนเจลิส | 

@@ -13,8 +13,8 @@ it	- Senti una cosa. - Cosa?
 ko	- 이렇게 하죠 | - 어떻게? | 
 no	-Hør her. -Ja? 
 pl	- Zróbmy tak. - Jak? 
-pr-br	-Quer saber? -Quê? 
-pr	- Fazemos o seguinte. - O quê? 
+pt-br	-Quer saber? -Quê? 
+pt	- Fazemos o seguinte. - O quê? 
 ro	- Uite ce! - Ce? 
 sv	-Vet du vad? -Vad? 
 th	- เอาอย่างนี้นะ | - อะไร | 

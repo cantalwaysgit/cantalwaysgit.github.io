@@ -14,8 +14,8 @@ it	- Peter non sta bene da molto tempo. - Già.
 nl	Peter is al lang ziek. 
 no	-Peter har vært syk lenge. -Ja. 
 pl	- Peter od dawna choruje. - Tak. 
-pr-br	-Peter está doente há muito tempo. -É. 
-pr	- O Peter está doente há muito tempo. - Sim. 
+pt-br	-Peter está doente há muito tempo. -É. 
+pt	- O Peter está doente há muito tempo. - Sim. 
 ro	- Peter e bolnav de mult timp. - Da. 
 sv	-Peter har varit sjuk länge. -Ja. 
 th	- ปีเตอร์ไม่สบายมานานแล้ว | - ครับ | 

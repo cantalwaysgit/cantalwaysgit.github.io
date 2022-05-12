@@ -12,8 +12,8 @@ ko	애들 앞에서 들이대지 마세요 |
 nl	Flirt niet met me waar je kinderen bij zijn. 
 no	Ikke flørt med meg foran ungene dine. 
 pl	Niech mnie pan nie podrywa przy dzieciach. 
-pr-br	Não dê em cima de mim na frente das suas filhas. 
-pr	Não se atire a mim diante dos seus filhos. Mete medo. 
+pt-br	Não dê em cima de mim na frente das suas filhas. 
+pt	Não se atire a mim diante dos seus filhos. Mete medo. 
 ro	Nu flirta cu mine în fața copiilor! 
 sv	Stöt inte på mig inför dina barn. 
 th	อย่ามาขายขนมจีบฉันต่อหน้าลูกๆ คุณนะ | 

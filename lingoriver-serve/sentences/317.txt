@@ -15,8 +15,8 @@ ko	우리 딸을 보니 아주 좋구나 |
 nl	Altijd goed wanneer ik m'n meisje zie. 
 no	Bra når jeg får se jenta mi. 
 pl	Zawsze miło zobaczyć córeczkę. 
-pr-br	É sempre um ótimo dia quando vejo a minha filha. 
-pr	É sempre um bom dia quando vejo a minha menina. 
+pt-br	É sempre um ótimo dia quando vejo a minha filha. 
+pt	É sempre um bom dia quando vejo a minha menina. 
 ro	Ziua în care îmi văd fata e minunată. 
 th	มันคือวันเยี่ยมเสมอเมื่อเจอลูก | 
 tr	Kızımı gördüm ya, daha ne isterim? 

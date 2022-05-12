@@ -15,8 +15,8 @@ ko	그 녀석들은 네가 대단해서 | 널 좋아한 거야 |
 nl	Al die mannen gingen achter je aan omdat je geweldig bent. 
 no	Alle de mennene ville ha deg fordi du er utrolig. 
 pl	Tamci uganiali się za tobą, bo jesteś niezwykłą kobietą. 
-pr-br	Todos esses caras ficaram no seu pé porque você é incrível. 
-pr	Eles andavam todos atrás de ti porque és incrível. 
+pt-br	Todos esses caras ficaram no seu pé porque você é incrível. 
+pt	Eles andavam todos atrás de ti porque és incrível. 
 ro	Toți tipii ăia alergau după tine fiindcă ești incredibilă. 
 sv	Alla de grabbarna jagade dig för att du är enastående. 
 th	หนุ่มๆ พวกนั้นไล่ตามคุณ | เพราะคุณพิเศษเหลือเชื่อ | 

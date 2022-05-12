@@ -13,8 +13,8 @@ he	&rlm;‏‏קווין קונורס. | &rlm;‏-קווין!‏ |
 it	- Kevin Connors. - Kevin! 
 no	-Kevin Connors. -Kevin! 
 pl	- Kevin Connors. - Kevin! 
-pr-br	-Kevin Connors. -Kevin! 
-pr	- Kevin Connors. - Kevin! 
+pt-br	-Kevin Connors. -Kevin! 
+pt	- Kevin Connors. - Kevin! 
 ro	- Kevin Connors. - Kevin! 
 sv	-Kevin Connors. -Kevin! 
 th	- เควิน คอนเนอร์ส | - เควิน | 
@@ -40,8 +40,8 @@ it	Avresti dovuto presentare tu.
 nl	Jij had de show moeten presenteren. 
 no	Du burde være vert for showet. 
 pl	Ty powinieneś poprowadzić galę. 
-pr-br	Você deveria ter apresentado o programa. 
-pr	Devias ter sido tu a apresentar o espetáculo. 
+pt-br	Você deveria ter apresentado o programa. 
+pt	Devias ter sido tu a apresentar o espetáculo. 
 ro	Tu trebuia să prezinți spectacolul. 
 sv	Du skulle ha varit värd. 
 th	คุณควรขึ้นเวทีคืนนี้ | 

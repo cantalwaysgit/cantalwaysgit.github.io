@@ -13,8 +13,8 @@ it	È dura. Ho gli occhiali sporchi di vino.
 ko	안경에 와인이 묻어서 | 앞이 잘 안 보이네요 | 
 nl	Ik heb het moeilijk. Mijn bril is wazig door de wijn. 
 no	Det er vanskelig å se. Brillene er uklare etter vinen. 
-pr-br	Estou tendo dificuldades. Meus óculos estão sujos de vinho. 
-pr	Não consigo ver bem. Os óculos estão sujos com vinho. 
+pt-br	Estou tendo dificuldades. Meus óculos estão sujos de vinho. 
+pt	Não consigo ver bem. Os óculos estão sujos com vinho. 
 ro	Nu prea mă descurc. Ochelarii mei sunt pătați de vin. 
 sv	Det är svårt att se. Glasögonen är suddiga av vinet. 
 th	แย่จัง แว่นมัวไปหมดเพราะโดนสาดไวน์ | 

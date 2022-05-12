@@ -11,8 +11,8 @@ he	&rlm;‏משוטטים רחוק וקרוב‏ |
 it	Vagava lontano e vicino 
 nl	ver afdwalend 
 pl	Po okolicy pałętało się 
-pr-br	Errante por aí 
-pr	Vagueiam longe e perto 
+pt-br	Errante por aí 
+pt	Vagueiam longe e perto 
 ro	Rătăcind peste tot 
 sv	Vandrar hit och dit 
 th	เร่ร่อนไปไกลและใกล้ | 

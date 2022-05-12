@@ -16,8 +16,8 @@ ko	좋아요 |
 nl	Afgesproken. 
 no	Greit. 
 pl	Zgoda. 
-pr-br	Fechado. 
-pr	De acordo. 
+pt-br	Fechado. 
+pt	De acordo. 
 ro	S-a făcut! 
 sv	Taget. 
 tr	Anlaştık. 

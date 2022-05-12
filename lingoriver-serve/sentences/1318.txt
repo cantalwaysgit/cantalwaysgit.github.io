@@ -9,8 +9,8 @@ he	&rlm;‏‏היי. | &rlm;‏-והנה הכס שלך.‏ |
 it	- Ehi. - Ed ecco il tuo trono. 
 ko	- 와 | - 저기 앉으세요 | 
 pl	To jest twój tron. 
-pr-br	-Ei. -E este é o seu trono. 
-pr	- Ora, ora. - Aqui está o teu trono. 
+pt-br	-Ei. -E este é o seu trono. 
+pt	- Ora, ora. - Aqui está o teu trono. 
 ro	- Ia uite! - Iar acolo e tronul tău. 
 sv	-Har man sett. -Här är din tron. 
 th	- เฮ่ | - และนี่คือบัลลังก์ของคุณ | 

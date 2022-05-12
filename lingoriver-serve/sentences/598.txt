@@ -13,8 +13,8 @@ ko	소리치긴 싫지만 | 가끔은 그래야 말이 통해 |
 nl	Je wilt niet schreeuwen, maar soms kan het niet anders. 
 no	Du vil ikke skrike, men noen ganger er man bare nødt. 
 pl	Nie lubię na ludzi krzyczeć, ale czasem trzeba. 
-pr-br	Gritar não é legal, mas às vezes é o único jeito. 
-pr	Não queremos gritar com as pessoas, mas às vezes é a única maneira. 
+pt-br	Gritar não é legal, mas às vezes é o único jeito. 
+pt	Não queremos gritar com as pessoas, mas às vezes é a única maneira. 
 ro	Nu trebuie să țipi la oameni, dar, uneori, nu se poate altfel. 
 sv	Man vill inte skrika, men ibland är det enda sättet. 
 th	ก็ไม่อยากตะโกนนะ | แต่บางครั้งมันเป็นทางเดียวที่เขาจะฟัง | 

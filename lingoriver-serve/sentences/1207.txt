@@ -15,8 +15,8 @@ ko	노래 선곡해 달라고 | 라디오 방송국에 돈 보냈어요? |
 nl	Stuurde jij geld naar de radiozenders zodat ze haar nummer draaiden? 
 no	Ga du penger til radiostasjoner så de skulle spille plata? 
 pl	Wysyłałeś kasę do stacji radiowych, żeby grali jej płytę? 
-pr-br	Pagou às estações de rádio para tocarem a música dela? 
-pr	Enviaste dinheiro às estações de rádio para passarem o disco dela? 
+pt-br	Pagou às estações de rádio para tocarem a música dela? 
+pt	Enviaste dinheiro às estações de rádio para passarem o disco dela? 
 ro	Ai trimis bani la posturile de radio ca să-i pună melodia? 
 sv	Skickade du pengar till stationerna så att de spelade hennes skiva? 
 th	คุณส่งเงินไปให้สถานีวิทยุต่างๆ | เพื่อให้เปิดเพลงของเธอหรือเปล่า | 

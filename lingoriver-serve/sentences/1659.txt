@@ -14,8 +14,8 @@ it	- Vieni qui! - Ti meriti tutto!
 ko	- 이리 와요! | - 그럴 자격이 있다고! | 
 no	-Kom hit! -Du fortjener alt! 
 pl	- Chodź tutaj! - Zasługujesz na wszystko! 
-pr-br	-Venha aqui! -Você merece tudo! 
-pr	- Vem cá! - Tu mereces tudo! 
+pt-br	-Venha aqui! -Você merece tudo! 
+pt	- Vem cá! - Tu mereces tudo! 
 ro	- Vino încoace! - Meriți totul! 
 sv	-Kom hit! -Du förtjänar allt! 
 th	- เข้ามานี่ | - นายสมควรได้ทุกอย่าง | 

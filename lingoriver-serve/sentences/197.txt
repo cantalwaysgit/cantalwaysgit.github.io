@@ -11,8 +11,8 @@ ko	여기 산 지도 4년이나 됐는데 | 얼굴을 알 때도 됐잖아? |
 nl	Ik woon hier al vier jaar. Je zou me moeten kennen. 
 no	Jeg har bodd her i fire år. Dere burde kjenne meg nå. 
 pl	Mieszkam tu od czterech lat. Powinniście mnie już znać. 
-pr-br	Eu moro aqui há quatro anos. Já deveriam me conhecer. 
-pr	Moro aqui há quatro anos. Já me deviam conhecer. 
+pt-br	Eu moro aqui há quatro anos. Já deveriam me conhecer. 
+pt	Moro aqui há quatro anos. Já me deviam conhecer. 
 ro	Locuiesc aici de patru ani deja! Ar fi trebuit să mă cunoașteți. 
 sv	Jag har bott här i fyra år. Ni borde känna igen mig. 
 tr	Dört yıldır burada yaşıyorum. Artık beni tanımanız lazım. 

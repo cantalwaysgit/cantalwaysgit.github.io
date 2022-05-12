@@ -10,8 +10,8 @@ he	&rlm;‏כן, אתה ראית אותי‏ |
 it	Sì, tu mi hai visto 
 nl	ja, jij zag me 
 pl	Dostrzegłeś mnie 
-pr-br	Sim, você me viu 
-pr	Sim, tu viste-me 
+pt-br	Sim, você me viu 
+pt	Sim, tu viste-me 
 sv	Ja, du såg mig 
 tr	Evet, beni gördün 
 vi	Phải, anh đã thấy em | 

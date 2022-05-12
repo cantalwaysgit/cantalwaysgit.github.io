@@ -11,8 +11,8 @@ he	&rlm;‏כל כך טוב.‏ |
 it	Fantastico. 
 nl	Heerlijk. 
 pl	Dobre. 
-pr-br	Ótimo. 
-pr	Muito bom. 
+pt-br	Ótimo. 
+pt	Muito bom. 
 ro	E perfect! 
 sv	Så bra. 
 th	สุดยอดเลย | 

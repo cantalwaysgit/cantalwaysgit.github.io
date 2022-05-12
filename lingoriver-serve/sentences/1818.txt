@@ -12,8 +12,8 @@ he	&rlm;‏המפתח בפגישה הזו הוא לדבר בקשיחות.‏ |
 it	Alla riunione dovremo essere aggressivi. 
 no	Hemmeligheten er å være tøff i kjeften. 
 pl	Musisz być twardy. 
-pr-br	O segredo desta reunião é ser duro. 
-pr	Nesta reunião, é essencial falar grosso. 
+pt-br	O segredo desta reunião é ser duro. 
+pt	Nesta reunião, é essencial falar grosso. 
 ro	Cheia acestei întâlniri e să te impui. 
 sv	Det viktiga är att vara stenhård. 
 th	หัวใจในการประชุมนี้คือเจรจาสายแข็ง | 

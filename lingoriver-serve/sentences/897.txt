@@ -14,8 +14,8 @@ ko	오늘 밤 무대 위에서 잘해내서 |
 nl	Zolang je optreden vanavond maar goed is... 
 no	Så lenge du presterer på scenen i kveld, 
 pl	Bylebyś pokazał to dziś na scenie. 
-pr-br	Basta que você arrase no palco hoje à noite 
-pr	Desde que esta noite faças um grande espetáculo 
+pt-br	Basta que você arrase no palco hoje à noite 
+pt	Desde que esta noite faças um grande espetáculo 
 ro	Dar trebuie să ai energia asta pe scenă, diseară, 
 sv	Bara du lovar att ta med det på scenen ikväll, 
 th	ตราบเท่าที่คืนนี้นายจะแสดงบนเวทีได้ | 
@@ -39,8 +39,8 @@ it	e la mostrerai a quelli di HBO, non avranno più bisogno di scoprirti.
 nl	...en je HBO laat zien dat ze je niet hoeven te ontdekken. 
 no	og viser HBO, så trenger de ikke å oppdage deg. 
 pl	HBO zrozumie, że nie musi cię odkrywać. 
-pr-br	e mostre para a HBO que não precisam descobrir você. 
-pr	e mostres à HBO que não precisam de te descobrir. 
+pt-br	e mostre para a HBO que não precisam descobrir você. 
+pt	e mostres à HBO que não precisam de te descobrir. 
 ro	și să le arăți celor de la HBO că nu trebuie să te descopere ei. 
 sv	och visar HBO att de inte behöver upptäcka dig. 
 th	และแสดงให้เอชบีโอเห็นว่า | พวกเขาไม่ต้องค้นพบนาย | 
@@ -65,8 +65,8 @@ it	Kevin Connors si scopre da solo. Grazie mille.
 nl	Kevin Connors ontdekt zichzelf. Bedankt. 
 no	Kevin Connors vil oppdage seg selv. Takk. 
 pl	Kevin Connors sam się odkryje. Dziękuję. 
-pr-br	Kevin Connors irá se descobrir sozinho. Obrigado. 
-pr	O Kevin Connors descobre-se sozinho. Muito obrigado. 
+pt-br	Kevin Connors irá se descobrir sozinho. Obrigado. 
+pt	O Kevin Connors descobre-se sozinho. Muito obrigado. 
 ro	Kevin Connors se va descoperi singur. Mersi și la revedere! 
 sv	Kevin Connors upptäcker sig själv. Tack ska du ha. 
 th	เควิน คอนเนอร์สจะค้นพบตัวเขาเอง | ขอบคุณ | 

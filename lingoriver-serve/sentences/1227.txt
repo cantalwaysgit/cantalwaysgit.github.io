@@ -10,8 +10,8 @@ he	&rlm;‏בסדר.‏ |
 it	Eccomi. 
 ko	됐어요 | 
 pl	No dobrze. 
-pr-br	Está bem. 
-pr	Pronto. 
+pt-br	Está bem. 
+pt	Pronto. 
 ro	Bine. 
 sv	Okej. 
 th	ก็ได้ | 
@@ -35,8 +35,8 @@ it	E il problema è sparito.
 ko	바지 벗고 춤추는 건 | 이제 힘들겠네요 | 
 no	Bukseløs-dansen er avlyst. 
 pl	Portki czyste. 
-pr-br	O striptease foi cancelado. 
-pr	O Baile Sem Calças está oficialmente cancelado. 
+pt-br	O striptease foi cancelado. 
+pt	O Baile Sem Calças está oficialmente cancelado. 
 ro	Concursul de striptease s-a încheiat oficial. 
 sv	Den byxlösa dansen är avblåst. 
 th	ยกเลิกระบำเปลื้องผ้าอย่างเป็นทางการ | 
@@ -58,8 +58,8 @@ it	- Indossali. - Bene.
 ko	- 입으세요 | - 그래 | 
 no	-Ta på denne. -Ok. 
 pl	Zakładaj. 
-pr-br	-Vista isso. -Está bem. 
-pr	- Veste-te. - Está bem. 
+pt-br	-Vista isso. -Está bem. 
+pt	- Veste-te. - Está bem. 
 ro	- Îmbracă-i. - Bine. 
 sv	Sätt på dig dem. 
 th	- ใส่นี่ซะ | - โอเค | 
@@ -85,8 +85,8 @@ ko	얼룩은 지웠어? | 아주 잘했네, 이것 좀 봐 |
 nl	Is de vlek eruit? Mooi zo. 
 no	Fikk du vekk flekken? Veldig bra. Se på det. 
 pl	Nie ma plamy? Świetna robota. Brawo. 
-pr-br	Conseguiu tirar a mancha? Legal. Veja só você. 
-pr	Conseguiste tirar a nódoa? Muito bem. Vejam só. 
+pt-br	Conseguiu tirar a mancha? Legal. Veja só você. 
+pt	Conseguiste tirar a nódoa? Muito bem. Vejam só. 
 ro	Ai scos pata? Ce drăguț! Uită-te la tine! 
 sv	Fick du bort fläckarna? Snyggt. Har man sett. 
 th	คุณซักออกหมดแล้วเหรอ ดีจัง ดูสิ | 

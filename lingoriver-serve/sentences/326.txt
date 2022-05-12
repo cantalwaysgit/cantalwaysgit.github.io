@@ -14,8 +14,8 @@ he	&rlm;‏לא, זה נכון.‏ |
 ko	네, 맞습니다 | 
 no	Jo da. 
 pl	Zgadzam się. 
-pr-br	É mesmo. 
-pr	Pois é. 
+pt-br	É mesmo. 
+pt	Pois é. 
 ro	Așa e. 
 th	มันก็ใช่ | 
 tr	Yok, öyle. 
@@ -38,8 +38,8 @@ he	&rlm;‏‏רק, עם כל הכבוד, | &rlm;‏אני חושב שלבת ש�
 ko	외람된 말씀이지만 | 따님은 마법 같은 사람이에요 | 
 no	Men med all respekt, jeg synes det er datteren din som har magien. 
 pl	Z całym szacunkiem, ale pana córka jest wyjątkowa. 
-pr-br	Com todo respeito, acho que a sua filha tem a magia. 
-pr	Mas, com o devido respeito, eu acho que a sua filha tem a magia. 
+pt-br	Com todo respeito, acho que a sua filha tem a magia. 
+pt	Mas, com o devido respeito, eu acho que a sua filha tem a magia. 
 ro	Cu tot respectul, cred că fiica dv. e minunată. 
 th	แต่ด้วยความเคารพ | ผมคิดว่าลูกสาวคุณมีพรสวรรค์ | 
 tr	Yanlış anlamayın ama bence büyülü olan kızınız. 

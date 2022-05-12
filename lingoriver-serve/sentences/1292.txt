@@ -12,8 +12,8 @@ it	Quello sarebbe logico.
 ko	그것도 이해될 거라고 | 
 nl	Dat is pas logisch. 
 no	Det gir mening. 
-pr-br	Fará muito sentido. 
-pr	Isso é que faz sentido. 
+pt-br	Fará muito sentido. 
+pt	Isso é que faz sentido. 
 ro	Așa ar fi de înțeles. 
 sv	Fatta det. 
 th	นั่นมีเหตุผล | 

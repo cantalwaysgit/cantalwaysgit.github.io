@@ -16,8 +16,8 @@ ko	쉽다면서요 | 거시기 생각하면서 찍어 봐요 |
 nl	Jij zei dat 't makkelijk was. Droom van worsten. 
 no	Du sa det var lett. Drøm om wienere. 
 pl	Podobno to łatwe. Myśl o pindolkach. 
-pr-br	Você disse que era fácil. Sonhe com pintos. 
-pr	Disseste que era fácil. Sonha com as salsichas. 
+pt-br	Você disse que era fácil. Sonhe com pintos. 
+pt	Disseste que era fácil. Sonha com as salsichas. 
 ro	Ai zis că e ușor. Visează la "cârnăciori". 
 sv	Det var ju lätt. Dröm om prinskorvar. 
 th	คุณบอกว่ามันง่าย คิดถึงจู๋ | 

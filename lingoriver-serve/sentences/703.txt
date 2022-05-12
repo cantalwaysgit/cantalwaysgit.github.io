@@ -14,8 +14,8 @@ ko	- 마티? | - 네 |
 nl	Je vader, Marty? 
 no	-Faren din, Marty? -Ja. 
 pl	- Marty? - Tak. 
-pr-br	-Seu pai, Marty? -Sim. 
-pr	- O teu pai, Marty? - Sim. 
+pt-br	-Seu pai, Marty? -Sim. 
+pt	- O teu pai, Marty? - Sim. 
 ro	- Tatăl tău, Marty? - Da. 
 sv	-Din pappa, Marty? -Ja. 
 th	- พ่อคุณเหรอ มาร์ตี้ | - ใช่ | 
@@ -38,8 +38,8 @@ ko	안부 전해드려 | 좋은 분이야, 똑똑하지 |
 nl	Doe hem de groeten terug. Hij is een goede man. Slim. 
 no	Hils ham fra meg. Han er en fin fyr. Smart. 
 pl	Pozdrów go. Dobry z niego człowiek. I mądry. 
-pr-br	Cumprimente-o por mim. Ele é um bom homem, inteligente. 
-pr	Dá-lhe cumprimentos meus. É um bom homem. Um tipo inteligente. 
+pt-br	Cumprimente-o por mim. Ele é um bom homem, inteligente. 
+pt	Dá-lhe cumprimentos meus. É um bom homem. Um tipo inteligente. 
 ro	Salută-l din partea mea. E un om bun. E deștept. 
 ru	И ему привет. Он хороший парень. Умный. 
 sv	Hälsa tillbaka. Han är en bra man. Smart. 

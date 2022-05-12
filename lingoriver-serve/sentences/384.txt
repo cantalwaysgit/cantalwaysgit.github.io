@@ -12,8 +12,8 @@ it	Non c'è niente di triste. È stata una cosa positiva.
 ko	슬픈 게 아니라 | 오히려 좋은 거야 | 
 nl	Nee. Dat is eigenlijk goed. 
 pl	Nie. Tak jest dobrze. 
-pr-br	Não é triste. Na verdade, é bom. 
-pr	Não é triste. Até é uma coisa boa. 
+pt-br	Não é triste. Na verdade, é bom. 
+pt	Não é triste. Até é uma coisa boa. 
 ro	Nu e trist. De fapt, e bine. 
 ru	Не грустно. Это даже к лучшему. 
 sv	Det är inte sorgligt. Det är en bra sak. 

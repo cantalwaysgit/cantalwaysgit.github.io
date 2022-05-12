@@ -9,8 +9,8 @@ fi	Katsotaanpa.
 fr	C'est parti. 
 he	&rlm;‏‏בוא נראה. | &rlm;‏-בסדר.‏ | 
 it	- Vediamo. - Bene. 
-pr-br	-Vamos ver. -Está bem. 
-pr	- Vamos lá ver. - Muito bem. 
+pt-br	-Vamos ver. -Está bem. 
+pt	- Vamos lá ver. - Muito bem. 
 ro	- Să vedem! - Bine. 
 th	- มาดูกันสิ | - โอเค | 
 tr	-Bakalım. -Tamam. 

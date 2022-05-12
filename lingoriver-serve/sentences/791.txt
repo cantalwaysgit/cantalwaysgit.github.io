@@ -13,8 +13,8 @@ ko	- 아기 얼굴을 한 그 남자? | - 얼굴이 앳되긴 해 |
 nl	De man met de babyface? -Hij heeft een kinderlijk gezicht, ja. 
 no	-Fyren med babyansiktet? -Ja, han har et veldig barneaktig ansikt. 
 pl	- Facet o twarzy dziecka? - Fakt, przypomina dziecko. 
-pr-br	-Como o cara com cara de bebê? -Sim, ele tem cara de bebê. 
-pr	- O tipo com cara de bebé? - É verdade que tem uma cara pueril. 
+pt-br	-Como o cara com cara de bebê? -Sim, ele tem cara de bebê. 
+pt	- O tipo com cara de bebé? - É verdade que tem uma cara pueril. 
 ro	- Tipul cu față de copil? - Are o față foarte infantilă, așa e. 
 ru	-Парень с личиком как у бэбика? -Да, он очень моложав. 
 sv	-Killen med ansiktet som är som en bebis? -Han har faktiskt ett barnlikt ansikte. 

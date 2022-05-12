@@ -14,8 +14,8 @@ ko	- 즐겁게 놀 거야 | - 알았어요 |
 nl	We gaan lol maken. 
 no	-Vi skal ha det gøy. -Ok. 
 pl	Będziemy się dobrze bawić. 
-pr-br	-Vamos nos divertir. -Está bem. 
-pr	- Vamos divertir-nos. - Está bem. 
+pt-br	-Vamos nos divertir. -Está bem. 
+pt	- Vamos divertir-nos. - Está bem. 
 ro	- O să ne distrăm. - Bine. 
 sv	-Vi ska ha skoj. -Visst. 
 th	- เราจะสนุกกัน | - โอเค | 

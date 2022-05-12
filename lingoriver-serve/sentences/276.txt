@@ -14,8 +14,8 @@ it	Da qualche parte bisogna iniziare.
 nl	Iedereen begint ergens. 
 no	Alle begynner et sted. 
 pl	Każdy gdzieś zaczyna. 
-pr-br	Todos começam de algum lugar. 
-pr	Todos têm de começar por algum lado. 
+pt-br	Todos começam de algum lugar. 
+pt	Todos têm de começar por algum lado. 
 ro	Toți trebuie să începem de undeva. 
 sv	Alla börjar nånstans. 
 th	ทุกคนมีจุดเริ่มต้น | 

@@ -14,8 +14,8 @@ fi	Kuule,
 fr	Écoute, 
 he	&rlm;‏תקשיבי,‏ | 
 it	Ascolta, 
-pr-br	Ouça, 
-pr	Escuta, 
+pt-br	Ouça, 
+pt	Escuta, 
 vi	Nghe này, | 
 zh-long	聽我說 
 ko	잘 들어 | 
@@ -36,8 +36,8 @@ fi	jos aiomme tehdä yhteistyötä, meidän pitää sopia rajoista.
 fr	si on doit bosser ensemble, il faut fixer des limites. 
 he	&rlm;‏‏אם אנחנו הולכים לעבוד יחד, | &rlm;‏אנחנו צריכים גבולות.‏ | 
 it	per essere soci in affari, dobbiamo stabilire dei limiti. 
-pr-br	se vamos trabalhar juntos, precisamos de limites. 
-pr	se vamos trabalhar juntos, temos de ter limites. 
+pt-br	se vamos trabalhar juntos, precisamos de limites. 
+pt	se vamos trabalhar juntos, temos de ter limites. 
 th	ถ้าเราจะทำธุรกิจร่วมกัน | เราต้องมีขอบเขต | 
 tr	birlikte iş yapacaksak sınırlara ihtiyacımız var. 
 vi	nếu làm việc với nhau, | ta cần có ranh giới. | 

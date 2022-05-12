@@ -13,8 +13,8 @@ ko	절 보신 적 있나요? |
 nl	Kennen we elkaar? 
 no	Har jeg sett deg før? 
 pl	Znamy się? 
-pr-br	Eu já o vi? 
-pr	Já te tinha visto antes? 
+pt-br	Eu já o vi? 
+pt	Já te tinha visto antes? 
 ro	Ne cunoaștem? 
 ru	А мы знакомы? 
 sv	Har vi träffats förr? 

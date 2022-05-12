@@ -11,8 +11,8 @@ it	Ti ho seguita. Stai andando benissimo.
 nl	Ik heb je gevolgd. Je doet het heel goed. 
 no	Jeg har fulgt med på deg. Du gjør det så bra. 
 pl	Śledziłem twoją karierę. Dobrze sobie radzisz. 
-pr-br	Estou acompanhando você. Você está ótima. 
-pr	Tenho-te seguido. Estás a sair-te muito bem. 
+pt-br	Estou acompanhando você. Você está ótima. 
+pt	Tenho-te seguido. Estás a sair-te muito bem. 
 ro	Te-am urmărit. Te descurci de minune. 
 sv	Jag har följt dig. Det går bra för dig. 
 th	ผมติดตามคุณนะ คุณไปได้ดีมาก | 
@@ -37,8 +37,8 @@ it	Lo dicevo che saresti finita ai Grammy.
 nl	Vanavond de Grammy. Zei ik je wanneer dat ging gebeuren? 
 no	Grammy i kveld. Sa jeg når det kom til å skje? 
 pl	Mówiłem ci, że dostaniesz Grammy. 
-pr-br	O Grammy hoje. Eu disse quando isso aconteceria? 
-pr	O Grammy desta noite. Não te disse que ia acontecer? 
+pt-br	O Grammy hoje. Eu disse quando isso aconteceria? 
+pt	O Grammy desta noite. Não te disse que ia acontecer? 
 ro	În seara asta, Grammy. Nu ți-am zis că așa va fi? 
 sv	Grammyn ikväll. Sa jag inte att det skulle ske? 
 th	แกรมมี่คืนนี้ | ผมบอกแล้วใช่ไหมว่ามันจะเกิดขึ้น | 

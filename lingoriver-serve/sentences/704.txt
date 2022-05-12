@@ -15,8 +15,8 @@ he	&rlm;‏‏הוא הרגיש רע שלא קיבלו אותך | &rlm;‏להי
 it	È dispiaciuto che non ti abbiano preso all'Hillcrest Country Club. 
 nl	Hij vond het rot dat je Hillcrest Country Club niet inkwam. 
 no	Han var lei for at du ikke kom inn på Hillcrest Country Club. 
-pr-br	Ele ficou mal por você não ter entrado no Hillcrest Country Club. 
-pr	Ficou com pena de não teres entrado no Hillcrest Country Club. 
+pt-br	Ele ficou mal por você não ter entrado no Hillcrest Country Club. 
+pt	Ficou com pena de não teres entrado no Hillcrest Country Club. 
 ro	I-a părut rău că n-ai fost admis în Hillcrest Country Club. 
 th	พ่อรู้สึกแย่ที่คุณไม่ได้เข้าร่วม | ฮิลเครสต์คันทรีคลับ | 
 tr	Hillcrest Country Club'a girememene üzülmüş. 

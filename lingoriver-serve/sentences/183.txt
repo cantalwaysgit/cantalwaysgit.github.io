@@ -12,8 +12,8 @@ ko	벨에어에서도 | 가장 큰 집에 살았어요 |
 nl	Hij woonde in het grootste huis van Bel Air. 
 no	Han bodde på den største tomten i Bel Air. 
 pl	Największa posiadłość w Bel Air. 
-pr-br	Ele morava na maior mansão de Bel Air. 
-pr	Ele vivia na maior propriedade de Bel Air. 
+pt-br	Ele morava na maior mansão de Bel Air. 
+pt	Ele vivia na maior propriedade de Bel Air. 
 ro	Locuia în cea mai mare proprietate din Bel Air. 
 ru	Он жил в самом большом доме в Бель-Эйр. 
 sv	Han bodde på den största  egendomen i Bel Air. 

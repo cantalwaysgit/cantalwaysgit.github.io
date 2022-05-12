@@ -10,7 +10,7 @@ es-eu	Le iban a echar a las dos semanas,
 fr	Il devait se faire virer. 
 it	Doveva sparire in due settimane. 
 nl	Nog geen twee weken. 
-pr	Disseram que se ia embora ao fim de duas semanas. 
+pt	Disseram que se ia embora ao fim de duas semanas. 
 ro	A apărut la ușă în două săptămâni. 
 tr	İki haftada kapı dışarı etmişler. 
 vi	Họ bảo chỉ hai tuần là đuổi. | 
@@ -22,7 +22,7 @@ ko	2주면 나온댔어요 | 5년 재계약했고요 |
 es	Lo echaron a las dos semanas. Luego lo recontrataron por cinco años. 
 he	&rlm;‏אמרו שיעוף תוך שבועיים.‏ | &rlm;‏אח"כ שמעתי שהוא חתם לחמש שנים.‏ | 
 pl	Mieli go wywalić, a podpisał kontrakt na pięć lat. 
-pr-br	Ele estaria fora em duas semanas, mas renovou por mais cinco anos. 
+pt-br	Ele estaria fora em duas semanas, mas renovou por mais cinco anos. 
 sv	Han drog efter två veckor, men skrev på igen för fem år. 
 th	แล้วก็กลับมาอยู่ใหม่ห้าปี | 
 ar	&rlm;‏ثم سمعت إنه وافق على البقاء لمدة 5 سنوات.‏ | 
@@ -31,7 +31,7 @@ en	Then I hear the guy's re-upped | for five years. |
 es-eu	pero le renovaron por cinco años. 
 fr	En fait, il est renouvelé pour 5 ans. 
 it	Poi l'ha rinnovato per cinque anni. 
-pr	Depois ouço dizer que ia ficar mais cinco anos. 
+pt	Depois ouço dizer que ia ficar mais cinco anos. 
 ro	Apoi tipul s-a reinventat cinci ani. 
 tr	Sonra sözleşmeyi beş yıllığına uzatmış. 
 vi	Rồi nghe nói hợp đồng gia hạn năm năm. | 

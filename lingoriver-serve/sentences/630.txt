@@ -12,8 +12,8 @@ it	Mi fai sentire a casa
 ko	당신은 나를 | 집처럼 편안하게 해줘 | 
 nl	met jou voel ik me thuis 
 pl	Sprawiasz, że czuję się jak w domu 
-pr-br	Você faz com que eu me sinta em casa 
-pr	Fazes-me sentir em casa 
+pt-br	Você faz com que eu me sinta em casa 
+pt	Fazes-me sentir em casa 
 ro	Faci să pară că e acasă 
 ru	С тобой я как дома 
 sv	Du får mig att känna mig som hemma 

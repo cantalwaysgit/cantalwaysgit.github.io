@@ -12,8 +12,8 @@ it	Tu cos'hai fatto?
 ko	하신 게 뭐가 있어요? | 
 no	Hva har du gjort? 
 pl	A ty co zrobiłeś? 
-pr-br	O que você fez? 
-pr	O que fizeste tu, Sandy? 
+pt-br	O que você fez? 
+pt	O que fizeste tu, Sandy? 
 ro	Dar tu ce ai făcut? 
 ru	А ты что сделал? 
 sv	Vad har du gjort? 
@@ -37,8 +37,8 @@ it	Hai depositato tu in tempo i documenti per la nomination al Grammy?
 ko	그래미 후보작 서류 | 작성하셨어요? | 
 no	Sendte du inn papirene for Grammy-nominasjonen? 
 pl	Wypełniłeś na czas dokumenty do Grammy? 
-pr-br	Você preencheu a papelada para a indicação do Grammy? 
-pr	Entregaste a papelada para a nomeação para o Grammy? 
+pt-br	Você preencheu a papelada para a indicação do Grammy? 
+pt	Entregaste a papelada para a nomeação para o Grammy? 
 ro	Ai trimis dosarul la nominalizările Grammy la timp? 
 ru	Ты занимался номинацией на «Грэмми»? 
 th	คุณยื่นเอกสารการเสนอชื่อ | เข้าชิงรางวัลแกรมมี่หรือเปล่า | 

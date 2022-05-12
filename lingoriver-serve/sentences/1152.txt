@@ -13,8 +13,8 @@ it	Con i pantaloni addosso.
 ko	바지 입고요 | 
 no	Med buksa på. 
 pl	Ze spodniami na tyłku. 
-pr-br	Com as minhas calças. 
-pr	Com as calças vestidas. 
+pt-br	Com as minhas calças. 
+pt	Com as calças vestidas. 
 ro	Cu pantalonii pe mine. 
 ru	В штанах. 
 sv	Med byxorna på. 

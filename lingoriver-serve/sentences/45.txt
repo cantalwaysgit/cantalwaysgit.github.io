@@ -10,8 +10,8 @@ it	Ti guida, ti consiglia, combatte per le giuste cause,
 nl	Hij begeleidt je, adviseert je, vecht voor je. 
 no	Han gir deg råd og veiledning. Han kjemper for deg. 
 pl	Kieruje tobą. Doradza. Walczy o twoje. 
-pr-br	Ele guia, dá conselhos a você, luta por boas causas. 
-pr	Orienta-te. Aconselha-te. Luta por ti. 
+pt-br	Ele guia, dá conselhos a você, luta por boas causas. 
+pt	Orienta-te. Aconselha-te. Luta por ti. 
 ro	Te îndrumă. Te povățuiește. Luptă să câștigi când trebuie. 
 sv	Han vägleder dig, han ger råd. Han tar de tuffa fajterna. 
 th	เขาแนะนำ ให้คำปรึกษา | ต่อสู้เพื่อความถูกต้อง | 
@@ -40,8 +40,8 @@ ko	힘든 전화도 해주지 |
 nl	Doet de lastige telefoontjes. 
 no	Tar vanskelige telefoner. 
 pl	Wykonuje trudne telefony. 
-pr-br	Faz ligações difíceis. 
-pr	Faz os telefonemas difíceis. 
+pt-br	Faz ligações difíceis. 
+pt	Faz os telefonemas difíceis. 
 ro	Negociază la telefon. 
 sv	Ringer svåra samtal. 
 th	โทรศัพท์เรื่องที่หินๆ ให้ | 

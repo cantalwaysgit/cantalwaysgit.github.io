@@ -13,8 +13,8 @@ ko	- 리무진 왔어 | - 이제 가는 거야 |
 nl	Je limo is er. -Showtime, meid. 
 no	-Limoen er her. -Nå skjer det. 
 pl	- Limuzyna już jest. - Zaczynamy. 
-pr	- A limusina chegou. - Está na hora, miúda. 
-pr-br	-Sua limusine chegou. -É hora do show, garota. 
+pt	- A limusina chegou. - Está na hora, miúda. 
+pt-br	-Sua limusine chegou. -É hora do show, garota. 
 ro	- A venit limuzina. - E momentul. 
 ru	-Лимузин прибыл. -Твой выход, девочка. 
 sv	-Din limo är här. -Det är dags. 

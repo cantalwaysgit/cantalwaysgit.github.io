@@ -11,8 +11,8 @@ he	&rlm;‏קרסון פרש לפני שנתיים.‏ |
 it	Carson è in pensione da due anni. 
 no	Carson har pensjonert seg. 
 pl	On jest na emeryturze. 
-pr-br	Carson se aposentou há dois anos. 
-pr	O Carson reformou-se há dois anos. 
+pt-br	Carson se aposentou há dois anos. 
+pt	O Carson reformou-se há dois anos. 
 ro	Carson s-a pensionat acum doi ani. 
 sv	Carson slutade för två år sen. 
 th	คาร์สันเกษียณแล้วเมื่อสองปีก่อน | 

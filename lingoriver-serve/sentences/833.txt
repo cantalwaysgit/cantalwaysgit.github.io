@@ -11,8 +11,8 @@ it	Magari domani, ok? Forse domani vi indosserò.
 ko	내일 보자 | 내일 입어주든가 할게 | 
 nl	Misschien morgen, oké? Misschien draag ik je morgen. 
 pl	Może jutro. Może jutro cię założę. 
-pr-br	Talvez eu use você amanhã, está bem? 
-pr	Talvez amanhã, está bem? Talvez te use amanhã. 
+pt-br	Talvez eu use você amanhã, está bem? 
+pt	Talvez amanhã, está bem? Talvez te use amanhã. 
 ro	Poate mâine, da? Cred că te voi purta mâine. 
 sv	Kanske imorgon, okej. Jag kanske bär dig imorgon. 
 th	บางทีพรุ่งนี้ โอเคไหม | บางทีพรุ่งนี้จะใส่ | 

@@ -13,8 +13,8 @@ he	&rlm;‏הוא האמין בו. חשב שהוא היה נפלא.‏ |
 it	Credeva in lui. Lo riteneva un grande. 
 ko	샌디는 그 사람을 믿었어요 | 아주 훌륭하다고 생각했죠 | 
 pl	Ale Sandy w niego wierzył. 
-pr-br	Ele acreditava nele. Achava o cara demais. 
-pr	Ele acreditava nele. Achava que era o maior. 
+pt-br	Ele acreditava nele. Achava o cara demais. 
+pt	Ele acreditava nele. Achava que era o maior. 
 ro	Avea încredere în el. I se părea grozav. 
 sv	Han trodde på honom. Tyckte han var bäst. 
 th	เขาเชื่อมั่นในคนนี้ คิดว่ายอดเยี่ยม | 
@@ -37,8 +37,8 @@ it	Diceva: "Farò di lui il nuovo Sig. Buttons".
 ko	‘미스터 버튼스처럼 | 키울 거야’ | 
 no	"Jeg gjør ham til den neste Mr. Buttons." 
 pl	„Będzie następnym Panem Buttonsem”. 
-pr-br	Tipo: "Vou fazer dele o próximo Sr. Botões." 
-pr	"Vou fazer dele o próximo Mr. Buttons." 
+pt-br	Tipo: "Vou fazer dele o próximo Sr. Botões." 
+pt	"Vou fazer dele o próximo Mr. Buttons." 
 ro	Zicea: "O să fac din el următorul domn Buttons." 
 ru	«Я из него сделаю нового мистера Пуговица». 
 sv	Han sa: "Jag ska göra honom till nästa mr Buttons." 

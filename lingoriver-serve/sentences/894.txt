@@ -11,8 +11,8 @@ it	La conversazione è migliore se parlo solo io.
 ko	나 혼자만 말할 때 | 대화가 더 잘 되는 것 같아 | 
 nl	Dit gesprek was beter toen ik praatte. 
 pl	Lepiej, żebym tylko ja mówił. 
-pr-br	Esta conversa é melhor quando só eu falo. 
-pr	Esta conversa corre muito melhor quando só falo eu. 
+pt-br	Esta conversa é melhor quando só eu falo. 
+pt	Esta conversa corre muito melhor quando só falo eu. 
 ro	Conversația asta era mai bună când vorbeam numai eu. 
 sv	Samtalet var bättre när bara jag pratade. 
 tr	Sadece ben konuşurken daha güzel sohbet ediyoruz. 

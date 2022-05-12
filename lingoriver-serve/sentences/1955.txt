@@ -16,8 +16,8 @@ ko	누군가를 정말 아낀다면 | 나라면 사실을 말했을 거야 |
 nl	Als je echt om iemand geeft, zeg je hem de waarheid. 
 no	Hvis du virkelig er glad i noen, si dem sannheten. 
 pl	Jeśli naprawdę ci na kimś zależy, mówisz tej osobie prawdę. 
-pr-br	Para mim, se você se importa com alguém, então diz a verdade. 
-pr	Para mim, quando gostas de alguém... dizes-lhe a verdade. 
+pt-br	Para mim, se você se importa com alguém, então diz a verdade. 
+pt	Para mim, quando gostas de alguém... dizes-lhe a verdade. 
 ro	Eu cred că, dacă ții la cineva cu adevărat, îi spui adevărul. 
 sv	Om man verkligen bryr sig om nån, så säger man sanningen. 
 th	สำหรับฉัน ถ้านายแคร์ใครจริงจัง | นายพูดความจริงกับเขา | 

@@ -13,8 +13,8 @@ he	&rlm;‏"אני כיפית, אני מורכבת, אני סקסית."‏ |
 it	"Sono simpatica, complessa e sexy." 
 nl	'Ik ben leuk, ingewikkeld en sexy.' 
 no	"Jeg er morsom og komplisert og sexy." 
-pr-br	"Sou divertida, complicada, sexy." 
-pr	"Sou divertida, complicada, sensual." 
+pt-br	"Sou divertida, complicada, sexy." 
+pt	"Sou divertida, complicada, sensual." 
 ro	"Sunt amuzantă, complicată, sexy..." 
 th	"ฉันเป็นคนสนุก ฉันซับซ้อน | ฉันเซ็กซี่..." | 
 tr	"Eğlenceliyim, karmaşığım, seksiyim." 

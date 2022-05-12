@@ -15,8 +15,8 @@ ko	커피 광고랬잖아요, 샌디! |
 nl	Je zei dat het een koffiecommercial was. 
 no	Du sa det var en kaffereklame, Sandy! 
 pl	Mówiłeś, że to reklama kawy! 
-pr-br	Você disse que era um comercial de café, Sandy! 
-pr	Disseste que era um anúncio de café, Sandy! 
+pt-br	Você disse que era um comercial de café, Sandy! 
+pt	Disseste que era um anúncio de café, Sandy! 
 ro	Ai zis că e o reclamă la cafea, Sandy! 
 sv	Du sa att det var kaffereklam! 
 th	คุณบอกว่าเป็นโฆษณากาแฟ แซนดี้ | 

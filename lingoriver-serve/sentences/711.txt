@@ -10,8 +10,8 @@ he	&rlm;‏אז, דיברתי עם בארי.‏ |
 it	Ho parlato con Barry. 
 nl	Ik sprak Barry. 
 pl	Rozmawiałem z Barrym. 
-pr-br	Então, eu falei com o Barry. 
-pr	Então, falei com o Barry. 
+pt-br	Então, eu falei com o Barry. 
+pt	Então, falei com o Barry. 
 ro	Am vorbit cu Barry. 
 sv	Jag snackade med Barry. 
 th	คุยกับแบร์รี่แล้ว | 
@@ -37,8 +37,8 @@ it	Ha voluto che ascoltassimo il demo. Devo dire che non è niente male.
 nl	Hij wilde dat we naar je demo luisterden. Ik moet zeggen, goed materiaal. 
 no	Barry ba oss høre på demoen din. Og jeg må si at den er bra. 
 pl	Kazał nam odsłuchać twoje demo. Muszę przyznać, że jest niezłe. 
-pr-br	Barry queria que escutássemos a sua demo. E confesso que é de qualidade. 
-pr	O Barry quis que ouvíssemos a demo. Tenho de admitir que é bom material. 
+pt-br	Barry queria que escutássemos a sua demo. E confesso que é de qualidade. 
+pt	O Barry quis que ouvíssemos a demo. Tenho de admitir que é bom material. 
 ro	Barry a vrut să vă ascultăm piesa. Trebuie să recunosc, e bună. 
 sv	Han ville att vi skulle lyssna på demon. Och det var en del bra grejer. 
 th	แบร์รี่อยากให้เราฟังเดโมของคุณ | และผมขอบอก มีของดีอยู่ | 

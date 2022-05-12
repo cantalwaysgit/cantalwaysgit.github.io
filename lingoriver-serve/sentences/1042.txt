@@ -13,8 +13,8 @@ it	- Grazie, Quincelius. - Chi diavolo è Quincelius?
 ko	- 고마워요, 퀸셀리어스 | - 퀸셀리어스가 누구야? | 
 nl	Bedankt, Quincelius. -Wie is Quincelius? 
 pl	- Dziękuję, Quinceliusie. - Kto to jest Quincelius? 
-pr-br	-Obrigado, Quincelius. -Quem diabos é Quincelius? 
-pr	- Obrigado, Quincelius. - Quem diabo é o Quincelius? 
+pt-br	-Obrigado, Quincelius. -Quem diabos é Quincelius? 
+pt	- Obrigado, Quincelius. - Quem diabo é o Quincelius? 
 ro	- Mersi, Quincelius. - Cine naiba e Quincelius? 
 sv	-Tack, Quincelius. -Vem i helvete är det? 
 th	- ขอบคุณ ควินเซเลียส | - ใครกันควินเซเลียส | 

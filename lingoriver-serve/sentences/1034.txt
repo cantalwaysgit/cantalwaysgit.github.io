@@ -6,8 +6,8 @@ es-eu	Nada. No, está bueno.
 es	Nada. Creo que es bueno. 
 fr	Non. Il est bon. 
 it	Niente. No, mi sembra buono. 
-pr-br	Nada. Não, acho que está bom. 
-pr	Nada. Não, acho que é bom. 
+pt-br	Nada. Não, acho que está bom. 
+pt	Nada. Não, acho que é bom. 
 sv	Ingenting. Det smakar bra. 
 vi	Không sao. Không, tôi nghĩ là ngon. | 
 zh-long	沒事，我覺得還不錯 

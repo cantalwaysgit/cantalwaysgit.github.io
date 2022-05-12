@@ -12,8 +12,8 @@ it	No. Ho visto tutto dall'inizio.
 ko	아니, 처음부터 있었어 | 
 no	Nei da. Jeg var der hele tiden. 
 pl	Nie, byłem od początku. 
-pr-br	Não, eu estava lá o tempo todo. 
-pr	Não. Estive lá o tempo todo. 
+pt-br	Não, eu estava lá o tempo todo. 
+pt	Não. Estive lá o tempo todo. 
 ro	Nu. Am fost acolo mereu. 
 ru	Нет. Я был с самого начала. 
 sv	Nej då, jag var där hela tiden. 

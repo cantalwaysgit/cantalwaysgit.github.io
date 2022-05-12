@@ -1,5 +1,5 @@
 ja	入ってない | 誰が言った？ 犬か？ | 
-pr-br	Ninguém entrou na piscina. Quem disse isso? Os cachorros? 
+pt-br	Ninguém entrou na piscina. Quem disse isso? Os cachorros? 
 ru	Никто туда не залезал. Кто тебе сказал? Собаки? 
 el	Κανείς δεν μπήκε στην πισίνα σου. Ποιος σου το είπε αυτό; Τα σκυλιά; 
 en	Uh, nobody went in your pool. | No, no, who told you that? The dogs? | 
@@ -16,7 +16,7 @@ it	Nessuno è entrato in piscina. Chi te l'ha detto? I cani?
 nl	Niemand ging je zwembad in. Hebben de honden dat gezegd? 
 no	Ingen var i bassenget ditt. Hvem sa det? Hundene? 
 pl	Nikt do niego nie wchodził. Kto ci powiedział? Psy? 
-pr	Ninguém entrou na tua piscina. Quem te disse isso? Os cães? 
+pt	Ninguém entrou na tua piscina. Quem te disse isso? Os cães? 
 ro	N-a intrat nimeni în piscină. Cine ți-a zis asta? Câinii? 
 sv	Ingen har varit i poolen. Vem har sagt det? Hundarna? 
 th	ไม่มีใครลงสระคุณ | ไม่มี ใครบอกคุณเหรอ หมาเหรอ | 

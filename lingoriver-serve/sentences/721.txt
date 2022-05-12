@@ -12,8 +12,8 @@ he	&rlm;‏‏תודה. | &rlm;‏-זהו זה.‏ |
 it	- Grazie. - Esatto. 
 ko	- 고맙습니다 | - 그거야 | 
 pl	- Dzięki. - Tak. 
-pr-br	-Obrigada. -É isso. 
-pr	- Obrigada. - É isso. 
+pt-br	-Obrigada. -É isso. 
+pt	- Obrigada. - É isso. 
 ro	- Mersi. - Asta e! 
 sv	-Tack. -Just det. 
 th	- ขอบคุณ | - นั่นแหละ | 
@@ -38,8 +38,8 @@ ko	- 노래만 걱정했거든 | - 진부한 트라이앵글은 빼세요 |
 nl	We denken alleen aan het nummer. -Maar die duffe triangel moet eruit. 
 no	-Det er sangen vi tenker på. -Det teite triangelet må vekk. 
 pl	- Piosenka jest najważniejsza. - Ale ten durny trójkąt musi wylecieć. 
-pr-br	-Só estamos preocupados com a música. -Precisa tirar o triângulo brega. 
-pr	- É só a canção que nos interessa. - O triângulo piroso tem de sair. 
+pt-br	-Só estamos preocupados com a música. -Precisa tirar o triângulo brega. 
+pt	- É só a canção que nos interessa. - O triângulo piroso tem de sair. 
 ro	- Numai cântecul ne interesează. - Trebuie să renunțați la trianglul ăla. 
 sv	-Sången är det vi oroade oss för. -Men skippa den töntiga triangeln. 
 th	- เพลงคือเรื่องเดียวที่เราเป็นห่วง | - ต้องโยนสามเหลี่ยมเลี่ยนๆ นั่นทิ้ง | 

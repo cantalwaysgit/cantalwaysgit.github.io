@@ -13,8 +13,8 @@ it	Una di queste è mia. Sarà quella blu o quella nera?
 ko	이중 어딘가에 있을 텐데 | 이게 남색인가 검은색인가? | 
 nl	Een van deze is van mij. Is dit blauw of zwart? 
 pl	Która jest moja? To granatowa czy czarna? 
-pr-br	Cara, um desses é meu. Isto é azul ou preto? 
-pr	Um destes é meu. Isto é azul ou preto? 
+pt-br	Cara, um desses é meu. Isto é azul ou preto? 
+pt	Um destes é meu. Isto é azul ou preto? 
 ro	Unul dintre astea e al meu. Ăsta e albastru sau negru? 
 sv	En av dem är min. Är den marinblå eller svart? 
 tr	Bunlardan biri benim. Bu lacivert mi, siyah mı? 

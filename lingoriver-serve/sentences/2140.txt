@@ -14,8 +14,8 @@ ko	‘내가 매니저 하고 싶어’ |
 nl	Ik wil hem vertegenwoordigen.' 
 no	Jeg vil representere ham." 
 pl	Musi zostać moim klientem”. 
-pr-br	Sim, quero representá-lo." 
-pr	Sim. Quero representá-lo." 
+pt-br	Sim, quero representá-lo." 
+pt	Sim. Quero representá-lo." 
 ro	Da, vreau să-l reprezint." 
 sv	Ja, jag vill företräda honom." 
 tr	Evet, onu temsil etmek istiyorum." 

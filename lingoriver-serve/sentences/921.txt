@@ -15,8 +15,8 @@ ko	코트니 노래야 |
 nl	Het is Courtneys nummer. 
 no	Det er Courtneys sang. 
 pl	To piosenka Courtney. 
-pr-br	É a música da Courtney. 
-pr	É a canção da Courtney. 
+pt-br	É a música da Courtney. 
+pt	É a canção da Courtney. 
 ro	Ăsta e cântecul lui Courtney. 
 sv	Det är Courtneys låt. 
 th	นั่นเพลงของคอร์ทนี่ย์ | 

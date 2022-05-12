@@ -12,8 +12,8 @@ ko	- 왜 놀라? 잘 부르잖아 | - 세상에 |
 nl	Waarom ben je geschokt? Ze zingt goed. 
 no	-Hvorfor så sjokkert? Hun er flott. -Herregud. 
 pl	- Dziwisz się? Jest świetna. - Boże. 
-pr-br	-Por que está chocado? Ela é demais. -Ah, meu Deus. 
-pr	- Qual é a admiração? Ela canta bem. - Meu Deus. 
+pt-br	-Por que está chocado? Ela é demais. -Ah, meu Deus. 
+pt	- Qual é a admiração? Ela canta bem. - Meu Deus. 
 ro	- De ce ești șocat? E grozavă. - Dumnezeule! 
 sv	-Varför är du förvånad? Hon är bra. -Herregud. 
 th	- ทำไมถึงแปลกใจ เธอยอดเยี่ยม | - ให้ตายสิ | 

@@ -13,8 +13,8 @@ it	Nel mio mondo non c'era spazio per i sogni
 ko	내 세상은 | 꿈을 담을 자리가 없어 | 
 nl	in mijn wereld was er geen plek voor dromen 
 pl	Nie miałam żadnych marzeń 
-pr-br	Não havia espaço para sonhos no meu mundo 
-pr	O meu mundo não tinha espaço para sonhos 
+pt-br	Não havia espaço para sonhos no meu mundo 
+pt	O meu mundo não tinha espaço para sonhos 
 ro	În lumea mea nu mai era loc de vise 
 sv	Min värld hade inte plats för drömmar 
 th	โลกของฉันไม่มีที่ว่างสำหรับความฝัน | 

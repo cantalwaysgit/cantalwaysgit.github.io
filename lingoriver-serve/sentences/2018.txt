@@ -14,8 +14,8 @@ it	Chi sono, Sandy?
 ko	제가 누군데요? | 
 no	Hvem er jeg, Sandy? 
 pl	Czyli kim? 
-pr-br	Quem eu sou, Sandy? 
-pr	Quem sou eu, Sandy? 
+pt-br	Quem eu sou, Sandy? 
+pt	Quem sou eu, Sandy? 
 ro	Cine sunt eu, Sandy? 
 sv	Vem är jag? 
 th	ฉันเป็นใครล่ะ แซนดี้ | 
@@ -32,8 +32,8 @@ es	Eres Courtney Clarke.
 es-eu	Eres Courtney Clarke. 
 fi	Olet Courtney Clarke. 
 it	Sei Courtney Clarke. 
-pr-br	Você é Courtney Clarke. 
-pr	És a Courtney Clarke. 
+pt-br	Você é Courtney Clarke. 
+pt	És a Courtney Clarke. 
 sv	Du är Courtney Clarke. 
 vi	Em là Courtney Clarke. | 
 zh-long	妳是寇妮克拉克 

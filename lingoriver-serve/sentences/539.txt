@@ -14,8 +14,8 @@ ko	내가 일개 조수일 때도 | 나한테 말을 걸어주셨거든 |
 nl	Hij praatte met me toen ik nog een assistent was. 
 no	Han snakket til meg da jeg bare var assistent. 
 pl	Rozmawiał ze mną, choć byłem tylko asystentem. 
-pr-br	Ele falou comigo quando eu era só um assistente. 
-pr	Ele falava comigo quando eu era um mero assistente. 
+pt-br	Ele falou comigo quando eu era só um assistente. 
+pt	Ele falava comigo quando eu era um mero assistente. 
 ro	Chiar mi-a dat atenție, când eram un simplu asistent. 
 sv	Han pratade faktiskt med mig när jag var assistent. 
 th	จริงๆ แล้วเขาคุยกับผม | ตอนที่ผมเป็นแค่ผู้ช่วย | 

@@ -15,8 +15,8 @@ ko	잘 어울리네! |
 nl	Het werkt wel. 
 no	Det funker! 
 pl	Pasuje! 
-pr	Bem, fica-te bem! 
-pr-br	Bem, deu certo! 
+pt	Bem, fica-te bem! 
+pt-br	Bem, deu certo! 
 ro	Îți stă bine! 
 sv	Den funkar. 
 th	แหม มันเข้าท่าสุดๆ | 

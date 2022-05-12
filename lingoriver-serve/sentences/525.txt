@@ -8,8 +8,8 @@ fr	Barry.
 he	&rlm;‏בארי.‏ | 
 it	Barry. 
 ko	배리 | 
-pr	Barry. 
-pr-br	Barry. 
+pt	Barry. 
+pt-br	Barry. 
 ro	Barry. 
 sv	Barry. 
 th	แบร์รี่ | 

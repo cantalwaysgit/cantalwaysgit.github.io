@@ -15,8 +15,8 @@ ko	잘할 수 있지? 좋아 |
 nl	Je weet dat je het kunt. 
 no	Du vet du kan klare det. Greit. 
 pl	Wiesz, że potrafisz. 
-pr-br	Você sabe que consegue. Está bem. 
-pr	Tu sabes que és capaz. Muito bem. 
+pt-br	Você sabe que consegue. Está bem. 
+pt	Tu sabes que és capaz. Muito bem. 
 ro	Știi că poți face asta. Bine. 
 sv	Du vet att du klarar det. 
 th	คุณก็รู้ว่าคุณทำได้ โอเค เอาเลย | 

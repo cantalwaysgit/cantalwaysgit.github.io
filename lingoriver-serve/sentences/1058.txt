@@ -12,8 +12,8 @@ ko	맛이 어때요? |
 nl	Wat vind je ervan, schat? 
 no	Hva synes du? 
 pl	I jak, skarbie? 
-pr-br	O que acha, querida? 
-pr	O que achas, querida? 
+pt-br	O que acha, querida? 
+pt	O que achas, querida? 
 ro	Ce zici, scumpo? 
 sv	Vad tycker du, raring? 
 th	คิดว่าไง ที่รัก | 

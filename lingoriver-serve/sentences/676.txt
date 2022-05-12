@@ -13,8 +13,8 @@ it	Va tutto bene?
 ko	무슨 문제 있나요? | 
 nl	Is alles in orde? 
 pl	Wszystko w porządku? 
-pr-br	Está tudo bem? 
-pr	Está tudo bem? 
+pt-br	Está tudo bem? 
+pt	Está tudo bem? 
 ro	E totul în ordine acolo? 
 sv	Är allt okej? 
 th	ทุกอย่างโอเคไหม | 

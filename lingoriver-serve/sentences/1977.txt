@@ -13,8 +13,8 @@ ko	좋아요, 유효한 | 운전 면허증 있죠? |
 nl	Mooi. Heb je een geldig rijbewijs? 
 no	Perfekt. Har du gyldig førerkort? 
 pl	Świetnie. Masz ważne prawo jazdy? 
-pr-br	Perfeito.  E você tem uma habilitação válida? 
-pr	Perfeito. Tens uma carta de condução válida? 
+pt-br	Perfeito.  E você tem uma habilitação válida? 
+pt	Perfeito. Tens uma carta de condução válida? 
 ro	Perfect? Ai permis de conducere valabil? 
 sv	Perfekt. Och du har körkort? 
 th	เพอร์เฟก | แล้วคุณมีใบขับขี่ถูกกฎหมายหรือเปล่า | 

@@ -14,8 +14,8 @@ ko	- 끝이에요, 샌디! | - 그런 소리 하지 마 |
 nl	Het is klaar. -Zeg dat nou niet. 
 no	-Vi er ferdige, Sandy! -Ikke si det. 
 pl	- Koniec z nami, Sandy! - Nie mów tak. 
-pr	- Acabou, Sandy! - Não digas isso. 
-pr-br	-Nosso vínculo acabou, Sandy! -Não diga isso. 
+pt	- Acabou, Sandy! - Não digas isso. 
+pt-br	-Nosso vínculo acabou, Sandy! -Não diga isso. 
 ro	- Am terminat-o, Sandy! - Nu spune asta. 
 sv	-Vi är färdiga med varann. -Säg inte så. 
 th	- เราจบกัน แซนดี้ | - อย่าพูดแบบนั้น | 

@@ -14,8 +14,8 @@ it	Spero che uno dei vestiti ti vada bene.
 nl	Ik hoop dat je de juiste jurk vindt. 
 no	Jeg håper en av kjolene funker for deg. 
 pl	Znajdziesz dla siebie dobrą kieckę. 
-pr-br	Espero que um desses vestidos fique bem. 
-pr	Espero que um dos vestidos te fique bem. 
+pt-br	Espero que um desses vestidos fique bem. 
+pt	Espero que um dos vestidos te fique bem. 
 ro	Sper că o să te hotărăști la una dintre rochii. 
 sv	Jag hoppas att en av klänningarna passar. 
 th	หวังว่าชุดหนึ่งในนั้นจะใช้ได้ | 

@@ -10,8 +10,8 @@ he	&rlm;‏כן, בסדר.‏ |
 it	Certo, bene. 
 ko	알았어요 | 
 pl	Dobra. 
-pr-br	Sim, beleza. 
-pr	Sim, está bem. 
+pt-br	Sim, beleza. 
+pt	Sim, está bem. 
 ro	Bine. 
 sv	Ja, visst. 
 th	ใช่ | 

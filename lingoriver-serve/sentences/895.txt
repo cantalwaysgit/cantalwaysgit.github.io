@@ -12,8 +12,8 @@ it	- Io non esisto? - Ci sei ma è come se non ci fossi.
 ko	- 나는 대화 안 해? | - 하는 것 같으면서 아니야 | 
 nl	Doe ik niet mee? -Ja, maar ook niet. 
 pl	- A ja nie? - Ty masz słuchać. 
-pr-br	-Não estou na conversa? -Sim, mas não. 
-pr	- Não entro na conversa? - Entras, mas não entras. 
+pt-br	-Não estou na conversa? -Sim, mas não. 
+pt	- Não entro na conversa? - Entras, mas não entras. 
 ro	- Eu nu particip? - Și da, și nu. 
 sv	-Är jag inte med i samtalet? -Jo, men ändå inte. 
 tr	-Ben yok muyum? -Varsın ama yoksun. 

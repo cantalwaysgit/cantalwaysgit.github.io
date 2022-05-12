@@ -10,8 +10,8 @@ he	&rlm;‏אז אתה אומר שעליי להתפטר עכשיו וללכת א
 it	Quindi dovrei mollare tutto e venire via con te? 
 nl	Dus je zegt dat ik nu moet stoppen en met jou moet meegaan? 
 pl	Twierdzisz, że powinnam rzucić tę robotę i pójść z tobą? 
-pr-br	Está dizendo que eu deveria largar tudo e ir embora com você? 
-pr	Está a dizer que eu devia sair daqui e ir consigo? 
+pt-br	Está dizendo que eu deveria largar tudo e ir embora com você? 
+pt	Está a dizer que eu devia sair daqui e ir consigo? 
 sv	Du menar att jag ska sluta på stört och följa med dig? 
 tr	Şimdi işi bırakıp seninle gelmemi mi söylüyorsun? 
 vi	Anh nói là tôi nên bỏ nơi này | và đi với anh? | 

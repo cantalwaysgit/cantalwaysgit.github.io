@@ -14,8 +14,8 @@ it	Ho solo paura che possano offrirti un contratto deludente.
 nl	Ik vrees alleen dat ze je een ondermaats aanbod gaan doen. 
 no	Jeg er bare redd for at de skal prøve å utnytte deg. 
 pl	Obawiam się tylko, że będą cię chcieli trochę wydymać. 
-pr-br	Meu único medo é que tentem diminuir a sua grana no acordo. 
-pr	Só tenho medo que te tentem fazer um acordo pouco vantajoso. 
+pt-br	Meu único medo é que tentem diminuir a sua grana no acordo. 
+pt	Só tenho medo que te tentem fazer um acordo pouco vantajoso. 
 ro	Singura mea teamă e că vor încerca să-ți ofere mai puțin. 
 sv	Jag är bara rädd för att de ska ge dig ett uselt avtal. 
 th	อย่างเดียวที่กลัวคือพวกเขาจะพยายาม | กดราคาค่าจ้างนาย | 

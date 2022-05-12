@@ -15,8 +15,8 @@ ko	- 알아요 | - 다신 일 못 할 거야! |
 nl	Ik begrijp het. -Je werkt nooit meer. 
 no	-Jeg skjønner. -Du jobber aldri igjen! 
 pl	- Rozumiem. - Wylatujesz! 
-pr-br	-Entendo. -Você nunca mais vai trabalhar! 
-pr	- Eu compreendo. - Não voltas a trabalhar! 
+pt-br	-Entendo. -Você nunca mais vai trabalhar! 
+pt	- Eu compreendo. - Não voltas a trabalhar! 
 ro	- Înțeleg. - N-o să mai lucrezi niciodată! 
 th	- ผมเข้าใจ | - คุณจะไม่ได้ทำงานอีก | 
 tr	-Anlıyorum. -Bir daha çalışamayacaksın! 

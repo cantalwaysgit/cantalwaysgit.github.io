@@ -16,8 +16,8 @@ ko	들어봐야겠어 |
 nl	Ik moet het horen. 
 no	Jeg må høre dette. 
 pl	Muszę tego posłuchać. 
-pr-br	Eu tenho que ouvi-lo. 
-pr	Tenho de ouvir. 
+pt-br	Eu tenho que ouvi-lo. 
+pt	Tenho de ouvir. 
 ro	Trebuie să-l aud. 
 sv	Jag måste höra den. 
 tr	Bunu dinlemeliyim. 

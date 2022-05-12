@@ -13,8 +13,8 @@ ko	건강한 음식이 어떻게 맛있지? | 대단해, 못하는 게 없네 |
 nl	Niemand kan zo goed koken. Je bent fantastisch. Je kunt alles. 
 no	Ingen kan lage helsekost som... Du er fantastisk. Du klarer alt. 
 pl	Nikt tak nie przyrządza zdrowego żarcia. Potrafisz wszystko. 
-pr-br	Ninguém cozinha comida saudável como... Você é fantástica. Sabe fazer tudo. 
-pr	Ninguém sabe fazer comida saudável como... És fantástica. Sabes fazer tudo. 
+pt-br	Ninguém cozinha comida saudável como... Você é fantástica. Sabe fazer tudo. 
+pt	Ninguém sabe fazer comida saudável como... És fantástica. Sabes fazer tudo. 
 ro	Nu mai știe nimeni să gătească sănătos ca... Te pricepi la toate! 
 ru	Никто не умеет так готовить... Ты чудо. Ты всё можешь. 
 sv	Ingen kan laga nyttig mat som... Du är fantastisk. Du kan allt. 

@@ -14,8 +14,8 @@ he	&rlm;‏‏איך התחת הדבילי שלך יכול לגרום לי | &rl
 it	Come fa la tua faccia da idiota a farmi stare bene? È impossibile! 
 nl	Hoe kan een sukkel als jij zorgen dat ik me goed voel? Onmogelijk. 
 no	Hvordan kan det få meg til å føle meg bra? Det er umulig! 
-pr-br	Como quer que eu me sinta bem agora? É impossível! 
-pr	Como queres que me sinta bem? É impossível! 
+pt-br	Como quer que eu me sinta bem agora? É impossível! 
+pt	Como queres que me sinta bem? É impossível! 
 ro	Cum naiba ai vrea să mă simt bine? E imposibil! 
 sv	Hur kan du få mig att må bra? Det är helt omöjligt. 
 th	เซ่อซ่าอย่างนายทำให้ฉัน | รู้สึกดีได้ไง เป็นไปไม่ได้ | 

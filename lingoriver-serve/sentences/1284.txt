@@ -12,8 +12,8 @@ he	&rlm;‏הילדה שלך גדולה. היא הכי טובה עכשיו.‏ |
 it	La tua ragazza è esplosa. È il massimo. 
 no	Jenta di er blitt dritpopulær. 
 pl	Twoja klientka jest gwiazdą. 
-pr	A tua miúda é um sucesso. Agora é a maior. 
-pr-br	Sua garota detonou. Ela é a melhor. 
+pt	A tua miúda é um sucesso. Agora é a maior. 
+pt-br	Sua garota detonou. Ela é a melhor. 
 ro	Fetița ta a dat lovitura. E pe val acum. 
 th	สาวของคุณดังระเบิด สุดยอดเลยตอนนี้ | 
 tr	Senin kız patladı. Acayip tuttu. 

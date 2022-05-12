@@ -14,8 +14,8 @@ he	&rlm;‏‏היא לא יודעת לרקוד? | &rlm;‏-את דיווה!‏ 
 it	- Dite che non sa ballare? - Sei una diva! 
 nl	Kan zij niet dansen? -Je bent een diva. 
 no	-Kan hun ikke danse? -Du er en diva! 
-pr-br	-Ela não sabe dançar? -Você é uma diva! 
-pr	- Ela não sabe dançar? - És uma diva! 
+pt-br	-Ela não sabe dançar? -Você é uma diva! 
+pt	- Ela não sabe dançar? - És uma diva! 
 ro	- Nu știe să danseze? - Ești o divă! 
 sv	-Och hon kan inte dansa? -Du är en diva! 
 th	- เธอเต้นไม่เป็น | - คุณคือดีวา | 

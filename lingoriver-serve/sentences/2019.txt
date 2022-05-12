@@ -15,8 +15,8 @@ ko	매직 마운틴의 아름다운 백조지 |
 nl	De mooie zwaan van Magic Mountain. 
 no	Den vakre svanen fra Magic Mountain. 
 pl	Piękny łabędź z parku Magic Mountain. 
-pr-br	O lindo cisne do Magic Mountain. 
-pr	O lindo cisne da Magic Mountain. 
+pt-br	O lindo cisne do Magic Mountain. 
+pt	O lindo cisne da Magic Mountain. 
 ro	Lebăda cea frumoasă, din parcul de distracții. 
 sv	Den vackra svanen från Magic Mountain. 
 th	หงส์แสนสวยจากแมจิกเมาน์เทน | 

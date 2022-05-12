@@ -12,8 +12,8 @@ es	No.
 fi	En. 
 he	&rlm;‏לא, לא.‏ | 
 ko	아니에요 | 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu. 
 sv	Nej. 
 tr	Hayır, hayır. 
@@ -34,8 +34,8 @@ fr	Je l'ai fait exprès.
 he	&rlm;‏זה משהו שעשיתי בכוונה.‏ | 
 it	L'ho fatto di proposito. 
 pl	Celowo tędy jadę. 
-pr-br	Eu fiz de propósito. 
-pr	Fiz isso de propósito. 
+pt-br	Eu fiz de propósito. 
+pt	Fiz isso de propósito. 
 ro	Am făcut intenționat asta. 
 sv	Det gjorde jag med avsikt. 
 th	ผมตั้งใจทำ | 
@@ -60,8 +60,8 @@ it	Prendiamo una scorciatoia.
 ko	지름길로 갈 거예요 | 
 no	Vi tar snarvei. 
 pl	To takie skróty. 
-pr-br	Vamos pegar um atalho. 
-pr	Vamos por um atalho. 
+pt-br	Vamos pegar um atalho. 
+pt	Vamos por um atalho. 
 ro	O luăm pe scurtătură. 
 sv	Vi ska ta en genväg. 
 th	เราจะไปทางลัดกัน | 

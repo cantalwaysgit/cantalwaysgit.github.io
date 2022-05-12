@@ -12,8 +12,8 @@ id	Tiada orang seperti penghibur
 it	Non c'è gente Come quella dello spettacolo 
 ko	연예인 같은 사람도 없지 | 
 pl	Wszyscy w show-biznesie są wspaniali 
-pr-br	Não há ninguém como os artistas 
-pr	Não há gente como a do espetáculo 
+pt-br	Não há ninguém como os artistas 
+pt	Não há gente como a do espetáculo 
 ro	Artiștii sunt unici 
 th	ไม่มีใครเหมือนคนในวงการบันเทิง | 
 tr	Yoktur şov dünyasındakiler gibisi 

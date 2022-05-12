@@ -13,8 +13,8 @@ ko	알았어, 염색한 거 맞아! | 끝부분만 했어, 됐어? |
 nl	Oké. Ik heb mijn haar geverfd. Alleen de punten. 
 no	Ja vel, jeg farget håret! Bare tuppene! Fornøyd? 
 pl	No dobra, ufarbowałem włosy! Same końcówki! Zadowolona? 
-pr-br	Está bem. Eu tingi o cabelo. Só as pontas. Está feliz? 
-pr	Pronto, pintei o cabelo! Só as pontas! Estás contente? 
+pt-br	Está bem. Eu tingi o cabelo. Só as pontas. Está feliz? 
+pt	Pronto, pintei o cabelo! Só as pontas! Estás contente? 
 ro	Bine. M-am vopsit! Doar vârfurile! Ești mulțumită acum? 
 sv	Okej. Jag har färgat håret! Bara topparna! Är du nöjd? 
 th	ก็ได้ ผมย้อมสีผม | แค่ปลายผม แฮปปียัง | 

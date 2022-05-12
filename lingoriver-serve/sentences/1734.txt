@@ -13,8 +13,8 @@ ko	최근에는 아이스 하우스의 | 미니를 따라 했고요 |
 nl	Hij volgde Minnie in The Ice House. 
 no	Han fulgte etter Minnie på Ice House nylig. 
 pl	Ostatnio był po Minnie w klubie Ice House. 
-pr-br	Ele se apresentou após a Minnie no Ice House recentemente. 
-pr	Recentemente, imitou o Minnie na Ice House. 
+pt-br	Ele se apresentou após a Minnie no Ice House recentemente. 
+pt	Recentemente, imitou o Minnie na Ice House. 
 ro	A imitat-o nu de mult pe Minnie, la The Ice House. 
 sv	Han följde Minnie i Ice House nyligen. 
 th	ไม่นานมานี้เขาตามมินนี่ที่ไอซ์เฮาส์ | 

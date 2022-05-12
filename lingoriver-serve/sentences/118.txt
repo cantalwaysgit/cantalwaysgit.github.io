@@ -2,7 +2,7 @@ ja	２回目は |
 ru	Во второй раз. 
 id	- Pada kali kedua. - Ya, tapi kau tahu itu. 
 pl	Za drugim razem. 
-pr-br	Da segunda vez. 
+pt-br	Da segunda vez. 
 ar	&rlm;‏المرة الثانية.‏ | 
 da	Anden gang. 
 el	Τη δεύτερη φορά. 
@@ -14,7 +14,7 @@ fr	La deuxième fois.
 he	&rlm;‏בפעם השנייה.‏ | 
 it	La seconda volta. 
 ko	두 번째에요 | 
-pr	Da segunda vez. 
+pt	Da segunda vez. 
 ro	A doua oară. 
 th	ครั้งที่สอง | 
 tr	İkinci seferde. 
@@ -27,7 +27,7 @@ sv	-Andra gången. -Ja, men du visste det.
 ru	Да, но вы это знали. 
 ja	覚えてくれた | 
 pl	Ale wiedział pan. 
-pr-br	Sim, mas você sabia. 
+pt-br	Sim, mas você sabia. 
 fi	Tiesit kuitenkin. 
 el	Το ήξερες, όμως. 
 ar	&rlm;‏أجل، لكنك عرفته.‏ | 
@@ -39,7 +39,7 @@ fr	Oui, mais vous le saviez.
 he	&rlm;‏כן, אבל ידעת את זה.‏ | 
 it	Sì, ma lo sapevi. 
 ko	하지만 알고 계셨잖아요 | 
-pr	Sim, mas tu sabias. 
+pt	Sim, mas tu sabias. 
 ro	Da, dar știai. 
 th	ใช่ แต่คุณรู้อยู่แล้ว | 
 tr	Evet ama biliyordun. 

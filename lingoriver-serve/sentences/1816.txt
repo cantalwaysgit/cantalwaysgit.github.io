@@ -10,8 +10,8 @@ he	&rlm;‏‏אתה מקבל את העבודה, טדי. | &rlm;‏-עשיתי �
 it	- Avrai il lavoro, Teddy. - Sono andato bene. 
 no	-Du får jobben. -Jeg gjorde det bra. 
 pl	- Dostaniesz robotę. - Dobrze mi poszło. 
-pr-br	-Vai conseguir o trabalho, Teddy. -Mandei bem. 
-pr	- Vais ficar com o trabalho, Teddy. - Saí-me bem. 
+pt-br	-Vai conseguir o trabalho, Teddy. -Mandei bem. 
+pt	- Vais ficar com o trabalho, Teddy. - Saí-me bem. 
 ro	- Îți oferă postul, Teddy. - M-am descurcat bine. 
 sv	-Du får jobbet. -Jag var bra. 
 th	- นายได้งานแล้ว เท็ดดี้ | - ฉันทำได้ดี | 

@@ -11,8 +11,8 @@ it	Ti assicuro che è il miglior ventriloquo del giro.
 ko	업계 최고의 복화술사라니까요 | 
 nl	Hij is de beste buikspreker die er is. 
 pl	To najlepszy brzuchomówca w branży. 
-pr-br	Estou dizendo, ele é o melhor ventríloquo do ramo. 
-pr	Estou a dizer-te, ele é o melhor ventríloquo que há. 
+pt-br	Estou dizendo, ele é o melhor ventríloquo do ramo. 
+pt	Estou a dizer-te, ele é o melhor ventríloquo que há. 
 ro	Îți garantez, e cel mai bun ventriloc din industrie. 
 th	ผมจะบอกให้ เขาเป็นนักแปลงเสียง | ที่เก่งที่สุดในวงการ | 
 tr	Haberin olsun, piyasadaki en iyi vantrilok. 

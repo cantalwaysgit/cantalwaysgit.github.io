@@ -14,8 +14,8 @@ it	In poche parole Diciamo il migliore della città
 ko	여러모로 동네 최고가 됐어 | 
 nl	dus eigenlijk de beste in de stad 
 pl	Ten ptak jest najlepszy Na cały świat 
-pr-br	Em muitas palavras dizer O melhor da cidade 
-pr	Em poucas palavras É o melhor que há 
+pt-br	Em muitas palavras dizer O melhor da cidade 
+pt	Em poucas palavras É o melhor que há 
 ro	Pe scurt Cea mai frumoasă 
 sv	Kan inte sägas bättre Den finaste i stan 
 tr	Kısacası kentin en iyisi diyelim 

@@ -10,8 +10,8 @@ it	Per me Peter è un amico,
 nl	Ik zie Peter als een vriend... 
 no	Jeg ser på Peter som en venn. 
 pl	Peter jest moim przyjacielem. 
-pr-br	Eu considero Peter um amigo, 
-pr	Eu considero o Peter um amigo, 
+pt-br	Eu considero Peter um amigo, 
+pt	Eu considero o Peter um amigo, 
 ro	Îl consider prieten pe Peter, 
 th	ผมถือว่าปีเตอร์เป็นเพื่อนคนหนึ่ง | 
 tr	Peter dostumdur, 
@@ -41,8 +41,8 @@ ko	살아있든 죽었든 | 식물인간이든 상관없어요 |
 nl	...levend, dood of in vegetatieve toestand. 
 no	Enten han er levende eller død, eller en grønnsak. 
 pl	Bez względu na to, czy żyje, czy nie, lub czy jest warzywem. 
-pr-br	esteja ele vivo,  morto ou em estado vegetativo. 
-pr	quer esteja vivo, morto ou em estado vegetativo. 
+pt-br	esteja ele vivo,  morto ou em estado vegetativo. 
+pt	quer esteja vivo, morto ou em estado vegetativo. 
 ro	fie viu, mort, fie în stare vegetativă. 
 th	ไม่ว่าเขามีชีวิตอยู่หรือไม่ | หรืออยู่ในสภาพผัก | 
 tr	ister sağ, ister ölü, ister bitkisel hayatta olsun. 

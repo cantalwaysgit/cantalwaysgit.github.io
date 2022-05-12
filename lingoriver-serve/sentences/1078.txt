@@ -12,8 +12,8 @@ he	&rlm;‏אני לא יודע... לכי. הוא בא?‏ |
 it	Non so... Vai. Sta arrivando? 
 no	Jeg vet ikke... Gå. Kommer han? 
 pl	Którędy? Idzie za nami? 
-pr-br	Não sei... Vá. Ele está vindo? 
-pr	Não sei... Vai. Ele vem aí? 
+pt-br	Não sei... Vá. Ele está vindo? 
+pt	Não sei... Vai. Ele vem aí? 
 ro	Nu știu... Du-te! Vine după noi? 
 th	ไม่รู้สิ ไป เขามาหรือเปล่า | 
 tr	Bilmiyorum... Yürü. Geliyor mu? 

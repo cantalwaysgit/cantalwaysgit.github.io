@@ -15,8 +15,8 @@ ko	수영장이 꽤 멀어 보이는데요 | 언제부터 피부가 타게 되�
 nl	Dat zwembad lijkt ver weg. Hoelang voor m'n huid gaat branden? 
 no	Bassenget er langt unna. Hvor lang tid tar det før huden min brenner? 
 pl	Daleko do tego basenu. Jak szybko poparzę skórę? 
-pr	A piscina parece estar longe. Quanto tempo até a pele começar a arder? 
-pr-br	A piscina parece distante. Quanto tempo até minha pele começar a queimar? 
+pt	A piscina parece estar longe. Quanto tempo até a pele começar a arder? 
+pt-br	A piscina parece distante. Quanto tempo até minha pele começar a queimar? 
 ro	Piscina aia pare departe. În cât timp ajunge focul la piele? 
 sv	Poolen verkar ligga långt bort. När börjar huden brinna? 
 th	สระนั่นดูไกลจัง | นานแค่ไหนก่อนผิวหนังฉันจะเริ่มไหม้ | 

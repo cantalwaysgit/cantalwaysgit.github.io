@@ -14,8 +14,8 @@ it	Cosa? Ma è un'assurdità!
 ko	뭐? 말도 안 돼! | 
 no	Hva? Det er latterlig! 
 pl	To absurd! 
-pr-br	Quê? Isso é ridículo! 
-pr	O quê? Isso é ridículo! 
+pt-br	Quê? Isso é ridículo! 
+pt	O quê? Isso é ridículo! 
 ro	Poftim? Asta e ridicol! 
 sv	Det är löjligt! 
 th	อะไรนะ นั่นบ้าแล้ว | 
@@ -34,8 +34,8 @@ fr	Dis-moi quand je t'ai menti.
 he	&rlm;‏תגיד לי פעם אחת שלא אמרתי לך את האמת.‏ | 
 it	Dimmi un solo caso in cui ti avrei mentito. 
 ko	내가 거짓말한 걸 | 한 가지만 말해 봐 | 
-pr-br	Diga uma vez que não tenha dito a verdade. 
-pr	Diz-me uma vez que não te tenha dito a verdade. 
+pt-br	Diga uma vez que não tenha dito a verdade. 
+pt	Diz-me uma vez que não te tenha dito a verdade. 
 ro	Spune-mi o singură dată când nu ți-am zis adevărul. 
 sv	Säg en gång när jag inte sa sanningen. 
 tr	Sana ne zaman doğruyu söylemedim ben? 

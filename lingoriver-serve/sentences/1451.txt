@@ -15,8 +15,8 @@ ko	- 뭐가 좋아요? | - 이름을 알릴 기회잖아 |
 nl	Dat is niet positief. -Wel. De beroemdheidsfactor. 
 no	-Det er ikke positivt. -Jo. Berømmelsen. 
 pl	- Co w tym dobrego? - Zyskasz popularność. 
-pr-br	-Não é nada positivo. -É, sim. Tem o fator fama. 
-pr	- Não é positivo. - Sim. É o fator fama. 
+pt-br	-Não é nada positivo. -É, sim. Tem o fator fama. 
+pt	- Não é positivo. - Sim. É o fator fama. 
 ro	- Nu e un lucru bun. - Ba da. Înseamnă celebritate. 
 sv	-Det är inte positivt. -Jo, det ger berömmelse. 
 th	- นั่นไม่ใช่เรื่องดี | - ใช่สิ ปัจจัยส่งเสริมความดัง | 

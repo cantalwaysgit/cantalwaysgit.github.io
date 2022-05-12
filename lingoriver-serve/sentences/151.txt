@@ -14,8 +14,8 @@ ko	누가 백화점에 전화 좀 해줘요 | 마네킹 하나가 도망쳤어�
 nl	Bel JCPenney. Een van de paspoppen is losgebroken. 
 no	Noen må tilkalle JCPenney. En av dukkene er løs. 
 pl	Dzwońcie po ochronę, jakiś manekin zwiał ze sklepu. 
-pr	Alguém ligue para a JCPenney. Um dos manequins fugiu. 
-pr-br	Liguem para a JC Penney. Um dos manequins está à solta. 
+pt	Alguém ligue para a JCPenney. Um dos manequins fugiu. 
+pt-br	Liguem para a JC Penney. Um dos manequins está à solta. 
 ro	Să sune cineva la magazin! A evadat un manechin. 
 sv	Ring JCPenney. En av deras skyltdockor är på rymmen. 
 th	ใครช่วยโทรเรียกเจซี เพนนีย์หน่อย | หุ่นเสื้อตัวหนึ่งหลงมา | 

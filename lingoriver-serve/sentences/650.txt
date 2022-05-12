@@ -12,8 +12,8 @@ he	&rlm;‏לא.‏ |
 ko	아니요 | 
 no	Nei. 
 pl	Nie. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu. 
 sv	Nej. 
 tr	Hayır. 

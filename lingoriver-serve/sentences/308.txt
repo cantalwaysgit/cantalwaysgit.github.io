@@ -12,8 +12,8 @@ he	&rlm;‏‏אבל בדיוק... | &rlm;‏-לא, אני לא.‏ |
 it	- Ma hai detto... - Non è vero. 
 nl	Maar je... -Nee, hoor. 
 no	-Men du sa jo... -Nei. 
-pr-br	-Mas acabou de... -Não. 
-pr	- Mas acabaste de... - Não. 
+pt-br	-Mas acabou de... -Não. 
+pt	- Mas acabaste de... - Não. 
 ro	- Dar ai zis... - Ba nu. N-am zis. 
 tr	-Ama sen... -Yok, gitmedim. 
 vi	- Nhưng anh... | - Tôi không nói. | 

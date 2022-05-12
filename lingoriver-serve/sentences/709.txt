@@ -11,8 +11,8 @@ it	- È bello che tu sia qui. - Bene.
 nl	We zijn blij dat je er bent. 
 no	-Vi er glad du er her. -Bra. 
 pl	- Cieszymy się, że jesteś. - Dobrze. 
-pr-br	-Que bom que você está aqui. -Ótimo. 
-pr	- Estamos felizes por estares cá. - Ótimo. 
+pt-br	-Que bom que você está aqui. -Ótimo. 
+pt	- Estamos felizes por estares cá. - Ótimo. 
 ro	- Ne bucurăm că ai venit. - Bine. 
 sv	-Vi är glada att du är här. -Bra. 
 th	- เราดีใจที่คุณมาที่นี่ | - ดี | 

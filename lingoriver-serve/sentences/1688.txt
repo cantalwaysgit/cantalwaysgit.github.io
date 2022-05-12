@@ -15,8 +15,8 @@ it	Sei uno stronzo.
 nl	Je bent een eikel. 
 no	Du er en dust. 
 pl	Palant z ciebie. 
-pr-br	Você é um canalha. 
-pr	És um idiota. 
+pt-br	Você é um canalha. 
+pt	És um idiota. 
 ro	Ești un ticălos. 
 sv	Du är dum. 
 tr	Sersemin tekisin. 

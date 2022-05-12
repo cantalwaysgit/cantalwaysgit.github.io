@@ -14,8 +14,8 @@ ko	클라크 씨, 반갑습니다 | 샌디 웩슬러입니다 |
 nl	Mr Clarke, een genoegen. Sandy Wexler van Wexler Artists. 
 no	Mr. Clarke, så hyggelig. Sandy Wexler fra Wexler Artists. 
 pl	Miło pana poznać, panie Clarke. Sandy Wexler z Wexler Artists. 
-pr-br	É um prazer, Sr. Clarke. Sandy Wexler da Artistas Wexler. 
-pr	Sr. Clarke, é um prazer. Sandy Wexler, da Wexler Artists. 
+pt-br	É um prazer, Sr. Clarke. Sandy Wexler da Artistas Wexler. 
+pt	Sr. Clarke, é um prazer. Sandy Wexler, da Wexler Artists. 
 ro	Dle Clarke, deosebit de încântat! Sandy Wexler, de la Wexler Artists. 
 sv	Mr Clarke, nöjet är på min sida. Sandy Wexler från Wexler Artists. 
 th	คุณคลาร์ก แซนดี้ เวกซ์เลอร์จาก | เวกซ์เลอร์อาร์ทิสต์ส ยินดีครับ | 

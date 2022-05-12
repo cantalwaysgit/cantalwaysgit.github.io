@@ -14,8 +14,8 @@ ko	아마 제가 아는 | 가장 독특한 사람일 거예요 |
 nl	Hij is misschien de meest unieke man die ik ken. 
 no	Han er kanskje den mest unike mannen jeg kjenner. 
 pl	Nie znam nikogo tak oryginalnego. 
-pr-br	Ele deve ser o cara mais característico que conheço. 
-pr	Deve ser o tipo mais invulgar que já conheci. 
+pt-br	Ele deve ser o cara mais característico que conheço. 
+pt	Deve ser o tipo mais invulgar que já conheci. 
 ro	Cred că e cel mai deosebit tip pe care-l știu. 
 sv	Han är nog den mest unika killen jag känner. 
 th	เขาอาจเป็นคนพิเศษที่สุดที่ผมรู้จัก | 

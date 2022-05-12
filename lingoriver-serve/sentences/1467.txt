@@ -12,8 +12,8 @@ it	Abbiamo un problema con una persona che ha bevuto un po' troppo.
 nl	Er is 'n probleempje met een cliënt van je die te veel heeft gedronken. 
 no	Vi har en situasjon med din klient, som har drukket for mye. 
 pl	Jeden z pana klientów za dużo wypił, 
-pr-br	Temos um problema com um cliente seu que exagerou na bebida. 
-pr	Temos um problema com um cliente seu que bebeu demasiado. 
+pt-br	Temos um problema com um cliente seu que exagerou na bebida. 
+pt	Temos um problema com um cliente seu que bebeu demasiado. 
 ro	Suntem într-o situație delicată cu clientul tău, care a băut prea mult. 
 sv	Vi har en situation med din klient som har druckit för mycket. 
 th	เรามีสถานการณ์กับลูกค้าของคุณ | ซึ่งดื่มเยอะเกินไป | 

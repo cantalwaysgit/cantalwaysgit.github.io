@@ -12,8 +12,8 @@ it	Sfogati pure con me.
 ko	나한테 다 분출해 | 
 no	Du kan la... Ta det ut på meg. 
 pl	Dobra, wyżyj się. 
-pr-br	Você pode... Pode descontar em mim. 
-pr	Podes... Desabafa comigo. 
+pt-br	Você pode... Pode descontar em mim. 
+pt	Podes... Desabafa comigo. 
 ro	Poți să lași... Descarcă-te pe mine! 
 th	นายจะปลดปล่อย ใส่ฉันได้นะ | 
 tr	Hıncını benden çıkarabilirsin. 
@@ -38,8 +38,8 @@ it	Dai. Urlami in faccia, se vuoi.
 ko	원하는 만큼 소리 질러도 돼 | 
 no	Kom igjen. Skrik så mye du vil. 
 pl	Nakrzycz na mnie. 
-pr-br	Pode gritar o quanto quiser. 
-pr	Vamos. Grita quanto quiseres. 
+pt-br	Pode gritar o quanto quiser. 
+pt	Vamos. Grita quanto quiseres. 
 ro	Hai! Poți să țipi la mine cât vrei. 
 th	เอาเลย ตะโกนได้ตามใจชอบ | 
 tr	Hadi. İstediğin kadar bağır. 

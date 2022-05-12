@@ -11,8 +11,8 @@ fr	Ça coûte 12 $.
 he	&rlm;‏זה מוצר שעולה שניים עשר דולר.‏ | 
 it	Costano 12 dollari. 
 no	Den koster 12 dollar. 
-pr-br	Custa US$ 12. 
-pr	É um artigo de 12 dólares 
+pt-br	Custa US$ 12. 
+pt	É um artigo de 12 dólares 
 ro	Costă doar 12 dolari. 
 sv	De kostar 12 dollar. 
 th	มันแค่ 12 เหรียญ | 
@@ -36,8 +36,8 @@ es	Los envuelven como si fueran el diamante Hope.
 fr	Et c'est emballé comme un diamant. 
 he	&rlm;‏הם עוטפים את זה כאילו שזה יהלום התקווה.‏ | 
 it	Li impacchettano come se contenessero il diamante Hope. 
-pr-br	Eles o embalaram como o Diamante Hope. 
-pr	e embrulham-no como se fosse o diamante Hope. 
+pt-br	Eles o embalaram como o Diamante Hope. 
+pt	e embrulham-no como se fosse o diamante Hope. 
 ro	Îl împachetează de parcă ar fi Diamantul Hope. 
 sv	De har dem inlåsta som Hope-diamanten. 
 th	ห่อมันอย่างกับเพชรโฮป | 

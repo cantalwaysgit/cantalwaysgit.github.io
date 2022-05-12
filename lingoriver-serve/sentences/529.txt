@@ -14,8 +14,8 @@ it	Bubatzi!
 ko	부바치! | 
 no	Bubatzi! 
 pl	Bubatzi! 
-pr-br	Bubatzi! 
-pr	Bubatzi! 
+pt-br	Bubatzi! 
+pt	Bubatzi! 
 ro	Bubatzi! 
 sv	Bubatzi! 
 th	บูบาต์ซี่ | 

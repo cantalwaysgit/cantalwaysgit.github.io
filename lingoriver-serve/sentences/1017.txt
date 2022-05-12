@@ -13,8 +13,8 @@ it	Brave persone. Il Dream Team. Vado a fare due chiacchiere con loro.
 nl	Goeie kerels. Het dreamteam. Ik ga er even heen. 
 no	Fine folk. Kall dem drømmelaget. Jeg skal slå av en prat. 
 pl	Nazywam ich drużyną marzeń. Pójdę zagadać. 
-pr	Bons tipos. Chamo-lhes a equipa de sonho. Vou conversar com eles. 
-pr-br	Caras bons. São chamados de equipe dos sonhos. Vou lá papear com eles. 
+pt	Bons tipos. Chamo-lhes a equipa de sonho. Vou conversar com eles. 
+pt-br	Caras bons. São chamados de equipe dos sonhos. Vou lá papear com eles. 
 ro	Ce băieți buni! Echipa de vis. Mă duc să văd ce mai fac. 
 sv	Bra killar. De är drömlaget. Jag ska gå och hänga med dem. 
 th	เยี่ยมทุกคน เรียกว่าทีมในฝัน | ผมจะเข้าไปคุยกับพวกเขา | 

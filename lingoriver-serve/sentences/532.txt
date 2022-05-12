@@ -12,8 +12,8 @@ fi	Sille ei tullut loppua.
 he	&rlm;‏‏הוא לא הפסיק לשהק. | &rlm;‏-כן.‏ | 
 it	non riusciva a fermarlo. 
 no	han sluttet aldri å hikke. 
-pr-br	-ele não parava de soluçar. -É. 
-pr	ele não conseguia parar. - Sim. 
+pt-br	-ele não parava de soluçar. -É. 
+pt	ele não conseguia parar. - Sim. 
 ro	- Nu se mai oprea din sughițat. - Da. 
 th	- เขาสะอึกไม่ยอมหยุด | - ใช่ | 
 tr	-hıçkırığı bitmek bilmedi. -Evet. 

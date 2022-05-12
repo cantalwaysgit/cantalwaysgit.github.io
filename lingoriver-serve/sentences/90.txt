@@ -13,8 +13,8 @@ ko	- 양지머리 | - 육포 |
 nl	Rundvlees. -Gedroogd vlees. 
 no	-Bringe. -Beef jerky. 
 pl	- Wołowinę. - Suszoną. 
-pr-br	-Peito. -Carne-seca. 
-pr	- Peito de vaca. - Carne seca. 
+pt-br	-Peito. -Carne-seca. 
+pt	- Peito de vaca. - Carne seca. 
 ro	- Piept de vițel. - Pastramă. 
 ru	-Грудинку. -Бастурму. 
 sv	-Bringa. -Beef jerky. 

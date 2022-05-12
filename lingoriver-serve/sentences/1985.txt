@@ -7,8 +7,8 @@ es-eu	El más grande.
 fr	Le plus grand de tous. 
 he	&rlm;‏הגדול מכולם.‏ | 
 it	Il più importante. 
-pr-br	O mais importante de todos. 
-pr	O maior. 
+pt-br	O mais importante de todos. 
+pt	O maior. 
 ro	Cea mai importantă. 
 sv	Den största. 
 th	สำคัญที่สุด | 

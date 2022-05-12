@@ -13,8 +13,8 @@ it	di tutta questa miserabile città. È un dato di fatto.
 nl	...van deze hele ellendige stad. Dat is een feit. 
 no	i hele denne elendige byen. Og det er fakta. 
 pl	w całym tym żałosnym mieście. Takie są fakty. 
-pr-br	de toda esta cidade desgraçada. Isto é fato. 
-pr	desta cidade desprezível. Isso é um facto. 
+pt-br	de toda esta cidade desgraçada. Isto é fato. 
+pt	desta cidade desprezível. Isso é um facto. 
 ro	din tot orașul ăsta nefericit. Și chiar așa e. 
 sv	i denna sorgliga stad. Det är fakta. 
 th	ในเมืองเฮงซวยนี่ และนั่นคือความจริง | 

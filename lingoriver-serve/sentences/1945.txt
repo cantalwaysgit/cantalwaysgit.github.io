@@ -11,8 +11,8 @@ id	Itulah yang terjadi.
 it	È quello che è successo. 
 ko	그게 사실이니까 | 
 pl	Dokładnie tak. 
-pr-br	Foi o que aconteceu. 
-pr	Foi o que aconteceu. 
+pt-br	Foi o que aconteceu. 
+pt	Foi o que aconteceu. 
 ro	Chiar asta s-a întâmplat. 
 ru	Все так. 
 sv	Det är vad som hände. 

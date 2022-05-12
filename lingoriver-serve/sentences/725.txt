@@ -15,8 +15,8 @@ ko	누구 생각이었더라? 너였나? | 엔지니어 생각이었지 |
 nl	Van wie? Was het jouw idee? Nee, van de technicus. 
 no	Var det din idé? Nei, det var teknikerens. 
 pl	Kto? To byłaś ty? A nie, to inżynier nagrania. 
-pr-br	De quem foi a ideia? Foi sua? Não, foi do engenheiro de som. 
-pr	De quem foi a ideia? Foi tua? Não, foi do engenheiro de som. 
+pt-br	De quem foi a ideia? Foi sua? Não, foi do engenheiro de som. 
+pt	De quem foi a ideia? Foi tua? Não, foi do engenheiro de som. 
 ro	A cui a fost? A fost ideea ta? Nu, a fost a inginerului. 
 sv	Vems idé var det? Var det din? Nej, det var ljudteknikerns. 
 th	ความคิดของใครเหรอ ของคุณใช่ไหม | ไม่ใช่ ของคนอัดเสียง | 

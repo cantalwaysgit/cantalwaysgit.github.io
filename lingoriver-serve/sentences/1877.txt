@@ -16,8 +16,8 @@ ko	새 앨범을 냈어? |
 nl	Heb je een nieuw album? 
 no	Har du laget et nytt album? 
 pl	Nagrałaś nową płytę? 
-pr-br	Você gravou um novo álbum? 
-pr	Fizeste um álbum novo? 
+pt-br	Você gravou um novo álbum? 
+pt	Fizeste um álbum novo? 
 ro	Ai scos un album nou? 
 sv	Har du ett nytt album? 
 tr	Yeni bir albüm mü yaptın? 

@@ -14,8 +14,8 @@ it	Sei tutto per me È grazie a te che canto
 ko	당신은 내 모든 것 | 내가 노래하는 이유 | 
 nl	jij bent mijn alles de reden waarom ik zing 
 pl	Jesteś dla mnie wszystkim Dzięki tobie śpiewam 
-pr-br	Você é tudo para mim O motivo pelo qual eu canto 
-pr	És tudo para mim A razão para eu cantar 
+pt-br	Você é tudo para mim O motivo pelo qual eu canto 
+pt	És tudo para mim A razão para eu cantar 
 ro	Ești totul pentru mine Motivul pentru care cânt 
 sv	Du är mitt allt Orsaken till att jag sjunger 
 th	คุณคือทุกอย่างของฉัน | เหตุผลที่ฉันร้องเพลง | 

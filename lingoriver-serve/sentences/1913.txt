@@ -10,8 +10,8 @@ he	&rlm;‏‏החיים עברו מעליי | &rlm;‏אבל אתה אמרת ל
 it	La vita mi scorreva accanto Ma tu mi hai detto di volare 
 nl	het leven ging langs me heen maar jij liet me vliegen 
 pl	Życie omijało mnie Ty rozwinąłeś skrzydła me 
-pr	A vida estava a passar por mim Mas disseste-me para voar 
-pr-br	A vida estava passando Mas você disse para eu voar 
+pt	A vida estava a passar por mim Mas disseste-me para voar 
+pt-br	A vida estava passando Mas você disse para eu voar 
 ro	Viața trecea pe lângă mine Dar tu mi-ai zis să zbor 
 sv	Livet gick mig förbi Men du lärde mig flyga 
 th	ชีวิตผ่านไป แต่คุณบอกให้ฉันโบยบิน | 

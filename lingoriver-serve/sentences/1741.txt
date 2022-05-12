@@ -14,8 +14,8 @@ it	Bud, Alex, come state? Che piacere.
 nl	Bud, Alex, hoe is het? Leuk jullie te zien. 
 no	Bud, Alex, står til? Fint å se dere. 
 pl	Bud, Alex, co u was słychać? Miło was widzieć. 
-pr-br	Bud, Alex, como estão? Que bom ver vocês. 
-pr	Bud, Alex, como estão? Prazer em ver-vos. 
+pt-br	Bud, Alex, como estão? Que bom ver vocês. 
+pt	Bud, Alex, como estão? Prazer em ver-vos. 
 ro	Bud, Alex, ce mai faceți? Mă bucur să vă văd. 
 sv	Hur mår ni? Trevligt att se er. 
 th	บัด อเล็กซ์ สบายดีไหม ดีใจที่เจอนะ | 

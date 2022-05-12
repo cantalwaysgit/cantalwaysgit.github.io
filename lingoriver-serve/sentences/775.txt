@@ -11,8 +11,8 @@ it	Eravamo tra gli alberi a
 ko	우리는 나무 아래에서 | 
 nl	we zaten in een boom 
 pl	Siedzieliśmy na drzewie 
-pr-br	E estávamos em uma árvore 
-pr	E estávamos debaixo de uma árvore 
+pt-br	E estávamos em uma árvore 
+pt	E estávamos debaixo de uma árvore 
 ro	Și că eram într-un copac 
 sv	Och vi satt i ett träd 
 th	และเราอยู่บนต้นไม้ | 

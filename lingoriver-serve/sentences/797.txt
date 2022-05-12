@@ -11,8 +11,8 @@ ko	알아요, 이렇게 들어주셔서 | 정말 고마워요 |
 nl	Jawel. Ik ben al blij dat jullie ernaar luisterden. 
 no	Jo. Jeg er bare glad for at dere hørte på det. 
 pl	Wiem. Cieszę się, że wysłuchaliście mojej piosenki. 
-pr-br	Eu sei.  Só estou grata por vocês terem ouvido. 
-pr	Sei. Só estou grata por terem ouvido. 
+pt-br	Eu sei.  Só estou grata por vocês terem ouvido. 
+pt	Sei. Só estou grata por terem ouvido. 
 ro	Ba da. Vă sunt recunoscătoare că m-ați ascultat. 
 sv	Jo, det gör jag.  Jag är bara tacksam att ni lyssnade. 
 th	ฉันเข้าใจ แค่คุณฟังจริงๆ | ก็รู้สึกขอบคุณแล้ว | 

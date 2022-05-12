@@ -13,8 +13,8 @@ ko	같이 차 타고 클라이브 | 데이비스 파티 가실래요? |
 nl	Kom naar Clive Davis' afterparty. Je kunt met ons meerijden. 
 no	Bli med på nachspiel hos Clive Davis. Du kan kjøre med oss. 
 pl	Może pojedziesz z nami potem do Clive'a Davisa? 
-pr-br	Quer ir à festa do Clive Davis depois? Pode ir com a gente. 
-pr	Queres ir à festa do Clive Davis? Podes vir connosco. 
+pt-br	Quer ir à festa do Clive Davis depois? Pode ir com a gente. 
+pt	Queres ir à festa do Clive Davis? Podes vir connosco. 
 ro	Vino la petrecerea lui Clive Davis. Te putem lua noi. 
 ru	У Клайва Дэвиса будет вечеринка. Едем с нами. 
 sv	Följ med på Clive Davis efterfest. Du kan åka med oss. 

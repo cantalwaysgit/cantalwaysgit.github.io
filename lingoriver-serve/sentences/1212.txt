@@ -15,8 +15,8 @@ ko	게리는 가족이야 |
 nl	Gary is familie. 
 no	Gary er familie. 
 pl	Jest jak rodzina. 
-pr-br	Gary é família. 
-pr	O Gary é da família. 
+pt-br	Gary é família. 
+pt	O Gary é da família. 
 ro	Gary e din familie. 
 sv	Gary tillhör familjen. 
 th	แกรี่คือคนในครอบครัว | 

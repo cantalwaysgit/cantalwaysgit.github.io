@@ -14,8 +14,8 @@ it	Ehi. Shalom.
 nl	Hé. Shalom. 
 no	Hei. Shalom. 
 pl	Hej. Szalom. 
-pr-br	Ei.  Shalom. 
-pr	Olá.  Shalom. 
+pt-br	Ei.  Shalom. 
+pt	Olá.  Shalom. 
 ro	Shalom! 
 sv	Hej. Shalom. 
 th	เฮ่ ชาโลม | 

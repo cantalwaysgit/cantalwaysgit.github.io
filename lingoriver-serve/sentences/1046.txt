@@ -12,8 +12,8 @@ he	&rlm;‏‏אני חושבת שהעלבת אותו. | &rlm;‏-לא, אני �
 it	- Credo che tu lo abbia offeso. - Non l'ho offeso. 
 ko	- 기분 상하신 것 같아요 | - 아닐걸 | 
 pl	- Uraziłeś go. - Wcale nie. 
-pr	- Acho que o ofendeste. - Não ofendi nada. 
-pr-br	-Acho que você o ofendeu. -Não ofendi. 
+pt	- Acho que o ofendeste. - Não ofendi nada. 
+pt-br	-Acho que você o ofendeu. -Não ofendi. 
 ro	- Cred că l-ai jignit. - Ba nu. 
 sv	-Du förolämpade honom. -Nej, det gjorde jag inte. 
 tr	-Onu gücendirdin. -Hayır, gücendirmedim. 

@@ -15,8 +15,8 @@ ko	안녕, 에이미 | 안녕, 도나, 켄드라 |
 nl	Hallo, Amy. Hallo, Donna en Kendra. 
 no	Hei, Amy. Hei, Donna og Kendra. 
 pl	Amy, Donna i Kendra. Cześć. 
-pr-br	Oi, Amy. Oi, Donna e Kendra. 
-pr	Olá, Amy. Olá, Donna e Kendra. 
+pt-br	Oi, Amy. Oi, Donna e Kendra. 
+pt	Olá, Amy. Olá, Donna e Kendra. 
 ro	Bună, Amy! Bună, Donna și Kendra! 
 sv	Hej, Amy, Donna och Kendra. 
 th	ว่าไง เอมี่ หวัดดีจ้ะ ดอนนาและเคนดรา | 

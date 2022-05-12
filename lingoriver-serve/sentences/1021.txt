@@ -13,8 +13,8 @@ ko	- 존지가 누구야? | - 퀸시요 |
 nl	Wie is Jonesy? -Quincy? 
 no	-Hvem er Jonesy? -Quincy? 
 pl	- Kogo? - Quincy'ego? 
-pr-br	-Quem é Jonesy? -Quincy? 
-pr	- Quem é o Jonesy? - O Quincy? 
+pt-br	-Quem é Jonesy? -Quincy? 
+pt	- Quem é o Jonesy? - O Quincy? 
 ro	- Cine e Jonesy? - Quincy? 
 sv	-Vem är Jonesy? -Quincy? 
 th	- ใครล่ะโจนซี่ | - ควินซี่ไง | 

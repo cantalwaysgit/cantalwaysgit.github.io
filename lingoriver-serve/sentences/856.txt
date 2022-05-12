@@ -13,8 +13,8 @@ it	Magari stessi mentendo. Magari.
 nl	Loog ik maar. Was dat maar waar. 
 no	Skulle ønske jeg løy. 
 pl	Chciałbym, żeby to było kłamstwo. 
-pr-br	Quem me dera estar mentindo. 
-pr	Quem me dera estar a mentir. 
+pt-br	Quem me dera estar mentindo. 
+pt	Quem me dera estar a mentir. 
 ro	Aș vrea să fi mințit. Chiar aș vrea. 
 sv	Jag önskar att jag ljög. 
 th	ผมก็หวังว่าผมโกหก หวังจริงๆ | 

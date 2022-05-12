@@ -14,8 +14,8 @@ ko	제가 차세대 패트릭 스웨이지가 | 될 수도 있다고 했어요 |
 nl	Sandy zei dat ik de nieuwe Patrick Swayze zou worden. 
 no	Sandy sa jeg kunne bli den neste Patrick Swayze. 
 pl	Mówił, że mogę zostać drugim Patrickiem Swayze. 
-pr-br	Sandy disse que eu poderia ser o próximo Patrick Swayze. 
-pr	O Sandy disse que eu podia ser o próximo Patrick Swayze. 
+pt-br	Sandy disse que eu poderia ser o próximo Patrick Swayze. 
+pt	O Sandy disse que eu podia ser o próximo Patrick Swayze. 
 ro	Sandy a zis că aș putea fi următorul Patrick Swayze. 
 sv	Han sa att jag kunde bli nästa Patrick Swayze. 
 th	แซนดี้บอกว่าผมอาจเป็น | แพทริค สเวย์ซีคนต่อไป | 

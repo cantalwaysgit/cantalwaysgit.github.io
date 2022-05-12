@@ -8,8 +8,8 @@ fr	Qui t'a défoncé impunément ?
 he	&rlm;‏מי כיסח לך את התחת?‏ | 
 it	Chi ti ha picchiato e l'ha fatta franca? 
 nl	Wat is er met jou gebeurd? 
-pr-br	Quem te deu uma surra e deu o fora? 
-pr	Quem te deu uma tareia? 
+pt-br	Quem te deu uma surra e deu o fora? 
+pt	Quem te deu uma tareia? 
 ro	Cine ți-a tăbăcit curul? 
 sv	Vem spöade dig och kom undan? 
 th	ใครกันที่อัดคุณได้แบบนั้น | 

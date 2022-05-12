@@ -9,8 +9,8 @@ he	&rlm;‏‏ולצלם את הדבר הזה בשביל וי-אייץ' 1 | &rlm
 it	a girare uno speciale per VH1 con Lenny Kravitz. 
 no	og spille inn en VH1-greie med Lenny Kravitz. 
 pl	Mam nagranie z Lennym Kravitzem dla VH1. 
-pr-br	um lance para VH1 com Lenny Kravitz. 
-pr	para filmar uma coisa para a VH1 com o Lenny Kravitz. 
+pt-br	um lance para VH1 com Lenny Kravitz. 
+pt	para filmar uma coisa para a VH1 com o Lenny Kravitz. 
 ro	la filmarea cu Lenny Kravitz, pentru VH1. 
 th	ไปถ่ายรายการวีเอชวัน | กับเลนนี่ คราวิตซ์ | 
 tr	Lenny Kravitz'le bir VH1 çekimimiz var. 

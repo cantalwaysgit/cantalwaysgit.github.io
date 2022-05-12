@@ -14,8 +14,8 @@ it	Addio, Sandy.
 ko	잘 있어요, 샌디 | 
 no	Farvel, Sandy. 
 pl	Żegnaj, Sandy. 
-pr	Adeus, Sandy. 
-pr-br	Tchau, Sandy. 
+pt	Adeus, Sandy. 
+pt-br	Tchau, Sandy. 
 ro	Rămas-bun, Sandy! 
 sv	Hej då, Sandy. 
 th	ลาก่อนแซนดี้ | 

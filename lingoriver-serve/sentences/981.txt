@@ -14,8 +14,8 @@ it	Non mi avevi detto di Carson!
 nl	Je vertelde me niets over Carson. 
 no	Du sa ikke at jeg skulle på Carson! 
 pl	Nic mi nie mówiłeś o Carsonie! 
-pr-br	Não me disse que eu ia participar do Carson. 
-pr	Não me disseste que ia ao Carson! 
+pt-br	Não me disse que eu ia participar do Carson. 
+pt	Não me disseste que ia ao Carson! 
 ro	Nu mi-ai zis că sunt chemată la Carson! 
 sv	Du sa inte att jag skulle vara med hos Carson! 
 th	คุณไม่ได้บอกฉัน | เรื่องไปออกรายการคาร์สัน | 

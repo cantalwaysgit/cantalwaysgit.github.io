@@ -12,8 +12,8 @@ fi	Ei hätää. Herra seksikäs odottaa tuolla.
 he	&rlm;‏את תהיי בסדר. מר סקסי יהיה כאן.‏ | 
 it	Andrà benissimo. C'è sensualità nell'aria. 
 nl	Het komt goed. Sexy gaat hier staan. 
-pr-br	Você vai ficar bem. O sexy vai estar bem aqui. 
-pr	Não há problema. O sensual vai ficar ali ao lado. 
+pt-br	Você vai ficar bem. O sexy vai estar bem aqui. 
+pt	Não há problema. O sensual vai ficar ali ao lado. 
 ro	O să te descurci. Făt-Frumos rămâne aici. 
 tr	Yaparsın. Seksi olacaksın. 
 vi	Cô sẽ ổn thôi. Quyến rũ nào. | 
@@ -37,8 +37,8 @@ fi	-Ei huolta. -Odotan.
 he	&rlm;‏‏אל תדאגי. | &rlm;‏-אני אהיה שם.‏ | 
 it	- Tranquilla. - Sono lì. 
 nl	Geen zorgen. -Ik sta daar. 
-pr-br	-Não se preocupe. -Estarei ali. 
-pr	- Não te preocupes. - Estou ali. 
+pt-br	-Não se preocupe. -Estarei ali. 
+pt	- Não te preocupes. - Estou ali. 
 ro	- Nu te teme! - Voi fi aici. 
 tr	-Merak etme. -Şuradayım. 
 vi	- Đừng lo. | - Tôi làm được. | 

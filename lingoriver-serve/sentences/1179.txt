@@ -12,8 +12,8 @@ ko	단 몇 분 만에요 |
 nl	...in een paar minuten. 
 no	på noen minutter. 
 pl	W kilka minut. 
-pr-br	em questão de minutos. 
-pr	numa questão de minutos. 
+pt-br	em questão de minutos. 
+pt	numa questão de minutos. 
 ro	în doar câteva minute! 
 sv	på bara några minuter. 
 vi	chỉ trong vài phút. | 

@@ -15,8 +15,8 @@ ko	안 돌아가잖아 |
 nl	Hij draait niet. 
 no	De snurrer ikke. 
 pl	Nie nagrywasz. 
-pr-br	Não está gravando. 
-pr	Não está a gravar. 
+pt-br	Não está gravando. 
+pt	Não está a gravar. 
 ro	Nu se învârtește. 
 sv	Den rullar inte. 
 th	เครื่องไม่เดิน มันไม่เดิน | 

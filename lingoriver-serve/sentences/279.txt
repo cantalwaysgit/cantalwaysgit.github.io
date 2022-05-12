@@ -11,8 +11,8 @@ it	Liza Minnelli cantava in una miniera di carbone.
 ko	라이자 미넬리는 | 탄광에서 노래했어요 | 
 nl	Liza Minnelli zong in een kolenmijn. 
 pl	Liza Minnelli śpiewała w kopalni węgla. 
-pr	A Liza Minnelli cantava numa mina de carvão. 
-pr-br	Liza Minnelli cantava em uma mina de carvão. 
+pt	A Liza Minnelli cantava numa mina de carvão. 
+pt-br	Liza Minnelli cantava em uma mina de carvão. 
 ro	Liza Minnelli obișnuia să cânte într-o mină de cărbune. 
 sv	Liza Minnelli brukade sjunga i en kolgruva. 
 tr	Liza Minelli kömür madeninde şarkı söylerdi. 

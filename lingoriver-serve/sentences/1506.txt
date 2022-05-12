@@ -12,8 +12,8 @@ it	Ha i riccioli e i baffi.
 nl	Hij heeft krullend haar en een snor. 
 no	Han har krøllete hår og bart. 
 pl	Ma kręcone włosy i wąsy. 
-pr-br	Ele tem cabelo cacheado e bigode. 
-pr	Tem cabelo encaracolado e bigode. 
+pt-br	Ele tem cabelo cacheado e bigode. 
+pt	Tem cabelo encaracolado e bigode. 
 ro	Are părul creț și mustață. 
 sv	Han har lockigt hår och mustasch. 
 th	ผมเขาหยิก ไว้หนวด | 

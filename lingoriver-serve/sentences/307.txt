@@ -12,8 +12,8 @@ he	&rlm;‏‏כבר היית שם? | &rlm;‏-לא, לא הייתי שם.‏ |
 it	- Ci sei stato? - No, mai. 
 nl	Ben je er geweest? -Nee, nooit. 
 pl	- Byłeś tam? - Nie. 
-pr-br	-Já foi lá? -Não, nunca. 
-pr	- Já lá estiveste? - Não, nunca lá estive. 
+pt-br	-Já foi lá? -Não, nunca. 
+pt	- Já lá estiveste? - Não, nunca lá estive. 
 ro	- Ai mai fost? - Nu, n-am mai fost niciodată acolo. 
 tr	-Gitmiş miydin? -Hayır, gitmedim. 
 vi	- Anh tới rồi à? | - Không, tôi chưa tới. | 

@@ -12,8 +12,8 @@ he	&rlm;‏‏אתה עדיין עושה אטקינס? אני רואה. | &rlm;�
 it	- Fai ancora la dieta Atkins? Si vede. - Atkins. 
 nl	Doe je nog steeds Atkins? 
 pl	- Wciąż jesteś na diecie? - Tak. 
-pr	- Ainda fazes a Atkins? Estou a ver. - A Atkins. 
-pr-br	-Ainda está fazendo a Atkins? Dá para ver. -Sim. 
+pt	- Ainda fazes a Atkins? Estou a ver. - A Atkins. 
+pt-br	-Ainda está fazendo a Atkins? Dá para ver. -Sim. 
 ro	- Mai urmezi dieta Atkins? Înțeleg. - Atkins. 
 sv	-Du håller fortfarande på med Atkins? -Atkins. 
 th	- ยังกินตามสูตรแอตคินส์ไหม อ๋อ | - แอตคินส์ | 

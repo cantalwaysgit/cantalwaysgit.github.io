@@ -13,8 +13,8 @@ it	Certo. Anzi, grazie.
 nl	Ja. Bedankt dat je dat doet. 
 no	Greit. Takk for at du gjør det. 
 pl	Pewnie. I dzięki. 
-pr-br	Certo. E agradeço por isso. 
-pr	Claro. Obrigado por fazeres isso. 
+pt-br	Certo. E agradeço por isso. 
+pt	Claro. Obrigado por fazeres isso. 
 ro	Sigur. Mersi că mă ajuți. 
 sv	Visst. Tack, för att du gör det. 
 th	ได้เลย ขอบคุณที่ซักให้นะ | 

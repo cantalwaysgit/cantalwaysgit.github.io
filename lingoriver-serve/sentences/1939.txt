@@ -15,8 +15,8 @@ ko	다른 사람 노래에 | 웃긴 가사를 입히라고 했지 |
 nl	Gebruik grappige woorden in andermans nummers. 
 no	Lag morsomme tekster til andres sanger. 
 pl	Nagrywaj parodie cudzych utworów. 
-pr-br	Faça paródia das músicas dos outros. 
-pr	Faz letras engraçadas com canções de outras pessoas. 
+pt-br	Faça paródia das músicas dos outros. 
+pt	Faz letras engraçadas com canções de outras pessoas. 
 ro	"Spune cuvinte amuzante pe melodiile altora." 
 sv	Hitta på roliga texter till andras låtar. 
 th	ใส่คำตลกๆ ให้เพลงของคนอื่น | 

@@ -14,8 +14,8 @@ it	Deve andare all'ospedale. Boom Boom, chiama un'ambulanza.
 nl	We moeten naar het ziekenhuis. Bel een ambulance. 
 no	Vi må på sykehuset. Tilkall ambulanse! 
 pl	Musi jechać do szpitala. Wezwij karetkę! 
-pr-br	Temos que ir para o hospital. Chame uma ambulância! 
-pr	Temos de te levar para um hospital. Chama uma ambulância! 
+pt-br	Temos que ir para o hospital. Chame uma ambulância! 
+pt	Temos de te levar para um hospital. Chama uma ambulância! 
 ro	Trebuie să te ducem la spital! Cheamă Salvarea! 
 sv	Vi måste till sjukhuset. Ring en ambulans! 
 th	เราต้องไปโรงพยาบาล | โทรเรียกรถพยาบาล | 

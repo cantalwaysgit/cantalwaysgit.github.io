@@ -11,8 +11,8 @@ it	Immagina di cantare davanti a 50.000 persone.
 ko	5만 관중이 있는 무대에서 | 노래하는 걸 상상해 봐요 | 
 nl	Stel je voor dat je voor 50.000 mensen zingt. 
 pl	Wyobraź sobie, że śpiewasz na scenie przed 50-tysięczną widownią. 
-pr-br	Imagine se estivesse cantando num palco diante de 50 mil pessoas. 
-pr	Imagine que estava a cantar num palco diante de 50 mil pessoas. 
+pt-br	Imagine se estivesse cantando num palco diante de 50 mil pessoas. 
+pt	Imagine que estava a cantar num palco diante de 50 mil pessoas. 
 ro	Imaginează-ți cum ar fi să cânți pe o scenă, în fața a 50.000 de oameni. 
 sv	Föreställ dig att du sjöng inför en publik på 50 000 personer. 
 tr	Sahnede 50.000 kişinin önünde şarkı söylediğini hayal et. 

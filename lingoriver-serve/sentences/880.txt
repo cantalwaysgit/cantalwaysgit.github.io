@@ -9,8 +9,8 @@ fr	- Oui. - J'en reviens pas.
 he	&rlm;‏‏כן. | &rlm;‏-אני לא מאמין.‏ | 
 it	- È vero. - Non posso crederci. 
 nl	Niet te geloven. 
-pr-br	-Certo. -Não acredito. 
-pr	- Pois foi. - Não posso crer. 
+pt-br	-Certo. -Não acredito. 
+pt	- Pois foi. - Não posso crer. 
 ro	- Da. - Incredibil! 
 th	- อ๋อ | - ไม่อยากเชื่อเลย | 
 tr	-Doğru. -Buna inanamıyorum. 

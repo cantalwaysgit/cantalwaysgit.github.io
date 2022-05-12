@@ -12,8 +12,8 @@ fr	Aucune chanteuse ne fait ce qu'elle fait actuellement.
 he	&rlm;‏‏כלומר, בשבילי, אף אחד לא עושה | &rlm;‏מה שהילדה הזו עושה.‏ | 
 it	Secondo me, non c'è nessuno al livello di questa ragazza. 
 no	Det er ingen der ute som gjør det hun gjør. 
-pr	Acho que não há ninguém lá fora que faça o que ela faz. 
-pr-br	Na minha opinião, ninguém canta como ela por aí. 
+pt	Acho que não há ninguém lá fora que faça o que ela faz. 
+pt-br	Na minha opinião, ninguém canta como ela por aí. 
 ro	După mine, puștoaica nu se mai poate compara cu nimeni. 
 sv	Enligt mig så finns det ingen som gör det hon gör. 
 th	สำหรับผมแล้ว | ข้างนอกนั่นไม่มีใครร้องแบบเธอ | 

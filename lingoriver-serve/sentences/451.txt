@@ -18,8 +18,8 @@ he	&rlm;‏הוא עדיין עם היד על הסנטר. כל כך חמוד.‏
 it	Ha ancora la mano sul mento. Che carino. 
 nl	Hij heeft nog steeds zijn hand op zijn kin. Lief. 
 pl	Wciąż trzyma rękę pod brodą. Urocze. 
-pr-br	Ele ainda está com a mão no queixo. Que gracinha. 
-pr	Ele ainda tem a mão no queixo. Que giro. 
+pt-br	Ele ainda está com a mão no queixo. Que gracinha. 
+pt	Ele ainda tem a mão no queixo. Que giro. 
 ro	Încă mai are mâna la bărbie. Ce drăguț e! 
 tr	Eli hâlâ çenesinde. Çok şeker. 
 vi	Anh ấy vẫn đặt tay lên cằm. Đáng yêu quá. | 

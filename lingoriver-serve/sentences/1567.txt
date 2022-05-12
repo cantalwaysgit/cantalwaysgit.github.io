@@ -15,8 +15,8 @@ ko	- 괜찮으세요? | - 그래, 잠깐만 |
 nl	Gaat het? -Ja. Geef me een momentje. 
 no	-Går det bra? -Ja. Bare vent litt. 
 pl	- W porządku. - Tak. Daj mi sekundkę. 
-pr-br	-Você está bem? -Sim, me dê só um instante. 
-pr	- Estás bem? - Sim. Dá-me um instante. 
+pt-br	-Você está bem? -Sim, me dê só um instante. 
+pt	- Estás bem? - Sim. Dá-me um instante. 
 ro	- Te simți bine? - Da. Lasă-mă așa o clipă. 
 sv	-Är du okej? -Ja. Ge mig en sekund bara. 
 th	- โอเคหรือเปล่า | - ครับ แค่ขอเวลาแป๊บนึง | 
@@ -38,8 +38,8 @@ fr	Nom d'un chien.
 he	&rlm;‏לעזאזל.‏ | 
 it	Dannazione. 
 no	Helvete heller. 
-pr-br	Droga. 
-pr	Raios. 
+pt-br	Droga. 
+pt	Raios. 
 ro	Fir-ar să fie! 
 sv	Jäklar. 
 th	ให้ตายสิ | 
@@ -63,8 +63,8 @@ fr	- J'appelle quelqu'un ? - Ça ira.
 he	&rlm;‏‏להזעיק עזרה? | &rlm;‏-אני אהיה בסדר.‏ | 
 it	- Vuoi che chiami aiuto? - Ce la faccio. 
 nl	Zal ik hulp halen? -Het komt goed. 
-pr-br	-Peço ajuda? -Vou ficar bem. 
-pr	- Chamo ajuda? - Eu fico bem. 
+pt-br	-Peço ajuda? -Vou ficar bem. 
+pt	- Chamo ajuda? - Eu fico bem. 
 ro	- Să chem ajutoare? - O să-mi revin. 
 th	- ให้เรียกคนมาช่วยไหม | - ผมไม่เป็นไร | 
 tr	-Yardım çağırayım mı? -İyi olacağım. 
@@ -87,8 +87,8 @@ he	&rlm;‏תני לי שנייה. אני צריך להתמתח.‏ |
 it	Solo un secondo. Devo solo stirarmi. 
 nl	Wacht even. Ik moet alleen even rekken. 
 pl	Daj mi chwilę. Muszę się porozciągać. 
-pr-br	Me dê um segundo. Tenho que me alongar. 
-pr	Dá-me um segundo. Só tenho de me esticar. 
+pt-br	Me dê um segundo. Tenho que me alongar. 
+pt	Dá-me um segundo. Só tenho de me esticar. 
 ro	Lasă-mă o clipă. Trebuie să mă întind. 
 th	ขอเวลาแป๊บนึง ต้องยืดตัวหน่อย | 
 tr	Sadece biraz bekle. Esnemem lazım. 

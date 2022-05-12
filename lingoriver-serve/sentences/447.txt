@@ -13,8 +13,8 @@ ko	멋져요, 고마워요, 샌디 | 이제 비켜 주세요 |
 nl	Prachtig. Bedankt, Sandy. Ga het beeld uit. 
 no	Nydelig. Takk, Sandy. Ut av bildet. 
 pl	Pięknie. Dziękuję, Sandy. Zmykaj z kadru. 
-pr-br	Lindo. Obrigado, Sandy. Saia daí. 
-pr	Lindo. Obrigado, Sandy. Sai daí. 
+pt-br	Lindo. Obrigado, Sandy. Saia daí. 
+pt	Lindo. Obrigado, Sandy. Sai daí. 
 ro	Frumos! Mersi, Sandy. Ieși din cadru. 
 sv	Snyggt. Flytta på dig nu. 
 th	สวยงาม ขอบคุณ แซนดี้ ออกจากเฟรมสิ | 

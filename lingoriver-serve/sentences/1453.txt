@@ -13,8 +13,8 @@ ko	- 몇 살인데 이래요? | - 물론 그래야죠 |
 nl	Hoe oud ben je, zes? -Natuurlijk. 
 no	-Er du seks år? -Klart han vil. 
 pl	- Masz sześć lat? - Ulula. 
-pr-br	-Tem seis anos? -Claro que sim. 
-pr	- Tens seis anos? - Claro que sim. 
+pt-br	-Tem seis anos? -Claro que sim. 
+pt	- Tens seis anos? - Claro que sim. 
 ro	- Ai șase ani? - Normal că te leagănă. 
 sv	-Är du sex år? -Klart han kan. 
 th	- อายุหกขวบเหรอ | - แน่นอนว่าเขาจะทำให้ | 

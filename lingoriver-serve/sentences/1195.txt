@@ -14,8 +14,8 @@ ko	그날 파티 이후 얼마나 | 전화가 많이 왔는지 아세요? |
 nl	Weet je hoe vaak ik gebeld ben na Quincy Jones' feest? 
 no	Vet du hvor mange som ringte etter Quincys fest? 
 pl	Wydzwaniali do mnie, gdy Quincy was wyrzucił. 
-pr-br	Sabe quantas ligações recebi depois da festa de Quincy Jones? 
-pr	Sabes quantas chamadas recebi depois do Quincy Jones te expulsar? 
+pt-br	Sabe quantas ligações recebi depois da festa de Quincy Jones? 
+pt	Sabes quantas chamadas recebi depois do Quincy Jones te expulsar? 
 ro	Știi câte telefoane am dat după petrecerea lui Quincy Jones? 
 ru	Знаешь, сколько мне звонили после вечеринки Куинси? 
 sv	Vet du hur många samtal jag fått efter Quincy Jones fest? 

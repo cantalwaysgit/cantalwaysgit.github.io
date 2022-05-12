@@ -17,8 +17,8 @@ ko	저도 사랑해요, 샌디 |
 nl	Ik hou ook van jou. 
 no	Jeg elsker deg også, Sandy. 
 pl	Ja też cię kocham, Sandy. 
-pr-br	Eu também te amo, Sandy. 
-pr	Eu também te amo, Sandy. 
+pt-br	Eu também te amo, Sandy. 
+pt	Eu também te amo, Sandy. 
 ro	Și eu te iubesc, Sandy. 
 sv	Jag älskar dig också. 
 tr	Ben de seni seviyorum Sandy. 

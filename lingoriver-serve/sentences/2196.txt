@@ -13,8 +13,8 @@ he	&rlm;‏מספיק עם זה!‏ |
 it	Ora basta! 
 no	Kutt ut! 
 pl	Przestańcie! 
-pr-br	Pare com isso! 
-pr	Parem com isso! 
+pt-br	Pare com isso! 
+pt	Parem com isso! 
 ro	Încetați! 
 sv	Sluta! 
 tr	Kesin şunu! 

@@ -13,8 +13,8 @@ ko	웃긴 코미디를 보고도 | 거짓 웃음소리를 냈어요 |
 nl	Hij lachte nep om grappige komieken. -Die idioot. 
 no	Han lo falskt av morsomme komikere. 
 pl	- Udawał śmiech przy dobrych komikach. - Głąb. 
-pr-br	-Dava risada forçada de coisa engraçada. -Aquele melão. 
-pr	- Fingia risos com comediantes divertidos. - Idiota. 
+pt-br	-Dava risada forçada de coisa engraçada. -Aquele melão. 
+pt	- Fingia risos com comediantes divertidos. - Idiota. 
 ro	- Râdea fals și la comicii buni. - Idiotul! 
 ru	Он это делал, даже когда было правда смешно. 
 sv	Han fejkskrattade åt roliga komiker. 

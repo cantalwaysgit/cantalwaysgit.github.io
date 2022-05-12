@@ -12,8 +12,8 @@ ko	오리 연못에 있기엔 아까워요 | 재능이 너무 많잖아요 |
 nl	Je bent te groot voor deze vijver. Het is tijd om te vliegen. 
 no	Du er for stor for denne andedammen. På tide å fly. 
 pl	Jesteś za dobra na ten stawik. Czas rozwinąć skrzydła. 
-pr-br	Você é muito talentosa para essa lagoa de patos. É hora de voar. 
-pr	Tem demasiado potencial para isto. Está na hora de voar. 
+pt-br	Você é muito talentosa para essa lagoa de patos. É hora de voar. 
+pt	Tem demasiado potencial para isto. Está na hora de voar. 
 ro	Ești prea talentată pentru heleșteu. E timpul să zbori. 
 sv	Du är för stor för ankdammen. Det är dags att flyga. 
 th	คุณยิ่งใหญ่เกินกว่าบ่อเป็ดนี้ | ถึงเวลาโบยบินแล้ว | 

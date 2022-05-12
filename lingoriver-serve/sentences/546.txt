@@ -13,8 +13,8 @@ ko	칼 디엔젤로는 어떻게 지내? |
 nl	Hoe is het met Carr D'Angelo? 
 no	Hvordan har Carr D'Angelo det? 
 pl	Co u Carra D'Angelo? 
-pr-br	Então, como está Carr d'Angelo? 
-pr	Como está o Carr D'Angelo? 
+pt-br	Então, como está Carr d'Angelo? 
+pt	Como está o Carr D'Angelo? 
 ro	Și ce mai face Carr D'Angelo? 
 ru	Как там Карр Д’Анджело? 
 sv	Hur mår Carr D'Angelo? 

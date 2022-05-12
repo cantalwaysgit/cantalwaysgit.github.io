@@ -8,7 +8,7 @@ zh-short	（大西部论坛球馆）
 vi	Phim hoạt hình hết thời rồi. | Bảo họ bỏ qua đi. | 
 ja	アニメはもう古い　断れ | 
 pl	Kreskówki to przeszłość. Olej to. 
-pr	Os desenhos animados estão mortos. Diz-lhes que não. 
+pt	Os desenhos animados estão mortos. Diz-lhes que não. 
 en	[Sandy] Cartoons are dead. | 
 da	Det er slut med tegnefilm. Sig nej tak. 
 es-eu	Los dibujos están muertos. Diles que pasas. 
@@ -21,7 +21,7 @@ es	Los dibujos pasaron de moda. Diles que no.
 tr	Çizgi filmlerin devri bitti. Boş ver. 
 ru	Анимация мертва. Откажи им. 
 fr	Les dessins animés, c'est mort. Refuse. 
-pr-br	Desenho já era. Diga que não interessa. 
+pt-br	Desenho já era. Diga que não interessa. 
 id	Film kartun sudah berakhir. Tolak saja. 
 ar	&rlm;‏‏انتهى زمن الرسوم المتحركة. | &rlm;‏أخبريهم أنك لن تشاركي.‏ | 
 he	&rlm;‏‏סרטים מצוירים זה פאסה. | &rlm;‏תגידי להם שאת מוותרת.‏ | 

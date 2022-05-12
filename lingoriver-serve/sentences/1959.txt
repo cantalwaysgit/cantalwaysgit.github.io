@@ -15,8 +15,8 @@ it	- Stai mentendo di nuovo. - Sì, sembrano spaghetti sporchi.
 nl	Je liegt weer. -Ja. Het is net vieze spaghetti. 
 no	-Du lyver igjen. -Ja. Det ser ut som skitten spagetti. 
 pl	- Znowu kłamiesz. - Tak. Wygląda jak brudne spaghetti. 
-pr-br	-Está mentindo de novo. -É. Seu cabelo parece espaguete sujo. 
-pr	- Estás outra vez a mentir. - Estou. Parece esparguete sujo. 
+pt-br	-Está mentindo de novo. -É. Seu cabelo parece espaguete sujo. 
+pt	- Estás outra vez a mentir. - Estou. Parece esparguete sujo. 
 ro	- Iar minți. - Da. Arată ca niște spaghete murdare. 
 sv	-Nu ljuger du igen. -Ja, det ser ut som smutsig spaghetti. 
 th	- นายโกหกอีกแล้ว | - ใช่สิ มันดูเหมือนสปาเกตตีสกปรก | 

@@ -7,13 +7,13 @@ es	No puedo creerlo.
 fr	J'y crois pas. 
 he	&rlm;‏אין סיכוי.‏ | 
 it	Non è possibile. 
-pr	Não pode ser. 
+pt	Não pode ser. 
 sv	Lägg av. 
 vi	Không thể nào. | 
 zh-long	不會吧 
 zh-short	不可能 
 ko	그럴 리가요 | 
-pr-br	Não acredito. 
+pt-br	Não acredito. 
 ja	ウソ | 
 tr	Hadi canım. 
 fi	Eikä. 
@@ -33,13 +33,13 @@ fr	T'inquiète pas, je m'en suis occupé.
 he	&rlm;‏לא תצטרכי לדאוג שוב לעולם בקשר אליו.‏ | 
 it	Non hai più niente di cui preoccuparti. 
 nl	Om hem hoef je je geen zorgen meer te maken. 
-pr	Nunca mais terás de te preocupar com ele. 
+pt	Nunca mais terás de te preocupar com ele. 
 sv	Du behöver aldrig mer oroa dig för den. 
 vi	Cô sẽ không phải lo về nó nữa. | 
 zh-long	牠不會再來嚇妳了 
 zh-short	以后不用再担心它了 
 ko	다시는 걱정하지 않아도 돼 | 
-pr-br	Nunca mais terá que se preocupar com ele. 
+pt-br	Nunca mais terá que se preocupar com ele. 
 ja	二度と来ないから安心しろ | 
 tr	Bir daha sana sorun çıkarmaz. 
 fi	Siitä ei ole enää huolta. 

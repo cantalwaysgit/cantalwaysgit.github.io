@@ -4,8 +4,8 @@ he	&rlm;‏זו הטירה של הדוכס של גלוסטר.‏ |
 it	Il castello del duca di Gloucester. 
 ko	여긴 글로스터 공작의 | 성입니다 | 
 no	Hertugen av Gloucesters borg. 
-pr-br	É o castelo do Duque de Gloucester. 
-pr	O castelo é do Duque de Gloucester. 
+pt-br	É o castelo do Duque de Gloucester. 
+pt	O castelo é do Duque de Gloucester. 
 ro	Ăsta e castelul ducelui de Gloucester. 
 th	นี่ปราสาทดยุคแห่งกลอสเตอร์ | 
 tr	Burası Gloucester Dükü'nün şatosu. 

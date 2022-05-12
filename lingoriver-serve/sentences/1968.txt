@@ -11,8 +11,8 @@ it	Non mi dica che è impossibile! Tutto è negoziabile!
 ko	아니, 불가능하다고 하지 마! | 협상하면 안 되는 게 어딨어? | 
 nl	Zeg niet dat het onmogelijk is. Je kunt over alles onderhandelen. 
 pl	Nie! Nie mów, że to niemożliwe! Wszystko da się wynegocjować! 
-pr-br	Não! Não me diga que é impossível! Tudo é negociável! 
-pr	Não me diga que é impossível! Tudo pode ser negociado! 
+pt-br	Não! Não me diga que é impossível! Tudo é negociável! 
+pt	Não me diga que é impossível! Tudo pode ser negociado! 
 ro	Nu! Nu-mi spune că e imposibil! Totul e negociabil! 
 sv	Nej! Säg inte att det är omöjligt! Allt är förhandlingsbart! 
 tr	Hayır! İmkânsız demeyin! Her şey pazarlığa tabidir! 

@@ -14,8 +14,8 @@ ko	카네기 홀에 가려면 | 끝없이 연습해야 하지 |
 nl	Hoe kom je in Carnegie Hall? Je blijft oefenen. 
 no	Det er som å komme til Carnegie Hall. Øve og øve. 
 pl	Na Carnegie Hall trzeba zapracować. Cały czas ćwiczyć. 
-pr-br	Como você chega ao Carnegie Hall. Treina bastante. 
-pr	Como chegaste ao Carnegie Hall? Com muito treino. 
+pt-br	Como você chega ao Carnegie Hall. Treina bastante. 
+pt	Como chegaste ao Carnegie Hall? Com muito treino. 
 ro	Te duci la Carnegie Hall. Apoi te antrenezi întruna. 
 sv	Ska du ta dig till Carnegie Hall, så måste du öva massor. 
 th	การที่จะได้ไปร้องที่คาร์เนกีฮอลล์ | ต้องซ้อม ซ้อมๆ | 

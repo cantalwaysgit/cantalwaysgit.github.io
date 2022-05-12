@@ -11,8 +11,8 @@ it	Les Paul ha collaborato a progettarlo e Sinatra lo ha reso famigerato.
 nl	Les Paul hielp hem ontwerpen en Sinatra maakte hem berucht. 
 no	Les Paul var med på bygge det, og Sinatra gjorde det beryktet. 
 pl	Zaprojektował je Les Paul, a Sinatra uczynił słynnym. 
-pr-br	Les Paul ajudou na engenharia e Sinatra o deixou no ponto. 
-pr	O Les Paul ajudou a construí-lo e o Sinatra tornou-o infame. 
+pt-br	Les Paul ajudou na engenharia e Sinatra o deixou no ponto. 
+pt	O Les Paul ajudou a construí-lo e o Sinatra tornou-o infame. 
 ro	Les Paul a ajutat cu partea tehnică, iar Sinatra l-a făcut notoriu. 
 sv	Les Paul hjälpte till att utrusta den, och Sinatra gjorde den ökänd. 
 th	เลส พอลช่วยออกแบบสร้างมัน | และซิเนตราทำให้มันชื่อดัง | 

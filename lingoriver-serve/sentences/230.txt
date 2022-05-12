@@ -14,8 +14,8 @@ ko	리프킨이 트라이어드를 떠나 | 윌리엄 모리스의 지프킨과.
 nl	Rifkin verliet Triad en werkt nu samen met Zifkin bij William Morris. 
 no	Rifkin forlot Triad og slutter seg til Zifkin hos William Morris. 
 pl	Rifkin odszedł z Triad i połączył siły z Zifkinem u Williama Morrisa. 
-pr-br	Rifkin saiu da Triad e irá trabalhar com Zifkin na William Morris. 
-pr	O Rifkin deixou a Triad e vai unir forças com o Zifkin na William Morris. 
+pt-br	Rifkin saiu da Triad e irá trabalhar com Zifkin na William Morris. 
+pt	O Rifkin deixou a Triad e vai unir forças com o Zifkin na William Morris. 
 ro	Rifkin a plecat de la Triad și intră în echipa lui Zifkin, la William Morris. 
 sv	Rifkin lämnade Triad och går ihop med Zifkin på William Morris... 
 th	ริฟกินออกจากไทรแอดแล้วเข้าร่วม | กับซิฟกินที่วิลเลี่ยม มอร์ริส | 

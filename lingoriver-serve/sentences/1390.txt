@@ -15,8 +15,8 @@ ko	내 고객인 폴 라이저 | 기억하지? |
 nl	Herinner je je mijn cliënt Paul Reiser? 
 no	Husker du klienten min, Paul Reiser? 
 pl	Pamiętasz mojego klienta, Paula Reisera? 
-pr-br	Lembra-se do meu cliente Paul Reiser? 
-pr	Lembras-te do meu cliente, o Paul Reiser? 
+pt-br	Lembra-se do meu cliente Paul Reiser? 
+pt	Lembras-te do meu cliente, o Paul Reiser? 
 ro	Îl mai știi pe clientul meu, Paul Reiser? 
 sv	Minns du min klient Paul Reiser? 
 th	จำลูกค้าผมพอล ไรเซอร์ได้ไหม | 

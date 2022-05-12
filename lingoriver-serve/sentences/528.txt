@@ -13,8 +13,8 @@ he	&rlm;‏‏תראה אותך. שיהוקי. | &rlm;‏-כן.‏ |
 it	- Ma tu guarda. Singhiozzo. - Sì. 
 no	-Har du sett. Hikke. -Ja. 
 pl	- Oczom nie wierzę. Czkawka. - Tak. 
-pr-br	-Veja só. Soluço. -É. 
-pr	- Vejam só. O Soluços. - Sim. 
+pt-br	-Veja só. Soluço. -É. 
+pt	- Vejam só. O Soluços. - Sim. 
 ro	- Ia uite! E Sughiț! - Da. 
 sv	-Ser man på. Hickaren. -Just det. 
 th	- ดูนี่สิ จอมสะอึก | - ใช่ | 

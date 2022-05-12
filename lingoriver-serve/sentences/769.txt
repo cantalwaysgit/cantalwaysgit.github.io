@@ -14,8 +14,8 @@ it	E la parte che preferisco
 ko	내가 원하는 건 | 
 nl	en het enige wat ik wil 
 pl	Tego chcę 
-pr-br	E quando quero estar 
-pr	E quando quero estar 
+pt-br	E quando quero estar 
+pt	E quando quero estar 
 ro	Și ceea ce vreau 
 sv	Och allt jag vill 
 tr	Benim istediğim 
@@ -36,8 +36,8 @@ it	È vivere in un sogno
 ko	꿈속에서 사는 것 | 
 nl	is leven in een droom 
 pl	Ten sen śnić 
-pr	A viver num sonho 
-pr-br	Vivendo em um sonho 
+pt	A viver num sonho 
+pt-br	Vivendo em um sonho 
 ro	E să trăiesc un vis 
 sv	Är att leva i en dröm 
 th	คืออยู่ในความฝัน | 

@@ -14,8 +14,8 @@ ko	샌디가 날 구하러 왔구나 |
 nl	Sandy komt me redden. 
 no	Sandy til unnsetning. 
 pl	Sandy przybył na ratunek. 
-pr-br	Sandy no resgate. 
-pr	O Sandy vem salvar-me. 
+pt-br	Sandy no resgate. 
+pt	O Sandy vem salvar-me. 
 ro	Sandy Salvatorul. 
 ru	Сэнди спешит на помощь. 
 sv	Sandy kommer till undsättning. 

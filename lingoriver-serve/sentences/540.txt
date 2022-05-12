@@ -11,8 +11,8 @@ he	&rlm;‏התייחסת אליי בכבוד.‏ |
 it	Mi portavi rispetto. 
 ko	절 존중해 주셨어요 | 
 pl	Szanowałeś mnie. 
-pr-br	Você me tratou com respeito. 
-pr	Tratavas-me com respeito. 
+pt-br	Você me tratou com respeito. 
+pt	Tratavas-me com respeito. 
 ro	M-ai respectat. 
 th	เขายอมรับและดีกับผม | 
 tr	Bana saygı gösterirdin. 

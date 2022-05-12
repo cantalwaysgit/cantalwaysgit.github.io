@@ -12,8 +12,8 @@ fr	- Je sais pas comment tu fais. - Quoi donc ?
 he	&rlm;‏‏אני לא יודע איך את עושה את זה. | &rlm;‏-עושה מה?‏ | 
 it	- Non so come tu faccia. - A fare cosa? 
 pl	- Jak ty to robisz? - Co? 
-pr-br	-Não sei como consegue. -Consigo o quê? 
-pr	- Não sei como consegues. - O quê? 
+pt-br	-Não sei como consegue. -Consigo o quê? 
+pt	- Não sei como consegues. - O quê? 
 ro	- Nu știu cum reușești. - Ce să reușesc? 
 th	- ผมไม่รู้ว่าคุณทำได้ยังไง | - ทำอะไร | 
 tr	-Nasıl yapıyorsun, bilmiyorum. -Neyi? 

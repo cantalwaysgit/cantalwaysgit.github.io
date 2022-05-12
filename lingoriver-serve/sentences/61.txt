@@ -13,8 +13,8 @@ ko	- 아무것도 몰라요 | - 사생활이 있었던가요? |
 nl	Ik weet niets. -Had hij een privéleven? 
 no	-Jeg vet ingenting. -Hadde han et privatliv? 
 pl	- Nic nie wiem. - Miał je w ogóle? 
-pr-br	-Não sei de nada. -Ele tinha vida pessoal? 
-pr	- Desconheço. - Ele tinha vida pessoal? 
+pt-br	-Não sei de nada. -Ele tinha vida pessoal? 
+pt	- Desconheço. - Ele tinha vida pessoal? 
 ro	- Nu știu nimic. - Dar avea viață personală? 
 ru	-Ничего не знаю. -У него была личная жизнь? 
 sv	-Jag vet ingenting. -Hade han nåt privatliv? 

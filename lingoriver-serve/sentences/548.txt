@@ -13,8 +13,8 @@ ko	잘 생각했네 | 음악 업계는 기복이 심하지만 |
 nl	Slimme zet. De muziekbusiness heeft ups en downs... 
 no	Smart. Det går opp og ned i musikkbransjen, 
 pl	Mądre posunięcie. Branża muzyczna miewa wzloty i upadki, 
-pr-br	Ótima escolha. A indústria musical tem seus altos e baixos, 
-pr	Foi inteligente. O negócio da música tem altos e baixos, 
+pt-br	Ótima escolha. A indústria musical tem seus altos e baixos, 
+pt	Foi inteligente. O negócio da música tem altos e baixos, 
 ro	Ce bine s-a orientat! Industria muzicală e cu dus și întors, 
 ru	Молодец. Музыка - неровный бизнес, 
 sv	Smart drag. Musikbranschen går upp och ner, 
@@ -39,8 +39,8 @@ ko	블록버스터 비디오는 | 장기간 할 만하지 |
 nl	...maar Blockbuster Video gaat wel een tijdje mee. 
 no	men Blockbuster Video har en lys fremtid. 
 pl	a wypożyczalnie kaset przetrwają wieki. 
-pr-br	mas a Blockbuster vai durar muito. 
-pr	mas a Blockbuster Video está para durar. 
+pt-br	mas a Blockbuster vai durar muito. 
+pt	mas a Blockbuster Video está para durar. 
 ro	dar filmele pe casete video sunt de viitor. 
 sv	men Blockbuster Video  är här för att stanna. 
 th	แต่บล็อกบัสเตอร์วิดีโอคงอยู่อีกนาน | 

@@ -14,8 +14,8 @@ ko	MCA 우편물실에서 승진한 뒤 | 프랭크 고쉰 밑으로 배정됐�
 nl	Ik was eerst postjongen bij MCA en toen kreeg ik Frank Gorshin. 
 no	Etter forfremmelsen fra postrommet i MCA jobbet jeg for Frank Gorshin. 
 pl	Z pokoju pocztowego w MCA awansowałem na asystenta Franka Gorshina. 
-pr-br	Fui promovido na MCA e me escalaram para trabalhar com Frank Gorshin. 
-pr	Depois de ser promovido do correio na MCA, foi-me atribuído o Frank Gorshin. 
+pt-br	Fui promovido na MCA e me escalaram para trabalhar com Frank Gorshin. 
+pt	Depois de ser promovido do correio na MCA, foi-me atribuído o Frank Gorshin. 
 ro	După ce am promovat de la sortarea corespondenței, am ajuns la Frank Gorshin. 
 sv	När jag blivit befordrad från postrummet på MCA, skrev jag på för Frank Gorshin. 
 th	หลังจากที่ฉันออกจากห้องไปรษณีย์ | ที่เอ็มซีเอ ก็ไปทำกับแฟรงก์ กอร์ชิน | 

@@ -15,8 +15,8 @@ ko	클라크 씨 | 새 앨범 정말 좋던데요 |
 nl	Miss Clarke, uw nieuwe album is te gek. 
 no	Miss Clarke, jeg elsker det nye albumet ditt. 
 pl	Uwielbiam pani nową płytę. 
-pr-br	Srta. Clarke, amo o seu novo disco. 
-pr	Menina Clarke, adoro o seu novo álbum. 
+pt-br	Srta. Clarke, amo o seu novo disco. 
+pt	Menina Clarke, adoro o seu novo álbum. 
 ro	Dră Clarke, ador noul dv. album. 
 sv	Jag älskar ditt nya album, miss Clarke. 
 th	คุณคลาร์ก ฉันชอบอัลบั้มใหม่ของคุณ | 

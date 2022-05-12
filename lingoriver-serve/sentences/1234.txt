@@ -11,8 +11,8 @@ it	Ascolta, Sandy.
 ko	저기, 샌디 | 
 no	Hør her, Sandy. 
 pl	Posłuchaj, Sandy. 
-pr-br	Olhe, Sandy. 
-pr	Ouve, Sandy. 
+pt-br	Olhe, Sandy. 
+pt	Ouve, Sandy. 
 ro	Ascultă, Sandy. 
 sv	Du, Sandy. 
 th	ฟังนะ แซนดี้ | 

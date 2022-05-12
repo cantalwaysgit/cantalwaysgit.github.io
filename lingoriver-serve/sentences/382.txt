@@ -13,8 +13,8 @@ he	&rlm;‏‏תביני אלה עסקי השעשועים, | &rlm;‏לא עסק
 it	Si chiama industria dello spettacolo, non dell'amicizia. Giusto? 
 no	Det er showbusiness, ikke show-vennskap. Ikke sant? 
 pl	To show-biznes, a nie show-przyjaźń. 
-pr-br	Agora, entenda que é show business, não amizade. Certo? 
-pr	É o mundo do espetáculo, não é o mundo da amizade. Certo? 
+pt-br	Agora, entenda que é show business, não amizade. Certo? 
+pt	É o mundo do espetáculo, não é o mundo da amizade. Certo? 
 ro	De asta e industria spectacolelor, nu a prieteniei. Da? 
 sv	Kom ihåg att det är showbusiness, inte show-vänskap, okej? 
 th	ต้องเข้าใจว่ามันคือธุรกิจบันเทิง | ไม่ใช่มิตรภาพบันเทิง ใช่ไหม | 

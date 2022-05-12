@@ -15,8 +15,8 @@ ko	코러스 사이에는 | 트라이앵글도 들리면 좋겠어 |
 nl	Ik hoor ook een triangel, tussen de refreinen. 
 no	Jeg hører også triangel innimellom. 
 pl	Między refrenami słyszę też trójkąt. 
-pr-br	Também ouço um triângulo, mas só entre os refrães. 
-pr	Estou a imaginar o som de um triângulo entre as frases do refrão. 
+pt-br	Também ouço um triângulo, mas só entre os refrães. 
+pt	Estou a imaginar o som de um triângulo entre as frases do refrão. 
 ro	Totodată, aud un trianglu între refrene. 
 sv	Jag kan också höra en triangel mellan refrängerna. 
 th	ผมได้ยินเสียงสามเหลี่ยม | ตรงระหว่างช่วงคอรัส | 

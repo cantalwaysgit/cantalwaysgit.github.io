@@ -16,8 +16,8 @@ it	- Non era la figlia di Judy Garland? - No, tutto inventato.
 ko	- 주디 갈랜드 딸 아닌가요? | - 지어낸 거예요 | 
 nl	Judy Garland was toch haar moeder? -Dat is verzonnen. 
 pl	- Czy jej matką nie była Judy Garland? - To bujda. 
-pr	- A mãe dela não era a Judy Garland? - Não, isso é invenção. 
-pr-br	-A mãe dela não era Judy Garland? -Não, isso é invenção. 
+pt	- A mãe dela não era a Judy Garland? - Não, isso é invenção. 
+pt-br	-A mãe dela não era Judy Garland? -Não, isso é invenção. 
 ro	- Nu era fiica lui Judy Garland? - Nu. E o invenție. 
 tr	-Onun annesi Judy Garland değil miydi? -Hayır, o uydurma. 
 vi	- Không phải mẹ cô ấy là Judy Garland à? | - Không, bịa đặt đấy. | 

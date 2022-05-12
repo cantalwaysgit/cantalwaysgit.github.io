@@ -14,8 +14,8 @@ he	&rlm;‏‏האם אתה מוכן לעכל את זה | &rlm;‏ולהבטיח
 it	Potresti rilassarti e promettermi che ti divertirai? 
 ko	그냥 받아들이고 | 나가서 즐기면 안 되겠어? | 
 pl	Zrobisz to dla mnie i będziesz się dobrze bawił? 
-pr-br	Pode dar o máximo e prometer que vai se divertir? 
-pr	Queres aproveitar isto e prometer-me que te divertes? 
+pt-br	Pode dar o máximo e prometer que vai se divertir? 
+pt	Queres aproveitar isto e prometer-me que te divertes? 
 ro	Vrei să te destinzi și să-mi promiți că o să te distrezi? 
 sv	Kan du inte bara ta in allt och lova att ha kul? 
 th	ฟังเอาไว้แล้วสัญญาว่าจะออกไปสนุก | 
@@ -36,8 +36,8 @@ fr	C'est une grande soirée pour toi. Regarde-moi.
 he	&rlm;‏זה ערב גדול בשבילך. תסתכל עליי.‏ | 
 it	Sarà una grande serata. Guardami. 
 pl	To dla ciebie ważny wieczór. 
-pr-br	Esta é uma noite importante para você. Olhe para mim. 
-pr	É uma grande noite para ti. Olha para mim. 
+pt-br	Esta é uma noite importante para você. Olhe para mim. 
+pt	É uma grande noite para ti. Olha para mim. 
 ro	E o seară importantă pentru tine. Uită-te la mine! 
 sv	Det är en viktig kväll för dig. 
 th	นี่เป็นคืนสำคัญของนาย มองฉัน | 

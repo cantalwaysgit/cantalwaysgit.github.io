@@ -13,8 +13,8 @@ ko	혼쭐 날 줄 알아, 인마! |
 nl	Je hebt problemen, grote jongen. 
 no	Du er i trøbbel, tøffen! 
 pl	Już po tobie, koleś! 
-pr	Arranjaste sarilhos, valentão! 
-pr-br	Está encrencado, valentão! 
+pt	Arranjaste sarilhos, valentão! 
+pt-br	Está encrencado, valentão! 
 ro	Ai dat de naiba, durule! 
 sv	Du är illa ute, tuffing! 
 th	แกเจอดีแน่ ไอ้นักเลง | 

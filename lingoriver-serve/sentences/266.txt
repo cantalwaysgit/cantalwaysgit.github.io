@@ -12,8 +12,8 @@ it	Devo andare. Abbiamo un altro spettacolo.
 ko	가봐야겠어요 | 다음 공연 준비해야 하거든요 | 
 nl	Ik moet gaan. We hebben nog een show. 
 pl	Muszę iść. Zaraz drugi występ. 
-pr-br	Preciso ir, me apresento a cada 12 minutos. 
-pr	Tenho de ir. Temos outro espetáculo. 
+pt-br	Preciso ir, me apresento a cada 12 minutos. 
+pt	Tenho de ir. Temos outro espetáculo. 
 ro	Trebuie să plec. Avem spectacol. 
 ru	Я спешу. У нас выступление. 
 sv	Jag måste gå. Vi har en till föreställning. 

@@ -12,8 +12,8 @@ he	&rlm;‏בצד שלך של הגדר."‏ |
 it	dalla tua parte". 
 no	På din side av gjerdet." 
 pl	Został po swojej stronie płotu. 
-pr-br	Do seu lado da cerca." 
-pr	... do teu lado da cerca." 
+pt-br	Do seu lado da cerca." 
+pt	... do teu lado da cerca." 
 ro	În curtea lui. 
 sv	...på din sida av staketet." 
 tr	Çitin öteki tarafında kal." 

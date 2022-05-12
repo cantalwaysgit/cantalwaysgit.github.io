@@ -13,8 +13,8 @@ ko	1990년대 최고의 오락에 | 종사하는 사람과 계약도 했죠 |
 nl	Hij kreeg iemand uit het belangrijkste amusement van de jaren 90. 
 no	Han signerte noen fra 90-tallets største underholdningsform. 
 pl	Znalazł klienta w najpopularniejszej branży rozrywki lat 90. 
-pr-br	Ele assinou com uma das maiores formas de entretenimento dos anos 90. 
-pr	Ele angariou uma pessoa da maior forma de entretenimento dos anos 90. 
+pt-br	Ele assinou com uma das maiores formas de entretenimento dos anos 90. 
+pt	Ele angariou uma pessoa da maior forma de entretenimento dos anos 90. 
 ro	A lucrat cu cineva din cea mai reușită formă de divertisment în anii '90. 
 ru	Он нашел клиента в самом модном шоу-бизнесе 90-х. 
 sv	Han värvade nån från 90-talets största underhållningsform. 

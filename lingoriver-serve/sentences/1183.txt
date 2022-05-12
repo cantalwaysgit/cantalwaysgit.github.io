@@ -12,8 +12,8 @@ fr	T'as une stratégie ? On est tous là.
 he	&rlm;‏יש לך מסע פרסום? ובכן, כל המשפחה נמצאת.‏ | 
 it	Hai già una campagna pubblicitaria? La famiglia è tutta qui. 
 no	Har du en PR-kampanje? Hele familien er her. 
-pr-br	Tem uma campanha publicitária? A família está toda aqui. 
-pr	Tens uma campanha publicitária? A família está cá toda. 
+pt-br	Tem uma campanha publicitária? A família está toda aqui. 
+pt	Tens uma campanha publicitária? A família está cá toda. 
 ro	Ai o campanie publicitară? Suntem cu toții aici. 
 sv	Du har en reklamkampanj? Vi är här nu. 
 th	มีแผนประชาสัมพันธ์แล้วเหรอ | แหม ที่นี่เราครอบครัวเดียวกัน | 
@@ -37,8 +37,8 @@ fr	Dis-nous tout.
 he	&rlm;‏נשמח לשמוע עליו.‏ | 
 it	Ci piacerebbe saperne qualcosa. 
 no	Vi vil gjerne høre om den. 
-pr	Adorávamos saber qual é. 
-pr-br	Adoraríamos saber a respeito. 
+pt	Adorávamos saber qual é. 
+pt-br	Adoraríamos saber a respeito. 
 ro	Am vrea să ne spui despre ea. 
 sv	Vi vill gärna höra om den. 
 th	ว่ามาเลยเราอยากฟัง | 

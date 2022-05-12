@@ -13,8 +13,8 @@ ko	- 그럼 와서 직접 하세요 | - 아니야 |
 nl	Doe jij het dan. Kom hier. 
 no	-Da kan du gjøre det. Kom. -Nei. 
 pl	- No to chodź spróbować. - Nie. 
-pr-br	-Então faça você. Venha aqui. -Não. 
-pr	- Então, faz tu. Vem para aqui. - Não. 
+pt-br	-Então faça você. Venha aqui. -Não. 
+pt	- Então, faz tu. Vem para aqui. - Não. 
 ro	- Atunci, pozează tu. Treci încoace! - Nu. 
 ru	-Давай сам. Иди сюда. -Нет, нет. 
 sv	-Gör det själv då. Kom hit. -Nej. 

@@ -13,8 +13,8 @@ ko	다운타운 줄리 브라운과 | 결혼도 했고요 |
 nl	En hij trouwde uiteindelijk met Downtown Julie Brown. 
 no	Og han giftet seg med Downtown Julie Brown. 
 pl	No i ożenił się z Downtown Julie Brown. 
-pr	Acabou por se casar com a Downtown Julie Brown. 
-pr-br	E ele acabou se casando com Downtown Julie Brown. 
+pt	Acabou por se casar com a Downtown Julie Brown. 
+pt-br	E ele acabou se casando com Downtown Julie Brown. 
 ro	În plus, s-a însurat cu Downtown Julie Brown. 
 sv	Dessutom gifte han sig med Downtown Julie Brown. 
 th	นอกจากนี้ เขายังได้แต่งงานกับ | ดาวน์ทาวน์ จูลี่ บราวน์ | 

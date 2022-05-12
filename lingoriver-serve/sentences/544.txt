@@ -13,8 +13,8 @@ it	Che hai fatto al braccio?
 ko	팔은 어쩌다 그렇게 됐어요? | 
 nl	Wat is er met je arm? 
 pl	Co ci się stało w rękę? 
-pr-br	O que houve com seu braço? 
-pr	O que te aconteceu ao braço? 
+pt-br	O que houve com seu braço? 
+pt	O que te aconteceu ao braço? 
 ro	Ce-ai pățit la braț? 
 th	เกิดอะไรขึ้นกับแขนคุณ | 
 tr	Koluna ne oldu? 

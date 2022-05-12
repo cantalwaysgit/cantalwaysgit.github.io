@@ -12,8 +12,8 @@ he	&rlm;‏תודה.‏ |
 it	Grazie. 
 ko	고마워 | 
 no	Takk. 
-pr-br	Obrigado. 
-pr	Obrigado. 
+pt-br	Obrigado. 
+pt	Obrigado. 
 ro	Mulțumesc. 
 sv	Tack. 
 th	ขอบคุณ | 

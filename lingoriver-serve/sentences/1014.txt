@@ -14,8 +14,8 @@ ko	이해력이 좋다고 했거든 | 멘토스를 사랑하는 것 같았대 |
 nl	Ze zeiden dat het een goede auditie was. Ze leek dol op Mentos. 
 no	De sa hun hadde en flott audition. Det så ut som hun elsket Mentos. 
 pl	Mówili, że na próbie wyglądałaś, jakbyś uwielbiała mentosy. 
-pr-br	Disseram que ela lia bem. Parecia que ela amava Mentos. 
-pr	Disseram que se saiu muito bem. Parecia mesmo que adorava Mentos. 
+pt-br	Disseram que ela lia bem. Parecia que ela amava Mentos. 
+pt	Disseram que se saiu muito bem. Parecia mesmo que adorava Mentos. 
 ro	Au zis că a fost foarte bună la probă. Arăta de parcă iubea mentosanele. 
 sv	De sa att hon läste bra. Man kunde se att hon älskar Mentos. 
 th	พวกเขาบอกว่าเธออ่านได้ดี | ดูเหมือนเธอชอบเมนโทส์ | 

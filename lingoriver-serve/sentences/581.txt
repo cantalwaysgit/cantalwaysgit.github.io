@@ -15,8 +15,8 @@ it	Bene, devo andare. Buonanotte.
 nl	We moeten gaan. Fijne avond. 
 no	Vi drar. Ha det bra. 
 pl	Muszę jechać. Dobranoc. 
-pr-br	Certo, precisamos ir embora. Boa noite. 
-pr	Pronto, vamos andando. Boa noite. 
+pt-br	Certo, precisamos ir embora. Boa noite. 
+pt	Pronto, vamos andando. Boa noite. 
 ro	O să plecăm acum. Noapte bună! 
 sv	Vi måste vidare. God natt. 
 th	โอเค ต้องไปแล้ว | เอาละ ราตรีสวัสดิ์ | 

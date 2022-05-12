@@ -17,8 +17,8 @@ he	&rlm;‏ולמרטין לורנס ארבעה כוכבים!‏ |
 it	E Martin Lawrence quattro stelle! 
 nl	...en Martin Lawrence vier sterren. 
 pl	a Martin Lawrence po cztery! 
-pr-br	e quatro estrelas para Martin Lawrence! 
-pr	e ao Martin Lawrence, quatro estrelas! 
+pt-br	e quatro estrelas para Martin Lawrence! 
+pt	e ao Martin Lawrence, quatro estrelas! 
 tr	Martin Lawrence'a ise dört yıldız! 
 vi	và Martin Lawrence bốn ngôi sao! | 
 zh-long	給了馬汀勞倫斯四顆星！ 

@@ -12,8 +12,8 @@ it	Sono stato invitato. Grazie mille. Ciao.
 nl	Ik werd uitgenodigd. Bedankt. 
 no	Jeg ble invitert. Tusen takk. Hei. 
 pl	Zaprosili mnie. Dziękuję. Cześć. 
-pr-br	Eu fui convidado. Muito obrigado. Oi. 
-pr	Fui convidado. Muito obrigado. Olá. 
+pt-br	Eu fui convidado. Muito obrigado. Oi. 
+pt	Fui convidado. Muito obrigado. Olá. 
 ro	Am fost invitat. Mulțumesc mult. Bună! 
 sv	Jag blev inbjuden. Tack ska du ha. 
 th	ผมได้รับเชิญ ขอบคุณมาก ว่าไง | 

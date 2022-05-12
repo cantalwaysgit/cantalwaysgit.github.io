@@ -11,8 +11,8 @@ he	&rlm;‏‏סנדי אוהב את זה. אף אחד לא יודע למה. | &
 it	A Sandy piacciono. Nessuno sa il perché. Metti una mano sul mento. 
 nl	Sandy vindt ze lekker. Niemand weet waarom. Hand op je kin. 
 pl	Jakimś cudem Sandy'emu się podoba. Ręka na brodę. 
-pr-br	Sandy gosta. Ninguém sabe por quê. Ponha a mão no queixo. 
-pr	O Sandy gosta. Ninguém sabe porquê. Põe a mão no queixo. 
+pt-br	Sandy gosta. Ninguém sabe por quê. Ponha a mão no queixo. 
+pt	O Sandy gosta. Ninguém sabe porquê. Põe a mão no queixo. 
 ro	Lui Sandy îi place. Nu știe nimeni de ce. Pune-ți mâna pe bărbie. 
 sv	Sandy gillar det. Ingen vet varför. Lägg handen på hakan. 
 th	แซนดี้ชอบ ไม่มีใครรู้ว่าทำไม | เอามือจับคาง | 

@@ -12,8 +12,8 @@ he	&rlm;‏אז מה את אומרת? היינו במסיבה, עשינו חיי
 it	Che ne dici? Siamo venuti alla festa, ci siamo divertiti. 
 nl	Wat denk je? We zijn op het feest geweest, het was leuk. 
 pl	To jak? Przyszliśmy, pobawiliśmy się. 
-pr-br	Então, o que acha? Viemos a uma festa, nos divertimos. 
-pr	O que achas? Viemos à festa, divertimo-nos. 
+pt-br	Então, o que acha? Viemos a uma festa, nos divertimos. 
+pt	O que achas? Viemos à festa, divertimo-nos. 
 ro	Ce zici? Am fost la petrecere, ne-am distrat. 
 sv	Vad säger du? Vi har varit på festen, haft kul. 
 th	คุณคิดว่าไง | เรามางานปาร์ตี้แล้ว สนุกกันแล้ว | 

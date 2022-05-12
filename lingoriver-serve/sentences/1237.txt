@@ -12,8 +12,8 @@ it	Tu rendi felice il mondo, Courtney. Non devi pensare ad altro.
 ko	넌 세상을 행복하게 해 | 그것만 신경 쓰면 돼 | 
 nl	Je maakt de wereld blij. Meer hoef je niet te doen. 
 pl	Ty uszczęśliwiasz cały świat. Myśl tylko o tym. 
-pr-br	Você deixa o mundo feliz, Courtney. Só tem que se preocupar com isso. 
-pr	Tu fazes o mundo feliz, Courtney. É só com isso que tens de te preocupar. 
+pt-br	Você deixa o mundo feliz, Courtney. Só tem que se preocupar com isso. 
+pt	Tu fazes o mundo feliz, Courtney. É só com isso que tens de te preocupar. 
 ro	Mulțumești o lume întreagă, Courtney. Numai la asta trebuie să te gândești. 
 ru	Слушатели довольны. Это самое главное. 
 sv	Du gör världen glad. Det är allt du behöver oroa dig för. 

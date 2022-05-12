@@ -13,8 +13,8 @@ ko	입수! |
 nl	Bommetje. 
 no	Bomba! 
 pl	Bomba! 
-pr	Bomba! 
-pr-br	Bala de canhão! 
+pt	Bomba! 
+pt-br	Bala de canhão! 
 ro	Ghiulea! 
 ru	Берегись! 
 sv	Kanonkula! 

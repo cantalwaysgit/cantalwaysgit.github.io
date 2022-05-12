@@ -13,8 +13,8 @@ fr	Bisous, Court.
 he	&rlm;‏אוהבת, קורט.‏ | 
 it	Ti voglio bene, Court. 
 nl	Liefs, Court. 
-pr-br	Com amor, Court. 
-pr	Com amor, Court. 
+pt-br	Com amor, Court. 
+pt	Com amor, Court. 
 ro	Cu dragoste, Court. 
 sv	Kram, Court. 
 th	รัก คอร์ท | 

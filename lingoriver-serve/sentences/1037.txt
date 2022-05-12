@@ -11,8 +11,8 @@ he	&rlm;‏אנסה לכבד את דעתך.‏ |
 it	Cercherò di rispettare la tua opinione. 
 no	Jeg skal prøve å respektere din mening. 
 pl	Szanuję twoje zdanie. 
-pr-br	Vou tentar respeitar a sua opinião. 
-pr	Vou tentar respeitar a tua opinião. 
+pt-br	Vou tentar respeitar a sua opinião. 
+pt	Vou tentar respeitar a tua opinião. 
 ro	O să încerc să-ți respect părerea. 
 sv	Jag ska försöka respektera din åsikt. 
 th	ผมจะพยายามเคารพความเห็นของคุณ | 

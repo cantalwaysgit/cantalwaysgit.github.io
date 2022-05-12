@@ -14,8 +14,8 @@ it	Ha dei quadricipiti notevoli grazie al ThighMaster.
 nl	Hij heeft gespierde dijen, dankzij de ThighMaster. 
 no	Han har overraskende store lårmuskler takket være ThighMaster. 
 pl	Dzięki thighmasterowi ma zaskakująco umięśnione uda. 
-pr-br	Ele tem quadríceps incríveis devido ao ThighMaster. 
-pr	Tem coxas surpreendentemente musculadas por causa do ThighMaster. 
+pt-br	Ele tem quadríceps incríveis devido ao ThighMaster. 
+pt	Tem coxas surpreendentemente musculadas por causa do ThighMaster. 
 ro	Are un cvadriceps surprinzător de frumos datorită flexorului pentru picioare. 
 sv	Han har fått fina muskler tack vare ThighMastern. 
 th	เขามีกล้ามเนื้อต้นขาที่น่าแปลกใจ | เพราะเครื่องกระชับต้นขา | 

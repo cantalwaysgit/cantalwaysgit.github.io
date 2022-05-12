@@ -18,8 +18,8 @@ it	Kevin Connors ha avuto una stella.
 ko	심사위원은 케빈 코너스에게 | 별 1점을 줬고 | 
 nl	De jury gaf Kevin Connors één ster... 
 pl	Kevin Connors otrzymuje od sędziów po jednej gwiazdce, 
-pr	Ao Kevin Connors, o júri atribui uma estrela, 
-pr-br	Os juízes deram uma estrela para Kevin Connors 
+pt	Ao Kevin Connors, o júri atribui uma estrela, 
+pt-br	Os juízes deram uma estrela para Kevin Connors 
 tr	Jüri, Kevin Connors'a bir yıldız verdi, 
 vi	Ban giám khảo dành cho | Kevin Connors một ngôi sao, | 
 zh-long	評審給了凱文康納一顆星 

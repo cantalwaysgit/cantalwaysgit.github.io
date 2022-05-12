@@ -13,8 +13,8 @@ ko	친구 붐붐이 노래를 하겠대요 | 들어보실래요? |
 nl	Boom Boom gaat een lied zingen. Willen jullie het horen? 
 no	Venn Boom Boom skal synge en sang. Vil dere høre? 
 pl	Bum Bum zaśpiewa dla nas piosenkę. Chcecie? 
-pr-br	O amigo Bubu vai cantar uma música. Gostariam de ouvi-la? 
-pr	O amigo Boom Boom vai cantar para nós. Querem ouvir? 
+pt-br	O amigo Bubu vai cantar uma música. Gostariam de ouvi-la? 
+pt	O amigo Boom Boom vai cantar para nós. Querem ouvir? 
 ro	Prietenul Boom Boom ne va cânta un cântecel azi. Vreți să-l auziți? 
 sv	Vår vän Boom Boom ska sjunga en sång. Vill ni höra den? 
 th	เพื่อนบูมบูมจะร้องเพลงให้ฟัง | อยากฟังไหม | 

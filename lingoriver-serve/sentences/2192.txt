@@ -14,8 +14,8 @@ it	Bene. Ascoltate, figli di puttana.
 ko	좋아, 잘 들어 | 이 개자식들 | 
 no	Ja vel. Hør her, drittsekker. 
 pl	Słuchajcie, sukinsyny. 
-pr-br	Certo. Ouçam, seus putos. 
-pr	Pronto. Ouçam, seus filhos da mãe. 
+pt-br	Certo. Ouçam, seus putos. 
+pt	Pronto. Ouçam, seus filhos da mãe. 
 ro	Ascultați aici, nenorociților! 
 sv	Hör på, era jävlar. 
 th	เอาละ ฟังนะ ไอ้เด็กเวร | 

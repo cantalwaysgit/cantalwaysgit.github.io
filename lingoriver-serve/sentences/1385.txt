@@ -9,8 +9,8 @@ fr	Je vais t'étrangler si tu dis encore "ta voix".
 he	&rlm;‏‏אני רוצה לחנוק אותך. | &rlm;‏אל תגיד שוב "בקול שלך".‏ | 
 it	Ti strangolo. Non dire mai più "la tua voce". 
 nl	Ik ga je wurgen. Zeg niet weer 'jouw stem'. 
-pr	Apetece-me estrangular-te. Não voltes a dizer "a tua voz". 
-pr-br	Quero estrangular você. Não diga "do seu jeito" de novo. 
+pt	Apetece-me estrangular-te. Não voltes a dizer "a tua voz". 
+pt-br	Quero estrangular você. Não diga "do seu jeito" de novo. 
 ro	Îmi vine să te sugrum. Să nu te mai aud cu "vocea ta"! 
 sv	Jag vill strypa dig. Säg inte "din röst" en gång till. 
 vi	Tôi muốn bóp cổ anh đấy. | Đừng nói "giọng của anh" nữa. | 

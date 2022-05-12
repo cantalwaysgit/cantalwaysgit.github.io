@@ -15,8 +15,8 @@ it	Sarei costretto a sacrificare delle cose che,
 ko	내가 어느 정도 | 희생을 해야 하는데 | 
 nl	Ik word gedwongen offers te brengen die... 
 no	Jeg blir tvunget til å ofre ting 
-pr-br	mas estou sendo obrigado a fazer sacrifícios que, 
-pr	Estou a ser obrigado a fazer sacrifícios que, 
+pt-br	mas estou sendo obrigado a fazer sacrifícios que, 
+pt	Estou a ser obrigado a fazer sacrifícios que, 
 ro	Sunt cam obligat să fac sacrificii 
 sv	Jag tvingas att göra uppoffringar, 
 th	ผมกำลังถูกบีบให้เสียสละ | 

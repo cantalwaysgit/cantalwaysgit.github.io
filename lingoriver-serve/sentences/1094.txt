@@ -7,8 +7,8 @@ es	¿Qué? ¿Quién te ha estado llamando?
 fr	Quoi ? Qui t'appelle ? 
 it	Cosa? Chi ti telefona? 
 ko	뭐? 누가 전화를 했는데? | 
-pr-br	Quê? Quem anda ligando para você? 
-pr	O quê? Quem é que te tem ligado? 
+pt-br	Quê? Quem anda ligando para você? 
+pt	O quê? Quem é que te tem ligado? 
 sv	Vadå? Vem har ringt dig? 
 vi	Gì cơ? Ai gọi cô? | 
 zh-long	什麼？誰一直狂打給妳？ 

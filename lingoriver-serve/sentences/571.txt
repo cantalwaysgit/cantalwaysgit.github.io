@@ -12,8 +12,8 @@ he	&rlm;‏הוא היה אמור לבוא בראש השנה,‏ |
 it	Dovrebbe farsi vivo per Rosh Hashana, 
 nl	Hij zou moeten komen voor Rosj Hasjana... 
 pl	Miał przyjechać na Rosz Haszanę, 
-pr-br	Ele deveria vir pro Rosh Hashaná, 
-pr	Ele deve vir para o Rosh Hashanah, 
+pt-br	Ele deveria vir pro Rosh Hashaná, 
+pt	Ele deve vir para o Rosh Hashanah, 
 ro	Trebuia să se întoarcă pentru Roș Hașana, 
 sv	Han förmodas komma till rosh hashana, 
 th	เขาว่าจะมาตอนปีใหม่ยิว | 

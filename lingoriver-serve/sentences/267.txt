@@ -13,8 +13,8 @@ it	Mi conceda quattro minuti. Ne vale la pena.
 ko	4분이면 돼요 | 시간이 아깝지 않을 겁니다 | 
 nl	Vier minuten. Het is de moeite waard. 
 pl	Zajmę cztery minuty. Nie pożałujesz. 
-pr-br	Vai levar quatro minutos. Vale a pena. 
-pr	Só lhe tomo quatro minutos. Vai valer a pena. 
+pt-br	Vai levar quatro minutos. Vale a pena. 
+pt	Só lhe tomo quatro minutos. Vai valer a pena. 
 ro	Nu durează decât patru minute. Merită. 
 ru	Четыре минуты. Вы не пожалеете. 
 sv	Det tar fyra minuter. Det är värt det. 

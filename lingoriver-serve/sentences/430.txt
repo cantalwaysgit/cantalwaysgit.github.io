@@ -13,8 +13,8 @@ it	Non come se ti toccassi la barba, come se pensassi a qualcosa di sconcio.
 nl	Niet alsof je je baard aait, maar alsof je aan stoute dingen denkt. 
 no	Ikke som om du stryker skjegget, men som om du tenker frekke tanker. 
 pl	Nie głaszcz zarostu, bo go nie masz. Myśl o sprośnościach. 
-pr-br	Não tipo mexendo na barba, finja que está com pensamentos safados. 
-pr	Não como se estivesses a coçar a barba. Como se tivesses pensamentos obscenos. 
+pt-br	Não tipo mexendo na barba, finja que está com pensamentos safados. 
+pt	Não como se estivesses a coçar a barba. Como se tivesses pensamentos obscenos. 
 ro	Nu ca și cum ai scărmăna o barbă, ci ca și cum te-ai gândi la ceva obscen. 
 ru	С намеком не на бороду, а на грязные мыслишки. 
 sv	Inte som om du kliar dig i skägget, utan som om du tänker snuskiga tankar. 

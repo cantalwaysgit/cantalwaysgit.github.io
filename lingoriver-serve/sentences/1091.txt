@@ -14,8 +14,8 @@ it	- Sandy... - Courtney, che succede?
 ko	- 샌디... | - 코트니, 왜 그래? | 
 no	-Sandy... -Courtney, hva er det? 
 pl	- Sandy... - Co się dzieje? 
-pr-br	-Sandy... -Courtney, o que foi? 
-pr	- Sandy... - O que se passa, Courtney? 
+pt-br	-Sandy... -Courtney, o que foi? 
+pt	- Sandy... - O que se passa, Courtney? 
 ro	- Sandy... - Courtney, ce s-a întâmplat? 
 sv	-Sandy. -Vad är det för fel? 
 th	- แซนดี้... | - คอร์ทนี่ย์ มีปัญหาอะไร | 

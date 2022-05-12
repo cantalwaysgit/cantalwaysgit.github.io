@@ -15,8 +15,8 @@ it	Un insetticida per scarafaggi per gli uccelli?
 nl	Kakkerlakkengif voor vogels. 
 no	Kakerlakkspray mot fugler. 
 pl	Spray na ptaki. 
-pr-br	Um spray para dedetizar pássaros. 
-pr	Um  spray  de baratas para pássaros. 
+pt-br	Um spray para dedetizar pássaros. 
+pt	Um  spray  de baratas para pássaros. 
 ro	Un spray de gândaci pentru păsări. 
 sv	En skadedjurssprej mot fåglar. 
 tr	Kuşlar için hamamböceği spreyi. 

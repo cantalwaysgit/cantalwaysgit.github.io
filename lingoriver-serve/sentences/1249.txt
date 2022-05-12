@@ -7,13 +7,13 @@ es	¿Qué? ¿No quieres que sigamos trabajando juntos?
 fr	Donc, tu veux plus qu'on travaille ensemble ? 
 he	&rlm;‏אז מה? אתה לא רוצה לעבוד יותר יחד?‏ | 
 it	Stai dicendo che non vuoi più lavorare con me? 
-pr	O quê? Não queres trabalhar mais comigo? 
+pt	O quê? Não queres trabalhar mais comigo? 
 ru	И что? 
 fi	Etkö halua enää tehdä yhteistyötä? 
 nl	Wil je niet meer samenwerken? 
 no	Så du vil ikke at vi skal jobbe sammen mer? 
 pl	Nie chcesz już ze mną pracować? 
-pr-br	Então não quer mais trabalhar comigo? 
+pt-br	Então não quer mais trabalhar comigo? 
 ro	Ce-mi spui? Nu vrei să mai lucrăm împreună? 
 sv	Vill du inte att vi ska samarbeta längre? 
 th	งั้นอะไร คุณไม่อยาก | ร่วมงานกันอีกแล้วเหรอ | 

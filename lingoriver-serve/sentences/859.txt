@@ -15,8 +15,8 @@ ko	제 고객 코트니 클라크예요 | 마음에 안 드세요? |
 nl	Dat is mijn cliënt. Courtney Clarke. Vind je het niet mooi? 
 no	Det er en klient, Courtney Clarke. Liker du den ikke? 
 pl	To piosenka Courtney Clarke. Nie podoba ci się? 
-pr-br	Aquela é minha cliente. Courtney Clarke. Você não gosta? 
-pr	É uma cliente. A Courtney Clarke. Não gostas? 
+pt-br	Aquela é minha cliente. Courtney Clarke. Você não gosta? 
+pt	É uma cliente. A Courtney Clarke. Não gostas? 
 ro	E clienta mea. Courtney Clarke. Nu-ți place? 
 sv	Det är min klient, Courtney Clarke. Gillar du det inte? 
 th	นั่นคนที่ผมดูแล คอร์ทนี่ย์ คลาร์ก | คุณไม่ชอบเหรอ | 

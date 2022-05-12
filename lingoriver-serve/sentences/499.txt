@@ -14,8 +14,8 @@ it	- È quello che dico io. - Sì.
 ko	- 내 말이 그 말이야 | - 그래 | 
 nl	Dat bedoel ik. 
 no	-Det er det jeg mener. -Ja. 
-pr-br	-É o que estou dizendo. -Sim. 
-pr	- É o que estou a dizer. - Sim. 
+pt-br	-É o que estou dizendo. -Sim. 
+pt	- É o que estou a dizer. - Sim. 
 ro	- Asta ziceam și eu! - Da. 
 sv	Det är det jag försöker säga. 
 th	- นั่นแหละที่ฉันพูดอยู่ | - ใช่ | 

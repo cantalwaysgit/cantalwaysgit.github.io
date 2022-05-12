@@ -6,8 +6,8 @@ fr	Je vais te faire tomber amoureux Amoureux
 he	&rlm;‏‏אגרום לך להתאהב בי, | &rlm;‏אהבה, אהבה, אהבה‏ | 
 it	Farò sì che tu voglia amarmi Amarmi, amarmi, amarmi 
 nl	ik zorg dat je verliefd wilt worden 
-pr-br	Vou fazer você se apaixonar Se apaixonar 
-pr	Eu vou fazer Com que te queiras apaixonar 
+pt-br	Vou fazer você se apaixonar Se apaixonar 
+pt	Eu vou fazer Com que te queiras apaixonar 
 ro	O să te fac să simți iubirea Iubirea 
 sv	Ska få dig att bli kär i mig Kär, kär, kär 
 th	จะทำให้คุณอยากตกหลุมรัก รัก รัก รัก | 

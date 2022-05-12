@@ -15,8 +15,8 @@ ko	케빈이랑 나는 | 이제 변화가 필요하다고 생각해 |
 nl	Kevin en ik vinden het tijd voor verandering. 
 no	Kevin og jeg synes det er tid for forandring. 
 pl	Uważamy z Kevinem, że czas na zmiany. 
-pr-br	Kevin e eu achamos que é hora de mudar. 
-pr	Eu e o Kevin achamos que está na hora de mudar. 
+pt-br	Kevin e eu achamos que é hora de mudar. 
+pt	Eu e o Kevin achamos que está na hora de mudar. 
 ro	Eu și Kevin ne-am gândit la o schimbare. 
 sv	Kevin och jag tycker att det är dags för förändring. 
 th	เควินกับผมคิดว่า | ถึงเวลาเปลี่ยนแปลงแล้ว | 

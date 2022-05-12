@@ -15,8 +15,8 @@ ko	- 목구멍에 뭐가 꼈어? | - 네 손이 있잖아! |
 nl	Heb je iets in je keel? -Jouw hand. 
 no	-Har du noe i halsen? -Hånden din! 
 pl	- Coś ci utknęło w gardle? - Twoja ręka! 
-pr-br	-Tem algo na sua garganta? -A sua mão, idiota! 
-pr	- Tens alguma coisa na garganta? - A tua mão! 
+pt-br	-Tem algo na sua garganta? -A sua mão, idiota! 
+pt	- Tens alguma coisa na garganta? - A tua mão! 
 ro	- Ai ceva în gât? - Mâna ta! 
 sv	-Har nåt fastnat i halsen, Heather? -Ja, din hand! 
 th	- มีอะไรติดคอเหรอ | - มือคุณน่ะ | 

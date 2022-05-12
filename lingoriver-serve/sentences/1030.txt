@@ -10,8 +10,8 @@ he	&rlm;‏זה כל כך טוב, מר ג'ונס.‏ |
 it	È squisito, sig. Jones. 
 nl	Heel lekker, Mr Jones. 
 pl	Wyborne, panie Jones. 
-pr-br	Isso é muito bom, Sr. Jones. 
-pr	Isto é muito bom, Sr. Jones. 
+pt-br	Isso é muito bom, Sr. Jones. 
+pt	Isto é muito bom, Sr. Jones. 
 ro	E foarte bun, dle Jones. 
 sv	Det smakar bra, mr Jones. 
 th	นี่ดีมากเลย คุณโจนส์ | 

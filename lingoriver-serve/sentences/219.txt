@@ -13,8 +13,8 @@ ko	이 불쌍한 녀석들 | 뭐 하고 싶니? |
 nl	Wat willen jullie doen, kleintjes? 
 no	Hva vil dere gjøre? 
 pl	No to co dzisiaj porobimy? 
-pr-br	O que querem fazer, pestinhas? 
-pr	O que querem fazer hoje, suas pestinhas? 
+pt-br	O que querem fazer, pestinhas? 
+pt	O que querem fazer hoje, suas pestinhas? 
 ro	Ce aveți chef să facem azi, zvăpăiatelor? 
 sv	Vad vill ni göra idag? 
 th	งั้นหนูตัวยุ่งสองคนอยากทำอะไร | 

@@ -7,8 +7,8 @@ he	&rlm;‏זה כל מה שמדאיג אותי.‏ |
 it	Non mi interessa altro. 
 nl	Dat is mijn enige zorg. 
 pl	To bardzo ważne. 
-pr-br	É a minha única preocupação. 
-pr	É só isso que me preocupa. 
+pt-br	É a minha única preocupação. 
+pt	É só isso que me preocupa. 
 th	แค่นั้นแหละที่ผมเป็นห่วง | 
 tr	Benim tek derdim bu. 
 vi	Đó là điều tôi quan tâm. | 

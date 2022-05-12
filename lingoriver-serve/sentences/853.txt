@@ -11,8 +11,8 @@ it	Siamo andati vicino alla piscina perché è il posto più sicuro.
 nl	We gingen het zwembad in, omdat dat de veiligste plek is. 
 no	Så vi hoppet i bassenget, fordi det er det tryggeste stedet. 
 pl	Weszliśmy do basenu, bo w nim było najbezpieczniej. 
-pr-br	Então, entramos na piscina, pois era o lugar mais seguro. 
-pr	Só fomos para a piscina porque é o sítio mais seguro para estar. 
+pt-br	Então, entramos na piscina, pois era o lugar mais seguro. 
+pt	Só fomos para a piscina porque é o sítio mais seguro para estar. 
 ro	Am intrat în piscină fiindcă era cel mai sigur loc. 
 sv	Vi hoppade i poolen för det var det säkraste stället. 
 th	เราก็เลยลงไปในสระ | เพราะมันคือที่ปลอดภัยที่สุด | 

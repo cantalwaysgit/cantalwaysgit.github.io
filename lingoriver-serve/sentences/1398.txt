@@ -13,8 +13,8 @@ he	&rlm;‏את צוחקת עליי? אי אפשר לעצור כוכב.‏ |
 it	Scherzi? Non puoi impedire a una stella di brillare. 
 no	Tuller du? Man kan ikke stanse et stjerneskudd. 
 pl	Żartujesz? Gwiazdy nie da się zgasić. 
-pr-br	Está brincando? Não se para uma estrela cadente. 
-pr	Estás a brincar? É impossível parar uma estrela cadente. 
+pt-br	Está brincando? Não se para uma estrela cadente. 
+pt	Estás a brincar? É impossível parar uma estrela cadente. 
 ro	Glumești? Nu poți opri o cometă. 
 sv	Skämtar du? Man kan inte stoppa en stigande stjärna. 
 th	ล้อเล่นหรือเปล่า | ดาวตกใครก็ฉุดไว้ไม่อยู่ | 

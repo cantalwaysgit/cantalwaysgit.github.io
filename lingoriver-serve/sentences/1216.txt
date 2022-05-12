@@ -14,8 +14,8 @@ it	Ti sembra sensato proporlo prima di un'appassionata cantautrice?
 nl	Niet echt geschikt voor een singer-songwriter, toch? 
 no	Ingen god overgang til en følelsesfull sanger, eller hva? 
 pl	Słaba to reklama dla soulowej wokalistki. 
-pr-br	Isso não combina com uma cantora e compositora de baladas, certo? 
-pr	Não é uma boa abertura para uma cantora-compositora, pois não? 
+pt-br	Isso não combina com uma cantora e compositora de baladas, certo? 
+pt	Não é uma boa abertura para uma cantora-compositora, pois não? 
 ro	Asta nu sună bine pentru cantautoarea de soul, nu-i așa? 
 sv	Det funkar inte så bra ihop med en själfull singer-songwriter. 
 th	มันไม่เหมาะกับ | นักร้องนักแต่งเพลงแนวโซลเลยใช่ไหม | 

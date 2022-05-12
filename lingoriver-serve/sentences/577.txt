@@ -14,8 +14,8 @@ ko	오랜 기간 함께 하셨으니 | 외로우실 만도 하죠 |
 nl	Jullie waren zo lang samen. Natuurlijk ben je eenzaam. 
 no	Dere var sammen så lenge. Selvsagt er du ensom. 
 pl	Nic dziwnego. Byliście razem wiele lat. 
-pr-br	Vocês ficaram juntos um tempão. Claro que está solitária. 
-pr	Estiveram tanto tempo juntos. É claro que te sentes só. 
+pt-br	Vocês ficaram juntos um tempão. Claro que está solitária. 
+pt	Estiveram tanto tempo juntos. É claro que te sentes só. 
 ro	Ați fost împreună de atâta timp! Normal că te simți singură. 
 sv	Ni har varit tillsammans så länge. Klart du är ensam. 
 th	พวกคุณอยู่ด้วยกันมานานมาก | แน่นอนว่าคุณจะเหงา | 

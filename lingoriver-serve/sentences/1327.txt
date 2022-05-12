@@ -7,8 +7,8 @@ es	No, no la vi.
 fr	Non. 
 he	&rlm;‏לא.‏ | 
 it	No, mai. 
-pr-br	Não vi. 
-pr	Não. 
+pt-br	Não vi. 
+pt	Não. 
 ro	Nu l-am văzut! 
 sv	Nej, det har jag inte. 
 vi	Tôi chưa xem. | 

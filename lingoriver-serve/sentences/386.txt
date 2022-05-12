@@ -14,8 +14,8 @@ ko	솔직히 이들이 | 업계 최고인 것 같아 |
 nl	...die de allerbesten zijn. 
 no	som jeg helt ærlig mener er de beste av alle. 
 pl	Uważam, że są najlepsi. 
-pr-br	que, sinceramente, é o melhor de todos. 
-pr	que, francamente, acho que é do melhor que há. 
+pt-br	que, sinceramente, é o melhor de todos. 
+pt	que, francamente, acho que é do melhor que há. 
 ro	despre care cred sincer că sunt cele mai bune. 
 sv	som jag faktiskt tycker är de bästa av de bästa. 
 th	ที่ผมคิดจริงๆ ว่าสุดยอดไปเลย | 

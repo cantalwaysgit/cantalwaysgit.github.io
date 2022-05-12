@@ -12,8 +12,8 @@ it	Secondo me è una mossa sbagliata.
 ko	접근법이 잘못된 것 같아 | 
 nl	Ik denk dat dit een verkeerde zet is. 
 pl	Myślę, że to złe posunięcie. 
-pr	Acho que estamos a agir mal. 
-pr-br	Acho que estamos dando um passo errado aqui. 
+pt	Acho que estamos a agir mal. 
+pt-br	Acho que estamos dando um passo errado aqui. 
 ro	Cred că nu procedăm bine. 
 sv	Jag tror att vi gör fel drag här. 
 tr	Bence yanlış bir adım atıyoruz. 

@@ -14,8 +14,8 @@ ko	누구와도 관계를 맺기 어렵고 | 불안해요 |
 nl	Ik heb met niemand een band. Ik voel me niet veilig. 
 no	Jeg kan ikke bli venn med noen. Jeg føler meg ikke trygg. 
 pl	Nie umiem nawiązywać znajomości. Nie czuję się bezpieczna. 
-pr-br	Não consigo me ligar a ninguém. Não me sinto segura. 
-pr	Não me consigo ligar a ninguém. Não me sinto segura. 
+pt-br	Não consigo me ligar a ninguém. Não me sinto segura. 
+pt	Não me consigo ligar a ninguém. Não me sinto segura. 
 ro	Nu mă mai pot apropia de oameni. Nu mă simt în siguranță. 
 sv	Jag hör inte ihop med nån. Jag känner mig inte säker. 
 th	ฉันผูกพันกับใครไม่ได้ | ไม่รู้สึกปลอดภัย | 

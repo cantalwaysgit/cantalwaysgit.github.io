@@ -16,8 +16,8 @@ it	E non ho il diritto di dirti ciò che sto per dirti, ma lo dirò lo stesso.
 nl	En ik heb het recht niet te zeggen wat ik ga zeggen, maar ik doe het toch. 
 no	Og jeg har ingen rett til å si det jeg skal si, men gjør det likevel. 
 pl	Nie mam prawa mówić ci tego, co zamierzam, ale i tak to zrobię. 
-pr-br	E não tenho direito de dizer o que vou dizer agora, mas vou falar mesmo assim. 
-pr	Não tenho o direito de te dizer o que vou dizer, mas vou dizer à mesma. 
+pt-br	E não tenho direito de dizer o que vou dizer agora, mas vou falar mesmo assim. 
+pt	Não tenho o direito de te dizer o que vou dizer, mas vou dizer à mesma. 
 ro	Și n-am niciun drept să-ți spun ce-ți voi spune, dar o voi face oricum. 
 sv	Och jag har ingen rätt att säga det jag tänker säga, men jag gör det ändå. 
 th	และผมก็ไม่มีสิทธิ์ที่จะพูด | สิ่งที่จะพูดกับคุณต่อไปนี้ | 

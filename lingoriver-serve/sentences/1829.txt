@@ -7,8 +7,8 @@ he	&rlm;‏‏- טד רפרטי וחברים | &rlm;‏חוזה -‏ |
 it	TED RAFFERTY E AMICI CONTRATTO 
 ko	“테드 래퍼티와 친구들 | 계약서” | 
 no	KONTRAKT 
-pr-br	TED RAFFERTY E AMIGOS CONTRATO 
-pr	TED RAFFERTY E AMIGOS CONTRATO 
+pt-br	TED RAFFERTY E AMIGOS CONTRATO 
+pt	TED RAFFERTY E AMIGOS CONTRATO 
 sv	KONTRAKT 
 vi	TED RAFFERTY VÀ NHỮNG NGƯỜI BẠN | 
 zh-long	（“泰德與好友”合約） 
@@ -33,8 +33,8 @@ he	&rlm;‏‏מה שראינו שם | &rlm;‏סיפר לנו כל מה שאנ�
 it	Quello che abbiamo visto è sufficiente. 
 ko	우리가 보고 싶었던 건 | 다 볼 수 있었어요 | 
 no	Det vi så der inne, fortalte oss alt vi trenger å vite. 
-pr-br	O que nós vimos no palco foi suficiente. 
-pr	O que vimos ali dentro mostrou-nos o que precisávamos de saber. 
+pt-br	O que nós vimos no palco foi suficiente. 
+pt	O que vimos ali dentro mostrou-nos o que precisávamos de saber. 
 sv	Det vi såg där inne, sa allt vi behövde veta. 
 vi	Những gì chúng tôi đã xem | đã cho chúng tôi biết tất cả. | 
 zh-long	剛剛大家都看得一清二楚 

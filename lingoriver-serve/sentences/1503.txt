@@ -13,8 +13,8 @@ he	&rlm;‏‏אף אחד לא מסתכל על השפתיים שלו | &rlm;‏�
 it	Se ridono, non fanno caso alle labbra. 
 no	Ingen ser på leppene hvis de ler. 
 pl	Nikt nie zwraca uwagi na usta, jeśli się śmieje. 
-pr-br	Se estiverem rindo, ninguém repara nos lábios. 
-pr	Ninguém olha para os lábios se estiver a rir. 
+pt-br	Se estiverem rindo, ninguém repara nos lábios. 
+pt	Ninguém olha para os lábios se estiver a rir. 
 ro	Nu se mai uită nimeni la buze dacă râde toată lumea. 
 sv	Ingen kollar på läpparna om de skrattar. 
 th	ไม่มีใครมองปากถ้าพวกเขาหัวเราะ | 

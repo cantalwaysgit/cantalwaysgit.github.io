@@ -15,8 +15,8 @@ ko	밤에 새들은 자는데 | 박쥐가 깨어나는군 |
 nl	Dus vogels slapen 's nachts, maar vleermuizen worden wakker. 
 no	Fuglene sover om natten, men flaggermusene er våkne. 
 pl	Za dnia ptaki śpią, ale nocą wyłażą nietoperze. 
-pr-br	Pássaros dormem à noite, mas morcegos ficam acordados. 
-pr	Pronto. Os pássaros dormem de noite, mas os morcegos estão acordados. 
+pt-br	Pássaros dormem à noite, mas morcegos ficam acordados. 
+pt	Pronto. Os pássaros dormem de noite, mas os morcegos estão acordados. 
 ro	Bine. Deci păsările dorm noaptea, dar se trezesc liliecii. 
 sv	Fåglar sover på natten, men fladdermössen är uppe. 
 th	โอเค นกนอนกลางคืน แต่ค้างคาวตื่น | 

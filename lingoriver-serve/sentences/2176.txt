@@ -14,8 +14,8 @@ ko	그래, 사과 받아들인다고 해줘 |
 nl	Zeg maar dat ik het accepteer. 
 no	Ja vel. Si til ham at unnskyldningen er godtatt. 
 pl	Przyjmuję jego przeprosiny. 
-pr-br	Está bem. Diga que aceito o pedido de desculpa. 
-pr	Está bem. Diz-lhe que eu aceito as desculpas. 
+pt-br	Está bem. Diga que aceito o pedido de desculpa. 
+pt	Está bem. Diz-lhe que eu aceito as desculpas. 
 ro	Bine. Spune-i că-i accept scuzele. 
 sv	Säg att jag godtar ursäkten. 
 th	โอเคๆ บอกเขาว่าฉันยอมรับ | 

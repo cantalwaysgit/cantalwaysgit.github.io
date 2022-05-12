@@ -13,8 +13,8 @@ ko	소질이 없나 봐요 |
 nl	Ik ben zo slecht. 
 no	Jeg suger. 
 pl	Do bani jestem. 
-pr-br	Sou péssima nisso. 
-pr	Não tenho jeito para isto. 
+pt-br	Sou péssima nisso. 
+pt	Não tenho jeito para isto. 
 ro	Sunt varză la asta. 
 tr	Beceremiyorum. 
 zh-long	我真的不會擺姿勢 

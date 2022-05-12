@@ -13,8 +13,8 @@ ko	제가 오디션 보는 동안 | 애들을 봐준다고 하셨죠? |
 nl	Je zou op ze passen tijdens mijn auditie. Is dat goed? 
 no	Du sa du kunne passe dem mens jeg var på audition. Går det bra? 
 pl	Idę na to przesłuchanie. Obiecałeś, że ich popilnujesz. 
-pr-br	Disse que cuidaria delas durante meus testes. Tudo bem? 
-pr	Disseste que tomavas conta delas durante a minha audição. Ainda pode ser? 
+pt-br	Disse que cuidaria delas durante meus testes. Tudo bem? 
+pt	Disseste que tomavas conta delas durante a minha audição. Ainda pode ser? 
 ro	Ai zis că o să ai grijă de copii cât dau eu proba. E în regulă? 
 ru	Ты обещал с ними побыть, пока я на пробах. Ты не против? 
 sv	Du sa att du kunde passa dem när jag var på audition. 

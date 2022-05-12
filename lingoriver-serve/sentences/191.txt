@@ -12,8 +12,8 @@ ko	본관에는 못 들어가게 했죠 |
 nl	Hij mocht niet in de villa komen. 
 no	Og han fikk ikke bruke hovedhuset. 
 pl	Sandy miał zakaz wstępu do domu. 
-pr-br	Mas ele não podia entrar na mansão. 
-pr	E ele não podia entrar na casa principal. 
+pt-br	Mas ele não podia entrar na mansão. 
+pt	E ele não podia entrar na casa principal. 
 ro	El n-avea voie să intre în casă. 
 sv	Och han fick inte gå in i huvudbyggnaden. 
 th	และเขาไม่ได้รับอนุญาต | ให้เข้าไปในตัวบ้านใหญ่ | 

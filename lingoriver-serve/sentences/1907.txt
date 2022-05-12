@@ -12,8 +12,8 @@ it	Anche quando non c'eri.
 ko	곁에 없을 때도요 | 
 nl	Ook als je er niet was. 
 no	Selv når du ikke var det. 
-pr-br	Até quando não estava presente. 
-pr	Mesmo quando não estavas. 
+pt-br	Até quando não estava presente. 
+pt	Mesmo quando não estavas. 
 ro	Chiar și când n-ai fost. 
 th	แม้แต่ตอนที่ไม่อยู่ | 
 tr	Yanımda olmadığında bile. 

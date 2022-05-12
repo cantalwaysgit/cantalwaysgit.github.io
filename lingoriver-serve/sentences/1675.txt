@@ -15,8 +15,8 @@ ko	잘됐네 |
 nl	Dat is mooi. 
 no	Det er bra. 
 pl	To dobrze. 
-pr-br	Isso é bom. 
-pr	Isso é bom. 
+pt-br	Isso é bom. 
+pt	Isso é bom. 
 ro	Asta e bine. 
 sv	Det låter bra. 
 th	นั่นเป็นเรื่องดี | 

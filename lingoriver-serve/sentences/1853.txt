@@ -13,8 +13,8 @@ ko	농담이에요 |
 nl	Grapje. 
 no	Bare tuller. 
 pl	Żartuję. 
-pr-br	Estou brincando. 
-pr	Estava a brincar. 
+pt-br	Estou brincando. 
+pt	Estava a brincar. 
 ro	Glumeam. 
 sv	Skojar bara. 
 th	แค่ล้อเล่น | 

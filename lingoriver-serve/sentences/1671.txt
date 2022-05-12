@@ -14,8 +14,8 @@ it	Puoi rimanere tutto il tempo che vuoi.
 nl	Je mag zo lang blijven als je wilt. 
 no	Du kan bli så lenge du vil. 
 pl	Możesz zostać, ile tylko chcesz. 
-pr-br	Você pode ficar o quanto quiser. 
-pr	Podes ficar o tempo que quiseres. 
+pt-br	Você pode ficar o quanto quiser. 
+pt	Podes ficar o tempo que quiseres. 
 ro	Poți rămâne cât vrei tu. 
 sv	Du kan stanna så länge du vill. 
 th	ฟังนะ คุณอยู่ได้นานที่สุด | เท่าที่อยากอยู่ | 

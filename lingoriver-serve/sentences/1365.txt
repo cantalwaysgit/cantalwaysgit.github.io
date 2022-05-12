@@ -5,8 +5,8 @@ en	[man 3] Madonna! |
 es-eu	¡Madonna! 
 he	&rlm;‏מדונה!‏ | 
 no	Madonna! 
-pr-br	Madonna! 
-pr	Madonna! 
+pt-br	Madonna! 
+pt	Madonna! 
 ro	Madonna! 
 zh-long	瑪丹娜！ 
 fi	Madonna! 

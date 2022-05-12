@@ -14,8 +14,8 @@ it	Guardatemi in faccia. Il re di Hollywood.
 ko	얼굴 좀 봐 | 할리우드의 왕이라고 | 
 no	Se på ansiktet. Kongen av Hollywood. 
 pl	Spójrzcie. To twarz króla Hollywoodu. 
-pr-br	Vejam a minha cara. O rei de Hollywood. 
-pr	Fixem bem a cara. O rei de Hollywood. 
+pt-br	Vejam a minha cara. O rei de Hollywood. 
+pt	Fixem bem a cara. O rei de Hollywood. 
 ro	Uitați-vă bine la fața asta! Regele Hollywoodului. 
 sv	Lär er mitt ansikte. Kungen av Hollywood. 
 th	รู้จักหน้าตากัน ราชาฮอลลีวูด | 
@@ -37,8 +37,8 @@ he	&rlm;‏‏אתה מבין? | &rlm;‏-סנדי?‏ |
 it	- Avete capito? - Sandy? 
 no	-Forstått? -Sandy? 
 pl	- Rozumiecie? - Sandy? 
-pr-br	-Entenderam? -Sandy? 
-pr	- Compreendem? - Sandy? 
+pt-br	-Entenderam? -Sandy? 
+pt	- Compreendem? - Sandy? 
 ro	- Înțelegeți? - Sandy? 
 sv	-Hajar ni? -Sandy. 
 th	- เข้าใจไหม | - แซนดี้ | 

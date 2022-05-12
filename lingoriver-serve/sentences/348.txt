@@ -13,8 +13,8 @@ ko	깜빡 속았죠? |
 nl	Ik had je tuk. 
 no	Lurte deg. 
 pl	Nabraliśmy cię. 
-pr	Apanhei-te. 
-pr-br	Eu te peguei. 
+pt	Apanhei-te. 
+pt-br	Eu te peguei. 
 ro	Ți-am făcut-o! 
 ru	Попался! 
 sv	Känn dig blåst. 

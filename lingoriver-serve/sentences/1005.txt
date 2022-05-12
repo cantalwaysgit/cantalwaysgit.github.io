@@ -11,8 +11,8 @@ it	Ci provo.
 ko	노력 중이에요 | 
 nl	Dat probeer ik. 
 pl	Staram się. 
-pr-br	Estou tentando. 
-pr	Estou a tentar. 
+pt-br	Estou tentando. 
+pt	Estou a tentar. 
 ro	Încerc. 
 ru	Я стараюсь. 
 sv	Jag försöker. 
@@ -37,8 +37,8 @@ it	Amy? Courtney. Ti ricordi la festa in piscina?
 ko	에이미? 코트니예요 | 수영장 파티 기억하죠? | 
 nl	Amy? Courtney. Van het feest bij het zwembad? 
 pl	Jestem Courtney. Byłyśmy na imprezie na basenie. 
-pr	Amy? Courtney. Lembras-te de mim da festa na piscina? 
-pr-br	Amy? Courtney. Lembra-se de mim da festa na piscina? 
+pt	Amy? Courtney. Lembras-te de mim da festa na piscina? 
+pt-br	Amy? Courtney. Lembra-se de mim da festa na piscina? 
 ro	Amy? Courtney. Mă mai știi de la petrecerea la piscină? 
 ru	Эми? Кортни! Помнишь вечеринку в бассейне? 
 sv	Amy? Minns du mig från poolfesten? 

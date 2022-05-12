@@ -15,8 +15,8 @@ ko	톰, 미안하지만 | 그건 자네가 할 일이잖아 |
 nl	Sorry, Tom. Dat is mijn werk niet. Dat is jouw werk. 
 no	Beklager. Det er ikke min jobb. Det er din. 
 pl	Tom, to nie moje zadanie, tylko twoje. 
-pr-br	Tom, sinto muito. Não é meu trabalho. É o seu. 
-pr	Desculpa, Tom. Isso é trabalho teu, não é meu. 
+pt-br	Tom, sinto muito. Não é meu trabalho. É o seu. 
+pt	Desculpa, Tom. Isso é trabalho teu, não é meu. 
 ro	Îmi pare rău, Tom! Asta nu e treaba mea. E a ta. 
 sv	Jag är ledsen, Tom. Det är inte mitt jobb, det är ditt jobb. 
 th	ทอม ผมเสียใจ | นั่นไม่ใช่หน้าที่ผม มันหน้าที่คุณ | 

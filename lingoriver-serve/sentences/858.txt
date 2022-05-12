@@ -14,8 +14,8 @@ ko	마이애미 사운드 머신이랑 | 조금 섞어 봐 |
 nl	Mix het met wat Miami Sound Machine. 
 no	Få inn litt Miami Sound Machine. 
 pl	Dodaj trochę Miami Sound Machine. 
-pr	Alterna com um pouco de Miami Sound Machine. 
-pr-br	Faça mixagem com Miami Sound Machine. 
+pt	Alterna com um pouco de Miami Sound Machine. 
+pt-br	Faça mixagem com Miami Sound Machine. 
 ro	Mai pune și puțin Miami Sound Machine. 
 sv	Blanda med lite Miami Sound Machine. 
 th	ผสมเพลงไมอามี่เซานด์แมชีนหน่อยสิ | 

@@ -15,8 +15,8 @@ ko	- 로저스예요! | - 로저스! |
 nl	Rodgers. 
 no	-Rodgers! -Rodgers! 
 pl	Rodgers! 
-pr-br	-Rodgers! -Rodgers! 
-pr	- Rodgers! - Rodgers! 
+pt-br	-Rodgers! -Rodgers! 
+pt	- Rodgers! - Rodgers! 
 ro	- Rodgers! - Rodgers! 
 sv	-Rodgers! -Rodgers! 
 th	- รอดเจอร์ | - รอดเจอร์ | 

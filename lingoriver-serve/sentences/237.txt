@@ -13,8 +13,8 @@ it	Per tutto l'inverno
 ko	겨우내 | 
 nl	tijdens de hele winter 
 pl	Na zimowy czas 
-pr-br	Por todo o inverno 
-pr	Durante todo o inverno 
+pt-br	Por todo o inverno 
+pt	Durante todo o inverno 
 ro	Toată iarna 
 ru	И так всю зиму 
 sv	Genom hela vintern 

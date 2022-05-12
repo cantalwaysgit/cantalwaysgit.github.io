@@ -13,8 +13,8 @@ it	Investi l'80 per cento in piccole librerie e l'altro 20 per cento in Woolwort
 ko	80%는 소형 지역 서점에 | 20%는 울워스에 투자해 | 
 nl	Stop 80% in kleine boekenzaken, de rest in Woolworth's. 
 pl	Zainwestuj 80% w małe księgarnie, pozostałe 20% w markety Woolworthsa. 
-pr-br	Invista 80% em livrarias pequenas e os outros 20% na Woolworth. 
-pr	Investe 80 % em pequenas livrarias locais e 20 % na Woolworth. 
+pt-br	Invista 80% em livrarias pequenas e os outros 20% na Woolworth. 
+pt	Investe 80 % em pequenas livrarias locais e 20 % na Woolworth. 
 ro	Bagă 80% în biblioteci mici, locale, iar restul de 20% în Woolworth's. 
 sv	Satsa 80 % på små, lokala bokaffärer, de andra 20 % på Woolworth's. 
 th	ลง 80% กับร้านหนังสือท้องถิ่นเล็กๆ | อีก 20% กับวูลเวิร์ทส์ | 

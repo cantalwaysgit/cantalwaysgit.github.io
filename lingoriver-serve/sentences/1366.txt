@@ -8,8 +8,8 @@ he	&rlm;‏מליסה!‏ |
 nl	Melissa. 
 no	Melissa! 
 pl	Melissa! 
-pr-br	Melissa! 
-pr	Melissa! 
+pt-br	Melissa! 
+pt	Melissa! 
 ro	Melissa! 
 sv	Melissa! 
 th	เมลิสซ่า | 

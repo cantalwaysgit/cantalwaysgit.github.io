@@ -10,8 +10,8 @@ fr	Il l'avait dit la 1re fois.
 he	&rlm;‏הוא אמר את זה בפעם הראשונה.‏ | 
 it	L'ha detto la prima volta. 
 pl	Za pierwszym razem też. 
-pr-br	Ele disse na primeira vez. 
-pr	Ele tinha dito da primeira vez. 
+pt-br	Ele disse na primeira vez. 
+pt	Ele tinha dito da primeira vez. 
 ro	A zis din prima. 
 th	เขาพูดตั้งแต่ครั้งแรก | 
 tr	İlk seferinde söyledi. 

@@ -13,8 +13,8 @@ it	Cavolo, Sandy era uno straccio.
 ko	샌디는 만신창이가 됐어요 | 
 nl	Sandy was er kapot van. 
 pl	Sandy ciężko to znosił. 
-pr-br	Cara, Sandy estava zoado. 
-pr	O Sandy estava muito abalado. 
+pt-br	Cara, Sandy estava zoado. 
+pt	O Sandy estava muito abalado. 
 ro	Doamne! Sandy era distrus. 
 sv	Sandy var helt förstörd. 
 th	ให้ตาย ชีวิตแซนดี้สับสนยุ่งเหยิง | 

@@ -15,8 +15,8 @@ it	Andiamo.
 ko	출발하자 | 
 no	Kom igjen. 
 pl	No to ziu. 
-pr-br	Vamos. 
-pr	Vamos lá. 
+pt-br	Vamos. 
+pt	Vamos lá. 
 ro	Să începem! 
 sv	Nu kör vi. 
 tr	Hadi bakalım. 

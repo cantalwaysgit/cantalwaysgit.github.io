@@ -12,8 +12,8 @@ ko	수영장도 멋졌고 |
 nl	Prachtig zwembad. 
 no	Fantastisk basseng. 
 pl	Cudowny basen. 
-pr-br	Tinha uma piscina incrível. 
-pr	Tinha uma piscina maravilhosa. 
+pt-br	Tinha uma piscina incrível. 
+pt	Tinha uma piscina maravilhosa. 
 ro	Piscina era superbă! 
 sv	Fantastisk pool. 
 th	สระว่ายน้ำสวยสุด | 

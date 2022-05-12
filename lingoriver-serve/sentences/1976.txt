@@ -8,8 +8,8 @@ es	¿Puedo contar contigo?
 fr	Je peux compter sur vous ? 
 he	&rlm;‏אני יכול לסמוך עליך?‏ | 
 it	Posso contare su di te? 
-pr-br	Posso contar com você? 
-pr	Posso contar contigo? 
+pt-br	Posso contar com você? 
+pt	Posso contar contigo? 
 ro	Pot conta pe tine? 
 th	จะช่วยผมได้ไหม | 
 tr	Sana güvenebilir miyim? 

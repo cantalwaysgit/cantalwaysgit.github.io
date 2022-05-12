@@ -14,8 +14,8 @@ ko	- 화장실 가셔야 해요? | - 아니, 줄 맞추는 중이야 |
 nl	Moet je naar de wc? -Nee, ik ga ervoor staan. 
 no	-Må du på do? -Nei, jeg forbereder slaget. 
 pl	- Musisz iść do toalety? - Nie. Ustawiam się. 
-pr-br	-Precisa ir ao banheiro? -Não, estou alinhando aqui. 
-pr	- Precisas de ir à casa de banho? - Não, estou a preparar-me. 
+pt-br	-Precisa ir ao banheiro? -Não, estou alinhando aqui. 
+pt	- Precisas de ir à casa de banho? - Não, estou a preparar-me. 
 ro	- Îți vine să mergi la baie? - Nu. Mă poziționez. 
 sv	-Måste du gå på toaletten? -Nej, jag förbereder mig. 
 th	- คุณต้องไปห้องน้ำใช่ไหม | - เปล่า แค่ตั้งท่าให้ตรงลูก | 

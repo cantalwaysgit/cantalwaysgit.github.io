@@ -10,8 +10,8 @@ he	&rlm;‏מה ל... מה?‏ |
 it	Ma... Cosa? 
 ko	대체 무슨... 뭐라고요? | 
 pl	Co? 
-pr-br	Mas que... Quê? 
-pr	O que... O quê? 
+pt-br	Mas que... Quê? 
+pt	O que... O quê? 
 sv	Vad i... Vadå? 
 tr	Ne... Ne? 
 vi	Thế là... Gì cơ? | 

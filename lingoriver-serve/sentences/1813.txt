@@ -10,8 +10,8 @@ he	&rlm;‏טוב. זה משמח אותי מאוד.‏ |
 it	Ottimo. Sono molto contento. 
 no	Ja vel. Det gjør meg veldig glad. 
 pl	Jasne. Bardzo się cieszę. 
-pr-br	Está bem. Fico muito feliz com isso. 
-pr	Está bem. Fico muito feliz. 
+pt-br	Está bem. Fico muito feliz com isso. 
+pt	Está bem. Fico muito feliz. 
 ro	Bine. Sunt foarte mulțumit. 
 sv	Det gör mig glad. 
 th	ได้ครับ นั่นทำให้ผมแฮปปีมากๆ | 

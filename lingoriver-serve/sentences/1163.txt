@@ -9,8 +9,8 @@ fr	Sauf ton respect, Sandy, je comprends bien,
 he	&rlm;‏עם כל הכבוד, סנדי, אני מבין את זה,‏ | 
 it	Con tutto il rispetto, ti capisco, 
 no	Med all respekt, Sandy, jeg forstår det, 
-pr-br	Com todo respeito, Sandy, entendo isso, 
-pr	Com o devido respeito, eu compreendo, 
+pt-br	Com todo respeito, Sandy, entendo isso, 
+pt	Com o devido respeito, eu compreendo, 
 ro	Cu tot respectul, Sandy, te înțeleg, 
 th	ด้วยความนับถือนะ แซนดี้ | เรื่องนั้นผมเข้าใจ | 
 tr	Kusura bakma, bunu anlıyorum Sandy 

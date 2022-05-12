@@ -14,8 +14,8 @@ it	Perché dovrei giocare a golf?
 ko	골프는 왜 쳐요? | 
 no	Hvorfor golfer jeg? 
 pl	Czemu golf? 
-pr-br	Por que vou jogar golfe? 
-pr	Porque vou jogar golfe? 
+pt-br	Por que vou jogar golfe? 
+pt	Porque vou jogar golfe? 
 ro	De ce merg la golf? 
 sv	Varför spelar jag golf? 
 th	ทำไมฉันถึงมาตีกอล์ฟ | 
@@ -40,8 +40,8 @@ he	&rlm;‏גולף מרגיע מאוד.‏ |
 it	Il golf è molto rilassante. 
 ko	골프는 마음을 느긋하게 해줘 | 
 no	Golf er veldig avslappende. 
-pr-br	Golfe é bem relaxante. 
-pr	O golfe é muito relaxante. 
+pt-br	Golfe é bem relaxante. 
+pt	O golfe é muito relaxante. 
 ro	Golful e foarte relaxant. 
 sv	För att det är avkopplande. 
 th	กอล์ฟช่วยผ่อนคลายได้มาก | 

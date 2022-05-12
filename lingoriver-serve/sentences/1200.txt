@@ -13,8 +13,8 @@ ko	어떻게요? ‘아세니오’ | 출연 가능성을 차단한 거요? |
 nl	Hoe? Door haar kans bij  Arsenio  te verknallen? 
 no	Ved å ødelegge sjansen hennes til  Arsenio? 
 pl	Spławiając Arsenio? 
-pr-br	Como? Estragando o lance dela no  Arsenio? 
-pr	Estragando-lhe a oportunidade de aparecer no  Arsenio? 
+pt-br	Como? Estragando o lance dela no  Arsenio? 
+pt	Estragando-lhe a oportunidade de aparecer no  Arsenio? 
 ro	Cum? Distrugându-i șansa de a apărea la  Arsenio? 
 ru	Как? Не дав ей пойти на шоу Арсенио? 
 sv	Hur då? Genom att sabba  hennes medverkan hos  Arsenio? 

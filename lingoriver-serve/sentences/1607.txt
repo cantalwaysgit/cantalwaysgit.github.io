@@ -12,8 +12,8 @@ it	Randy Savage è stato colpito 24 volte
 nl	Randy Savage werd 24 keer verslagen... 
 no	Randy Savage måtte få juling 24 ganger 
 pl	Randy Savage dostał baty 24 razy, 
-pr-br	Randy Savage teve que apanhar 24 vezes 
-pr	O Randy Savage teve de perder 24 vezes 
+pt-br	Randy Savage teve que apanhar 24 vezes 
+pt	O Randy Savage teve de perder 24 vezes 
 ro	Randy Savage a trebuit s-o încaseze de 24 de ori 
 th	แรนดี้ แซเวจต้องแพ้ 24 ครั้ง | 
 tr	Randy Savage, Ted DiBiase'yi mıhlayıp 

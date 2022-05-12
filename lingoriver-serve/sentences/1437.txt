@@ -13,8 +13,8 @@ ko	이제 잘 시간이야, 아가! | 잘 자렴! |
 nl	Ga maar slapen, schat. Tijd om te slapen. 
 no	Sov nå! På tide å si nattinatt! 
 pl	Pójdziesz lulu! Pora na dobranoc! 
-pr-br	Hora de mimir! É hora de nanar! 
-pr	Vai dormir! Está na hora da soneca! 
+pt-br	Hora de mimir! É hora de nanar! 
+pt	Vai dormir! Está na hora da soneca! 
 ro	La culcare, iubitule! E timpul să-nchizi ochișorii! 
 sv	Dags att sova, raring. Nattinatti! 
 th	ไปนอนซะ เบบี๋ ได้เวลาปิดตาแล้ว | 

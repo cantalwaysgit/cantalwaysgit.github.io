@@ -15,8 +15,8 @@ he	&rlm;‏אצא לסיבוב או משהו.‏ |
 it	Andrò a fare una passeggiata. 
 no	Jeg skal gå en tur eller noe. 
 pl	Pójdę się przejść czy coś. 
-pr-br	Vou dar uma volta. 
-pr	Eu vou dar uma volta. 
+pt-br	Vou dar uma volta. 
+pt	Eu vou dar uma volta. 
 ro	O să merg la o plimbare. 
 sv	Jag ska ta en promenad. 
 th	ผมจะไปเดินเล่นหรือทำอย่างอื่น | 
@@ -40,8 +40,8 @@ it	Passa la notte migliore della tua vita.
 ko	인생 최고의 밤을 보내 | 
 no	Ha ditt livs beste kveld. 
 pl	Życzę miłego wieczoru życia. 
-pr-br	Tenha a melhor noite de sua vida. 
-pr	Que seja a melhor noite da tua vida, Sandy. 
+pt-br	Tenha a melhor noite de sua vida. 
+pt	Que seja a melhor noite da tua vida, Sandy. 
 ro	Să ai cea mai frumoasă noapte din viața ta! 
 sv	Ha en underbar natt. 
 th	ขอให้มีค่ำคืนที่เยี่ยมที่สุดในชีวิต | 

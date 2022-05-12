@@ -14,8 +14,8 @@ it	- Quindi dobbiamo rifarla. - Va bene.
 ko	- 그럼 다시 해야겠네 | - 알았어요 | 
 no	-Så vi må gjøre det på nytt. -Greit. 
 pl	- Czyli musimy nagrać jeszcze raz. - Tak. 
-pr-br	-Então vamos ter que repetir. -Tudo bem. 
-pr	- Vamos ter de repetir? - Está bem. 
+pt-br	-Então vamos ter que repetir. -Tudo bem. 
+pt	- Vamos ter de repetir? - Está bem. 
 ro	- Deci va trebui să repetăm? - Bine. 
 sv	-Då måste vi göra om det? -Okej. 
 th	- งั้นเราจะต้องอัดใหม่อีกครั้ง | - โอเค | 

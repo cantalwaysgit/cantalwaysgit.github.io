@@ -6,8 +6,8 @@ fr	Voilà.
 he	&rlm;‏בדיוק.‏ | 
 it	Esatto. 
 ko	맞아 | 
-pr-br	Beleza. 
-pr	Certo. 
+pt-br	Beleza. 
+pt	Certo. 
 ro	Sigur. 
 sv	Exakt. 
 th	ใช่แล้ว | 

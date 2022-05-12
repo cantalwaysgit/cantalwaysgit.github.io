@@ -17,8 +17,8 @@ he	&rlm;‏אני מעדיף שתישארי נוצרייה.‏ |
 it	Preferirei che rimanessi cristiana. 
 nl	ik heb liever dat je christen blijft 
 no	Jeg vil helst du skal forbli kristen. 
-pr-br	Prefiro que continuem cristãos 
-pr	Prefiro que continues cristã 
+pt-br	Prefiro que continuem cristãos 
+pt	Prefiro que continues cristã 
 ro	Aș prefera să rămâi creștină 
 sv	Jag föredrar dig kristen 
 vi	Bố muốn con vẫn theo cơ đốc giáo. | 

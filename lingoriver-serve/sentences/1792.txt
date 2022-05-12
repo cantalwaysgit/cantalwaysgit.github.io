@@ -15,8 +15,8 @@ ko	난 노래하는 게 싫어 |
 nl	Ik haat zingen. 
 no	Jeg hater å synge. 
 pl	Nie lubię śpiewać. 
-pr-br	Odeio cantar. 
-pr	Eu odeio cantar. 
+pt-br	Odeio cantar. 
+pt	Eu odeio cantar. 
 ro	Detest cântatul! 
 sv	Jag hatar att sjunga. 
 th	ฉันเกลียดการร้องเพลง | 

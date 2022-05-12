@@ -13,8 +13,8 @@ it	No, le labbra si muovono appena, ma non è importante.
 nl	Je ziet zijn lippen een beetje bewegen, maar dat is niet belangrijk. 
 no	Jo, man kan se leppene bevege seg, men det er ikke det viktige. 
 pl	Trochę widać, że rusza ustami, ale nie to jest ważne. 
-pr-br	Você vê que os lábios se mexem levemente, mas isso não é importante. 
-pr	Não, os lábios mexem ligeiramente, mas não é o mais importante. 
+pt-br	Você vê que os lábios se mexem levemente, mas isso não é importante. 
+pt	Não, os lábios mexem ligeiramente, mas não é o mais importante. 
 ro	Nu, se vede puțin că-și mișcă buzele, dar nu asta contează. 
 sv	Man ser att hans läppar rör sig, men det är inte så viktigt. 
 th	ไม่เลย ริมฝีปากเขาขยับนิดเดียว | แต่นั่นไม่ใช่เรื่องสำคัญ | 

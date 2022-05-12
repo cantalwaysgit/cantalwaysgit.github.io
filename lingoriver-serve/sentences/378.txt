@@ -13,8 +13,8 @@ ko	유명해지더니 날 차버렸어 |
 nl	Hij werd beroemd en dumpte me. 
 no	Han ble berømt, og han dumpet meg. 
 pl	Został sławny i się mnie pozbył. 
-pr-br	Ele ficou famoso e... E me deu um pé na bunda. 
-pr	Tornou-se famoso e deixou-me. 
+pt-br	Ele ficou famoso e... E me deu um pé na bunda. 
+pt	Tornou-se famoso e deixou-me. 
 ro	A devenit celebru și m-a părăsit. 
 sv	Han blev berömd och dumpade mig. 
 th	เขาดังแล้วเขาก็ทิ้งผมไป | 

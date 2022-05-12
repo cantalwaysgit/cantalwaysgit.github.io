@@ -7,8 +7,8 @@ es	No puedo dar dos pasos
 fr	Je fais pas trois mètres 
 he	&rlm;‏אני לא יכולה אפילו ללכת שלושה מטר‏ | 
 it	Non riesco a fare tre metri 
-pr-br	Não posso nem dar um passo 
-pr	Não consigo dar dois passos 
+pt-br	Não posso nem dar um passo 
+pt	Não consigo dar dois passos 
 sv	Jag kan inte ens gå tio steg 
 tr	Paparazzi peşime takılmadan, 
 vi	Tôi thậm chí không thể bước mười bước | 
@@ -34,8 +34,8 @@ fr	que les paparazzi sont sur mes basques à me mitrailler et m'espionner.
 he	&rlm;‏‏בלי פפראצי שעוקב אחריי, | &rlm;‏מצלם אותי, מרגל אחריי.‏ | 
 it	senza avere alle costole paparazzi che mi fotografano e mi spiano. 
 no	uten å bli forfulgt av paparazzier som tar bilder og spionerer på meg. 
-pr-br	sem que paparazzi me sigam, tirem fotos e me espionem. 
-pr	sem ter os  paparazzi  a seguir-me, a tirar-me fotografias e a espiar-me. 
+pt-br	sem que paparazzi me sigam, tirem fotos e me espionem. 
+pt	sem ter os  paparazzi  a seguir-me, a tirar-me fotografias e a espiar-me. 
 ro	fără să fiu urmărită de paparazzi care îmi fac poze și mă spionează. 
 sv	utan att paparazzi förföljer mig, fotar mig, spionerar på mig. 
 th	ก็มีปาปารัสซีตาม | คอยถ่ายรูป คอยแอบดูแล้ว | 

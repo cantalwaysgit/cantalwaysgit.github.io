@@ -14,8 +14,8 @@ ko	쳐본 적 있어? |
 nl	Heb je het eerder gedaan? 
 no	Har du spilt før? 
 pl	Grałaś już kiedyś? 
-pr	Alguma vez jogaste? 
-pr-br	Você já jogou? 
+pt	Alguma vez jogaste? 
+pt-br	Você já jogou? 
 ro	Ai mai jucat vreodată? 
 sv	Har du nånsin spelat förut? 
 th	เคยเล่นมาก่อนไหม | 

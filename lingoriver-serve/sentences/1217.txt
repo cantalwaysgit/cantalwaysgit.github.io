@@ -10,8 +10,8 @@ he	&rlm;‏‏היא זכתה בהם מחדש. | &rlm;‏היא טובה מכד�
 it	Ha rimediato. È troppo brava per perdere il suo pubblico. 
 no	Hun fikk dem tilbake, er for god til å miste dem. 
 pl	Fani jej nie opuścili. Jest zbyt dobra. 
-pr-br	Ela os reconquistou. É boa demais para perder a plateia. 
-pr	Ela recuperou. É boa de mais para perder o público. 
+pt-br	Ela os reconquistou. É boa demais para perder a plateia. 
+pt	Ela recuperou. É boa de mais para perder o público. 
 ro	S-a rezolvat. E prea bună ca să-și piardă publicul. 
 th	เธอได้ใจทุกคนกลับมา | เพราะเธอดีเกินไปที่จะสูญเสียคนดู | 
 tr	Seyircileri tekrar toparladı. Çünkü fazlasıyla iyi. 

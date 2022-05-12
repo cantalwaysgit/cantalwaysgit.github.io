@@ -15,8 +15,8 @@ ko	힘든 전화도 해주고 | 잘 싸워주기도 하는 남자지 |
 nl	Een man die de lastige telefoontjes wil doen en voor je wil vechten. 
 no	En som tar de vanskelige telefonene, kjemper de harde kampene. 
 pl	Który będzie wykonywał za ciebie trudne telefony, walczył o twoje. 
-pr-br	Um cara que vai fazer as ligações difíceis e lutar por uma boa causa. 
-pr	Um tipo que faz os telefonemas difíceis, que trava as grandes batalhas. 
+pt-br	Um cara que vai fazer as ligações difíceis e lutar por uma boa causa. 
+pt	Um tipo que faz os telefonemas difíceis, que trava as grandes batalhas. 
 ro	Un tip care va negocia la telefon, va lupta să câștigi. 
 sv	En kille som tar de svåra telefonsamtalen, och de tuffa fajterna. 
 th	คนที่จะโทรศัพท์ที่หินๆ ให้ | ต่อสู้กับปัญหาใหญ่โตทั้งหมด | 

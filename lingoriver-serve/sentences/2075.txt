@@ -9,8 +9,8 @@ he	&rlm;‏‏היי! | &rlm;‏-אלוהים! היי!‏ |
 it	- Ehi! - Oddio! Ciao! 
 ko	- 안녕! | - 세상에! 안녕! | 
 no	-Hei! -Herregud! Hei! 
-pr-br	-Ei! -Ah, meu Deus! Oi! 
-pr	- Olá! - Meu Deus! Olá! 
+pt-br	-Ei! -Ah, meu Deus! Oi! 
+pt	- Olá! - Meu Deus! Olá! 
 ro	- Bună! - Doamne! Bună! 
 sv	-Hej! -Herregud, hej! 
 tr	-Selam! -Aman Tanrım! Merhaba! 

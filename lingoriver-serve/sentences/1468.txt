@@ -10,8 +10,8 @@ he	&rlm;‏יש כאן הרבה צלמי פפראצי בחזית.‏ |
 it	E ci sono molti paparazzi là fuori. 
 nl	En er zijn hier veel paparazzi. 
 no	Det er veldig mange paparazzier her. 
-pr-br	E tem muitos paparazzi aqui. 
-pr	E há muitos  paparazzi  cá à frente. 
+pt-br	E tem muitos paparazzi aqui. 
+pt	E há muitos  paparazzi  cá à frente. 
 ro	Sunt mulți paparazzi afară. 
 sv	Det är många paparazzi utanför. 
 th	แล้วมีปาปารัสซี่มากมายข้างนอกนั่น | 

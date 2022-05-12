@@ -12,8 +12,8 @@ ko	괜찮다고요, 피시바인? | 말도 안 돼요 |
 nl	Redelijk? Het is waardeloos. 
 no	Rimelig, Fishbein? Det er hundemøkk. 
 pl	Gówno, nie rozsądna, Fishbein. 
-pr-br	Razoável, Fishbein? É uma merda. 
-pr	Razoável, Fishbein? É uma merda. 
+pt-br	Razoável, Fishbein? É uma merda. 
+pt	Razoável, Fishbein? É uma merda. 
 ro	Rezonabil, Fishbein? E jaf la drumul mare! 
 sv	Rimlig? Det är hundskit. 
 th	สมน้ำสมเนื้อเหรอ ฟิชไบน์ | มันห่วยแตก | 

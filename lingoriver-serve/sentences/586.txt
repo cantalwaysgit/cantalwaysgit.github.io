@@ -13,8 +13,8 @@ it	Ci sono i cani.
 nl	De honden. 
 no	Det er hunder der. 
 pl	Uwaga na psy. 
-pr-br	Tem cachorros. 
-pr	Os cães. 
+pt-br	Tem cachorros. 
+pt	Os cães. 
 ro	Sunt câini. 
 sv	Hundarna är där ute. 
 tr	Köpekler var. 

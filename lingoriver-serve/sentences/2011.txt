@@ -12,8 +12,8 @@ ko	데니스 로드맨도 사귀었어? | 세상에 |
 nl	Had je iets met Dennis Rodman? Mijn hemel. 
 no	Har du datet Dennis Rodman? Herregud. 
 pl	Chodziłaś z Dennisem Rodmanem? Boże. 
-pr	Andaste com o Dennis Rodman? Meu Deus. 
-pr-br	Você namorou com o Dennis Rodman? Meu Deus. 
+pt	Andaste com o Dennis Rodman? Meu Deus. 
+pt-br	Você namorou com o Dennis Rodman? Meu Deus. 
 ro	Ai ieșit cu Dennis Rodman? Doamne! 
 sv	Har du dejtat Dennis Rodman? Jösses. 
 th	ลูกเดตเดนนิส ร็อดแมนเหรอ | พระเจ้าช่วย | 

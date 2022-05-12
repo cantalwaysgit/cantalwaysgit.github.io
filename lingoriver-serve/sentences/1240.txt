@@ -14,8 +14,8 @@ ko	이제 막 성장하고 있는 너와 |
 nl	Maar op dit moment in je carrière... 
 no	men dette punktet i karrieren din, 
 pl	Twoja kariera bardzo się rozwinęła, 
-pr-br	mas a esta altura da sua carreira, 
-pr	Mas tendo em conta a fase em que estás da tua carreira 
+pt-br	mas a esta altura da sua carreira, 
+pt	Mas tendo em conta a fase em que estás da tua carreira 
 ro	dar cariera ta, în momentul de față, 
 th	แต่ตำแหน่งที่คุณยืนอยู่ตอนนี้ | ในอาชีพของคุณ | 
 tr	Ama kariyerinde ulaştığın seviye 

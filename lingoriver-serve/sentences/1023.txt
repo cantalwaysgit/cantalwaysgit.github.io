@@ -8,8 +8,8 @@ fi	Haluatko tavata Quinceliuksen?
 fr	Quincy ? Tu veux voir Quincelius ? 
 it	- Quincy? Vuoi conoscere Quincelius? - Sì. 
 ko	- 퀸셀리어스를 보고 싶어? | - 네 | 
-pr-br	-Quincy? Quer ver Quincelius? -Sim. 
-pr	- O Quincy? Queres ver o Quincelius? - Sim. 
+pt-br	-Quincy? Quer ver Quincelius? -Sim. 
+pt	- O Quincy? Queres ver o Quincelius? - Sim. 
 sv	-Quincy? Du vill träffa Quincelius? -Ja. 
 vi	- Quincy? Cô muốn gặp Quincelius? | - Vâng. | 
 zh-long	-昆西？妳想見小昆西？ -對 

@@ -15,8 +15,8 @@ ko	샌디! 찾았군요! |
 nl	Ze hebben je gevonden. 
 no	Sandy! De fant deg! 
 pl	Sandy! Znaleźli cię! 
-pr-br	Sandy! Eles acharam você! 
-pr	Sandy! Eles encontraram-te! 
+pt-br	Sandy! Eles acharam você! 
+pt	Sandy! Eles encontraram-te! 
 ro	Sandy! Te-au găsit! 
 sv	De hittade dig! 
 th	แซนดี้ พวกเขาตามคุณมาแล้ว | 

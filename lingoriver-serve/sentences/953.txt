@@ -10,8 +10,8 @@ it	No, l'indirizzo è di Bel Air.
 ko	아뇨, 주소가 벨에어던데요 | 
 nl	Nee, het is een adres in Bel Air. 
 pl	Dostałam adres w Bel Air. 
-pr-br	Não, o endereço é em Bel Air. 
-pr	Não, a morada é em Bel Air. 
+pt-br	Não, o endereço é em Bel Air. 
+pt	Não, a morada é em Bel Air. 
 ro	Nu, adresa e în Bel Air. 
 ru	Нет, адрес в Бель-Эйр. 
 sv	Nej, adressen är i Bel Air. 

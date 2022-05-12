@@ -11,8 +11,8 @@ id	Sandy!
 it	Sandy! 
 no	Sandy! 
 pl	Sandy! 
-pr-br	Sandy! 
-pr	Sandy! 
+pt-br	Sandy! 
+pt	Sandy! 
 ro	Sandy! 
 ru	Сэнди! 
 sv	Sandy! 

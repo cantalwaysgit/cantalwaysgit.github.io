@@ -13,8 +13,8 @@ he	&rlm;‏מה?‏ |
 id	Apa? 
 it	Che c'è? 
 no	Hva? 
-pr-br	O quê? 
-pr	O que foi? 
+pt-br	O quê? 
+pt	O que foi? 
 ro	Ce e? 
 ru	Что? 
 sv	Vadå? 

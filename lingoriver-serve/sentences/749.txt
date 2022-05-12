@@ -10,8 +10,8 @@ fi	En nojaa.
 he	&rlm;‏לא, אני לא.‏ | 
 it	Non è vero. 
 no	Det gjør jeg ikke. 
-pr-br	Não estou. 
-pr	Não estou nada. 
+pt-br	Não estou. 
+pt	Não estou nada. 
 ro	Ba nu. 
 sv	Nej, det gör jag inte. 
 tr	Hiç de bile. 

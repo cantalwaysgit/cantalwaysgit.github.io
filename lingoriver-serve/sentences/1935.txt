@@ -11,8 +11,8 @@ it	Fantastico. Roba notevole.
 nl	Geweldig. Goed materiaal. 
 no	Flott. Fine greier. 
 pl	Super piosenki. 
-pr-br	Incrível. Muito inteligente. 
-pr	Muito bem. Coisas muito inteligentes. 
+pt-br	Incrível. Muito inteligente. 
+pt	Muito bem. Coisas muito inteligentes. 
 ro	Minunat! Chestii deștepte. 
 sv	Bra. Smarta grejer. 
 th	เยี่ยมมาก หลักแหลม | 

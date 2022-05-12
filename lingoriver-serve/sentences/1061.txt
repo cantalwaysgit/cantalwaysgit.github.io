@@ -11,8 +11,8 @@ it	- Sinceramente? - Come no.
 nl	Eerlijk? -Wat anders? 
 no	-Helt ærlig? -Hva ellers? 
 pl	- Szczerze? - No pewnie. 
-pr-br	-Sinceramente? -Fale, cara. 
-pr	- Sinceramente? - O que havia de ser? 
+pt-br	-Sinceramente? -Fale, cara. 
+pt	- Sinceramente? - O que havia de ser? 
 ro	- Sincer? - Ce mai e acum? 
 sv	-Ärligt talat? -Vad annars? 
 th	- เอาจริงๆ หรือครับ | - ก็ใช่นะสิ เพื่อน | 

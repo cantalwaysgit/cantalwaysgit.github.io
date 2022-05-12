@@ -8,8 +8,8 @@ fi	-Mitä? -Hänkö?
 fr	- Quoi ? - Elle ? 
 he	&rlm;‏‏מה? | &rlm;‏-היא?‏ | 
 it	- Cosa? - Lei? 
-pr-br	-Quê? -Ela? 
-pr	- O quê? - Ela? 
+pt-br	-Quê? -Ela? 
+pt	- O quê? - Ela? 
 ro	- Poftim? - Ea? 
 sv	-Vadå? -Hon? 
 tr	-Ne? -O mu? 
@@ -39,8 +39,8 @@ fr	J'adore ce que tu fais. Arsenio.
 he	&rlm;‏אני מעריץ גדול. אני ארסיניו.‏ | 
 it	Sono un tuo grande fan. Sono Arsenio. 
 nl	Ik ben een fan. Ik ben Arsenio. 
-pr-br	Sou um grande fã. Meu nome é Arsenio. 
-pr	Sou um grande fã. Chamo-me Arsenio. 
+pt-br	Sou um grande fã. Meu nome é Arsenio. 
+pt	Sou um grande fã. Chamo-me Arsenio. 
 ro	Sunt un mare admirator. Sunt Arsenio. 
 th	ผมเป็นแฟนตัวยงของคุณ | ผมอาเซนนิโอ | 
 tr	Hayranınım. Adım Arsenio. 
@@ -64,8 +64,8 @@ it	Ti conosco, Arsenio. Courtney.
 ko	당연히 누구신지 알죠  | 전 코트니예요 | 
 nl	Ik weet het, Arsenio. Courtney. 
 pl	Cześć, jestem Courtney. 
-pr-br	Eu sei, Arsenio. Courtney. 
-pr	Eu sei, Arsenio. Courtney. 
+pt-br	Eu sei, Arsenio. Courtney. 
+pt	Eu sei, Arsenio. Courtney. 
 ro	Știu, Arsenio. Courtney. 
 sv	Jag vet, Arsenio. Courtney. 
 th	ฉันรู้ อาเซนนิโอ คอร์ทนี่ย์ค่ะ | 

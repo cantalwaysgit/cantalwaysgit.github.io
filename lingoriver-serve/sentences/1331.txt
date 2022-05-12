@@ -15,8 +15,8 @@ ko	여자는 남자의 손길을 | 갈망하게 마련이죠 |
 nl	En een vrouw verlangt naar de aanraking van een man. 
 no	Og en kvinne lengter etter en manns berøring. 
 pl	Kobiecie brakuje dotyku mężczyzny. 
-pr-br	E uma mulher deseja um toque masculino. 
-pr	E uma mulher anseia pelo toque de um homem. 
+pt-br	E uma mulher deseja um toque masculino. 
+pt	E uma mulher anseia pelo toque de um homem. 
 ro	Iar femeia tânjește după atingerea bărbatului. 
 sv	Och en kvinna längtar efter en mans beröring. 
 th	และผู้หญิงก็กระหายให้ผู้ชายจับต้อง | 

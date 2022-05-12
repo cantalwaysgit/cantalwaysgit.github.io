@@ -13,8 +13,8 @@ it	Devi idratarti, Yoshi! Oggi fa caldo!
 nl	Zorg dat je genoeg drinkt, Yoshi. Het is heet. 
 no	Husk å få i deg væske, Yoshi! Det er varmt i dag! 
 pl	Pij dużo wody, Yoshi. Upał dzisiaj! 
-pr-br	Beba água, Yoshi! Está um calorão. 
-pr	Hidrata-te bem, Yoshi! Está uma brasa. 
+pt-br	Beba água, Yoshi! Está um calorão. 
+pt	Hidrata-te bem, Yoshi! Está uma brasa. 
 ro	Să nu uiți să te hidratezi, Yoshi! E foarte cald azi! 
 ru	Пей больше воды, Йоси. Сегодня жарко. 
 sv	Se till att dricka vatten, Yoshi! Det är varmt idag. 

@@ -12,8 +12,8 @@ ko	여자한테 맞는 강렬한 곡이네요 |
 nl	Het is goed voor vrouwen. Heel sterk. 
 no	Bra for kvinner, så sterkt. 
 pl	Piosenka o silnej kobiecie. 
-pr-br	É bom para as mulheres, bem forte. 
-pr	É tão bom para as mulheres. É tão forte. 
+pt-br	É bom para as mulheres, bem forte. 
+pt	É tão bom para as mulheres. É tão forte. 
 ro	Ce bun e pentru femei! E atât de puternic! 
 sv	Så bra för kvinnor, så starkt. 
 th	มันดีสำหรับผู้หญิง เข้มดี | 

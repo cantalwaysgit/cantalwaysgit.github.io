@@ -8,8 +8,8 @@ fr	On va fêter ça ?
 it	Volete andare a festeggiare? 
 ko	축하하러 갈까요? | 
 nl	Willen jullie het gaan vieren? 
-pr-br	Vocês querem comemorar? 
-pr	Querem ir comemorar? 
+pt-br	Vocês querem comemorar? 
+pt	Querem ir comemorar? 
 ro	Vreți să ieșim să sărbătorim? 
 sv	Vill ni gå ut och fira? 
 vi	Hai người muốn đi liên hoan không? | 
@@ -37,8 +37,8 @@ it	Io non posso uscire.
 ko	난 못 나가잖아요 | 
 nl	Ik kan nergens heen. 
 pl	Ja nie mogę. 
-pr-br	Não posso sair daqui. 
-pr	Não posso sair daqui. 
+pt-br	Não posso sair daqui. 
+pt	Não posso sair daqui. 
 ro	Nu pot pleca nicăieri. 
 sv	Jag kan inte gå ut. 
 th	ผมไปไหนไม่ได้ | 

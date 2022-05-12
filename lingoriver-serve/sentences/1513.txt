@@ -12,8 +12,8 @@ he	&rlm;‏תודה, לינדה! תודה!‏ |
 it	Grazie, Linda! 
 no	Takk, Linda! 
 pl	Dziękuję, Lindo! Dziękuję! 
-pr-br	Obrigado, Linda! Obrigadão! 
-pr	Obrigado, Linda! 
+pt-br	Obrigado, Linda! Obrigadão! 
+pt	Obrigado, Linda! 
 ro	Mulțumesc, Linda! 
 sv	Tack ska du ha. 
 th	ขอบคุณ ลินดา ขอบคุณ | 

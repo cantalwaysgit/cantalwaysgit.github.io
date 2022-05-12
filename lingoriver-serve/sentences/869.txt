@@ -12,8 +12,8 @@ it	Ciao.
 ko	안녕히 가세요 | 
 no	Ha det. 
 pl	Pa, pa. 
-pr	Adeus. 
-pr-br	Tchauzinho. 
+pt	Adeus. 
+pt-br	Tchauzinho. 
 ro	Pa! 
 sv	Hej då. 
 th	ลาก่อน | 

@@ -10,8 +10,8 @@ he	&rlm;‏היינו מתקשרים אליו באמצע הלילה.‏ |
 it	E lo chiamavamo durante la notte. 
 no	Vi pleide å ringe ham midt på natten. 
 pl	Dzwoniliśmy do niego nocami. 
-pr-br	Nós ligávamos para ele de madrugada. 
-pr	Costumávamos ligar-lhe a meio da noite. 
+pt-br	Nós ligávamos para ele de madrugada. 
+pt	Costumávamos ligar-lhe a meio da noite. 
 ro	Îl sunam la miezul nopții. 
 sv	Vi brukade ringa honom mitt i natten. 
 th	เราเคยโทรไปหาเขากลางดึก | 

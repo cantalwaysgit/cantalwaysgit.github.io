@@ -14,8 +14,8 @@ ko	허벅지랑 엉덩이 운동이 돼 |
 nl	Je krijgt er strakke dijen en billen van. 
 no	Den strammer opp lår og rumpe. 
 pl	Ćwiczysz nim uda i pośladki. 
-pr-br	É para coxas e glúteos firmes. 
-pr	É para ter coxas e nádegas firmes. 
+pt-br	É para coxas e glúteos firmes. 
+pt	É para ter coxas e nádegas firmes. 
 ro	E pentru coapse ferme și fund bățos. 
 sv	Den är för fasta lår och skinkor. 
 th	มันกระชับต้นขาและก้น | 

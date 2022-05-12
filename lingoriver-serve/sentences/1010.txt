@@ -13,8 +13,8 @@ it	Non sei in attesa, ti avevo detto:
 ko	아니, 보류 중이 아니야 | 내가 그랬잖아 | 
 nl	Nee, jij stond niet in de wacht. Ik zei: 
 pl	Nie powiedziałem, że dadzą. 
-pr-br	Não, você não estava na espera. O que eu disse foi: 
-pr	Não estavas à espera. O que eu disse foi: 
+pt-br	Não, você não estava na espera. O que eu disse foi: 
+pt	Não estavas à espera. O que eu disse foi: 
 ro	Nu se așteptau. Am zis: 
 sv	Nej, du förväntades inte göra den. Det jag sa var: 
 tr	Hayır, seni bekletmiyorlar. Dedim ki, 

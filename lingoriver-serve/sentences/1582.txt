@@ -14,8 +14,8 @@ fr	Profite. Peu importe où elle va.
 he	&rlm;‏תעשי חיים. אל תדאגי לאן הוא הולך.‏ | 
 it	Divertiti. Non importa dove va. 
 nl	Geeft niet waar hij heen gaat. 
-pr-br	Divirta-se. Não se preocupe para onde vai. 
-pr	Diverte-te. Não te preocupes para onde vai. 
+pt-br	Divirta-se. Não se preocupe para onde vai. 
+pt	Diverte-te. Não te preocupes para onde vai. 
 ro	Distrează-te. Nu te gândi unde ajunge. 
 th	สนุกกับมัน ไม่ต้องห่วงว่าลูกจะไปไหน | 
 tr	Keyfine bak. Nereye gittiği önemli değil. 

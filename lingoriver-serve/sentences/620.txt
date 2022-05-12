@@ -15,8 +15,8 @@ ko	이렇게 노래 잘하는 여자는 | 아마 처음 볼 거야 |
 nl	Zij is een van de beste zangeressen die je ooit hebt gezien. 
 no	Hun er en av de beste sangerne du noen gang får se, 
 pl	W życiu nie widziałeś lepszej wokalistki. 
-pr-br	Essa garota é uma das melhores cantoras  que já viu 
-pr	Esta rapariga é uma das melhores cantoras que verás 
+pt-br	Essa garota é uma das melhores cantoras  que já viu 
+pt	Esta rapariga é uma das melhores cantoras que verás 
 ro	Fata e una dintre cele mai bune cântărețe pe care le vei vedea 
 th	ผู้หญิงคนนี้คือนักร้องสุดยอดคนหนึ่ง | ที่คุณจะได้รู้จัก | 
 tr	Bu kız görüp göreceğin en iyi şarkıcılardan biri 
@@ -38,8 +38,8 @@ ko	최고에다가 훌륭한 사람이야 |
 nl	En het beste en vrolijkste mens ooit. 
 no	og verdens beste menneske. 
 pl	Jest też bardzo bystra. 
-pr-br	e a pessoa mais inteligente do mundo. 
-pr	e é extremamente inteligente. 
+pt-br	e a pessoa mais inteligente do mundo. 
+pt	e é extremamente inteligente. 
 ro	și cea mai deșteaptă. 
 th	และเป็นคนดีที่สุด น่ารักที่สุด | 
 tr	ve en iyi, en zeki kişi. 

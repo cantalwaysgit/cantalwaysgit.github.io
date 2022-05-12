@@ -11,8 +11,8 @@ id	Ya, terima kasih, Willy.
 it	Grazie, Willy. 
 ko	네, 고마워요, 윌리 | 
 pl	Dziękuję, Willy. 
-pr-br	Sim, obrigado, Willy. 
-pr	Sim, obrigado, Willy. 
+pt-br	Sim, obrigado, Willy. 
+pt	Sim, obrigado, Willy. 
 ro	Da, mulțumesc, Willy. 
 ru	Спасибо, Уилли. 
 sv	Tack, Willy. 

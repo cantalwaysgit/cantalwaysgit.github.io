@@ -11,8 +11,8 @@ he	&rlm;‏השמלה הזו עלייך... אני אוהב אותה.‏ |
 it	Questo vestito ti sta splendidamente. 
 nl	Die jurk staat je geweldig. 
 no	Jeg elsker den kjolen. 
-pr	Adoro esse vestido. 
-pr-br	Amei esse vestido em você. 
+pt	Adoro esse vestido. 
+pt-br	Amei esse vestido em você. 
 ro	Rochia asta de pe tine e adorabilă! 
 sv	Din klänning, jag älskar den. 
 th	ผมชอบคุณใส่ชุดนี้จัง | 

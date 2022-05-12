@@ -12,8 +12,8 @@ it	Se posso passarti la salsa? Certo che posso.
 ko	그레이비 달라고?  | 물론 줘야지 | 
 no	Om jeg kan sende sausen? Ja visst kan jeg sende sausen. 
 pl	Czy mogę podać? Oczywiście. 
-pr-br	Se posso passar o molho? Claro que posso. 
-pr	Se posso passar o molho? Claro que posso passar o molho. 
+pt-br	Se posso passar o molho? Claro que posso. 
+pt	Se posso passar o molho? Claro que posso passar o molho. 
 ro	Pot să-ți dau sosul? Sigur că pot să-ți dau sosul. 
 ru	Передать тебе соус? Конечно, могу передать. 
 sv	Om jag kan skicka såsen? Absolut, visst kan jag göra det. 

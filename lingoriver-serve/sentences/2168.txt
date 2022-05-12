@@ -12,8 +12,8 @@ fr	Sandy, j'appelle au sujet de Beavis.
 he	&rlm;‏סנדי, אני מתקשר בקשר לביוויס.‏ | 
 it	Sandy, vorrei parlarti di Beavis. 
 nl	Ik bel over Beavis. 
-pr-br	Sandy, estou ligando para falar do Beavis. 
-pr	Sandy, estou a ligar por causa do Beavis. 
+pt-br	Sandy, estou ligando para falar do Beavis. 
+pt	Sandy, estou a ligar por causa do Beavis. 
 ro	Sandy, te sun în legătură cu Beavis. 
 sv	Jag ringer angående Beavis. 
 vi	Sandy, tôi gọi nói về Beavis. | 

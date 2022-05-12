@@ -9,8 +9,8 @@ he	&rlm;‏והשם שלך כתוב באורות‏ |
 it	Con il tuo nome sul cartellone illuminato 
 ko	조명 아래에서 스킨십하기 | 
 pl	A afisz z twym nazwiskiem lśni 
-pr-br	E imaginar a grana entrando 
-pr	E és cabeça de cartaz 
+pt-br	E imaginar a grana entrando 
+pt	E és cabeça de cartaz 
 ro	Iar totul se măsoară după lumini 
 th	และนั่นใบโฆษณาอยู่กลางแสงไฟ | 
 tr	Adın yazar neon ışıklarda 

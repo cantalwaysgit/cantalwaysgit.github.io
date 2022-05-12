@@ -9,8 +9,8 @@ he	&rlm;‏ההגדרה של, כאילו, עובדה היא‏ |
 it	La definizione di un dato di fatto sono i ragazzini 
 nl	De definitie van een gegeven is... 
 pl	W dzisiejszych czasach 
-pr-br	Por definição, a questão é 
-pr	Um dado adquirido 
+pt-br	Por definição, a questão é 
+pt	Um dado adquirido 
 ro	Iată un fapt de necontestat, 
 th	คำนิยามของเรื่องที่เป็นของตายอย่าง | 
 tr	Malumun ilamı şudur, 
@@ -33,8 +33,8 @@ he	&rlm;‏שילדים מתעוררים וחושבים, "אני כל כך חר�
 it	che si svegliano e pensano: "Come sono arrapato". 
 nl	...dat jongens wakker worden en denken: ik ben geil. 
 pl	dzieciaki budzą się z ochotą na seks. 
-pr-br	que os jovens acordam e pensam: "Estou com tesão." 
-pr	é quando os miúdos acordam e pensam: "Estou cheio de tusa." 
+pt-br	que os jovens acordam e pensam: "Estou com tesão." 
+pt	é quando os miúdos acordam e pensam: "Estou cheio de tusa." 
 ro	copiii se trezesc și se gândesc: "Ce excitat sunt!" 
 th	เด็กตื่นขึ้นมาแล้วคิดว่า | "เงี่ยนจังวุ้ย" | 
 vi	trẻ con thức dậy và nghĩ, | "Mình thật có hứng." | 

@@ -11,8 +11,8 @@ it	Come se Emmylou Harris fosse cresciuta in tour con Neil Young,
 nl	Het is Emmylou Harris als ze was opgegroeid in Neil Youngs tourbus... 
 no	Som om Emmylou Harris vokste opp i Neil Youngs turnébuss, 
 pl	Emmylou Harris wychowana na trasie z Neilem Youngiem 
-pr-br	É Emmylou Harris, se ela tivesse sido criada em turnê com o Neil Young, 
-pr	É a Emmylou Harris, se tivesse crescido na carrinha da digressão do Neil Young, 
+pt-br	É Emmylou Harris, se ela tivesse sido criada em turnê com o Neil Young, 
+pt	É a Emmylou Harris, se tivesse crescido na carrinha da digressão do Neil Young, 
 ro	E ca și cum Emmylou Harris ar fi crescut în dubița lui Neil Young, 
 sv	Det är Emmylou Harris om hon vuxit upp i Neil Youngs turnébuss 
 th	มันคือเอมมี่ลู แฮร์ริส ถ้าเธอโตมา | ในรถออกทัวร์ของนีล ยังก์ | 

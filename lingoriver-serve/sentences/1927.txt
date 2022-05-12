@@ -15,8 +15,8 @@ ko	이 노래 정말 좋아요 |
 nl	Prachtig nummer. 
 no	Jeg elsker den sangen. 
 pl	Uwielbiam tę piosenkę. 
-pr	Adoro esta canção. 
-pr-br	Amo essa música. 
+pt	Adoro esta canção. 
+pt-br	Amo essa música. 
 ro	Ador cântecul ăsta. 
 sv	Jag älskar den sången. 
 tr	Bu şarkıya bayılıyorum. 

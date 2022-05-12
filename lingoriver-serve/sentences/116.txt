@@ -15,8 +15,8 @@ ko	올라가서 관중에게 | 네가 누군지를 보여줘 |
 nl	Ga naar boven en laat zien wie je bent. 
 no	Kom deg opp dit og vis dem hvem du er. 
 pl	Pokaż im, kim naprawdę jesteś. 
-pr-br	Vá até lá e mostre quem você é. 
-pr	Sobe lá acima e mostra a esta gente quem tu és. 
+pt-br	Vá até lá e mostre quem você é. 
+pt	Sobe lá acima e mostra a esta gente quem tu és. 
 ro	Urcă-te acolo și arată-le ăstora cine ești. 
 sv	Upp med dig och visa dem vem du är. 
 th	นายขึ้นไปบนนั้น | แล้วแสดงให้เห็นว่าไผเป็นไผ | 

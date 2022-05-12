@@ -13,8 +13,8 @@ he	&rlm;‏‏זה בטח היה כואב במיוחד | &rlm;‏כי קורטנ
 it	Per Sandy dev'essere stato molto doloroso, perché Courtney era ovunque. 
 no	Det må ha vært spesielt vondt fordi Courtney Clarke var overalt. 
 pl	Musiało mu być ciężko, bo Courtney Clarke była wszędzie. 
-pr-br	Deve ter sido duro, pois Courtney Clarke estava por toda parte. 
-pr	Deve ter sido muito doloroso porque a Courtney estava em todo o lado. 
+pt-br	Deve ter sido duro, pois Courtney Clarke estava por toda parte. 
+pt	Deve ter sido muito doloroso porque a Courtney estava em todo o lado. 
 ro	A fost foarte dureros pentru Sandy, deoarece Courtney Clarke era peste tot. 
 sv	Det måste ha varit extra smärtsamt, för Courtney Clarke var överallt. 
 th	มันต้องเจ็บน่าดูเป็นพิเศษ | เพราะมีคอร์ทนี่ย์ คลาร์กอยู่ทุกที่ | 

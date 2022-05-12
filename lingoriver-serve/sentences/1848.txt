@@ -10,8 +10,8 @@ he	&rlm;‏סנדי, בבקשה.‏ |
 it	Sandy, ti prego. 
 ko	샌디, 왜 이래 | 
 pl	Coś ty. 
-pr-br	Sandy, por favor. 
-pr	Sandy, por favor. 
+pt-br	Sandy, por favor. 
+pt	Sandy, por favor. 
 ro	Sandy, te rog. 
 sv	Snälla, Sandy. 
 th	แซนดี้ ได้โปรด | 
@@ -37,8 +37,8 @@ it	Minimo garantito di 24 puntate a 50.000 dollari l'una,
 ko	최소 24회 출연에 | 회당 5만 달러 | 
 nl	Minstens 24 afleveringen, $50.000 per aflevering... 
 pl	Dwadzieścia cztery odcinki minimum, pięć dych za każdy. 
-pr-br	Mínimo 24 programas, US$ 50 mil por episódio, 
-pr	No mínimo, 24 programas, 50 mil dólares por episódio, 
+pt-br	Mínimo 24 programas, US$ 50 mil por episódio, 
+pt	No mínimo, 24 programas, 50 mil dólares por episódio, 
 ro	Minimum 24 de episoade per sezon, 50.000 pe episod, 
 sv	Tjugofyra shower, minst, 50 000 per avsnitt, 
 th	อย่างน้อย 24 ตอน | ตอนละห้าหมื่นเหรียญ | 

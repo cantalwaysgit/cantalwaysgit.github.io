@@ -12,8 +12,8 @@ fr	Merci.
 he	&rlm;‏תודה.‏ | 
 it	Grazie. 
 no	Takk. 
-pr-br	Obrigado. 
-pr	Obrigado. 
+pt-br	Obrigado. 
+pt	Obrigado. 
 ro	Mersi. 
 sv	Tack. 
 tr	Teşekkür ederim. 

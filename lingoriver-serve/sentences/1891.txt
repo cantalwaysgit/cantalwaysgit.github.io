@@ -15,8 +15,8 @@ es	Sí.
 he	&rlm;‏כן.‏ | 
 it	Sì. 
 no	Ja. 
-pr-br	Sim. 
-pr	Sim. 
+pt-br	Sim. 
+pt	Sim. 
 ro	Da. 
 sv	Ja. 
 vi	Vâng. | 

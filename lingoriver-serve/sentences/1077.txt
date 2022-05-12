@@ -13,8 +13,8 @@ he	&rlm;‏‏ראית את האופן שהוא... | &rlm;‏-את שכנעת א
 it	- Hai visto come... - Sei stata tu! 
 nl	Zag je hoe... -Dat liet jij me doen. 
 pl	- Widziałeś... - To ty mi kazałaś! 
-pr-br	-Você viu como... -Você me obrigou! Você! 
-pr	- Viste como... - Tu é que me obrigaste! 
+pt-br	-Você viu como... -Você me obrigou! Você! 
+pt	- Viste como... - Tu é que me obrigaste! 
 ro	- Ai văzut cum a... - Tu m-ai pus! Tu! 
 sv	-Såg du hur... -Du fick mig att göra det! 
 th	- คุณเห็นที่เขา... | - คุณบังคับผม คุณเนี่ย! | 
@@ -36,8 +36,8 @@ fr	T'es contente ?
 he	&rlm;‏‏איך אנחנו? | &rlm;‏-את מרוצה?‏ | 
 it	- Come facciamo... - Sei contenta? 
 pl	Zadowolona jesteś? 
-pr-br	-Como vamos... -Está satisfeita? 
-pr	- Como... - Estás contente? 
+pt-br	-Como vamos... -Está satisfeita? 
+pt	- Como... - Estás contente? 
 ro	- Cum o să... - Ești mulțumită? 
 th	- เราทำ... | - แฮปปีไหมล่ะ | 
 tr	-Nasıl... -Mutlu oldun mu? 

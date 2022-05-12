@@ -9,8 +9,8 @@ he	&rlm;‏סנדי?‏ |
 id	Sandy? 
 it	Sandy? 
 ko	샌디? | 
-pr-br	Sandy? 
-pr	Sandy? 
+pt-br	Sandy? 
+pt	Sandy? 
 ro	Sandy? 
 sv	Sandy? 
 tr	Sandy? 
@@ -36,8 +36,8 @@ it	Un modo? Che modo?
 ko	방법? 무슨 방법? | 
 nl	Een manier? Welke manier? 
 pl	Co za sposób? 
-pr-br	Um jeito? Que jeito? 
-pr	Uma forma? Qual forma? 
+pt-br	Um jeito? Que jeito? 
+pt	Uma forma? Qual forma? 
 ro	O cale? Ce cale? 
 sv	Ett sätt? Vilket sätt? 
 th	วิธี วิธีอะไร | 

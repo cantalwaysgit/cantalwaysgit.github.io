@@ -10,8 +10,8 @@ it	Amanti in una calda sera d'estate
 ko	뜨거운 여름밤, 연인들 | 
 nl	geliefden op een warme zomeravond 
 pl	Kochankowie w gorącą letnią noc 
-pr	Amantes numa noite quente 
-pr-br	Noites quentes de verão, amantes 
+pt	Amantes numa noite quente 
+pt-br	Noites quentes de verão, amantes 
 ro	Iubiți în nopți fierbinți de vară 
 sv	Heta sommarnätter, älskare 
 th	คืนร้อนกลางฤดูร้อน คู่รัก | 

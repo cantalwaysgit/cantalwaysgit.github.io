@@ -11,8 +11,8 @@ it	È morto?
 ko	죽었나요? | 
 nl	Ging hij dood? 
 pl	Umarł? 
-pr-br	Ele morreu? 
-pr	Ele morreu? 
+pt-br	Ele morreu? 
+pt	Ele morreu? 
 ro	A murit? 
 sv	Dog han? 
 th	เขาตายเหรอคะ | 
@@ -34,8 +34,8 @@ es	No.
 fi	Ei. 
 he	&rlm;‏לא.‏ | 
 pl	Nie. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu. 
 sv	Nej. 
 th	เปล่า ไม่เลย | 

@@ -13,8 +13,8 @@ fr	Tu le sais très bien.
 he	&rlm;‏אתה יודע מי זה.‏ | 
 it	Lo sai chi sono. 
 pl	Dobrze wiesz. 
-pr-br	Você sabe quem é. 
-pr	Sabes bem quem fala. 
+pt-br	Você sabe quem é. 
+pt	Sabes bem quem fala. 
 ro	Știi cine sunt. 
 th	ก็รู้ว่าใคร | 
 vi	Anh biết là ai mà. | 
@@ -36,8 +36,8 @@ it	Non lo so. Infatti l'ho chiesto.
 nl	Nee. Daarom vraag ik het. 
 no	Nei, det er derfor jeg spør. 
 pl	Nie. Dlatego pytam. 
-pr-br	Não sei, por isso estou perguntando. 
-pr	Não sei. Por isso estou a perguntar. 
+pt-br	Não sei, por isso estou perguntando. 
+pt	Não sei. Por isso estou a perguntar. 
 ro	Ba nu. De asta întreb. 
 th	ไม่ ไม่รู้ เพราะงั้นถึงได้ถาม | 
 tr	Hayır, bilmiyorum. O yüzden soruyorum. 

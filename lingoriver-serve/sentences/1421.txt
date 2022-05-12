@@ -12,8 +12,8 @@ ko	머리 때문에 안 돼요 |
 nl	Niet op dit haar. 
 no	Ikke på dette håret. 
 pl	Nie w tej fryzurze. 
-pr-br	Não com esse cabelo. 
-pr	Não com este cabelo. 
+pt-br	Não com esse cabelo. 
+pt	Não com este cabelo. 
 ro	Nu cu coafura asta. 
 sv	Inte på det här håret. 
 th	ไม่ใช่บนผมทรงนี้ | 

@@ -13,8 +13,8 @@ he	&rlm;‏אתה הולך? אז אני אלווה אותך.‏ |
 it	Te ne vai? Ti accompagno alla porta. 
 no	Gjør du? Jeg følger deg ut. 
 pl	Tak? W takim razie cię odprowadzę. 
-pr-br	Vai nessa? Então vou acompanhá-lo. 
-pr	Já chega? Eu acompanho-te. 
+pt-br	Vai nessa? Então vou acompanhá-lo. 
+pt	Já chega? Eu acompanho-te. 
 ro	Te retragi? Atunci, te conduc. 
 sv	Ska du dra? Jag följer dig ut. 
 th	ขอเลิกแล้วเหรอ | งั้นผมจะออกไปส่งคุณ | 

@@ -8,8 +8,8 @@ he	&rlm;‏כמו מה?‏ |
 it	Per esempio? 
 ko	어떤 희생요? | 
 nl	Zoals wat? 
-pr-br	Como o quê? 
-pr	O quê? 
+pt-br	Como o quê? 
+pt	O quê? 
 sv	Som vadå? 
 zh-long	比如說？ 
 zh-short	怎么说？ 

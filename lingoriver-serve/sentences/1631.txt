@@ -12,8 +12,8 @@ ko	말도 안 돼 | 내가 이기는 건데 |
 nl	Wat een onzin. Ik hoor te winnen. 
 no	Pisspreik. Jeg skal jo vinne. 
 pl	Pieprzenie. Ja powinienem wygrać. 
-pr-br	Isso é bobagem. Eu tenho que ganhar. 
-pr	Que treta. Eu devia vencer. 
+pt-br	Isso é bobagem. Eu tenho que ganhar. 
+pt	Que treta. Eu devia vencer. 
 ro	Ce porcărie! Eu trebuie să câștig. 
 sv	Det är skitsnack. Jag ska vinna. 
 th	บ้าไปแล้ว เกมนี้ฉันต้องชนะสิ | 

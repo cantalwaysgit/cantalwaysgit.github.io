@@ -11,8 +11,8 @@ id	Ayah.
 it	Papà. 
 ko	아빠 | 
 pl	Tato. 
-pr-br	Pai. 
-pr	Pai. 
+pt-br	Pai. 
+pt	Pai. 
 ro	Tată! 
 sv	Pappa. 
 tr	Baba. 

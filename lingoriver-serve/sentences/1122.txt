@@ -10,8 +10,8 @@ fi	En.
 he	&rlm;‏לא.‏ | 
 no	Nei. 
 pl	Nie. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu. 
 sv	Nej då. 
 th	ไม่ๆ | 

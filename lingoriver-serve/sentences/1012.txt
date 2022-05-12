@@ -11,8 +11,8 @@ it	Ma poi mi hanno risposto che non ti avevano scelto.
 nl	Maar toen ik ze sprak, zeiden ze dat ze je niet namen. 
 no	Men da de svarte, takket de nei. 
 pl	A kiedy już odpowiedzieli, odmówili. 
-pr-br	Mas, quando atenderam, disseram que tinham passado para outra. 
-pr	Mas quando atenderam, disseram que te tinham recusado. 
+pt-br	Mas, quando atenderam, disseram que tinham passado para outra. 
+pt	Mas quando atenderam, disseram que te tinham recusado. 
 ro	Dar, când au răspuns, au zis că te-au refuzat. 
 sv	Men när de äntligen svarade, sa de att de tackade nej. 
 th	แต่พอมาพูด พวกเขาบอกว่าขอผ่าน | 

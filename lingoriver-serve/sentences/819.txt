@@ -10,8 +10,8 @@ it	Per favore, no!
 ko	제발 하지 마! | 
 no	Vær så snill, ikke... 
 pl	Proszę. 
-pr-br	Por favor, não... 
-pr	Não, por favor! 
+pt-br	Por favor, não... 
+pt	Não, por favor! 
 ro	Te rog nu... Nu! 
 sv	Snälla... Nej! 
 th	ขอร้องละ อย่า! | 

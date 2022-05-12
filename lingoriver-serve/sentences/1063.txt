@@ -9,8 +9,8 @@ he	&rlm;‏לטעמי.‏ |
 it	Per il mio gusto. 
 ko	제 입맛에는요 | 
 nl	Naar mijn smaak. 
-pr-br	Para o meu gosto. 
-pr	Para o meu gosto. 
+pt-br	Para o meu gosto. 
+pt	Para o meu gosto. 
 sv	För min smak. 
 vi	Tôi thấy vậy. | 
 zh-long	我覺得啦 

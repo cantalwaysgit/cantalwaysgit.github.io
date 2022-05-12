@@ -14,8 +14,8 @@ it	Era il re della falsa risata con applauso annesso.
 ko	하지만 거짓 웃음과 | 갈채 콤보의 제왕이었죠 | 
 no	Men han var kongen av falsk-latter-og-applaus-komboen. 
 pl	Był królem udawanego śmiechu i klaskania. 
-pr-br	Mas ele era o rei da risada e dos aplausos forçados. 
-pr	Mas ele era o rei da combinação do riso fingido com o aplauso. 
+pt-br	Mas ele era o rei da risada e dos aplausos forçados. 
+pt	Mas ele era o rei da combinação do riso fingido com o aplauso. 
 ro	Dar era regele râsului fals și al aplauzelor. 
 sv	Men han var expert på mixen med det fejkade skrattet och applåden. 
 th	เขาคือราชาแห่งเสียงหัวเราะจอมปลอม | และการตบมือเป็นชุด | 

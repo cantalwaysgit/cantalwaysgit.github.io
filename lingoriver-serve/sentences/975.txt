@@ -14,8 +14,8 @@ it	Mi ha chiamato Johnny Carson.
 nl	Johnny Carson belde me vandaag. 
 no	Johnny Carson ringte meg i dag. 
 pl	Dzwonił dziś do mnie Johnny Carson. 
-pr-br	Recebi uma ligação de Johnny Carson hoje. 
-pr	Hoje recebi um telefonema do Johnny Carson. 
+pt-br	Recebi uma ligação de Johnny Carson hoje. 
+pt	Hoje recebi um telefonema do Johnny Carson. 
 ro	M-a sunat Johnny Carson azi. 
 th	วันนี้ผมได้รับโทรศัพท์ | จากจอห์นนี่ คาร์สัน | 
 tr	Bugün Johnny Carson aradı. 

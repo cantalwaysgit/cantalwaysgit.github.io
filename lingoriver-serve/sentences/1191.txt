@@ -6,8 +6,8 @@ es	¿Tu reina?
 fi	Kuningattaresi? 
 it	Tua regina? 
 nl	Je koningin? 
-pr-br	Sua rainha? 
-pr	Tua rainha? 
+pt-br	Sua rainha? 
+pt	Tua rainha? 
 sv	Din drottning? 
 vi	Nữ hoàng của anh? | 
 zh-long	你的皇后？ 

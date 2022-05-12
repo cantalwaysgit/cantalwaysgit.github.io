@@ -11,8 +11,8 @@ it	Sandy Wexler? Nascondete il pastrami.
 nl	Sandy Wexler? Verstop de pastrami. 
 no	Sandy Wexler? Noen må gjemme pastramien. 
 pl	Sandy Wexler? Chowajcie pastrami. 
-pr-br	Sandy Wexler? Alguém esconda o pastrami. 
-pr	Sandy Wexler? Escondam o  pastrami. 
+pt-br	Sandy Wexler? Alguém esconda o pastrami. 
+pt	Sandy Wexler? Escondam o  pastrami. 
 ro	Sandy Wexler? Să ascundă cineva pastrama! 
 sv	Sandy Wexler? Bäst att gömma pastramin. 
 th	แซนดี้ เวกซ์เลอร์ | ใครเอาพาสตรามี่ไปซ่อนที | 

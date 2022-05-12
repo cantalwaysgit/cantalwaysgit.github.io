@@ -10,8 +10,8 @@ he	&rlm;‏לעמוד על הבמה בערבי בכורה‏ |
 it	Salire sul palco il giorno della prima 
 ko	개봉일에 돋보이기 | 
 pl	Na premierach kłaniasz się 
-pr-br	Apresentar-se em lançamentos 
-pr	Estar lá à frente nas noites de estreia 
+pt-br	Apresentar-se em lançamentos 
+pt	Estar lá à frente nas noites de estreia 
 ro	Să te remarci cu ocazia premierelor 
 ru	Стоять на сцене в вечер премьеры 
 sv	Att stå längst fram på premiären 

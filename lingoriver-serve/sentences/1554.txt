@@ -15,8 +15,8 @@ it	- Che vuoi dire? - Lo vedrai.
 ko	- 무슨 뜻이에요? | - 보면 알아 | 
 nl	Wat bedoel je? -Dat zul je wel zien. 
 no	-Hva mener du? -Vent og se. 
-pr-br	-Como assim? -Você vai ver. 
-pr	- Como assim? - Já vais ver. 
+pt-br	-Como assim? -Você vai ver. 
+pt	- Como assim? - Já vais ver. 
 ro	- Ce mai e și asta? - O să vezi. 
 sv	-Vad betyder det? -Du ska få se. 
 th	- หมายความว่ายังไง | - เดี๋ยวก็รู้ | 

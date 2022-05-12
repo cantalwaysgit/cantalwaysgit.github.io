@@ -15,8 +15,8 @@ ko	코트니, 서브우퍼에 | 문제가 있었어 |
 nl	Er was een probleem met de subwoofer. 
 no	Courtney, det var et problem med subwooferen. 
 pl	Mieliśmy problemy techniczne z subwooferem. 
-pr-br	Courtney, tivemos um probleminha com o  subwoofer. 
-pr	Courtney, houve um problema com o  subwoofer. 
+pt-br	Courtney, tivemos um probleminha com o  subwoofer. 
+pt	Courtney, houve um problema com o  subwoofer. 
 ro	Courtney, a fost o problemă cu subwooferul. 
 sv	Courtney, vi hade lite strul med micken. 
 th	คอร์ทนี่ย์ มีปัญหากับลำโพงเสียงทุ้ม | 

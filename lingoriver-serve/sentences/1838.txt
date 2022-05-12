@@ -10,8 +10,8 @@ he	&rlm;‏‏מה? | &rlm;‏-אתה חושב שאני אידיוט גמור?�
 it	- Perché? - Credi che sia un completo idiota? 
 ko	- 왜? | - 제가 바본 줄 아세요? | 
 pl	- Co? - Masz mnie za durnia? 
-pr-br	-Quê? -Acha que sou um idiota? 
-pr	- O que foi? - Achas que sou idiota? 
+pt-br	-Quê? -Acha que sou um idiota? 
+pt	- O que foi? - Achas que sou idiota? 
 ro	- De ce? - Mă crezi dus cu pluta? 
 sv	-Vadå? -Tror du att jag är en idiot? 
 th	- อะไรนะ | - คิดว่าผมเซ่อซ่างี่เง่าเหรอ | 

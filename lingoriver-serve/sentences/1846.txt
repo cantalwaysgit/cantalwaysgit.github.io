@@ -13,8 +13,8 @@ it	- Piano, amico! - Allora. Calmati.
 ko	- 좀 심했네 | - 알았어, 진정해 | 
 no	-Jøsses! -Ja vel. Ro deg ned. 
 pl	- Powoli. - Spokojnie. 
-pr-br	-Ei, cara! -Certo. Calminha aí. 
-pr	- Calma! - Pronto. Tenha calma. 
+pt-br	-Ei, cara! -Certo. Calminha aí. 
+pt	- Calma! - Pronto. Tenha calma. 
 ro	- Doamne! - Bine. Ușurel! 
 sv	-Hallå där. -Ta det lugnt. 
 th	- โว้ว เพื่อน | - เอาละ ใจเย็นๆ | 
@@ -38,8 +38,8 @@ it	Stai tranquillo. Facci una controproposta.
 ko	진정하고 제안을 해 봐 | 
 no	Ro deg ned. Gi oss et annet forslag. 
 pl	Słuchamy twojej propozycji. 
-pr-br	Calma. Faça uma contraproposta. 
-pr	Tem calma. Faz-nos uma contraproposta. 
+pt-br	Calma. Faça uma contraproposta. 
+pt	Tem calma. Faz-nos uma contraproposta. 
 ro	Ia-o mai ușor. Vino cu o contraofertă. 
 ru	Спокойно. Давай свое предложение. 
 sv	Ta det lugnt. Kom med ett motförslag. 

@@ -16,8 +16,8 @@ ko	찰리, 당신은 언제나 | 꼭두각시였나요? |
 nl	Charlie, ben je altijd een pop geweest? 
 no	Så Charlie, har du alltid vært en dukke? 
 pl	Charlie, zawsze byłeś lalką? 
-pr-br	Então, Charlie, você sempre foi marionete? 
-pr	Charlie, sempre foste um fantoche? 
+pt-br	Então, Charlie, você sempre foi marionete? 
+pt	Charlie, sempre foste um fantoche? 
 ro	Charlie, tu ai fost mereu păpușă? 
 sv	Du, Charlie, har du alltid varit docka? 
 th	นี่ชาร์ลี นายเป็นหุ่นมาตลอดใช่ไหม | 

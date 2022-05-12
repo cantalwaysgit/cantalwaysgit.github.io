@@ -15,8 +15,8 @@ ko	- 알았어요, 전 가볼게요 | - 그래 |
 nl	Ik ga. 
 no	-Ok, nå drar jeg. -Ja. 
 pl	Pójdę już. 
-pr-br	-Certo, vou nessa. -É. 
-pr	- Pronto, vou andando. - Sim. 
+pt-br	-Certo, vou nessa. -É. 
+pt	- Pronto, vou andando. - Sim. 
 ro	- Bine, plec. - Da. 
 sv	-Jag måste sticka. -Visst. 
 th	- โอเค ฉันจะไปละ | - ครับ | 

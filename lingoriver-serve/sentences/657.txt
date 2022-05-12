@@ -15,8 +15,8 @@ it	Scusa. È colpa nostra, non tua. Un'altra volta e basta.
 nl	Sorry. Onze schuld, niet de jouwe. Nog één keer. 
 no	Beklager. Vår feil, ikke din. Bare en gang til. 
 pl	Przepraszamy. To nasza wina. Zaśpiewaj jeszcze raz. 
-pr-br	Sinto muito. Foi culpa nossa, não sua. Só mais uma vez. 
-pr	Desculpa. A culpa foi nossa. Só mais uma vez. 
+pt-br	Sinto muito. Foi culpa nossa, não sua. Só mais uma vez. 
+pt	Desculpa. A culpa foi nossa. Só mais uma vez. 
 ro	Îmi pare rău. E vina noastră, nu a ta. Încă o dată! 
 sv	Jag är ledsen. Vårt fel, inte ditt. En gång till. 
 th	ขอโทษนะ เราผิดเอง ไม่ใช่คุณ | แค่อีกครั้งหนึ่งนะ | 

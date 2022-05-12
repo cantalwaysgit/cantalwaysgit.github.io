@@ -12,8 +12,8 @@ ko	- 뭔가 이상해 | - 어떤 식으로? |
 nl	Er is iets mis. -Wat? 
 no	-Noe er muffens. -Hvordan? 
 pl	- Coś jest nie tak. - Jak to? 
-pr-br	-Tem algo estranho. -Estranho como? 
-pr	- Há algo estranho. - Estranho, como? 
+pt-br	-Tem algo estranho. -Estranho como? 
+pt	- Há algo estranho. - Estranho, como? 
 ro	- E ceva ciudat. - Ciudat cum? 
 sv	-Nåt är fel. -Vadå fel? 
 th	- มีอะไรผิดปกติ | - ผิดยังไง | 

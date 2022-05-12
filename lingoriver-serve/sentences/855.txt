@@ -13,8 +13,8 @@ it	Sandy, non fai che mentire. È imbarazzante.
 nl	Je liegt constant. Het is gênant. 
 no	Du lyver hele tiden. Det er pinlig. 
 pl	Nie mogę już z tymi twoimi kłamstwami. 
-pr-br	Sandy, você só mente. É constrangedor. 
-pr	Sandy, estás sempre a mentir. É constrangedor. 
+pt-br	Sandy, você só mente. É constrangedor. 
+pt	Sandy, estás sempre a mentir. É constrangedor. 
 ro	Sandy, minți tot timpul. E jenant. 
 sv	Du ljuger hela tiden. Det är pinsamt. 
 th	แซนดี้ คุณโกหกตลอดเวลา มันน่าละอาย | 

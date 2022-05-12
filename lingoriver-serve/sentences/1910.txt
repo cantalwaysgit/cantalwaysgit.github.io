@@ -11,8 +11,8 @@ it	Quando mi hai trovato
 ko	당신이 날 찾았을 때 | 
 nl	toen je me vond 
 pl	Kiedy mnie znalazłeś 
-pr-br	Quando você me encontrou 
-pr	Quando me encontraste 
+pt-br	Quando você me encontrou 
+pt	Quando me encontraste 
 ro	Când m-ai găsit tu 
 sv	När du hittade mig 
 th	เมื่อคุณพบฉัน | 

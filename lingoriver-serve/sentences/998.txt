@@ -11,8 +11,8 @@ fr	Ça commence bien.
 he	&rlm;‏היא זוכה בקצת תשומת לב.‏ | 
 it	Sì, ha un discreto successo. 
 pl	Robi się popularna. 
-pr-br	Sim, ela está chamando atenção. 
-pr	Sim, está a ficar popular. 
+pt-br	Sim, ela está chamando atenção. 
+pt	Sim, está a ficar popular. 
 ro	Da, a făcut ceva agitație. 
 sv	Ja, hon har lite framgång. 
 th	ใช่แล้ว เธอเริ่มมีกระแสแล้ว | 
@@ -35,8 +35,8 @@ he	&rlm;‏‏כן, נראה. | &rlm;‏-תודה, בלינג.‏ |
 it	- Staremo a vedere. - Grazie, Bling. 
 no	-Vi får se. -Takk, Bling. 
 pl	- Zobaczymy. - Dziękuję, Bling. 
-pr-br	-Sim, veremos. -Obrigada, Bling. 
-pr	- Sim, vamos ver. - Obrigada, Bling. 
+pt-br	-Sim, veremos. -Obrigada, Bling. 
+pt	- Sim, vamos ver. - Obrigada, Bling. 
 ro	- Mai vedem. - Mersi, Bling. 
 sv	-Vi får se var det slutar. -Tack, Bling. 
 th	- ใช่ เราจะคอยดู | - ขอบคุณ บลิงก์ | 

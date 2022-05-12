@@ -14,8 +14,8 @@ it	Ehi, sono Beavis.
 ko	저 비비스예요 | 
 nl	Met Beavis. 
 no	Hei, det er Beavis. 
-pr-br	Oi, aqui é o Beavis. 
-pr	Fala o Beavis. 
+pt-br	Oi, aqui é o Beavis. 
+pt	Fala o Beavis. 
 ro	Salut! Sunt Beavis. 
 sv	Hej, det är Beavis. 
 th	เฮ่ นี่บีวิส | 

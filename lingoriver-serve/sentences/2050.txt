@@ -12,8 +12,8 @@ it	Mi avevi già convinto a "shalom".
 ko	‘샬롬’에서 넘어갔어요 | 
 nl	Ik was al om bij 'shalom'. 
 pl	Zgodziłam się już po „szalom”. 
-pr-br	Você me conquistou no  "shalom". 
-pr	Convenceste-me com o  "shalom". 
+pt-br	Você me conquistou no  "shalom". 
+pt	Convenceste-me com o  "shalom". 
 ro	M-ai cucerit cu "shalom". 
 ru	На «шаломе» я уже сдалась. 
 sv	Jag var din vid "shalom". 

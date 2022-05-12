@@ -12,8 +12,8 @@ ko	할아버지처럼 옷을 입고 |
 nl	Hij kleedde zich als je opa... 
 no	Han kledde seg som en bestefar, 
 pl	Ubierał się jak stary dziadek, 
-pr-br	Ele se vestia como o seu avô, 
-pr	Vestia-se como o vosso avô, 
+pt-br	Ele se vestia como o seu avô, 
+pt	Vestia-se como o vosso avô, 
 ro	Avea haine de bunic, 
 sv	Han klädde sig som ens farfar, 
 th	เขาแต่งตัวเหมือนคนรุ่นปู่ | 

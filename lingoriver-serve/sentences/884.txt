@@ -11,8 +11,8 @@ it	Mi correggi perché ha studiato all'Università di San Diego?
 ko	장난해? 그놈이 거기 다녔다고 | 내 말 정정하는 거야? | 
 nl	Echt? Je corrigeerde me omdat hij naar San Diego ging? 
 pl	Żartujesz? Poprawiasz mnie w kwestii uczelni? 
-pr-br	Está brincando? Me corrigiu porque ele estudou na San Diego State? 
-pr	Estás a brincar? Estás a corrigir-me porque estudou na San Diego? 
+pt-br	Está brincando? Me corrigiu porque ele estudou na San Diego State? 
+pt	Estás a brincar? Estás a corrigir-me porque estudou na San Diego? 
 ro	Glumești? M-ai corectat fiindcă a învățat la San Diego? 
 sv	Skojar du? Rättade du mig för att han gick på San Diego? 
 th	ล้อเล่นเปล่า ที่แก้ว่า | เขาเรียนที่ซานดิเอโกสเตตน่ะ | 

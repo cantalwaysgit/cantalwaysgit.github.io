@@ -15,8 +15,8 @@ it	Puoi tenere il cibo dentro la bocca?
 ko	입에 있는 음식을 | 다 드시고 말하면 안 되나요? | 
 no	Kan du putte maten i munnen? 
 pl	Zjesz to, co masz na twarzy? 
-pr-br	Pode engolir essa comida? 
-pr	Pode meter essa comida na boca? 
+pt-br	Pode engolir essa comida? 
+pt	Pode meter essa comida na boca? 
 ro	Vrei să bagi mâncarea aia în gură? 
 sv	Kan du stoppa lite av maten i munnen? 
 th	ช่วยเคี้ยวปิดปากได้ไหม | 

@@ -11,8 +11,8 @@ it	E ogni pupazzo avrà il suo camerino.
 nl	De poppen krijgen een eigen kleedkamer. 
 no	Dukkene får sine egne garderober. 
 pl	A lalki mają własne garderoby. 
-pr-br	Camarim exclusivo para as marionetes. 
-pr	E os fantoches têm camarins próprios. 
+pt-br	Camarim exclusivo para as marionetes. 
+pt	E os fantoches têm camarins próprios. 
 ro	Păpușile vor avea cabinele lor. 
 sv	Dockorna ska ha egna loger. 
 th	หุ่นต้องได้ห้องแต่งตัวของตัวเอง | 

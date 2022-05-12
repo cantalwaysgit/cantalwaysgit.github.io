@@ -17,8 +17,8 @@ he	&rlm;‏‏הפתיחה‏ כשלבך הולם כתוף‏ |
 it	La sera della prima Quando il cuore batte come un tamburo 
 ko	심장이 쿵쾅거릴 때의 오프닝 | 
 pl	Gdy jesteś na fali, serce wali ci młotem 
-pr	A abertura Quando o coração parece um tambor 
-pr-br	A abertura Quando seus corações batem como um tambor 
+pt	A abertura Quando o coração parece um tambor 
+pt-br	A abertura Quando seus corações batem como um tambor 
 ro	Deschiderea Când inima îți bate ca nebuna 
 tr	Açılışta Yüreğin küt küt atar 
 zh-long	讓你心如亂麻的開場 

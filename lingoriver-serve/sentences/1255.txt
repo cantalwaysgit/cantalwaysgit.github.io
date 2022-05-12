@@ -6,8 +6,8 @@ es-eu	No necesito un momento.
 es	No necesito un minuto. 
 fr	C'est tout réfléchi. 
 it	Non mi serve del tempo. 
-pr-br	Não preciso de tempo. 
-pr	Não preciso de um minuto. 
+pt-br	Não preciso de tempo. 
+pt	Não preciso de um minuto. 
 ro	N-am nevoie de o clipă. 
 sv	Jag behöver inte fundera. 
 vi	Tôi không cần một phút. | 

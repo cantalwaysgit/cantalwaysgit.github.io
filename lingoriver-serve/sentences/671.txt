@@ -14,8 +14,8 @@ ja	本当にありがとう | 聴いてみよう |
 nl	Echt hartstikke bedankt. Ik ga luisteren. 
 no	Takk, med hele mitt hjerte. Jeg skal høre på det. 
 pl	Z głębi serca dziękuję. Teraz sobie to odsłuchamy. 
-pr-br	Agradeço do fundo do coração. Vou ouvir agora. 
-pr	Obrigado do fundo do coração. Eu vou ouvir. 
+pt-br	Agradeço do fundo do coração. Vou ouvir agora. 
+pt	Obrigado do fundo do coração. Eu vou ouvir. 
 ro	Îți mulțumesc din suflet. Acum voi asculta. 
 th	ขอบคุณจากก้นบึ้งหัวใจ ผมจะฟังละนะ | 
 tr	Sana yürekten teşekkür ederim. Şimdi tekrar dinleyeceğim. 

@@ -11,8 +11,8 @@ id	Sandy! Bagaimana bisa?
 it	Sandy! Com'è possibile? 
 ko	샌디! 어떻게 한 거예요? | 
 pl	Sandy! Jak to się stało? 
-pr-br	Sandy! Como? 
-pr	Sandy! O que aconteceu? 
+pt-br	Sandy! Como? 
+pt	Sandy! O que aconteceu? 
 sv	Hur gjorde du? 
 vi	Sandy! Sao lại thế? | 
 zh-long	山迪！怎麼會這樣？ 

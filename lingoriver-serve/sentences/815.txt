@@ -14,8 +14,8 @@ ko	우린 수영장에 들어가면 안 돼 |
 nl	We mogen het zwembad niet in. Oké? 
 no	Vi har ikke lov til å bruke bassenget. Ok? 
 pl	Nie możemy wchodzić do basenu! 
-pr-br	Esperem! Não podemos entrar na piscina. 
-pr	Esperem! Não podemos entrar na piscina. Está bem? 
+pt-br	Esperem! Não podemos entrar na piscina. 
+pt	Esperem! Não podemos entrar na piscina. Está bem? 
 ro	N-avem voie să ne băgăm în piscină! Da? 
 sv	Vi har inte tillåtelse att vara i poolen. 
 th	เดี๋ยว เราไม่ได้รับอนุญาต | ให้ลงสระน้ำ ใช่ไหม | 
@@ -39,8 +39,8 @@ ko	- 퍼루즈가 금지했어 | - 너 사이비 신자는 아니지? |
 nl	Firuz verbiedt het. -Zit je bij een sekte? 
 no	-Firuz forbyr det. -Du er vel ikke med i en sekt? 
 pl	- Firuz zabrania. - To jakaś sekta? 
-pr-br	-Firuz proíbe. -Você não está em um culto, está? 
-pr	- O Firuz não permite. - Fazes parte de algum culto? 
+pt-br	-Firuz proíbe. -Você não está em um culto, está? 
+pt	- O Firuz não permite. - Fazes parte de algum culto? 
 ro	- Firuz ne interzice. - Nu ești în vreo sectă, nu? 
 sv	-Firuz förbjuder det. -Du är väl inte med i nån sekt? 
 th	- ไฟรูซสั่งห้าม | - นายไม่ใช่พวกลัทธิเพี้ยนๆ ใช่ไหม | 

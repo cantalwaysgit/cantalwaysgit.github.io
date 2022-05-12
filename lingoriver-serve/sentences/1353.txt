@@ -12,8 +12,8 @@ he	&rlm;‏זה רעיון לא רע.‏ |
 it	È un'idea. 
 nl	Dat is een idee. 
 pl	To akurat niezła myśl. 
-pr	Até é boa ideia. 
-pr-br	É uma boa ideia. 
+pt	Até é boa ideia. 
+pt-br	É uma boa ideia. 
 ro	Ar fi o idee și asta. 
 sv	Det var ju en idé. 
 th	นั่นก็เป็นความคิดหนึ่ง | 

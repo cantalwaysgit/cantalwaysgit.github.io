@@ -13,8 +13,8 @@ ko	앰프에 골반이 아작났잖아요! |
 nl	Hij verbrijzelde z'n bekken op een versterker. 
 no	Han knuste bekkenet på en forsterker! 
 pl	Strzaskał sobie miednicę na wzmacniaczu! 
-pr-br	Ele quebrou a pelve em um amplificador! 
-pr	Ele partiu a pélvis num amplificador! 
+pt-br	Ele quebrou a pelve em um amplificador! 
+pt	Ele partiu a pélvis num amplificador! 
 ro	Și-a distrus bazinul într-un amplificator! 
 ru	Он сломал таз об усилитель! 
 sv	Han krossade bäckenet på en förstärkare! 

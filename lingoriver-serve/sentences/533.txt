@@ -11,8 +11,8 @@ ko	딸꾹질하다가 죽을 수도 있거든 | 그때 정말 놀랐었지 |
 nl	Je kunt doodgaan aan de hik. Ik was doodsbang. 
 no	Man kan dø av hikke. Jeg var vettskremt. 
 pl	Od czkawki można umrzeć. Byłem przerażony. 
-pr-br	Soluço pode ser fatal. Eu estava apavorado. 
-pr	E pode-se morrer com soluços. Eu estava apavorado. 
+pt-br	Soluço pode ser fatal. Eu estava apavorado. 
+pt	E pode-se morrer com soluços. Eu estava apavorado. 
 ro	Se poate muri de la sughițat! Am fost îngrozit. 
 ru	От икоты можно умереть. Я был в ужасе. 
 sv	Man kan dö av att hicka. Jag var livrädd. 
@@ -38,8 +38,8 @@ ko	진짜 걱정했어 |
 nl	Ik was echt bezorgd. 
 no	Jeg var faktisk bekymret. 
 pl	Naprawdę się martwiłem. 
-pr-br	Fiquei muito preocupado. 
-pr	Estava mesmo preocupado. 
+pt-br	Fiquei muito preocupado. 
+pt	Estava mesmo preocupado. 
 ro	Chiar mi-am făcut griji. 
 sv	Jag var faktiskt orolig. 
 th	ผมเป็นห่วงจริงๆ | 

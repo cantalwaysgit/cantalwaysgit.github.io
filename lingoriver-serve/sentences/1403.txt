@@ -13,8 +13,8 @@ it	C'è sempre una ragione.
 ko	모든 일에는 이유가 있으니까 | 
 nl	Dingen gebeuren met een reden. 
 pl	Widocznie tak miało być. 
-pr	As coisas acontecem por um motivo. 
-pr-br	Tudo acontece por um motivo. 
+pt	As coisas acontecem por um motivo. 
+pt-br	Tudo acontece por um motivo. 
 ro	Nimic nu e întâmplător. 
 sv	Saker sker av en anledning. 
 th	ทุกอย่างที่เกิดก็มีเหตุผลของมัน | 
@@ -34,8 +34,8 @@ fi	Sain molemmille lahjakassin.
 fr	J'ai gratté deux sacs cadeaux. 
 he	&rlm;‏השגתי לנו שקיות של דברים טובים.‏ | 
 it	Hanno dato a ognuno una borsa regalo. 
-pr-br	Descolei uma sacola de guloseimas. 
-pr	- Um saco de brindes para cada um. - Obrigada. 
+pt-br	Descolei uma sacola de guloseimas. 
+pt	- Um saco de brindes para cada um. - Obrigada. 
 ro	Am luat o punguță pentru fiecare! 
 th	ได้ของชำร่วยมาคนละถุงใหญ่เลย | 
 tr	İkimize eşantiyon çantası kaptım. 
@@ -58,8 +58,8 @@ es	- Hola. - ¿Puedo quedarme con tu PlayStation?
 fr	Je peux garder ta PlayStation ? 
 he	&rlm;‏‏היי. | &rlm;‏-אני יכול לקבל את הפלייסטיישן שלך?‏ | 
 it	- Ciao. - Posso avere la tua PlayStation? 
-pr-br	-Oi. -Posso ficar com o seu PlayStation? 
-pr	- Olá. - Posso ficar com a tua PlayStation? 
+pt-br	-Oi. -Posso ficar com o seu PlayStation? 
+pt	- Olá. - Posso ficar com a tua PlayStation? 
 ro	- Bună! - Îmi dai mie PlayStation-ul tău? 
 th	- ที่รัก | - ขอเพลย์สเตชั่นของคุณให้ผมได้ไหม | 
 tr	-Merhaba. -PlayStation'ın bende kalabilir mi? 
@@ -82,8 +82,8 @@ fi	Saat.
 he	&rlm;‏כן.‏ | 
 it	Sì. 
 ko	그래 | 
-pr-br	Sim. 
-pr	Sim. 
+pt-br	Sim. 
+pt	Sim. 
 ro	Da. 
 sv	Ja. 
 th	ได้ | 

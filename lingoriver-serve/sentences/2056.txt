@@ -13,8 +13,8 @@ ko	안타까워할 거 없어요 | 커피 사업이 잘됐잖아요 |
 nl	Heb geen medelijden met hem. Die koffiezaken liepen goed. 
 no	Ikke synes synd på ham. Den kaffe-greia slo an. 
 pl	Nie trzeba mu współczuć. Interes z kawą wypalił. 
-pr-br	Não fique com pena dele. O lance do café deu certo. 
-pr	Não sintam pena dele. O negócio dos cafés correu bem. 
+pt-br	Não fique com pena dele. O lance do café deu certo. 
+pt	Não sintam pena dele. O negócio dos cafés correu bem. 
 ro	Nu-l compătimiți! A dat lovitura cu cafenelele. 
 ru	Не жалейте его. С кофе у него все получилось. 
 sv	Tyck inte synd om honom. Kaffegrejen funkade. 

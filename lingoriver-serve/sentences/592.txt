@@ -2,11 +2,11 @@ ar	&rlm;‏إليك نصيحة عن الأسهم للتعويض عن الأمر.
 el	Θα επανορθώσω με μια συμβουλή για μετοχές. 
 he	&rlm;‏הנה עצה לשוק המניות כדי לכפר על זה.‏ | 
 ko	사과의 의미로 | 주식 팁 하나 줄게 | 
-pr-br	Eis uma dica de investimento para compensar. 
+pt-br	Eis uma dica de investimento para compensar. 
 zh-long	告訴你股市小道消息 補償你一下 
 zh-short	给你点股票信息做补偿 
 pl	Dam ci cynk w kwestii akcji. 
-pr	Aqui vai uma dica para compensar isso. 
+pt	Aqui vai uma dica para compensar isso. 
 it	Ti do una dritta su delle azioni per rimediare. 
 fi	Annan osakevinkin hyvitykseksi. 
 nl	Een beurstip om het goed te maken. 

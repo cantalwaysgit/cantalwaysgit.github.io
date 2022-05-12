@@ -13,8 +13,8 @@ ko	무명에서 일류 스타가 됐죠 | 모두가 이름을 외쳤어요 |
 nl	Je bent opeens iemand. Iedereen schreeuwt om je. 
 no	Du er ingen, så er du noen. Alle vil møte deg. 
 pl	Nagle stała się wielką gwiazdą. Wszyscy zabiegali o jej względy. 
-pr-br	Você não é ninguém e de repente fica famosa. Todos querem você. 
-pr	Não és ninguém, passas a ser alguém e toda a gente grita por ti. 
+pt-br	Você não é ninguém e de repente fica famosa. Todos querem você. 
+pt	Não és ninguém, passas a ser alguém e toda a gente grita por ti. 
 ro	Ești un nimeni, apoi ajungi cineva. Toată lumea urlă după tine. 
 ru	Ты никто. Раз - и вдруг ты кто-то. Вокруг тебя поднимают шум. 
 sv	Man är ingen, sen är man någon. Alla kräver nåt av en. 

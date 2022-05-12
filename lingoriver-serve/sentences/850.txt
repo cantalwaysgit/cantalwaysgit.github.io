@@ -11,8 +11,8 @@ fr	Et je vois tes amis dans ma piscine !
 he	&rlm;‏ואני רואה את החברים שלך בבריכה שלי!‏ | 
 it	E ho visto i tuoi amici nella mia piscina! 
 nl	En ik zie jouw vrienden in mijn zwembad. 
-pr-br	E vi seus amigos na minha piscina! 
-pr	E vejo os teus amigos na minha piscina! 
+pt-br	E vi seus amigos na minha piscina! 
+pt	E vejo os teus amigos na minha piscina! 
 ro	Și-ți văd prietenii în piscina mea! 
 sv	Och jag ser dina vänner i min pool! 
 th	แล้วเห็นเพื่อนๆ คุณในสระของผม | 

@@ -13,8 +13,8 @@ fr	Tu vois cette étoile ?
 he	&rlm;‏רואה את הכוכב פה?‏ | 
 it	Vedi questa stella? 
 ko	여기 별 보이시죠? | 
-pr-br	Está vendo esta estrela aqui? 
-pr	Está a ver esta estrela? 
+pt-br	Está vendo esta estrela aqui? 
+pt	Está a ver esta estrela? 
 ro	Vezi steaua asta? 
 sv	Ser du stjärnan här? 
 th	เห็นดาวตรงนี้ไหม | 

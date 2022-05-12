@@ -17,8 +17,8 @@ ko	네가 하는 건 | 정말 자연스러운 거야 |
 nl	Wat je doet, is heel normaal. 
 no	Det du gjør, er helt naturlig. 
 pl	To, co robisz, jest zupełnie naturalne. 
-pr-br	O que está fazendo  é perfeitamente natural. 
-pr	O que estás a fazer é perfeitamente natural. 
+pt-br	O que está fazendo  é perfeitamente natural. 
+pt	O que estás a fazer é perfeitamente natural. 
 ro	Ceea ce faci e absolut firesc. 
 sv	Det du gör är helt naturligt. 
 tr	Yaptığın şey son derece doğal. 

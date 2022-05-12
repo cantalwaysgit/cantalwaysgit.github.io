@@ -12,8 +12,8 @@ ko	가장 마음에 드는 건 | 샌디의 집이에요 |
 nl	Het leukste van Sandy vond ik zijn huis. 
 no	Det beste ved Sandy, er stedet han bodde. 
 pl	Najbardziej podobał mi się dom Sandy'ego. 
-pr-br	O que mais gosto no Sandy é a casa dele. 
-pr	Do que mais gostava no Sandy era onde ele vivia. 
+pt-br	O que mais gosto no Sandy é a casa dele. 
+pt	Do que mais gostava no Sandy era onde ele vivia. 
 ro	La Sandy, cel mai mult îmi plăcea casa lui. 
 sv	Min favoritgrej med Sandy var hans hem. 
 th	ที่ผมชอบที่สุดเกี่ยวกับแซนดี้ | คือบ้านของเขา | 

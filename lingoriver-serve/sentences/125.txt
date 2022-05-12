@@ -12,8 +12,8 @@ it	Oddio.
 ko	세상에 | 
 no	Herregud. 
 pl	Boże. 
-pr-br	Ah, meu Deus. 
-pr	Meu Deus. 
+pt-br	Ah, meu Deus. 
+pt	Meu Deus. 
 ro	Dumnezeule! 
 ru	Господи. 
 sv	Herregud. 

@@ -14,8 +14,8 @@ ko	전기 통했어요! | 양말 때문에... |
 nl	Ik kreeg een schok. Ik wist het. De sokken. 
 no	Jeg fikk støt! Jeg visste det... Sokkene. 
 pl	Strzeliło mnie! Wiedziałem. To te skarpetki. 
-pr	Apanhei o choque! Eu sabia... As meias. 
-pr-br	Levei um choque! Eu sabia... Essas meias. 
+pt	Apanhei o choque! Eu sabia... As meias. 
+pt-br	Levei um choque! Eu sabia... Essas meias. 
 ro	M-am electrocutat! Știam eu... Șosetele. 
 sv	Jag fick en stöt! Jag visste det... Strumporna. 
 th	โดนไฟช็อตเลย | ผมรู้เลย ถุงเท้านั่นเอง | 

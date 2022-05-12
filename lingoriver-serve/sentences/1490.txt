@@ -11,8 +11,8 @@ it	No! Fermi! Per favore.
 ko	안 돼, 이러지 마, 제발! | 
 no	Nei! Kom igjen! Vær så snill. 
 pl	Nie. Szybko. Proszę. 
-pr-br	Não! Vamos! Por favor. 
-pr	Não! Vá lá! Por favor. 
+pt-br	Não! Vamos! Por favor. 
+pt	Não! Vá lá! Por favor. 
 sv	Nej! Kom igen! Snälla ni! 
 th	อย่าๆ ไม่เอาน่า ขอร้องๆ | 
 tr	Hayır! Hadi ama! Lütfen. 

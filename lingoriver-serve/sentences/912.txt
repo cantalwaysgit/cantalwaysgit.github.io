@@ -15,8 +15,8 @@ it	Devi articolare. Non si capisce niente.
 nl	Je moet articuleren, ik versta je niet. 
 no	Du må snakke tydelig. Jeg forstår ikke. 
 pl	Mów wyraźniej. Nic nie rozumiem. 
-pr-br	Precisa falar claramente. Não entendo. 
-pr	Tem de pronunciar bem. Não consigo perceber. 
+pt-br	Precisa falar claramente. Não entendo. 
+pt	Tem de pronunciar bem. Não consigo perceber. 
 ro	Vorbește mai clar. Nu te înțeleg. 
 sv	Du måste artikulera. Jag förstår inte. 
 th	คุณต้องพูดชัดๆ ฉันไม่เข้าใจ | 

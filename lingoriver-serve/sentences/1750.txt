@@ -11,8 +11,8 @@ he	&rlm;‏‏יצאת מדעתך! | &rlm;‏-לא!‏ |
 it	- Sei fuori di testa! - No. 
 no	-Du er gal! -Nei! 
 pl	- Zwariowałeś! - Nie! 
-pr-br	-Você está louco! -Não! 
-pr	- Estás louco! - Não! 
+pt-br	-Você está louco! -Não! 
+pt	- Estás louco! - Não! 
 ro	- Ai luat-o pe câmpii! - Nu! 
 sv	-Du är galen! -Nej! 
 th	- นายบ้าไปแล้ว | - ไม่ ไม่ใช่ | 

@@ -10,8 +10,8 @@ he	&rlm;‏תראה מה יש לי במושב האחורי‏ |
 it	Guarda cosa tengo sul sedile 
 nl	Kijk wat ik op de achterbank heb liggen... 
 no	Se hva jeg har hatt liggende i baksetet... 
-pr-br	Veja o que tenho no meu carro 
-pr	Olha o que trago no banco de trás 
+pt-br	Veja o que tenho no meu carro 
+pt	Olha o que trago no banco de trás 
 ro	Uite ce țin pe bancheta din spate... 
 sv	Kolla vad jag har i baksätet, 
 th	ดูสิฉันขนอะไรมาด้วยในเบาะหลังรถ | 

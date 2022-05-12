@@ -14,8 +14,8 @@ it	Mettiamogli una coperta sulla testa.
 ko	머리에 담요를 씌울게요 | 
 nl	We doen een laken over z'n hoofd. 
 pl	Narzucimy mu na głowę koc. 
-pr-br	Vamos pôr um cobertor na cabeça dele. 
-pr	Podemos tapar-lhe a cabeça com um cobertor. 
+pt-br	Vamos pôr um cobertor na cabeça dele. 
+pt	Podemos tapar-lhe a cabeça com um cobertor. 
 ro	Putem să-i punem o pătură pe cap. 
 sv	Vi kan lägga en filt över hans huvud. 
 th	เอาผ้าห่มคลุมหัวเขาซะ | 

@@ -14,8 +14,8 @@ ko	섹시하게 한판 해보죠 |
 nl	Shoop de shoop. Laat zien hoe sexy je bent. 
 no	Shoop  i vei. Vis meg sexy. Kom igjen. 
 pl	Dalej. Pokaż, jaka potrafisz być seksowna. 
-pr-br	Vamos detonar. Me mostre que é sexy. Vamos. 
-pr	Vamos sensualizar o sensual. Mostra-me a sensualidade. 
+pt-br	Vamos detonar. Me mostre que é sexy. Vamos. 
+pt	Vamos sensualizar o sensual. Mostra-me a sensualidade. 
 ro	Să curgă unduielile! Fii sexy! Hai! 
 th	มาเอากันเลย | ขอท่าเซ็กซี่หน่อย มาสิ | 
 tr	Kıvırtalım. Seksi ol. Hadi. 

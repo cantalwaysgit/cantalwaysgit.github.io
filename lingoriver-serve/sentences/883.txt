@@ -10,8 +10,8 @@ it	A dire il vero, è andato all'Università statale di San Diego.
 ko	샌디에이고 주립대 나왔을걸 | 
 nl	Eigenlijk ging hij naar San Diego State. 
 pl	Kończył studia na uniwersytecie San Diego. 
-pr-br	Na verdade, ele estudou na San Diego State. 
-pr	Na verdade, ele andou na San Diego State. 
+pt-br	Na verdade, ele estudou na San Diego State. 
+pt	Na verdade, ele andou na San Diego State. 
 ro	De fapt, a studiat la Universitatea San Diego. 
 sv	Han gick på San Diego State. 
 th	จริงๆ แล้วเขาเรียนที่ซานดิเอโกสเตต | 

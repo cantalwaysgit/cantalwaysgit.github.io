@@ -9,8 +9,8 @@ he	&rlm;‏אתה בסך הכול צריך לנוח כמה ימים. הנה.‏ 
 it	Dovrà riposarsi per qualche giorno. Tenga. 
 ko	며칠 쉬시면 돼요 | 받으세요 | 
 pl	Musi pan kilka dni odpocząć. Proszę. 
-pr-br	Só precisa descansar alguns dias. Aqui está. 
-pr	Só tem de descansar uns dias. Aqui tem. 
+pt-br	Só precisa descansar alguns dias. Aqui está. 
+pt	Só tem de descansar uns dias. Aqui tem. 
 ro	Trebuie să vă odihniți câteva zile. Poftim! 
 sv	Du måste vila några dagar. Varsågod. 
 th	แค่ต้องพักผ่อนสองสามวัน นี่เลยค่ะ | 

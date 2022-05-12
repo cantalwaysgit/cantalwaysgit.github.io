@@ -14,8 +14,8 @@ ko	괜찮아요 | 제가 이미 처리했어요 |
 nl	Hoeft niet. Ik heb het al geregeld. 
 no	Nei, det går bra, Sandy. Jeg har ordnet det alt. 
 pl	Nie trzeba. Już to zrobiłem. 
-pr-br	Não, está tudo bem, Sandy. Já cuidei de tudo. 
-pr	Não é preciso, Sandy. Eu já tratei. 
+pt-br	Não, está tudo bem, Sandy. Já cuidei de tudo. 
+pt	Não é preciso, Sandy. Eu já tratei. 
 ro	E-n regulă, Sandy. M-am ocupat eu deja. 
 sv	Nej, det är lugnt. Jag har redan tagit hand om det. 
 th	ไม่เป็นไร แซนดี้ ผมจัดการให้แล้ว | 

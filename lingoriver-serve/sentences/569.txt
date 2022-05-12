@@ -13,8 +13,8 @@ ko	억만장자 집주인은 어디 있죠? | 나타나긴 하실 건가요? |
 nl	Waar is je miljardair-huisbaas? Zal hij ooit komen? 
 no	Hvor er milliardær-husverten din? Vil han noensinne vise seg? 
 pl	Gdzie właściciel-miliarder? Zaszczyci nas swoją obecnością? 
-pr-br	Onde está o seu senhorio bilionário? Ele vai nos dar o prazer da presença dele? 
-pr	O teu senhorio multimilionário? Alguma vez nos agraciará com a sua presença? 
+pt-br	Onde está o seu senhorio bilionário? Ele vai nos dar o prazer da presença dele? 
+pt	O teu senhorio multimilionário? Alguma vez nos agraciará com a sua presença? 
 ro	Unde e proprietarul tău miliardar? Ne va onora vreodată cu prezența? 
 sv	Var är din hyresvärd, miljardären? Ska han hedra oss med sin närvaro? 
 th	เจ้าของบ้านมหาเศรษฐีของคุณอยู่ไหน | เขาจะมาให้เราเห็นหน้าบ้างไหม | 

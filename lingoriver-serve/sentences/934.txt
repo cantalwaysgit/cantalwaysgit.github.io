@@ -17,8 +17,8 @@ ko	스타 같아 |
 nl	Je ziet eruit als een ster. 
 no	Du ser ut som en stjerne. 
 pl	Wyglądasz jak gwiazda. 
-pr-br	Você parece uma estrela. 
-pr	Pareces uma estrela. 
+pt-br	Você parece uma estrela. 
+pt	Pareces uma estrela. 
 ro	Arăți ca o vedetă. 
 sv	Du ser ut som en stjärna. 
 tr	Tıpkı bir yıldız gibisin. 

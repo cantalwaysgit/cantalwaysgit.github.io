@@ -16,8 +16,8 @@ fr	Appelle à mon bureau, la semaine prochaine.
 he	&rlm;‏תתקשר למשרד לי בשבוע הבא. כן.‏ | 
 it	Chiama il mio ufficio la prossima settimana. 
 nl	Bel volgende week mijn kantoor. 
-pr-br	Ligue para o meu escritório na semana que vem. É. 
-pr	Liga para o meu escritório na próxima semana. 
+pt-br	Ligue para o meu escritório na semana que vem. É. 
+pt	Liga para o meu escritório na próxima semana. 
 ro	Caută-mă la birou săptămâna viitoare. Da. 
 sv	Ring mitt kontor nästa vecka. 
 tr	Gelecek hafta ofisimi ara. Peki. 

@@ -12,8 +12,8 @@ ko	정신이 빠질 대로 빠졌군 | 왜 미친놈 같이 웃고 있어? |
 nl	Je lijkt hartstikke stoned. Waarom die gestoorde glimlach? 
 no	Du virker helt fjern. Hvorfor smiler du som en galning? 
 pl	Wyglądasz, jakbyś był upalony na amen. Czemu tak się szczerzysz? 
-pr-br	Você parece estar chapadão. Que sorriso pirado é esse? 
-pr	Pareces completamente pedrado. Que sorriso tolo é esse? 
+pt-br	Você parece estar chapadão. Que sorriso pirado é esse? 
+pt	Pareces completamente pedrado. Que sorriso tolo é esse? 
 ro	Dar pari cu capul în nori. Ce-i cu zâmbetul ăsta tâmpit? 
 sv	Du verkar helt stenad. Varför ler du så skruvat? 
 th	ก็คุณดูใจลอยพิกล | นั่นยิ้มบ้าอะไรอยู่ได้ | 

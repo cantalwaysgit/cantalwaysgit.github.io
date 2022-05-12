@@ -13,8 +13,8 @@ ko	- 결혼도 안 했고 | - 데이트도 안 했고 |
 nl	Niet getrouwd. -Geen dates. 
 no	-Han var ikke gift. -Datet ikke. 
 pl	- Nie miał żony. - Nie randkował. 
-pr-br	-Ele não era casado. -Não namorava. 
-pr	- Não era casado. - Não namorava. 
+pt-br	-Ele não era casado. -Não namorava. 
+pt	- Não era casado. - Não namorava. 
 ro	- Nu era însurat. - Nu ieșea cu nimeni. 
 ru	-У него не было жены. -И подруг. 
 sv	-Han var ogift. -Dejtade aldrig. 

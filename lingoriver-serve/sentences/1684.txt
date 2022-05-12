@@ -10,8 +10,8 @@ he	&rlm;‏מה שאני רוצה שתעשי זה להתרכז בקריירה ש
 it	Voglio che ti concentri sulla tua carriera. 
 no	Jeg vil du skal fokusere på karrieren din. 
 pl	Skoncentruj się na swojej karierze. 
-pr-br	Quero que você se concentre na sua carreira. 
-pr	O que eu quero é que te concentres na tua carreira. 
+pt-br	Quero que você se concentre na sua carreira. 
+pt	O que eu quero é que te concentres na tua carreira. 
 ro	Aș vrea să te concentrezi la cariera ta. 
 sv	Jag vill att du koncentrerar dig på din karriär. 
 th	ที่ผมอยากให้ทำคือตั้งใจทุ่มเท | กับงานของคุณ | 

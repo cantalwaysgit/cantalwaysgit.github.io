@@ -13,8 +13,8 @@ it	Fai volare farfalle, farfalla Nella mia anima
 ko	내 영혼까지 설레게 해주지 | 
 nl	je geeft me vlinders in mijn ziel 
 pl	Czuję motylki w mojej duszy 
-pr-br	Você me dá arrepios na alma 
-pr	Provocas-me arrepios No fundo da minha alma 
+pt-br	Você me dá arrepios na alma 
+pt	Provocas-me arrepios No fundo da minha alma 
 ro	Cu tine sunt înconjurată de fluturi Până în adâncul sufletului 
 sv	Du ger mig fjärilar i magen 
 th	คุณทำให้ผีเสื้อกระพือปีก | จนถึงก้นบึ้งหัวใจฉัน | 

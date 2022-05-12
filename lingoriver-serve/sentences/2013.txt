@@ -12,8 +12,8 @@ it	Sandy sta arrivando al punto. Ascolta.
 ko	샌디가 얘기할 테니 들어봐 | 
 no	Sandy kommer til det. Bare hør. 
 pl	Sandy zaraz ci wyjaśni. 
-pr-br	Sandy vai chegar lá. Só ouça. 
-pr	O Sandy já vai chegar lá. Ouve. 
+pt-br	Sandy vai chegar lá. Só ouça. 
+pt	O Sandy já vai chegar lá. Ouve. 
 ro	O să afli de la Sandy. Tu ascultă. 
 ru	Сэнди всё скажет. Ты слушай. 
 sv	Sandy kommer till det. Lyssna bara. 

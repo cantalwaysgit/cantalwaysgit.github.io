@@ -8,7 +8,7 @@ es	- ¡Hola! - ¡Hola!
 he	&rlm;‏‏היי! | &rlm;‏-היי!‏ | 
 it	- Ehi! - Ciao! 
 ko	- 코트니 | - 안녕하세요! | 
-pr	- Olá! - Olá! 
+pt	- Olá! - Olá! 
 sv	-Hej. -Hej! 
 th	- เฮ่ เฮ่ | - เฮ่ | 
 tr	-Selam! -Selam! 

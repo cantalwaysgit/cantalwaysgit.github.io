@@ -14,8 +14,8 @@ it	- Mi ha fatto piacere. - Anche a me.
 nl	Leuk om je te zien. 
 no	-Fint å se deg. -I like måte. 
 pl	- Miło było. - Mnie też. 
-pr-br	-Que bom ver você. -Igualmente. 
-pr	- Foi ótimo ver-te. - Igualmente. 
+pt-br	-Que bom ver você. -Igualmente. 
+pt	- Foi ótimo ver-te. - Igualmente. 
 ro	- Mă bucur că te-am văzut. - Și eu. 
 sv	-Kul att se dig. -Dig med. 
 th	- เยี่ยมจริงที่ได้เจอกัน | - เหมือนกัน | 

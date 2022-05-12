@@ -13,8 +13,8 @@ it	È meraviglioso. Grazie di cuore.
 nl	Geweldig. Hartelijk dank. 
 no	Det er fantastisk. Tusen takk. 
 pl	To wspaniale. Dziękuję bardzo. 
-pr-br	Espetacular. Muito obrigado. 
-pr	Isso é espetacular. Muito obrigado. 
+pt-br	Espetacular. Muito obrigado. 
+pt	Isso é espetacular. Muito obrigado. 
 ro	E nemaipomenit! Mulțumesc. 
 sv	Det är underbart. Tack så mycket. 
 th	นั่นยอดเยี่ยม ขอบคุณมาก | 

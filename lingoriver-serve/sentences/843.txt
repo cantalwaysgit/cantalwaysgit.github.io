@@ -14,8 +14,8 @@ ko	안 보이는데요 | 얼굴을 보여요 |
 nl	Ik zie je niet. Laat je gezicht zien. 
 no	Jeg kan ikke se deg. Vis ansiktet ditt! 
 pl	Nie widzę cię. Pokaż się! 
-pr-br	Não estou vendo você. Mostre o seu rosto! 
-pr	Não te vejo. Mostra-te! 
+pt-br	Não estou vendo você. Mostre o seu rosto! 
+pt	Não te vejo. Mostra-te! 
 ro	Nu te văd. Arată-te! 
 sv	Jag ser dig inte. Visa ditt ansikte! 
 tr	Seni göremiyorum. Yüzünü göster! 

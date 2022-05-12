@@ -13,8 +13,8 @@ he	&rlm;‏תנחש.‏ |
 it	Indovina. 
 nl	Raad maar. 
 no	Gjett. 
-pr	Adivinha. 
-pr-br	Adivinhe. 
+pt	Adivinha. 
+pt-br	Adivinhe. 
 ro	Ghicește! 
 sv	Gissa. 
 tr	Tahmin et. 

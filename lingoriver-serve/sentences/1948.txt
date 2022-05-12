@@ -11,8 +11,8 @@ he	&rlm;‏‏עזבתי אותך כי | &rlm;‏לא יכולת להגיד לי
 it	Me ne sono andato perché non mi dicevi mai la verità. 
 no	Jeg dro fordi du aldri fortalte meg sannheten. 
 pl	Odszedłem, bo nie potrafiłeś mówić mi prawdy. 
-pr-br	Eu o deixei porque você não conseguia me dizer a verdade. 
-pr	Deixei-te porque eras incapaz de me dizer a verdade. 
+pt-br	Eu o deixei porque você não conseguia me dizer a verdade. 
+pt	Deixei-te porque eras incapaz de me dizer a verdade. 
 ro	Te-am părăsit fiindcă nu-mi spuneai niciodată adevărul. 
 sv	Jag gjorde det för att du aldrig kunde säga sanningen. 
 th	ที่ฉันทิ้งนายเพราะ | นายไม่เคยพูดความจริงกับฉัน | 

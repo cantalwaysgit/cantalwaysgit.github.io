@@ -11,8 +11,8 @@ id	Kau tidak akan mau menukarnya Dengan sekarung emas
 it	Ma non lo cambieresti Con un sacco pieno d'oro 
 ko	그래도 금 한 포대와도 | 바꾸지 않을 거야 | 
 pl	To i tak za żadne skarby nie zamienisz się 
-pr-br	Mesmo assim você não trocaria nem por ouro 
-pr	Mesmo assim, não trocavas isso Por um saco de ouro 
+pt-br	Mesmo assim você não trocaria nem por ouro 
+pt	Mesmo assim, não trocavas isso Por um saco de ouro 
 ro	Totuși, n-ai renunța Nici pentru toată averea din lume 
 ru	Но ты не променяешь это И на мешок золота 
 sv	Men du skulle inte byta det Mot en säck guld 

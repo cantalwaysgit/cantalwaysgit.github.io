@@ -12,8 +12,8 @@ it	Non mi voglio suicidare!
 ko	내가 왜요? | 
 no	Nei, det gjør jeg ikke! 
 pl	Nie chcę! 
-pr-br	Não vou! 
-pr	Não vou nada! 
+pt-br	Não vou! 
+pt	Não vou nada! 
 ro	Nu vreau. 
 ru	Нет, не хочу! 
 sv	Nej, det ska jag inte. 

@@ -16,8 +16,8 @@ it	Io ho già preparato una campagna pubblicitaria per lei.
 nl	Ik heb een publiciteitscampagne speciaal voor haar. 
 no	Jeg har en PR-kampanje laget spesielt for denne kvinnen. 
 pl	Mam zaplanowaną kampanię reklamową specjalnie dla niej. 
-pr-br	Tenho uma campanha publicitária projetada especificamente para ela. 
-pr	Tenho uma campanha publicitária concebida para esta mulher. 
+pt-br	Tenho uma campanha publicitária projetada especificamente para ela. 
+pt	Tenho uma campanha publicitária concebida para esta mulher. 
 ro	Eu am gândit o campanie publicitară doar pentru femeia asta. 
 sv	Jag har en reklamkampanj åt den här kvinnan. 
 tr	Tam bu kadın için tasarlanmış bir reklam kampanyam var. 

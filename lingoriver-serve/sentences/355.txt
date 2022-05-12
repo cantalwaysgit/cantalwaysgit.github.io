@@ -14,8 +14,8 @@ he	&rlm;‏זה הכי טוב שיש.‏ |
 it	Non potrebbe andare meglio. 
 nl	Beter wordt het niet. 
 pl	Lepiej być nie może. 
-pr-br	Isso é demais. 
-pr	Não há melhor. 
+pt-br	Isso é demais. 
+pt	Não há melhor. 
 ro	Nici că se putea mai bine. 
 sv	Det kan inte bli bättre. 
 th	มันไม่ดีไปกว่านี้ได้แล้ว | 

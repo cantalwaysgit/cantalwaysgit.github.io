@@ -14,8 +14,8 @@ it	- Non voglio più uscire di casa. - Cosa? Tu devi uscire.
 nl	Ik wil mijn huis niet meer uit. -Je moet. 
 no	-Jeg vil ikke gå ut av huset. -Hva? Det må du. 
 pl	- Nie mam ochoty wychodzić z domu. - Musisz wychodzić. 
-pr-br	-Não quero sair de casa. -Quê? Mas tem que sair. 
-pr	- Já nem quero sair de casa. - O quê? Tens de sair. 
+pt-br	-Não quero sair de casa. -Quê? Mas tem que sair. 
+pt	- Já nem quero sair de casa. - O quê? Tens de sair. 
 ro	- Nu mai vreau să ies din casă. - Poftim? Trebuie să ieși. 
 sv	-Jag lämnar aldrig mitt hus. -Det måste du göra. 
 th	- ฉันไม่อยากออกจากบ้าน | - อะไรกัน ต้องออกไปสิ | 
@@ -43,8 +43,8 @@ it	- Anche Michael Jackson esce di casa. - E come fa?
 nl	Zelfs Michael Jackson gaat zijn huis uit. -Hoe? 
 no	-Selv Michael Jackson går ut av huset. -Hvordan? 
 pl	- Nawet Michael Jackson czasem wychodzi. - W jaki sposób? 
-pr	- Até o Michael Jackson sai de casa. - Como? 
-pr-br	-Até o Michael Jackson sai de casa. -Como? 
+pt	- Até o Michael Jackson sai de casa. - Como? 
+pt-br	-Até o Michael Jackson sai de casa. -Como? 
 ro	- Până și Michael Jackson iese din casă. - Cum? 
 sv	-Till och med Michael Jackson går ut. -Hur då? 
 th	- ไมเคิล แจ็คสันยังออกจากบ้านเลย | - ยังไง | 

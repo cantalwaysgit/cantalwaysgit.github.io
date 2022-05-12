@@ -11,8 +11,8 @@ he	&rlm;‏מה לעזאזל?‏ |
 it	Ma che diavolo fai? 
 no	Hva i helvete? 
 pl	Co ty robisz? 
-pr-br	Mas que diabos? 
-pr	Mas que raio? 
+pt-br	Mas que diabos? 
+pt	Mas que raio? 
 ro	Ce naiba? 
 sv	Vad i helvete? 
 th	นี่มันบ้าอะไร | 

@@ -3,7 +3,7 @@ ru	Я чуть не умер со смеху.
 en	That was hysterical. | 
 nl	Het was hilarisch. -Heb je de hele show gezien? 
 pl	- Byłeś przezabawny. - Widziałeś cały występ? 
-pr-br	-Foi hilário. -Então viu o show todo? 
+pt-br	-Foi hilário. -Então viu o show todo? 
 th	- มันขำกลิ้ง | - มาทันดูทั้งโชว์หรือเปล่า | 
 vi	- Thật thú vị. | - Anh xem cả chương trình à? | 
 ar	&rlm;‏‏- كان ذلك هستيرياً. | &rlm;‏- أشاهدت العرض بأكمله إذاً؟‏ | 
@@ -17,7 +17,7 @@ he	&rlm;‏‏זה היה היסטרי. | &rlm;‏-אז ראית את כל המ�
 it	- Stavo per morire dal ridere. - Hai visto tutto lo spettacolo? 
 ko	- 웃겨 죽는 줄 알았어 | - 그럼 공연을 다 본 거야? | 
 no	-Det var kjempemorsomt. -Så du hele forestillingen? 
-pr	- Foi hilariante. - Viste o espetáculo todo? 
+pt	- Foi hilariante. - Viste o espetáculo todo? 
 ro	- A fost o nebunie! - Deci ai prins toată reprezentația? 
 sv	-Det var hysteriskt. -Så du såg hela showen? 
 tr	-Çok komikti. -Bütün gösteriyi izledin mi? 

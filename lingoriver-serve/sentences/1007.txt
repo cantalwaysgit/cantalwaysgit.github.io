@@ -12,8 +12,8 @@ it	- Congratulazioni. - Beh, abbiamo un gran manager.
 nl	Gefeliciteerd. -We hebben een geweldige manager. 
 no	-Gratulerer. -Vi har en dyktig manager. 
 pl	- Gratulacje. - Mamy świetnego menedżera. 
-pr-br	-Parabéns. -Temos um ótimo empresário. 
-pr	- Parabéns. - Temos um ótimo empresário. 
+pt-br	-Parabéns. -Temos um ótimo empresário. 
+pt	- Parabéns. - Temos um ótimo empresário. 
 ro	- Felicitări! - Avem un impresar bun. 
 sv	-Grattis. -Vi har en bra manager. 
 th	- ยินดีด้วยนะ | - ก็เรามีผู้จัดการเยี่ยม | 
@@ -37,8 +37,8 @@ it	Mi dice di cantare sempre con il cuore.
 nl	Hij zegt dat ik altijd moet zingen met m'n hart. 
 no	Han sier jeg alltid må synge fra hjertet. 
 pl	Każe mi śpiewać prosto z serca. 
-pr-br	Ele sempre diz para cantar com o coração. 
-pr	Ele disse-me para cantar sempre com o coração. 
+pt-br	Ele sempre diz para cantar com o coração. 
+pt	Ele disse-me para cantar sempre com o coração. 
 ro	Mi-a zis să cânt mereu din suflet. 
 sv	Han säger att alltid sjunga från hjärtat. 
 th	เขาบอกให้ฉันร้องเพลงจากใจเสมอ | 

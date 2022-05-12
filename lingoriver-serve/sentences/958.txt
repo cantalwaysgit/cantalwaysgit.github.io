@@ -13,8 +13,8 @@ he	&rlm;‏היי, ברונשטין.‏ |
 it	Ciao, Bronstein. 
 nl	Hé, Bronstein. 
 pl	Hej, Bronstein. 
-pr-br	Ei, Bronstein. 
-pr	Olá, Bronstein. 
+pt-br	Ei, Bronstein. 
+pt	Olá, Bronstein. 
 ro	Salut, Bronstein! 
 th	ไง บรอนสตีน | 
 tr	Selam, Bronstein. 

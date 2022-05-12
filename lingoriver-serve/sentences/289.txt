@@ -13,8 +13,8 @@ ko	그때도 살아있는 것 같을까요? |
 nl	Zou je je dan levend voelen? 
 no	Ville du følt deg levende da? 
 pl	Czułabyś się wtedy żywa? 
-pr-br	Você se sentiria viva? 
-pr	Iria sentir-se viva? 
+pt-br	Você se sentiria viva? 
+pt	Iria sentir-se viva? 
 ro	Atunci ai simți că trăiești? 
 ru	Почувствуете себя живой? 
 sv	Skulle du känna dig levande då? 

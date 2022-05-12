@@ -13,8 +13,8 @@ it	da protagonista con A.J. Jamal. Voglio accertarmi che sia andata bene.
 nl	...samen met AJ Jamal. Ik wil zeker weten dat die goed ging. 
 no	sammen med AJ Jamal. Jeg vil vite om det gikk bra. 
 pl	razem z AJ Jamalem. Muszę wiedzieć, czy dobrze wypadł. 
-pr-br	junto com AJ Jamal. Quero ter certeza de que foi bom. 
-pr	em conjunto com o AJ Jamal. Quero garantir que correu bem. 
+pt-br	junto com AJ Jamal. Quero ter certeza de que foi bom. 
+pt	em conjunto com o AJ Jamal. Quero garantir que correu bem. 
 ro	alături de AJ Jamal. Vreau să mă asigur că s-a descurcat. 
 sv	tillsammans med AJ Jamal. Jag vill veta att det gick bra. 
 th	ร่วมออกหน้ากับเอเจ จามัล | ผมอยากให้แน่ใจว่าออกมาดี | 

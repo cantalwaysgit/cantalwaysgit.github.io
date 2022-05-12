@@ -10,8 +10,8 @@ he	&rlm;‏הדבר הכי טוב בשבילי הוא שמצאתי אותך.‏ 
 it	Ma la cosa migliore è aver trovato te. 
 nl	Het allerbeste is dat ik jou heb gevonden. 
 no	Det beste for meg er at jeg fant deg. 
-pr-br	O melhor para mim é ter encontrado você. 
-pr	O melhor que me aconteceu foi encontrar-te. 
+pt-br	O melhor para mim é ter encontrado você. 
+pt	O melhor que me aconteceu foi encontrar-te. 
 ro	Cel mai bun lucru pentru mine e că te-am găsit pe tine. 
 sv	Det bästa för mig är att jag hittade dig. 
 th	ที่ดีที่สุดคือการที่ได้พบคุณ | 

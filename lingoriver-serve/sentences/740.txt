@@ -14,8 +14,8 @@ it	- Quanti ce ne sono? - Un sacco.
 nl	Hoeveel van deze dingen zijn er? -Veel. 
 no	-Hvor mange er det av dem? -Mange. 
 pl	- Ile tego tu jest? - Dużo. 
-pr-br	-Quantas dessas tem? -Muitas. 
-pr	- Quantas coisas destas há aqui? - Muitas. 
+pt-br	-Quantas dessas tem? -Muitas. 
+pt	- Quantas coisas destas há aqui? - Muitas. 
 ro	- Câte din astea sunt aici? - Multe. 
 sv	-Hur många såna här finns det? -En massa. 
 th	- คุณมีแบบนี้เยอะไหม | - มีเยอะ | 

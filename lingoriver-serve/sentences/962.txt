@@ -15,8 +15,8 @@ he	&rlm;‏‏הוא אף פעם לא גר שם. | &rlm;‏על מה אתה מד
 it	Non ci ha mai vissuto. Che cavolo stai dicendo, Willis? 
 nl	Daar heeft hij nooit gewoond. Waar heb je het over? 
 pl	Nigdy tam nie mieszkał. Co ty gadasz? 
-pr-br	Ele nunca morou lá. Do que está falando, Willis? 
-pr	Ele nunca morou em Venice. Estás a falar de quê? 
+pt-br	Ele nunca morou lá. Do que está falando, Willis? 
+pt	Ele nunca morou em Venice. Estás a falar de quê? 
 ro	N-a locuit niciodată acolo. Ce tot spui, Willis? 
 sv	Han har aldrig bott i Venice. Vad pratar du om? 
 th	เขาไม่เคยอยู่ที่นั่น | นั่นพูดเรื่องอะไร วิลลิส | 

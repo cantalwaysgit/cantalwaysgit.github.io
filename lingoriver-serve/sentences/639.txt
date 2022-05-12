@@ -13,8 +13,8 @@ he	&rlm;‏תודה רבה.‏ |
 it	Grazie di cuore. 
 no	Tusen takk. 
 pl	Bardzo dziękujemy. 
-pr-br	Muito obrigado. 
-pr	Muito obrigado. 
+pt-br	Muito obrigado. 
+pt	Muito obrigado. 
 ro	Îți mulțumesc mult! 
 sv	Tack så mycket. 
 tr	Çok teşekkür ederim. 
@@ -44,8 +44,8 @@ es	Voy a reproducirlo.
 fr	Je vais réécouter. 
 he	&rlm;‏אני הולך לנגן את זה פה שוב.‏ | 
 it	La riascoltiamo di qua. 
-pr-br	Vou tocar isso aqui. 
-pr	Eu vou reproduzir isto aqui atrás. 
+pt-br	Vou tocar isso aqui. 
+pt	Eu vou reproduzir isto aqui atrás. 
 sv	Jag ska spela den här inne. 
 zh-long	我放一次給妳聽 
 ko	여기서 다시 들어볼게 | 

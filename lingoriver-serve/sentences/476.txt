@@ -13,8 +13,8 @@ it	- Possiamo ripassare le battute? - Sono qui per questo.
 ko	- 아무튼 대본 연습할까요? | - 그래서 온 거잖아 | 
 nl	Kunnen we de tekst doornemen? -Daarom ben ik hier. 
 pl	- Poćwiczymy moje kwestie? - Po to tu jestem. 
-pr-br	-Enfim, podemos repassar as falas? -É por isso que estou aqui. 
-pr	- Podemos ensaiar as falas? - É para isso que aqui estou. 
+pt-br	-Enfim, podemos repassar as falas? -É por isso que estou aqui. 
+pt	- Podemos ensaiar as falas? - É para isso que aqui estou. 
 ro	- În fine, putem repeta replicile? - Da, de asta am venit. 
 sv	-Kan vi köra några repliker? -Det är därför jag är här. 
 th	- เอาเถอะ มาซ้อมบทกันได้ไหม | - ได้สิ เพราะงั้นผมถึงได้มา | 

@@ -12,8 +12,8 @@ he	&rlm;‏‏קח אותי לחבילה. | &rlm;‏-מכאן.‏ |
 it	- Fammi strada. - Da questa parte. 
 nl	Breng me ernaartoe. 
 pl	- Prowadź. - Tędy. 
-pr-br	-Leve-me ao pacote. -Por aqui. 
-pr	- Levem-me lá. - Por aqui. 
+pt-br	-Leve-me ao pacote. -Por aqui. 
+pt	- Levem-me lá. - Por aqui. 
 ro	- Du-mă la om. - Pe aici! 
 th	- ช่วยพาไปหน่อยสิ | - ทางนี้ | 
 tr	-Beni pakete götür. -Bu taraftan. 

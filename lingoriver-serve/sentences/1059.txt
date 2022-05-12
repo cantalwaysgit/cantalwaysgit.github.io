@@ -9,8 +9,8 @@ fr	M. Jones, c'est exquis.
 it	È squisito, sig. Jones. 
 ko	존스 씨, 정말 강렬하네요 | 
 nl	Mr Jones, deze is voortreffelijk. 
-pr-br	Sr. Jones, é uma delícia. 
-pr	Sr. Jones, que requintado. 
+pt-br	Sr. Jones, é uma delícia. 
+pt	Sr. Jones, que requintado. 
 sv	Det är utsökt, mr Jones. 
 vi	Anh Jones, thật tinh tế. | 
 zh-long	瓊斯先生，根本是極品 

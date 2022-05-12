@@ -8,8 +8,8 @@ es	Mátate.
 fr	Va mourir. 
 he	&rlm;‏לך תתאבד.‏ | 
 it	Ammazzati. 
-pr-br	Se mate. 
-pr	Vai-te matar. 
+pt-br	Se mate. 
+pt	Vai-te matar. 
 ro	Omoară-te! 
 sv	Gå och dö. 
 th	ฆ่าตัวตายซะ | 
@@ -38,8 +38,8 @@ he	&rlm;‏בסדר. זהו זה. אני מנתק.‏ |
 it	Bene. Ora basta. Riattacco. 
 ko	알았어, 안 되겠다 | 이만 전화 끊는다 | 
 pl	Dość tego. Odkładam słuchawkę. 
-pr-br	Certo. Basta. Vou desligar o telefone. 
-pr	Pronto. Chega. Vou desligar o telefone. 
+pt-br	Certo. Basta. Vou desligar o telefone. 
+pt	Pronto. Chega. Vou desligar o telefone. 
 ro	Bine. Până aici! Închid telefonul. 
 sv	Det räcker. Jag lägger på. 
 th	โอเคๆ แค่นั้นนะ ฉันจะวางหูแล้ว | 

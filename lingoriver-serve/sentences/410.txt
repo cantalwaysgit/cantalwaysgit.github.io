@@ -14,8 +14,8 @@ it	Seattle.
 ko	시애틀 | 
 no	Seattle. 
 pl	Seattle. 
-pr-br	Seattle. 
-pr	Seattle. 
+pt-br	Seattle. 
+pt	Seattle. 
 ro	Seattle. 
 sv	Seattle. 
 th	ซีแอตเทิลๆ | 

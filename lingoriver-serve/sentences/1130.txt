@@ -12,8 +12,8 @@ it	Venne fuori che era l'addestratore di Benji.
 nl	Dat bleek Benji's trainer te zijn. 
 no	Det viste seg å være treneren til Benji. 
 pl	Okazało się, że to był treser Benjiego. 
-pr	Afinal era o treinador do Benji. 
-pr-br	Mas era o treinador do Benji. 
+pt	Afinal era o treinador do Benji. 
+pt-br	Mas era o treinador do Benji. 
 ro	Se pare că era dresorul lui Benji. 
 sv	Det visade sig vara Benjis tränare. 
 tr	Meğer Benji'nin eğitmeniymiş. 

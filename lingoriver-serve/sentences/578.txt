@@ -8,8 +8,8 @@ fr	Si mon terrain de tennis est allumé, un soir,
 it	Quando vedi il mio campo da tennis illuminato di sera, 
 nl	Als je de lichten op mijn tennisbaan ziet branden... 
 pl	Jeśli zobaczysz na korcie zapalone światło, 
-pr-br	Se vir a minha quadra de tênis acesa à noite, 
-pr	Se vires as luzes do campo de ténis ligadas de noite, 
+pt-br	Se vir a minha quadra de tênis acesa à noite, 
+pt	Se vires as luzes do campo de ténis ligadas de noite, 
 th	งั้นก็ ถ้าคุณเห็น | แสงไฟที่สนามเทนนิสในตอนค่ำ | 
 tr	Gece tenis sahamın ışıklarını açık görürsen 
 vi	Nếu anh thấy | đèn ở sân tennis của tôi sáng, | 

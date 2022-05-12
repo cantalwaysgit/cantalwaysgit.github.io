@@ -15,8 +15,8 @@ ko	아주 엉망이에요 |
 nl	Heel slecht. 
 no	Veldig dårlig. 
 pl	Bardzo źle. 
-pr-br	Muito ruim. 
-pr	Muito mal. 
+pt-br	Muito ruim. 
+pt	Muito mal. 
 ro	Foarte rău. 
 sv	Mycket dåligt. 
 th	แย่มาก | 

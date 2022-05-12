@@ -13,8 +13,8 @@ ko	- 에이미 배스킨 | - 샌디, 여기서 뭐 해요? |
 nl	Amy Baskin. -Sandy, wat doe je hier? 
 no	-Amy Baskin. -Sandy, hva gjør du her? 
 pl	- Amy Baskin. - Sandy, co ty tu robisz? 
-pr	- Amy Baskin. - Sandy, o que fazes aqui? 
-pr-br	-Amy Baskin. -Sandy, o que está fazendo aqui? 
+pt	- Amy Baskin. - Sandy, o que fazes aqui? 
+pt-br	-Amy Baskin. -Sandy, o que está fazendo aqui? 
 ro	- Amy Baskin. - Sandy, ce faci aici? 
 ru	-Эми Баскин! -Сэнди, ты что тут делаешь? 
 sv	-Amy Baskin? -Vad gör du här? 

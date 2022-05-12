@@ -16,8 +16,8 @@ ko	이젠 어떡하지? |
 nl	Wat doen we nu? 
 no	Hva gjør vi nå? 
 pl	No to co teraz? 
-pr-br	Certo, o que vamos fazer agora? 
-pr	Está bem, o que fazemos agora? 
+pt-br	Certo, o que vamos fazer agora? 
+pt	Está bem, o que fazemos agora? 
 ro	Bine. Și acum ce facem? 
 sv	Vad gör vi nu? 
 tr	Peki, şimdi ne yapacağız? 

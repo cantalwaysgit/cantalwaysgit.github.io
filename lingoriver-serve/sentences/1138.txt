@@ -11,8 +11,8 @@ id	Tidak. Sebaiknya kau berbalik.
 it	No. È meglio se ti volti. 
 nl	Nee. Draai je maar om. 
 no	Nei. Kanskje du burde snu deg. 
-pr-br	Não. Talvez devesse se virar. 
-pr	Não. Talvez seja melhor virares-te. 
+pt-br	Não. Talvez devesse se virar. 
+pt	Não. Talvez seja melhor virares-te. 
 ro	Nu. Poate că ar trebui să te întorci. 
 sv	Nej. Du kanske ska vända dig om. 
 th	ไม่ บางทีคุณน่าจะหันหลังซะ | 

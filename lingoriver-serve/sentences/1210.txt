@@ -14,8 +14,8 @@ it	Hai fatto in modo che Gary, l'intrepido trapezista,
 nl	Je zorgde dat Gary de dappere trapeze-artiest... 
 no	Du sørget for at trapesartisten Gary 
 pl	Zadbałeś, żeby przed jej koncertem w Universal Amphitheatre 
-pr-br	Você fez com que Gary, o trapezista intrépido, 
-pr	Garantiste que o Gary, o trapezista temerário, 
+pt-br	Você fez com que Gary, o trapezista intrépido, 
+pt	Garantiste que o Gary, o trapezista temerário, 
 ro	Te-ai asigurat ca Gary, artistul neînfricat al trapezului, 
 sv	Du såg till att Gary, den våghalsiga trapetskonstnären, 
 th	คุณจัดการให้ | แกรี่ศิลปินชิงช้าสูงเสี่ยงตาย | 

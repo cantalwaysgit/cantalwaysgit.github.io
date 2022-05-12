@@ -12,8 +12,8 @@ it	Vado a controllare i vestiti.
 ko	청바지 한번 보고 올게요 | 
 nl	Ik ga kijken hoe het met je broek staat. 
 pl	Zobaczę, czy spodnie się uprały. 
-pr-br	Vou ver como estão as calças. 
-pr	Vou ver como estão as calças. 
+pt-br	Vou ver como estão as calças. 
+pt	Vou ver como estão as calças. 
 ro	Mă duc să văd ce e cu blugii. 
 sv	Jag ska kolla jeansen. 
 th	ฉันจะไปดูกางเกงยีนให้ | 

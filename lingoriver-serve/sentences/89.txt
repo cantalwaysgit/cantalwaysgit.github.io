@@ -13,8 +13,8 @@ it	- Kielbasa. - Bistecca.
 ko	- 마늘 소시지 | - 티본 스테이크 | 
 no	-Kielbasa. -T-beinstek. 
 pl	- Kiełbasę. - Stek. 
-pr-br	-Linguiça apimentada. -Bisteca. 
-pr	- Kielbasa. - Costeleta de vaca. 
+pt-br	-Linguiça apimentada. -Bisteca. 
+pt	- Kielbasa. - Costeleta de vaca. 
 ro	- Cârnăciori. - Cotlet cu os. 
 sv	-Kiebasa. -T-benstek. 
 th	- ไส้กรอกคีลบาซา | - สเต๊กทีโบน | 

@@ -15,8 +15,8 @@ ko	신곡 ‘미스터 DJ’ | 잘 들었어요, 공연도 해줘요 |
 nl	Ik hoorde je nieuwe nummer, 'Mr DJ'. Te gek. Je moet het in de show doen. 
 no	Jeg hørte den nye sangen din, "Mr. DJ". Digger den. Du må synge den i showet. 
 pl	Uwielbiam twoją piosenkę „Mister DJ”. Musisz ją zaśpiewać w programie. 
-pr-br	Ouvi a sua nova música, "Mr. DJ". Adorei. Tem que cantar no meu programa. 
-pr	Ouvi a tua canção, "Mr. DJ." Adoro. Tens de a cantar no programa. 
+pt-br	Ouvi a sua nova música, "Mr. DJ". Adorei. Tem que cantar no meu programa. 
+pt	Ouvi a tua canção, "Mr. DJ." Adoro. Tens de a cantar no programa. 
 ro	Am auzit noul tău cântec, "Domnule DJ". Îl ador. Trebuie să-l cânți la emisiune. 
 sv	Jag hörde låten "Mr DJ". Jag älskar den. Du måste vara med i min show. 
 th	ผมได้ยินเพลงใหม่ของคุณ "คุณดีเจ" | ผมชอบมาก คุณต้องมาร้องในโชว์ของผม | 

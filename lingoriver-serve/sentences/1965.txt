@@ -12,7 +12,7 @@ ko	다른 사람 음악 안 쓰고 | 한번 웃겨보지그래요? |
 nl	Laat me één keer lachen zonder de muziek van iemand anders. 
 no	Hvorfor kan du ikke få meg til å le uten å bruke andres musikk? 
 pl	Może spróbuj mnie rozśmieszyć bez korzystania z cudzej muzyki? 
-pr	Porque não me fazes rir uma vez sem usares a música de outra pessoa? 
+pt	Porque não me fazes rir uma vez sem usares a música de outra pessoa? 
 ro	De ce nu mă faci să râd fără să folosești muzica altcuiva? 
 sv	Få mig att skratta en gång utan att använda nån annans musik! 
 th	ทำไมไม่ทำให้ฉันหัวเราะ | โดยไม่ใช้ดนตรีของคนอื่นล่ะ | 
@@ -20,7 +20,7 @@ tr	Başkasının müziğini kullanmadan güldürsene beni!
 vi	Thử làm tôi cười | mà không dùng nhạc của người khác xem? | 
 zh-long	那你試試不亂搞別人的歌 看看好不好笑？ 
 zh-short	你别改编别人的音乐来逗我笑试试？ 
-pr-br	Por que não me faz rir uma vez sem usar a música de outra pessoa? 
+pt-br	Por que não me faz rir uma vez sem usar a música de outra pessoa? 
 id	Bagaimana kalau kau buat aku tertawa tanpa gunakan musik orang lain? 
 ru	Может, рассмешишь меня без чужой музыки? 
 ja	替え歌を使わずにな | 

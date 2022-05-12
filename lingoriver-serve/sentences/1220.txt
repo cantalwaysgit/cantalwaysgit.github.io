@@ -10,8 +10,8 @@ he	&rlm;‏וזה מה שמעכב אותה.‏ |
 it	Ed è proprio quello che la frena. 
 nl	En dat houdt haar tegen. 
 pl	I dlatego nie rozwija skrzydeł. 
-pr-br	E é isso que a está segurando. 
-pr	E é isso que a impede de crescer. 
+pt-br	E é isso que a está segurando. 
+pt	E é isso que a impede de crescer. 
 ro	Și asta o trage înapoi. 
 th	และนั่นคือสิ่งที่รั้งเธอเอาไว้ | 
 tr	Ve bu ona engel oluyor. 

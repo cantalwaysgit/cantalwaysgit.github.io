@@ -14,8 +14,8 @@ fr	C'est Mary Jo Slater qui gère le casting ?
 he	&rlm;‏האם מרי ג'ו סלייטר סוכנת הליהוק?‏ | 
 it	L'addetta al casting è Mary Jo Slater? 
 no	Er Mary Jo Slater castingansvarlig? 
-pr-br	Mary Jo Slater é a diretora de elenco? 
-pr	É a Mary Jo Slater quem está a fazer o  casting? 
+pt-br	Mary Jo Slater é a diretora de elenco? 
+pt	É a Mary Jo Slater quem está a fazer o  casting? 
 ro	Mary Jo Slater face distribuția? 
 th	แมรี่ โจ สเลเตอร์เป็น | ตัวแทนคัดนักแสดงใช่ไหม | 
 tr	Oyuncu seçimini Mary Jo Slater mı yapıyor? 

@@ -12,8 +12,8 @@ it	Mente di nuovo.
 ko	또 거짓말하네 | 
 no	Han lyver igjen. 
 pl	Znowu kłamie. 
-pr-br	Ele está mentindo de novo. 
-pr	Está outra vez a mentir. 
+pt-br	Ele está mentindo de novo. 
+pt	Está outra vez a mentir. 
 ro	Iar minte. 
 sv	Han ljuger igen. 
 th	เขาโกหกอีกแล้ว | 

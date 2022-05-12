@@ -12,8 +12,8 @@ it	Qui e alla radio.
 ko	여기랑 라디오에서 | 
 no	Her og på radio. 
 pl	Stąd i z radia. 
-pr	Aqui e na rádio. 
-pr-br	Aqui e na rádio. 
+pt	Aqui e na rádio. 
+pt-br	Aqui e na rádio. 
 ro	Aici și la radio. 
 sv	Här och i radion. 
 th	ที่นี่และวิทยุ | 

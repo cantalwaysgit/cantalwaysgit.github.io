@@ -15,8 +15,8 @@ it	Frank Gorshin mi faceva lavare a mano il costume dell'Enigmista,
 nl	Ik moest van Frank Gorshin het Riddler-kostuum op de hand wassen. 
 no	Og Frank Gorshin pleide å be meg håndvaske Riddler-kostymet 
 pl	Frank Gorshin kazał mi ręcznie prać jego kostium Riddlera, 
-pr-br	E Frank Gorshin me fazia lavar à mão o figurino do Charada 
-pr	O Frank Gorshin costumava mandar-me lavar à mão o fato do Enigma 
+pt-br	E Frank Gorshin me fazia lavar à mão o figurino do Charada 
+pt	O Frank Gorshin costumava mandar-me lavar à mão o fato do Enigma 
 ro	Iar Frank Gorshin mă punea să-i spăl de mână costumul de Riddler, 
 sv	Och hos Frank Gorshin fick jag handtvätta Riddler-kostymen, 
 th	แฟรงก์ กอร์ชินเคยใช้ให้ฉันซักมือ | ชุดของริดด์เลอร์ | 

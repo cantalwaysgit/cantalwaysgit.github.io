@@ -8,8 +8,8 @@ fr	Après ta première victoire aux Grammy,
 it	Quando vincerai il primo Grammy, 
 nl	Als je je eerste Grammy hebt gewonnen... 
 pl	Kiedy już zdobędziesz Grammy, 
-pr-br	Depois que vencer o primeiro Grammy, 
-pr	depois de venceres o teu primeiro Grammy, 
+pt-br	Depois que vencer o primeiro Grammy, 
+pt	depois de venceres o teu primeiro Grammy, 
 ro	După ce o să câștigi primul Grammy, 
 sv	När du vunnit din första Grammy, 
 tr	İlk Grammy'ni kazandıktan sonra 

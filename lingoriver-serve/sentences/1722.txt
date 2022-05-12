@@ -9,8 +9,8 @@ es-eu	Vale.
 he	&rlm;‏בסדר.‏ | 
 it	Bene. 
 ko	알았어요 | 
-pr-br	Está bem. 
-pr	Pronto. 
+pt-br	Está bem. 
+pt	Pronto. 
 ro	Bine. 
 sv	Okej. 
 th	โอเค โอเค | 

@@ -11,8 +11,8 @@ he	&rlm;‏מה שלומך? אף אחד לא שואל אף פעם מה שלומ�
 it	Tu come stai? A te non lo chiedono mai. 
 ko	어떻게 지내세요? | 아무도 당신 안부는 묻지 않죠 | 
 pl	A ty? O ciebie nigdy nikt nie pyta. 
-pr-br	Como você está? Ninguém nunca pergunta para você. 
-pr	Como estás? Nunca te perguntam como estás. 
+pt-br	Como você está? Ninguém nunca pergunta para você. 
+pt	Como estás? Nunca te perguntam como estás. 
 ro	Tu cum faci față? Nu te întreabă nimeni asta. 
 th	แล้วคุณล่ะ | ไม่มีใครถามว่าคุณเป็นยังไง | 
 tr	Sen nasılsın? Kimse sana nasıl olduğunu sormuyor. 
@@ -35,8 +35,8 @@ he	&rlm;‏איך את מרגישה?‏ |
 it	Come ti senti? 
 ko	기분이 어때요? | 
 pl	Jak się czujesz? 
-pr-br	Como está se sentindo? 
-pr	Como te sentes? 
+pt-br	Como está se sentindo? 
+pt	Como te sentes? 
 ro	Cum te simți? 
 th	คุณรู้สึกยังไง | 
 tr	Ne hissediyorsun? 

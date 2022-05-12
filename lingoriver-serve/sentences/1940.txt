@@ -14,8 +14,8 @@ ko	천재야 |
 nl	Geniaal. 
 no	Genialt. 
 pl	Genialne. 
-pr-br	Genial. 
-pr	És um génio. 
+pt-br	Genial. 
+pt	És um génio. 
 ro	Genial! 
 sv	Genialt. 
 th	อัจฉริยะ | 

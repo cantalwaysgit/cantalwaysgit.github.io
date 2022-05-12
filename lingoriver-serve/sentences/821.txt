@@ -13,8 +13,8 @@ it	Immergi il piede e la tua carriera è finita.
 ko	발 담그지 마 | 그러면 네 가수 인생은 끝이야 | 
 no	Dypper du foten, er karrieren over. 
 pl	Wejdziesz i po karierze. 
-pr-br	Se colocar o pé na piscina, sua carreira já era. 
-pr	Não ponhas o pé na piscina ou a tua carreira acaba. 
+pt-br	Se colocar o pé na piscina, sua carreira já era. 
+pt	Não ponhas o pé na piscina ou a tua carreira acaba. 
 ro	Dacă-ți bagi piciorul, s-a zis cu cariera ta! 
 sv	Doppar du foten är din karriär slut. 
 th	อย่าหย่อนเท้าลงไป | ไม่งั้นอาชีพคุณจบกัน | 
@@ -38,8 +38,8 @@ ko	농담하는 거 아니야 | 네가 뭐라건 상관없어 |
 nl	Ik meen het. Het boeit me niet wat jullie zeggen. 
 no	Og jeg mener det. Jeg blåser i hva du sier. 
 pl	Mówię poważnie. Nieważne, co mówicie. 
-pr-br	Não estou brincando com você. Não me importo com o que diz. 
-pr	Não estou a brincar. Não me interessa o que dizem. 
+pt-br	Não estou brincando com você. Não me importo com o que diz. 
+pt	Não estou a brincar. Não me interessa o que dizem. 
 ro	Și nu glumesc. Nu-mi pasă ce ziceți voi. 
 sv	Jag skojar inte med dig. Jag struntar i vad ni säger. 
 th	ผมไม่ได้พูดเล่นๆ ไม่สนว่าจะตอบยังไง | 

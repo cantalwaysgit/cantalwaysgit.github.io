@@ -12,8 +12,8 @@ it	- Sei tu l'artista. Non me la sento. - Dai.
 ko	- 난 예술인 느낌이 안 나 | - 어서 와 봐요 | 
 no	-Du er artist. Jeg kan ikke. -Kom igjen. 
 pl	- To ty jesteś piosenkarką. - No chodź. 
-pr-br	-Você é artista. Não tenho a manha. -Venha. 
-pr	- Tu és artista. Eu não tenho jeito. - Anda daí. 
+pt-br	-Você é artista. Não tenho a manha. -Venha. 
+pt	- Tu és artista. Eu não tenho jeito. - Anda daí. 
 ro	- Tu ești artistă. Eu n-am simțul tău. - Hai! 
 sv	-Du är artist. Jag har inte känslan. -Kom igen. 
 th	- คุณเป็นนักแสดง ผมไม่รู้สึกแบบนั้น | - มาเถอะน่า | 

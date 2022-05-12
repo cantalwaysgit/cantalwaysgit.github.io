@@ -12,8 +12,8 @@ ko	사실 의사가 | 새 갑상선 약을 주면서 |
 nl	De dokter heeft me een nieuw schildkliermedicijn gegeven. 
 no	Vet du hva? Legen har satt meg på en ny medisin. 
 pl	Lekarz przepisał mi nowe leki na tarczycę. 
-pr-br	Sabe, meu médico trocou meu remédio da tireoide. 
-pr	O médico receitou-me um medicamento novo para a tiroide. 
+pt-br	Sabe, meu médico trocou meu remédio da tireoide. 
+pt	O médico receitou-me um medicamento novo para a tiroide. 
 ro	Știi ce? Doctorul mi-a prescris alte pastile pentru glanda tiroidă. 
 sv	Vet du vad? Doktorn har gett mig ny sköldkörtelmedicin. 
 th	รู้ไหม หมอสั่งยาไทรอยด์ใหม่ให้ผม | 

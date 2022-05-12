@@ -9,8 +9,8 @@ he	&rlm;‏מי? ביוויס?‏ |
 it	Chi sei? Beavis? 
 nl	Wie? Beavis? 
 pl	To kto? Beavis? 
-pr-br	Quem? Beavis? 
-pr	Quem? Beavis? 
+pt-br	Quem? Beavis? 
+pt	Quem? Beavis? 
 ro	Cine? Beavis? 
 sv	Vem då? Beavis? 
 th	ใคร บีวิสเหรอ | 

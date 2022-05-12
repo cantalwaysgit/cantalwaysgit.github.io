@@ -14,8 +14,8 @@ it	- Che vorrebbe dire? - Non è una cosa negativa.
 nl	Hoezo, 'druifachtig'? -Dat is niet negatief. 
 no	-Hva mener du? -Jeg sier ikke at det er negativt. 
 pl	- Jak to? - Nie miałem na myśli nic złego. 
-pr-br	-Como assim? -Eu não disse que isso era ruim. 
-pr	- Como assim, "sabe às uvas"? - Não disse que era uma coisa má. 
+pt-br	-Como assim? -Eu não disse que isso era ruim. 
+pt	- Como assim, "sabe às uvas"? - Não disse que era uma coisa má. 
 ro	- Cum adică "gust de struguri"? - N-am zis că e rău. 
 sv	-Vad menar du med "surt"? -Jag menade inte nåt dåligt. 
 th	- หมายความว่าไง | - ผมไม่ได้บอกว่ามันไม่ดี | 

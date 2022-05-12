@@ -12,8 +12,8 @@ it	Ascolta.
 ko	들어봐 | 
 no	Hør her. 
 pl	Słuchaj. 
-pr-br	Bem, ouça. 
-pr	Escuta. 
+pt-br	Bem, ouça. 
+pt	Escuta. 
 ro	Ascultă! 
 sv	Hör på. 
 th	ฟังนะ | 

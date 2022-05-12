@@ -13,8 +13,8 @@ it	Volete leggerla a voce alta?
 nl	Willen jullie dat hardop voorlezen? 
 no	Skal vi lese det høyt? 
 pl	Poczytamy na głos? 
-pr-br	Querem ler em voz alta? 
-pr	Querem lê-lo em voz alta? 
+pt-br	Querem ler em voz alta? 
+pt	Querem lê-lo em voz alta? 
 ro	Vreți să-l citiți cu voce tare? 
 sv	Vill ni läsa det högt? 
 th	อยากลองอ่านออกเสียงไหมล่ะ | 
@@ -35,8 +35,8 @@ id	Tidak?
 ko	싫어? | 
 no	Ikke? 
 pl	Nie? 
-pr-br	Não? 
-pr	Não? 
+pt-br	Não? 
+pt	Não? 
 ro	Nu? 
 sv	Inte? 
 th	ไม่เอาเหรอ | 
@@ -57,8 +57,8 @@ he	&rlm;‏מה אתן רוצות לעשות?‏ |
 it	Cosa volete fare? 
 ko	그럼 뭐 할래? | 
 pl	Co chcecie robić? 
-pr-br	O que querem fazer? 
-pr	O que gostavam de fazer? 
+pt-br	O que querem fazer? 
+pt	O que gostavam de fazer? 
 ro	Ce vreți să facem? 
 sv	Vad vill ni göra? 
 th	แล้วอยากทำอะไร | 
@@ -82,8 +82,8 @@ he	&rlm;‏ללכת לשחות?‏ |
 it	Andare a nuotare? 
 ko	수영할까요? | 
 pl	Popływać? 
-pr-br	Tomar banho de piscina? 
-pr	Ir nadar? 
+pt-br	Tomar banho de piscina? 
+pt	Ir nadar? 
 ro	Să înotăm? 
 sv	Bada? 
 th	ไปว่ายน้ำได้ไหม | 

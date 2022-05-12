@@ -13,8 +13,8 @@ he	&rlm;‏‏אני מכורה אליו. את יפהפייה. | &rlm;‏-תוד
 it	- Ne sono ossessionata e lei è splendida. - Grazie. 
 no	-Jeg er helt besatt av det. Du er nydelig. -Takk. 
 pl	- Słucham jej codziennie. Ale pani ładna. - Dziękuję. 
-pr-br	-Estou fissurada nele. Você é linda. -Obrigada. 
-pr	- Ouço-o todos os dias. É tão linda. - Obrigada. 
+pt-br	-Estou fissurada nele. Você é linda. -Obrigada. 
+pt	- Ouço-o todos os dias. É tão linda. - Obrigada. 
 ro	- Sunt obsedată de el. Sunteți frumoasă. - Mulțumesc. 
 sv	-Jag spelar det varje dag. Du är vacker. -Tack. 
 th	- ฉันหลงใหลมันเลย คุณสวยมาก | - ขอบคุณ | 

@@ -17,8 +17,8 @@ ko	제가 뭘 했다고요? |
 nl	Wat heb ik gedaan? 
 no	Hva har jeg gjort? 
 pl	O co wam chodzi? 
-pr-br	O que eu fiz? 
-pr	O que foi que eu fiz? 
+pt-br	O que eu fiz? 
+pt	O que foi que eu fiz? 
 ro	Dar ce-am făcut? 
 sv	Vad har jag gjort? 
 tr	Ne yaptım ki? 

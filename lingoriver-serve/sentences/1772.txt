@@ -14,7 +14,7 @@ it	Honk honk.
 ko	헉 헉 | 
 no	Klukk, klukk. 
 pl	Tu... tut. 
-pr-br	Muitas risadas. 
+pt-br	Muitas risadas. 
 sv	Tutelitut... 
 th	ลัค ฮัค | 
 tr	Ebüve! Ebüve! 

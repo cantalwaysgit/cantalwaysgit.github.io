@@ -10,8 +10,8 @@ he	&rlm;‏‏השירה היא רק בשבילנו. | &rlm;‏-טוב. לא א�
 it	- Cantiamo solo noi. - Certo. Non lo faro più. 
 nl	Alleen wij zingen. -Goed. Ik zal het nooit meer doen. 
 pl	- Tylko my śpiewamy. - To już się nie powtórzy. 
-pr	- A canção é só nossa. - Ótimo. Não se volta a repetir. 
-pr-br	-Só nós dois cantamos. -Está bem. Nunca mais faço isso. 
+pt	- A canção é só nossa. - Ótimo. Não se volta a repetir. 
+pt-br	-Só nós dois cantamos. -Está bem. Nunca mais faço isso. 
 ro	- Cântatul e doar de noi. - Bine. Nu se va mai repeta. 
 sv	-Det är bara vi två som sjunger. -Okej. Jag ska inte göra det igen. 
 tr	-Şarkıyı biz söyleyeceğiz. -Peki. Tamam. Bir daha yapmam. 

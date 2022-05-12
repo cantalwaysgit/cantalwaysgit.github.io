@@ -10,8 +10,8 @@ he	&rlm;‏כשייצגתי את הוץ' מ"טרנר והוץ'",‏ |
 it	Quando ero agente di Hooch, di  Turner e il casinaro, 
 nl	Toen ik Hooch van  Turner & Hooch  vertegenwoordigde... 
 pl	Kiedy reprezentowałem Hoocha z  Turner i Hooch, 
-pr-br	Quando eu era empresário do Hooch de  Uma Dupla Quase Perfeita, 
-pr	Quando eu representava o Hooch, de  Amigos e Detectives, 
+pt-br	Quando eu era empresário do Hooch de  Uma Dupla Quase Perfeita, 
+pt	Quando eu representava o Hooch, de  Amigos e Detectives, 
 ro	Când îl reprezentam pe Hooch, de la  Turner & Hooch, 
 sv	När jag representerade Hooch från  Turner & Hooch, 
 tr	Turner & Hooch'un  Hooch'unu temsil ederken 

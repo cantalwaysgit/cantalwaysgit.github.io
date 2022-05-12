@@ -12,8 +12,8 @@ he	&rlm;‏‏אתה דפוק! | &rlm;‏-מה? לא, אני לא.‏ |
 it	- Fai schifo! - Cosa? Non è vero. 
 nl	Je bent waardeloos. -Wat? Niet waar. 
 no	-Du suger! -Hva? Nei, det gjør jeg ikke. 
-pr-br	-Você é um saco! -Quê? Não sou. 
-pr	- Tu mamas! - O quê? Não mamo nada. 
+pt-br	-Você é um saco! -Quê? Não sou. 
+pt	- Tu mamas! - O quê? Não mamo nada. 
 ro	- O sugi! - Poftim? Nu. 
 sv	-Du suger. -Vadå? Nej, det gör jag inte. 
 th	- แกมันห่วย | - อะไรนะ ไม่ ฉันไม่ | 

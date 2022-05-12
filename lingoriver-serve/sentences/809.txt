@@ -12,8 +12,8 @@ it	Non stai tralasciando la parte migliore?
 nl	Vergeet je het beste gedeelte niet? 
 no	Glemmer du ikke det beste? 
 pl	Zapomniałeś o najważniejszej części rytuału. 
-pr-br	Não está esquecendo a melhor parte do ritual? 
-pr	Não se estão a esquecer da melhor parte? 
+pt-br	Não está esquecendo a melhor parte do ritual? 
+pt	Não se estão a esquecer da melhor parte? 
 ro	Nu uiți partea cea mai bună? 
 sv	Glömmer du inte den bästa delen? 
 th	ลืมตอนดีที่สุดไปแล้วเหรอ | 

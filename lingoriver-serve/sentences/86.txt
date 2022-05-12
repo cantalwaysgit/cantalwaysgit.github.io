@@ -14,8 +14,8 @@ ko	왜 거짓 웃음소리를 내죠? | 에디 머피예요, 재밌잖아요 |
 nl	'Waarom lach je nep? Het is Eddie Murphy. Die is grappig.' 
 no	"Hvorfor ler du falskt? Det er Eddie Murphy. Han er morsom." 
 pl	„Czemu udajesz? To Eddie Murphy. On jest zabawny naprawdę”. 
-pr-br	Tipo: "Por que está forçando a risada? É o Eddie Murphy. Ele é engraçado." 
-pr	"Porque estás a rir a fingir? É o Eddie Murphy. Ele tem piada." 
+pt-br	Tipo: "Por que está forçando a risada? É o Eddie Murphy. Ele é engraçado." 
+pt	"Porque estás a rir a fingir? É o Eddie Murphy. Ele tem piada." 
 ro	Îl întrebam de ce râde și răspundea că Eddie Murphy e amuzant. 
 sv	Typ: "Varför fejkskrattar du? Det är Eddie Murphy. Han är kul." 
 th	แบบ "ทำไมถึงแกล้งหัวเราะล่ะ | มันแบบเอ็ดดี้ เมอร์ฟีย์ จี้ดี" | 

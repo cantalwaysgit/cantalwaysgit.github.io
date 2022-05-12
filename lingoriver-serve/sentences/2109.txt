@@ -8,8 +8,8 @@ fr	Malgré les rabat-joie de première
 he	&rlm;‏אפילו עם הצגה שאתה יודע שתרד‏ | 
 it	Anche con un fiasco Che sai che andrà male 
 pl	Jeśli twoje show to gniot 
-pr-br	Mesmo com algo que acha que será sucesso 
-pr	Mesmo com um grande fiasco 
+pt-br	Mesmo com algo que acha que será sucesso 
+pt	Mesmo com um grande fiasco 
 ro	Deși știi că poate nu va fi bine 
 th	แม้แต่รายการแย่ที่รู้ว่าไปไม่รอด | 
 tr	Bir oyunun başarısız olacağını bilsen bile 

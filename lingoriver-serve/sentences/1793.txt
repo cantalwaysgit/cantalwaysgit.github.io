@@ -9,8 +9,8 @@ fr	Quoi ? Tu chantes sans arrêt.
 he	&rlm;‏מה? אתה שר כל הזמן.‏ | 
 it	Cosa? Ma tu canti sempre. 
 no	Hva? Du synger støtt. 
-pr-br	Quê? Você canta o tempo todo. 
-pr	O quê? Estás sempre a cantar. 
+pt-br	Quê? Você canta o tempo todo. 
+pt	O quê? Estás sempre a cantar. 
 ro	Poftim? Cânți mereu. 
 sv	Vadå? Du sjunger ju jämt. 
 tr	Ne? Sürekli şarkı söylüyorsun. 

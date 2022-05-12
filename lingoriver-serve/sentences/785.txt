@@ -10,8 +10,8 @@ it	Mr. DJ
 ko	미스터 DJ | 
 nl	Mr DJ 
 pl	Panie DJ-u 
-pr-br	Mr. DJ 
-pr	Mr. DJ 
+pt-br	Mr. DJ 
+pt	Mr. DJ 
 ro	Domnule DJ 
 sv	Mr DJ 
 th	คุณดีเจ | 

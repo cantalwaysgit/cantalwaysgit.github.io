@@ -10,8 +10,8 @@ it	Riportami a quei momenti In cui era ancora innamorato di me
 ko	날 아직 사랑하던 | 그때로 데려가 줘요 | 
 nl	breng me naar de tijd toen hij nog van me hield 
 pl	Przenieś mnie w czas Kiedy wciąż kochał mnie 
-pr-br	Leve-me à época Quando ele estava apaixonado por mim 
-pr	Leva-me para uma altura Em que ele estava apaixonado por mim 
+pt-br	Leve-me à época Quando ele estava apaixonado por mim 
+pt	Leva-me para uma altura Em que ele estava apaixonado por mim 
 ro	Du-mă pe vremea când el Mai era îndrăgostit de mine 
 sv	Ta mig tillbaka i tiden När han var kär i mig 
 th	พาฉันไปในยุคที่เขายังรักฉันอยู่ | 

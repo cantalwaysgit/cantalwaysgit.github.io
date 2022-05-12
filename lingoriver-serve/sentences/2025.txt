@@ -11,8 +11,8 @@ fr	Même quand tu douteras de toi-même.
 he	&rlm;‏אפילו כשתפקפקי בעצמך.‏ | 
 it	Neanche se tu dubitassi di te stessa. 
 pl	Nawet kiedy sama to zrobisz. 
-pr-br	Mesmo quando duvidar de você mesma. 
-pr	Nem mesmo quando duvidas de ti própria. 
+pt-br	Mesmo quando duvidar de você mesma. 
+pt	Nem mesmo quando duvidas de ti própria. 
 ro	Chiar și atunci când îți pierzi încrederea. 
 th	ถึงแม้ว่าคุณจะไม่เชื่อในตัวเอง | 
 tr	Sen kendinden şüphe etsen bile. 

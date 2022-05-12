@@ -15,8 +15,8 @@ it	Tre anni, 20 puntate garantite, alle cifre che hai detto tu.
 nl	Drie jaar, 20 afleveringen en de bedragen die je noemde. 
 no	Tre år, minst 20 episoder, med summene du nevnte. 
 pl	Trzy lata, 20 odcinków i kwoty, które podałeś. 
-pr-br	Três anos, mínimo de 20 programas com os valores que estipulou. 
-pr	Três anos e um mínimo de 20 programas, com os valores que referiste. 
+pt-br	Três anos, mínimo de 20 programas com os valores que estipulou. 
+pt	Três anos e um mínimo de 20 programas, com os valores que referiste. 
 ro	Trei ani, minimum 20 de episoade anual, pentru sumele menționate. 
 sv	Tre år, 20 shower, och de summorna ni sa. 
 tr	Üç yıl, istediğin paraya en az 20 program. 

@@ -15,8 +15,8 @@ ko	- 잠재력이 있어요 | - 음질이 최악이었잖아 |
 nl	Het heeft potentieel. -Wacht. De productiekwaliteit is slecht. 
 no	-Det har potensial. -Vent. Produksjonen er bedriten. 
 pl	- Ma potencjał. - Tak. Ale jakość nagrania jest do dupy. 
-pr-br	-Tem potencial. -A qualidade da produção é uma merda. 
-pr	- Tem potencial. - A qualidade de produção é uma merda. 
+pt-br	-Tem potencial. -A qualidade da produção é uma merda. 
+pt	- Tem potencial. - A qualidade de produção é uma merda. 
 ro	- Are potențial. - Calitatea producției e de rahat. 
 sv	-Den har potential. -Vänta lite. Produktionen är skit. 
 th	- มีแววเป็นไปได้นะ | - เดี๋ยวก่อน คุณภาพการผลิตแย่มาก | 

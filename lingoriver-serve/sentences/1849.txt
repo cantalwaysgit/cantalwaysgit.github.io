@@ -14,8 +14,8 @@ it	con aumento di 200.000 dollari a stagione.
 nl	...plus $200.000 voor elk jaar dat we uitzenden. 
 no	med en økning på 200 000 for hvert år vi er på lufta. 
 pl	Do tego premia 200 tysięcy po każdym roku na antenie. 
-pr-br	mais US$ 200 mil a cada ano que ficarmos no ar. 
-pr	com um bónus de 200 mil dólares por cada ano no ar. 
+pt-br	mais US$ 200 mil a cada ano que ficarmos no ar. 
+pt	com um bónus de 200 mil dólares por cada ano no ar. 
 ro	cu un bonus de 200.000 pentru fiecare an de emisie. 
 sv	inklusive 200 000 per år varje gång vi visas på TV. 
 th	โบนัสสองแสนต่อทุกปีที่ออกอากาศ | 

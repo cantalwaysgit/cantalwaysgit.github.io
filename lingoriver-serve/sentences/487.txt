@@ -12,8 +12,8 @@ it	Fatto? Non fumo erba. Dai.
 ko	약이라니? | 난 대마초 안 피워, 왜 이래 | 
 nl	Stoned? Ik rook geen wiet. 
 pl	Nie palę trawy. Co ty. 
-pr-br	Chapado? Não fumo maconha. Qual é? 
-pr	Pedrado? Ora, eu não fumo disso. 
+pt-br	Chapado? Não fumo maconha. Qual é? 
+pt	Pedrado? Ora, eu não fumo disso. 
 ro	Drogat? Nu fumez. Fii serios! 
 sv	Stenad? Jag röker inte gräs. 
 tr	Kıyak mı? Ben ot içmem ki. Yapma. 

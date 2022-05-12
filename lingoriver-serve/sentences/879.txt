@@ -12,8 +12,8 @@ fr	Stu Smiley ne m'a pas retenu pour son émission spéciale.
 he	&rlm;‏סטו סמיילי ויתר על ה"קומדיאנס ספיישל".‏ | 
 it	Stu Smiley è stato scelto per il Comedians Special. 
 nl	Stu Smiley mag de Comedians Special doen. 
-pr-br	Stu Smiley passou para o  Comedians Special. 
-pr	O Stu Smiley não me deixou entrar no Especial de Comediantes. 
+pt-br	Stu Smiley passou para o  Comedians Special. 
+pt	O Stu Smiley não me deixou entrar no Especial de Comediantes. 
 ro	Stu Smiley n-a vrut să mă invite la  Comedians Special. 
 th	สตู สไมลี่ผ่านเข้ารอบ | คอมีเดียนส์สเปเชียล | 
 tr	Stu Smiley beni Genç Komedyenler'e kabul etmemiş. 

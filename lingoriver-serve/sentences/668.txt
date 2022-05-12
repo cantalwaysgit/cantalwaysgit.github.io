@@ -14,8 +14,8 @@ it	Sono felice di averne fatta un'altra, mi ha emozionato.
 nl	Ik ben blij dat we het nog een keer deden, want dat was geweldig. 
 no	Jeg er så glad vi gjorde et nytt opptak, for det var så bra. 
 pl	Cieszę się, że zaśpiewałaś raz jeszcze, bo zwaliło mnie to z nóg. 
-pr-br	Que bom que repetimos, pois isso acabou comigo. 
-pr	Estou tão contente por termos repetido porque agora arrasaste. 
+pt-br	Que bom que repetimos, pois isso acabou comigo. 
+pt	Estou tão contente por termos repetido porque agora arrasaste. 
 ro	Mă bucur că am mai înregistrat o dată, fiindcă mi s-a părut demențial. 
 sv	Jag är glad att vi gjorde om det, för detta gjorde mig stum. 
 th	ผมดีใจมากที่เรามีอีกเทก | เพราะมันโดนสุดๆ | 

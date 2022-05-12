@@ -12,8 +12,8 @@ he	&rlm;‏אני אומר לכם, האולפן הזה הוא כל זה...‏ |
 it	Vi assicuro, questo studio è tutto ciò 
 no	Dette studioet var alt det... 
 pl	Coś wam powiem, to studio 
-pr-br	Acreditem, este estúdio era além... 
-pr	Digo-vos, este estúdio não é só bom, 
+pt-br	Acreditem, este estúdio era além... 
+pt	Digo-vos, este estúdio não é só bom, 
 ro	Sincer, studioul ăsta a însemnat asta 
 tr	İnanın bana, bu stüdyoda hepsi 
 vi	Nói cho anh biết, phòng thu này... | 

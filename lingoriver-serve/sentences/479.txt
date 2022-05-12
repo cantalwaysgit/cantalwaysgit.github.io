@@ -14,8 +14,8 @@ ko	아니, 이건 대사잖아요 |
 nl	Nee, de tekst, Sandy. 
 no	Nei, replikkene, Sandy. 
 pl	Ćwiczymy tekst. 
-pr-br	Não, as falas, Sandy. 
-pr	São as falas, Sandy. 
+pt-br	Não, as falas, Sandy. 
+pt	São as falas, Sandy. 
 ro	Nu, replicile, Sandy. 
 sv	Nej, replikerna, Sandy. 
 th	ไม่ใช่ ในบทน่ะ แซนดี้ | 

@@ -10,8 +10,8 @@ he	&rlm;‏עיר עלובה?‏ |
 it	Miserabile città? 
 no	Elendige byen? 
 pl	Żałosnym? 
-pr-br	Cidade desgraçada? 
-pr	Cidade desprezível? 
+pt-br	Cidade desgraçada? 
+pt	Cidade desprezível? 
 ro	Oraș nefericit? 
 sv	Sorgliga stad? 
 th	เมืองเฮงซวยเหรอ | 

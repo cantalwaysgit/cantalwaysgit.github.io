@@ -1,5 +1,5 @@
 ko	내가 1965년에 | ‘길리건의 섬’에서 | 
-pr-br	Eu tenho um relacionamento com a CBS desde 1965, 
+pt-br	Eu tenho um relacionamento com a CBS desde 1965, 
 sv	Jag har haft en relation med CBS sen 1965 
 es	Sí, tengo relación con CBS desde 1965, 
 fi	Minulla on ollut CBS:n kanssa hyvä suhde vuodesta 1965 - 
@@ -14,7 +14,7 @@ fr	Je suis dans les petits papiers de CBS depuis 1965,
 he	&rlm;‏היי, יש לי קשר עם סי.בי.אס משנת 1965‏ | 
 it	Ho rapporti con la CBS dal 1965, 
 pl	Współpracuję z CBS od 1965. 
-pr	Tenho uma relação com a CBS desde 1965, 
+pt	Tenho uma relação com a CBS desde 1965, 
 ro	Relația mea cu CBS e din 1965, 
 th	เฮ้ย ฉันมีความสัมพันธ์ | กับซีบีเอสตั้งแต่ปี 1965 | 
 tr	1965'te  Gilligans's Island'da asistanlık yaptığımdan beri 
@@ -25,7 +25,7 @@ nl	Ik heb contact met CBS sinds 1965 toen ik assistent was bij  Gilligan's Islan
 no	Jeg har hatt kontakter i CBS siden 1965 da jeg var PA på  Gilligan's Island. 
 ja	ドラマ製作に携わってたから | ＣＢＳにコネがある | 
 ko	개인 비서 할 때부터 | CBS와 인연이 있었어 | 
-pr-br	quando era assistente  em  A Ilha dos Birutas. 
+pt-br	quando era assistente  em  A Ilha dos Birutas. 
 sv	när jag var assistent  på  Gilligan's Island. 
 es	cuando era asistente en  La isla de Gilligan. 
 fi	oltuani assistenttina Gilligan's Islandissa. 
@@ -40,7 +40,7 @@ fr	quand je bossais sur  L'île aux naufragés.
 he	&rlm;‏כשהייתי עוזר אישי ב"גיליגנס איילנד".‏ | 
 it	quando ero assistente per  L'isola di Gilligan. 
 pl	Pracowałem przy  Wyspie Gilligana. 
-pr	quando era PA em  Gilligan's Island. 
+pt	quando era PA em  Gilligan's Island. 
 ro	când am fost asistent la  Gilligan's Island. 
 th	ตอนเป็นผู้ช่วยในเรื่องเกาะหรรษา | 
 tr	CBS'le ilişkim var. 

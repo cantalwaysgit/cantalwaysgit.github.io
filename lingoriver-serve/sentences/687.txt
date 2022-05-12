@@ -14,8 +14,8 @@ ko	마치 새와 천사가 | 색소폰과 사랑을 나누고 |
 nl	Het is alsof een vogel, een engel en een saxofoon... 
 no	Det er som om en fugl, en engel, og en saksofon 
 pl	Jakby ptak, anioł i saksofon 
-pr-br	É como se um pássaro, um anjo e um saxofone 
-pr	É como se um pássaro, um anjo e um saxofone 
+pt-br	É como se um pássaro, um anjo e um saxofone 
+pt	É como se um pássaro, um anjo e um saxofone 
 ro	E ca și cum o pasăre, un înger și un saxofon 
 sv	Det är som om en fågel och en ängel och en saxofon 
 th	มันเหมือนกับนก นางฟ้าและแซกโซโฟน | 

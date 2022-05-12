@@ -14,8 +14,8 @@ it	- Sai una cosa? - Cosa?
 ko	- 그거 아세요? | - 뭘? | 
 no	-Vet du hva? -Hva? 
 pl	- Wiesz co? - Co? 
-pr-br	-Quer saber? -O quê? 
-pr	- Sabes uma coisa? - O quê? 
+pt-br	-Quer saber? -O quê? 
+pt	- Sabes uma coisa? - O quê? 
 ro	- Știi ce? - Ce? 
 sv	-Vet du vad? -Vad? 
 th	- รู้อะไรไหม | - อะไร | 

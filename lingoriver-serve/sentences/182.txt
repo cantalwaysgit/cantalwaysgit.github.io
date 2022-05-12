@@ -13,8 +13,8 @@ ko	궁전 같은 곳이었죠 |
 nl	Een paleis. 
 no	Det var et slott. 
 pl	Prawdziwy pałac. 
-pr	Aquilo era um palácio. 
-pr-br	A casa dele era um palácio. 
+pt	Aquilo era um palácio. 
+pt-br	A casa dele era um palácio. 
 ro	Avea un palat! 
 ru	Это был просто дворец. 
 sv	Det var ett palats. 

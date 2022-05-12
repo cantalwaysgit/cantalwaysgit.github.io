@@ -14,8 +14,8 @@ it	Dici?
 nl	Echt? 
 no	Er det? 
 pl	Czyżby? 
-pr-br	É? 
-pr	É? 
+pt-br	É? 
+pt	É? 
 ro	Oare? 
 sv	Gör det? 
 th	งั้นเหรอ | 

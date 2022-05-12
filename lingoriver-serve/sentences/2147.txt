@@ -13,8 +13,8 @@ it	Parlo con Sandy?
 nl	Spreek ik met Sandy? 
 no	Er det Sandy? 
 pl	Czy to Sandy? 
-pr-br	É o Sandy? 
-pr	Fala o Sandy? 
+pt-br	É o Sandy? 
+pt	Fala o Sandy? 
 ro	Sandy la telefon? 
 sv	Är det Sandy? 
 th	นี่แซนดี้ใช่ไหม | 

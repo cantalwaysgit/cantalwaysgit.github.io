@@ -12,8 +12,8 @@ it	Incredibile.
 nl	Ongelooflijk. 
 no	Helt utrolig. 
 pl	Niewiarygodne. 
-pr-br	Inacreditável. 
-pr	Inacreditável. 
+pt-br	Inacreditável. 
+pt	Inacreditável. 
 ro	Incredibil! 
 sv	Helt otroligt. 
 th	เหลือเชื่อเลย | 

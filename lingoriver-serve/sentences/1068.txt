@@ -13,8 +13,8 @@ it	- Prendo la giacca. - Fuori!
 nl	Ik ga mijn jas pakken. 
 no	-Jeg må hente jakken min. -Kom deg ut! 
 pl	- Wezmę tylko marynarkę. - Precz! 
-pr-br	-Só tenho que pegar meu paletó. -Vá embora! 
-pr	- Vou só buscar o casaco. - Fora! 
+pt-br	-Só tenho que pegar meu paletó. -Vá embora! 
+pt	- Vou só buscar o casaco. - Fora! 
 ro	- Trebuie să-mi iau sacoul. - Afară! 
 sv	-Jag ska bara hämta min kavaj. -Försvinn! 
 th	- แค่ขอหยิบเสื้อก่อน | - ออกไป! | 

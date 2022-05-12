@@ -8,8 +8,8 @@ he	&rlm;‏זה הגיוני.‏ |
 it	È logico. 
 nl	Dat klinkt logisch. 
 no	Det gir mening. 
-pr-br	Ah, faz sentido. 
-pr	Isso faz sentido. 
+pt-br	Ah, faz sentido. 
+pt	Isso faz sentido. 
 ro	Atunci, e de înțeles. 
 sv	Då fattar jag. 
 vi	Cũng dễ hiểu. | 

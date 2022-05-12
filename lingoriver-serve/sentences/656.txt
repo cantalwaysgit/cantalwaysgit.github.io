@@ -13,8 +13,8 @@ ko	살짝 삑 소리가 났어 |
 nl	Die klonk wat metaalachtig. 
 no	Det var litt metallisk. 
 pl	Malutkie. 
-pr-br	Um probleminha. 
-pr	Tinha um tom metálico. 
+pt-br	Um probleminha. 
+pt	Tinha um tom metálico. 
 ro	Sunetul era puțin metalic. 
 sv	Den lät skrällig. 
 th	เสียงกระป๋องกระแป๋งไปหน่อย | 
@@ -39,8 +39,8 @@ it	L'abbiamo sistemata e siamo pronti per rifarla.
 nl	Dat hebben we bijgesteld en we zijn klaar voor je. 
 no	Vi har justert den, og vi er klare for deg. 
 pl	Już naprawione. Zaśpiewaj znowu. 
-pr-br	Nós ajustamos e estamos prontos para você. 
-pr	Já ajustámos e estamos prontos para ti. 
+pt-br	Nós ajustamos e estamos prontos para você. 
+pt	Já ajustámos e estamos prontos para ti. 
 ro	Am reglat și suntem gata pentru tine. 
 sv	Vi har justerat det och är redo för dig. 
 th	เราปรับแล้วและพร้อมสำหรับคุณ | 

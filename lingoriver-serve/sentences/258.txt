@@ -9,8 +9,8 @@ he	&rlm;‏קורטני. נעים מאוד.‏ |
 it	Courtney. Molto piacere. 
 ko	코트니예요, 반가워요 | 
 pl	Courtney. Miło mi poznać. 
-pr-br	Courtney. Prazer em conhecê-lo. 
-pr	Courtney. Prazer em conhecê-lo. 
+pt-br	Courtney. Prazer em conhecê-lo. 
+pt	Courtney. Prazer em conhecê-lo. 
 sv	Courtney. Angenämt. 
 vi	Tôi là Courtney. Rất vui được gặp anh. | 
 zh-long	寇妮，幸會 

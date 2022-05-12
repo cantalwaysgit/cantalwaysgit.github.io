@@ -12,8 +12,8 @@ it	Vai a New York.
 nl	Ga naar New York. 
 no	Dra til New York. 
 pl	Leć do Nowego Jorku. 
-pr-br	Vá para Nova York. 
-pr	Vai a Nova Iorque. 
+pt-br	Vá para Nova York. 
+pt	Vai a Nova Iorque. 
 ro	Du-te la New York. 
 sv	Åk till New York. 
 tr	New York'a git. 

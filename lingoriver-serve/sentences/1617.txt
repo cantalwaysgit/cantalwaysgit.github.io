@@ -8,8 +8,8 @@ fi	Aloittakaa!
 he	&rlm;‏תילחמו!‏ | 
 it	Via! 
 nl	Vechten. 
-pr-br	Lutem! 
-pr	Lutem! 
+pt-br	Lutem! 
+pt	Lutem! 
 ro	Luptați! 
 sv	Slåss! 
 tr	Dövüş! 

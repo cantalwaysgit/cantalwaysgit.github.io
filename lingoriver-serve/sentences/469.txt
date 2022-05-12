@@ -14,8 +14,8 @@ it	- Sei ancora più assurdo del solito. - Non è vero.
 ko	- 평소보다 더 말이 안 맞아 | - 아닌데 | 
 no	-Du prater enda mer tull enn vanlig. -Nei da. 
 pl	- Gadasz większe bzdury niż zazwyczaj. - Wcale nie. 
-pr-br	-Está fazendo menos sentido que o normal. -Não estou. 
-pr	- Estás a fazer ainda menos sentido. - Não estou nada. 
+pt-br	-Está fazendo menos sentido que o normal. -Não estou. 
+pt	- Estás a fazer ainda menos sentido. - Não estou nada. 
 ro	- Ești și mai confuz decât de obicei. - Ba nu. 
 sv	-Du låter mer snurrig än vanligt. -Inte alls. 
 th	- นายพูดไม่รู้เรื่องไปกว่าเดิมอีก | - ไม่ใช่นะ | 

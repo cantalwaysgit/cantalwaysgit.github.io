@@ -11,8 +11,8 @@ he	&rlm;‏הכניסו אותך למסיבה הזו?‏ |
 it	Ti hanno fatto entrare? 
 nl	Mocht jij binnenkomen? 
 pl	Wpuścili cię tu? 
-pr-br	Deixaram você entrar nesta festa? 
-pr	Deixaram-te entrar na festa? 
+pt-br	Deixaram você entrar nesta festa? 
+pt	Deixaram-te entrar na festa? 
 ro	Te-au primit la petrecerea asta? 
 th	เขาให้นายมางานนี้ด้วยเหรอ | 
 tr	Seni bu partiye aldılar mı? 

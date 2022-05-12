@@ -14,8 +14,8 @@ he	&rlm;‏מה לכל הרוחות? למה האורות כבו?‏ |
 it	Che succede? Perché è andata via la luce? 
 nl	Waarom zijn de lichten uit? 
 pl	Co jest? Czemu zgasło? 
-pr-br	Mas que diabos! Por que apagaram as luzes? 
-pr	Que raio... Porque ficámos sem luz? 
+pt-br	Mas que diabos! Por que apagaram as luzes? 
+pt	Que raio... Porque ficámos sem luz? 
 ro	Ce naiba? De ce s-au stins luminile? 
 sv	Vad i helvete? Vem släckte? 
 tr	Ne oluyor? Işıklar neden söndü? 
@@ -40,8 +40,8 @@ he	&rlm;‏חשבון חשמל? שילמתם החודש?‏ |
 it	Avete pagato la bolletta, questo mese? 
 nl	Hebben jullie de energierekening betaald deze maand? 
 pl	Zapłaciliście rachunek za prąd? 
-pr-br	Por causa da conta? Vocês pagaram este mês? 
-pr	Pagaram a conta da luz deste mês? 
+pt-br	Por causa da conta? Vocês pagaram este mês? 
+pt	Pagaram a conta da luz deste mês? 
 ro	Ați plătit factura la curent luna asta? 
 sv	Elräkningen? Har ni betalat för den här månaden? 
 tr	Elektrik faturası yüzünden mi? Bu aykini ödediniz mi? 

@@ -12,8 +12,8 @@ he	&rlm;‏בסדר, סנדי.‏ |
 it	Va bene, Sandy. 
 no	Ok, Sandy. 
 pl	Dobrze. 
-pr-br	Está bem, Sandy. 
-pr	Está bem, Sandy. 
+pt-br	Está bem, Sandy. 
+pt	Está bem, Sandy. 
 ro	Bine, Sandy. 
 sv	Okej, Sandy. 
 th	โอเค แซนดี้ | 

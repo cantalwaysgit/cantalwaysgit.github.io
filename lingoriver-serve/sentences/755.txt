@@ -16,8 +16,8 @@ ko	스위치에서 멀리 떨어져요 |
 nl	Ga weg bij die schakelaar. 
 no	Gå vekk fra lysbryteren. 
 pl	Odsuń się od tego włącznika. 
-pr	Afasta-te do interruptor. 
-pr-br	Afaste-se do interruptor. 
+pt	Afasta-te do interruptor. 
+pt-br	Afaste-se do interruptor. 
 ro	Sandy, îndepărtează-te de întrerupător. 
 sv	Gå bort från lampknappen. 
 tr	Sandy, ışık düğmesinden uzak dur. 

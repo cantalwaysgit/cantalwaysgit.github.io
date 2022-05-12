@@ -14,8 +14,8 @@ he	&rlm;‏אני מצטער, מה?‏ |
 it	Prego? 
 ko	뭐라고요? | 
 pl	Słucham? 
-pr-br	Desculpe, o quê? 
-pr	Desculpe, o quê? 
+pt-br	Desculpe, o quê? 
+pt	Desculpe, o quê? 
 ro	Scuze, poftim? 
 sv	Ursäkta, vadå? 
 th	ผมขอโทษ อะไรนะ | 

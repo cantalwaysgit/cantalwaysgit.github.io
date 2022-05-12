@@ -14,8 +14,8 @@ it	Non c'erano né YouTube, né Vine.
 ko	당시는 유튜브나 바인 같은 게 | 없었다는 걸 기억하셔야 해요 | 
 no	Du må huske at det var før YouTube og Vine. 
 pl	To były czasy bez YouTube'a i Vine. 
-pr-br	Na época não havia YouTube, Vines. 
-pr	É preciso ter em conta que não havia YouTube, não havia Vines. 
+pt-br	Na época não havia YouTube, Vines. 
+pt	É preciso ter em conta que não havia YouTube, não havia Vines. 
 ro	Trebuie să ne amintim că nu existau YouTube sau Vines. 
 th	ต้องอย่าลืมว่าไม่มียูทูบหรือไวนส์ | 
 tr	Unutmayın, o zamanlar ne YouTube vardı ne Vines. 

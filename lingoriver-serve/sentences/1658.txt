@@ -14,8 +14,8 @@ ko	- 사랑해요! | - 그럴 자격이 있어! |
 nl	Ik hou van je. -Je verdient alles. 
 no	-Jeg elsker deg! -Du fortjener alt! 
 pl	- Kocham cię! - Zasłużyłeś! 
-pr	- Adoro-te! - Tu mereces tudo! 
-pr-br	-Eu amo você! -Você merece tudo! 
+pt	- Adoro-te! - Tu mereces tudo! 
+pt-br	-Eu amo você! -Você merece tudo! 
 ro	- Te iubesc! - Meriți totul! 
 sv	-Jag älskar dig! -Du förtjänar allt! 
 th	- รักนายนะ | - นายสมควรได้ทุกอย่าง | 

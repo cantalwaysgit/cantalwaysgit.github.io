@@ -12,8 +12,8 @@ it	Ma tu sei troppo intelligente e attuale per apparire su HBO.
 nl	Jij bent te slim en te actueel voor HBO. 
 no	Jeg sier at du er for smart for HBO. 
 pl	Jesteś za mądry, a twoje występy zbyt poważne na HBO. 
-pr-br	Você é inteligente e tópico demais para estar na HBO. 
-pr	Estou a dizer que és demasiado esperto e demasiado atual para estar na HBO. 
+pt-br	Você é inteligente e tópico demais para estar na HBO. 
+pt	Estou a dizer que és demasiado esperto e demasiado atual para estar na HBO. 
 ro	Cred că ești prea deștept și prea contemporan ca să apari la HBO. 
 sv	Du är för smart och för dagsaktuell för att vara på HBO. 
 th	จะบอกว่านายฉลาดและทันสมัยเกินไป | ที่จะไปเอชโอบี | 
@@ -37,8 +37,8 @@ it	- Li vogliono giovani e stupidi. - Carini e idioti.
 nl	Zij houden van jong en dom. -Van lief en idioot. 
 no	-De liker det unge og dumme. -Det søte og idiotiske. 
 pl	- Oni wolą młodych głupków. - Uroczych debili. 
-pr-br	-Eles gostam de jovens burros. -Sim, bonitos e idiotas. 
-pr	- Gostam de putos novos e estúpidos. - Gostam de giros e palermas. 
+pt-br	-Eles gostam de jovens burros. -Sim, bonitos e idiotas. 
+pt	- Gostam de putos novos e estúpidos. - Gostam de giros e palermas. 
 ro	- Lor le plac ăia mici și proști. - Drăguți și imbecili. 
 sv	-De vill ha unga och dumma. -Söta och idiotiska. 
 th	- ที่นั่นเขาชอบพวกหนุ่มๆ แล้วก็โง่ๆ | - ใช่ หน้าตาดีแล้วก็โง่ | 

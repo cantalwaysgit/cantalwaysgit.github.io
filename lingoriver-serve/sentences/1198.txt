@@ -14,8 +14,8 @@ ko	- 지켜주셔야죠 | - 24시간 지키고 있어! |
 nl	Jouw taak is haar beschermen. -Ik bescherm haar altijd. 
 no	-Jobben din er å beskytte henne. -Det gjør jeg hele døgnet! 
 pl	- Masz ją chronić. - Chronię ją 24 godziny na dobę. 
-pr	- A tua função é protegê-la. - Eu protejo-a constantemente! 
-pr-br	-Seu trabalho é protegê-la. -Eu a protejo 24 horas por dia! 
+pt	- A tua função é protegê-la. - Eu protejo-a constantemente! 
+pt-br	-Seu trabalho é protegê-la. -Eu a protejo 24 horas por dia! 
 ro	- Treaba ta e s-o protejezi. - O protejez non-stop! 
 sv	-Ditt jobb är att skydda henne. -Jag gör det dygnet runt! 
 th	- งานของคุณคือปกป้องเธอ | - ผมปกป้องเธอตลอด 24 ชม.ทั้งเจ็ดวัน | 

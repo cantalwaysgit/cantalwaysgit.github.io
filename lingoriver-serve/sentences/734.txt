@@ -12,8 +12,8 @@ it	e molto altro ancora.
 ko	사실 그 이상이었어요 | 
 no	...og mer til. 
 pl	jest magiczne. 
-pr-br	de supimpa. 
-pr	é extraordinário. 
+pt-br	de supimpa. 
+pt	é extraordinário. 
 ro	și chiar mai mult. 
 th	มันดีเลิศสุดๆ | 
 tr	ve daha fazlası vardı. 

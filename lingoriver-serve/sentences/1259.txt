@@ -14,8 +14,8 @@ it	Se hai bisogno di me, basta un bip.
 nl	Als je me nodig hebt, biep je me maar. 
 no	Hvis du trenger meg, send meg et pip. 
 pl	W razie czego dryndnij na pager. 
-pr-br	Se precisar de mim, basta bipar. 
-pr	Se alguma vez precisares de mim, apita. 
+pt-br	Se precisar de mim, basta bipar. 
+pt	Se alguma vez precisares de mim, apita. 
 ro	Dacă ai nevoie de mine vreodată, dă-mi un bip. 
 sv	Om du behöver mig, sök mig. 
 th	หากคุณต้องการผม แค่เพจมานะ | 

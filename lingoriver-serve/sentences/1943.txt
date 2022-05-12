@@ -10,8 +10,8 @@ fr	Écoute, j'étais trop proche de toi.
 he	&rlm;‏היי, תקשיב. התקרבתי יותר מדי.‏ | 
 it	Ascolta. Ero troppo coinvolto. 
 no	Jeg ble for knyttet til deg. 
-pr-br	Ouça. Eu me envolvi demais. 
-pr	Ouve. Eu aproximei-me demasiado. 
+pt-br	Ouça. Eu me envolvi demais. 
+pt	Ouve. Eu aproximei-me demasiado. 
 ro	Ascultă! Ne apropiaserăm prea mult. 
 sv	Hör på. Jag kom för nära. 
 th	เฮ่ ฟังนะ ฉันเข้าไปใกล้เกินไป | 
@@ -35,8 +35,8 @@ fr	Amitié et affaires ne font pas bon ménage. T'avais pas le choix.
 he	&rlm;‏‏החברות שלנו הפריעה לעסקים. | &rlm;‏עשית מה שהיית צריך לעשות.‏ | 
 it	L'amicizia si è intromessa negli affari. Hai fatto ciò che dovevi. 
 no	Vennskapet vårt kom i veien for forretningene. Du gjorde det du måtte. 
-pr	A nossa amizade estava a interferir no trabalho. Fizeste o que era preciso. 
-pr-br	Nossa amizade interferiu nos negócios. Você fez o que tinha que ser feito. 
+pt	A nossa amizade estava a interferir no trabalho. Fizeste o que era preciso. 
+pt-br	Nossa amizade interferiu nos negócios. Você fez o que tinha que ser feito. 
 ro	Prietenia noastră era un impediment pentru afacere. Ai făcut ce trebuia. 
 sv	Vår vänskap kom i vägen för affärerna. Du gjorde det du var tvungen till. 
 th	มิตรภาพของเราเข้ามาขวางทางธุรกิจ | นายก็ทำสิ่งที่นายต้องทำ | 

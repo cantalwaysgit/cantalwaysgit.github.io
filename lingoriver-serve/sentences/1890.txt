@@ -7,8 +7,8 @@ es	¿Vas a casarte?
 fr	Tu te maries ? 
 it	Ti sposi? 
 nl	Ga je trouwen? 
-pr-br	Você vai se casar? 
-pr	Vais casar-te? 
+pt-br	Você vai se casar? 
+pt	Vais casar-te? 
 ro	Te măriți? 
 sv	Ska du gifta dig? 
 th	จะแต่งงานเหรอ | 

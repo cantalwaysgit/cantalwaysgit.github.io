@@ -7,8 +7,8 @@ es	¿Qué pasa, viejo?
 fr	Un problème ? 
 it	Che succede? 
 ko	왜 그래? | 
-pr-br	Qual é o problema, cara? 
-pr	O que se passa? 
+pt-br	Qual é o problema, cara? 
+pt	O que se passa? 
 sv	Vad är det för fel? 
 zh-long	怎麼了？ 
 zh-short	怎么了 老兄？ 

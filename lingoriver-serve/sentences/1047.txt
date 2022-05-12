@@ -13,8 +13,8 @@ ko	멋지던데요 |
 nl	Ik vond het cool. 
 no	Jeg syntes det var kult. 
 pl	Podobało mi się to. 
-pr-br	Achei que foi legal. 
-pr	Eu achei bom. 
+pt-br	Achei que foi legal. 
+pt	Eu achei bom. 
 ro	Mie mi-a plăcut. 
 ru	Мне понравилось. 
 sv	Jag tyckte det var coolt. 

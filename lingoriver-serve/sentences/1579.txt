@@ -13,8 +13,8 @@ ko	- 직접 공을 올려놔 | - 티 위에 이렇게요 |
 nl	Je moet hem zelf op de tee leggen. 
 no	-Du bør legge opp ballen selv. -Greit. 
 pl	- Piłkę ustaw sama. - Ustawiam. 
-pr-br	-Ponha na posição. -Pôr na posição. Aqui. 
-pr	- Devias colocar tu a bola. - Colocar a bola. Já está. 
+pt-br	-Ponha na posição. -Pôr na posição. Aqui. 
+pt	- Devias colocar tu a bola. - Colocar a bola. Já está. 
 ro	- Ar fi bine să-ți pui singură mingea. - O pun. Aici? 
 ru	-Установи мяч сама. -Так. Установила. 
 sv	-Lägg upp den själv. -Lägga upp den. 

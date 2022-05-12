@@ -11,8 +11,8 @@ he	&rlm;‏‏אני מאלסקה. | &rlm;‏הבחירה הייתה לצפות 
 nl	Ik kom uit Alaska. Je kon worstelen kijken of gaan vissen. 
 no	Jeg er fra Alaska. Det var enten det eller fisking. 
 pl	Na Alasce albo ogląda się wrestling, albo łowi ryby. 
-pr-br	Eu sou do Alasca. Ou via luta livre ou pescava. 
-pr	Sou do Alasca Ou via luta livre ou pescava. 
+pt-br	Eu sou do Alasca. Ou via luta livre ou pescava. 
+pt	Sou do Alasca Ou via luta livre ou pescava. 
 ro	Sunt din Alaska. Acolo ne uitam la wrestling sau pescuiam. 
 sv	Jag är från Alaska. Det var wrestling eller fiske. 
 tr	Ben Alaskalıyım. Orada ya güreş izlersin ya balığa gidersin. 

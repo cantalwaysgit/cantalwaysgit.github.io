@@ -14,8 +14,8 @@ ko	왜? 질식할 거라고? | 그 소리야? |
 nl	Wat? Zal ze stikken? Bedoel je dat? 
 no	Hva? Blir hun kvalt? Er det det du sier? 
 pl	Co? Udusi się? 
-pr-br	Quê? Ela vai sufocar? É isso que está dizendo? 
-pr	O que foi? Ela sufoca? É isso que estás a dizer? 
+pt-br	Quê? Ela vai sufocar? É isso que está dizendo? 
+pt	O que foi? Ela sufoca? É isso que estás a dizer? 
 ro	Ce e? O să se sufoce? Asta zici? 
 sv	Vadå? Kan hon kvävas? Är det vad du menar? 
 th	อะไร เธอจะหายใจไม่ออกใช่ไหม | จะพูดอย่างนั้นใช่ไหม | 

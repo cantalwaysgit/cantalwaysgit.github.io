@@ -12,8 +12,8 @@ it	È carne di bisonte o di alce? Come fa a essere così buono?
 ko	무슨 고기지? 들소? 무스? | 뭘 넣어서 이렇게 맛있어? | 
 nl	Is het bizon- of elandvlees? Wat maakt het zo lekker? 
 pl	Co to za mięso? Bizon? Łoś? Dlaczego jest taki pyszny? 
-pr-br	Isso é carne de bisão ou alce? Por que está tão bom? 
-pr	É carne de bisonte ou de alce? O que o torna tão bom? 
+pt-br	Isso é carne de bisão ou alce? Por que está tão bom? 
+pt	É carne de bisonte ou de alce? O que o torna tão bom? 
 ro	E carne de bizon sau de elan? De ce e așa de bun? 
 ru	Он из бизона или лося? Почему он такой вкусный? 
 sv	Är det bisonkött eller älgkött? Vad gör den så god? 

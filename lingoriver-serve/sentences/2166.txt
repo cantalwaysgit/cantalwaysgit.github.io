@@ -15,8 +15,8 @@ it	Chi parla?
 nl	Met wie spreek ik? 
 no	Hvem er det? 
 pl	Kto mówi? 
-pr-br	Quem é? 
-pr	Quem fala? 
+pt-br	Quem é? 
+pt	Quem fala? 
 ro	Cine ești? 
 sv	Vem är det? 
 th	นี่ใคร | 

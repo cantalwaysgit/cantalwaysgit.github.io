@@ -15,8 +15,8 @@ ko	잠깐만 더 기다려줘 | 도움이 필요할 것 같아 |
 nl	Wacht nog even. Ik heb hulp nodig. 
 no	Bare vent litt til. Jeg trenger hjelp, ja. 
 pl	Jeszcze chwila. Potrzebuję pomocy. 
-pr-br	Me dê mais um segundo. Eu preciso de ajuda. 
-pr	Dá-me mais um segundo. Preciso mesmo de ajuda. 
+pt-br	Me dê mais um segundo. Eu preciso de ajuda. 
+pt	Dá-me mais um segundo. Preciso mesmo de ajuda. 
 ro	Mai lasă-mă o clipă. Chiar am nevoie de ajutor. 
 sv	En sekund till bara. Jag behöver hjälp. 
 th	ขอเวลาอีกแป๊บ | ต้องช่วยแล้วละ | 

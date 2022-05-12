@@ -13,8 +13,8 @@ ko	네가 손도 쓰고 전부 다 했지 | 음악도 발명했겠군 |
 nl	Jij loste het op. Jij deed alles. Jij hebt muziek uitgevonden. 
 no	Du fikset det. Du gjorde alt. Du oppfant musikk. 
 pl	Jasne! Wszystko ty. Muzykę też wynalazłeś. 
-pr-br	Você deu um jeito. Você fez tudo. Você inventou a música. 
-pr	Tu resolveste. Fizeste tudo. Inventaste a música. 
+pt-br	Você deu um jeito. Você fez tudo. Você inventou a música. 
+pt	Tu resolveste. Fizeste tudo. Inventaste a música. 
 ro	Tu ai aranjat. Tu ai făcut totul. Tu ai inventat muzica. 
 ru	Да. Всё благодаря тебе. Ты изобрел музыку. 
 sv	Du fixade det. Du gjorde allt. Du uppfann musiken. 

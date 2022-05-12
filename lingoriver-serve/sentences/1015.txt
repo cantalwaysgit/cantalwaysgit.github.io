@@ -13,8 +13,8 @@ ko	- 음료 가지고 올게요 | - 그래 |
 nl	Ik ga jullie drankjes halen. 
 no	-Jeg kommer tilbake med drinkene. -Ok. 
 pl	- Zaraz przyniosę drinki. - Dobrze. 
-pr-br	-Já volto com os seus drinques. -Está bem. 
-pr	- Já volto com as bebidas. - Está bem. 
+pt-br	-Já volto com os seus drinques. -Está bem. 
+pt	- Já volto com as bebidas. - Está bem. 
 ro	- Mă întorc cu paharele. - Bine. 
 sv	Jag kommer med era drinkar snart. 
 th	- เดี๋ยวฉันเอาเครื่องดื่มมาให้นะ | - โอเค | 

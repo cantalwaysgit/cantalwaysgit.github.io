@@ -12,8 +12,8 @@ it	- Come? - La stazione!
 nl	De zender? 
 no	-Hva? -Kanalen? 
 pl	- Co? - Jaka to stacja? 
-pr-br	-Quê? -A estação? 
-pr	- O quê? - A estação. 
+pt-br	-Quê? -A estação? 
+pt	- O quê? - A estação. 
 ro	- Poftim? - Ce post asculți? 
 sv	-Vadå? -Radiostationen? 
 th	- อะไรนะ | - สถานีไหน | 

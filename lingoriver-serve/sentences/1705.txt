@@ -12,8 +12,8 @@ it	- Ziggy Marley. - Pauly Shore.
 ko	- 지기 말리 | - 폴리 쇼어 | 
 nl	Ziggy Marley. -Pauly Shore. 
 no	-Ziggy Marley. -Pauly Shore. 
-pr-br	-Ziggy Marley. -Pauly Shore. 
-pr	- Ziggy Marley. - Pauly Shore. 
+pt-br	-Ziggy Marley. -Pauly Shore. 
+pt	- Ziggy Marley. - Pauly Shore. 
 ro	- Ziggy Marley. - Pauly Shore. 
 sv	-Ziggy Marley. -Pauly Shore. 
 th	- ซิกกี้ มาร์ลีย์ | - พอลี่ ชอร์ | 

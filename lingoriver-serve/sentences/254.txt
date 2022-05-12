@@ -13,8 +13,8 @@ it	Bravissima.
 nl	Heel goed. 
 no	Veldig bra. 
 pl	Bardzo ładnie. 
-pr-br	Muito bom. 
-pr	Muito bonito. 
+pt-br	Muito bom. 
+pt	Muito bonito. 
 ro	Foarte frumos! 
 sv	Mycket trevligt. 
 th	เยี่ยมมาก | 

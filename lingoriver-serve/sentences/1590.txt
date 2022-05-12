@@ -11,8 +11,8 @@ he	&rlm;‏‏אתה צריך לעבוד על התנוחה של הרגל. הנה
 it	- Lavora sui colpi a effetto. - Oddio. 
 nl	Aan die slice werken. 
 no	-Jobbe med den teknikken. -Herregud. 
-pr-br	-Vamos treinar o arremesso curvado. -Meu Deus. 
-pr	- Vamos trabalhar essa perna. Vá lá. - Meu Deus. 
+pt-br	-Vamos treinar o arremesso curvado. -Meu Deus. 
+pt	- Vamos trabalhar essa perna. Vá lá. - Meu Deus. 
 ro	- Trebuie să lucrăm puțin direcția. Așa. - Doamne! 
 sv	-Jobba på slicen. Så där ja. -Herregud. 
 th	- แก้ลูกสไลด์ไปทางขวา แบบนี้ | - ให้ตายสิ | 

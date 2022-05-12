@@ -13,8 +13,8 @@ ko	웩슬러 씨 | 댄 타나의 치피예요 |
 nl	Mr Wexler, met Chippy van Dan Tana's. 
 no	Mr. Wexler, det er Chippy fra Dan Tana's. 
 pl	Panie Wexler, mówi Chippy z Dan Tana's. 
-pr-br	Sr. Wexler, aqui é Chippy do restaurante Dan Tana's. 
-pr	Sr. Wexler, fala o Chippy, do Dan Tana's. 
+pt-br	Sr. Wexler, aqui é Chippy do restaurante Dan Tana's. 
+pt	Sr. Wexler, fala o Chippy, do Dan Tana's. 
 ro	Dle Wexler, sunt Chippy, de la Dan Tana's. 
 ru	Мистер Уэкслер, это Чиппи из «Дэн Тана». 
 sv	Jag heter Chippy från Dan Tana's. 

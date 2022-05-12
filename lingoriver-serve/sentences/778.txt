@@ -11,8 +11,8 @@ he	&rlm;‏אנשק אותך על צווארך, כן‏ |
 it	Fatti baciare sul collo, sì 
 nl	ik kus je in je nek 
 pl	Pocałuję cię w szyję 
-pr	Beijo-te no pescoço, sim 
-pr-br	Sim, vou beijar o seu pescoço 
+pt	Beijo-te no pescoço, sim 
+pt-br	Sim, vou beijar o seu pescoço 
 ro	O să te sărut pe gât, da 
 sv	Jag kysste dig på halsen 
 th	ผมจะจูบคุณที่ลำคอ ใช่เลย | 

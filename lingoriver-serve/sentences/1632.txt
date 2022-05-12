@@ -14,8 +14,8 @@ it	Facciamo sul serio?
 ko	정말 이럴 거야? | 
 no	Skjer dette? 
 pl	Tak ma być? Tego chcesz? 
-pr-br	Isso está acontecendo? 
-pr	Isto está mesmo a acontecer? 
+pt-br	Isso está acontecendo? 
+pt	Isto está mesmo a acontecer? 
 ro	E pe bune? 
 sv	Händer det här? 
 th	นี่เกิดขึ้นเหรอ นี่เกิดขึ้นเหรอ | 
@@ -36,8 +36,8 @@ he	&rlm;אז בוא נראה אותך!‏ |
 it	Allora fatti sotto! 
 ko	어디 한번 덤벼 봐! | 
 no	Kom med det! 
-pr-br	Bem, mande ver! 
-pr	Vamos lá! 
+pt-br	Bem, mande ver! 
+pt	Vamos lá! 
 ro	Atunci, dă-i drumul! 
 sv	Kom igen då! 
 th	งั้นเข้ามาเลย | 

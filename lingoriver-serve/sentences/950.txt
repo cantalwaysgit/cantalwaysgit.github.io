@@ -12,8 +12,8 @@ ko	내가 이름을 부르며 인사하면 | 매번 어떻게 알았냐며 놀�
 nl	Als ik hem zie, zeg ik: 'Hé, Quincelius.' En hij zegt: 'Hoe weet je dat?' 
 no	Så jeg kaller ham alltid det. Han ser på meg og bare: "Hvordan visste han?" 
 pl	Za każdym razem, kiedy mówię „Quincelius”, dziwi się, że znam to imię. 
-pr-br	Quando o vejo, digo: "Oi, Quincelius." Ele me olha e diz: "Como ele sabia?" 
-pr	Quando o vejo, digo: "Olá, Quincelius." E ele: "Como é que ele sabe?" 
+pt-br	Quando o vejo, digo: "Oi, Quincelius." Ele me olha e diz: "Como ele sabia?" 
+pt	Quando o vejo, digo: "Olá, Quincelius." E ele: "Como é que ele sabe?" 
 ro	Când ne vedem, îi spun Quincelius, iar el mă întreabă de unde știu. 
 sv	När vi ses, säger jag: "Hej, Quincelius." Och han kollar på mig: "Hur vet han det?" 
 th	เมื่อเจอเขา ผมว่า "ไง ควินเซเลียส" | เขาจะมองผมแบบ "เขารู้ได้ยังไง" | 

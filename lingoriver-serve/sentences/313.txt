@@ -14,8 +14,8 @@ it	No. Tu vai in Francia. Tu ti divertirai.  Bonjour.
 nl	'You go' naar Frankrijk. En hebt een leuke tijd. 
 no	Nei. Dra til Frankrike og kos deg.  Bonjour. 
 pl	Skoda, że nie z Czech, bo z Francji. Bonjour. 
-pr-br	Não. "Yugo" é uma palavra francesa. Lá é divertido.  Bonjour. 
-pr	Não. Foi de França. Um sítio divertido.  Bonjour. 
+pt-br	Não. "Yugo" é uma palavra francesa. Lá é divertido.  Bonjour. 
+pt	Não. Foi de França. Um sítio divertido.  Bonjour. 
 ro	Nu. Mergi în Franța. Mergi și te distrezi.  Bonjour. 
 sv	Nej, du kan ju gå till Frankrike. Ha så kul.  Bonjour. 
 th	ไม่ใช่ ยูโกไปฝรั่งเศส | ยูโกแล้วหนุกมาก บองจูร์ | 

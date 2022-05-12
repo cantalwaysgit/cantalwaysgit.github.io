@@ -13,8 +13,8 @@ it	- Io faccio tutto. Tu cosa fai? - Siamo nella stessa squadra.
 ko	- 전부 다 해! 그러는 넌? | - 이봐, 우린 한 편이잖아 | 
 nl	Ik doe alles. Wat doe jij? -We zitten in hetzelfde team. 
 no	-Jeg gjør alt! Hva gjør du? -Folkens, vi er på samme lag. 
-pr-br	-Eu faço tudo! O que você faz? -Pessoal, jogamos no mesmo time. 
-pr	- Eu faço tudo! O que fazes tu? - Malta, estamos na mesma equipa. 
+pt-br	-Eu faço tudo! O que você faz? -Pessoal, jogamos no mesmo time. 
+pt	- Eu faço tudo! O que fazes tu? - Malta, estamos na mesma equipa. 
 ro	- Eu le fac pe toate! Tu ce faci? - Băieți, suntem în aceeași echipă. 
 sv	-Jag gör allt! Vad gör du? -Hörni, vi är i samma lag. 
 th	- ฉันทำทุกอย่าง แล้วแกทำอะไร | - ทุกคน เราทีมเดียวกันนะ | 

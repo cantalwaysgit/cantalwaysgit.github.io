@@ -15,8 +15,8 @@ ko	글쎄, 자네는 언제나 | 구경거리였나? |
 nl	Geen idee. Ben jij altijd een praalwagen geweest? 
 no	Jeg vet ikke. Har du alltid vært så feit? 
 pl	A ty zawsze byłeś balonem na gorące powietrze? 
-pr-br	Sei lá, você sempre foi carro alegórico? 
-pr	Não sei. Tu sempre foste um carro alegórico? 
+pt-br	Sei lá, você sempre foi carro alegórico? 
+pt	Não sei. Tu sempre foste um carro alegórico? 
 ro	Nu știu. Tu ai fost mereu un car alegoric? 
 sv	Jag vet inte. Har du alltid varit en paradvagn? 
 th	ไม่รู้สิ | นายเป็นรถขบวนพาเหรดมาตลอดหรือเปล่า | 

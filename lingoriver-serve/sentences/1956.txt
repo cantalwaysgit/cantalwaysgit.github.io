@@ -13,8 +13,8 @@ it	Hai ragione, Alfred.
 nl	Je hebt gelijk, Alfred. 
 no	Du har rett, Alfred. 
 pl	Masz rację. 
-pr-br	Você tem razão, Alfred. 
-pr	Tens razão, Alfred. 
+pt-br	Você tem razão, Alfred. 
+pt	Tens razão, Alfred. 
 ro	Ai dreptate, Alfred. 
 sv	Du har rätt, Alfred. 
 th	นายพูดถูก อัลเฟรด | 

@@ -10,8 +10,8 @@ he	&rlm;‏היא עברה אל ג'וני דפ.‏ |
 it	E si mise con Johnny Depp. 
 ko	조니 뎁에게로 갔죠 | 
 nl	Toen kwam Johnny Depp. 
-pr-br	E namorou Johnny Depp. 
-pr	Juntou-se com o Johnny Depp. 
+pt-br	E namorou Johnny Depp. 
+pt	Juntou-se com o Johnny Depp. 
 ro	Apoi a fost cu Johnny Depp. 
 sv	Sen var det Johnny Depp. 
 th	เธอไปกับจอห์นนี่ เดปป์ | 

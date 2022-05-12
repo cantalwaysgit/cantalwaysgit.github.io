@@ -14,8 +14,8 @@ it	Stasera Kevin Connors ha fatto uno spettacolo su La Brea,
 nl	Kevin Connors deed een show in Brea vanavond... 
 no	Kevin Connors opptrådte på Brea i kveld, 
 pl	Kevin Connors występował dziś na La Brea 
-pr-br	Kevin Connors fez um show no La Brea hoje 
-pr	O Kevin Connors fez um espetáculo esta noite em Brea, 
+pt-br	Kevin Connors fez um show no La Brea hoje 
+pt	O Kevin Connors fez um espetáculo esta noite em Brea, 
 ro	Kevin Connors a apărut la Brea în seara asta, 
 sv	Kevin Connors gjorde en show på Brea ikväll, 
 th	คืนนี้เควิน คอนเนอร์สแสดงในบรี | 

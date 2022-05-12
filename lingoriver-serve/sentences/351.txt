@@ -13,8 +13,8 @@ ko	둘이 저녁 먹고 공연 보러 가 | 알래스카 스타일로 |
 nl	Neem Sandy mee uit. In Alaska-stijl. 
 no	Ta med Sandy ut på middag og et show, på Alaska-vis. 
 pl	Zabierz Sandy'ego na kolację i pokaż mu tutejsze atrakcje. 
-pr-br	Você deveria sair com o Sandy. Jantar e show, estilo alasquiano. 
-pr	Devias levar o Sandy a jantar e ver um espetáculo à moda do Alasca. 
+pt-br	Você deveria sair com o Sandy. Jantar e show, estilo alasquiano. 
+pt	Devias levar o Sandy a jantar e ver um espetáculo à moda do Alasca. 
 ro	Ar trebui să-l scoți pe Sandy la cină și la un spectacol, în stil Alaska. 
 ru	А ты своди Сэнди поужинать и на шоу а-ля Аляска. 
 sv	Ta med Sandy ut på middag och en show, i Alaskastil. 

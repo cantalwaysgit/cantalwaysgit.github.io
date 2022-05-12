@@ -14,8 +14,8 @@ it	Farfalle, farfalla Neanche te ne rendi conto
 ko	설렘, 당신은 모를 거야 | 
 nl	vlinders, je weet het niet 
 pl	Czuję motylki Ogarniają mnie 
-pr-br	Tantos arrepios Você nem imagina 
-pr	Provocas-me arrepios Que nem imaginas 
+pt-br	Tantos arrepios Você nem imagina 
+pt	Provocas-me arrepios Que nem imaginas 
 ro	Fluturi Nici nu știi 
 sv	Fjärilar, fjärilar Som du inte ens vet om 
 th	ผีเสื้อ ผีเสื้อที่คุณไม่เคยรู้ | 

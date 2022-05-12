@@ -15,8 +15,8 @@ it	La bellezza non si insegna.
 ko	아름다움은 가르칠 수 없죠 | 
 no	Det kan ikke læres bort. 
 pl	Tego nauczyć się nie da. 
-pr-br	Beleza não se ensina. 
-pr	Isso não se ensina. 
+pt-br	Beleza não se ensina. 
+pt	Isso não se ensina. 
 ro	Frumusețea nu se învață. 
 th	ความสวยสอนกันไม่ได้ | 
 tr	Güzellik öğretilmez. 
@@ -36,8 +36,8 @@ id	Kalau bisa, aku sudah mempelajarinya. Percayalah.
 it	Altrimenti sarei già al corso. 
 ko	배울 수만 있다면 | 지금 전 수강 중일 거예요 | 
 no	Da ville jeg vært på skolen nå. 
-pr-br	Se pudesse ser ensinada, eu estaria fazendo aula. 
-pr	Se ensinasse, eu estaria na aula. 
+pt-br	Se pudesse ser ensinada, eu estaria fazendo aula. 
+pt	Se ensinasse, eu estaria na aula. 
 ro	Dacă se învăța, luam lecții chiar acum. 
 th	ถ้าสอนกันได้ ผมคงไปเรียนแล้วตอนนี้ | 
 tr	Öyle olsa şu anda derste olurdum. 

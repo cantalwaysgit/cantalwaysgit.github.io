@@ -10,8 +10,8 @@ he	&rlm;‏אלפרד?‏ |
 it	Alfred? 
 ko	알프레드? | 
 nl	Alfred? 
-pr	Alfred? 
-pr-br	Alfred? 
+pt	Alfred? 
+pt-br	Alfred? 
 ro	Alfred? 
 sv	Alfred? 
 th	อัลเฟรดเรอะ | 

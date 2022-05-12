@@ -9,8 +9,8 @@ fr	Quoi ?
 he	&rlm;‏מה?‏ | 
 it	Come? 
 ko	뭐? | 
-pr-br	Quê? 
-pr	O quê? 
+pt-br	Quê? 
+pt	O quê? 
 ro	Poftim? 
 sv	Vadå? 
 th	อะไรนะ | 

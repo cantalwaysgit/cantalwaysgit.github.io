@@ -9,8 +9,8 @@ fr	Elle se rend pas compte du compliment ?
 it	Non si rende conto di quanto è bella? 
 ko	그게 얼마나 좋은 건지 | 모른다는 소린가요? | 
 nl	Snapt ze niet hoe goed dat is? 
-pr-br	Ela não sabe o quanto isso é bom? 
-pr	Ela não sabe o elogio que isso é? 
+pt-br	Ela não sabe o quanto isso é bom? 
+pt	Ela não sabe o elogio que isso é? 
 sv	Fattar hon inte hur bra det är? 
 vi	Cô ấy không hiểu nó tuyệt đến thế nào à? | 
 zh-long	她不懂有多讚？ 

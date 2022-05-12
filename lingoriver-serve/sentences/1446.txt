@@ -12,8 +12,8 @@ he	&rlm;‏אתה לא יודע את זה. חכה בסבלנות.‏ |
 it	Non puoi saperlo. Un attimo. 
 no	Det kan du ikke vite. 
 pl	Nie wiesz tego. Chwila. 
-pr-br	Não sabe disso. Espere. 
-pr	Não sabes. Espere. 
+pt-br	Não sabe disso. Espere. 
+pt	Não sabes. Espere. 
 ro	N-ai de unde să știi. O clipă, te rog. 
 sv	Det vet du inte. Vänta lite. 
 th	เรื่องนั้นนายไม่รู้ เดี๋ยวก่อน | 

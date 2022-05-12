@@ -16,8 +16,8 @@ ko	수치스럽잖아요! 애들도 왔고 | 아내도 이제 뽀뽀 안 해줄�
 nl	Het is vernederend. Mijn kinderen zijn er. Mijn vrouw kust me nooit meer. 
 no	Det er pinlig. Barna mine er her! Kona mi vil aldri kysse meg mer! 
 pl	Na widowni są moje dzieci! Żona już mnie nigdy nie pocałuje! 
-pr-br	É humilhante. Meus filhos estão aqui! Minha esposa nunca mais vai me beijar! 
-pr	É humilhante! Os meus filhos estão cá! A minha mulher não me volta a beijar! 
+pt-br	É humilhante. Meus filhos estão aqui! Minha esposa nunca mais vai me beijar! 
+pt	É humilhante! Os meus filhos estão cá! A minha mulher não me volta a beijar! 
 ro	E umilitor! Copiii mei sunt în sală! Nevastă-mea n-o să mă mai sărute! 
 th	มันน่าขายหน้า ลูกๆ ก็มาด้วย | เมียคงไม่ยอมจูบด้วยอีกแล้ว | 
 tr	Küçük düşeceğim. Çocuklarım burada! Karım bir daha beni öpmeyecek! 

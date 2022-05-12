@@ -10,8 +10,8 @@ fr	Je suis paumée, folle et mal à l'aise.
 he	&rlm;‏אני מבולבלת, משוגעת, נבוכה.‏ | 
 it	Sono confusa, folle, imbarazzata. 
 no	Jeg er forvirret, sprø og flau. 
-pr-br	Sou confusa, louca, constrangida. 
-pr	Estou confusa, louca, envergonhada. 
+pt-br	Sou confusa, louca, constrangida. 
+pt	Estou confusa, louca, envergonhada. 
 ro	Sunt derutată, nebună, jenată. 
 sv	Jag är förvirrad, galen, generad. 
 th	ฉันสับสน บ้า ขายหน้า | 

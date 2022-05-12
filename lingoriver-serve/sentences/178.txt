@@ -15,8 +15,8 @@ it	So che non ci avevi pensato, ma che ne pensi di uno show per bambini?
 nl	Het is iets anders, maar wat dacht je van een show voor kinderen? 
 no	Jeg vet det kommer brått på, men hva med en serie for barn? 
 pl	Wystąpisz w programie dla dzieci. 
-pr-br	Sei que é inesperado, mas que tal um programa para crianças? 
-pr	Sei que pode parecer estranho, mas que tal um espetáculo para crianças? 
+pt-br	Sei que é inesperado, mas que tal um programa para crianças? 
+pt	Sei que pode parecer estranho, mas que tal um espetáculo para crianças? 
 ro	Știu că e surprinzător, dar ce-ar fi să ai o emisiune pentru copii? 
 th	ฉันรู้ว่ามันอาจแปลกๆ | แต่โชว์สำหรับเด็กเป็นไง | 
 tr	Biraz ani olacak, biliyorum ama çocuk programı yapmaya ne dersin? 

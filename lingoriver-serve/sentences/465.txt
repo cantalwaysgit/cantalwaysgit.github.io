@@ -12,8 +12,8 @@ id	Orang dari Young Comedians Special.
 it	Il tizio del Young Comedians Special! 
 ko	코미디언 특집 | 젊은 담당자 말이야! | 
 pl	Do faceta z Young Comedians Special. 
-pr-br	Para o cara do  Young Comedians Special. 
-pr	O tipo do Especial "Jovens Comediantes". 
+pt-br	Para o cara do  Young Comedians Special. 
+pt	O tipo do Especial "Jovens Comediantes". 
 ro	Pe tipul de la  Young Comedians Special. 
 ru	Парню из «Молодых комиков»! 
 sv	Killen från Young Comedians Special. 
@@ -35,8 +35,8 @@ he	&rlm;‏כן. לא, אני צריך להתקשר אליו.‏ |
 it	Ah, sì. No, devo ancora chiamarlo. 
 ko	아, 그래, 전화해야 해 | 
 pl	Tak, muszę do niego dryndnąć. 
-pr-br	É. Não, tenho que ligar para ele. 
-pr	Pois. Não, tenho de lhe ligar. 
+pt-br	É. Não, tenho que ligar para ele. 
+pt	Pois. Não, tenho de lhe ligar. 
 ro	Da. Trebuie să-l sun. 
 ru	А! Да, я ему позвоню. 
 sv	Ja. Nej, jag måste ringa honom. 

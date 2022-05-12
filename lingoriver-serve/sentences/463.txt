@@ -14,8 +14,8 @@ ko	- 누가? | - 네가 전화한 사람 |
 nl	Wie? -De man die je belde. 
 no	-Hva sa hvem da? -Han du ringte. 
 pl	- Kto? - Ten, do kogo dzwoniłeś. 
-pr-br	-Quem disse o quê? -O cara para quem ligou. 
-pr	- Quem? - O tipo a quem ligaste. 
+pt-br	-Quem disse o quê? -O cara para quem ligou. 
+pt	- Quem? - O tipo a quem ligaste. 
 ro	- Cine să zică? - Tipul pe care l-ai sunat. 
 sv	-Vad sa vem då? -Snubben du ringde. 
 th	- ใครว่าอะไร | - คนที่โทรไปหาไง | 

@@ -15,8 +15,8 @@ it	Chiunque nella tua posizione farebbe lo stesso. L'ha fatto Liza.
 nl	Iedereen in jouw positie zou dat doen. Liza deed het. 
 no	Alle ville gjort det samme i ditt sted. Liza gjorde det. 
 pl	Każdy na twoim miejscu robiłby to samo. Liza też taka była. 
-pr-br	Qualquer um no seu lugar faria o mesmo. Liza fez. 
-pr	Qualquer pessoa no teu lugar faria a mesma coisa. A Liza fez. 
+pt-br	Qualquer um no seu lugar faria o mesmo. Liza fez. 
+pt	Qualquer pessoa no teu lugar faria a mesma coisa. A Liza fez. 
 ro	Oricine ar face la fel în locul tău. Liza a făcut la fel. 
 sv	Vem som helst skulle göra samma sak. Liza gjorde det. 
 th	ใครๆ ในฐานะคุณก็ทำแบบนั้น ไลซ่าก็ทำ | 

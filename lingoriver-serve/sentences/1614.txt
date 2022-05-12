@@ -14,8 +14,8 @@ it	Perché sai che ti voglio bene e che sono la tua famiglia.
 ko	난 널 사랑하는 가족이니까 | 
 nl	Omdat ik van je hou en ik je familie ben. 
 no	For du vet jeg er glad i deg, og jeg er familien din. 
-pr-br	Porque eu amo você e sou a sua família. 
-pr	Porque sabes que te adoro e sou a tua família. 
+pt-br	Porque eu amo você e sou a sua família. 
+pt	Porque sabes que te adoro e sou a tua família. 
 ro	Fiindcă știi că te iubesc și ești din familia mea. 
 sv	Du vet att jag älskar dig. Du är min familj. 
 th	เพราะนายรู้ว่าฉันรักนาย | และฉันเป็นครอบครัวของนาย | 
@@ -37,8 +37,8 @@ it	Ci siamo, buona fortuna.
 ko	좋아, 잘해 봐 | 
 no	Ja vel, lykke til. 
 pl	Powodzenia. 
-pr-br	Está bem, boa sorte. 
-pr	Pronto, boa sorte. 
+pt-br	Está bem, boa sorte. 
+pt	Pronto, boa sorte. 
 ro	Bine. Baftă! 
 sv	Lycka till. 
 th	เอาละ โชคดีนะ | 
@@ -64,8 +64,8 @@ ko	나가 봐! |
 nl	Ga op. 
 no	Kom deg ut dit! 
 pl	Idź! 
-pr-br	Dê o fora daqui! 
-pr	Vai para ali! 
+pt-br	Dê o fora daqui! 
+pt	Vai para ali! 
 ro	Du-te acolo! 
 sv	Ut med dig! 
 th	ออกไปเลย | 

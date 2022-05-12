@@ -12,8 +12,8 @@ ko	마주칠 때마다 그랬죠 | ‘비비스를 만나야겠어’ |
 nl	Telkens als ik Sandy zag, zei hij: 'Ik heb een afspraak met Beavis. 
 no	Hver gang jeg møtte Sandy, sa han: "Jeg må møte den Beavis-gutten. 
 pl	Kiedyś Sandy ciągle mi mówił: „Chcę poznać tego Beavisa. 
-pr-br	Toda vez que eu cruzava com o Sandy, ele dizia: "Tenho que conhecer o Beavis. 
-pr	Sempre que encontrava o Sandy, ele dizia: "Tenho de conhecer esse Beavis. 
+pt-br	Toda vez que eu cruzava com o Sandy, ele dizia: "Tenho que conhecer o Beavis. 
+pt	Sempre que encontrava o Sandy, ele dizia: "Tenho de conhecer esse Beavis. 
 ro	De câte ori dădeam de Sandy îmi zicea: "Trebuie să mă văd cu un puști, Beavis. 
 sv	Varje gång jag träffade Sandy, så sa han: "Jag måste träffa Beavis. 
 th	ใช่ ทุกครั้งที่เจอแซนดี้ เขาเคย | พูดว่า "ผมต้องเจอกับเด็กบีวิสเนี่ย | 

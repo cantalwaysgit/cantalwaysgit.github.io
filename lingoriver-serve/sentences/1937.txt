@@ -12,8 +12,8 @@ fr	Rappelle-toi ce que tu m'as dit.
 he	&rlm;‏אתה זוכר מה אמרת לי?‏ | 
 it	Ricordi cosa mi dicesti? 
 pl	Pamiętasz, co mi powiedziałeś? 
-pr-br	Lembra do que me disse? 
-pr	Lembras-te do que me disseste? 
+pt-br	Lembra do que me disse? 
+pt	Lembras-te do que me disseste? 
 ro	Mai știi ce mi-ai zis? 
 sv	Minns du vad du sa till mig? 
 tr	Ne demiştin, hatırlıyor musun? 

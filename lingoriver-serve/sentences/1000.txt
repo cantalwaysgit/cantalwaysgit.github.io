@@ -12,8 +12,8 @@ it	Un ginger ale senza zucchero.
 ko	난 다이어트 진저 에일로 줘요 | 
 no	Jeg tar en ingefærøl light. 
 pl	Dla mnie napój imbirowy. 
-pr-br	Quero um refrigerante diet. 
-pr	Quero um  ginger ale   diet. 
+pt-br	Quero um refrigerante diet. 
+pt	Quero um  ginger ale   diet. 
 ro	Eu o să beau o gingerată. 
 ru	Диетический имбирный эль. 
 sv	Jag tar en light-ginger ale. 

@@ -12,8 +12,8 @@ it	Portami via Dammi il tuo amore
 ko	나를 데려가 줘, 사랑을 줘 | 
 nl	neem me mee geef me liefde 
 pl	Więc zabierz mnie I kochaj też 
-pr-br	Me leve com você Me dê amor 
-pr	Leva-me para longe Dá-me amor 
+pt-br	Me leve com você Me dê amor 
+pt	Leva-me para longe Dá-me amor 
 ro	Ia-mă Dă-mi iubire 
 ru	Забери меня Подари мне любовь 
 sv	Ta med mig Ge mig kärlek 

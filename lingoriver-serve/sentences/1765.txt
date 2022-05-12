@@ -13,8 +13,8 @@ it	Ma che diavolo sta succedendo?
 nl	Wat is hier aan de hand? 
 no	Hva i helvete er det som skjer her? 
 pl	Co się dzieje? 
-pr-br	Que diabos está acontecendo aqui? 
-pr	O que estás a fazer? 
+pt-br	Que diabos está acontecendo aqui? 
+pt	O que estás a fazer? 
 ro	Ce naiba se întâmplă? 
 sv	Vad tusan är det som händer? 
 th	เกิดอะไรขึ้นล่ะเนี่ย | 

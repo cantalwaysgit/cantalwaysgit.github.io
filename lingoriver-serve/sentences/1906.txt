@@ -11,8 +11,8 @@ it	Tu ci sei sempre stato per me.
 nl	Je was er altijd voor me. 
 no	Du var alltid der for meg. 
 pl	Zawsze mnie wspierałeś. 
-pr-br	Você sempre me apoiou. 
-pr	Estiveste sempre lá para mim. 
+pt-br	Você sempre me apoiou. 
+pt	Estiveste sempre lá para mim. 
 ro	Mi-ai fost mereu alături. 
 sv	Du fanns alltid där för mig. 
 th	คุณอยู่ข้างฉันเสมอ | 

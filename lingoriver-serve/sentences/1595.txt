@@ -14,8 +14,8 @@ it	Come hai detto?
 nl	Sorry? 
 no	Unnskyld meg? 
 pl	Coś nie tak? 
-pr-br	Como? 
-pr	Desculpa? 
+pt-br	Como? 
+pt	Desculpa? 
 ro	Poftim? 
 sv	Ursäkta mig? 
 th	โทษทีว่าไงนะ | 

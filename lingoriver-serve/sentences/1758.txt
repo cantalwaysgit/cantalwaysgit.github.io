@@ -15,8 +15,8 @@ he	&rlm;‏החיים הם הרפתקה. אתה לא רוצה לפספס רגע.
 it	La vita è un'avventura. Non perderne neanche un istante. 
 nl	Het leven is een avontuur. Je wilt niets missen. 
 no	Livet er et eventyr. Gå ikke glipp av et eneste øyeblikk. 
-pr	A vida é uma aventura. Não queira perder um único momento. 
-pr-br	A vida é uma aventura. Não quer perder nem um instante. 
+pt	A vida é uma aventura. Não queira perder um único momento. 
+pt-br	A vida é uma aventura. Não quer perder nem um instante. 
 ro	Viața e o aventură. Nu trebuie să ratați nicio clipă. 
 sv	Livet är ett äventyr. Man vill inte missa nåt. 
 tr	Hayat bir maceradır. Bir anı bile kaçırmak istemezsiniz. 

@@ -1,5 +1,5 @@
 id	Bisa tutup mulutmu sedikit? 
-pr-br	Pode fechar um pouco a boca? 
+pt-br	Pode fechar um pouco a boca? 
 ja	口を閉じて噛(か)めよ | 
 vi	Anh có thể ngậm miệng vào được không? | 
 ru	Вы можете прикрыть рот? 
@@ -17,7 +17,7 @@ ko	입 좀 닫고 먹으면 안 돼요? |
 nl	Kan het ook met je mond dicht? 
 no	Kan du lukke munnen? 
 pl	Mógłbyś zamknąć usta? 
-pr	Pode fechar um pouco a boca? 
+pt	Pode fechar um pouco a boca? 
 ro	Vrei să-ți închizi gura? 
 sv	Kan du stänga munnen? 
 th	ช่วยปิดปากหน่อยได้ไหม | 

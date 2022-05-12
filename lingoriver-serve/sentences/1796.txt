@@ -13,8 +13,8 @@ ko	- 그런 말이 아니야 | - 내가 할 수 있어 |
 nl	Dat bedoelde ik niet. -Ik kan zingen. 
 no	-Det var ikke det jeg mente. -Jeg kan synge, Ted. 
 pl	- Nie to miałem na myśli. - Ja mogę zaśpiewać, Ted. 
-pr-br	-Não foi isso que quis dizer. -Eu sei cantar, Ted. 
-pr	- Não queria dizer isso. - Eu posso cantar, Ted. 
+pt-br	-Não foi isso que quis dizer. -Eu sei cantar, Ted. 
+pt	- Não queria dizer isso. - Eu posso cantar, Ted. 
 ro	- Nu asta am vrut să zic. - Știu eu să cânt, Ted. 
 sv	-Jag menade inte så. -Jag kan sjunga. 
 th	- ไม่ได้หมายความอย่างนั้น | - ฉันร้องเพลงได้ เท็ด | 

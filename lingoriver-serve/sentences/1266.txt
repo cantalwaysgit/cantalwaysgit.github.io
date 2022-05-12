@@ -14,8 +14,8 @@ ko	전설에 의하면 차에 앉아서 | 6시간을 울었다더군요 |
 nl	Volgens de legende zat hij zes uur in de auto te huilen. 
 no	Det sies at han satt i bilen og gråt i seks timer? 
 pl	Podobno płakał w tym wozie przez sześć godzin. 
-pr-br	Diz a lenda que ele ficou chorando no carro durante seis horas, é isso? 
-pr	Consta que ele ficou naquele carro e chorou durante... seis horas? 
+pt-br	Diz a lenda que ele ficou chorando no carro durante seis horas, é isso? 
+pt	Consta que ele ficou naquele carro e chorou durante... seis horas? 
 ro	Se spune că a stat în mașina aia și a plâns, cât, șase ore? 
 sv	Det sägs att han satt i bilen och grät i sex timmar. 
 th	เล่ากันว่าเขานั่งอยู่ในรถ | แล้วร้องไห้นานหกชั่วโมงใช่ไหม | 

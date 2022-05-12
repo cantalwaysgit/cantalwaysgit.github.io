@@ -14,8 +14,8 @@ it	- Straordinario. - Vero?
 ko	- 정말 멋지네 | - 그렇죠? | 
 no	-Det er fantastisk. -Ikke sant? 
 pl	- Niezwykłe. - Prawda? 
-pr-br	-É incrível. -Não é? 
-pr	- É incrível. - Não é? 
+pt-br	-É incrível. -Não é? 
+pt	- É incrível. - Não é? 
 ro	- E grozav. - Nu-i așa? 
 sv	-Det är fantastiskt. -Eller hur? 
 th	- นั่นมหัศจรรย์จัง | - ใช่ไหม | 

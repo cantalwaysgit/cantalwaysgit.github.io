@@ -13,8 +13,8 @@ he	&rlm;‏כן, הנה זה. בסדר.‏ |
 it	Sì. Bene. 
 ko	쉬고 있네, 됐다 | 
 no	Sånn, ja. 
-pr-br	Sim. Tudo bem. 
-pr	Sim, aí está. Pronto. 
+pt-br	Sim. Tudo bem. 
+pt	Sim, aí está. Pronto. 
 ro	Da. Iată! Bine. 
 sv	Ja, det är bra. 
 th	อ๋อ ยังหายใจ โอเค | 

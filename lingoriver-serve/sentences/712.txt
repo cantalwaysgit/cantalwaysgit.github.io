@@ -12,8 +12,8 @@ fr	Merci.
 he	&rlm;‏תודה.‏ | 
 it	Grazie. 
 ko	고맙습니다 | 
-pr-br	Obrigada. 
-pr	Obrigada. 
+pt-br	Obrigada. 
+pt	Obrigada. 
 ro	Mulțumesc. 
 sv	Tack. 
 th	ขอบคุณ | 

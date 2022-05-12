@@ -10,8 +10,8 @@ he	&rlm;‏בסדר. זה מספיק.‏ |
 it	Bene. Basta così. 
 nl	Oké. Genoeg. 
 pl	Dość. 
-pr-br	Certo. Basta. 
-pr	Pronto. Já chega. 
+pt-br	Certo. Basta. 
+pt	Pronto. Já chega. 
 ro	Gata. Până aici! 
 sv	Det räcker. 
 th	เอาละ นั่นพอแล้ว | 

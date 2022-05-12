@@ -11,8 +11,8 @@ it	Andiamo sul sexy. Mi fai qualcosa di sexy, Courtney?
 ko	섹시하게 한번 가볼까요? | 섹시한 거 할 수 있어요? | 
 no	Kan du gi meg sexy, Courtney? 
 pl	Teraz coś seksownego. Potrafisz, Courtney? 
-pr-br	Vamos ficar sexy, está bem? Pode ficar sexy para mim, Courtney? 
-pr	Vamos fazer um ar sensual. Consegues fazer isso, Courtney? 
+pt-br	Vamos ficar sexy, está bem? Pode ficar sexy para mim, Courtney? 
+pt	Vamos fazer um ar sensual. Consegues fazer isso, Courtney? 
 ro	Hai să fim sexy, da? Poți să fii sexy, Courtney? 
 sv	Låt oss bli lite sexiga. Kan du vara sexig, Courtney? 
 th	ทีนี้ทำท่าเซ็กซี่ ได้ไหม | ขอท่าเซ็กซี่นะ คอร์ทนี่ย์ | 

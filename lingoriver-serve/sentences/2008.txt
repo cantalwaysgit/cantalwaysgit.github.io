@@ -12,8 +12,8 @@ it	Così come Bling e Lenny Kravitz.
 ko	블링이나 레니 크라비츠가 | 네 짝이 아니었듯 말이야 | 
 nl	Net als Bling en Lenny Kravitz. 
 pl	Tak samo jak nie byli nimi Bling i Lenny Kravitz. 
-pr-br	Assim como o Bling e o Lenny Kravitz também não eram. 
-pr	Tal como o Bling não servia nem o Lenny Kravitz. 
+pt-br	Assim como o Bling e o Lenny Kravitz também não eram. 
+pt	Tal como o Bling não servia nem o Lenny Kravitz. 
 ro	Așa cum nepotrivit a fost și Bling, și Lenny Kravitz. 
 sv	Precis som Bling var fel kille och Lenny Kravitz. 
 tr	Bling de yanlış insandı, Lenny Kravitz de. 
@@ -42,8 +42,8 @@ ko	마크 앤서니, 프린스 | 아폴로니아도 그래 |
 nl	Marc Anthony, Prince en Apollonia. 
 no	Marc Anthony. Og Prince. Og Apollonia. 
 pl	Marc Anthony. Prince. Apollonia. 
-pr-br	Marc Anthony. E Prince. E Appollonia. 
-pr	O Marc Anthony. O Prince. A Apollonia. 
+pt-br	Marc Anthony. E Prince. E Appollonia. 
+pt	O Marc Anthony. O Prince. A Apollonia. 
 ro	Marc Anthony. Și Prince. Și Apollonia. 
 sv	Marc Anthony. Och Prince. Och Apollonia. 
 th	มาร์ค แอนโทนี่ และพรินซ์ | และแอปพอลโลเนีย | 

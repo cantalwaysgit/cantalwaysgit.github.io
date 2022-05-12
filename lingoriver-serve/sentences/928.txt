@@ -13,8 +13,8 @@ ko	무과실 책임 보험이 있어요 | 두 분은요? |
 nl	Ik heb een verzekering zonder eigen risico. En jij? 
 no	Jeg er forsikret. Hva med deg? 
 pl	Moje ubezpieczenie pokryje szkody bez ustalania winy. A jak u was? 
-pr-br	Tenho seguro total. E vocês? 
-pr	Tenho seguro contra todos os riscos. E vocês? 
+pt-br	Tenho seguro total. E vocês? 
+pt	Tenho seguro contra todos os riscos. E vocês? 
 ro	Am asigurare integrală. Voi? 
 ru	У меня страховка «без вины». А у вас? 
 sv	Jag har Integritys bilförsäkring. Vad har ni? 

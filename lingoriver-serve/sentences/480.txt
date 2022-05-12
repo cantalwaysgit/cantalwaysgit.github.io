@@ -14,8 +14,8 @@ it	Lo so. Stavo improvvisando.
 ko	알아, 애드리브 친 거야 | 
 no	Jeg vet det. Jeg improviserte. 
 pl	Wiem. Improwizowałem. 
-pr-br	Eu sei. Eu estava improvisando. 
-pr	Eu sei. Estava a improvisar. 
+pt-br	Eu sei. Eu estava improvisando. 
+pt	Eu sei. Estava a improvisar. 
 ro	Știu. Improvizam. 
 sv	Jag vet. Jag improviserade. 
 th	รู้แล้ว ผมแค่ด้นสด | 
@@ -42,8 +42,8 @@ it	Vuoi che segua il copione?
 ko	하지만 이 대사를 원해? | 
 no	Men vil du ha denne replikken? 
 pl	Moja kwestia, tak? 
-pr-br	Mas quer esta fala? 
-pr	Mas queres esta fala? 
+pt-br	Mas quer esta fala? 
+pt	Mas queres esta fala? 
 ro	Dar vrei replica asta? 
 sv	Men du vill ha den här repliken? 
 tr	Ama bu repliği mi istersin? 

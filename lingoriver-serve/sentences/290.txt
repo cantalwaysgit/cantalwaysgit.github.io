@@ -15,8 +15,8 @@ ko	새와 천사가 아이를 | 낳은 것 같은 소리로요 |
 nl	Zingen als de baby van een vogel en een engel. 
 no	Stå der oppe og synge som en fugl og en engel fikk barn. 
 pl	Śpiewałabyś jak dziecko ptaka i anioła. 
-pr	A cantar ali em cima, como se um pássaro e um anjo tivessem tido um filho. 
-pr-br	Lá no palco, cantando como se fosse filha de um pássaro com um anjo. 
+pt	A cantar ali em cima, como se um pássaro e um anjo tivessem tido um filho. 
+pt-br	Lá no palco, cantando como se fosse filha de um pássaro com um anjo. 
 ro	Să cânți ca și cum ai fi rezultatul împreunării unei păsări cu un înger. 
 sv	Stå där och sjunga som om en fågel och en ängel fått barn. 
 th	บนเวทีนั่นร้องเพลงเหมือนนก | และนางฟ้ากำลังคลอดลูก | 

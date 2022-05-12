@@ -14,8 +14,8 @@ he	&rlm;‏‏הילדה הזו יכולה לעשות הכול. | &rlm;‏-תר�
 it	- Questa ragazza sa fare tutto. - Con passione. 
 nl	Zij kan alles. 
 no	-Den jenta klarer alt. -Føl det. 
-pr-br	-Esta garota sabe tudo. -Sintam. 
-pr	- Esta miúda consegue fazer tudo. - Sente. 
+pt-br	-Esta garota sabe tudo. -Sintam. 
+pt	- Esta miúda consegue fazer tudo. - Sente. 
 ro	- Fata asta poate face de toate. - Simte! 
 sv	-Den tjejen kan allt. -Känn pulsen. 
 th	- ผู้หญิงคนนี้ทำได้ทุกอย่าง | - รู้สึกกับมัน | 
@@ -37,8 +37,8 @@ it	Stop!
 nl	En stoppen. 
 no	Og stopp! 
 pl	Stop! 
-pr-br	Parem! 
-pr	E para! 
+pt-br	Parem! 
+pt	E para! 
 ro	Și... Stop! 
 ru	И стоп! 
 sv	Och sluta! 

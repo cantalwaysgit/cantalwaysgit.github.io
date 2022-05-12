@@ -10,8 +10,8 @@ it	Terza versione. La terza è quella buona.
 nl	Derde opname. Drie keer is scheepsrecht. 
 no	Tredje tagning. Alle gode ting er tre. 
 pl	Podejście trzecie. Do trzech razy sztuka. 
-pr-br	Gravação número três. A terceira vez dá sorte. 
-pr	Vamos à terceira tentativa. À terceira é de vez. 
+pt-br	Gravação número três. A terceira vez dá sorte. 
+pt	Vamos à terceira tentativa. À terceira é de vez. 
 ro	A treia sesiune. Trei e cu noroc. 
 sv	Tagning tre är det nu. Tredje gången gillt. 
 th	เทกสามละนะ ครั้งที่สามคือโชคดี | 

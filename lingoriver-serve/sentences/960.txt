@@ -12,8 +12,8 @@ he	&rlm;‏המקום הזה מדהים!‏ |
 it	Questa casa è incredibile! 
 no	Dette stedet er utrolig! 
 pl	Niesamowity dom! 
-pr-br	Este lugar é incrível! 
-pr	Esta casa é incrível! 
+pt-br	Este lugar é incrível! 
+pt	Esta casa é incrível! 
 ro	Locul ăsta e incredibil! 
 sv	Det här huset är otroligt! 
 th	บ้านนี้ช่างมหัศจรรย์ | 

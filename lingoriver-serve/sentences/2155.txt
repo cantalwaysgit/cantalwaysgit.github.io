@@ -9,8 +9,8 @@ es-eu	No.
 es	No. 
 he	&rlm;‏לא.‏ | 
 no	Nei, nei. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu. 
 sv	Nej. 
 th	ไม่ๆ ไม่ๆ | 

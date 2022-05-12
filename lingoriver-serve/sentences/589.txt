@@ -14,8 +14,8 @@ it	Infatti ne parlo con te.
 ko	그러니까 얘기해 주는 거야 | 
 nl	Daarom zeg ik het. 
 pl	Dlatego ci to mówię. 
-pr-br	É por isso que estou dizendo para você. 
-pr	É por isso que te estou a dizer. 
+pt-br	É por isso que estou dizendo para você. 
+pt	É por isso que te estou a dizer. 
 ro	De asta îți zic ție. 
 sv	Det är därför jag säger åt dig. 
 th	เพราะงั้นผมถึงได้บอกคุณไง | 
@@ -42,8 +42,8 @@ es	¡A ti te lo digo!
 es-eu	¡Te lo estoy diciendo! 
 fr	C'est ce que je te dis ! 
 it	Ne parlo con te! 
-pr-br	Estou dizendo para você! 
-pr	Estou a dizer-te! 
+pt-br	Estou dizendo para você! 
+pt	Estou a dizer-te! 
 sv	Jag säger åt dig! 
 zh-long	我正在說！ 
 

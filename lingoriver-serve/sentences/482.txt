@@ -13,8 +13,8 @@ it	Uccello.
 ko	새! | 
 nl	Vogel. 
 pl	Ptaka. 
-pr-br	Passarinho. 
-pr	Pássaro. 
+pt-br	Passarinho. 
+pt	Pássaro. 
 ro	Pasăre. 
 tr	Kuş. 
 vi	Chim. | 
@@ -39,8 +39,8 @@ it	Dobbiamo trovare il modo. Non credi, Sandy?
 ko	방법을 찾아야 해요 | 안 그래요? | 
 nl	We moeten een manier vinden. Niet dan? 
 pl	Musisz znaleźć jakiś sposób. 
-pr-br	Temos que dar um jeito. Não acha? 
-pr	Temos de arranjar forma. Não achas? 
+pt-br	Temos que dar um jeito. Não acha? 
+pt	Temos de arranjar forma. Não achas? 
 ro	Trebuie să găsim o cale. Nu crezi? 
 tr	Bir yolunu bulmalıyız. Değil mi? 
 vi	Chúng ta phải tìm cách. Không phải sao? | 

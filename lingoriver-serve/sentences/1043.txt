@@ -14,8 +14,8 @@ ko	아무도 아니에요 | 어서 가져오시죠 |
 nl	Niemand. Wat doen we hier? 
 no	Ingen. Kom igjen. Hva driver vi med? 
 pl	Nikt. Co my tu robimy? 
-pr-br	Ninguém. Vamos. Por que estamos aqui? 
-pr	Ninguém. Vá lá. O que estamos aqui a fazer? 
+pt-br	Ninguém. Vamos. Por que estamos aqui? 
+pt	Ninguém. Vá lá. O que estamos aqui a fazer? 
 ro	Nimeni. Haide! Ce facem aici? 
 sv	Ingen. Kom igen. Vad håller vi på med? 
 th	ไม่มีใคร ไม่เอาน่า | เรามาทำอะไรที่นี่ | 

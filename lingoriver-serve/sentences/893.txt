@@ -11,8 +11,8 @@ he	&rlm;‏בשר וברוקולי.‏ |
 it	Carne con broccoli? 
 nl	Vlees en broccoli. 
 pl	Wołowina i brokuły. 
-pr	Bife e brócolos. 
-pr-br	Carne e brócolis. 
+pt	Bife e brócolos. 
+pt-br	Carne e brócolis. 
 ro	Vită și broccoli. 
 sv	Biff och broccoli. 
 th	เนื้อวัวกับบรอกโคลี | 

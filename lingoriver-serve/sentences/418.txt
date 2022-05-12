@@ -10,8 +10,8 @@ it	Uno schifo totale.
 ko	완전 거지 같아요 | 
 nl	Compleet waardeloos. 
 pl	Całkiem do dupy. 
-pr-br	Uma merda fenomenal. 
-pr	Uma grande merda. 
+pt-br	Uma merda fenomenal. 
+pt	Uma grande merda. 
 ro	De rahat! 
 sv	Uruselt. 
 vi	Quá chán. | 

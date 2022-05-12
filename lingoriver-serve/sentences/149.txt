@@ -14,8 +14,8 @@ ko	결정타 날릴 테니 기다려 봐 |
 nl	Wacht op de clou, maat. 
 no	Vent på sluttpoenget, kamerat. 
 pl	Zaczekaj na puentę, koleś. 
-pr-br	Espere pela piada, amigão. 
-pr	Espera pela piada, pá. 
+pt-br	Espere pela piada, amigão. 
+pt	Espera pela piada, pá. 
 ro	Așteaptă poanta, amice! 
 sv	Vänta på poängen. 
 th	รอมุกเด็ดก่อนสิ เพื่อน | 

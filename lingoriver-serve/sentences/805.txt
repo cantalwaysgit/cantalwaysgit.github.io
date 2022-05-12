@@ -13,8 +13,8 @@ ko	이렇게 모인 건 처음이에요 |
 nl	We hebben nooit 'n ritueel gedaan. 
 no	Vi har aldri gjort ritualet. 
 pl	Nigdy tego nie robiliśmy. 
-pr-br	Nunca fizemos esse ritual. 
-pr	Desculpa, nunca fizemos o ritual. 
+pt-br	Nunca fizemos esse ritual. 
+pt	Desculpa, nunca fizemos o ritual. 
 ro	Noi n-am făcut niciodată ritualul. 
 ru	Мы никогда не проводили ритуал. 
 sv	Vi har aldrig gjort ritualen förut. 

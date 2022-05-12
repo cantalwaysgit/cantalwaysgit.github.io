@@ -13,8 +13,8 @@ he	&rlm;‏מדי פעם, את פוגשת מישהו‏ |
 it	Di tanto in tanto, trovi qualcuno 
 nl	af en toe vind je iemand 
 pl	Czasem znajdujesz kogoś 
-pr-br	De vez em quando, você acha alguém 
-pr	De vez em quando, encontramos alguém 
+pt-br	De vez em quando, você acha alguém 
+pt	De vez em quando, encontramos alguém 
 ro	Odată, găsești pe cineva 
 sv	Det händer att man hittar nån 
 th	บางครั้งบางคราว เราได้พบใครสักคน | 

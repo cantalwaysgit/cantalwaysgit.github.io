@@ -13,8 +13,8 @@ it	E appena possibile mando in onda il tuo cliente.
 nl	Ik zorg dat jouw man zo snel mogelijk uitgezonden wordt. Oké? 
 no	Jeg skal få fyren din fort på lufta. Greit? 
 pl	Raz-dwa wystąpi w telewizji. Zgoda? 
-pr-br	Colocarei seu cliente no ar assim que possível. Está bem, amigão? 
-pr	Pomos o teu rapaz no ar num instante. Está bem, amigo? 
+pt-br	Colocarei seu cliente no ar assim que possível. Está bem, amigão? 
+pt	Pomos o teu rapaz no ar num instante. Está bem, amigo? 
 ro	O să-ți bag băiatul în direct cât mai repede. Da? 
 sv	Så får din klient en show så fort som möjligt. 
 th	จะให้เด็กคุณออกทีวีให้เร็วที่สุด | เท่าที่เร็วได้ ตกลงไหมเพื่อน | 

@@ -13,8 +13,8 @@ it	- Ho paura. - Certo.
 ko	- 무서워요 | - 그래 | 
 no	-Jeg er redd. -Ja. 
 pl	Boję się. 
-pr-br	-Estou com medo. -É. 
-pr	- Estou com medo. - Sim. 
+pt-br	-Estou com medo. -É. 
+pt	- Estou com medo. - Sim. 
 ro	- Sunt speriat. - Da. 
 th	- ฉันกลัว | - ใช่ | 
 tr	-Korkuyorum. -Evet. 
@@ -33,8 +33,8 @@ fr	Je dois sauter au-dessus de dix caravanes.
 it	Devo saltare dieci roulotte. 
 no	Jeg må hoppe over ti vogner. 
 pl	Muszę przeskoczyć dziesięć przyczep. 
-pr-br	Tenho que pular sobre dez trailers. 
-pr	Tenho de saltar por cima de dez caravanas e aterrar num colchão de água. 
+pt-br	Tenho que pular sobre dez trailers. 
+pt	Tenho de saltar por cima de dez caravanas e aterrar num colchão de água. 
 ro	Trebuie să sar peste zece rulote. 
 th	ต้องกระโดดข้ามรถพ่วงสิบคัน | ไปลงที่ถุงน้ำ | 
 zh-long	我要飛越十輛拖車 還要降落在水床上 

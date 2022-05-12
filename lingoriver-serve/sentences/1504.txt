@@ -7,8 +7,8 @@ es	No, los niños lo adoran.
 fr	Les enfants l'adorent. 
 he	&rlm;‏לא, ילדים אוהבים אותו.‏ | 
 it	No, i bambini lo adorano. 
-pr	As crianças adoram-no. 
-pr-br	Não, as crianças o amam. 
+pt	As crianças adoram-no. 
+pt-br	Não, as crianças o amam. 
 ro	Copiii îl adoră. 
 sv	Ungarna älskar honom. 
 th	ไม่ เด็กๆ ชอบเขา | 

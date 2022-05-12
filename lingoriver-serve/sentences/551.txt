@@ -14,8 +14,8 @@ it	Sono felice per te.
 ko	그 말을 들으니 | 얼마나 기쁜지 알아? | 
 no	Vet du hvor glad det gjør meg? 
 pl	Bardzo się cieszę. 
-pr-br	Sabe como isso me deixa feliz? 
-pr	Sabes o quanto isso me deixa feliz? 
+pt-br	Sabe como isso me deixa feliz? 
+pt	Sabes o quanto isso me deixa feliz? 
 ro	Știi cât de fericit sunt să aud asta? 
 sv	Vet du hur glad jag blir? 
 th	รู้ไหมว่านั่นทำให้ผมมีความสุขแค่ไหน | 
@@ -39,8 +39,8 @@ it	Singhiozzo Bubatzi ha avuto successo.
 ko	딸꾹질 부바치가 대박 났구나 | 
 no	Hikke Bubatzi gjør det stort. 
 pl	Czkawka Bubatzi został szychą. 
-pr-br	Soluço Bubatzi mandando ver. 
-pr	O Soluços Bubatzi é um homem de sucesso. 
+pt-br	Soluço Bubatzi mandando ver. 
+pt	O Soluços Bubatzi é um homem de sucesso. 
 ro	Sughiț Bubatzi ajunge mare. 
 sv	Hickaren Bubatzi utför stordåd. 
 th	จอมสะอึกบูบาต์ซี่ดังใหญ่แล้ว | 

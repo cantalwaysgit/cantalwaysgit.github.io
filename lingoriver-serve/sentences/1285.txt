@@ -9,8 +9,8 @@ he	&rlm;‏‏ברכותיי, סנדי. | &rlm;‏-כן.‏ |
 it	- Congratulazioni, Sandy. - Già. 
 no	-Gratulerer, Sandy. -Ja. 
 pl	- Gratulacje. - Tak. 
-pr-br	-Parabéns, Sandy. -É. 
-pr	- Parabéns, Sandy. - Sim. 
+pt-br	-Parabéns, Sandy. -É. 
+pt	- Parabéns, Sandy. - Sim. 
 ro	- Felicitări, Sandy! - Da. 
 th	- ยินดีด้วยนะ แซนดี้ | - ครับ | 
 tr	-Tebrikler Sandy. -Evet. 

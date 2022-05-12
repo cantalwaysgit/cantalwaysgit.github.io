@@ -11,8 +11,8 @@ he	&rlm;‏היי, אבא.‏ |
 it	Ciao, papà. 
 ko	안녕, 아빠 | 
 pl	Cześć, tatusiu. 
-pr-br	Oi, papai. 
-pr	Olá, pai. 
+pt-br	Oi, papai. 
+pt	Olá, pai. 
 ro	Bună, tată! 
 sv	Hej, pappsen. 
 tr	Merhaba babacığım. 

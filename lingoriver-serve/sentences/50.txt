@@ -15,8 +15,8 @@ ko	신바드한테 삐삐 왔네 |
 nl	Ik heb een oproep en het is Sinbad. 
 no	Det piper, og det er Sinbad. 
 pl	Sindbad do mnie napiera. 
-pr-br	Sinbad no meu bipe. 
-pr	Recebi uma mensagem e é do Sinbad. 
+pt-br	Sinbad no meu bipe. 
+pt	Recebi uma mensagem e é do Sinbad. 
 ro	Sună pagerul și mă caută Sinbad! 
 sv	Det är nån som söker mig. Det är Sinbad. 
 th	มีเพจเจอร์เข้า และเป็นซินแบด | 

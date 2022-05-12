@@ -11,8 +11,8 @@ it	Non sto parlando con te. Sto parlando con Ted!
 nl	Ik heb het niet tegen jou, maar tegen Ted. 
 no	Jeg snakker til Ted, ikke deg! 
 pl	Nie mówię do ciebie, tylko do Teda! 
-pr-br	Não estou falando com você. Estou falando com o Ted! 
-pr	Não estou a falar contigo. Estou a falar com o Ted! 
+pt-br	Não estou falando com você. Estou falando com o Ted! 
+pt	Não estou a falar contigo. Estou a falar com o Ted! 
 ro	Nu cu tine vorbesc! Vorbesc cu Ted! 
 sv	Jag pratar inte med dig. Jag pratar med Ted! 
 th	ฉันไม่ได้พูดกับแก ฉันพูดกับเท็ด | 

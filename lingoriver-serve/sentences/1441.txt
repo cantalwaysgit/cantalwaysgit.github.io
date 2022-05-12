@@ -13,8 +13,8 @@ it	- Sei il numero uno. - Vero?
 ko	- 당신이 짱이에요 | - 그렇죠? | 
 no	-Du er den beste. -Ikke sant? 
 pl	- Jesteś super. - Prawda? 
-pr-br	-Você é o cara, Soneca. -Não é? 
-pr	- És o maior. - Não é? 
+pt-br	-Você é o cara, Soneca. -Não é? 
+pt	- És o maior. - Não é? 
 ro	- Ești cel mai tare. - Nu-i așa? 
 ru	-Ты крут, Баю-бай. -Правда? 
 sv	-Du är bäst! -Eller hur? 

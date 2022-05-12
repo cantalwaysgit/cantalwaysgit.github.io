@@ -12,8 +12,8 @@ he	&rlm;‏‏אתה יכול להסתכל לי בעיניים ולהגיד לי
 it	Puoi guardarmi negli occhi e dirmi che farai ciò che è meglio per lei? 
 nl	Kun je me aankijken en zeggen dat je doet wat het beste is voor haar? 
 no	Kan du se meg i øynene og si at du gjør det som er best for henne? 
-pr-br	Pode me olhar nos olhos e dizer que está fazendo o que é melhor para ela? 
-pr	Consegues olhar-me nos olhos e dizer que fazes o que é melhor para ela? 
+pt-br	Pode me olhar nos olhos e dizer que está fazendo o que é melhor para ela? 
+pt	Consegues olhar-me nos olhos e dizer que fazes o que é melhor para ela? 
 ro	Poți să mă privești în ochi și să-mi spui că faci ce e mai bine pentru ea? 
 sv	Kan du se mig i ögonen och säga att du gör det som är bäst för henne? 
 th	คุณจะมองตาผมแล้วพูดได้ไหมว่า | คุณกำลังทำสิ่งที่ดีที่สุดให้เธอ | 

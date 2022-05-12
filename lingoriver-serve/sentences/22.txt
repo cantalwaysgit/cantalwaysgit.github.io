@@ -1,6 +1,6 @@
 ru	Сэнди не был большой шишкой. 
 id	Sandy bukan manajer besar. Dia manajer biasa. 
-pr-br	Sandy não era um maioral. Ele tinha pouca influência. 
+pt-br	Sandy não era um maioral. Ele tinha pouca influência. 
 ar	&rlm;‏‏لم يكن "ساندي" رجلاً هاماً. | &rlm;‏بل كان قليل الأهمية.‏ | 
 da	Sandy var ingen stor kanon. Han var en lille kanon. 
 el	Ο Σάντι δεν ήταν ιδιαίτερα πετυχημένος. Είχε ελάχιστη επιρροή. 
@@ -15,7 +15,7 @@ ko	샌디는 거물은 아니었어요 | 소물이었죠 |
 nl	Sandy was geen grote jongen. Hij was een kleine jongen. 
 no	Sandy var ingen storkar. Han var... Han var en liten-kar. 
 pl	Sandy nie był grubą rybą. Raczej płotką. 
-pr	O Sandy não era muito influente. Era mais ou menos influente. 
+pt	O Sandy não era muito influente. Era mais ou menos influente. 
 ro	Sandy nu era un tip influent. Avea puține conexiuni. 
 sv	Sandy var ingen storfräsare. Han var en småfräsare. 
 th	แซนดี้ไม่ใช่นักปั้นมือทอง | เขากระจอกมาก | 

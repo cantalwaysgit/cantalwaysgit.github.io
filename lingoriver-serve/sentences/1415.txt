@@ -11,8 +11,8 @@ it	È l'invitata numero uno.
 nl	Ze speelt Feestganger nummer één. 
 no	Hun skal være Gjest nummer én. 
 pl	Będzie Uczestnikiem Przyjęcia Nr Jeden. 
-pr-br	Ela vai ser a baladeira número um. 
-pr	Será a Convidada Número Um. 
+pt-br	Ela vai ser a baladeira número um. 
+pt	Será a Convidada Número Um. 
 ro	Ea va fi Petrecăreața Numărul Unu. 
 sv	Hon är festdeltagare nummer ett. 
 th	เป็นคนไปงานปาร์ตี้ลำดับหนึ่ง | 

@@ -13,8 +13,8 @@ fr	Allez-vous-en.
 he	&rlm;‏אתה צריך ללכת.‏ | 
 it	Deve andarsene. 
 no	Du må gå. 
-pr-br	Tem que ir embora. 
-pr	Tens de sair. 
+pt-br	Tem que ir embora. 
+pt	Tens de sair. 
 ro	Trebuie să pleci. 
 th	คุณต้องออกไป | 
 tr	Gidin artık. 

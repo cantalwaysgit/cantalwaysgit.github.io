@@ -15,8 +15,8 @@ ko	보여? 가보지 |
 nl	Heb je hem gezien? Kom. 
 no	Ser du ham? Kom igjen. 
 pl	Widzisz go? No to chodźmy. 
-pr-br	Você o vê? Vamos nessa. 
-pr	Estás a vê-lo? Vamos. 
+pt-br	Você o vê? Vamos nessa. 
+pt	Estás a vê-lo? Vamos. 
 ro	Îl vezi? Să mergem! 
 sv	Ser du honom? Då kör vi. 
 th	เห็นเขาแล้วเหรอ งั้นไปกันเลย | 

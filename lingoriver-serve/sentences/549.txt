@@ -14,8 +14,8 @@ it	E tu che stai facendo?
 ko	자네는 어때? | 
 no	Og hva driver du med for tiden? 
 pl	A ty co robisz? 
-pr-br	E você, o que anda fazendo? 
-pr	E tu, o que andas a fazer? 
+pt-br	E você, o que anda fazendo? 
+pt	E tu, o que andas a fazer? 
 ro	Iar tu ce pui la cale? 
 sv	Och du? Vad pysslar du med? 
 th	แล้วคุณล่ะทำอะไรอยู่ | 
@@ -38,8 +38,8 @@ he	&rlm;‏‏גם אני עזבתי. | &rlm;‏אני עובד ב"קפיטול 
 it	Ho mollato anch'io. Lavoro alla Capitol Records. 
 ko	저도 떠났어요 | 지금은 캐피톨 레코드에 있고요 | 
 pl	Też odszedłem. Teraz pracuję w Capitol Records. 
-pr-br	Também saí. Estou na Capitol Records agora. 
-pr	Também saí. Agora estou na Capitol Records. 
+pt-br	Também saí. Estou na Capitol Records agora. 
+pt	Também saí. Agora estou na Capitol Records. 
 ro	Și eu am plecat. Acum sunt la Capitol Records. 
 sv	Jag slutade också. Jag jobbar på Capitol Records nu. 
 tr	Ben de ayrıldım. Artık Capitol Records'tayım. 

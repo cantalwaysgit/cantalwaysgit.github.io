@@ -11,7 +11,7 @@ id	Umurmu masih 14 tahun?
 it	Ma hai 14 anni? 
 ko	14살 어린애예요? | 
 pl	Masz 14 lat? 
-pr	Tens 14 anos? 
+pt	Tens 14 anos? 
 ro	Ai 14 ani cumva? 
 ru	Тебе что, 14 лет? 
 sv	Är du 14 år, eller? 
@@ -34,8 +34,8 @@ it	No, non ho affatto 14 anni.
 ko	아니, 난 14살이 아니야 | 확실히 아니야 | 
 nl	Nee, ik ben niet 14. 
 pl	Nie. Nic z tych rzeczy. 
-pr-br	Não tenho 14 anos. Não mesmo. 
-pr	Não. É garantido que não tenho 14 anos. 
+pt-br	Não tenho 14 anos. Não mesmo. 
+pt	Não. É garantido que não tenho 14 anos. 
 ro	N-am deloc 14 ani. 
 sv	Nej, jag är inte 14 år. 
 th	ไม่ใช่ ไม่ใช่ 14 เลย | 

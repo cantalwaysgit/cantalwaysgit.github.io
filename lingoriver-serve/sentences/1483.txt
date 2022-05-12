@@ -11,8 +11,8 @@ he	&rlm;‏‏אף אחד לא יכול לגלות מה קרה כאן. | &rlm;�
 it	Nessuno deve saperne niente. Capito, Chippy? Neanche tu. 
 nl	Niemand mag dit weten. Begrepen, Chippy? Zelfs jij niet. 
 pl	Nikt nie może się o tym dowiedzieć. Nawet ty, Chippy. 
-pr-br	Ninguém pode saber disso. Entendeu, Chippy? Nem você. 
-pr	Ninguém pode saber disto. Compreendes, Chippy? Nem mesmo tu. 
+pt-br	Ninguém pode saber disso. Entendeu, Chippy? Nem você. 
+pt	Ninguém pode saber disto. Compreendes, Chippy? Nem mesmo tu. 
 sv	Ingen får veta nåt om det här. Fattar du? Inte ens du. 
 th	ไม่มีใครรู้เรื่องนี้ได้ | เข้าใจไหม ชิปปี้ ไม่แม้แต่คุณ | 
 tr	Kimse bunu öğrenmemeli. Anlıyor musun Chippy? Sen bile. 

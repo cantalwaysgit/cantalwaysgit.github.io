@@ -12,8 +12,8 @@ it	Oddio. Oggi ho sentito il tuo pezzo alla radio due volte.
 nl	Ik hoorde jouw nummer vandaag twee keer op de radio. 
 no	Jeg har hørt låta di to ganger på radio i dag. 
 pl	Dzisiaj dwa razy słyszałam w radiu twoją piosenkę. 
-pr-br	Meu Deus. Ouvi a sua música duas vezes na rádio hoje. 
-pr	Céus. Hoje ouvi a tua canção duas vezes no rádio. 
+pt-br	Meu Deus. Ouvi a sua música duas vezes na rádio hoje. 
+pt	Céus. Hoje ouvi a tua canção duas vezes no rádio. 
 ro	Doamne! Azi ți-am auzit de două ori cântecul la radio. 
 ru	Боже, я сегодня два раза слышала твою песню по радио. 
 sv	Jag har hört din låt två gånger på radion idag. 

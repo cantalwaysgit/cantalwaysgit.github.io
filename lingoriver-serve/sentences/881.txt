@@ -13,8 +13,8 @@ ko	- 병신이잖아 | - 아니야 |
 nl	Hij is een sukkel. -Nee. 
 no	-Han er en idiot. -Nei. 
 pl	- To dureń. - Nie. 
-pr-br	-Ele é um idiota. -Não é. 
-pr	- É um idiota. - Não é. 
+pt-br	-Ele é um idiota. -Não é. 
+pt	- É um idiota. - Não é. 
 ro	- E un tâmpit. - Nu e. 
 ru	-Он козел. -Нет. 
 sv	-Han är en idiot. -Nej. 

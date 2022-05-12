@@ -11,8 +11,8 @@ it	Ci sono telecamere dappertutto. Ti guardo continuamente.
 nl	Er hangen overal camera's. Ik kijk constant naar je. 
 no	Jeg har kameraer overalt. Jeg ser på deg hele tiden. 
 pl	Wszędzie mam kamery. Cały czas cię obserwuję. 
-pr-br	Tenho câmeras por toda parte, cara. Vejo você o tempo todo. 
-pr	Eu tenho câmaras em todo o lado. Estou sempre a ver-te. 
+pt-br	Tenho câmeras por toda parte, cara. Vejo você o tempo todo. 
+pt	Eu tenho câmaras em todo o lado. Estou sempre a ver-te. 
 ro	Am camere peste tot. Te urmăresc mereu. 
 sv	Jag har kameror överallt. Jag kollar dig hela tiden. 
 th	ผมมีกล้องในทุกที่ ผมดูคุณตลอดเวลา | 

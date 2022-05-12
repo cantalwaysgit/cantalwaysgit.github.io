@@ -2,7 +2,7 @@ id	Kau sedang apa? Kau terlihat muram.
 ru	Ну что ты такой мрачный? 
 ja	冴(さ)えない顔してるな | すごくウケてるぞ | 
 pl	Coś taki markotny? 
-pr-br	O que está fazendo? Parece abatido. 
+pt-br	O que está fazendo? Parece abatido. 
 ar	&rlm;‏ما الذي تفعله؟ تبدو حزيناً.‏ | 
 da	Hvad laver du? Du ser nedtrykt ud. 
 el	Τι κάνεις; Φαίνεσαι κατηφής. 
@@ -14,7 +14,7 @@ he	&rlm;‏מה אתה עושה? אתה נראה קודר.‏ |
 it	Che c'è? Mi sembri imbronciato. 
 nl	Wat doe je? Je ziet er somber uit. 
 no	Hva gjør du? Du ser trist ut. 
-pr	O que se passa? Pareces estar triste. 
+pt	O que se passa? Pareces estar triste. 
 ro	Ce faci? Pari îngândurat. 
 sv	Vad gör du? Du ser hängig ut. 
 th	นายเป็นอะไร ดูหงอยจัง | 

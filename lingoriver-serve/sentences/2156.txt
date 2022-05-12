@@ -12,8 +12,8 @@ he	&rlm;‏אתה לא נשמע כל כך טוב.‏ |
 it	Non mi sembra che tu stia bene. 
 no	Du høres ikke bra ut. 
 pl	Kiepsko brzmisz. 
-pr-br	Você não parece bem. 
-pr	Não pareces estar bem. 
+pt-br	Você não parece bem. 
+pt	Não pareces estar bem. 
 ro	Nu pari în regulă. 
 sv	Du låter inte så bra. 
 th	ฟังดูไม่ค่อยสบายนะ | 
@@ -37,8 +37,8 @@ he	&rlm;‏תגיד לי איפה אתה ואני אאסוף אותך.‏ |
 it	Dimmi dove sei e ti vengo a prendere. 
 no	Si hvor du er, så kan jeg hente deg. 
 pl	Powiedz, gdzie jesteś. Przyjadę po ciebie. 
-pr-br	Diga onde está que eu vou buscá-lo. 
-pr	Diz-me onde estás e eu vou buscar-te. 
+pt-br	Diga onde está que eu vou buscá-lo. 
+pt	Diz-me onde estás e eu vou buscar-te. 
 ro	Spune-mi unde ești și vin să te iau. 
 sv	Berätta var du är, så hämtar jag dig. 
 th	ทีนี้ บอกมาว่าอยู่ไหน ฉันจะไปรับ | 

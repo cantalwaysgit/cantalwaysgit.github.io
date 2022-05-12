@@ -18,8 +18,8 @@ it	Ma dobbiamo metterci al lavoro.
 ko	하지만 이제 일하러 가야 해 | 
 nl	Maar we moeten aan de slag. 
 no	Men vi må begynne å jobbe. 
-pr-br	Mas temos que trabalhar. 
-pr	Mas temos de meter mãos à obra. 
+pt-br	Mas temos que trabalhar. 
+pt	Mas temos de meter mãos à obra. 
 ro	Dar trebuie să ne apucăm de treabă. 
 sv	Men vi måste börja jobba. 
 tr	Ama işe koyulmalıyız. 

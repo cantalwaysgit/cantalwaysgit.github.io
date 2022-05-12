@@ -12,8 +12,8 @@ fr	Je sais ce que je veux
 he	&rlm;‏אני יודעת רק מה שאני יודעת‏ | 
 ko	난 내가 아는 것밖에 몰라 | 
 nl	alles wat ik weet, is wat ik weet 
-pr-br	Só sei o que sei 
-pr	Só sei aquilo que sei 
+pt-br	Só sei o que sei 
+pt	Só sei aquilo que sei 
 ro	Tot ce știu e ceea ce știu 
 sv	Jag vet bara det jag vet 
 tr	Şundan eminim ki 

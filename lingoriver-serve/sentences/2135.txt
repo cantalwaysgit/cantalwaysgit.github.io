@@ -11,8 +11,8 @@ he	&rlm;‏‏למחרת על חדר ההלבשה שלך‏ תלו כוכב‏ |
 it	Il giorno dopo ti hanno appeso Una stella in camerino 
 ko	다음날 분장실에 | 별이 달려 있네 | 
 pl	I potem na drzwiach wieszają ci gwiazdę 
-pr-br	No dia seguinte está em um camarim Com seu nome na porta 
-pr	No dia seguinte, no teu camarim Penduraram uma estrela 
+pt-br	No dia seguinte está em um camarim Com seu nome na porta 
+pt	No dia seguinte, no teu camarim Penduraram uma estrela 
 ro	A doua zi, în cabina ta Au atârnat o stea 
 ru	На двери твоей гримерки Вешают звезду 
 sv	Nästa dag på din loge Har de hängt en stjärna 

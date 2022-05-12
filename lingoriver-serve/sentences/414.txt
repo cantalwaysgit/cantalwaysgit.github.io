@@ -14,8 +14,8 @@ ko	훌륭해 |
 nl	Prachtig. 
 no	Herlig. 
 pl	Cudownie. 
-pr-br	Maravilhoso. 
-pr	Maravilhoso. 
+pt-br	Maravilhoso. 
+pt	Maravilhoso. 
 ro	Minunat! 
 sv	Underbart. 
 th	ยอดเยี่ยม | 

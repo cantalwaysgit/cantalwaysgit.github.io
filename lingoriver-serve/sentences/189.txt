@@ -14,8 +14,8 @@ ko	미국에는 발을 들이지도 않았죠 |
 nl	Hij is nooit in de Verenigde Staten geweest. 
 no	Han satte aldri sine ben i USA. 
 pl	Nigdy nawet nie przyjechał do Stanów. 
-pr-br	O cara nunca colocou os pés nos EUA. 
-pr	O tipo nunca meteu os pés nos Estados Unidos. 
+pt-br	O cara nunca colocou os pés nos EUA. 
+pt	O tipo nunca meteu os pés nos Estados Unidos. 
 ro	Tipul nici nu călcase pe pământ american. 
 sv	Han hade aldrig varit i USA. 
 th	หมอนั่นไม่เคยเหยียบบนพื้นดินอเมริกา | 

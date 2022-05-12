@@ -11,8 +11,8 @@ fr	Ça marche, on sera dans la piscine.
 it	Ok. Ci trovi in piscina. 
 no	Greit. Vi er i bassenget. 
 pl	Dobrze, będziemy w basenie. 
-pr-br	Legal, estaremos na piscina. 
-pr	Está bem, estaremos na piscina. 
+pt-br	Legal, estaremos na piscina. 
+pt	Está bem, estaremos na piscina. 
 ro	Bine. Noi o să intrăm în piscină. 
 sv	Okej, vi går till poolen. 
 tr	Süper, biz havuzda olacağız. 

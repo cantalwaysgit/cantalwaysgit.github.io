@@ -13,8 +13,8 @@ it	Chi sarebbe Billy? Che fine ha fatto quel Marc Anthony?
 nl	Wie is Billy? Wat is er met die Marc Anthony gebeurd? 
 no	Hvem er Billy? Hva skjedde med Marc Anthony-fyren? 
 pl	Co za Billy? A Marc Anthony? 
-pr-br	Billy? Quem é Billy? O que houve com Marc Anthony? 
-pr	Quem é o Billy? O que aconteceu ao Marc Anthony? 
+pt-br	Billy? Quem é Billy? O que houve com Marc Anthony? 
+pt	Quem é o Billy? O que aconteceu ao Marc Anthony? 
 ro	Billy? Cine e Billy? Ce s-a ales de acel Marc Anthony? 
 sv	Vem är Billy? Vad hände med Marc Anthony-typen? 
 th	บิลลี่เรอะ ใครคือบิลลี่ | เกิดอะไรขึ้นกับมาร์ค แอนโทนี่ล่ะ | 

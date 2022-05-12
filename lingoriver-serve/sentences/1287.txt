@@ -12,8 +12,8 @@ he	&rlm;‏אנחנו כבר לא עובדים יחד.‏ |
 it	Ma non lavoriamo più insieme. 
 no	Vi jobber ikke sammen mer. 
 pl	Już razem nie pracujemy. 
-pr-br	Não estamos mais trabalhando juntos. 
-pr	Já não estamos a trabalhar juntos. 
+pt-br	Não estamos mais trabalhando juntos. 
+pt	Já não estamos a trabalhar juntos. 
 ro	Însă nu mai lucrăm împreună. 
 sv	Vi jobbar inte tillsammans längre. 
 th	เราไม่ได้ร่วมงานกันอีกแล้ว | 

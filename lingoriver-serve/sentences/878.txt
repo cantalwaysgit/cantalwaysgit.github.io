@@ -12,8 +12,8 @@ he	&rlm;‏אל תעבור על התפריט. לא אכפת לי מצלי בקר
 it	Non declamarmi il menù. Me ne frego del roast beef. 
 nl	Noem het menu niet op. Rosbief boeit me niet. 
 no	Ikke gå gjennom menyen. Jeg driter i roastbiff. 
-pr-br	Não fale o cardápio todo. Não ligo para o rosbife. 
-pr	Não me digas a ementa inteira. Caguei para a carne assada. 
+pt-br	Não fale o cardápio todo. Não ligo para o rosbife. 
+pt	Não me digas a ementa inteira. Caguei para a carne assada. 
 ro	Nu-mi recita tot meniul! Nu-mi pasă de friptura ta! 
 sv	Dra inte menyn. Jag struntar i rostbiffen. 
 th	อย่าร่ายยาวเมนู ฉันไม่สนเนื้ออบ | 

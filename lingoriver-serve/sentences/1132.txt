@@ -15,8 +15,8 @@ ko	- 지어내신 거죠? | - 실화일걸 |
 nl	Dat verzin je. -Nee, dat is waar. 
 no	-Det er bare en skrøne. -Nei, jeg tror det er sant. 
 pl	- Zmyślasz. - Myślę, że nie. 
-pr-br	-Você está inventando isso. -Não, acho que é verdade. 
-pr	- Estás a inventar. - Não, acho que é verdade. 
+pt-br	-Você está inventando isso. -Não, acho que é verdade. 
+pt	- Estás a inventar. - Não, acho que é verdade. 
 ro	- Inventezi. - Nu. Cred că e adevărat. 
 sv	-Du hittar på. -Nej, jag tror att det är sant. 
 th	- คุณแต่งเรื่องนั้นขึ้นมา | - ไม่ใช่ คิดว่านั่นเป็นเรื่องจริง | 

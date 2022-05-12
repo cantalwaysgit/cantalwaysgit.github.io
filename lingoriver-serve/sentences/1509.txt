@@ -10,8 +10,8 @@ he	&rlm;‏‏הלוואי שהייתי יכולה. | &rlm;‏-היי, רק בש
 it	- Magari potessi. - Solo carne, vero? 
 no	-Skulle ønske jeg kunne. -Bare kjøtt? 
 pl	- Chciałbym pomóc. - Coś na boczku? 
-pr-br	-Quem me dera. -Ei, só carne, certo? 
-pr	- Quem me dera poder. - Só carne, certo? 
+pt-br	-Quem me dera. -Ei, só carne, certo? 
+pt	- Quem me dera poder. - Só carne, certo? 
 ro	- Aș vrea să pot. - Doar carne, nu? 
 sv	-Jag önskar jag kunde. -Bara kött, va? 
 th	- ก็อยากช่วยนะ | - แค่เนื้อใช่ไหม | 

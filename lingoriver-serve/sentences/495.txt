@@ -11,8 +11,8 @@ id	Dia mau menghancurkanmu. Pecat dia!
 it	Vuole rovinarti. Licenzialo! 
 ko	널 파멸시키려는 거야 | 해고해! | 
 pl	On cię zrujnuje. Zwolnij go! 
-pr-br	Ele quer arruinar você. Demita-o! 
-pr	Ele quer destruir-te. Despede-o! 
+pt-br	Ele quer arruinar você. Demita-o! 
+pt	Ele quer destruir-te. Despede-o! 
 ro	Vrea să te distrugă! Concediază-l! 
 ru	Он тебя погубит. Гони его! 
 sv	Han vill ruinera dig. Sparka honom. 

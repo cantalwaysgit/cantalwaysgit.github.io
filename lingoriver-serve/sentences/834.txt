@@ -14,8 +14,8 @@ ko	너희 탓이 아니야 | 다들 잘하고 있어, 사랑해 |
 nl	Het ligt niet aan jullie. Ik hou van jullie. 
 no	Det er ikke deres skyld. Dere er flotte. Glad i dere. 
 pl	To nie wasza wina. Jesteście wspaniali. Kocham was. 
-pr	A culpa não é vossa. Estão ótimos. Adoro-vos, está bem? 
-pr-br	Não são vocês. Estão indo bem. Eu amo vocês. 
+pt	A culpa não é vossa. Estão ótimos. Adoro-vos, está bem? 
+pt-br	Não são vocês. Estão indo bem. Eu amo vocês. 
 ro	Nu e vina voastră. Voi sunteți minunate. Vă iubesc pe toate, da? 
 sv	Det är inte ert fel. Ni sköter er bra. Jag älskar er. 
 th	ไม่ใช่พวกนาย พวกนายเจ๋ง | ฉันรักพวกนาย เข้าใจนะ | 

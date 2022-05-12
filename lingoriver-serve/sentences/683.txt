@@ -15,8 +15,8 @@ ko	버튼 눌러! |
 nl	Druk op de knop. 
 no	Trykk på knappen! 
 pl	Naciśnij przycisk! 
-pr-br	Aperte o botão! 
-pr	Carrega no botão! 
+pt-br	Aperte o botão! 
+pt	Carrega no botão! 
 ro	Apasă butonul! 
 sv	Tryck på knappen! 
 tr	Düğmeye bas! 

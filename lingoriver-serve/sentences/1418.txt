@@ -13,8 +13,8 @@ it	- Promesso. Promettimi una cosa anche tu. - Certo. Cosa?
 nl	Beloofd. Maar jij moet dit beloven. 
 no	-Jeg lover. Lov meg noe. -Klart det. Hva da? 
 pl	- Jasne. Też mi coś obiecasz? - Co takiego? 
-pr-br	-Eu prometo. Você me prometa. -Claro. O quê? 
-pr	- Prometo. E promete-me uma coisa. - Claro. O quê? 
+pt-br	-Eu prometo. Você me prometa. -Claro. O quê? 
+pt	- Prometo. E promete-me uma coisa. - Claro. O quê? 
 ro	- Îți promit. Dar promite-mi și tu ceva. - Sigur. Ce? 
 sv	-Jag lovar. Om du lovar mig detta. -Visst. Vadå? 
 th	- ผมสัญญา เรื่องนี้คุณสัญญากับผม | - แน่นอน อะไร | 

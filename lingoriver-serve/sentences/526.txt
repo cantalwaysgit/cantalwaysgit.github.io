@@ -9,8 +9,8 @@ he	&rlm;‏כן, הייתי העוזר של קאר ד'אנג'לו?‏ |
 it	Ero l'assistente di Carr d'Angelo. 
 nl	Ik was de assistent van Carr D'Angelo? 
 no	Jeg var Carr D'Angelos assistent? 
-pr-br	Sim, fui assistente de Carr d'Angelo. 
-pr	Sim, eu era assistente do Carr D'Angelo? 
+pt-br	Sim, fui assistente de Carr d'Angelo. 
+pt	Sim, eu era assistente do Carr D'Angelo? 
 sv	Jag var Carr D'Angelos assistent. 
 th	ใช่ ผมเป็นผู้ช่วยคาร์ ดีแองเจโลไง | 
 tr	Evet, Carr D'Angelo'nun asistanıydım. 

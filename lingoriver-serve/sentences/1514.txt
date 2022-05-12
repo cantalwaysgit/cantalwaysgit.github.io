@@ -14,8 +14,8 @@ it	Buon compleanno per mercoledì.
 nl	Vast gefeliciteerd voor woensdag. 
 no	Gratulerer med dagen på onsdag. 
 pl	Wszystkiego najlepszego w środę. 
-pr-br	E feliz aniversário na quarta-feira. 
-pr	Feliz aniversário na quarta. 
+pt-br	E feliz aniversário na quarta-feira. 
+pt	Feliz aniversário na quarta. 
 ro	La mulți ani pentru miercuri! 
 sv	Ha den äran på onsdag. 
 th	สุขสันต์วันเกิดสำหรับวันพุธนะ | 

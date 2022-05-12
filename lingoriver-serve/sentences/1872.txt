@@ -10,8 +10,8 @@ he	&rlm;‏אני יכולה לגעת בך?‏ |
 it	Posso toccarla? 
 no	Kan jeg ta på deg? 
 pl	Mogę pani dotknąć? 
-pr-br	Posso tocá-la? 
-pr	Posso tocar-lhe? 
+pt-br	Posso tocá-la? 
+pt	Posso tocar-lhe? 
 ro	Pot să vă ating? 
 sv	Får jag röra dig? 
 th	ขอแตะคุณได้ไหม | 

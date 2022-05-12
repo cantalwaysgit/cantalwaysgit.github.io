@@ -10,8 +10,8 @@ fr	Que le spectacle continue
 he	&rlm;‏‏הבה נמשיך עם המופע | &rlm;‏-הבה נמשיך עם המופע‏ | 
 it	Andiamo avanti con lo show 
 pl	Niech przedstawienie dalej trwa 
-pr-br	-O show deve continuar -O show deve continuar 
-pr	Vamos continuar com o espetáculo 
+pt-br	-O show deve continuar -O show deve continuar 
+pt	Vamos continuar com o espetáculo 
 ro	- Să continuăm spectacolul - Să continuăm spectacolul 
 th	- มาแสดงโชว์กันเถอะ | - มาแสดงโชว์กันเถอะ | 
 tr	-Şova devam edelim -Şova devam edelim 

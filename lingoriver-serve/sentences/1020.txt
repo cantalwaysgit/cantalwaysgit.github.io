@@ -11,8 +11,8 @@ it	- Vogliamo andare? - Voglio conoscere Jonesy.
 nl	Zullen we gaan? -Ik wil Jonesy zien. 
 no	-Skal vi gå? -Jeg vil treffe Jonesy. 
 pl	- Wracamy? - Chcę poznać Jonesy'ego. 
-pr-br	-Está na hora de ir embora? -Quero ver Jonesy. 
-pr	- Está na hora de ir embora? - Quero ver o Jonesy. 
+pt-br	-Está na hora de ir embora? -Quero ver Jonesy. 
+pt	- Está na hora de ir embora? - Quero ver o Jonesy. 
 ro	- Plecăm? - Vreau să-l văd pe Jonesy. 
 sv	-Dags att dra? -Jag vill träffa Jonesy. 
 th	- ได้เวลากลับหรือยัง | - ฉันอยากเจอโจนซี่ | 

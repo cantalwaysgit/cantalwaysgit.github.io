@@ -11,8 +11,8 @@ it	- La pensi così? Vale anche per me. - Allora siamo d'accordo.
 nl	Ik zal jou wat zeggen. -We zijn het eens. 
 no	-Sier du det? Jeg sier det. -Vi er enige. 
 pl	- To ja ci mówię. - Czyli zgadzamy się. 
-pr-br	-Está me dizendo? Eu que estou dizendo. -Nós concordamos. 
-pr	- Dizes-me isso a mim? Digo-te o mesmo. - Estamos de acordo. 
+pt-br	-Está me dizendo? Eu que estou dizendo. -Nós concordamos. 
+pt	- Dizes-me isso a mim? Digo-te o mesmo. - Estamos de acordo. 
 th	- คุณบอกผมเหรอ ผมสิบอกคุณ | - งั้นเราตกลง | 
 vi	- Anh nói tôi à? Tôi nói anh đấy. | - Vậy nhất trí nhé. | 
 zh-long	-你跟我說？我還要跟你說咧 -那就這樣囉 

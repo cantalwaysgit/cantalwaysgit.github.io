@@ -14,8 +14,8 @@ es	¿Sandy Wexler?
 he	&rlm;‏סנדי וקסלר?‏ | 
 it	Sandy Wexler? 
 no	Sandy Wexler? 
-pr-br	Sandy Wexler? 
-pr	Sandy Wexler? 
+pt-br	Sandy Wexler? 
+pt	Sandy Wexler? 
 ro	Sandy Wexler? 
 sv	Sandy Wexler? 
 tr	Sandy Wexler? 

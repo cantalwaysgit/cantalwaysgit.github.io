@@ -10,8 +10,8 @@ he	&rlm;‏אני לא יודע.‏ |
 it	Non saprei. 
 no	Jeg vet ikke. 
 pl	Nie wiem. 
-pr-br	Não sei. 
-pr	Não sei. 
+pt-br	Não sei. 
+pt	Não sei. 
 ro	Habar n-am. 
 sv	Jag vet inte. 
 th	ผมไม่รู้ | 

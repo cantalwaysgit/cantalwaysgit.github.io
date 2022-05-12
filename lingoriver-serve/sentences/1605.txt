@@ -14,8 +14,8 @@ ko	날 좀 믿으면 안 돼? | 오늘 좋은 밤이 될 거야 |
 nl	Vertrouw me gewoon. Dit wordt een goede avond voor je. 
 no	Kan du stole på meg? Dette er en god kveld for deg. 
 pl	Zaufaj mi. Zyskasz na tym. 
-pr-br	Pode confiar em mim? Esta noite vai ser incrível para você. 
-pr	Podes confiar em mim? Esta é uma boa noite para ti. 
+pt-br	Pode confiar em mim? Esta noite vai ser incrível para você. 
+pt	Podes confiar em mim? Esta é uma boa noite para ti. 
 ro	Vrei să ai încredere în mine? Seara asta îți va purta noroc. 
 th	ไว้ใจฉันได้ไหม | คืนนี้จะเป็นคืนดีสำหรับนาย | 
 tr	Bana güvensene sen. Bu senin için iyi bir gece. 

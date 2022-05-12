@@ -14,8 +14,8 @@ it	Anni fa ho conosciuto sua nonna da Hamburger Hamlet.
 nl	Ik ontmoette zijn oma jaren terug in een Hamburger Hamlet. 
 no	Jeg traff bestemoren hans på en Hamburger Hamlet. 
 pl	Lata temu w Hamburger Hamlet poznałem jego babcię. 
-pr-br	Eu conheci a avó dele anos atrás em uma lanchonete. 
-pr	Eu conheci a avó dele há anos num Hamburger Hamlet. 
+pt-br	Eu conheci a avó dele anos atrás em uma lanchonete. 
+pt	Eu conheci a avó dele há anos num Hamburger Hamlet. 
 ro	Să știi că i-am cunoscut bunica la un restaurant, cu ani în urmă. 
 sv	Jag mötte hans mormor för flera år sen på Hamburger Hamlet. 
 th	รู้ไหม ผมเจอยายของเขานานมาแล้ว | ที่แฮมเบอร์เกอร์แฮมเลต | 

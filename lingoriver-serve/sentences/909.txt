@@ -5,8 +5,8 @@ es-eu	No.
 es	No. 
 fi	En. 
 he	&rlm;‏לא.‏ | 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 sv	Nej. 
 vi	Không. | 
 zh-long	不是 

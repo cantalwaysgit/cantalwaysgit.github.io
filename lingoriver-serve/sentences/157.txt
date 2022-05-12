@@ -13,8 +13,8 @@ ko	솔직히 말해주세요 | 죽은 지 얼마 됐죠? |
 nl	Maar hoelang ben je al dood? 
 no	Men helt ærlig: Hvor lenge har du vært død? 
 pl	A teraz tak serio. Od dawna nie żyjesz? 
-pr-br	Mas, sinceramente, há quanto tempo está morto? 
-pr	Sinceramente, há quanto tempo está morto? 
+pt-br	Mas, sinceramente, há quanto tempo está morto? 
+pt	Sinceramente, há quanto tempo está morto? 
 ro	Dar, sincer, de cât timp ești mort? 
 ru	Нет, серьезно, вы давно умерли? 
 sv	Men ärligt talat, hur länge har du varit död? 

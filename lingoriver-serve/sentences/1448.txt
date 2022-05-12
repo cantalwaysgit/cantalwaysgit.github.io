@@ -13,8 +13,8 @@ it	Tsunami si siederà su di me fino alla mia resa. Non sarò mai campione.
 nl	Tsunami zit op me tot ik aftik. Ik word nooit kampioen. 
 no	Tsunami sitter på meg til jeg gir meg. Jeg blir aldri mester. 
 pl	Tsunami siada mi na twarz, ja się poddaję. Nie będę mistrzem. 
-pr-br	Tsunami senta em mim até eu desistir. Nunca vou ser campeão. 
-pr	O Tsunami senta-se na minha cara até eu desistir. Nunca serei campeão. 
+pt-br	Tsunami senta em mim até eu desistir. Nunca vou ser campeão. 
+pt	O Tsunami senta-se na minha cara até eu desistir. Nunca serei campeão. 
 ro	Tsunami stă pe fața mea până când renunț. N-o să ajung campion niciodată! 
 th	สึนามินั่งทับฉันจนฉันตบมือยอมแพ้ | ฉันไม่มีวันได้เป็นแชมป์ | 
 tr	Tsunami üzerime oturup canımı çıkaracak. Asla şampiyon olamayacağım. 

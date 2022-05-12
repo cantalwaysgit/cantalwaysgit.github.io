@@ -14,8 +14,8 @@ it	Farfalle...
 ko	설렘 | 
 nl	vlinders 
 pl	Motylki 
-pr	Arrepios 
-pr-br	Arrepios 
+pt	Arrepios 
+pt-br	Arrepios 
 ro	Fluturi 
 sv	Fjärilar 
 tr	Kelebekler 

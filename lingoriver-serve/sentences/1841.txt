@@ -12,8 +12,8 @@ it	È un punto di partenza ragionevole.
 ko	처음 치고 그 정도면 괜찮잖아 | 
 nl	Ik vind het een redelijk begin. 
 pl	To rozsądna suma na początek. 
-pr	Acho que é um valor inicial razoável. 
-pr-br	Acho que é razoável para iniciar. 
+pt	Acho que é um valor inicial razoável. 
+pt-br	Acho que é razoável para iniciar. 
 ro	Mie mi se pare că e un punct rezonabil de plecare. 
 ru	Думаю, для начала это неплохие деньги. 
 sv	Det är en rimlig början. 

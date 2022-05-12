@@ -14,8 +14,8 @@ ko	- 출연 확정한 거 아니야? | - 제가 손 썼으니까요! |
 nl	We kregen de show, toch? -Omdat ik het opgelost heb. 
 no	-Vi ble jo booket. -Fordi jeg fikset det! 
 pl	- I tak u niego wystąpi. - Bo to naprawiłem! 
-pr-br	-Conseguimos o programa, não? -Porque eu dei um jeito! 
-pr	- Conseguimos ir ao programa, não foi? - Porque eu resolvi! 
+pt-br	-Conseguimos o programa, não? -Porque eu dei um jeito! 
+pt	- Conseguimos ir ao programa, não foi? - Porque eu resolvi! 
 ro	- Dar a apărut, nu? - Fiindcă am aranjat eu! 
 sv	-Vi fick ju vara med. -För att jag fixade det. 
 th	- เราได้ไปออกรายการนั้นไม่ใช่เหรอ | - เพราะผมจัดการให้น่ะสิ | 

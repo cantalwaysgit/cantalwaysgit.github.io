@@ -14,8 +14,8 @@ he	&rlm;‏‏קורטני, מה את גורמת לי לעשות? | &rlm;‏-ש�
 it	- Courtney, cosa mi fai fare? - Lo tenevo per un'occasione speciale. 
 nl	Wat laat je me doen? -Deze was voor een speciale gelegenheid. 
 no	-Hva er det du roter meg oppi? -Har spart den til en spesiell anledning. 
-pr-br	-Courtney, o que vai me obrigar a fazer? -Estava deixando pra uma ocasião especial. 
-pr	- Courtney, o que me obrigas a fazer? - Isto era para uma ocasião especial. 
+pt-br	-Courtney, o que vai me obrigar a fazer? -Estava deixando pra uma ocasião especial. 
+pt	- Courtney, o que me obrigas a fazer? - Isto era para uma ocasião especial. 
 ro	- Courtney, ce mă pui să fac? - Îl păstram pentru o ocazie specială. 
 sv	-Courtney, vad får du mig att göra? -Jag har sparat det till något speciellt. 
 th	- คอร์ทนี่ย์ คุณจะให้ผมทำอะไรเนี่ย | - คิดจะเก็บขวดนี้ไว้โอกาสพิเศษ | 

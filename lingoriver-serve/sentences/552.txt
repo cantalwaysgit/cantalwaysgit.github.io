@@ -11,8 +11,8 @@ he	&rlm;‏ככה זה צריך להיות.‏ |
 it	Così si fa. 
 ko	그렇게 돼야지 | 
 pl	Należało ci się. 
-pr-br	É assim que deve ser. 
-pr	É assim que devia ser. 
+pt-br	É assim que deve ser. 
+pt	É assim que devia ser. 
 ro	Așa ar trebui să fie. 
 sv	Precis som det ska vara. 
 th	นั่นคือสิ่งที่ควรเป็น | 

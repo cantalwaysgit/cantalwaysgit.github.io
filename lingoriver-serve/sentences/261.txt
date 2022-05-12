@@ -14,8 +14,8 @@ ko	- 우리 아빠 아니에요 | - 아니에요 |
 nl	Hij is onze vader niet. -Nee. 
 no	-Han er ikke faren vår. -Nei. 
 pl	- To nie nasz tata. - Nie. 
-pr-br	-Ele não é nosso pai. -Não sou. 
-pr	- Ele não é nosso pai. - Não sou. 
+pt-br	-Ele não é nosso pai. -Não sou. 
+pt	- Ele não é nosso pai. - Não sou. 
 ro	- Nu e tatăl nostru. - Așa e. 
 sv	-Han är inte vår pappa. -Nej. 
 th	- เขาไม่ใช่พ่อเรา | - ผมไม่ใช่ | 

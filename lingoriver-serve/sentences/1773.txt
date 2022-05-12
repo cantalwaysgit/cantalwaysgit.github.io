@@ -13,8 +13,8 @@ it	Sig. Buttons.
 ko	미스터 버튼스 | 
 no	Mr. Buttons." 
 pl	Pan Buttons. 
-pr-br	Sr. Botões." 
-pr	Mr. Buttons. 
+pt-br	Sr. Botões." 
+pt	Mr. Buttons. 
 ro	Dl Buttons.” 
 sv	...säger mr Buttons." 
 th	คุณบัตตันส์ | 

@@ -14,8 +14,8 @@ ko	샌디, 우리 지금 | 이러지 말아요 |
 nl	Laten we dit niet nu doen. 
 no	Sandy, la oss ikke gjøre dette nå. 
 pl	Nie mówmy teraz o tym. 
-pr-br	Sandy, não vamos resolver nada agora. 
-pr	Sandy, não vamos fazer isto agora. 
+pt-br	Sandy, não vamos resolver nada agora. 
+pt	Sandy, não vamos fazer isto agora. 
 ro	Sandy, hai să nu facem asta acum. 
 sv	Vi behöver inte prata om det nu. 
 th	แซนดี้ อย่าตัดสินใจกันตอนนี้เลย | 

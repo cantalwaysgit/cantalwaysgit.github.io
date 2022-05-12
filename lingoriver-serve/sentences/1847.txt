@@ -15,8 +15,8 @@ ko	우린 2년... | 5년 계약을 원해요 |
 nl	We willen een deal van twee... Vijf jaar. 
 no	Vi vil ha en toårs... Femårskontrakt. 
 pl	Chcemy umowę na dwa... Na pięć lat. 
-pr-br	Queremos um contrato de dois... Contrato de cinco anos. 
-pr	Queremos dois anos... Cinco anos de contrato. 
+pt-br	Queremos um contrato de dois... Contrato de cinco anos. 
+pt	Queremos dois anos... Cinco anos de contrato. 
 ro	Vrem doi ani... Cinci ani de contract. 
 sv	Vi vill ha två år... Ett femårsavtal. 
 th	เราต้องการสัญญาสองปี | ห้าปีต่างหาก | 

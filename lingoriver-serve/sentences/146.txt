@@ -10,8 +10,8 @@ he	&rlm;‏אבא שלי היה בובה. אבא של אבא שלי היה בו�
 it	Mio padre era un pupazzo. Il padre di mio padre era un pupazzo. 
 no	Faren min var dukke. Hans far var dukke. 
 pl	Mój ojciec był lalką. Jego ojciec też. 
-pr-br	Meu pai era marionete. O pai do meu pai também. 
-pr	O meu pai era um fantoche. O pai do meu pai era um fantoche. 
+pt-br	Meu pai era marionete. O pai do meu pai também. 
+pt	O meu pai era um fantoche. O pai do meu pai era um fantoche. 
 ro	Tata a fost păpușă. Tatăl tatălui meu a fost și el păpușă. 
 sv	Min far var docka. Min farfar var docka. 
 th	พ่อเป็นหุ่น พ่อของพ่อก็เป็นหุ่น | 

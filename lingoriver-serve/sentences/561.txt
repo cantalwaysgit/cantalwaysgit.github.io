@@ -11,8 +11,8 @@ id	- Tidak. Ini bukan... - Manis.
 it	- No, questo non è... - Carino. 
 ko	- 아니, 이건... | - 예쁜데요 | 
 pl	- Nie. To nie... - Śliczne. 
-pr-br	-Não é... -Uma graça. 
-pr	- Não, isto não... - São giros. 
+pt-br	-Não é... -Uma graça. 
+pt	- Não, isto não... - São giros. 
 ro	- Asta nu e... - Drăguț! 
 ru	-Нет! Это не... -Как мило. 
 sv	-Nej. Det här är inte... -Söt. 

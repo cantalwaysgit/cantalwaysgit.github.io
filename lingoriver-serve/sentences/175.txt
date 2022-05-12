@@ -14,8 +14,8 @@ ko	애들은 꼭두각시를 좋아해 | 분명히 관객이 있을 거야 |
 nl	Kinderen zijn gek op de poppen. En er is publiek voor. 
 no	Barna elsker dukkene. Og jeg vet det finnes et publikum for det. 
 pl	Dzieciaki lubią lalki. Zawsze chętnie zobaczą taki występ. 
-pr-br	Crianças amam marionetes. E sei que tem público para isso. 
-pr	Os miúdos adoram os fantoches. E eu sei que há público. 
+pt-br	Crianças amam marionetes. E sei que tem público para isso. 
+pt	Os miúdos adoram os fantoches. E eu sei que há público. 
 ro	Copiii adoră păpușile. Știu că există un public. 
 sv	Ungar älskar dockor. Jag vet att det finns en publik för det. 
 th	ฟังนะ เด็กๆ ชอบหุ่น | และฉันรู้ว่ามีคนดูกลุ่มนั้น | 

@@ -15,8 +15,8 @@ ko	사고 치는 걸 | 좋아하시는군요 |
 nl	Je veroorzaakt graag problemen, hè? 
 no	Du liker å lage trøbbel, ikke sant, Sandy? 
 pl	Lubisz mącić, prawda? 
-pr-br	Gosta de causar encrencas, certo, Sandy? 
-pr	Gostas de arranjar problemas, não gostas, Sandy? 
+pt-br	Gosta de causar encrencas, certo, Sandy? 
+pt	Gostas de arranjar problemas, não gostas, Sandy? 
 ro	Îți place să creezi necazuri, nu-i așa, Sandy? 
 sv	Du gillar att ställa till det, eller hur? 
 th	คุณชอบก่อเรื่องใช่ไหม แซนดี้ | 

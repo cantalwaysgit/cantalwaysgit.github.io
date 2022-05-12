@@ -14,8 +14,8 @@ ko	직진이 아닌 것 같은데요 |
 nl	U hebt de afslag gemist. 
 no	Sir, jeg tror du kjørte for langt. 
 pl	Chyba źle pan skręcił. 
-pr-br	Senhor, acho que tínhamos que virar ali. 
-pr	Senhor, enganou-se no caminho. 
+pt-br	Senhor, acho que tínhamos que virar ali. 
+pt	Senhor, enganou-se no caminho. 
 ro	Domnule, cred că ați ratat strada. 
 sv	Du missade avfarten. 
 th	คุณคะ คุณลืมเลี้ยวแล้วนะ | 

@@ -13,8 +13,8 @@ it	- Pensavi che fossimo troppo legati? - Sì.
 ko	- 우정 때문이라고 생각했어? | - 그래 | 
 nl	Vond je dat we te close waren? 
 pl	- Bo się zaprzyjaźniliśmy? - Tak. 
-pr	- Achaste que ficámos próximos? - Sim. 
-pr-br	-Achou que nos envolvemos demais? -Sim. 
+pt	- Achaste que ficámos próximos? - Sim. 
+pt-br	-Achou que nos envolvemos demais? -Sim. 
 ro	- Ai crezut că ne-am apropiat prea mult? - Da. 
 sv	-Tror du att vi kom för nära varann? -Ja. 
 th	- นายคิดว่าเราใกล้ชิดกันเกินไปเหรอ | - ใช่ | 

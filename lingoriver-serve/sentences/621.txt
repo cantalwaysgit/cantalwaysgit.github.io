@@ -12,8 +12,8 @@ it	Mi piace quella in alto a destra.
 nl	Ik kies die in de rechterbovenhoek. 
 no	Jeg tar det øverst til høyre. 
 pl	Wybieram to w prawym górnym rogu. 
-pr-br	Vou pegar a do canto superior direito. 
-pr	Vou escolher a do canto superior direito. 
+pt-br	Vou pegar a do canto superior direito. 
+pt	Vou escolher a do canto superior direito. 
 ro	O aleg pe cea din colțul din dreapta, sus. 
 sv	Jag tar bilden i övre högra hörnet. 
 th	ฉันขอเลือกรูปที่อยู่มุมขวาบน | 

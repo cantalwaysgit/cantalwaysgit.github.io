@@ -10,8 +10,8 @@ fr	Et le père du père de ton père, aussi ?
 he	&rlm;‏האם אבא של אבא של אבא שלך היה בובה?‏ | 
 it	E il padre del padre di tuo padre era un pupazzo? 
 no	Var din fars fars far en dukke? 
-pr-br	O pai do pai do seu pai também era marionete? 
-pr	E o pai do pai do teu pai era um fantoche? 
+pt-br	O pai do pai do seu pai também era marionete? 
+pt	E o pai do pai do teu pai era um fantoche? 
 ro	Și tatăl tatălui tatălui tău a fost păpușă? 
 sv	Var din farfars far docka? 
 th	แล้วพ่อของพ่อของพ่อเป็นหุ่นไหม | 

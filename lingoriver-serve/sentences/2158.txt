@@ -10,8 +10,8 @@ he	&rlm;‏מה? מה זה?‏ |
 it	Cosa? Ma che vuol dire? 
 no	Hva? Hva er dette? 
 pl	Co takiego? 
-pr-br	Quê? O que é isso? 
-pr	O quê? O que vem a ser isto? 
+pt-br	Quê? O que é isso? 
+pt	O quê? O que vem a ser isto? 
 ro	Poftim? Ce-ai zis? 
 sv	Vad är det här? 
 th	อะไรนะ นี่อะไร | 

@@ -14,8 +14,8 @@ ko	아이스너나 오비치도 알고 있어 |
 nl	Eisner weet het en Ovitch ook. 
 no	Og Eisner vet det, og Ovitch vet det. 
 pl	Eisner o tym wie, Ovitch też. 
-pr-br	E Eisner e Ovitch sabem disso. 
-pr	O Eisner sabe e o Ovitch sabe. 
+pt-br	E Eisner e Ovitch sabem disso. 
+pt	O Eisner sabe e o Ovitch sabe. 
 ro	Eisner știe asta, Ovitch știe asta. 
 sv	Och Eisner vet det och Ovitch vet det. 
 th	ไอซ์เนอร์ก็รู้ โอวิตช์ก็รู้ | 

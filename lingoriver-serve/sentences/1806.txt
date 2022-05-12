@@ -10,8 +10,8 @@ he	&rlm;‏‏לא. אני... | &rlm;‏-קרה משהו?‏ |
 it	- No, io... - Qualcosa non va? 
 nl	Nee, ik... -Is er iets mis? 
 no	-Nei. Jeg... -Er det noe galt? 
-pr-br	-Não, eu... -Tem algo errado? 
-pr	- Não. Eu... - Há algum problema? 
+pt-br	-Não, eu... -Tem algo errado? 
+pt	- Não. Eu... - Há algum problema? 
 ro	- Nu. Eu... - S-a întâmplat ceva? 
 sv	-Nej, jag... -Är det nåt som är fel? 
 th	- ไม่ ไม่ ผม... | - มีอะไรหรือเปล่า | 

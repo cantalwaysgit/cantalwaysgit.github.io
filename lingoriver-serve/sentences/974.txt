@@ -13,8 +13,8 @@ he	&rlm;‏‏אשמח. | &rlm;‏-תקשיב.‏ |
 it	- Mi piacerebbe tanto. - Ascolta. 
 no	-Ja, gjerne. -Hør her. 
 pl	- Chętnie. - Słuchaj. 
-pr	- Adoraria. - Ouve. 
-pr-br	-Eu adoraria. -Ouça. 
+pt	- Adoraria. - Ouve. 
+pt-br	-Eu adoraria. -Ouça. 
 ro	- Mi-ar plăcea. - Ascultă! 
 th	- ฉันก็อยาก... | - ฟังนะ | 
 tr	-Çok isterim. -Dinle. 

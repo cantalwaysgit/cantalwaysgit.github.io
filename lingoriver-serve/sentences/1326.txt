@@ -15,8 +15,8 @@ ko	‘나인 하프 위크’라는 | 야한 영화 봤어요? |
 nl	Heb je die stoute film gezien,  9½ Weeks? 
 no	Har du sett den frekke lille filmen  9½ Weeks? 
 pl	Widziałeś ten sprośny film? Dziewięć i pół tygodnia? 
-pr	Alguma vez viste aquele filme picante, o  Nove Semanas e Meia? 
-pr-br	Viu aquele filme safado 9 1/2 Semanas de Amor? 
+pt	Alguma vez viste aquele filme picante, o  Nove Semanas e Meia? 
+pt-br	Viu aquele filme safado 9 1/2 Semanas de Amor? 
 ro	Ai văzut filmulețul ăla obscen, Nouă săptămâni și jumătate? 
 sv	Har du sett  9½ vecka? 
 th	เคยดูหนังแซบเรื่อง 9½ วีคส์ไหม | 

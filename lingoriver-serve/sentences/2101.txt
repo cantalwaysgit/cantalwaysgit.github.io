@@ -15,8 +15,8 @@ it	Non c'è nessun business Come lo show business
 ko	연예계만 한 사업도 없지 | 내가 아는 한은 그래 | 
 nl	er gaat niets boven de showbusiness het lijkt op geen business die ik ken 
 pl	Nie ma to jak show-biznes Nie ma drugiej takiej branży 
-pr-br	Não há trabalho como o   show business É o melhor de todos 
-pr	Não há mundo como o do espetáculo Não há comparação 
+pt-br	Não há trabalho como o   show business É o melhor de todos 
+pt	Não há mundo como o do espetáculo Não há comparação 
 ro	Nu e nicio industrie ca showbizul Nicio industrie din câte știu 
 th	ไม่มีธุรกิจไหนเหมือนธุรกิจบันเทิง | ไม่เหมือนธุรกิจไหนที่ผมรู้ | 
 tr	Yoktur şov dünyası gibisi Bildiğim hiçbir işe benzemez 

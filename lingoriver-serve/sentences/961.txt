@@ -10,8 +10,8 @@ he	&rlm;‏כן, הוא יפה.‏ |
 it	Sì, bella casa. 
 no	Ja, det er fint. 
 pl	Całkiem ładny. 
-pr-br	Sim, é legal. 
-pr	Sim, é porreira. 
+pt-br	Sim, é legal. 
+pt	Sim, é porreira. 
 ro	Da, e drăguț. 
 sv	Jo, det är trevligt. 
 th	ใช่ มันสวย มันดี | 
@@ -36,8 +36,8 @@ he	&rlm;‏זה שהיה לו בווניס לא התאמץ כל כך.‏ |
 it	Quella di Venice non era a questo livello. 
 nl	Voor dat in Venice deed hij niet zo z'n best. 
 pl	Ten w Venice był mniej wypasiony. 
-pr	A que ele tinha em Venice não era assim. 
-pr-br	A casa dele em Venice não era tão legal. 
+pt	A que ele tinha em Venice não era assim. 
+pt-br	A casa dele em Venice não era tão legal. 
 ro	În Venice n-a investit așa de mult. 
 ru	В Венис было не так круто. 
 th	บ้านที่เวนิซของเขาไม่เว่อร์ขนาดนี้ | 

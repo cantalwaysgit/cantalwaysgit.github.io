@@ -13,8 +13,8 @@ it	Sì, ma sto cercando qualcos'altro che mi renda felice.
 nl	Ja, maar ik zoek iets anders wat me gelukkig maakt. 
 no	Jeg vil finne noe annet som gjør meg lykkelig. 
 pl	Szukam czegoś innego, co da mi szczęście. 
-pr-br	Sim, mas estou procurando outra coisa que me faça feliz. 
-pr	Sim, mas procuro outra coisa que me faça feliz. 
+pt-br	Sim, mas estou procurando outra coisa que me faça feliz. 
+pt	Sim, mas procuro outra coisa que me faça feliz. 
 ro	Da, numai că vreau să mă mai facă și altceva fericită. 
 sv	Ja, men jag letar efter nåt annat som gör mig lycklig. 
 th	ใช่ แต่ฉันกำลังมองหาอย่างอื่น | ที่ทำให้มีความสุข | 

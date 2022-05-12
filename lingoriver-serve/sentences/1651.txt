@@ -11,8 +11,8 @@ he	&rlm;‏בוודאי שהם יפטרו אותו,‏ |
 it	Certo che lo faranno, 
 no	Selvsagt, 
 pl	Oczywiście, 
-pr-br	Claro que vão, 
-pr	É claro, 
+pt-br	Claro que vão, 
+pt	É claro, 
 ro	Normal, 
 th	แน่นอน | 
 tr	Tabii kovacaklar 

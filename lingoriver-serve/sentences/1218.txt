@@ -10,8 +10,8 @@ fr	Trop douée pour toi.
 he	&rlm;‏היא טובה מדי בשבילך.‏ | 
 it	È troppo brava per te. 
 no	Hun er for god for deg. 
-pr-br	Ela é boa demais para você. 
-pr	É boa de mais para ti. 
+pt-br	Ela é boa demais para você. 
+pt	É boa de mais para ti. 
 ro	E prea bună pentru tine. 
 th	เธอดีเกินไปสำหรับคุณ | 
 tr	Senin için fazla iyi. 

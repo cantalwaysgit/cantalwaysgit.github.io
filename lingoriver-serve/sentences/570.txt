@@ -14,8 +14,8 @@ it	Bella domanda.
 nl	Wat een vraag. 
 no	For et spørsmål. 
 pl	Co za pytanie. 
-pr-br	Que pergunta. 
-pr	Que pergunta. 
+pt-br	Que pergunta. 
+pt	Que pergunta. 
 ro	Ce întrebare! 
 sv	Vilken fråga. 
 th	ถามได้เจ๋ง | 

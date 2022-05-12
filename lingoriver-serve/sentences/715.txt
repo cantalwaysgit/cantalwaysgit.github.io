@@ -11,8 +11,8 @@ he	&rlm;‏אם יש לה את המכירות של ויטני, ניקח את ז�
 it	Se vende quanto Whitney, la prendiamo. 
 nl	Als ze net zo verkoopt als Whitney, doen we het. 
 pl	Jeśli sprzeda tyle co Whitney, bierzemy. 
-pr-br	Se ela vender como a Whitney, nós a contratamos. 
-pr	Se ela tiver as vendas da Whitney, nós aceitamos. 
+pt-br	Se ela vender como a Whitney, nós a contratamos. 
+pt	Se ela tiver as vendas da Whitney, nós aceitamos. 
 ro	Dacă va avea vânzările lui Whitney, va semna cu noi. 
 sv	Om hon kan sälja som Whitney, då säger vi ja. 
 th	ถ้าเธอขายได้แบบวิตนีย์ เราจะรับคุณ | 

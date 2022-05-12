@@ -12,8 +12,8 @@ fr	Le sang a giclé ! Les gens gerbaient !
 he	&rlm;‏‏דם בכל מקום! אנשים הקיאו! | &rlm;‏-בסדר.‏ | 
 it	- C'era sangue ovunque. La gente vomitava! - Bene. 
 nl	Overal bloed. Mensen die overgaven. 
-pr-br	-Sangue pra cacete. As pessoas vomitavam. -Certo. 
-pr	- Havia sangue e gente a vomitar! - Está bem. 
+pt-br	-Sangue pra cacete. As pessoas vomitavam. -Certo. 
+pt	- Havia sangue e gente a vomitar! - Está bem. 
 ro	- Era plin de sânge! Lumea vomita! - Bine. 
 sv	-Det var blod överallt. Folk kräktes! -Okej. 
 tr	-Her yer kan oldu! İnsanlar kustu! -Pekâlâ. 

@@ -10,8 +10,8 @@ fr	Pas de réseaux sociaux.
 he	&rlm;‏שום סוג של מדיה חברתית.‏ | 
 it	Nessun social media. 
 pl	Mediów społecznościowych. 
-pr-br	Nenhuma rede social. 
-pr	Nenhuma dessas redes sociais. 
+pt-br	Nenhuma rede social. 
+pt	Nenhuma dessas redes sociais. 
 ro	Nicio platformă de socializare online. 
 th	ไม่มีโซเชียลมีเดียเลย | 
 tr	Sosyal medya platformları yoktu. 
@@ -35,8 +35,8 @@ he	&rlm;‏היית צריך בחור כמו סנדי כדי שיראו אותך
 it	Per essere notato ti serviva uno come Sandy. 
 nl	Je had een Sandy nodig om gezien te worden. 
 pl	Potrzebny był ktoś taki jak Sandy. 
-pr-br	Você precisava de um Sandy para ser notado. 
-pr	Precisávamos de alguém como o Sandy para repararem em nós. 
+pt-br	Você precisava de um Sandy para ser notado. 
+pt	Precisávamos de alguém como o Sandy para repararem em nós. 
 ro	Aveai nevoie de cineva ca Sandy să te remarci. 
 th	คนแบบแซนดี้จำเป็นต้องให้คนเห็นหน้า | 
 tr	Fark edilmeniz için Sandy gibi biri lazımdı. 

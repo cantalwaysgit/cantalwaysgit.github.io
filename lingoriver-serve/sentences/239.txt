@@ -14,8 +14,8 @@ it	Vergognandosi della sua faccia
 ko	얼굴을 보이는 걸 | 부끄러워하면서 | 
 nl	hij schaamde zich voor zijn gezicht 
 pl	Nie chciał pokazywać dzióbka 
-pr-br	Com vergonha de mostrar o rosto 
-pr	Com vergonha de mostrar o rosto 
+pt-br	Com vergonha de mostrar o rosto 
+pt	Com vergonha de mostrar o rosto 
 ro	Rușinată să-și arate chipul 
 sv	Skämdes över sitt ansikte 
 th	อายที่จะให้ใครเห็นหน้า | 

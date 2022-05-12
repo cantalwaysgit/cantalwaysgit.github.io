@@ -14,8 +14,8 @@ ko	더 미친 듯이 | 아직 끝이 아니에요 |
 nl	Meer gekte. Op de maat. 
 no	Mer galskap! Tramp. 
 pl	Z życiem! Depczemy mrówy. 
-pr-br	Mais loucura! Pisando na formiga. 
-pr	Mais loucura! Pisa a formiga. 
+pt-br	Mais loucura! Pisando na formiga. 
+pt	Mais loucura! Pisa a formiga. 
 ro	Mai multă nebunie! Cu energie, pe loc! 
 sv	Mer galenskap! Hoppa på stället. 
 th	บ้าขึ้นอีก ยังไม่จบ | 

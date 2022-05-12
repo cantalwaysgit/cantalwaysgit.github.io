@@ -12,8 +12,8 @@ fr	Ce n'était pas qu'un rêve
 he	&rlm;‏או שהייתה זו רק פנטזיה‏ | 
 it	O forse era solo la mia fantasia 
 pl	Czy to był tylko sen? 
-pr-br	Ou era só uma fantasia 
-pr	Ou estaria a imaginar 
+pt-br	Ou era só uma fantasia 
+pt	Ou estaria a imaginar 
 ro	Sau a fost doar o fantezie 
 sv	Eller var det bara fantasier 
 th	หรือมันเป็นแค่ความฝัน | 

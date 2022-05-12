@@ -11,8 +11,8 @@ he	&rlm;‏אז זו הייתה... אווירה אחרת.‏ |
 it	e l'atmosfera era diversa. 
 ko	분위기가 달랐어요 | 
 pl	Klimat się już zmienił. 
-pr-br	então o clima era outro. 
-pr	por isso, era um ambiente diferente. 
+pt-br	então o clima era outro. 
+pt	por isso, era um ambiente diferente. 
 ro	deci era o altă atmosferă. 
 sv	Så det var andra vibbar. 
 th	มันเลยรู้สึกแตกต่างไป | 

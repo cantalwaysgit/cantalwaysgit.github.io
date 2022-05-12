@@ -13,8 +13,8 @@ ko	칠리스에 가긴 가야 해 | 10시 반까지 간다고 했거든 |
 nl	We moeten naar Chili's. Ik zei dat we er om 22.30 uur zouden zijn. 
 no	Vi må dra til Chili's. Jeg sa vi ville være der 22.30. 
 pl	Musimy iść do Chili's. Powiedziałem, że będziemy przed 22.30. 
-pr-br	Temos que ir ao Chili's. Eu falei para a moça que chegaríamos até as 22h30. 
-pr	Temos de ir ao Chili's. Disse à senhora que chegávamos às 22h30. 
+pt-br	Temos que ir ao Chili's. Eu falei para a moça que chegaríamos até as 22h30. 
+pt	Temos de ir ao Chili's. Disse à senhora que chegávamos às 22h30. 
 ro	Chiar trebuie să mergem la restaurant. I-am zis doamnei că ajungem până la 22:30. 
 ru	Нам пора в «Чили». Я сказал, что мы придем в 10:30. 
 sv	Vi måste dra till Chili's. Jag sa att vi skulle komma kl. 22.30. 

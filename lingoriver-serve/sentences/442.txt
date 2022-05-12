@@ -11,8 +11,8 @@ fi	Käsi leualle.
 he	&rlm;‏שים את היד על הסנטר.‏ | 
 it	Metti la mano sul mento. 
 ko	턱에 손 올리고 | 
-pr-br	Ponha a mão no queixo. 
-pr	Pões a mão no queixo. 
+pt-br	Ponha a mão no queixo. 
+pt	Pões a mão no queixo. 
 tr	Elini çenene koy. 
 vi	Cô đặt tay lên cằm. | 
 zh-long	手放下巴 

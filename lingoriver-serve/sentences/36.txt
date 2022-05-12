@@ -15,8 +15,8 @@ ko	행맨 하면서 놀았지 |
 nl	Jullie speelden galgje. 
 no	Dere spilte hangman. 
 pl	Graliście w wisielca. 
-pr-br	Vocês estavam jogando forca. 
-pr	Vocês estavam a jogar à forca. 
+pt-br	Vocês estavam jogando forca. 
+pt	Vocês estavam a jogar à forca. 
 ro	Voi ați jucat Spânzurătoarea. 
 sv	Ni spelade "hänga gubben". 
 th	พวกคุณกำลังเล่นเกมแฮงก์แมน | 

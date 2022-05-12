@@ -13,8 +13,8 @@ ko	죄송해요 |
 nl	Het spijt me. 
 no	Beklager. 
 pl	Przykro mi. 
-pr-br	Sinto muito. 
-pr	Lamento. 
+pt-br	Sinto muito. 
+pt	Lamento. 
 ro	Îmi pare rău. 
 sv	Jag är ledsen. 
 th	เสียใจนะ | 
@@ -39,8 +39,8 @@ ko	- 혹시나 저를 봐서... | - 아침 드실래요? |
 nl	Ik vraag alleen of je... -Wil je ontbijten? 
 no	-Jeg spør om... -Vil du ha frokost? 
 pl	- Proszę tylko... - Zrobić ci śniadanie? 
-pr-br	-Estou perguntando se você... -Quer café da manhã? 
-pr	- Estou a perguntar se... - Queres pequeno-almoço? 
+pt-br	-Estou perguntando se você... -Quer café da manhã? 
+pt	- Estou a perguntar se... - Queres pequeno-almoço? 
 ro	- Îți cer doar... - Vrei ceva la micul dejun? 
 sv	-Jag ber dig bara... -Vill du ha frukost? 
 th	- ผมขอหากคุณ... | - อยากได้อาหารเช้าไหม | 

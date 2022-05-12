@@ -11,8 +11,8 @@ it	È un imbroglio? Cos'era?
 nl	Word ik belazerd? Wat was dat? 
 no	Blir jeg svindlet nå? Hva var det for noe? 
 pl	Zakpiłaś sobie ze mnie? Co to było? 
-pr-br	Estou sendo enganado? O que foi aquilo? 
-pr	Estás a gozar comigo? O que foi aquilo? 
+pt-br	Estou sendo enganado? O que foi aquilo? 
+pt	Estás a gozar comigo? O que foi aquilo? 
 ro	Mă păcălești acum? Ce a fost asta? 
 sv	Blir jag lurad här? Vad var det? 
 th	นี่หลอกกันใช่ไหมเนี่ย | นั่นมันอะไร | 

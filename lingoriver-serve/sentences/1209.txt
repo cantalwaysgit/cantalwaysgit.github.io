@@ -10,8 +10,8 @@ it	E tu cos'hai fatto?
 nl	En wat deed jij? 
 no	Og hva gjorde du? 
 pl	A co robiłeś ty? 
-pr-br	E o que você fez? 
-pr	E o que foi que tu fizeste? 
+pt-br	E o que você fez? 
+pt	E o que foi que tu fizeste? 
 ro	Și tu ce ai făcut? 
 sv	Och vad har du gjort? 
 th	แล้วคุณล่ะทำอะไร | 

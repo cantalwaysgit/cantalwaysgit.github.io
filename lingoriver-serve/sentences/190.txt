@@ -13,8 +13,8 @@ ko	법적인 이유로 | 샌디를 데려다 둔 거였어요 |
 nl	...die Sandy nodig had voor juridische redenen. 
 no	Han trengte Sandy av juridiske årsaker. 
 pl	Potrzebował Sandy'ego z powodów prawnych. 
-pr-br	...que precisava do Sandy lá por motivos legais. 
-pr	... que precisava lá do Sandy por questões jurídicas. 
+pt-br	...que precisava do Sandy lá por motivos legais. 
+pt	... que precisava lá do Sandy por questões jurídicas. 
 ro	...care avea nevoie de Sandy din punct de vedere legal. 
 ru	Он поселил там Сэнди по юридическим причинам. 
 sv	...som behövde Sandy där  av juridiska skäl. 

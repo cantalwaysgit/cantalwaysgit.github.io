@@ -13,8 +13,8 @@ it	Grazie, Sandy.
 ko	고마워요, 샌디 | 
 no	Takk, Sandy. 
 pl	Dziękuję. 
-pr-br	Obrigada, Sandy. 
-pr	Obrigada, Sandy. 
+pt-br	Obrigada, Sandy. 
+pt	Obrigada, Sandy. 
 ro	Mulțumesc, Sandy. 
 sv	Tack, Sandy. 
 th	ขอบคุณนะ แซนดี้ | 

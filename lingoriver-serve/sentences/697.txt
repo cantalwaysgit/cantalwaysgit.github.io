@@ -18,8 +18,8 @@ it	Così sarebbe perfetta.
 ko	그러면 완벽할 거야 | 
 nl	Dan is het perfect. 
 no	Og så ville det bli perfekt. 
-pr-br	Então ficaria perfeito. 
-pr	E ficaria perfeito. 
+pt-br	Então ficaria perfeito. 
+pt	E ficaria perfeito. 
 ro	Iar apoi ar fi perfect. 
 sv	Då skulle det bli perfekt. 
 tr	O zaman mükemmel olacak. 

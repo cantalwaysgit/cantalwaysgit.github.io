@@ -7,8 +7,8 @@ es	Y, Sanford, ¿te gusta?
 it	Sanford, ti piace? 
 ko	샌디, 마음에 들어? | 
 nl	Vind jij hem lekker, Sanford? 
-pr-br	Gostou, Sandy? 
-pr	E tu, Sanford, gostas? 
+pt-br	Gostou, Sandy? 
+pt	E tu, Sanford, gostas? 
 sv	Sanford, gillar du det? 
 tr	Sen beğendin mi Sanford? 
 vi	Còn, Sanford, anh thích chứ? | 

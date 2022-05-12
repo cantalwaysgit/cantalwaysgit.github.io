@@ -8,8 +8,8 @@ es-eu	- Está bien. - ¡Sandy!
 he	&rlm;‏‏בסדר. | &rlm;‏-סנדי!‏ | 
 it	- Ecco qua. - Sandy! 
 no	-Ok. -Sandy! 
-pr-br	-Está bem. -Sandy! 
-pr	- Pronto. - Sandy! 
+pt-br	-Está bem. -Sandy! 
+pt	- Pronto. - Sandy! 
 ro	- Bine. - Sandy! 
 sv	-Okej. -Sandy! 
 th	- โอเค | - แซนดี้ | 

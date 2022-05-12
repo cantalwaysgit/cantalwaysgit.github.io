@@ -14,8 +14,8 @@ ko	- 상패 좀 봐요 | - 네가 더 많이 받을 거야 |
 nl	Kijk wat een prijzen. -Jij zult er meer krijgen. 
 no	-Se på alle prisene hans. -Du får flere en vakker dag. 
 pl	- Ale on ma tych nagród. - Kiedyś będziesz miała więcej. 
-pr-br	-Veja todos os prêmios que ele recebeu. -Um dia, você terá mais. 
-pr	- Olha para estes prémios todos. - Um dia terás mais. 
+pt-br	-Veja todos os prêmios que ele recebeu. -Um dia, você terá mais. 
+pt	- Olha para estes prémios todos. - Um dia terás mais. 
 ro	- Uite câte premii are! - Tu o să ai mai multe cândva. 
 sv	-Titta på alla hans priser. -Du kommer att få fler en dag. 
 th	- ดูรางวัลพวกนี้ที่เขาได้รับสิ | - สักวันคุณจะมีเยอะกว่านี้ | 

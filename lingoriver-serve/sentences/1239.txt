@@ -13,8 +13,8 @@ he	&rlm;‏לכן קשה לי לומר את זה.‏ |
 it	Infatti per me è molto difficile da dire, 
 nl	Daarom is het moeilijk om dit te zeggen. 
 no	Derfor er det vanskelig for meg å si dette, 
-pr-br	É por isso que é difícil dizer isso, 
-pr	É por isso que me custa dizer-te isto. 
+pt-br	É por isso que é difícil dizer isso, 
+pt	É por isso que me custa dizer-te isto. 
 ro	De asta îmi vine greu să-ți zic, 
 sv	Därför är det svårt för mig att säga det här, 
 tr	Bu yüzden bunu söylemek benim için çok zor. 

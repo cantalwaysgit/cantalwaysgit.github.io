@@ -13,8 +13,8 @@ ko	꼭두각시가 주례를 선 결혼이 | 법적으로 성립이 안 된다�
 nl	Jammer dat een huwelijk voltrokken door een pop niet legaal was. 
 no	Synd at en vielse gjort av en dukke ikke er gyldig. 
 pl	Niestety ślub udzielony przez lalkę okazał się nieważny. 
-pr-br	Pena que um casamento oficializado por uma marionete não seja legal. 
-pr	É pena um casamento celebrado por um fantoche não ser legal. 
+pt-br	Pena que um casamento oficializado por uma marionete não seja legal. 
+pt	É pena um casamento celebrado por um fantoche não ser legal. 
 ro	Păcat că o nuntă oficiată de o păpușă nu e legală. 
 ru	Жаль, что венчание куклой не было законным. 
 sv	Tyvärr så är inte äktenskap som förrättas av en docka lagliga. 

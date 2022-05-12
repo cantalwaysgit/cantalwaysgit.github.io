@@ -13,8 +13,8 @@ it	A volte capita Di trovare qualcuno
 ko	가끔 처음부터 | 
 nl	af en toe vind je iemand 
 pl	Czasem znajdujesz kogoś 
-pr-br	De vez em quando Você acha alguém 
-pr	De vez em quando Encontramos alguém 
+pt-br	De vez em quando Você acha alguém 
+pt	De vez em quando Encontramos alguém 
 ro	Uneori găsești pe cineva 
 sv	Det händer Att man hittar nån 
 th	บางครั้งบางคราว เราได้พบใครสักคน | 

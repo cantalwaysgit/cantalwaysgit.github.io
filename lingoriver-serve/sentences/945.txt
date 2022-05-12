@@ -14,8 +14,8 @@ he	&rlm;‏‏שמעתי שהוא מתכוון לערוך מסיבה, | &rlm;‏
 it	L'avevo sentito dire, ma non sapevo quando. 
 no	Jeg har hørt det. Jeg visste bare ikke når. 
 pl	Wiedziałem o niej, tylko nie wiedziałem kiedy. 
-pr-br	Eu sabia que daria, só não sabia quando. 
-pr	Eu sabia disso, só não sabia quando era. 
+pt-br	Eu sabia que daria, só não sabia quando. 
+pt	Eu sabia disso, só não sabia quando era. 
 ro	Auzisem, dar nu știam când. 
 sv	Jag hörde det, men visste inte när det var. 
 th	ได้ยินว่าเขาจะจัด | แค่ไม่รู้ว่าเมื่อไหร่ | 

@@ -13,8 +13,8 @@ it	La prego, signorina. Vada dentro.
 ko	안으로 들어가시죠 | 
 no	Vær så vennlig, frøken. Gå inn. 
 pl	Proszę wejść do środka. 
-pr-br	Por favor, senhorita. Vá lá. 
-pr	Por favor, menina, entre. 
+pt-br	Por favor, senhorita. Vá lá. 
+pt	Por favor, menina, entre. 
 ro	Vă rog, domnișoară. Intrați! 
 sv	Gå in är du snäll. 
 th	คุณครับ กรุณาเข้าไปข้างใน | 

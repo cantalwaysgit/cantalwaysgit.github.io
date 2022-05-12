@@ -11,8 +11,8 @@ it	- Salve. - Oddio, io ti conosco.
 nl	Hallo. -Hoi, ik ken jou. 
 no	-Hei. -Herregud, jeg kjenner deg. 
 pl	- Cześć. - Boże. Kojarzę cię. 
-pr-br	-Oi. -Ah, meu Deus, eu conheço você. 
-pr	- Olá. - Céus, eu conheço-o. 
+pt-br	-Oi. -Ah, meu Deus, eu conheço você. 
+pt	- Olá. - Céus, eu conheço-o. 
 ro	- Bună! - Doamne! Te cunosc. 
 sv	-Hej. -Herregud. Jag känner dig. 
 th	- ไฮ | - โอ๊ยตายแล้ว ฉันรู้จักคุณ | 

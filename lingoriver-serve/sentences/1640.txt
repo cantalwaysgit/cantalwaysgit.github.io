@@ -13,8 +13,8 @@ ko	안 돼! 이게 무슨 일이야? |
 nl	Nee. Wat is hier aan de hand? 
 no	Ikke prøv deg! Hva er det som skjer? 
 pl	Nie zrobisz tego! Co się dzieje? 
-pr-br	Não! O que está acontecendo aqui? 
-pr	Nada disso! O que se passa? 
+pt-br	Não! O que está acontecendo aqui? 
+pt	Nada disso! O que se passa? 
 ro	Nu se poate! Ce se întâmplă aici? 
 ru	Да ладно! Что происходит? 
 sv	Vad är det som händer? 

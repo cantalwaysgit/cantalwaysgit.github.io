@@ -11,8 +11,8 @@ he	&rlm;‏היי, כל אחד משתכר מדי פעם.‏ |
 it	Tutti ogni tanto hanno bisogno di una bella sbornia. 
 no	Alle blir fulle av og til. 
 pl	Każdy od czasu do czasu lubi się uchlać. 
-pr-br	Ei, todos enchem a cara de vez em quando. 
-pr	Todos bebemos uns copos de vez em quando. 
+pt-br	Ei, todos enchem a cara de vez em quando. 
+pt	Todos bebemos uns copos de vez em quando. 
 ro	Toată lumea se mai face praf din când în când. 
 sv	Alla blir stupfulla ibland. 
 th	เฮ่ นานๆ ทีทุกคนก็ทำตัวเหลวไหลได้ | 

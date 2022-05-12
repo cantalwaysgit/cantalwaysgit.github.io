@@ -13,8 +13,8 @@ it	- Siete pronti? - Cosa c'è?
 nl	Ben je er klaar voor? -Wat? 
 no	-Er dere klare? -Hva er det? 
 pl	- Gotowi? - Słucham? 
-pr-br	-Ei, Kevin, Lorne. Prontos? -O que é isso? 
-pr	- Estão preparados? - O quê? 
+pt-br	-Ei, Kevin, Lorne. Prontos? -O que é isso? 
+pt	- Estão preparados? - O quê? 
 ro	- Sunteți gata? - Poftim? 
 sv	-Hörni, är ni redo? -Vadå? 
 th	- นี่ คุณพร้อมไหม | - นั่นอะไร | 

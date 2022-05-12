@@ -14,8 +14,8 @@ ko	그렇게 해줘요 |
 nl	Je mag me een schok geven. Doe maar. 
 no	Du kan gi meg støt. Gi meg støt. 
 pl	Możesz sobie mnie strzelić. 
-pr-br	Você pode me dar choque. 
-pr	Podes dar-me choques. Dá-me. 
+pt-br	Você pode me dar choque. 
+pt	Podes dar-me choques. Dá-me. 
 ro	Poți să mă electrocutezi. Hai! 
 sv	Ge mig en stöt. 
 th	ช็อตฉันได้ ช็อตเลย | 

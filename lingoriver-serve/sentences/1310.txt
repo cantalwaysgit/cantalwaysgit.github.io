@@ -14,8 +14,8 @@ it	Cos'abbiamo qui?
 nl	Wat hebben we hier? 
 no	Hva har vi her? 
 pl	Co my tu mamy? 
-pr-br	O que temos aqui? 
-pr	O que temos aqui? 
+pt-br	O que temos aqui? 
+pt	O que temos aqui? 
 ro	Ce avem noi aici? 
 sv	Vad har vi här? 
 th	นั่นมีอะไร | 

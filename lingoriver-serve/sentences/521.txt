@@ -16,8 +16,8 @@ ko	저걸 입으면 방이 환해지겠네 |
 nl	In die paarse zou ze stralen. 
 no	Hun ville lyse opp et rom i denne. 
 pl	W tym wyglądałaby świetnie. 
-pr-br	Ela pararia o trânsito com esse roxo. 
-pr	Ela ficaria fantástica com aquele. 
+pt-br	Ela pararia o trânsito com esse roxo. 
+pt	Ela ficaria fantástica com aquele. 
 ro	Ar atrage toată atenția îmbrăcată așa. 
 th	ใส่ชุดนั้นเธอต้องเด่นสุดๆ | 
 tr	Bu mor elbiseyle girdiği yeri aydınlatır. 

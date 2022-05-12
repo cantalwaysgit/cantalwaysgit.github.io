@@ -11,8 +11,8 @@ he	&rlm;‏הכול בו מושך‏ |
 it	Tutto ciò che lo riguarda è affascinante 
 ko	연예계는 모든 것이 매력적이지 | 
 pl	Wszystko w niej jest piękne 
-pr-br	Tudo nele é atraente 
-pr	É tudo tão atraente 
+pt-br	Tudo nele é atraente 
+pt	É tudo tão atraente 
 ro	E atrăgător în toate modurile 
 th	ทุกอย่างเกี่ยวกับมันน่าสนใจ | 
 tr	Her bakımdan çekicidir 

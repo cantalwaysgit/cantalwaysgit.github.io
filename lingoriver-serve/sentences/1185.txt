@@ -15,8 +15,8 @@ ko	얼굴에 닭을 뱉으실 거예요? | 이거 드세요 |
 nl	Echt? Spuug je kip in m'n gezicht? Voor jou. 
 no	Seriøst? Spytter du kylling på meg? Den er til deg. 
 pl	Oplułeś mnie kurczakiem. To twoje. 
-pr	A sério? Vais cuspir frango para a minha cara? Isto é para ti. 
-pr-br	Sério? Vai cuspir frango na minha cara? Isso é seu. 
+pt	A sério? Vais cuspir frango para a minha cara? Isto é para ti. 
+pt-br	Sério? Vai cuspir frango na minha cara? Isso é seu. 
 ro	Serios? O să-mi scuipi puiul în față? Ăsta e al tău. 
 sv	Verkligen? Spottar du kyckling på mig? Den tillhör dig. 
 th	จริงเหรอ พ่นไก่ใส่หน้าผมเรอะ | นั่นของคุณ | 

@@ -15,8 +15,8 @@ ko	데이트해보신 적 있나요? |
 nl	Heb je weleens een date gehad? 
 no	Har du noen gang vært på date? 
 pl	Byłeś kiedyś na randce? 
-pr	Alguma vez namorou na vida? 
-pr-br	Já namorou? 
+pt	Alguma vez namorou na vida? 
+pt-br	Já namorou? 
 ro	Ai avut vreodată o iubită? 
 sv	Har du nånsin haft en dejt? 
 th	นายเคยออกเดตไหม | 

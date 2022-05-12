@@ -15,8 +15,8 @@ ko	버디 해킷은 60살 때까지 | 캐츠킬에서 설거지를 했어요 |
 nl	Buddy Hackett was tot zijn 60e afwasser in de Catskills. 
 no	Buddy Hackett var oppvasker i Catskills til han var 60. 
 pl	Buddy Hackett do 60. roku życia był pomywaczem w Catskills. 
-pr-br	Buddy Hackett era um lava-pratos em Catskills até os 60 anos. 
-pr	O Buddy Hackett lavou pratos nas Catskills até aos 60 anos. 
+pt-br	Buddy Hackett era um lava-pratos em Catskills até os 60 anos. 
+pt	O Buddy Hackett lavou pratos nas Catskills até aos 60 anos. 
 ro	Buddy Hackett a spălat vase în Catskills până la 60 de ani. 
 sv	Buddy Hackett var diskare på Catskills tills han fyllde 60. 
 th	บัดดี้ แฮคเกตต์เป็นคนล้างจาน | ที่แคตสกิลส์จนอายุ 60 | 

@@ -15,8 +15,8 @@ ko	- 무슨 홍보 담당자? | - 최고 중의 최고예요 |
 nl	Welke publiciteitsagenten? -De beste. 
 no	-Hvilke PR-konsulenter? -Bare de beste. 
 pl	- Z jakimi agentami prasowymi? - Najlepszymi. 
-pr-br	-Que assessores de imprensa? -Sim, os melhores. 
-pr	- Com quais agentes publicitários? - Só com os melhores. 
+pt-br	-Que assessores de imprensa? -Sim, os melhores. 
+pt	- Com quais agentes publicitários? - Só com os melhores. 
 ro	- Editorii? Care editori? - Doar cei de top. 
 sv	-Reklamagenter? Vilka då? -Bara de bästa. 
 th	- ประชาสัมพันธ์เหรอ อันไหนล่ะ | - แค่พวกระดับต้นๆ | 

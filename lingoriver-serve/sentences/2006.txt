@@ -14,8 +14,8 @@ ko	이런, 약을 잘못 드셨나 봐요 |
 nl	Je hebt de verkeerde pillen geslikt. 
 no	Du har forvekslet pillene dine. 
 pl	Szlag. Pomieszałeś swoje pigułki. 
-pr-br	Merda. Você trocou seus remédios. 
-pr	Caraças. Trocaste os comprimidos. 
+pt-br	Merda. Você trocou seus remédios. 
+pt	Caraças. Trocaste os comprimidos. 
 ro	Fir-ar! Ai încurcat pastilele! 
 sv	Satan. Du har blandat dina piller. 
 th	ให้ตายสิ คุณพูดสับสนใหญ่แล้ว | 

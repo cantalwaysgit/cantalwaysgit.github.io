@@ -12,8 +12,8 @@ it	Vorrei prenotare il locale per un evento privato.
 ko	개인 행사용으로 | 대관하고 싶은데요 | 
 nl	Ik wil een ruimte huren voor een privé-evenement. 
 pl	Chciałbym zarezerwować miejsce na prywatne wydarzenie. 
-pr-br	Eu gostaria de reservar um salão para um evento privado. 
-pr	Quero reservar um espaço para um evento privado. 
+pt-br	Eu gostaria de reservar um salão para um evento privado. 
+pt	Quero reservar um espaço para um evento privado. 
 sv	Jag vill boka ett område för en privat tillställning. 
 tr	Özel bir olay için yer ayırtmak istiyorum. 
 vi	Tôi muốn đặt chỗ cho một sự kiện riêng tư. | 

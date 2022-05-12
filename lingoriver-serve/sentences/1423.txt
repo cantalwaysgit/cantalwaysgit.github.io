@@ -10,8 +10,8 @@ he	&rlm;‏טוב לראות אותך, מותק.‏ |
 it	È stato un piacere. 
 nl	Het was leuk om je te zien. 
 pl	Miło było cię widzieć. 
-pr-br	Foi bom vê-lo, querido. 
-pr	Foi bom ver-te, querido. 
+pt-br	Foi bom vê-lo, querido. 
+pt	Foi bom ver-te, querido. 
 ro	Mă bucur că te-am văzut, dragule! 
 sv	Kul att se dig. 
 th	ดีใจที่ได้เจอ ที่รัก | 

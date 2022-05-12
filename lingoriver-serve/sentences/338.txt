@@ -14,8 +14,8 @@ it	Io farò sempre ciò che è meglio per sua figlia.
 nl	Ik zal altijd doen wat het beste is voor je dochter. 
 no	Jeg skal alltid gjøre det som er best for datteren din. 
 pl	Zawsze będę robił to, co dla pana córki najlepsze. 
-pr-br	Vou sempre fazer o melhor para a sua filha. 
-pr	eu farei sempre o que é melhor para a sua filha. 
+pt-br	Vou sempre fazer o melhor para a sua filha. 
+pt	eu farei sempre o que é melhor para a sua filha. 
 ro	Voi face mereu tot ce e mai bine pentru fata dv. 
 sv	Jag kommer alltid att göra det bästa för din dotter. 
 th	ผมจะทำสิ่งที่ดีที่สุด | สำหรับลูกสาวคุณเสมอ | 

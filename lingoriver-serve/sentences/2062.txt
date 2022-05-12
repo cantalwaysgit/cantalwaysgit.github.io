@@ -13,8 +13,8 @@ ko	- 저 계약했어요 | - 저도요 |
 nl	Ik tekende een contract met hem. 
 no	-Jeg ble med ham. -Jeg òg. 
 pl	- To mój menedżer. - I mój. 
-pr-br	-Eu o contratei. -Eu também. 
-pr	- Fiz contrato com ele. - E eu. 
+pt-br	-Eu o contratei. -Eu também. 
+pt	- Fiz contrato com ele. - E eu. 
 ro	- L-am angajat. - Și eu. 
 ru	-Я стал его клиентом. -И я. 
 sv	-Jag skrev på för honom. -Jag med. 

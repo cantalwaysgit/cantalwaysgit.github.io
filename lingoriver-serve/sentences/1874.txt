@@ -15,8 +15,8 @@ ko	여왕을 만지다니! |
 nl	Ik heb de koningin aangeraakt. 
 no	Jeg tok på dronningen! 
 pl	Dotknęłam królowej! 
-pr	Acabei de tocar na rainha! 
-pr-br	Acabei de tocar na rainha! 
+pt	Acabei de tocar na rainha! 
+pt-br	Acabei de tocar na rainha! 
 ro	Tocmai am atins regina! 
 sv	Jag rörde vid drottningen. 
 th	ฉันเพิ่งแตะตัวราชินี | 

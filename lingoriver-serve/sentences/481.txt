@@ -15,8 +15,8 @@ ko	‘진실? 안달복달하면 | 진실을 알지 못할 거야’ |
 nl	'De waarheid? Die zou je nog niet zien, al beet die je in je... 
 no	"Du ville ikke ha gjenkjent sannheten om den så beit deg i..." 
 pl	„Prawdę? Nie dostrzegłabyś jej, nawet gdyby ugryzła cię w...”. 
-pr	"A verdade? Não perceberias a verdade nem que te mordesse no..." 
-pr-br	"A verdade? Você não saberia a verdade nem se o mordesse no..." 
+pt	"A verdade? Não perceberias a verdade nem que te mordesse no..." 
+pt-br	"A verdade? Você não saberia a verdade nem se o mordesse no..." 
 ro	"Adevărul? N-ai ști adevărul nici dacă te-ar mușca de..." 
 sv	"Sanningen? Du känner inte igen den om den så bet dig i..." 
 th	"ความจริงเรอะ คุณจะรู้ความจริง | ถ้ามันโดนคุณเข้า..." | 

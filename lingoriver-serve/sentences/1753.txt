@@ -12,8 +12,8 @@ it	- Sei licenziato. - Oddio! Ma andiamo!
 nl	Je bent ontslagen. 
 no	-Du har sparken. -Herregud! Ærlig talt! 
 pl	- Zwalniam cię. - No weź! 
-pr-br	-Você está demitido. -Meu Deus! Qual é? 
-pr	- Estás despedido. - Céus! Vá lá! 
+pt-br	-Você está demitido. -Meu Deus! Qual é? 
+pt	- Estás despedido. - Céus! Vá lá! 
 ro	- Ești concediat! - Doamne! Fii serios! 
 sv	-Du är avskedad. -Nej. Kom igen. 
 th	- ไล่นายออก | - โอ้ พระเจ้า ไม่เอาน่า | 

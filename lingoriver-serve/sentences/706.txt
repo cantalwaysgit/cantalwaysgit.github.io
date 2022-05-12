@@ -12,8 +12,8 @@ ko	아마 아버지가 | 결정적인 반대표를 던지셨을걸요? |
 nl	Ik denk dat zijn stem de doorslag gaf. 
 no	Nei, jeg tror faktisk hans stemme avgjorde det. 
 pl	Nie, to właśnie jego głos zadecydował. 
-pr-br	Não, acho que o voto dele foi decisivo. 
-pr	Não, acho que o voto decisivo foi dele. 
+pt-br	Não, acho que o voto dele foi decisivo. 
+pt	Não, acho que o voto decisivo foi dele. 
 ro	Nu. De fapt, cred că votul lui a fost cel decisiv. 
 sv	Nej, jag tror att han fällde  avgörande rösten. 
 th	ไม่ใช่ ผมคิดว่า | เสียงโหวตของพ่อคือเสียงตัดสิน | 

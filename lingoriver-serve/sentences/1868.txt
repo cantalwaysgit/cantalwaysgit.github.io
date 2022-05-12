@@ -13,8 +13,8 @@ ko	우리 샌디를 위해서라면 | 1등급으로 해야죠 |
 nl	Alleen eerste klas voor mijn Sandman. 
 no	Bare første klasse for min Sandman. 
 pl	Mój Sandman dostaje to, co najlepsze. 
-pr-br	Sempre primeira classe para o meu Sandy. 
-pr	Para o meu Sandman, só a primeira classe. 
+pt-br	Sempre primeira classe para o meu Sandy. 
+pt	Para o meu Sandman, só a primeira classe. 
 ro	Clasa întâi până la capăt pentru Sandman al meu. 
 sv	Första klass hela vägen för min Sandman. 
 th	ชั้นหนึ่งตลอดสำหรับแซนด์แมนของฉัน | 

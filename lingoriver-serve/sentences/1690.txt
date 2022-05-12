@@ -17,8 +17,8 @@ ko	무슨 소리예요? |
 nl	Wat was dat? 
 no	Hva var det? 
 pl	Co to było? 
-pr-br	O que foi isso? 
-pr	O que foi aquilo? 
+pt-br	O que foi isso? 
+pt	O que foi aquilo? 
 ro	Ce s-a auzit? 
 sv	Vad var det? 
 tr	Neydi o? 

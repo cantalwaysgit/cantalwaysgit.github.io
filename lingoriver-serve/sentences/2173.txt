@@ -13,8 +13,8 @@ it	Cosa? Come hai detto?
 nl	Wat zei je? 
 no	Hva? Hva sa du? 
 pl	Co? Co powiedziałeś? 
-pr-br	Quê? O que você disse? 
-pr	O quê? O que disseste? 
+pt-br	Quê? O que você disse? 
+pt	O quê? O que disseste? 
 ro	Poftim? Ce-ai zis? 
 sv	Vadå? Vad säger du? 
 th	อะไรนะ นั่นอะไร อะไร พูดว่าอะไรนะ | 

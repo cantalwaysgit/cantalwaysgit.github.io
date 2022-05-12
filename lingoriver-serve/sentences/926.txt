@@ -12,8 +12,8 @@ it	Puoi pensarci tu? La mia palestra è qui. Vado ad allenarmi.
 ko	뒤처리할 수 있지? | 헬스장이 저기니까 가 있을게 | 
 nl	Zorg jij hiervoor? Mijn sportschool is hier. Ik ga trainen. 
 pl	Zajmij się tym. Ja skoczę sobie na siłownię. 
-pr-br	Você pode cuidar disso. Minha academia é aqui. Vou fazer circuito. 
-pr	Consegues resolver isto? O meu ginásio é ali. Vou treinar um pouco. 
+pt-br	Você pode cuidar disso. Minha academia é aqui. Vou fazer circuito. 
+pt	Consegues resolver isto? O meu ginásio é ali. Vou treinar um pouco. 
 ro	Te ocupi tu? Sala mea de sport e acolo. Merg să fac o tură. 
 sv	Tar du hand om det här? Här är gymmet. Jag ska köra cirkelträning. 
 tr	Sen hallet, tamam mı? Spor salonum şurada. Bir ter atayım. 

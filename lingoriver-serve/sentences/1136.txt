@@ -11,8 +11,8 @@ it	Ti perderai qualcosa.
 ko	아까운 구경거리 놓치겠네 | 
 nl	Dan mis je wel wat. 
 pl	No to twoja strata. 
-pr-br	Bem, o azar é seu. 
-pr	Vais ficar a perder. 
+pt-br	Bem, o azar é seu. 
+pt	Vais ficar a perder. 
 ro	Pierderea ta, atunci. 
 sv	Då missar du nåt. 
 tr	O zaman çok şey kaçırırsın. 

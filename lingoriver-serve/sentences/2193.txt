@@ -15,8 +15,8 @@ ko	할리우드의 왕을 갖고 논 걸 | 후회하게 해주겠어 |
 nl	Ik vind je ouders, dan krijg je spijt dat je Hollywoods voornaamste lid lastigvalt. 
 no	Jeg finner foreldrene deres. Ingen kødder ustraffet med kongen av Hollywood. 
 pl	Gdybym doniósł o tym mamie, przetrzepałaby wam skórę. 
-pr-br	Vou achar seus pais e vão se arrepender de terem se metido com o rei de Hollywood. 
-pr	Vou fazer-vos desejar não se terem metido com o rei de Hollywood. 
+pt-br	Vou achar seus pais e vão se arrepender de terem se metido com o rei de Hollywood. 
+pt	Vou fazer-vos desejar não se terem metido com o rei de Hollywood. 
 ro	O să vă găsesc părinții și o să regretați că v-ați pus cu regele Hollywoodului! 
 sv	Jag är i stånd att ringa era föräldrar. Man bråkar inte med kungen av Hollywood. 
 th	ฉันจะไปหาพ่อแม่เธอแล้วเธอจะเสียใจ | ที่มายุ่งกับราชาฮอลลีวูด | 

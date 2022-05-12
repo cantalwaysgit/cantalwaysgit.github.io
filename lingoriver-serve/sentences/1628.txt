@@ -13,8 +13,8 @@ ko	뭐 하는 거예요? | 대본대로 해요 |
 nl	Wat doe je? Hou je aan het script. 
 no	Hva gjør du? Følg manuset. 
 pl	Co ty robisz? Trzymaj się scenariusza. 
-pr-br	Ei, o que está fazendo? Siga o roteiro. 
-pr	O que estás a fazer? Segue o plano do combate. 
+pt-br	Ei, o que está fazendo? Siga o roteiro. 
+pt	O que estás a fazer? Segue o plano do combate. 
 ro	Ce faci? Respectă scenariul! 
 sv	Vad gör du? Håll dig till manuset. 
 th	เฮ่ เกิดอะไรขึ้น เล่นตามบทสิ | 

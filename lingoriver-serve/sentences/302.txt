@@ -1,7 +1,7 @@
 ja	“パパがいいと言ったら” | 
 id	Aku mau, tapi kita harus tanya ayahku lebih dulu. 
 ru	Хорошо, но сперва я спрошу папу. 
-pr-br	Eu adoraria, mas tenho que pedir ao meu pai. 
+pt-br	Eu adoraria, mas tenho que pedir ao meu pai. 
 ar	&rlm;‏أود ذلك، لكن يجب أن نطلب أذن أبي أولاً. | 
 da	Det vil jeg gerne, men vi må spørge min far. 
 el	Μετά χαράς, αλλά να ρωτήσουμε τον μπαμπά μου. 
@@ -16,7 +16,7 @@ ko	그러고는 싶지만 | 아빠한테 먼저 물어봐야 해요 |
 nl	Graag, maar we moeten het aan m'n vader vragen. 
 no	Gjerne, men vi må spørre faren min. 
 pl	Chętnie, ale muszę zapytać tatę. 
-pr	Adorava, mas primeiro temos de pedir ao meu pai. 
+pt	Adorava, mas primeiro temos de pedir ao meu pai. 
 ro	Mi-ar plăcea, dar trebuie să-i cer voie lui tata. 
 sv	Gärna, men jag måste fråga pappa. 
 th	ฉันก็อยากนะ แต่ต้องถามพ่อก่อน | 

@@ -13,8 +13,8 @@ he	&rlm;‏באמת.‏ |
 it	Ma andiamo. 
 no	Kom igjen. 
 pl	No weź. 
-pr-br	Vamos. 
-pr	Vá lá. 
+pt-br	Vamos. 
+pt	Vá lá. 
 ro	Haide! 
 sv	Kom igen. 
 th	ไปเลย | 

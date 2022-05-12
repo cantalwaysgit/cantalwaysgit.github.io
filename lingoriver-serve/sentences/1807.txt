@@ -13,8 +13,8 @@ he	&rlm;‏‏יש לי קצת סחרחורת. | &rlm;‏אכלתי יותר מ�
 it	Sono un po' stordito. Ho mangiato troppo bacon. 
 nl	Beetje duizelig. Ik at te veel bacon bits. 
 no	Litt svimmel. Jeg spiste for mange Bacon Bits. 
-pr-br	Estou meio tonto. Comi Bacon Bits demais. 
-pr	Estou um pouco tonto. Comi demasiadas aparas de  bacon. 
+pt-br	Estou meio tonto. Comi Bacon Bits demais. 
+pt	Estou um pouco tonto. Comi demasiadas aparas de  bacon. 
 ro	Poate sunt un pic amețit. Am mâncat cam mult boabe cu șuncă. 
 sv	Jag är lite yr. Jag åt för många baconbitar. 
 th	แค่มึนนิดหน่อย | กินเบคอนบิตส์เยอะไปหน่อย | 

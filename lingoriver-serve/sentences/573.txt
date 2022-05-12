@@ -14,8 +14,8 @@ fr	D'après le médecin, il n'en a plus pour longtemps.
 he	&rlm;‏‏הרופאים אומרים שזה יכול לקרות | &rlm;‏כל יום עכשיו.‏ | 
 it	Secondo il medico è questione di giorni. 
 nl	Volgens de artsen kan het elke dag gebeuren. 
-pr-br	Os médicos dizem que pode ir a qualquer momento. 
-pr	Os médicos dizem que pode ser a qualquer momento. 
+pt-br	Os médicos dizem que pode ir a qualquer momento. 
+pt	Os médicos dizem que pode ser a qualquer momento. 
 ro	Doctorii spun că nu mai are mult. 
 sv	Läkarna säger att det inte dröjer länge. 
 tr	Doktorlar artık her an ölebilir diyor. 

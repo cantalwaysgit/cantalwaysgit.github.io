@@ -13,8 +13,8 @@ he	&rlm;‏‏תודה. | &rlm;‏-אני הולך להפסיד.‏ |
 it	- Grazie. - Perderò. 
 no	-Takk. -Jeg kommer til å tape. 
 pl	- Dziękuję. - Przegram. 
-pr-br	-Obrigado. -Vou perder. 
-pr	- Obrigado. - Vou perder. 
+pt-br	-Obrigado. -Vou perder. 
+pt	- Obrigado. - Vou perder. 
 ro	- Mersi. - O să pierd. 
 sv	-Tack. -Jag kommer att förlora. 
 th	- ขอบคุณ | - ผมจะแพ้ | 

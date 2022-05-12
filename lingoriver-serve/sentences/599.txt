@@ -14,8 +14,8 @@ ko	정말 예쁘네 |
 nl	Je bent prachtig. 
 no	Du ser flott ut. 
 pl	Wyglądasz bosko. 
-pr-br	Você está incrível. 
-pr	Estás deslumbrante. 
+pt-br	Você está incrível. 
+pt	Estás deslumbrante. 
 ro	Ești superbă! 
 sv	Du är jättesnygg. 
 th	คุณดูสวยมาก | 

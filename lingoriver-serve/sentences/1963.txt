@@ -12,8 +12,8 @@ it	Ehi! Fai schifo!
 ko	당신 더럽게 못 해! | 
 no	Hei! Du suger! 
 pl	Hej! Jesteś do bani! 
-pr-br	Ei! Você é uma droga! 
-pr	Tu aí! Metes nojo! 
+pt-br	Ei! Você é uma droga! 
+pt	Tu aí! Metes nojo! 
 ro	Ești varză! 
 sv	Du där! Du suger! 
 th	เฮ้ย เฮ้ย แกห่วย | 

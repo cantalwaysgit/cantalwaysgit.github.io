@@ -11,8 +11,8 @@ it	Hai lavorato con Harrison Ford?
 ko	해리슨 포드하고 | 같이 일했다고요? | 
 nl	Werkte je met Harrison Ford? 
 pl	Harrison Ford? 
-pr-br	Você trabalhou com Harrison Ford? 
-pr	Trabalhou com o Harrison Ford? 
+pt-br	Você trabalhou com Harrison Ford? 
+pt	Trabalhou com o Harrison Ford? 
 ro	Ai lucrat cu Harrison Ford? 
 ru	Ваш клиент - Харрисон Форд? 
 sv	Har du jobbat med Harrison Ford? 

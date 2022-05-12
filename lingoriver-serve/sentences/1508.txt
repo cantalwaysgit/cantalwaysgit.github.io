@@ -9,8 +9,8 @@ id	- Sandy. - Jika kau bisa...
 it	- Sandy... - Vorrei che tu ci mettessi 
 ko	- 샌디... | - 좋게 얘기 좀 | 
 no	-Sandy... -Om du kan 
-pr-br	-Sandy... -Se puder 
-pr	- Sandy... - Se podias 
+pt-br	-Sandy... -Se puder 
+pt	- Sandy... - Se podias 
 sv	-Sandy... -Om du bara kunde 
 th	- แซนดี้ | - หากคุณแค่ | 
 tr	-Sandy... -Hatırım için 
@@ -34,8 +34,8 @@ he	&rlm;‏לומר עליי מילה טובה.‏ |
 id	bicarakan hal baik tentang dia. Itu saja. 
 it	una buona parola. 
 ko	해주실 수 있나 해서요 | 
-pr-br	me dar uma mãozinha. 
-pr	dar aí um toque a meu favor. 
+pt-br	me dar uma mãozinha. 
+pt	dar aí um toque a meu favor. 
 sv	lägga ett gott ord för mig. 
 th	หากคุณจะช่วยพูดถึงเขาแทนผมให้ที | 
 tr	olumlu birkaç şey söylesen... 
@@ -57,8 +57,8 @@ it	Magari metti una sua foto sulla scrivania.
 ko	책상 위에 얼굴 사진이라도 | 올려둬 봐요 | 
 nl	Leg zijn foto op zijn bureau. 
 pl	Podrzuć na biurko jego zdjęcie. 
-pr-br	Talvez colocar uma foto dele na mesa. 
-pr	Talvez pôr a foto dele na secretária. 
+pt-br	Talvez colocar uma foto dele na mesa. 
+pt	Talvez pôr a foto dele na secretária. 
 ro	Poate să-i pui poza pe birou. 
 ru	Положи фото на его стол. 
 sv	Lägga hans bild på hans skrivbord. 

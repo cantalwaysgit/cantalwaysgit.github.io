@@ -13,8 +13,8 @@ it	- Volete ascoltarla? - Sì!
 ko	- 들어볼래, 얘들아? | - 좋아요! | 
 no	-Vil dere høre? -Ja! 
 pl	- Chcecie posłuchać, dzieci? - Tak! 
-pr-br	-Gostariam de ouvir, crianças? -Sim! 
-pr	- Querem ouvir? - Sim! 
+pt-br	-Gostariam de ouvir, crianças? -Sim! 
+pt	- Querem ouvir? - Sim! 
 ro	- Vreți s-o auziți, copii? - Da! 
 sv	-Vill ni höra det? -Ja! 
 th	- อยากได้ยินไหม เด็กๆ | - อยาก | 

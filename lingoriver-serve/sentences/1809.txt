@@ -11,8 +11,8 @@ it	No. Sulla confezione non c'è scritto.
 nl	Dat stond niet op de doos. 
 no	Nei. Det sto ikke det på esken. 
 pl	Na pudełku nie było napisane. 
-pr-br	Não estava escrito isso na embalagem. 
-pr	Não. Não dizia isso na caixa. 
+pt-br	Não estava escrito isso na embalagem. 
+pt	Não. Não dizia isso na caixa. 
 ro	Nu. Nu scria așa pe cutie. 
 th	ไม่ใช่ บนกล่องไม่ได้เขียนไว้ | 
 tr	Hayır. Kutuda öyle yazmıyordu. 

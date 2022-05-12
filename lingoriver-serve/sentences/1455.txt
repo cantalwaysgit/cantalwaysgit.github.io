@@ -12,8 +12,8 @@ it	- Lo farà. - Hai visto la sua stazza?
 nl	Hij doet het. -Zie je hoe groot hij is? 
 no	-Selvsagt. -Ser du hvor stor han er? 
 pl	- Zrobi to. - To olbrzym. 
-pr-br	-Ele vai tirar. -Viu o tamanho do cara? 
-pr	- Ele faz isso. - Já viste o tamanho dele? 
+pt-br	-Ele vai tirar. -Viu o tamanho do cara? 
+pt	- Ele faz isso. - Já viste o tamanho dele? 
 ro	- O va face. - Ai văzut cât e? 
 sv	-Han gör det. -Ser du hur stor han är? 
 th	- เขาจะทำให้ | - ดูขนาดหมอนี่ได้ไหม | 

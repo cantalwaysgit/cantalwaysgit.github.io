@@ -15,8 +15,8 @@ ko	어때요? 같이 일할까요? |
 nl	Wat zeg je ervan? Doe je het? 
 no	Hva sier du? Er du med? 
 pl	To jak? Działamy razem? 
-pr-br	O que acha? Quer trabalhar comigo? 
-pr	O que diz? Quer fazer equipa comigo? 
+pt-br	O que acha? Quer trabalhar comigo? 
+pt	O que diz? Quer fazer equipa comigo? 
 ro	Ce zici? Facem echipă? 
 sv	Vad säger du? Ska vi bli ett team? 
 th	ว่าไงครับ อยากร่วมทีมกันไหม | 

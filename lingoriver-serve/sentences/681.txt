@@ -15,8 +15,8 @@ it	- Dai piccola, dacci dentro. - Bene.
 ko	- 좋아, 시작하자 | - 네 | 
 no	-Kom igjen. -Ok. 
 pl	- Dajesz, mała. - OK. 
-pr-br	-Vamos mandar ver, garota. -Está bem. 
-pr	- Muito bem, vamos a isso. - Está bem. 
+pt-br	-Vamos mandar ver, garota. -Está bem. 
+pt	- Muito bem, vamos a isso. - Está bem. 
 ro	- Bine, puștoaico, să-i dăm gata! - Bine. 
 sv	-Okej, vännen, ge järnet. -Okej. 
 th	- โอเค เด็กน้อย เริ่มได้เลย | - โอเค | 

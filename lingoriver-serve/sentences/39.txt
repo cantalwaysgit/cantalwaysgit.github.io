@@ -14,8 +14,8 @@ ko	자네랑 매니저는 어떻게 지내? | 요즘도 싸우나? |
 nl	Hoe gaat het met je manager? Nog steeds ruzie? 
 no	Krangler du fortsatt med manageren din? 
 pl	Dalej się kłócisz ze swoim menedżerem? 
-pr-br	Como está com o seu empresário? Ainda brigam muito? 
-pr	Como vão as coisas com o teu empresário? Continuam às turras? 
+pt-br	Como está com o seu empresário? Ainda brigam muito? 
+pt	Como vão as coisas com o teu empresário? Continuam às turras? 
 ro	Cum te mai înțelegi cu impresarul tău? Vă mai certați? 
 ru	Как твой менеджер? Всё ругаетесь? 
 sv	Bråkar du och din manager fortfarande? 

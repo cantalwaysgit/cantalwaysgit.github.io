@@ -12,8 +12,8 @@ it	Vorrei che noi... L'ha detto la prima volta.
 nl	Ik wilde... Hij zei het de eerste keer. 
 no	Skulle ønske vi kunne... Han sa det faktisk den første gangen. 
 pl	Chciałbym... Pierwszy raz też powiedział. 
-pr-br	Eu queria que nós... Ele disse na primeira vez. 
-pr	Quem dera que pudéssemos... Ele disse da primeira vez. 
+pt-br	Eu queria que nós... Ele disse na primeira vez. 
+pt	Quem dera que pudéssemos... Ele disse da primeira vez. 
 ro	Aș vrea să putem... Chiar a zis din prima. 
 sv	Jag önskar vi kunde... Han sa det första gången. 
 th	ก็หวังให้เป็น เขาพูดครั้งแรกนะ | 

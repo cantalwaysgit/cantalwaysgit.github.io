@@ -13,8 +13,8 @@ he	&rlm;‏לא התכוונתי להיכנס.‏ |
 it	Non mi sarei tuffata. 
 no	Jeg skulle ikke hoppe uti. 
 pl	Nie weszłabym. 
-pr-br	Eu não ia entrar. 
-pr	Eu não ia entrar. 
+pt-br	Eu não ia entrar. 
+pt	Eu não ia entrar. 
 ro	Nu intenționam să intru! 
 sv	Jag tänkte inte hoppa i. 
 th	ฉันไม่ได้จะลงไปซะหน่อย | 

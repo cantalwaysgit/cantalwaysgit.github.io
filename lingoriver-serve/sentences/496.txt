@@ -15,8 +15,8 @@ ko	- 할 거면 이 녀석을 해고해 | - 아무것도 안 해주는 놈이야
 nl	Als je iemand wilt ontslaan, ontsla hem. -Hij is nutteloos. Hij doet niks. 
 no	-Skal du sparke noen, spark ham. -Han er ubrukelig, gjør ingenting. 
 pl	- Jeśli już kogoś, to tę lalkę. - Jest bezużyteczny. Nic nie robi. 
-pr-br	-Se vai demitir alguém, que seja ele. -Ele é inútil. Não faz nada. 
-pr	- Se vais despedir alguém, que seja a ele. - Ele é inútil. Não faz nada. 
+pt-br	-Se vai demitir alguém, que seja ele. -Ele é inútil. Não faz nada. 
+pt	- Se vais despedir alguém, que seja a ele. - Ele é inútil. Não faz nada. 
 ro	- Mai curând, el ar trebui să plece. - Nu e bun de nimic. Nu face nimic. 
 sv	-Om du ska sparka nån, sparka honom. -Han är värdelös. Gör ingenting. 
 th	- ถ้าจะไล่ใครออก ไล่เขา | - เขาไม่มีประโยชน์ ไม่ทำอะไรเลย | 

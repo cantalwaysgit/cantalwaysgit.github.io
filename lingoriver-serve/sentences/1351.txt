@@ -13,8 +13,8 @@ ko	- 안 하는 편이... | - 가지 말고 있어요 |
 nl	Ik voel me beter als we niet... -Ga niet weg. Blijf. 
 no	-Det er best om vi... -Nei! Ikke gå. Bli her. 
 pl	- Chyba będzie lepiej, jeśli... - Zostań. Nie odchodź. 
-pr-br	-Eu ficaria melhor se nós não... -Não! Não vá embora. Fique. 
-pr	- Preferia que não... - Não te vás embora. Fica. 
+pt-br	-Eu ficaria melhor se nós não... -Não! Não vá embora. Fique. 
+pt	- Preferia que não... - Não te vás embora. Fica. 
 ro	- Ar fi mai bine să... - Nu pleca! Rămâi aici! 
 sv	-Det skulle kännas bättre om vi inte... -Gå inte. Stanna. 
 th	- ผมจะรู้สึกดีมากกว่าถ้าเราไม่... | - อย่า อย่าไป อยู่ที่นี่ | 

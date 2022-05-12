@@ -12,8 +12,8 @@ it	Quando sei nervoso, scatti. Sei fuori di testa.
 ko	긴장하거나 정신 장애 오면 | 혀를 그렇게 차더라 | 
 nl	Je klikt als je nerveus bent. Dat is psychotisch. 
 pl	Zawsze to robisz, kiedy się denerwujesz. 
-pr-br	Você estala quando fica nervoso. É psicótico. 
-pr	Estalas sempre a língua quando ficas nervoso. É psicótico. 
+pt-br	Você estala quando fica nervoso. É psicótico. 
+pt	Estalas sempre a língua quando ficas nervoso. É psicótico. 
 ro	Plescăi când ai emoții. Scoți omul din minți. 
 ru	Ты щелкаешь, когда нервничаешь. 
 sv	Du klickar när du blir nervös. Det är psykotiskt. 

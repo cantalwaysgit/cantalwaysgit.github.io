@@ -13,8 +13,8 @@ it	Grazie mille!
 ko	잘했어! | 
 no	Tusen takk! 
 pl	Dziękuję bardzo! 
-pr-br	Muito obrigado! 
-pr	Muito obrigado! 
+pt-br	Muito obrigado! 
+pt	Muito obrigado! 
 ro	Mulțumesc mult! 
 sv	Tack ska du ha! 
 th	ขอบใจมาก | 

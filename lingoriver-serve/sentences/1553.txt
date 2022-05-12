@@ -10,8 +10,8 @@ he	&rlm;‏דרך אגב, הכלבים הם אימון טוב ללב.‏ |
 it	A proposito, i cani sono perfetti per il cardiofitness. 
 no	Hundene er også gode til trening. 
 pl	A psy dobrze robią na kondycję. 
-pr	A propósito, os cães são um bom exercício de cardio. 
-pr-br	Aliás, os cachorros são bons para treinar aeróbico. 
+pt	A propósito, os cães são um bom exercício de cardio. 
+pt-br	Aliás, os cachorros são bons para treinar aeróbico. 
 ro	Apropo, câinii te ajută să faci cardio. 
 sv	Hundarna är bra för konditionen. 
 th	จะบอกให้ว่าพวกหมานั่นดีกับหัวใจ | 

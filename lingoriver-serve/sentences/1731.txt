@@ -10,8 +10,8 @@ he	&rlm;‏בסדר.‏ |
 it	Bene. 
 ko	알았어 | 
 pl	Dobra. 
-pr-br	Certo. 
-pr	Está bem. 
+pt-br	Certo. 
+pt	Está bem. 
 ro	Bine. 
 sv	Okej. 
 th	โอเค | 

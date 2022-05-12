@@ -11,8 +11,8 @@ fr	Mon corps frissonne
 he	&rlm;‏פרפרים‏ | 
 it	Farfalle... 
 ko	설렘 | 
-pr	Arrepios 
-pr-br	Arrepios 
+pt	Arrepios 
+pt-br	Arrepios 
 ro	Fluturi 
 sv	Fjärilar 
 tr	Kelebekler 

@@ -15,8 +15,8 @@ it	Emorroidi.
 ko	치질이라고요 | 
 no	Hemorroider. 
 pl	O, hemoroidy. 
-pr-br	Hemorroidas. 
-pr	Hemorroidas. 
+pt-br	Hemorroidas. 
+pt	Hemorroidas. 
 ro	Hemoroizi. 
 sv	Hemorrojder. 
 tr	Basur. 
@@ -36,8 +36,8 @@ he	&rlm;‏חכה. צא מהתחת שלי. צא מיד.‏ |
 it	Aspetta. Esci dal mio culo. Esci subito. 
 no	Vent. Kom deg ut av rumpa mi. 
 pl	Wynoś się z mojego tyłka. W tej chwili. 
-pr-br	Espere. Saia do meu rabo agora.  Saia daí já. 
-pr	Espera. Sai já do meu traseiro. 
+pt-br	Espere. Saia do meu rabo agora.  Saia daí já. 
+pt	Espera. Sai já do meu traseiro. 
 ro	Stai așa! Ieși din fundul meu! Ieși acum! 
 sv	Ut ur min rumpa. Ögonblickligen! 
 th	เดี๋ยว ออกมาจากก้นฉันนะ | ออกมาเดี๋ยวนี้ | 

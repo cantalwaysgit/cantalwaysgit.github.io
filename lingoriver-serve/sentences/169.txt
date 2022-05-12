@@ -15,8 +15,8 @@ ko	생각해 봤는데 | 해변 극장에서도 정말 잘하겠어 |
 nl	Je doet het nu zo goed met het strandpubliek. 
 no	Og jeg tenkte: Du gjør det så bra her nå. 
 pl	Wiesz, świetnie ci tu idzie. 
-pr-br	Eu estava pensando, você se daria bem com a plateia do teatro praiano. 
-pr	Estava a pensar que te darias tão bem com o pessoal do teatro de praia. 
+pt-br	Eu estava pensando, você se daria bem com a plateia do teatro praiano. 
+pt	Estava a pensar que te darias tão bem com o pessoal do teatro de praia. 
 ro	Mă gândeam că te descurci de minune acum cu publicul de la teatrul de vară. 
 sv	Det går ju så bra för dig nu med strandteaterns publik. 
 th	และฉันมาคิดๆ ดู ตอนนี้นายไปได้ดี | กับกลุ่มคนดูละครชายหาด | 

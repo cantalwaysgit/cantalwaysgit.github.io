@@ -11,8 +11,8 @@ it	Voglio la verità, figlio di puttana!
 ko	난 진실을 원해, 개자식아! | 
 nl	Ik wil de waarheid weten, klootzak. 
 pl	Muszę znać prawdę, sukinsynu! 
-pr-br	Preciso da verdade, seu filho da puta! 
-pr	Preciso de saber a verdade, seu filho da mãe! 
+pt-br	Preciso da verdade, seu filho da puta! 
+pt	Preciso de saber a verdade, seu filho da mãe! 
 ro	Vreau să știu adevărul, nenorocitule! 
 ru	Мне нужна правда, сукин сын! 
 sv	Jag vill veta sanningen, din jävel! 

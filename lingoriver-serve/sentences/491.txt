@@ -11,8 +11,8 @@ it	No. Non sto mentendo.
 ko	아니, 거짓말 아니야 | 
 no	Nei, det gjør jeg ikke. 
 pl	Nie kłamię. 
-pr-br	Não estou mentindo. 
-pr	Não estou a mentir. 
+pt-br	Não estou mentindo. 
+pt	Não estou a mentir. 
 ro	Ba nu. Nu mint. 
 ru	Нет. Я не вру. 
 sv	Nej, jag ljuger inte. 

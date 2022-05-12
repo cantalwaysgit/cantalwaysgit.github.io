@@ -12,8 +12,8 @@ it	Il gelato non mi piace. Pessima idea. È orribile.
 ko	아이스크림이 마음에 안 들어요 | 잘못 생각했어요, 끔찍해요 | 
 nl	Het ijsje vind ik niks. Slecht idee. Ziet er niet uit. 
 pl	Lód wylatuje. Kiepski pomysł. 
-pr-br	Não gosto do sorvete. É uma péssima ideia. Está péssimo. 
-pr	Sabes, não gosto do gelado. É má ideia. Fica horrível. 
+pt-br	Não gosto do sorvete. É uma péssima ideia. Está péssimo. 
+pt	Sabes, não gosto do gelado. É má ideia. Fica horrível. 
 sv	Jag gillar inte glassen. Dålig idé. Det ser hemskt ut. 
 vi	Tôi không thích kem. | Ý tưởng tồi. Chán chết. | 
 zh-long	知道嗎？我不喜歡冰淇淋 是個餿主意，超恐怖的 

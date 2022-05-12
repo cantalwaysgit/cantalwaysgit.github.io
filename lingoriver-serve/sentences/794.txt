@@ -11,8 +11,8 @@ it	tirando cocaina con Iggy Pop ed Etta James nel bayou.
 nl	...en coke snoof met Iggy Pop en Etta James. 
 no	og tok dop med Iggy Pop og Etta James i en bayou. 
 pl	i wciągająca w Luizjanie kokę z Iggym Popem i Ettą James. 
-pr	a snifar coca com o Iggy Pop e a Etta James num pântano. 
-pr-br	cheirando cocaína com Iggy Pop e Etta James em um pântano. 
+pt	a snifar coca com o Iggy Pop e a Etta James num pântano. 
+pt-br	cheirando cocaína com Iggy Pop e Etta James em um pântano. 
 ro	prizând cocaină cu Iggy Pop și Etta James în mlaștinile din sud. 
 sv	och snortat koks med Iggy Pop och Etta James i en bayou. 
 th	พี้โคเคนกับอิกกี้ ป็อป | และเอตตา เจมส์ที่หนองน้ำ | 

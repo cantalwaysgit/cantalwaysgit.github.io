@@ -9,8 +9,8 @@ fr	Faisons la réunion.
 he	&rlm;‏בוא נערוך את הפגישה.‏ | 
 it	Pensiamo alla riunione. 
 nl	We gaan vergaderen. 
-pr-br	Vamos fazer a reunião. 
-pr	Vamos à reunião. 
+pt-br	Vamos fazer a reunião. 
+pt	Vamos à reunião. 
 ro	Să începem ședința. 
 sv	Nu kör vi mötet. 
 th	มาประชุมกันเถอะ | 

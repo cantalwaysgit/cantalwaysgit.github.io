@@ -15,8 +15,8 @@ ko	왜 이걸 하세요? |
 nl	Waarom doe je dit? 
 no	...hvorfor gjør du dette? 
 pl	Czemu występujesz? 
-pr-br	por que você faz esse trabalho? 
-pr	Porque faz isto? 
+pt-br	por que você faz esse trabalho? 
+pt	Porque faz isto? 
 ro	De ce faci ceea ce faci? 
 sv	Varför gör du det du gör? 
 th	ทำไมถึงทำสิ่งที่ทำอยู่ | 

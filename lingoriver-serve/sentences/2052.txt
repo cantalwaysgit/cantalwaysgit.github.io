@@ -14,8 +14,8 @@ ko	아니, 됐어요 | 종교는 상관없어요 |
 nl	Nee. Prima. Allebei. 
 no	Nei. Det går bra. Det er det samme for meg. 
 pl	Dla mnie tam bez różnicy. 
-pr-br	Não, tudo bem. Tanto faz. Estou bem. 
-pr	Não há problema. Por mim, tanto faz. 
+pt-br	Não, tudo bem. Tanto faz. Estou bem. 
+pt	Não há problema. Por mim, tanto faz. 
 ro	Nu. E-n regulă. Mie-mi convine oricum. 
 sv	Nej. Det är bra. Spelar ingen roll vilket. 
 th	ไม่ๆ ไม่เป็นไร | แบบไหนก็ได้ ผมโอเค | 

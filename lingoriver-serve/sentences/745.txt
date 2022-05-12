@@ -10,8 +10,8 @@ he	&rlm;‏‏אני יכולה? | &rlm;‏-ממש שם.‏ |
 it	- Posso? - Accomodati. 
 ko	- 저도 한번... | - 가 보세요 | 
 nl	Mag ik? -Daar. 
-pr-br	-Posso? -Bem ali. 
-pr	- Posso? - Ali adiante. 
+pt-br	-Posso? -Bem ali. 
+pt	- Posso? - Ali adiante. 
 ro	- Pot încerca? - Acolo. 
 sv	-Får jag? -Precis där. 
 th	- ขอลองได้ไหม | - ตรงนั้น | 

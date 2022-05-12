@@ -7,8 +7,8 @@ es-eu	Tengo que ir a Nueva York mañana
 fr	Je dois être à New York demain 
 it	Domani dovrei andare a New York 
 pl	Jutro lecę do Nowego Jorku. 
-pr	Amanhã tenho de ir para Nova Iorque 
-pr-br	Preciso ir para Nova York amanhã 
+pt	Amanhã tenho de ir para Nova Iorque 
+pt-br	Preciso ir para Nova York amanhã 
 vi	Ngày mai tôi phải đi New York | 
 zh-long	我明天得去紐約 
 zh-short	我明天要去纽约 

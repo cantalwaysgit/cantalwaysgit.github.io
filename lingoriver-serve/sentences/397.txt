@@ -13,8 +13,8 @@ ko	자세 전문가, 헤어 전문가 |
 nl	Iemand voor de houding en het haar. 
 no	En holdningstrener, og en som jobbet med hår. 
 pl	Korekta postawy, fryzjer. 
-pr-br	Uma pessoa para a postura e um cabeleireiro. 
-pr	Uma pessoa que corrigia a postura e uma que tratava do cabelo. 
+pt-br	Uma pessoa para a postura e um cabeleireiro. 
+pt	Uma pessoa que corrigia a postura e uma que tratava do cabelo. 
 ro	Postură, coafură. 
 ru	Тренер по осанке, стилист. 
 sv	En kroppshållningsperson och sen en hårperson. 

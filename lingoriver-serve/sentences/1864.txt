@@ -15,8 +15,8 @@ it	Probabilmente dovuto allo stress. E alla carne.
 ko	아마 스트레스랑 | 고기 때문일 거예요 | 
 no	Det skyldtes nok stress. Og kjøtt. 
 pl	Za dużo stresu i mięsa. 
-pr-br	Provavelmente devido ao estresse. E carne. 
-pr	Provavelmente devido ao  stress . E à carne. 
+pt-br	Provavelmente devido ao estresse. E carne. 
+pt	Provavelmente devido ao  stress . E à carne. 
 ro	Probabil din cauza stresului. Și a cărnii. 
 th	อาจเกิดจากความเครียดและเนื้อ | 
 tr	Herhâlde strestendir. Ve et yemekten. 

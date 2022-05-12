@@ -13,8 +13,8 @@ ko	베이비페이스가 제작했다고요? | 우리가 아는 베이비페이�
 nl	Produceerde Babyface het? De Babyface? 
 no	Har Babyface produsert det? 
 pl	Babyface to produkował? Ten Babyface? 
-pr-br	Babyface produziu? O Babyface mesmo? 
-pr	Foi produzido pelo Babyface? "O" Babyface? 
+pt-br	Babyface produziu? O Babyface mesmo? 
+pt	Foi produzido pelo Babyface? "O" Babyface? 
 ro	L-a produs Babyface? Acel Babyface? 
 ru	Продюсер - Бэбифейс? Тот самый? 
 sv	Har Babyface producerat det? Som den Babyface? 

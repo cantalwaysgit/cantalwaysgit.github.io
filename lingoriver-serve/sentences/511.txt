@@ -17,8 +17,8 @@ he	&rlm;‏באמת.‏ |
 it	Ma dai. 
 ko	뭐야, 또 | 
 no	Ærlig talt. 
-pr-br	Qual é? 
-pr	Por favor. 
+pt-br	Qual é? 
+pt	Por favor. 
 ro	Zău așa! 
 sv	Lägg av. 
 zh-long	搞什麼！ 

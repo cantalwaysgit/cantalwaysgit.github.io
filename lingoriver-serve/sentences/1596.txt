@@ -13,8 +13,8 @@ he	&rlm;‏‏ספרי לי. | &rlm;‏-יש חברה חדשה שנקראת "פ�
 it	- Dimmi. - Una nuova casa di produzione, la Pixar. 
 ko	- 말해 봐, 픽사 | - 픽사라는 신생 회사인데 | 
 no	-Fortell. -Det er et nytt selskap: Pixar. 
-pr-br	-Diga. -É uma nova empresa chamada Pixar. 
-pr	- Diz-me. - Há uma empresa nova chamada Pixar. 
+pt-br	-Diga. -É uma nova empresa chamada Pixar. 
+pt	- Diz-me. - Há uma empresa nova chamada Pixar. 
 ro	- Spune-mi. - E o companie nouă, Pixar. 
 sv	-Berätta. -Det är ett nytt bolag som heter Pixar. 
 th	- บอกหน่อย | - มีบริษัทใหม่ชื่อว่าพิกซาร์ | 

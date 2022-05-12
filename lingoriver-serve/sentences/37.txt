@@ -15,8 +15,8 @@ ko	그날 자네 정말 웃겼어 | 아무도 카누를 못 맞혔잖아 |
 nl	Je was zo grappig. Niemand raadde het woord kano. 
 no	Du var så morsom. Ingen klarte å gjette ordet "kano". 
 pl	Ale byłeś wtedy zabawny. Nie mogli zgadnąć słowa „kajak”. 
-pr-br	Estava hilário aquela noite. Ninguém acertava a palavra "canoa". 
-pr	Estavas hilariante nessa noite. Ninguém adivinhou a palavra "canoa". 
+pt-br	Estava hilário aquela noite. Ninguém acertava a palavra "canoa". 
+pt	Estavas hilariante nessa noite. Ninguém adivinhou a palavra "canoa". 
 ro	Ți-ai ieșit din minți în seara aia. Nu ghicea nimeni cuvântul "canoe". 
 sv	Du var hysteriskt rolig. Ingen kunde ordet kanot. 
 th	คืนนั้นคุณสุดยอดเลย | ไม่มีใครทายคำว่าแคนูถูก | 

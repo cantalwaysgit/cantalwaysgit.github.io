@@ -11,8 +11,8 @@ he	&rlm;‏תן לי לנסות אחד אחר.‏ |
 it	Proviamone un altro. 
 no	Vi prøver en annen. 
 pl	Dam ci kolejne. 
-pr-br	Vou tentar outro. 
-pr	Deixa-me provar outro. 
+pt-br	Vou tentar outro. 
+pt	Deixa-me provar outro. 
 ro	Să mai încercăm unul. 
 sv	Vi kan pröva ett annat. 
 th	งั้นมาลองอีกขวด | 
@@ -37,8 +37,8 @@ ko	- 61년산 샤토 페트뤼스? | - 좋아요 |
 nl	Beneden heb ik een Château Pétrus uit '61. 
 no	-Jeg har en '61 Château Pétrus. -Ok. 
 pl	Na dole mam Chateau Pétrus z 1961. 
-pr-br	-Tenho um Chateau Petrus 61 lá embaixo. -Certo. 
-pr	- Tenho um Château Pétrus de 1961. - Está bem. 
+pt-br	-Tenho um Chateau Petrus 61 lá embaixo. -Certo. 
+pt	- Tenho um Château Pétrus de 1961. - Está bem. 
 ro	- În pivniță e un Château Pétrus, din '61. - Bine. 
 sv	-Jag har en Château Pétrus årgång 61. -Okej. 
 th	- ข้างล่างผมมีชาโตเพทรูสปี 61 | - โอเค | 

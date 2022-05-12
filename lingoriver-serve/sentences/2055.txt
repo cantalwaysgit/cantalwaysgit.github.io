@@ -13,8 +13,8 @@ ko	한편, 반대편 동네에 있던 | 에릭 레먼소프는 계속 기다렸�
 nl	Ondertussen stond Eric Lamonsoff te wachten bij het altaar. 
 no	Samtidig sto Eric Lamonsoff og ventet ved alteret. 
 pl	Na drugim końcu miasta przed ołtarzem czekał Eric Lamonsoff. 
-pr-br	Enquanto isso, Eric Lamonsoff estava esperando no altar. 
-pr	Entretanto, o Eric Lamonsoff estava à espera no altar. 
+pt-br	Enquanto isso, Eric Lamonsoff estava esperando no altar. 
+pt	Entretanto, o Eric Lamonsoff estava à espera no altar. 
 ro	Între timp, Eric Lamonsoff era în colțul opus al orașului, la altar. 
 ru	А Эрик Ламонсофф в это время ждал у алтаря. 
 sv	Under tiden stod Eric Lamonsoff och väntade vid altaret. 

@@ -12,8 +12,8 @@ fr	Tu veux que je fasse quoi ?
 he	&rlm;‏מה אתה רוצה שאעשה?‏ | 
 it	Cosa vuoi che faccia? 
 nl	Wat wil je dat ik doe? 
-pr-br	O que quer que eu faça? 
-pr	O que queres que eu faça? 
+pt-br	O que quer que eu faça? 
+pt	O que queres que eu faça? 
 ro	Ce vrei tu să fac? 
 sv	Vad ska jag göra? 
 th	คุณอยากให้ฉันทำอะไร | 

@@ -12,8 +12,8 @@ he	&rlm;‏מה?‏ |
 it	Cosa? 
 ko	뭐야? | 
 pl	Co to? 
-pr-br	Quê? 
-pr	O quê? 
+pt-br	Quê? 
+pt	O quê? 
 ro	Ce? 
 sv	Vadå? 
 th	อะไรเนี่ย | 

@@ -15,8 +15,8 @@ ko	조금 더 보여줄 생각이었는데 |
 nl	Ik wilde je nog meer laten zien. 
 no	Jeg skulle vise deg litt mer. 
 pl	Chciałem ci jeszcze pokazać. 
-pr-br	Eu ia mostrar mais, mas tudo bem. 
-pr	Ia mostrar-te mais um pouco. 
+pt-br	Eu ia mostrar mais, mas tudo bem. 
+pt	Ia mostrar-te mais um pouco. 
 ro	Voiam să-ți arăt mai mult. 
 sv	Jag tänkte visa dig lite mer. 
 th	กะจะโชว์คุณอีกหน่อย | 

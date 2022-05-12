@@ -14,8 +14,8 @@ ko	솔직히 말하면... | 좀 외로워요 |
 nl	Eigenlijk ben ik een beetje eenzaam. 
 no	Sannheten er at jeg er litt ensom. 
 pl	Szczerze mówiąc, czuję się trochę samotna. 
-pr	A verdade é que me sinto... Sinto-me um bocadinho só. 
-pr-br	A verdade é que eu estou meio solitária. 
+pt	A verdade é que me sinto... Sinto-me um bocadinho só. 
+pt-br	A verdade é que eu estou meio solitária. 
 ro	Adevărul e că mă simt puțin singură. 
 ru	По правде говоря... мне немного одиноко. 
 sv	Sanningen är den att jag känner mig ensam. 

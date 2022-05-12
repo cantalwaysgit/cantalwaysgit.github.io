@@ -11,8 +11,8 @@ it	Mi piace quel tipo.
 ko	그 남자 좋죠 | 
 nl	Die vind ik te gek. 
 pl	Uwielbiam go. 
-pr	Adoro esse tipo. 
-pr-br	Adoro aquele cara. 
+pt	Adoro esse tipo. 
+pt-br	Adoro aquele cara. 
 ro	Îl ador pe ăla. 
 sv	Jag älskar honom. 
 th	ชอบหมอนั่นจัง | 
@@ -36,8 +36,8 @@ it	Piace a tutti.
 ko	다들 그래요 | 
 nl	Dat vindt iedereen. 
 pl	Jak wszyscy. 
-pr-br	Todos adoram. 
-pr	Toda a gente adora. 
+pt-br	Todos adoram. 
+pt	Toda a gente adora. 
 sv	Det gör alla. 
 zh-long	大家都愛 
 zh-short	人人都是 

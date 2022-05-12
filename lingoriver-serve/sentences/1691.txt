@@ -15,8 +15,8 @@ ko	- 퍼루즈! | - 알았어 |
 nl	Firuz. -Goed dan. 
 no	-Firuz! -Greit. 
 pl	- Firuz! - No dobra. 
-pr-br	-Firuz! -Está bem. 
-pr	- Firuz! - Está bem. 
+pt-br	-Firuz! -Está bem. 
+pt	- Firuz! - Está bem. 
 ro	- Firuz! - Bine. 
 sv	-Firuz. -Okej. 
 th	- ไฟรูซ! | - เอาละ ก็ได้ | 

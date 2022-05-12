@@ -8,8 +8,8 @@ fi	Courtney?
 he	&rlm;‏קורטני?‏ | 
 it	Courtney? 
 no	Courtney? 
-pr-br	Courtney? 
-pr	Courtney? 
+pt-br	Courtney? 
+pt	Courtney? 
 ro	Courtney? 
 sv	Courtney? 
 th	คอร์ทนี่ย์ | 

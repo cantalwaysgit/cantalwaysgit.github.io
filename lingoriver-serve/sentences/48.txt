@@ -12,8 +12,8 @@ it	Un successo continuo, Arsenio!
 ko	계속 성공하길 빌게! | 
 nl	Blijvend succes. 
 pl	Życzę sukcesów, Arsenio! 
-pr-br	Sucesso contínuo, Arsenio! 
-pr	Votos de continuação de sucesso, Arsenio! 
+pt-br	Sucesso contínuo, Arsenio! 
+pt	Votos de continuação de sucesso, Arsenio! 
 ro	Succes în continuare, Arsenio! 
 sv	Fortsatt framgång! 
 th	สำเร็จต่อไปนะ อาเซนนิโอ | 

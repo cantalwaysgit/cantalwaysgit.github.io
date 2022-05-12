@@ -18,8 +18,8 @@ es	No lo sé.
 fi	En tiedä. 
 he	&rlm;‏אני לא יודעת.‏ | 
 it	Non lo so. 
-pr-br	Não sei. 
-pr	Não sei. 
+pt-br	Não sei. 
+pt	Não sei. 
 ro	Nu știu. 
 zh-long	不曉得 
 nl	Ik weet het niet. Het is uit met Billy. 

@@ -11,8 +11,8 @@ it	Ehi! Hai un bruco sul viso.
 ko	얼굴에 애벌레가 붙었어 | 
 nl	Hé. Er zit een rups op je gezicht. 
 pl	Masz na twarzy gąsienicę. 
-pr-br	Ei! Tem uma lagarta na sua cara. 
-pr	Tens uma lagarta na cara. 
+pt-br	Ei! Tem uma lagarta na sua cara. 
+pt	Tens uma lagarta na cara. 
 ro	Ai o omidă pe față. 
 sv	Du har en larv i ansiktet. 
 th	เฮ่ มีตัวบุ้งบนหน้านาย | 

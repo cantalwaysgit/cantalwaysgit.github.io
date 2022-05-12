@@ -14,8 +14,8 @@ ko	중력을 거스르러 온 |
 nl	...om de zwaartekracht te tarten... 
 no	han vil trosse tyngdekraften, 
 pl	przeczący prawu grawitacji, 
-pr	aqui presente para desafiar a gravidade, 
-pr-br	desafiando a gravidade, 
+pt	aqui presente para desafiar a gravidade, 
+pt-br	desafiando a gravidade, 
 ro	a venit să sfideze gravitația, 
 sv	här för att trotsa tyngdlagarna, 
 th	มาเพื่อท้าทายแรงโน้มถ่วงโลก | 
@@ -40,8 +40,8 @@ ko	와일드 게리 로버츠를 | 환영해 주세요! |
 nl	...is hier Wild Gary Roberts. 
 no	ta godt imot Wild Gary Roberts! 
 pl	Dziki Gary Roberts! 
-pr-br	por favor, vamos dar as boas-vindas ao Gary Roberts Selvagem! 
-pr	vamos dar as boas-vindas a Gary Roberts, o Selvagem! 
+pt-br	por favor, vamos dar as boas-vindas ao Gary Roberts Selvagem! 
+pt	vamos dar as boas-vindas a Gary Roberts, o Selvagem! 
 ro	vă rog să-l aplaudați pe Sălbaticul Gary Roberts! 
 sv	ge Wild Gary Roberts en stor applåd! 
 th	กรุณาต้อนรับแกรี่ โรเบิร์ตส์ สุดซ่า | 

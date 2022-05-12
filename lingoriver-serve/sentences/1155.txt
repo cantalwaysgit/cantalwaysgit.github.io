@@ -15,8 +15,8 @@ it	Togliere il numero dall'elenco.
 ko	전화번호부에 없는 번호요 | 
 nl	Een onbekend nummer. 
 pl	Musimy zastrzec twój numer. 
-pr-br	Um telefone que não conste na lista. 
-pr	Um número de telefone confidencial. 
+pt-br	Um telefone que não conste na lista. 
+pt	Um número de telefone confidencial. 
 ro	Un număr de telefon privat. 
 sv	Ett hemligt telefonnummer. 
 tr	Rehberde olmayan bir numara. 

@@ -15,8 +15,8 @@ ko	블링도 불렀어? |
 nl	Heb je Bling ook gebeld? 
 no	Ringte du Bling også? 
 pl	Zadzwoniłaś też do Blinga? 
-pr-br	Ligou para o Bling também? 
-pr	Também ligaste ao Bling? 
+pt-br	Ligou para o Bling também? 
+pt	Também ligaste ao Bling? 
 ro	L-ai sunat și pe Bling? 
 sv	Ringde du Bling också? 
 th	คุณโทรบอกบลิงก์ด้วยเหรอ | 

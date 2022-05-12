@@ -9,8 +9,8 @@ it	Ti sei inginocchiato
 ko	한쪽 무릎을 꿇고는 | 
 nl	je knielde voor me 
 pl	Uklęknąłeś 
-pr-br	Você ficou de joelhos 
-pr	E tu vieste ajoelhar 
+pt-br	Você ficou de joelhos 
+pt	E tu vieste ajoelhar 
 ro	Ai îngenuncheat 
 sv	Du gick ner på knä 
 th	คุณคุกเข่าลง | 
@@ -34,8 +34,8 @@ it	E mi hai chiesto di sposarti
 ko	내게 결혼하고 싶다고 했지 | 
 nl	en zei dat je met me wilde trouwen 
 pl	Oświadczyłeś się 
-pr-br	E disse que queria se casar comigo 
-pr	E disseste que querias casar 
+pt-br	E disse que queria se casar comigo 
+pt	E disseste que querias casar 
 ro	Ai zis că vrei să te însori cu mine 
 sv	Du ville gifta dig med mig 
 th	บอกว่าอยากแต่งงานกับฉัน | 

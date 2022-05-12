@@ -13,8 +13,8 @@ it	- La sig.na Gideon ti insegnerà. - Vieni con me.
 nl	Miss Gideon leert je dansen. 
 no	-Miss Gideon lærer deg bevegelser. -Jeg fikser det. 
 pl	- Nauczysz się, jak się ruszać. - Zajmę się tobą. 
-pr	- A Sra. Gideon vai ensinar-te a mexer. - Eu trato de ti. 
-pr-br	-A Srta. Gideon vai ensinar os passos. -Pode deixar. 
+pt	- A Sra. Gideon vai ensinar-te a mexer. - Eu trato de ti. 
+pt-br	-A Srta. Gideon vai ensinar os passos. -Pode deixar. 
 ro	- Dra Gideon te va învăța să te miști. - Mă ocup eu de tine. 
 sv	-Miss Gideon ska lära ut rörelser. -Följ mig. 
 th	- คุณกีเดียนจะสอนท่าเคลื่อนไหวให้ | - ฉันจะดูแลคุณเอง | 

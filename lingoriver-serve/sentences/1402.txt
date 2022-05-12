@@ -12,8 +12,8 @@ it	- Mi dispiace molto. - Figurati.
 ko	- 안타깝네, 그것참... | - 그럴 필요 없어요 | 
 nl	Dat spijt me. Dat is... -Hoeft niet. 
 pl	- Bardzo mi przykro. - Niepotrzebnie. 
-pr-br	-Bem, sinto muito. É... -Tudo bem. 
-pr	- Lamento muito. Isso é... - Não lamentes. 
+pt-br	-Bem, sinto muito. É... -Tudo bem. 
+pt	- Lamento muito. Isso é... - Não lamentes. 
 ro	- Îmi pare rău. Asta e... - Să nu-ți fie! 
 sv	-Jag är ledsen. Det är... -Var inte det. 
 th	- เสียใจด้วยจริงๆ นั่น... | - ไม่ต้องเลย | 

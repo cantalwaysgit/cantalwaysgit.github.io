@@ -11,8 +11,8 @@ it	L'ho inseguito per diversi isolati.
 nl	Ik ben 'm zeven straten lang gevolgd. 
 no	Jeg jaget ham seks-sju kvartaler. 
 pl	Goniłem go kilka przecznic. 
-pr-br	Sim, o persegui por seis ou sete quadras. 
-pr	Persegui-o durante seis ou sete quarteirões. 
+pt-br	Sim, o persegui por seis ou sete quadras. 
+pt	Persegui-o durante seis ou sete quarteirões. 
 ro	Da, l-am urmărit pe șase sau șapte străzi. 
 sv	Jag jagade honom i sex kvarter. 
 th	ใช่ ฉันไล่กวดเขาอยู่หกเจ็ดช่วงถนน | 

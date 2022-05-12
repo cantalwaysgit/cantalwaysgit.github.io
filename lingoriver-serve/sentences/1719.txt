@@ -14,8 +14,8 @@ it	Devo ammettere che non ho dormito e sono molto stanco.
 nl	Ik geef het toe, ik heb niet geslapen en ik ben zo moe. 
 no	Jeg har sovet dårlig. Jeg er så trøtt. 
 pl	Nie wiem. Zmęczony jestem. 
-pr-br	Confesso que não ando dormindo. Estou cansado. 
-pr	Tenho de admitir que não tenho dormido. Estou cansado. 
+pt-br	Confesso que não ando dormindo. Estou cansado. 
+pt	Tenho de admitir que não tenho dormido. Estou cansado. 
 ro	Recunosc că n-am dormit. Sunt obosit. 
 sv	Jag måste erkänna, jag har inte sovit. Jag är trött. 
 th	ต้องยอมรับ ฉันไม่ได้นอน ฉันเหนื่อย | 

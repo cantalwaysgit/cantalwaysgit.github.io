@@ -14,8 +14,8 @@ it	Ora basta.
 nl	Genoeg. 
 no	Ikke mer. 
 pl	Koniec walki. 
-pr	Acabou. 
-pr-br	Basta. 
+pt	Acabou. 
+pt-br	Basta. 
 ro	Până aici. 
 sv	Inget mer. 
 th	ไม่เอาแล้ว | 

@@ -12,8 +12,8 @@ it	Non credo.
 ko	아닐걸 | 
 nl	Ik geloof het niet. 
 pl	Chyba nie. 
-pr	Acho que não. 
-pr-br	Acho que não. 
+pt	Acho que não. 
+pt-br	Acho que não. 
 ro	Nu cred. 
 sv	Det tror jag inte. 
 th	คิดว่าไม่นะ | 
@@ -33,8 +33,8 @@ he	&rlm;‏אולי זה גידול במוח.‏ |
 it	Forse hai un tumore al cervello. 
 ko	뇌종양인가 봐요 | 
 pl	Może masz raka mózgu. 
-pr-br	Talvez seja um tumor cerebral. 
-pr	Talvez seja um tumor cerebral. 
+pt-br	Talvez seja um tumor cerebral. 
+pt	Talvez seja um tumor cerebral. 
 ro	Poate ai o tumoră pe creier. 
 sv	Det kanske är en hjärntumör. 
 vi	Có lẽ là do u não. | 
@@ -59,8 +59,8 @@ it	Può darsi.
 ko	그런지도 몰라 | 
 no	Kanskje det er det. 
 pl	Może. 
-pr-br	Talvez seja. 
-pr	Talvez seja. 
+pt-br	Talvez seja. 
+pt	Talvez seja. 
 ro	Poate că da. 
 sv	Kanske det. 
 th	อาจจะใช่ | 

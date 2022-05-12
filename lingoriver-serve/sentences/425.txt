@@ -12,8 +12,8 @@ ko	섹시하게 해 봐요 | 섹시한 걸 생각해요 |
 nl	Denk aan iets wat sexy is, oké? 
 no	Gi meg sexy. Tenk på noe sexy. 
 pl	Więcej seksu. Pomyśl o czymś seksownym, złotko. 
-pr-br	Fique sexy para mim. Querida, pense em algo sexy. 
-pr	Dá-me sensualidade. Querida, pensa em algo sensual. 
+pt-br	Fique sexy para mim. Querida, pense em algo sexy. 
+pt	Dá-me sensualidade. Querida, pensa em algo sensual. 
 ro	Fii sexy! Scumpo, gândește-te la ceva sexy. 
 tr	Seksi ol. Hayatım, seksi bir şey düşün. 
 vi	Quyến rũ vào. | Hãy nghĩ đến cái gì đó gợi tình. | 

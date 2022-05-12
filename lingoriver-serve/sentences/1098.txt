@@ -11,8 +11,8 @@ it	Non uscire. Arrivo subito.
 nl	Blijf binnen. Ik kom eraan. 
 no	Bli der inne. Jeg kommer straks. 
 pl	Zostań w środku. Zaraz będę. 
-pr-br	Fique dentro de casa. Estou indo até aí. 
-pr	Fica dentro de casa. Vou já para aí. 
+pt-br	Fique dentro de casa. Estou indo até aí. 
+pt	Fica dentro de casa. Vou já para aí. 
 ro	Nu ieși din casă. Vin imediat. 
 sv	Stanna inomhus. Jag kommer direkt. 
 th	คุณอยู่แต่ในบ้านนะ ผมจะไปหาทันที | 

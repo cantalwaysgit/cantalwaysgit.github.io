@@ -14,8 +14,8 @@ it	Wexler Artists.
 ko	웩슬러 아티스트입니다 | 
 no	Wexler Artists. 
 pl	Wexler Artists. 
-pr-br	Artistas Wexler. 
-pr	Wexler Artists. 
+pt-br	Artistas Wexler. 
+pt	Wexler Artists. 
 ro	Wexler Artists. 
 sv	Wexler Artists. 
 th	เวกซเลอร์อาร์ทิสต์ส | 

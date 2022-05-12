@@ -10,8 +10,8 @@ he	&rlm;‏תודה על ההצעה, בסדר?‏ |
 it	Ma ti ringrazio per la proposta, ok? 
 nl	Bedankt voor het aanbod. 
 pl	Dziękuję za propozycję! 
-pr-br	Obrigado pela oferta. 
-pr	Obrigado pela oferta, está bem? 
+pt-br	Obrigado pela oferta. 
+pt	Obrigado pela oferta, está bem? 
 ro	Mersi de ofertă, da? 
 sv	Men tack för erbjudandet. 
 th	ขอบคุณที่มีใจ โอเคนะ | 

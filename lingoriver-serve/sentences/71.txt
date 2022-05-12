@@ -14,8 +14,8 @@ it	Grandioso.
 nl	Geweldig. 
 no	Det er flott. 
 pl	A to dobre. 
-pr-br	É incrível. 
-pr	Fantástico. 
+pt-br	É incrível. 
+pt	Fantástico. 
 ro	Grozav! 
 sv	Det var kul. 
 th	นั่นสุดยอด | 

@@ -8,8 +8,8 @@ fr	Dis-moi que je peux annuler.
 it	Dimmi che non ci devo andare. 
 nl	Zeg dat ik moet gaan. 
 no	Si at jeg ikke må dra. 
-pr-br	Diga que não preciso ir. 
-pr	Diz-me que não tenho de ir. 
+pt-br	Diga que não preciso ir. 
+pt	Diz-me que não tenho de ir. 
 ro	Spune-mi că nu trebuie să merg. 
 sv	Säg att jag inte måste. 
 th	บอกฉันสิว่าไม่ต้องไป | 

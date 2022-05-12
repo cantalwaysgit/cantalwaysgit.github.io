@@ -12,8 +12,8 @@ it	Dove sono? Nell'ufficio di Joel Silver e sto parlando di te.
 ko	어디냐고요? 지금 조엘 실버 | 사무실에서 당신 얘기 중이에요 | 
 nl	Ik ben in Joel Silvers kantoor en praat over jou. 
 pl	Gdzie jestem? W gabinecie Joela Silvera. Właśnie o tobie rozmawiamy. 
-pr-br	Onde estou? Estou no escritório de Joel Silver, falando de você. 
-pr	Onde estou? Estou no escritório do Joel Silver a falar sobre ti. 
+pt-br	Onde estou? Estou no escritório de Joel Silver, falando de você. 
+pt	Onde estou? Estou no escritório do Joel Silver a falar sobre ti. 
 ro	Unde sunt? Sunt în biroul lui Joel Silver și vorbeam despre tine. 
 ru	Где я? У Джоэла Сильвера, говорю с ним о тебе. 
 sv	Var jag är? Jag är på Joel Silvers kontor och pratar om dig. 

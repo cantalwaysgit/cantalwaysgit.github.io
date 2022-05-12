@@ -11,8 +11,8 @@ it	Email? Ne ho sentito parlare. Quale intendi?
 nl	Daar heb ik van gehoord. Welke bedoel je? 
 no	Jeg har hørt om det. Hvilken mener du? 
 pl	Pewnie, że słyszałem. Ale o której konkretnie mówisz? 
-pr-br	E-mail? Já ouvi falar. De qual você está falando? 
-pr	E-mail?  Já ouvi falar. Estás a falar de qual? 
+pt-br	E-mail? Já ouvi falar. De qual você está falando? 
+pt	E-mail?  Já ouvi falar. Estás a falar de qual? 
 ro	E-mail? Am auzit. La care te referi? 
 sv	E-post? Så klart jag gör. Vilken pratar du om? 
 th	อีเมล เคยได้ยิน อันไหนที่พูดถึงล่ะ | 

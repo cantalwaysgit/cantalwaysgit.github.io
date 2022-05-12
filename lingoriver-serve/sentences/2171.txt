@@ -14,8 +14,8 @@ it	- Beavis voleva dirti che è dispiaciuto. - Ok. Davvero? È dispiaciuto?
 nl	Beavis wilde sorry zeggen. -Oké. Meent hij dat? 
 no	-Beavis ville si unnskyld. -Ok. Er han lei for det? 
 pl	- Beavisowi jest przykro. - Naprawdę? Przykro mu? 
-pr-br	-Beavis sente muito. -Certo. Ele sente muito? 
-pr	- O Beavis queria pedir desculpa. - Está bem. Ele pede desculpa? 
+pt-br	-Beavis sente muito. -Certo. Ele sente muito? 
+pt	- O Beavis queria pedir desculpa. - Está bem. Ele pede desculpa? 
 ro	- Beavis vrea să-ți ceară scuze. - Bine. Da? Îi pare rău? 
 sv	-Beavis vill be om ursäkt. -Vill han be om ursäkt? 
 th	- บีวิสต้องการบอกว่าเขาเสียใจ | - โอเค งั้นเหรอ เขาเสียใจเหรอ | 

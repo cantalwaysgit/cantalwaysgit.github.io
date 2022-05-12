@@ -12,8 +12,8 @@ it	Ma non ci siamo tuffati. Nessuno ha toccato l'acqua.
 nl	Maar niet helemaal. Niemand raakte het water aan. 
 no	Men vi var ikke helt uti. Intet vann ble berørt. 
 pl	Nie weszliśmy do końca. Nie dotykaliśmy wody. 
-pr-br	Mas não entramos completamente. Ninguém tocou na água. 
-pr	Mas não chegámos a entrar. Não tocámos na água. 
+pt-br	Mas não entramos completamente. Ninguém tocou na água. 
+pt	Mas não chegámos a entrar. Não tocámos na água. 
 ro	Dar n-am intrat cu totul. N-am atins apa. 
 sv	Men vi hoppade inte i helt och hållet. Vi rörde inte vattnet. 
 th	แต่เราไม่ได้ลงไปสุดตัว | ไม่ได้แตะน้ำนะ | 

@@ -14,8 +14,8 @@ it	ma lo ha detto al Purim dell'anno scorso, quindi chissà?
 ko	작년 부림절에도 그랬으니 | 누가 알겠어요? | 
 nl	...maar vorig jaar zei hij voor Poerim, dus wie weet? 
 pl	a w zeszłym roku na Purim, więc kto to wie. 
-pr-br	mas ele falou que viria para o Purim ano passado, então, vai saber? 
-pr	mas disse o mesmo o ano passado no Purim, por isso, quem sabe? 
+pt-br	mas ele falou que viria para o Purim ano passado, então, vai saber? 
+pt	mas disse o mesmo o ano passado no Purim, por isso, quem sabe? 
 ro	dar a promis și anul trecut, de Purim, deci cine știe? 
 sv	men förra året sa han purim, så vem vet? 
 th	แต่ปีก่อนเขาบอกว่าจะมาช่วงปูริม | ก็เลย ใครจะรู้ได้ | 
@@ -39,8 +39,8 @@ it	Tu come stai? E tuo marito?
 ko	어떻게 지내세요? | 남편분은요? | 
 nl	Hoe is het met je? En met je man? 
 pl	Co u ciebie? Jak mąż? 
-pr-br	Como você está? Como está seu marido? 
-pr	Como estás? E o teu marido? 
+pt-br	Como você está? Como está seu marido? 
+pt	Como estás? E o teu marido? 
 ro	Ce mai faci? Ce mai face soțul tău? 
 sv	Hur är det? Hur mår din man? 
 th	คุณเป็นยังไงบ้าง สามีคุณล่ะ | 

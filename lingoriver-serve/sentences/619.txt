@@ -16,8 +16,8 @@ ko	- 그거 좋다 | - 진지 대마왕 아니에요 |
 nl	Leuk. -Hij is geen blije eikel. 
 no	-Digger det. -Han er ikke en dust. 
 pl	- Dobre. - Nieprawda. 
-pr	- Adoro isso. - Ele não é nenhum palerma. 
-pr-br	-Adorei. -Ele não é um cara de cuíca. 
+pt	- Adoro isso. - Ele não é nenhum palerma. 
+pt-br	-Adorei. -Ele não é um cara de cuíca. 
 ro	- Adorabil! - Nu e năuc. 
 sv	-Bra sagt! -Han är inte överentusiastisk. 
 tr	-Buna bayıldım. -Hiç de öyle değil. 
@@ -40,8 +40,8 @@ it	- È un tipo tosto. - D'accordo.
 nl	Hij is een bikkel. 
 no	-Han er tøff. -Ok. 
 pl	- To twardziel. - OK. 
-pr-br	-Ele é fodão. -Está bem. 
-pr	- É porreiro. - Está bem. 
+pt-br	-Ele é fodão. -Está bem. 
+pt	- É porreiro. - Está bem. 
 ro	- E un tip dur. - Bine. 
 sv	-Han är grym. -Visst. 
 th	- เขาเจ๋งสุดๆ | - ก็ได้ | 

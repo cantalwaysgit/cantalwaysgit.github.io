@@ -11,8 +11,8 @@ he	&rlm;‏‏זה המצב שלנו עכשיו. | &rlm;‏-בסדר.‏ |
 it	- La situazione è questa. - D'accordo. 
 ko	- 그럴 수밖에 없잖아 | - 알았어요 | 
 pl	- Tak wygląda sytuacja. - Dobra. 
-pr-br	-Essa é a situação agora. -Certo. 
-pr	- É isso que temos de fazer. - Está bem. 
+pt-br	-Essa é a situação agora. -Certo. 
+pt	- É isso que temos de fazer. - Está bem. 
 ro	- Asta e singura opțiune acum. - Bine. 
 sv	-Då bestämmer vi det nu. -Okej. 
 th	- นั่นแหละที่เราต้องทำ | - โอเค | 

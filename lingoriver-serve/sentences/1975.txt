@@ -14,8 +14,8 @@ ko	국제 전화니까 말 빨리해요 |
 nl	Het is een internationaal gesprek, dus praat snel. 
 no	Det er en utenlandssamtale, så snakk fort. 
 pl	To rozmowa międzynarodowa, więc się streszczaj. 
-pr-br	É uma ligação internacional, então fale logo, está bem? 
-pr	É uma chamada internacional. Fala depressa, está bem? 
+pt-br	É uma ligação internacional, então fale logo, está bem? 
+pt	É uma chamada internacional. Fala depressa, está bem? 
 ro	E un apel internațional, așa că vorbește repede, da? 
 sv	Det är ett utlandssamtal, så prata snabbt. 
 th	เป็นโทรทางไกล พูดเร็วๆ นะ โอเคไหม | 

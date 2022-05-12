@@ -15,8 +15,8 @@ ko	바브라 스트라이샌드는 | 체험 동물원 보조 가수였고요 |
 nl	Barbra Streisand begon als achtergrondzangeres op 'n kinderboerderij. 
 no	Barbra Streisand begynte som bakgrunnssanger i en dyrehage. 
 pl	Barbra Streisand zaczynała od występów w minizoo. 
-pr	A Barbra Streisand começou como cantora secundária num zoológico. 
-pr-br	Barbra Streisand começou como  backing vocal  em um minizoológico. 
+pt	A Barbra Streisand começou como cantora secundária num zoológico. 
+pt-br	Barbra Streisand começou como  backing vocal  em um minizoológico. 
 ro	Barbra Streisand era voce secundară într-un zoo pentru copii. 
 sv	Barbra Streisand började som doasångare på en djurpark. 
 th	บาร์บาร่า สไตรแซนด์เริ่มจากเป็น | นักร้องลูกคู่ในสวนสัตว์เด็ก | 

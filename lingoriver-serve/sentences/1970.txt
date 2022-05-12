@@ -11,8 +11,8 @@ it	Credo che avremo da fare.
 nl	Dan kunnen we niet. 
 no	Jeg tror vi er opptatt. 
 pl	Będziemy zajęci. 
-pr	Acho que vamos estar ocupados. 
-pr-br	Acho que estaremos ocupados. 
+pt	Acho que vamos estar ocupados. 
+pt-br	Acho que estaremos ocupados. 
 ro	Cred că vom fi ocupați. 
 sv	Jag tror vi är upptagna. 
 th	ฉันคิดว่าเราจะยุ่ง | 

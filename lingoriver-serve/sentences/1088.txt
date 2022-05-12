@@ -13,8 +13,8 @@ ko	두려울 수도 있어요 |
 nl	En dat kan eng zijn. 
 no	Og det er skummelt. Det kan være skummelt. 
 pl	To potrafi przerażać. 
-pr-br	É assustador. Pode assustar. 
-pr	É assustador. Pode ser assustador. 
+pt-br	É assustador. Pode assustar. 
+pt	É assustador. Pode ser assustador. 
 ro	Și e înspăimântător. Poate fi. 
 ru	И это страшно. Иногда страшно. 
 sv	Och det är läskigt. Det kan vara läskigt. 

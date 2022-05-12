@@ -11,8 +11,8 @@ it	Il campione è Martin Lawrence.
 nl	De kampioen is Martin Lawrence. 
 no	Mesteren: Martin Lawrence. 
 pl	Wygrywa Martin Lawrence. 
-pr-br	O campeão é Martin Lawrence. 
-pr	O campeão, Martin Lawrence. 
+pt-br	O campeão é Martin Lawrence. 
+pt	O campeão, Martin Lawrence. 
 ro	Campionul, Martin Lawrence! 
 sv	Mästaren, Martin Lawrence. 
 th	แชมป์คือ มาร์ติน ลอว์เรนซ์ | 

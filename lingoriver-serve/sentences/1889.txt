@@ -14,8 +14,8 @@ it	L'uomo che sto per sposare vive là.
 nl	De man met wie ik ga trouwen, woont daar. 
 no	Mannen jeg skal gifte meg med, bor der. 
 pl	Mieszka tam facet, za którego wychodzę. 
-pr-br	O cara com quem vou me casar mora lá. 
-pr	O tipo com quem me vou casar vive lá. 
+pt-br	O cara com quem vou me casar mora lá. 
+pt	O tipo com quem me vou casar vive lá. 
 ro	Tipul cu care mă mărit locuiește acolo. 
 sv	För att killen jag ska gifta mig med bor där. 
 tr	Evleneceğim adam orada oturuyor. 

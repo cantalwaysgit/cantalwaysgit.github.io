@@ -16,8 +16,8 @@ it	- Tu ne sai qualcosa. - Zitto.
 ko	- 너도 잘 알잖아 | - 닥쳐 | 
 no	-Det kjenner du til. -Kjeften. 
 pl	- To znasz. - Milcz. 
-pr-br	-Já passou por isso. -Cale a boca. 
-pr	- Sabes como é. - Cala-te. 
+pt-br	-Já passou por isso. -Cale a boca. 
+pt	- Sabes como é. - Cala-te. 
 ro	- Tu știi cum e. - Gura! 
 th	- นายเคยแล้วนี่ | - หุบปาก | 
 tr	-Bunu yaşadın. -Kapa çeneni. 

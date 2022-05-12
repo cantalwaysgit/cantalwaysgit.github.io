@@ -14,8 +14,8 @@ it	Devo prendermi una pausa dalla musica.
 nl	Ik wil even geen muziek maken. 
 no	Jeg trenger en pause fra musikken. 
 pl	Muszę odpocząć od muzyki. 
-pr-br	Preciso dar um tempo da música. 
-pr	Só preciso de uma pausa da música. 
+pt-br	Preciso dar um tempo da música. 
+pt	Só preciso de uma pausa da música. 
 ro	Am nevoie de o pauză de la muzică. 
 sv	Jag behöver en paus från musiken. 
 th	ฉันแค่อยากหยุดจากวงการเพลง | 

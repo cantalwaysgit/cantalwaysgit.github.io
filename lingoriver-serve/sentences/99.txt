@@ -11,8 +11,8 @@ he	&rlm;‏‏דיברתי עם "צ'ילי'ס". אני חושב שאוכל | &rl
 it	Ho chiamato Chili's. Ho chiesto il tavolo nell'angolo 
 no	Jeg snakket med Chili's. Jeg kan skaffe oss et hjørnebord der 
 pl	Rozmawiałem z Chili's. Chyba uda mi się załatwić stolik, 
-pr-br	Liguei para o Chili's. Acho que consigo a mesa do canto para nós 
-pr	Liguei para o Chili's. Acho que consigo reservar a mesa do canto 
+pt-br	Liguei para o Chili's. Acho que consigo a mesa do canto para nós 
+pt	Liguei para o Chili's. Acho que consigo reservar a mesa do canto 
 ro	Am vorbit la restaurant. Aș putea face rost de o masă acolo 
 th	คุยกับร้านชิลีส์แล้ว | คิดว่าขอโต๊ะมุมห้องให้เราได้ | 
 tr	Chili's'le konuştum. Oradaki köşe masayı kapıp 
@@ -40,8 +40,8 @@ he	&rlm;‏ולהזמין מראש מתאבנים.‏ |
 it	e ho preordinato gli antipasti. 
 no	og forhåndsbestille forretter. 
 pl	zamówimy przystawki. 
-pr-br	e reservar os aperitivos. 
-pr	e encomendar as entradas. 
+pt-br	e reservar os aperitivos. 
+pt	e encomendar as entradas. 
 ro	și să precomand aperitivele. 
 th	และสั่งอาหารเบาๆ ได้ล่วงหน้า | 
 tr	mezeleri sipariş edebilirim. 

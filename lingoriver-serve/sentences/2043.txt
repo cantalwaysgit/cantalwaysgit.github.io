@@ -11,8 +11,8 @@ he	&rlm;‏‏בוא נעשה את זה. | &rlm;‏-כן, בואי לא נעצב
 it	- Diamoci da fare. - Sì, non facciamolo arrabbiare. 
 nl	Laten we het doen. -Ja, we mogen hem niet boos maken. 
 no	-Kom igjen. -Ja, ikke gjør ham sint. 
-pr-br	-Vamos nessa. -Sim, não vamos deixá-lo bravo. 
-pr	- Vamos tratar disso. - Sim, é melhor não o enfurecer. 
+pt-br	-Vamos nessa. -Sim, não vamos deixá-lo bravo. 
+pt	- Vamos tratar disso. - Sim, é melhor não o enfurecer. 
 ro	- Să începem! - Da, să nu-l supărăm. 
 th	- มาทำพิธีกันเถอะ | - ใช่ อย่าทำให้เขาโกรธ | 
 tr	-Hadi bakalım. -Evet, onu kızdırmayalım. 
@@ -36,8 +36,8 @@ he	&rlm;‏אתה צודק.‏ |
 it	Giusto. 
 nl	Je hebt gelijk. 
 no	Du har rett. 
-pr-br	Você tem razão. 
-pr	Tens razão. 
+pt-br	Você tem razão. 
+pt	Tens razão. 
 ro	Ai dreptate. 
 th	พูดถูก | 
 tr	Haklısın. 

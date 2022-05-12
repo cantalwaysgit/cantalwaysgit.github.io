@@ -16,8 +16,8 @@ ko	그냥 생각해 | 조금 더 생각해 보라고 |
 nl	Gewoon denken. Iets meer denken. 
 no	Jeg tenker. Litt mer tenking her borte. 
 pl	Myślisz. Myślę sobie. 
-pr-br	Está bem. Pense. Um pouco mais de pensamento aqui. 
-pr	Está bem. Estou só a pensar. Vou pensar mais um bocadinho. 
+pt-br	Está bem. Pense. Um pouco mais de pensamento aqui. 
+pt	Está bem. Estou só a pensar. Vou pensar mais um bocadinho. 
 ro	Bine. Mă gândesc. Mă gândesc mai mult. 
 tr	Pekâlâ. Düşünelim. Biraz daha düşünelim. 
 vi	Được rồi. Chỉ nghĩ thôi. | Suy tư hơn chút nữa. | 

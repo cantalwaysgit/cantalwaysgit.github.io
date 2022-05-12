@@ -14,8 +14,8 @@ it	- Posso chiederti una cosa? - Prego.
 ko	- 하나만 부탁해도 돼요? | - 물론이죠 | 
 no	-Kan jeg spørre om noe? -Så klart. 
 pl	- Ja też mam pytanie. - Słucham. 
-pr-br	-Posso fazer uma pergunta? -Por favor. 
-pr	- Posso fazer uma pergunta? - Por favor. 
+pt-br	-Posso fazer uma pergunta? -Por favor. 
+pt	- Posso fazer uma pergunta? - Por favor. 
 ro	- Te pot întreba ceva? - Te rog. 
 sv	-Får jag fråga en sak? -Varsågod. 
 th	- ขอถามอะไรหน่อยสิคะ | - เชิญเลย | 

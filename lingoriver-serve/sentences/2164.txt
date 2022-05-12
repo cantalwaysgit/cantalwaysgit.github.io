@@ -13,8 +13,8 @@ he	&rlm;‏וקסלר אמנים.‏ |
 it	Wexler Artists. 
 no	Wexler Artists. 
 pl	Wexler Artists. 
-pr-br	Artistas Wexler. 
-pr	Wexler Artists. 
+pt-br	Artistas Wexler. 
+pt	Wexler Artists. 
 ro	Wexler Artists. 
 sv	Wexler Artists. 
 th	เวกซเลอร์อาร์ทิสต์ส | 

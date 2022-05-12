@@ -13,8 +13,8 @@ he	&rlm;‏תודה שהפחדת את הדביבון המטריד.‏ |
 it	Grazie per aver cacciato il procione maniaco. 
 nl	Bedankt dat je die wasbeer verjoeg. 
 pl	Dzięki za przegnanie szopa. 
-pr-br	Obrigada por espantar o guaxinim. 
-pr	Obrigada por afugentares o guaxinim perseguidor. 
+pt-br	Obrigada por espantar o guaxinim. 
+pt	Obrigada por afugentares o guaxinim perseguidor. 
 ro	Îți mulțumesc că ai speriat ratonul hărțuitor. 
 th	ขอบคุณที่มาไล่แร็กคูนไป | 
 tr	Takipçi rakunu korkuttuğun için sağ ol. 

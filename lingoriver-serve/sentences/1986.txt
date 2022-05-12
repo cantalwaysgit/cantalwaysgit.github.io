@@ -14,8 +14,8 @@ it	- È molto bella. - Grazie.
 ko	- 정말 아름다우세요 | - 고마워요 | 
 no	-Du er kjempefin. -Takk. 
 pl	- Wygląda pani ślicznie. - Dzięki. 
-pr-br	-Você está linda. -Obrigada. 
-pr	- Está muito bonita. - Obrigada. 
+pt-br	-Você está linda. -Obrigada. 
+pt	- Está muito bonita. - Obrigada. 
 ro	- Sunteți foarte frumoasă. - Mersi. 
 sv	-Du är vacker. -Tack. 
 th	- คุณสวยมาก | - ขอบคุณ | 

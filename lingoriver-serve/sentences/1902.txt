@@ -11,8 +11,8 @@ it	Certo.
 ko	그럼요 | 
 no	Ja da. 
 pl	Jasne. 
-pr-br	Claro. 
-pr	Claro. 
+pt-br	Claro. 
+pt	Claro. 
 ro	Sigur. 
 sv	Visst. 
 th	แน่นอน | 

@@ -14,8 +14,8 @@ ko	안절부절못했죠 |
 nl	Het was zenuwslopend. 
 no	Det var nervepirrende. Litt. 
 pl	Było ostro, to prawda. 
-pr-br	Foi enervante. Um pouco. 
-pr	Foi um bocadinho enervante. 
+pt-br	Foi enervante. Um pouco. 
+pt	Foi um bocadinho enervante. 
 ro	A fost stresant. Un pic. 
 ru	Это было страшно. Немного. 
 sv	Det var lite påfrestande faktiskt. 

@@ -10,8 +10,8 @@ it	Non si nota che parla?
 ko	말하는 게 안 보여요? | 
 nl	Hoor je hem niet praten? 
 pl	Widać, jak mówi? 
-pr-br	Não o vê falar? 
-pr	Não se vê a falar? 
+pt-br	Não o vê falar? 
+pt	Não se vê a falar? 
 ro	Nu se vede când vorbește? 
 tr	Konuştuğu görünmüyor mu? 
 vi	Anh không biết anh ta nói à? | 

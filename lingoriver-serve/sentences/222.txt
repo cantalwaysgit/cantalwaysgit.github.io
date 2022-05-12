@@ -12,8 +12,8 @@ ko	아니, 그랬다가 내가 | 쫓겨날 수도 있어 |
 nl	Nee. Dan word ik eruit gegooid. 
 no	Nei. Da kan jeg bli sparket ut herfra. 
 pl	Nie. Mógłbym przez to stąd wylecieć. 
-pr-br	Não. Isso me botaria para fora daqui. 
-pr	Não, pode levar a que me expulsem daqui. 
+pt-br	Não. Isso me botaria para fora daqui. 
+pt	Não, pode levar a que me expulsem daqui. 
 ro	Nu. M-ar putea da afară de aici pentru asta. 
 sv	Nej. Då kan jag bli utsparkad härifrån. 
 th	ไม่ได้ เดี๋ยวฉันถูกไล่ออกจากที่นี่ | 

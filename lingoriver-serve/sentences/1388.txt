@@ -14,8 +14,8 @@ ko	멋지네요! |
 nl	Kijk nou. 
 no	Se på deg! 
 pl	Spójrz tylko na siebie! 
-pr-br	Veja só você! 
-pr	Vejam só! 
+pt-br	Veja só você! 
+pt	Vejam só! 
 ro	Uită-te la tine! 
 sv	Se på dig. 
 th	ดูคุณสิ | 

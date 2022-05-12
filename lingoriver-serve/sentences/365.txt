@@ -17,8 +17,8 @@ fr	Celle-ci, juste là.
 he	&rlm;‏את הכוכב הזה שם.‏ | 
 it	Tu sei quella là. 
 nl	Jij bent die daar. 
-pr-br	Você é aquela lá. 
-pr	És aquela ali. 
+pt-br	Você é aquela lá. 
+pt	És aquela ali. 
 ro	Ești aia de acolo. 
 sv	Du är den precis där. 
 zh-long	那顆 

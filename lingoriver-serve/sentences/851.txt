@@ -8,8 +8,8 @@ fi	Siinä kävi näin.
 fr	Écoutez, Firuz. Je vous explique. 
 he	&rlm;‏תקשיב, פיירוז. הנה מה שקרה.‏ | 
 it	Ascolta, Firuz. Ti spiego come è andata. 
-pr-br	Ouça, Firuz. Eis o que aconteceu. 
-pr	Escuta, Firuz. Eis o que aconteceu. 
+pt-br	Ouça, Firuz. Eis o que aconteceu. 
+pt	Escuta, Firuz. Eis o que aconteceu. 
 ro	Firuz, uite cum s-a întâmplat! 
 sv	Hör på, Firuz. Så här gick det till. 
 th	ฟังนะ ไฟรูซ นี่คือสิ่งที่เกิดขึ้น | 

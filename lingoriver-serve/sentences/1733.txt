@@ -9,7 +9,7 @@ th	(อิมพรอฟ) | (คอเมดี้คลับและร้�
 vi	CÂU LẠC BỘ HÀI VÀ NHÀ HÀNG IMPROV | 
 zh-long	（即興表演喜劇餐酒館） 
 zh-short	（即兴创作表演 喜剧俱乐部和餐厅） 
-pr-br	Ele pode ir depois de qualquer um. 
+pt-br	Ele pode ir depois de qualquer um. 
 tr	Dedim sana, Bud. Herkesi takip edebilir. 
 da	Han kan følge hvem som helst. 
 fi	Hän voi esiintyä kenen tahansa jälkeen. 
@@ -27,7 +27,7 @@ fr	Il peut suivre n'importe qui.
 it	Può esibirsi dopo chiunque. 
 ko	누구든 따라 할 수 있어요 | 
 pl	Może być po każdym. 
-pr	Ele consegue imitar seja quem for. 
+pt	Ele consegue imitar seja quem for. 
 ro	Poate imita pe oricine. 
 sv	Han kan följa alla. 
 th	เขาตามใครก็ได้ | 

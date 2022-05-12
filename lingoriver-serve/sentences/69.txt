@@ -10,8 +10,8 @@ he	&rlm;‏לא, לא... |
 ko	저게 뭐야 | 
 no	Nei, nei. 
 pl	Nie, nie. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu! 
 ru	Нет. 
 sv	Nej, har man sett. 

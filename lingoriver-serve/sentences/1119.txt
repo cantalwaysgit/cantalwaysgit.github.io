@@ -12,8 +12,8 @@ ko	네가 겁내던 건 | 그냥 너구리였어 |
 nl	Waar je zo bang voor was, was maar een wasbeer. 
 no	Det du var så redd for, var bare en vaskebjørn. 
 pl	Bałaś się zwykłego szopa. 
-pr	Aquilo que te assustou era só um guaxinim. 
-pr-br	Você estava morrendo de medo de um guaxinim. 
+pt	Aquilo que te assustou era só um guaxinim. 
+pt-br	Você estava morrendo de medo de um guaxinim. 
 ro	Nu îți era frică decât de un raton. 
 sv	Det du var så rädd för var inget annat än en tvättbjörn. 
 th	ที่คุณกลัวหนักกลัวหนา | ไม่มีอะไรนอกจากตัวแร็กคูน | 

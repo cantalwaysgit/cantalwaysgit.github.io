@@ -14,8 +14,8 @@ ko	두 번째 경고야 | 퍼루즈는 뭐든지 알아 |
 nl	Fout twee. Firuz weet alles. 
 no	Andre advarsel! Firuz vet alt. 
 pl	Druga skucha. Firuz wie wszystko. 
-pr-br	Segunda bola fora! Firuz sabe de tudo. 
-pr	Segundo aviso! O Firuz sabe tudo. 
+pt-br	Segunda bola fora! Firuz sabe de tudo. 
+pt	Segundo aviso! O Firuz sabe tudo. 
 ro	Abaterea a doua! Firuz știe tot. 
 sv	Andra varningen! Firuz vet allt. 
 th	ทำผิดครั้งที่สอง ไฟรูซรู้ทุกอย่าง | 

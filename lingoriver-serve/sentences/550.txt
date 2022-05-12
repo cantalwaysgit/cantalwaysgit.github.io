@@ -14,8 +14,8 @@ ko	아티스트 총괄 관리자예요 |
 nl	Hij is hoofd A&R. 
 no	Han er leder for A&R. 
 pl	Jest łowcą talentów. 
-pr-br	Chefe de artistas e repertórios. 
-pr	É diretor de A&R. 
+pt-br	Chefe de artistas e repertórios. 
+pt	É diretor de A&R. 
 ro	E șef la Artiști și Repertorii. 
 ru	Главный по талантам. 
 sv	Han är chef för A&R. 

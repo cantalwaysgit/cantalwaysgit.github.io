@@ -15,8 +15,8 @@ ko	우리도, 아이들도 | 테드를 좋아해요 |
 nl	We zijn gek op Ted. En de kinderen ook. 
 no	Vi elsker Ted. Ungene elsker Ted. 
 pl	Polubiliśmy Teda. Dzieci też go polubiły. 
-pr	Adoramos o Ted. As crianças adoram o Ted. 
-pr-br	Amamos o Ted. As crianças amam o Ted. 
+pt	Adoramos o Ted. As crianças adoram o Ted. 
+pt-br	Amamos o Ted. As crianças amam o Ted. 
 ro	Îl adorăm pe Ted. Copiii îl adoră pe Ted. 
 sv	Vi älskar Ted. Ungarna älskar Ted. 
 th	เรารักเท็ด เด็กๆ รักเท็ด | 

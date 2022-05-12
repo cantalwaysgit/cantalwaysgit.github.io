@@ -13,8 +13,8 @@ it	- Sì, così. - Fantastica.
 nl	Dat is heel leuk. 
 no	-Sånn ja. -Nydelig. 
 pl	- Właśnie tak. - Cudownie. 
-pr-br	-Sim, é isso aí. -Que amor. 
-pr	- Sim, isso mesmo. - Adorável. 
+pt-br	-Sim, é isso aí. -Que amor. 
+pt	- Sim, isso mesmo. - Adorável. 
 ro	- Da. Așa! - Minunat! 
 tr	-Evet, işte bu. -Çok hoş. 
 vi	- Phải, đúng thế. | - Thật tuyệt. | 
@@ -37,8 +37,8 @@ it	Ecco la sensualità.
 nl	Ja, dat is sexy. 
 no	Ja, nå ser jeg sexy. 
 pl	Teraz widzę seks. 
-pr-br	Sim. Agora vejo sensualidade. 
-pr	Sim, agora vejo sensualidade. 
+pt-br	Sim. Agora vejo sensualidade. 
+pt	Sim, agora vejo sensualidade. 
 ro	Da. Acum ești sexy. 
 tr	Evet, şimdi seksi oldu işte. 
 vi	Tốt, tôi thấy quyến rũ rồi đấy. | 

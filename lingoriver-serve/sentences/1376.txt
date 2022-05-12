@@ -14,8 +14,8 @@ he	&rlm;‏‏הוא הורס את הבדיחות שלי. | &rlm;‏אני אמ�
 it	Sta rovinando le mie battute. Dovrei esserci io al suo posto. 
 nl	Hij doet mijn grappen. Ik hoor daar te staan. 
 no	Det er mine vitser. Det skulle vært meg. 
-pr-br	Com as minhas piadas. Eu deveria estar lá. 
-pr	Ele está a usar as minhas piadas. Devia ser eu. 
+pt-br	Com as minhas piadas. Eu deveria estar lá. 
+pt	Ele está a usar as minhas piadas. Devia ser eu. 
 ro	Îmi strică bancurile. Trebuia să fiu eu în locul lui. 
 sv	Han gör succé med mina skämt. Det borde vara jag. 
 th	เขาเล่นมุกของฉัน | ควรเป็นฉันบนเวทีนั่น | 

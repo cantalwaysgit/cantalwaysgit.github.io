@@ -12,8 +12,8 @@ it	Per questo lo propongo. Ai bambini piacerà un sacco.
 nl	Daarom begin ik erover. Kinderen vinden hem geweldig. 
 no	Det er derfor jeg nevner det. Ungene elsker ham. 
 pl	Dlatego o tym mówię. Dzieci będą za nim przepadać. 
-pr-br	Por isso eu falei. As crianças vão amar esse cara. 
-pr	É por isso que te estou a falar nisto. Os miúdos vão adorar este tipo. 
+pt-br	Por isso eu falei. As crianças vão amar esse cara. 
+pt	É por isso que te estou a falar nisto. Os miúdos vão adorar este tipo. 
 ro	De asta îl propun pe el. Copiii îl vor adora. 
 sv	Det är därför jag tar upp det. Ungarna älskar honom. 
 th	เพราะงั้นผมถึงพูดถึงเขาขึ้นมา | เด็กๆ ชอบเขา | 

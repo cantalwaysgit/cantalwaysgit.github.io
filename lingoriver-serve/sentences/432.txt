@@ -10,8 +10,8 @@ it	Questa è buona, Willow!
 ko	좋아, 윌로우! | 
 no	Den var bra, Willow! 
 pl	Brawo, Willow! 
-pr-br	Muito bom, Willow! 
-pr	Muito bem, Willow! 
+pt-br	Muito bom, Willow! 
+pt	Muito bem, Willow! 
 ro	Bravo, Willow! 
 sv	Den var bra, Willow. 
 th	นั่นดีเลย วิลโลว์ | 

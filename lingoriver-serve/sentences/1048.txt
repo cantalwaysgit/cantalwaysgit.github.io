@@ -12,8 +12,8 @@ ko	어디 한번 저 와인 맛도 | 별로라고 해보세요 |
 nl	Als hij terugkomt, zeg je dat je die ook niks vindt. 
 no	Jeg utfordrer deg til å si at du hater den neste også. 
 pl	Założę się, że o drugim już nie powiesz, że ci nie smakuje. 
-pr-br	Quando ele voltar, duvido que diga que odiou esse também. 
-pr	Quando ele voltar, desafio-te a dizer mal também daquele. 
+pt-br	Quando ele voltar, duvido que diga que odiou esse também. 
+pt	Quando ele voltar, desafio-te a dizer mal também daquele. 
 ro	Când se întoarce, te provoc să-i spui că nu-ți place nici ăla. 
 sv	När han är tillbaka, utmanar jag dig att säga att du hatar det med. 
 th	พอเขากลับมา ฉันท้าให้คุณพูดว่า | ไม่ชอบนั่นอีกด้วย | 

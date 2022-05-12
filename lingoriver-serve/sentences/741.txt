@@ -14,8 +14,8 @@ it	- Ci lasci parlare della stella? - Prego.
 nl	Kunnen we even over deze ster praten? -Toe maar. 
 no	-Kan vi snakke om stjernen? -Vær så god. 
 pl	- Możemy pogadać o gwieździe? - Śmiało. 
-pr-br	-Podemos falar desta estrela? -Pode falar. 
-pr	- Podemos falar sobre a estrela? - Força. 
+pt-br	-Podemos falar desta estrela? -Pode falar. 
+pt	- Podemos falar sobre a estrela? - Força. 
 ro	- Vrei să vorbim puțin despre stea? - Continuă. 
 sv	-Kan vi prata om stjärnan? -Fortsätt. 
 th	- มาคุยเรื่องดาวนี้ได้ไหม | - เชิญเลย | 

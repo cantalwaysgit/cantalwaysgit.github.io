@@ -12,8 +12,8 @@ it	Temendo ciò che gli altri Avrebbero detto
 ko	다들 무슨 말을 할지 | 두려워하면서 | 
 nl	voor wat anderen zouden zeggen 
 pl	Bał się, co inni powiedzą 
-pr-br	Receoso dos comentários alheios 
-pr	Com medo do que pudessem dizer 
+pt-br	Receoso dos comentários alheios 
+pt	Com medo do que pudessem dizer 
 ro	Înfricoșată de ceea ce s-ar fi putut spune 
 ru	Боясь недоброй молвы 
 sv	Rädd för vad andra skulle säga 

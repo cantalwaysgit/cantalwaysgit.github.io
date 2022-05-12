@@ -9,8 +9,8 @@ he	&rlm;‏אשמח לשוחח איתך.‏ |
 it	vorrei parlare con lei. 
 ko	대화를 하고 싶어요 | 
 pl	to bardzo bym chciał. 
-pr-br	eu adoraria conversar. 
-pr	eu adoraria conversar sobre isto. 
+pt-br	eu adoraria conversar. 
+pt	eu adoraria conversar sobre isto. 
 ro	mi-ar plăcea să purtăm o conversație. 
 th	ผมอยากจะคุยด้วย | 
 tr	biraz konuşmak isterim. 

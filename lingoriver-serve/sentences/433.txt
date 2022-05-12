@@ -11,8 +11,8 @@ ko	대단해요, 좋아요 | 턱에 손대고 거시기를 생각해요 |
 nl	Je bent briljant. Kom op. Hand op je kin, denk aan worsten. 
 no	Genialt. Kom igjen. Hånden på haken, tenk på wienere. 
 pl	Jesteś genialna. Ręka na brodę i myślimy o pindolkach. 
-pr-br	Você é brilhante. Vamos. Mão no queixo, pense em pintos. 
-pr	És brilhante. Vamos lá. Mão no queixo e pensa em salsichas. 
+pt-br	Você é brilhante. Vamos. Mão no queixo, pense em pintos. 
+pt	És brilhante. Vamos lá. Mão no queixo e pensa em salsichas. 
 ro	Ești genială! Hai! Mâna la bărbie, cu gândul la "cârnăciori". 
 ru	Гениально! Давай. Думай о сосисках. 
 sv	Du är briljant. Kom igen. Handen på hakan, tänk på korvar. 

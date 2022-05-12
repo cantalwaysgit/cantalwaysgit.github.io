@@ -14,8 +14,8 @@ he	&rlm;‏כן. באתי לכאן לדבר איתך על זה.‏ |
 it	Sì, sono venuto qui per parlarle di questo. 
 nl	Ja. Ik kwam hierheen om dat met je te bespreken. 
 pl	Właśnie dlatego tu przyjechałem. 
-pr-br	Sim. Eu vim até aqui para falar disso. 
-pr	Sim. Eu vim cá falar consigo sobre isso. 
+pt-br	Sim. Eu vim até aqui para falar disso. 
+pt	Sim. Eu vim cá falar consigo sobre isso. 
 sv	Ja, jag ville prata med dig om det. 
 th	ครับ ที่ผมมานี่ก็จะมาคุยเรื่องนั้น | 
 tr	Evet. Sizinle bu konuda konuşmaya geldim. 

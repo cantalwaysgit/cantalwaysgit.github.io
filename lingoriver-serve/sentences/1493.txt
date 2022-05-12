@@ -8,8 +8,8 @@ fr	Voilà. Dors.
 he	&rlm;‏בדיוק כך. רק לישון.‏ | 
 it	Bene. Adesso dormi. 
 nl	Zo, ja. Ga maar slapen. 
-pr-br	Certo. Durma. 
-pr	Isso mesmo. Dorme. 
+pt-br	Certo. Durma. 
+pt	Isso mesmo. Dorme. 
 ro	Așa. Dormi liniștită. 
 sv	Så där ja. Sov du. 
 tr	İşte böyle. Sadece uyu. Uyu. 

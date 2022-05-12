@@ -8,8 +8,8 @@ he	&rlm;‏סנדי.‏ |
 it	Sandy. 
 ko	샌디 | 
 pl	Sandy. 
-pr-br	Sandy. 
-pr	Sandy. 
+pt-br	Sandy. 
+pt	Sandy. 
 ro	Sandy. 
 sv	Sandy. 
 th	แซนดี้ | 

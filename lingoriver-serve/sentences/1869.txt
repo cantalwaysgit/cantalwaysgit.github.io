@@ -11,8 +11,8 @@ it	- Sei venuta! - Ma certo.
 ko	- 왔구나! | - 당연하죠 | 
 nl	Je bent gekomen. -Natuurlijk. 
 pl	- Przyszłaś! - Oczywiście. 
-pr-br	-Você veio! -Claro. 
-pr	- Vieste! - É claro. 
+pt-br	-Você veio! -Claro. 
+pt	- Vieste! - É claro. 
 sv	-Du kom! -Så klart. 
 tr	-Gelmişsin! -Elbette. 
 vi	- Em đã đến! | - Tất nhiên rồi. | 

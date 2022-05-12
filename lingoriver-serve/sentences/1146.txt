@@ -16,8 +16,8 @@ ko	여기 있어 |
 nl	Alsjeblieft. 
 no	Her. 
 pl	Proszę. 
-pr	Aí tens. 
-pr-br	Prontinho. 
+pt	Aí tens. 
+pt-br	Prontinho. 
 ro	Poftim! 
 sv	Varsågod. 
 tr	Al bakalım. 

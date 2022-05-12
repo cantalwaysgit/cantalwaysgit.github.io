@@ -14,8 +14,8 @@ it	Ora è tutto chiaro.
 nl	Nu zie ik het. 
 no	Nå ser jeg det. 
 pl	Teraz to widzę. 
-pr	Agora já percebo. 
-pr-br	Agora entendi. 
+pt	Agora já percebo. 
+pt-br	Agora entendi. 
 ro	Îmi dau seama acum. 
 sv	Nu ser jag det. 
 th	ชักมองเห็นแล้วละ | 

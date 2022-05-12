@@ -15,8 +15,8 @@ it	- Sistemala e dille addio. - La metto qui.
 nl	Leg hem op de tee en zeg gedag. 
 no	-Gjør det og si farvel. -Her. 
 pl	- Ustawiasz i żegnasz. - Jest. 
-pr-br	-Ponha na posição e dê adeus. -Bem aqui. 
-pr	- Coloca a bola e diz-lhe adeus. - Aqui. 
+pt-br	-Ponha na posição e dê adeus. -Bem aqui. 
+pt	- Coloca a bola e diz-lhe adeus. - Aqui. 
 ro	- Pune-o și ia-ți adio. - Așa. 
 th	- ตีลูกแล้วก็บอกลามัน | - อย่างนี้ | 
 tr	-Yerleştir ve vedalaş. -İşte oldu. 

@@ -16,8 +16,8 @@ it	Senti la mia proposta.
 nl	Wat dacht je hiervan? 
 no	Hva sier du til dette? 
 pl	To może tak. 
-pr-br	Ei, tive uma ideia. 
-pr	Então e isto? 
+pt-br	Ei, tive uma ideia. 
+pt	Então e isto? 
 ro	Ce zici de asta? 
 sv	Vad sägs om det här? 
 th	เอาอย่างงี้ไหม | 

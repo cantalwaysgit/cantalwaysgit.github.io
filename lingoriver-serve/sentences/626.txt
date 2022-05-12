@@ -14,8 +14,8 @@ ko	데모를 듣고 싶다는군 |
 nl	Ze willen je demo horen. 
 no	De vil høre demoen din. 
 pl	Chcą usłyszeć twoje demo. 
-pr-br	Eles querem ouvir a sua demo. 
-pr	Querem ouvir a tua demo. 
+pt-br	Eles querem ouvir a sua demo. 
+pt	Querem ouvir a tua demo. 
 ro	Vor să-ți asculte piesa de prezentare. 
 sv	De vill höra din demo. 
 th	อยากฟังเทปเดโมของคุณ | 

@@ -14,8 +14,8 @@ it	Te lo dico io. Forza!
 ko	정말이에요! | 
 no	Hør på meg. Kom igjen! 
 pl	Mówię ci, kurde! 
-pr-br	Estou dizendo. Qual é? 
-pr	Estou a dizer-te. Vá lá! 
+pt-br	Estou dizendo. Qual é? 
+pt	Estou a dizer-te. Vá lá! 
 ro	Serios. Zău! 
 sv	Jag säger det bara. Kom igen! 
 th	ผมขอบอกนะ | 

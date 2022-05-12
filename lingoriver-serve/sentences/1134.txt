@@ -11,8 +11,8 @@ fr	Quoi ? Ici ?
 he	&rlm;‏מה? כאן?‏ | 
 it	Cosa? Qui? 
 no	Hva? Her? 
-pr-br	Quê? Aqui? 
-pr	O quê? Espera, aqui? 
+pt-br	Quê? Aqui? 
+pt	O quê? Espera, aqui? 
 ro	Poftim? Aici? 
 tr	Ne? Burada mı? 
 vi	Gì cơ? Ngay đây à? | 

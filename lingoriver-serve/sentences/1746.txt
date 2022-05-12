@@ -12,8 +12,8 @@ he	&rlm;‏פרפרים, פרפר‏ |
 it	Farfalle, farfalla 
 nl	vlinders 
 pl	Motylki 
-pr	Arrepios 
-pr-br	Tantos arrepios 
+pt	Arrepios 
+pt-br	Tantos arrepios 
 ro	Fluturi 
 sv	Fjärilar, fjärilar 
 th	ผีเสื้อ ผีเสื้อ | 

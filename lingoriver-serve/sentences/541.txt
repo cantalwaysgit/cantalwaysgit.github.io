@@ -12,8 +12,8 @@ he	&rlm;‏‏לא הרבה התייחסו אליי ככה. | &rlm;‏-כן.‏ 
 it	- Non è da tutti. - Già. 
 ko	- 그런 사람이 많지 않았죠 | - 맞아 | 
 pl	- Inni nie bardzo. - Tak. 
-pr-br	-Poucas pessoas fazem isso. -É. 
-pr	- Poucas pessoas o faziam. - Sim. 
+pt-br	-Poucas pessoas fazem isso. -É. 
+pt	- Poucas pessoas o faziam. - Sim. 
 ro	- Nu mulți au făcut asta. - Da. 
 th	- ไม่ค่อยมีคนทำหรอก | - ครับ | 
 tr	-Pek saygı gösteren yoktu. -Evet. 

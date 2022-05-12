@@ -9,8 +9,8 @@ he	&rlm;‏‏ושהיינו ליד עץ | &rlm;‏מ-ת-נ-ש-ק-י-ם‏ |
 it	Eravamo tra gli alberi a B-A-C-I-A-R-C-I 
 ko	우린 나무에서 | 키스했지 | 
 nl	we zaten in een boom te k-u-s-s-e-n 
-pr-br	E estávamos em uma árvore Nos beijando 
-pr	E estávamos debaixo de uma árvore Aos B-E-I-J-O-S 
+pt-br	E estávamos em uma árvore Nos beijando 
+pt	E estávamos debaixo de uma árvore Aos B-E-I-J-O-S 
 ro	Și eram într-un copac S-Ă-R-U-T-Â-N-D-U-N-E 
 ru	Мы сидели на дереве Тили-тили-тесто! 
 sv	Och vi satt i trädet Och K-Y-S-S-T-E-S 

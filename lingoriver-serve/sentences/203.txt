@@ -14,8 +14,8 @@ it	Già. Certo. Stanno diventando intelligenti.
 nl	Ja. Dat klopt. Ze worden slim. 
 no	Ja, det stemmer. De begynner å bli skarpe. 
 pl	Właśnie. Ale z was bystrzaki. 
-pr-br	Sim. Isso. Estão ficando espertas. 
-pr	Sim, pois é. Estão a ficar espertas. 
+pt-br	Sim. Isso. Estão ficando espertas. 
+pt	Sim, pois é. Estão a ficar espertas. 
 ro	Da. Așa e. Ce istețe s-au făcut! 
 sv	Det stämmer. De börjar bli smarta. 
 th	ใช่ ใช่แล้ว พวกหนูฉลาดขึ้น | 

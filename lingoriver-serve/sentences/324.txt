@@ -13,8 +13,8 @@ ko	복리후생에 매주 급료도 나와요 | 진짜 마법 같은 산이죠 |
 nl	Ze krijgt vergoeding, elke week salaris. Die berg is echt magisch. 
 no	Hun fikk frynsegoder, lønn hver uke. Det fjellet er virkelig magisk. 
 pl	Ma ubezpieczenie, stałą wypłatę. To bardzo ważne. 
-pr-br	Tem benefícios, paga todas as semanas. Aquela montanha é realmente mágica. 
-pr	Ela tem benefícios e recebe à semana. Aquela montanha é mesmo mágica. 
+pt-br	Tem benefícios, paga todas as semanas. Aquela montanha é realmente mágica. 
+pt	Ela tem benefícios e recebe à semana. Aquela montanha é mesmo mágica. 
 ro	Acolo avea beneficii, salariu săptămânal. Era un loc minunat de muncă. 
 sv	Hon har sjukförsäkring, lön varje vecka. Det berget är magiskt. 
 th	เธอได้สวัสดิการ เงินเดือนทุกอาทิตย์ | ที่นั่นสุดยอด | 

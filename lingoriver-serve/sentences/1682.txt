@@ -15,8 +15,8 @@ es-eu	Vale.
 fi	Hyvä on. 
 he	&rlm;‏בסדר.‏ | 
 pl	Dobrze. 
-pr-br	Está bem. 
-pr	Está bem. 
+pt-br	Está bem. 
+pt	Está bem. 
 ro	Bine. 
 sv	Okej. 
 zh-long	好吧 

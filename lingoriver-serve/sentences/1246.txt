@@ -11,8 +11,8 @@ it	Non potrei dar loro ciò che secondo me si meritano
 nl	Ik kan ze niet geven wat ik vind dat ze verdienen... 
 no	Jeg kan ikke gi dem det hver og en av dem fortjener 
 pl	Nie mogę poświęcać im wystarczająco dużo czasu, 
-pr-br	Não posso dar a eles o que acredito que cada um mereça 
-pr	Não lhes posso dar aquilo que acredito que eles merecem 
+pt-br	Não posso dar a eles o que acredito que cada um mereça 
+pt	Não lhes posso dar aquilo que acredito que eles merecem 
 ro	Nu le pot oferi ceea ce cred că merită fiecare 
 sv	Jag kan inte ge dem det jag tror att var och en av dem behöver 
 th	ผมไม่สามารถให้สิ่งที่คิดว่า | พวกเขาทุกคนสมควรได้รับ | 

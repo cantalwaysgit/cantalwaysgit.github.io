@@ -14,8 +14,8 @@ fr	- Tu peux te décaler ? - Bien sûr.
 he	&rlm;‏‏אתה יכול לזוז, סנדי? | &rlm;‏-בטח.‏ | 
 it	- Puoi spostarti, Sandy? - Certo. 
 no	-Kan du gå til siden, Sandy? -Ja. 
-pr-br	-Pode sair daí, Sandy? -Claro. 
-pr	- Podes afastar-te, Sandy? - Claro. 
+pt-br	-Pode sair daí, Sandy? -Claro. 
+pt	- Podes afastar-te, Sandy? - Claro. 
 ro	- Vrei să faci un pas, Sandy? - Sigur. 
 vi	- Anh tránh ra được chứ, Sandy? | - Được. | 
 zh-long	-山迪，麻煩讓讓？ -好呀 

@@ -7,8 +7,8 @@ es	Gracias, Martin.
 fr	Merci, Martin. 
 it	Grazie, Martin. 
 ko	고마워요, 마틴 | 
-pr-br	Obrigado, Martin. 
-pr	Obrigado, Martin. 
+pt-br	Obrigado, Martin. 
+pt	Obrigado, Martin. 
 sv	Tack, Martin. 
 tr	Sağ ol Martin. 
 vi	Cảm ơn, Martin. | 

@@ -10,8 +10,8 @@ he	&rlm;‏‏רוקדים סמבה | &rlm;‏האש בעיניהם בוערת�
 it	Ballando una samba Con il fuoco negli occhi 
 nl	de samba dansen met vuur in hun ogen 
 pl	Tańczą sambę Ogień płonie im w oczach 
-pr	A dançar samba Com fogo no olhar 
-pr-br	Samba com fogo nos olhos 
+pt	A dançar samba Com fogo no olhar 
+pt-br	Samba com fogo nos olhos 
 ro	Dansând samba Cu flăcări în priviri 
 sv	Dansa samba Med glöden i ögonen 
 th	เต้มแซมบ้า แววตาดั่งไฟโชติช่วง | 

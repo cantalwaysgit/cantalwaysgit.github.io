@@ -15,8 +15,8 @@ ko	새랑 천사 이야기를 | 좋아하시나 봐요 |
 nl	Die vogel en engel vind je leuk, hè? 
 no	Du liker den fugl-og-engel-greia. 
 pl	Lubisz to porównanie, co? 
-pr-br	Curte esse cruzamento de pássaro e anjo. 
-pr	Gosta mesmo disso do pássaro e do anjo. 
+pt-br	Curte esse cruzamento de pássaro e anjo. 
+pt	Gosta mesmo disso do pássaro e do anjo. 
 ro	Îți place chestia cu pasărea și îngerul. 
 ru	Вам нравится эта метафора. 
 th	คุณชอบอุปมานกและนางฟ้านั่นนะ | 

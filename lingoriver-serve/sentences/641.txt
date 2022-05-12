@@ -11,8 +11,8 @@ it	Mio Dio.
 ko	세상에 | 
 no	Herregud. 
 pl	Boże jedyny. 
-pr-br	Meu Deus. 
-pr	Meu Deus. 
+pt-br	Meu Deus. 
+pt	Meu Deus. 
 ro	Dumnezeule! 
 sv	Herregud. 
 th	พระเจ้าช่วย | 

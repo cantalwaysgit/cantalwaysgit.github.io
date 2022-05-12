@@ -9,8 +9,8 @@ he	&rlm;‏לא.‏ |
 ko	아니야 | 
 no	Nei. 
 pl	Nie. 
-pr-br	Não. 
-pr	Não. 
+pt-br	Não. 
+pt	Não. 
 ro	Nu. 
 ru	Нет. 
 sv	Nej. 

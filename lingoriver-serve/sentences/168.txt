@@ -13,8 +13,8 @@ it	Grazie, Ted.
 ko	고마워, 테드 | 
 no	Takk, Ted. 
 pl	Dziękuję, Ted. 
-pr-br	Obrigado, Ted. 
-pr	Obrigado, Ted. 
+pt-br	Obrigado, Ted. 
+pt	Obrigado, Ted. 
 ro	Mulțumesc, Ted. 
 sv	Tack, Ted. 
 th	ขอบคุณนะเท็ด | 

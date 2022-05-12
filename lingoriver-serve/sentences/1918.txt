@@ -13,8 +13,8 @@ it	Con la pioggia o con il sole Fino alla fine dei tempi
 ko	비가 오든 해가 뜨든 | 세상 끝까지 | 
 nl	in regen of zonneschijn tot het einde 
 pl	Czy słońce, czy deszcz Aż po czasu kres 
-pr-br	Na chuva ou sol Até o fim dos tempos 
-pr	Faça chuva ou sol Até ao fim dos tempos 
+pt-br	Na chuva ou sol Até o fim dos tempos 
+pt	Faça chuva ou sol Até ao fim dos tempos 
 ro	Fie nor, fie soare Până la sfârșitul timpului 
 sv	I nöd och lust Tills tiden rinner ut 
 th	ไม่ว่าฝนตกหรือแดดออก | ตราบชั่วนิรันดร์ | 

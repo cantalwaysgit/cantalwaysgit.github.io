@@ -11,8 +11,8 @@ fr	Ils font de l'excès de zèle.
 he	&rlm;‏אני מרגיש שהם קצת נלהבים מדי עם העטיפה.‏ | 
 it	Secondo me sono troppo zelanti con quei pacchetti. 
 pl	Robi ją jakiś nawiedzony fanatyk. 
-pr	Acho que há excesso de zelo no invólucro. 
-pr-br	Acho que entusiasta demais com a embalagem. 
+pt	Acho que há excesso de zelo no invólucro. 
+pt-br	Acho que entusiasta demais com a embalagem. 
 ro	Se ambalează cu prea mult entuziasm, cred. 
 sv	Det är lite överambitiöst att låsa in dem. 
 tr	Paket işini biraz abartıyoruz bence. 

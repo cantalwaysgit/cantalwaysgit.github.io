@@ -14,8 +14,8 @@ ko	- 할리우드의 왕이세요 | - 제가 개들한테 그랬다네요 |
 nl	Hij is de koning van Hollywood. -Volgens haar zei ik dat, maar niet dus. 
 no	-Han er kongen av Hollywood. -Hun tror jeg sa det til hundene. 
 pl	- To król Hollywoodu. - Myśli, że powiedziałem to psom. 
-pr-br	-Ele é o rei de Hollywood. -Ela acha que eu disse isso aos cachorros. 
-pr	- É o rei de Hollywood. - Ela pensa que eu disse isso aos cães. 
+pt-br	-Ele é o rei de Hollywood. -Ela acha que eu disse isso aos cachorros. 
+pt	- É o rei de Hollywood. - Ela pensa que eu disse isso aos cães. 
 ro	- E regele Hollywoodului. - Crede că așa le-am zis câinilor. 
 sv	-Han är kungen av Hollywood. -Hon tror jag sa så till hundarna. 
 th	- เขาคือราชาฮอลลีวูด | - เธอคิดว่าผมพูดกับหมาแบบนั้น แต่เปล่า | 

@@ -14,8 +14,8 @@ it	Non scattare. Perché scatti?
 ko	혀 차는 소리 내지 마 | 왜 그래? 그만둬! | 
 nl	Niet klikken. Waarom doe je dat? Kappen. 
 pl	Przestań kląskać językiem. 
-pr-br	Não estale.  Você sempre faz isso quando fica nervoso. 
-pr	Não estales a língua. Porque fazes isso? Para de estalar a língua! 
+pt-br	Não estale.  Você sempre faz isso quando fica nervoso. 
+pt	Não estales a língua. Porque fazes isso? Para de estalar a língua! 
 ro	Nu plescăi. De ce plescăi? Încetează! 
 sv	Klicka inte. Varför klickar du? Sluta klicka! 
 th	อย่าทำเสียงกริ๊กๆ ทำไมต้องกริ๊ก | หยุดกริ๊กๆ นะ | 

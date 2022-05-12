@@ -16,8 +16,8 @@ ko	알아, 재미있었어 | 하지만 진짜 가면 안 돼 |
 nl	Ja. Heel grappig. Maar blijf weg bij het zwembad. 
 no	Jeg vet det. Kjempegøy. Men seriøst, ikke bruk bassenget. 
 pl	Wiem, boki zrywać. Ale nie idźcie na basen, poważnie. 
-pr-br	Eu sei. Foi engraçadíssimo. Mas é sério, não entrem na piscina. 
-pr	Eu sei e foi hilariante. Mas a sério, fica longe da piscina. 
+pt-br	Eu sei. Foi engraçadíssimo. Mas é sério, não entrem na piscina. 
+pt	Eu sei e foi hilariante. Mas a sério, fica longe da piscina. 
 ro	Știu. Și a fost foarte amuzant. Dar, serios, nu vă apropiați de piscină. 
 th	ผมรู้ และมันขำกลิ้ง | แต่จริงๆ นะ อย่ายุ่งกับสระว่ายน้ำ | 
 tr	Biliyorum, çok da komikti. Ama cidden, havuzdan uzak durun. 

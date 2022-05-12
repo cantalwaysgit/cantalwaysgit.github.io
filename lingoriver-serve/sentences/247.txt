@@ -11,8 +11,8 @@ it	Non ho le piume tozze e scure
 ko	짤막한 갈색 깃털도 없어 | 
 nl	geen lelijke bruine veren 
 pl	Nie jestem puchatą, brązową kulką 
-pr-br	Nenhuma pena atarracada e marrom 
-pr	Nada de penas curtas e castanhas 
+pt-br	Nenhuma pena atarracada e marrom 
+pt	Nada de penas curtas e castanhas 
 sv	Inga stubbiga bruna fjädrar 
 tr	Kısa, kahverengi değil tüylerim 
 vi	Không phải bộ lông ngắn và xám xịt | 

@@ -14,8 +14,8 @@ it	Allora, ecco la mia proposta.
 nl	Het zit zo. 
 no	Nå skal du høre. 
 pl	Chodzi o to... 
-pr-br	O negócio é o seguinte. 
-pr	Pronto, é o seguinte. 
+pt-br	O negócio é o seguinte. 
+pt	Pronto, é o seguinte. 
 ro	Uite care e treaba! 
 sv	Så här är det. 
 th	เอาละ นี่คือข้อเสนอ | 

@@ -10,8 +10,8 @@ he	&rlm;‏וקסלר אמנים.‏ |
 it	Wexler Artists. 
 ko	웩슬러 아티스트입니다 | 
 pl	Wexler Artists. 
-pr-br	Artistas Wexler. 
-pr	Wexler Artists. 
+pt-br	Artistas Wexler. 
+pt	Wexler Artists. 
 ro	Wexler Artists. 
 sv	Wexler Artists. 
 th	เวกซ์เลอร์อาร์ทิสต์ส | 

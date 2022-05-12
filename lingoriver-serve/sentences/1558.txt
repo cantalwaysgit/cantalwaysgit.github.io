@@ -13,8 +13,8 @@ it	Hai visto?
 ko	성공적이네 | 
 no	Se på det. 
 pl	Widzisz. 
-pr-br	Veja só. 
-pr	Vejam só. 
+pt-br	Veja só. 
+pt	Vejam só. 
 ro	Ca să vezi! 
 sv	Ser man på. 
 th	ดูนั่นสิ ดูนั่น | 

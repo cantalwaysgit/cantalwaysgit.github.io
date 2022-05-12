@@ -11,8 +11,8 @@ it	Mi spii nella doccia?
 nl	Spioneer je me in de douche? 
 no	Spionerer du på meg i dusjen? 
 pl	Podglądałeś mnie? 
-pr	Andas a espreitar-me no chuveiro? 
-pr-br	Você me espiona no chuveiro? 
+pt	Andas a espreitar-me no chuveiro? 
+pt-br	Você me espiona no chuveiro? 
 ro	Tragi cu ochiul când fac duș? 
 ru	Ты за мной подглядываешь? 
 th	นายแอบดูฉันในห้องน้ำเหรอ | 

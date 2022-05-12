@@ -15,8 +15,8 @@ he	&rlm;‏נעים מאוד, סמי! אני מקווה שתמצא תרופה.�
 it	Piacere, Sammy! Spero che trovino una cura adatta a te. 
 nl	Leuk je ontmoet te hebben. Hopelijk vinden ze een geneesmiddel voor je. 
 no	Hyggelig å hilse på deg, Sammy! Håper de finner en kur. 
-pr-br	Muito prazer, Sammy! Espero que achem a cura para você. 
-pr	Prazer em conhecer-te, Sammy! Espero que encontrem uma cura para ti. 
+pt-br	Muito prazer, Sammy! Espero que achem a cura para você. 
+pt	Prazer em conhecer-te, Sammy! Espero que encontrem uma cura para ti. 
 ro	Mi-a părut bine, Sammy! Sper să apară un tratament pentru tine. 
 sv	Kul att träffas, Sammy! Hoppas de hittar botemedel åt dig. 
 tr	Memnun oldum Sammy! Umarım sana bir tedavi bulurlar. 

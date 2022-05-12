@@ -1,5 +1,5 @@
 ru	-Да? -Да. 
-pr-br	-Está bem? -Está bem. 
+pt-br	-Está bem? -Está bem. 
 ar	&rlm;‏حسناً.‏ | 
 da	Okay. 
 el	Εντάξει. 
@@ -9,7 +9,7 @@ es-eu	Vale.
 fi	Selvä. 
 he	&rlm;‏בסדר.‏ | 
 ko	알았어요 | 
-pr	Está bem. 
+pt	Está bem. 
 ro	Bine. 
 sv	Okej. 
 th	โอเค | 

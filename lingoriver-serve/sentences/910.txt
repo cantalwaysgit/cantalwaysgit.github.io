@@ -14,8 +14,8 @@ he	&rlm;‏לאיזו תחנה את מאזינה?‏ |
 it	Che radio sta ascoltando? 
 nl	Naar welke zender luister je? 
 no	Hvilken kanal hører du på? 
-pr-br	Qual estação está ouvindo? 
-pr	Qual é a estação que está a ouvir? 
+pt-br	Qual estação está ouvindo? 
+pt	Qual é a estação que está a ouvir? 
 ro	Ce post asculți? 
 sv	Vilken station lyssnar du på? 
 th	คุณฟังสถานีอะไรอยู่ | 

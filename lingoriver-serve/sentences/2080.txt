@@ -10,8 +10,8 @@ he	&rlm;‏ברצינות, לא הבנתי כלום.‏ |
 it	Davvero, non ho capito niente. 
 ko	진짜 모르겠어요 | 
 pl	Nic a nic. 
-pr	A sério, não percebo nada. 
-pr-br	Sério, não entendi nada. 
+pt	A sério, não percebo nada. 
+pt-br	Sério, não entendi nada. 
 ro	Zău! N-am înțeles nimic. 
 sv	Jag fattar ingenting. 
 th	จริงๆ นะ ไม่เข้าใจเลย | 

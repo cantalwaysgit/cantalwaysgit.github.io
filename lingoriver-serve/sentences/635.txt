@@ -13,8 +13,8 @@ it	E nelle notti che passo da sola
 ko	혼자 있는 밤에 | 
 nl	en als ik 's nachts alleen ben 
 pl	A samotną nocą 
-pr-br	Todas as noites quando estou sozinha 
-pr	E nas noites em que estou só 
+pt-br	Todas as noites quando estou sozinha 
+pt	E nas noites em que estou só 
 ro	Și în serile în care sunt singură 
 sv	Alla ensamma nätter 
 th	ในค่ำคืนที่ฉันเดียวดาย | 

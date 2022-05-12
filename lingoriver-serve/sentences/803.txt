@@ -13,8 +13,8 @@ ko	알고는 있었지만 | 난 급이 다르다고 했잖아 |
 nl	Ik wist het, maar je zei dat ik in een andere categorie zat. 
 no	Jeg visste, men du sa at jeg var i en annen liga. 
 pl	Mówiłeś, że biję innych na głowę. 
-pr-br	Eu sabia, mas você disse que eu estava em outro nível. 
-pr	Eu sabia, mas disseste que eu estava num nível à parte. 
+pt-br	Eu sabia, mas você disse que eu estava em outro nível. 
+pt	Eu sabia, mas disseste que eu estava num nível à parte. 
 ro	Am știut, dar mi-ai zis că eu sunt mai bun decât ei. 
 sv	Jag visste det, men du sa att jag var i en annan liga. 
 th	ก็ใช่ แต่นายบอกว่า | ฉันอยู่คนละชั้นกับคนอื่น | 

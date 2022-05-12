@@ -13,8 +13,8 @@ it	- Sui fianchi. - Sui fianchi.
 nl	Met de heupen. 
 no	-I hoftene. -I hoftene. 
 pl	Popracuj biodrami. 
-pr-br	-Mexa os quadris. -Os quadris. 
-pr	- Nas ancas. - Nas ancas. 
+pt-br	-Mexa os quadris. -Os quadris. 
+pt	- Nas ancas. - Nas ancas. 
 ro	- Șoldurile. - Șoldurile. 
 sv	-I höfterna. -I höfterna. 
 th	- ที่สะโพก | - ที่สะโพก | 
@@ -38,8 +38,8 @@ he	&rlm;‏הנה.‏ |
 it	Ci siamo. 
 no	Sånn ja. 
 pl	Dajesz. 
-pr-br	Vamos lá. 
-pr	Vamos lá. 
+pt-br	Vamos lá. 
+pt	Vamos lá. 
 ro	Așa! 
 sv	Nu kör vi. 
 th	เอาเลยนะ | 

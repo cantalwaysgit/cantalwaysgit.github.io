@@ -12,8 +12,8 @@ he	&rlm;‏מה אתה אומר על הילדה שלנו שמושמעת ברדי
 it	E la nostra ragazza che è finita alla radio? 
 no	Tenk at hun blir spilt på radio, hva? 
 pl	Jej piosenkę puszczali w radiu. 
-pr-br	E a nossa garota aqui com sua música tocando na rádio? 
-pr	E a nossa menina que passou no rádio? 
+pt-br	E a nossa garota aqui com sua música tocando na rádio? 
+pt	E a nossa menina que passou no rádio? 
 ro	Ce zici de fata noastră care cântă la radio? 
 sv	Visst är hon duktig? Hennes låt hörs på radion. 
 th	เป็นไงคุณผู้หญิงของเราได้ออกวิทยุ | 
@@ -37,8 +37,8 @@ fr	Elle va faire un carton.
 he	&rlm;‏אמרתי לך שהיא כוכבת-על.‏ | 
 it	Te l'ho detto che è una superstar. 
 pl	Mówiłem, że to gwiazda. 
-pr-br	Eu disse que ela é uma estrela. 
-pr	Eu disse-te que ela era uma estrela. 
+pt-br	Eu disse que ela é uma estrela. 
+pt	Eu disse-te que ela era uma estrela. 
 ro	Ți-am zis că e o mare vedetă. 
 sv	Jag sa ju hon skulle bli en stjärna. 
 th	บอกแล้วใช่ไหมว่าเธอเป็นซุปตาร์ | 

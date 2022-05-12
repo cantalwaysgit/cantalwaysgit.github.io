@@ -12,8 +12,8 @@ it	Credo che sia questa. Me ne vado.
 nl	Dit moet hem zijn. Ik ga. 
 no	Det er nok denne. Jeg går. 
 pl	To pewnie ta. Już idę. 
-pr-br	Deve ser este. Vou nessa. 
-pr	Deve ser este. Vou andando. 
+pt-br	Deve ser este. Vou nessa. 
+pt	Deve ser este. Vou andando. 
 ro	Probabil e ăsta. O să plec. 
 ru	Кажется, он. Я пошел. 
 sv	Här är den nog. Jag ska gå. 

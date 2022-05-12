@@ -12,8 +12,8 @@ he	&rlm;‏סתלק מכאן‏ |
 it	Vattene da qui 
 nl	ga weg 
 pl	Zmykaj stąd 
-pr-br	Dê o fora daqui 
-pr	Sai daqui 
+pt-br	Dê o fora daqui 
+pt	Sai daqui 
 ro	Pleacă de aici 
 sv	Försvinn härifrån 
 th	ออกไปให้พ้น | 

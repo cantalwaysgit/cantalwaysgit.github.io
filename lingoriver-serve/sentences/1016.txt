@@ -13,8 +13,8 @@ it	Guardate. O.J. Simpson, Phil Spector e Robert Blake.
 nl	Kijk. OJ Simpson, Phil Spector en Robert Blake. 
 no	Se der. OJ Simpson, Phil Spector og Robert Blake. 
 pl	Patrzcie. To OJ Simpson, Phil Spector i Robert Blake. 
-pr-br	Veja só. OJ Simpson, Phil Spector e Robert Blake. 
-pr	Vejam. É o OJ Simpson, o Phil Spector e o Robert Blake. 
+pt-br	Veja só. OJ Simpson, Phil Spector e Robert Blake. 
+pt	Vejam. É o OJ Simpson, o Phil Spector e o Robert Blake. 
 ro	Fiți atenți! Sunt OJ Simpson, Phil Spector și Robert Blake. 
 sv	Kolla där. OJ Simpson, Phil Spector och Robert Blake. 
 th	ดูสิ นั่นโอเจ ซิมป์สัน | ฟิล สเปคเตอร์และโรเบิร์ต เบลค | 

@@ -9,8 +9,8 @@ he	&rlm;‏לא, אבל אני מייצג את הבחור‏ |
 it	No, ma sono il manager del tizio 
 ko	아뇨, 하지만 마궁의 사원에서 | 
 pl	Nie, ale moim klientem jest koleś, 
-pr-br	Não, mas represento o cara 
-pr	Não, mas represento o tipo 
+pt-br	Não, mas represento o cara 
+pt	Não, mas represento o tipo 
 ro	Nu, dar clientul meu e tipul 
 sv	Nej, men jag representerade han 
 th	เปล่า แต่ผมเป็นตัวแทนคนที่ | 
@@ -35,8 +35,8 @@ it	a cui strappano il cuore in  Indiana Jones e il tempio maledetto.
 ko	심장을 꺼냈던 남자 | 매니저예요 | 
 no	som fikk hjertet revet ut i  De fordømtes tempel. 
 pl	któremu w  Świątyni zagłady  wyrywają serce. 
-pr	a quem arrancaram o coração em  O Templo Perdido. 
-pr-br	que arrancou o coração dele em  Indiana Jones e o Templo da Perdição. 
+pt	a quem arrancaram o coração em  O Templo Perdido. 
+pt-br	que arrancou o coração dele em  Indiana Jones e o Templo da Perdição. 
 ro	căruia i-au scos inima cu mâinile în  Templul Morții. 
 sv	som fick hjärtat utslitet i  Indiana Jones och de fördömdas tempel. 
 th	ถูกควักหัวใจออกจากอกในเรื่อง | เทมเพิลออฟดูม | 

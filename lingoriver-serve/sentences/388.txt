@@ -14,8 +14,8 @@ it	Scusami. Non voglio darmi delle arie,
 ko	미안해, 자랑하고 싶진 않아 | 
 no	Beklager. Jeg vil ikke skryte, 
 pl	Zwykle nie lubię się tak chwalić, 
-pr-br	Sinto muito. Não quero ficar me gabando, 
-pr	Desculpa. Não me quero estar a gabar 
+pt-br	Sinto muito. Não quero ficar me gabando, 
+pt	Desculpa. Não me quero estar a gabar 
 ro	Iartă-mă, nu vreau să mă umflu în pene, 
 th	โทษที ไม่ได้อยากยกยอตัวเอง | 
 tr	Kusura bakma. Övünmek istemem, 
@@ -37,8 +37,8 @@ he	&rlm;‏כי זה לא מה שאני עושה, אבל אני מעיד.‏ |
 it	non è nel mio stile, però è così. 
 no	for det er ikke det jeg gjør, men det er sant. 
 pl	ale taka jest po prostu prawda. 
-pr-br	pois eu não gosto de fazer isso, mas só uma gabadinha. 
-pr	porque não gosto de fazer isso, mas tem de ser. 
+pt-br	pois eu não gosto de fazer isso, mas só uma gabadinha. 
+pt	porque não gosto de fazer isso, mas tem de ser. 
 ro	fiindcă nu-mi place asta, dar puf-puf. 
 th	เพราะมันไม่ใช่วิสัย แต่เอาสักหน่อย | 
 tr	çünkü övünmekten hoşlanmam, ama doğruya doğru. 

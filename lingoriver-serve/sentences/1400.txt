@@ -14,8 +14,8 @@ it	Sei incredibile, Sandy.
 ko	정말 대단하시네요 | 
 nl	Je bent ongelooflijk, Sandy. 
 pl	Jesteś niesamowity. 
-pr-br	Você é inacreditável, Sandy. 
-pr	Tu és incrível, Sandy. 
+pt-br	Você é inacreditável, Sandy. 
+pt	Tu és incrível, Sandy. 
 ro	Ești incredibil, Sandy. 
 sv	Du är otrolig. 
 th	คุณเนี่ยเหลือเชื่อ แซนดี้ | 
@@ -39,8 +39,8 @@ it	E Bling come sta? Dov'è?
 ko	블링은 어때? 어디 있어? | 
 nl	Hoe is het met Bling? Waar is hij? 
 pl	Co u Blinga? Gdzie on jest? 
-pr-br	Como está o Bling? Onde ele está? 
-pr	Como está o Bling? Onde está ele? 
+pt-br	Como está o Bling? Onde ele está? 
+pt	Como está o Bling? Onde está ele? 
 ro	Ce mai face Bling? El unde e? 
 sv	Hur mår Bling? Var är han? 
 th	บลิงก์เป็นไง เขาอยู่ไหน | 

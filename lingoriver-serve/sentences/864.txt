@@ -12,8 +12,8 @@ ko	치질이 아니라 열창이었어요 |
 nl	Geen aambei, het was een kloof. 
 no	Det var ikke hemorroider, det var fissur. 
 pl	To była szczelina odbytu. 
-pr-br	Não era hemorroida, era uma fissura. 
-pr	Não era uma hemorroida, era uma fissura. 
+pt-br	Não era hemorroida, era uma fissura. 
+pt	Não era uma hemorroida, era uma fissura. 
 ro	N-a fost hemoroid, a fost fisură. 
 sv	Det var inte hemorrojder, det var en fissur. 
 th	นั่นไม่ใช่ริดสีดวง เป็นรอยแตก | 

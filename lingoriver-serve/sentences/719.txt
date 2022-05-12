@@ -10,8 +10,8 @@ he	&rlm;‏מחורבנת לחלוטין. איומה.‏ |
 it	Una merda. Terribile. 
 ko	정말 끔찍하지 | 
 nl	Heel slecht. Waardeloos. 
-pr-br	Uma merda fenomenal. Terrível. 
-pr	Uma merda. Horrível. 
+pt-br	Uma merda fenomenal. Terrível. 
+pt	Uma merda. Horrível. 
 sv	Ren skit. Förskräckligt. 
 vi	Cực kém. Tồi tệ. | 
 zh-long	爛到爆，嚇死人 

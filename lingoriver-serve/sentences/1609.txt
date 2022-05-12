@@ -12,8 +12,8 @@ he	&rlm;‏מאיפה את מבינה בהיאבקות?‏ |
 nl	Hoezo weet jij iets van worstelen? 
 no	Hvordan vet du noe om fribryting? 
 pl	Co ty wiesz o wrestlingu? 
-pr-br	Como você entende de luta? 
-pr	Como é que percebes tanto de luta livre? 
+pt-br	Como você entende de luta? 
+pt	Como é que percebes tanto de luta livre? 
 ro	Ce știi tu despre wrestling? 
 sv	Hur kan du veta nåt om wrestling? 
 tr	Sen güreşi nereden biliyorsun? 

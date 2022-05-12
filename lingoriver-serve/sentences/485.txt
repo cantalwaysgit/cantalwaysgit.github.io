@@ -13,8 +13,8 @@ ko	그래, 새와 아기가 | 천사를 낳았지 |
 nl	Een vogel en een baby kregen een engel. 
 no	Ja, en fugl og baby fikk en engel sammen. 
 pl	Tak, ptak i dziecko mają ze sobą anioła. 
-pr-br	Sim, um pássaro e um bebê tiveram um anjo. 
-pr	Sim, um pássaro e um bebé tiveram um anjo. 
+pt-br	Sim, um pássaro e um bebê tiveram um anjo. 
+pt	Sim, um pássaro e um bebé tiveram um anjo. 
 ro	Da, o pasăre și un copil au făcut un înger. 
 ru	Да. Ангел птицы и помеси. 
 sv	Ja, en fågel och en bebis fick en ängel. 

@@ -15,8 +15,8 @@ ko	나 말이야? |
 nl	Wie, ik? 
 no	Hvem? Jeg? Hvem? Jeg? 
 pl	Kto? Ja? 
-pr-br	Quem, eu? 
-pr	Quem, eu? 
+pt-br	Quem, eu? 
+pt	Quem, eu? 
 ro	Cine? Eu? 
 sv	Vem jag? 
 th	ใครคือฉัน ใครคือฉัน ใครคือฉัน | 

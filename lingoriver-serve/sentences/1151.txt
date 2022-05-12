@@ -14,8 +14,8 @@ it	Io ero già qui, Sandy.
 ko	처음부터 여기 있었어요 | 
 no	Jeg var her fra før, Sandy. 
 pl	Już byłem na miejscu. 
-pr-br	Eu já estava aqui, Sandy. 
-pr	Eu já cá estava, Sandy. 
+pt-br	Eu já estava aqui, Sandy. 
+pt	Eu já cá estava, Sandy. 
 ro	Eu eram aici oricum, Sandy. 
 sv	Jag var ändå här. 
 tr	Ben zaten buradaydım Sandy. 

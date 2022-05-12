@@ -8,8 +8,8 @@ fi	Teddy!
 he	&rlm;‏טדי!‏ | 
 it	Teddy! 
 pl	Teddy! 
-pr-br	Teddy! 
-pr	Teddy! 
+pt-br	Teddy! 
+pt	Teddy! 
 ro	Teddy! 
 sv	Teddy! 
 th	เท็ดดี้ | 

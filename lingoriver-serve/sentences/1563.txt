@@ -14,8 +14,8 @@ ko	- 아니요 | - 왜? 꽤 쉬워 |
 nl	Nee. -Het is makkelijk. 
 no	-Nei. -Ikke? Det er ganske lett. 
 pl	- Nie. - Nie? To łatwe. 
-pr-br	-Não. -Não? É fácil. 
-pr	- Não. - Não? É bastante simples. 
+pt-br	-Não. -Não? É fácil. 
+pt	- Não. - Não? É bastante simples. 
 ro	- Nu. - Nu? E foarte ușor. 
 sv	-Nej. -Inte? Det är lätt. 
 th	- ไม่เคย | - ไม่เหรอ มันง่ายๆ | 

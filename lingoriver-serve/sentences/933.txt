@@ -4,7 +4,7 @@ en	[Sandy] Hey, hey. |
 es-eu	Hola. 
 es	Hola. 
 he	&rlm;‏היי.‏ | 
-pr	Olá. 
+pt	Olá. 
 sv	Hejsan. 
 th	เฮ่ เฮ่ | 
 tr	Selam. 

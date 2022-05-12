@@ -12,8 +12,8 @@ he	&rlm;‏תגיד את זה!‏ |
 it	Finiscilo! 
 nl	Zeg het. 
 pl	Powiedz to! 
-pr-br	Fala! 
-pr	Diz! 
+pt-br	Fala! 
+pt	Diz! 
 ro	Spune! 
 sv	Säg det! 
 th	พูดคำนั้นสิ! | 

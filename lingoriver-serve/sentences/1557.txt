@@ -15,8 +15,8 @@ it	Ecco un buon test.
 nl	Daar komt de test. 
 no	Her kommer testen. 
 pl	Uwaga. Test. 
-pr	Aí vem o teste. 
-pr-br	Eis o teste. 
+pt	Aí vem o teste. 
+pt-br	Eis o teste. 
 ro	Ăsta e testul. 
 sv	Nu testar vi. 
 th	บททดสอบมาละ | 

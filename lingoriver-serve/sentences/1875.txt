@@ -13,8 +13,8 @@ ko	변기를 갈아야 하니 | 새것으로 가져올게요 |
 nl	En u hebt een nieuwe steek nodig, die ga ik halen. 
 no	Du trenger nytt bekken, så jeg skal ta det for deg. 
 pl	Przyniosę panu nowy basen. 
-pr-br	O senhor precisa de um novo urinol, vou buscá-lo. 
-pr	Precisa de uma arrastadeira limpa. Eu vou buscar. 
+pt-br	O senhor precisa de um novo urinol, vou buscá-lo. 
+pt	Precisa de uma arrastadeira limpa. Eu vou buscar. 
 ro	Domnule, aveți nevoie de o ploscă nouă. Mă duc să vă aduc. 
 sv	Och du behöver ett nytt bäcken. Jag ska hämta det åt dig. 
 th	คุณคะ คุณต้องใช้กระโถนใหม่ | ฉันจะไปเอามาให้ | 

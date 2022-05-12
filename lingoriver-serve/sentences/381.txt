@@ -10,8 +10,8 @@ it	Ho permesso che l'amicizia interferisse con gli affari.
 ko	일에 우정이 방해됐던 거야 | 
 nl	Ik liet toe dat de vriendschap de zaken in de weg stond. 
 pl	Postawiłem przyjaźń przed interesami. 
-pr-br	Deixei a amizade interferir nos negócios. 
-pr	Deixei a amizade interferir no trabalho. 
+pt-br	Deixei a amizade interferir nos negócios. 
+pt	Deixei a amizade interferir no trabalho. 
 ro	Am încurcat prietenia cu afacerea. 
 sv	Jag lät vänskapen komma i vägen för affärerna. 
 tr	İşle dostluğu birbirine karıştırdım. 

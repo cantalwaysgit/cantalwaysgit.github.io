@@ -11,8 +11,8 @@ he	&rlm;‏ומהר מאוד הסכימו, אכן‏ |
 it	Ma molto presto si decise sul serio 
 nl	en was het al heel snel eens 
 pl	I wtedy zgodził się 
-pr-br	E muito em breve concordou Sem dúvida 
-pr	E cedo concordou, sem dúvida 
+pt-br	E muito em breve concordou Sem dúvida 
+pt	E cedo concordou, sem dúvida 
 ro	Și curând a hotărât, într-adevăr 
 sv	Och höll till sist med 
 th	และในไม่ช้าทุกคนก็เห็นด้วย แน่นอน | 

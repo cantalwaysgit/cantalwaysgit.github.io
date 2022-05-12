@@ -12,8 +12,8 @@ ko	왜 그래? 괜찮아? |
 nl	Wat is er? Gaat het? 
 no	Hva er det? Alt i orden? 
 pl	Coś nie tak? 
-pr-br	O que há com você? Tudo bem? 
-pr	O que se passa contigo? Estás bem? 
+pt-br	O que há com você? Tudo bem? 
+pt	O que se passa contigo? Estás bem? 
 ro	Ce e cu tine? Te simți bine? 
 sv	Vad är det? Mår du bra? 
 th	คุณเป็นอะไร โอเคหรือเปล่า | 

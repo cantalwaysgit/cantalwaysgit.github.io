@@ -14,8 +14,8 @@ ko	결국 발을 담갔군 | 발이 젖어버렸어 |
 nl	Je hebt het gedaan. Je voet is nat. 
 no	Ok, du gjorde det! Du tok foten. Foten er våt. 
 pl	Zrobiłaś to! Wsadziłaś stopę. Stopa jest mokra. 
-pr-br	Você colocou o pé! O pé está molhado. 
-pr	Pronto, meteste o pé! O pé está molhado. 
+pt-br	Você colocou o pé! O pé está molhado. 
+pt	Pronto, meteste o pé! O pé está molhado. 
 ro	Bine, ai făcut-o! Ți-ai băgat piciorul. E ud. 
 ru	Ты это сделала! Окунула ногу. Нога мокрая. 
 sv	Du gjorde det. Du doppade foten. Den är våt. 

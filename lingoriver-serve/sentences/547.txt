@@ -12,8 +12,8 @@ ko	업계를 떠났어요, 지금은 | 블록버스터 비디오에서 일해요
 nl	Vertrokken. Hij werkt nu voor Blockbuster Video. 
 no	Han sluttet. Nå jobber han for Blockbuster Video. 
 pl	Odszedł. Teraz robi dla Blockbuster Video. 
-pr-br	Ele foi embora. Trabalha na Blockbuster agora. 
-pr	Saiu. Agora trabalha para a Blockbuster Video. 
+pt-br	Ele foi embora. Trabalha na Blockbuster agora. 
+pt	Saiu. Agora trabalha para a Blockbuster Video. 
 ro	A plecat. Acum lucrează la Blockbuster Video. 
 ru	Ушел. Работает в «Блокбастер Видео». 
 sv	Han slutade. Han jobbar för Blockbuster Video nu. 

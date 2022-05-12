@@ -9,8 +9,8 @@ he	&rlm;‏העניין עם סנדי הוא,‏ |
 it	Una cosa che Sandy faceva 
 no	Saken med Sandy er 
 pl	Taki już jest. 
-pr-br	O lance do Sandy 
-pr	Uma característica do Sandy 
+pt-br	O lance do Sandy 
+pt	Uma característica do Sandy 
 ro	Chestia cu Sandy 
 th	เรื่องก็คือแซนดี้นั้น | 
 tr	Sandy'nin sorunu 
@@ -35,8 +35,8 @@ he	&rlm;‏‏שהוא אף פעם לא הפסיק לשקר. | &rlm;‏-תמיד
 it	- era mentire continuamente. - Sempre. 
 no	-at han løy i ett sett. -Alltid. 
 pl	- Ciągle kłamie. - Cały czas. 
-pr-br	-é que ele nunca parava de mentir. -Nunca. 
-pr	é que nunca parava de mentir. - Sempre. 
+pt-br	-é que ele nunca parava de mentir. -Nunca. 
+pt	é que nunca parava de mentir. - Sempre. 
 ro	- ...e că mințea întruna. - Mereu. 
 th	- ไม่เคยหยุดโกหกเลย | - ตลอดเวลา | 
 tr	-yalan söylemekten hiç vazgeçmemesiydi. -Hiç. 

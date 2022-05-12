@@ -12,8 +12,8 @@ it	No, si è impiccato.
 nl	Nee. Hij heeft zichzelf opgehangen. 
 no	Nei! Han hang seg! 
 pl	Nie! Powiesił się! 
-pr-br	Não! Ele se enforcou! 
-pr	Não! Ele enforcou-se! 
+pt-br	Não! Ele se enforcou! 
+pt	Não! Ele enforcou-se! 
 ro	Nu! S-a spânzurat singur! 
 sv	Nej! Han hängde sig! 
 th	เปล่า เขาแขวนคอตาย | 

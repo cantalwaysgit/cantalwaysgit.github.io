@@ -14,8 +14,8 @@ it	- Ti ha mandato a dirmi che mi molla? - Sei stato un po' appiccicoso.
 nl	Dumpt hij mij via jou? -Je bent een beetje klef, dat zeg ik je. 
 no	-Dumper ham meg gjennom deg? -Du har vært litt klengete. 
 pl	- Kazał ci mnie rzucić? - Przylepiłeś się do niego, mówię ci. 
-pr-br	-Ele mandou você me demitir? -Você anda muito grudento. 
-pr	- Ele está a deixar-me através de ti? - Tens andado obcecado. 
+pt-br	-Ele mandou você me demitir? -Você anda muito grudento. 
+pt	- Ele está a deixar-me através de ti? - Tens andado obcecado. 
 ro	- Îmi dă papucii prin tine? - Ai fost un pic prea insistent. 
 sv	-Dumpar han mig genom dig? -Du har varit lite klängig. 
 th	- เขาจะทิ้งผมแล้วไปกับคุณเหรอ | - คุณติดหนึบไปหน่อย | 

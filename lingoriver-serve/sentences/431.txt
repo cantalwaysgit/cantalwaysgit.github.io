@@ -10,8 +10,8 @@ he	&rlm;‏כמו נקניקיות!‏ |
 it	Come i wurstel! 
 ko	거시기 같은 거요 | 
 pl	O pindolkach! 
-pr-br	Em pintos! 
-pr	Salsichas! 
+pt-br	Em pintos! 
+pt	Salsichas! 
 ro	La "cârnăciori"! 
 sv	Som prinskorvar! 
 th	อย่างจู๋ | 

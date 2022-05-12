@@ -11,8 +11,8 @@ he	&rlm;‏‏רמירו אלחנדרו. | &rlm;‏-אני יודע.‏ |
 it	- Ramiro Alejandro. - Lo so. 
 no	-Ramiro Alejandro. -Jeg vet. 
 pl	- Ramiro Alejandro. - Wiem. 
-pr-br	-Ramiro Alejandro. -Eu sei. 
-pr	- Ramiro Alejandro. - Eu sei. 
+pt-br	-Ramiro Alejandro. -Eu sei. 
+pt	- Ramiro Alejandro. - Eu sei. 
 ro	- Ramiro Alejandro. - Știu. 
 sv	-Ramiro Alejandro. -Jag vet. 
 th	- รามิโร อเลฮันโดร | - ผมรู้ | 

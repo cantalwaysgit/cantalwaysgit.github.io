@@ -8,8 +8,8 @@ fr	Voilà notre offre.
 he	&rlm;‏הנה ההצעה.‏ | 
 it	Ecco la proposta. 
 nl	Dit is de deal. 
-pr-br	O negócio é o seguinte. 
-pr	Eis a nossa proposta. 
+pt-br	O negócio é o seguinte. 
+pt	Eis a nossa proposta. 
 sv	Här är avtalet. 
 vi	Thỏa thuận thế này. | 
 zh-long	這樣吧 

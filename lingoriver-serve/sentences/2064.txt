@@ -9,8 +9,8 @@ he	&rlm;‏‏אני חתמתי איתו. | &rlm;‏-אנחנו חתמנו אי�
 it	- Io firmai con lui. - Anche noi. 
 ko	- 저도 했어요 | - 우리도요 | 
 no	-Jeg ble med ham. -Vi ble med ham. 
-pr-br	-Eu o contratei. -Nós o contratamos. 
-pr	- Fiz contrato com ele. - Nós fizemos contrato com ele. 
+pt-br	-Eu o contratei. -Nós o contratamos. 
+pt	- Fiz contrato com ele. - Nós fizemos contrato com ele. 
 th	- ผมเซ็นสัญญากับเขา | - เราเซ็นสัญญากับเขา | 
 tr	-İmzayı attım. -İmza attık. 
 zh-long	-我是他旗下藝人 -我們也是他的旗下藝人 

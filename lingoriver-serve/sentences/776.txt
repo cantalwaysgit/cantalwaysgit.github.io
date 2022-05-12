@@ -13,8 +13,8 @@ it	B-A-C-I-A-R-C-I
 ko	키스를 했어 | 
 nl	te k-u-s-s-e-n 
 pl	I całowaliśmy się 
-pr	Aos B-E-I-J-O-S 
-pr-br	Nos beijando 
+pt	Aos B-E-I-J-O-S 
+pt-br	Nos beijando 
 ro	S-Ă-R-U-T-Â-N-D-U-N-E 
 ru	Тили-тили-тесто! 
 sv	K-Y-S-S-T-E-S 

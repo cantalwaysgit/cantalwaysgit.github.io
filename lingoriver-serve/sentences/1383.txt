@@ -12,8 +12,8 @@ it	Ne scriverai di nuove.
 nl	Doe nieuwe clous. 
 no	Lag nye sluttpoeng. 
 pl	To napiszesz nowe. 
-pr-br	Faça novas. 
-pr	Fazes piadas novas. 
+pt-br	Faça novas. 
+pt	Fazes piadas novas. 
 ro	Scrii poante noi. 
 sv	Du fixar nya poänger. 
 th	ปล่อยมุกเด็ดใหม่ | 

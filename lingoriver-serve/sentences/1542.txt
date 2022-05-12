@@ -15,8 +15,8 @@ ko	누군가 인생을 되찾았군! |
 nl	Iemand heeft zijn leven terug. 
 no	Noen har fått tilbake livet sitt! 
 pl	Ktoś tu odzyskał życie! 
-pr	Alguém recuperou a sua vida! 
-pr-br	Alguém retomou a própria vida! 
+pt	Alguém recuperou a sua vida! 
+pt-br	Alguém retomou a própria vida! 
 ro	Cineva a învățat să trăiască din nou! 
 sv	Nån har fått tillbaka sitt liv! 
 th	ใครบางคนเพิ่งได้ชีวิตกลับมา | 

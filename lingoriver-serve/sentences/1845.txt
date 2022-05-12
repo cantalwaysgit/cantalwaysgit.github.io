@@ -13,8 +13,8 @@ it	Se accettassimo,
 ko	이 조건에 계약하면 | 
 no	Hvis vi sier ja, 
 pl	Jeśli się zgodzimy, 
-pr-br	Se aceitarmos esta proposta, 
-pr	Se aceitarmos este acordo, 
+pt-br	Se aceitarmos esta proposta, 
+pt	Se aceitarmos este acordo, 
 ro	Dacă acceptăm propunerea, 
 ru	Если мы на это пойдем, 
 sv	Om vi tar avtalet, 
@@ -38,8 +38,8 @@ it	questo ragazzo finirebbe appeso a una fune come il vostro ultimo pagliaccio.
 ko	지난 광대처럼 | 목매달아 죽을지도 몰라요 | 
 no	vil fyren min henge seg akkurat som den forrige klovnen deres. 
 pl	mój klient wkrótce zadynda jak ten wasz ostatni pajac. 
-pr-br	meu cliente vai acabar enforcado como o seu último palhaço. 
-pr	ele vai acabar pendurado numa corda como o vosso último palhaço. 
+pt-br	meu cliente vai acabar enforcado como o seu último palhaço. 
+pt	ele vai acabar pendurado numa corda como o vosso último palhaço. 
 ro	omul meu o să ajungă la ștreang, așa cum a ajuns și ultimul vostru clovn. 
 ru	мой клиент окажется в петле, как ваш предыдущий клоун. 
 sv	kommer min kille sluta i ett rep som er förra. 

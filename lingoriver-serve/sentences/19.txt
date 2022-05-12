@@ -13,8 +13,8 @@ ko	‘누가 초대했다고 온 거야?’ | 그런 생각이 들어요 |
 nl	Je dacht: niemand heeft hem uitgenodigd. 
 no	Du kunne tenke: "Ingen ba den fyren." 
 pl	A nikt go nie zapraszał. 
-pr-br	Você pensava: "Ninguém convidou esse cara." 
-pr	Pensavam: "Ninguém convidou este tipo." 
+pt-br	Você pensava: "Ninguém convidou esse cara." 
+pt	Pensavam: "Ninguém convidou este tipo." 
 ro	Îți dădeai seama apoi că nu-l invitase nimeni. 
 ru	а ты бы думал: «Его же никто не приглашал!» 
 sv	Och man tänkte: "Han är inte ens inbjuden." 

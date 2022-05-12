@@ -12,8 +12,8 @@ it	Già. E sei davvero inarrestabile.
 nl	Je was zo goed bezig. 
 no	Ja, du har gjort det så bra. 
 pl	Powodzi ci się. 
-pr-br	É, você está muito bem. 
-pr	Sim, tens andado numa roda-viva. 
+pt-br	É, você está muito bem. 
+pt	Sim, tens andado numa roda-viva. 
 ro	Da. Ai avut succes mare. 
 sv	Du har haft såna framgångar. 
 th	ใช่ นายประสบความสำเร็จมาตลอด | 

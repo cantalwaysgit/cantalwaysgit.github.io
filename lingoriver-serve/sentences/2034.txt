@@ -15,8 +15,8 @@ ko	넌 내 별이야, 코트니 |
 nl	Jij bent mijn ster, Courtney. 
 no	Du er stjernen min, Courtney. 
 pl	Jesteś moją gwiazdą. 
-pr-br	Você é a minha estrela, Courtney. 
-pr	És a minha estrela, Courtney. 
+pt-br	Você é a minha estrela, Courtney. 
+pt	És a minha estrela, Courtney. 
 ro	Ești steaua mea, Courtney. 
 sv	Du är min stjärna. 
 th	คุณคือดวงดาวของผม คอร์ทนี่ย์ | 

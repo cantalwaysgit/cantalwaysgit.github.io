@@ -15,8 +15,8 @@ it	Quando un membro della Wexler Artists porta a termine un progetto,
 ko	웩슬러 아티스트의 예술가가 | 작품을 하나 완성하면 | 
 nl	Als iemand van Wexler Artists een project voltooit... 
 no	Hver gang noen i Wexler Artists fullfører et prosjekt, 
-pr-br	Sempre que alguém na Artistas Wexler completa um projeto, 
-pr	Quando alguém na Wexler Artists conclui um projeto, 
+pt-br	Sempre que alguém na Artistas Wexler completa um projeto, 
+pt	Quando alguém na Wexler Artists conclui um projeto, 
 sv	När nån på Wexler Artists fullbordar ett projekt, 
 th	เมื่อใครสักคนในเวกซเลอร์อาร์ทิสต์ส | ทำโครงการสำเร็จ | 
 tr	Wexler Sanatçıları'nda bir proje tamamlandığında 
@@ -39,8 +39,8 @@ ko	- 다 같이 모여 | - 그래? |
 nl	...komen we samen. -Is dat zo? 
 no	-samles vi. -Gjør vi? 
 pl	- spotykamy się. - Tak? 
-pr-br	-nós nos reunimos. -Reunimos? 
-pr	nós reunimo-nos. - A sério? 
+pt-br	-nós nos reunimos. -Reunimos? 
+pt	nós reunimo-nos. - A sério? 
 sv	-samlas vi allihop. -Gör vi? 
 th	- เราจะรวมตัวกัน | - งั้นเหรอ | 
 tr	-bir araya geliriz. -Öyle mi? 

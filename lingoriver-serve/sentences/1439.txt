@@ -3,8 +3,8 @@ el	ΣΥΝΕΔΡΙΑΚΟ ΚΕΝΤΡΟ ΤΟΥ ΑΝΑΧΑΪΜ 1996
 es	CENTRO DE CONVENCIONES DE ANAHEIM 1996 
 he	&rlm;‏‏- מרכז הכנסים אנהיים | &rlm;‏1996 -‏ | 
 ko	“애너하임 컨벤션 센터 | 1996년” | 
-pr-br	CENTRO DE CONVENÇÕES DE ANAHEIM 
-pr	CENTRO DE CONVENÇÕES DE ANAHEIM 
+pt-br	CENTRO DE CONVENÇÕES DE ANAHEIM 
+pt	CENTRO DE CONVENÇÕES DE ANAHEIM 
 ru	КОНФЕРЕНЦ-ЦЕНТР АНАХАЙМА, 1996 
 th	(ศูนย์ประชุมอนาไฮม์ ปี 1996) | 
 tr	ANAHEIM KONGRE MERKEZİ 1996 

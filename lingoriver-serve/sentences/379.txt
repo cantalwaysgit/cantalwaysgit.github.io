@@ -14,8 +14,8 @@ it	Che stronzo!
 nl	Die zak. 
 no	Den kødden! 
 pl	Fiut! 
-pr-br	Que pilantra! 
-pr	Que imbecil! 
+pt-br	Que pilantra! 
+pt	Que imbecil! 
 ro	Ce ticălos! 
 sv	Vilket as! 
 th	คนบ้าอะไร | 

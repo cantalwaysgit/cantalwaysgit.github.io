@@ -12,8 +12,8 @@ it	Questo catturerà la vostra attenzione.
 ko	이거면 구미가 당길 거야 | 
 nl	Die zal je aandacht trekken. 
 pl	Zasmakuje ci. 
-pr-br	Isso vai chamar a sua atenção. 
-pr	Vai captar a tua atenção. 
+pt-br	Isso vai chamar a sua atenção. 
+pt	Vai captar a tua atenção. 
 ro	Ăla îți va trezi interesul. 
 sv	Jag är säker på att du gillar den. 
 tr	Bu, ilgini çekecektir. 

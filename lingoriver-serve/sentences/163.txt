@@ -12,8 +12,8 @@ it	Sei arrivato in ritardo!
 ko	늦게 들어오는 거 봤는데! | 
 no	Jeg så deg komme sent! 
 pl	Spóźniłeś się! 
-pr-br	Vi que chegou atrasado! 
-pr	Eu vi-te chegar tarde! 
+pt-br	Vi que chegou atrasado! 
+pt	Eu vi-te chegar tarde! 
 ro	Eu te-am văzut întârziind! 
 ru	Ты же опоздал! 
 sv	Jag såg att du kom sent. 

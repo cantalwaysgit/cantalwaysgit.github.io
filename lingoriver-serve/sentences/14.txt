@@ -8,8 +8,8 @@ it	Da dove posso iniziare?
 ko	어디서부터 시작할까요? | 
 nl	Waar zal ik beginnen? 
 pl	Od czego zacząć? 
-pr-br	Por onde começo? 
-pr	Por onde começo? 
+pt-br	Por onde começo? 
+pt	Por onde começo? 
 sv	Var ska jag börja? 
 zh-long	該從何說起呢？ 
 zh-short	我从哪开始呢？ 

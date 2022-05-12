@@ -10,8 +10,8 @@ he	&rlm;‏‏רוצה שאשים לך? | &rlm;‏-אני בסדר.‏ |
 it	- Vuoi che te la serva? - Faccio io. 
 no	-Skal jeg helle? -Jeg kan. 
 pl	- Polać? - Nie. 
-pr-br	-Quer que coloque para você? -Pode deixar. 
-pr	- Queres que ponha? - Eu ponho. 
+pt-br	-Quer que coloque para você? -Pode deixar. 
+pt	- Queres que ponha? - Eu ponho. 
 ro	- Vrei să ți-l torn eu? - Mă descurc. 
 th	- อยากให้เทให้ไหม | - ฉันทำได้ค่ะ | 
 tr	-Koyayım mı? -Ben yaparım. 
@@ -38,8 +38,8 @@ he	&rlm;‏‏את תעשי את זה? | &rlm;‏-כן.‏ |
 it	- Fai tu? - Sì. 
 no	-Tar du det? -Ja. 
 pl	Nie trzeba? 
-pr-br	-Você coloca? -Sim. 
-pr	- Pões? - Sim. 
+pt-br	-Você coloca? -Sim. 
+pt	- Pões? - Sim. 
 ro	- Te descurci? - Da. 
 tr	-Yapar mısın? -Evet. 
 vi	- Cô làm được? | - Vâng. | 

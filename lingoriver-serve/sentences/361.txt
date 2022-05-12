@@ -11,8 +11,8 @@ fr	Tu vas atteindre des sommets.
 he	&rlm;‏‏את הולכת ישר לפסגה. | &rlm;‏-כן?‏ | 
 it	- Arriverai in alto. - Dici? 
 pl	- Wespniesz się na sam szczyt. - Tak? 
-pr-br	-Você vai direto ao topo. -É? 
-pr	- Vais direitinha para o topo. - Sim? 
+pt-br	-Você vai direto ao topo. -É? 
+pt	- Vais direitinha para o topo. - Sim? 
 ro	- O să ajungi în vârf. - Da? 
 sv	-Du blir en av de största. -Jaså? 
 th	- คุณจะตรงดิ่งไปสู่เบื้องบนเลย | - จริงอะ | 

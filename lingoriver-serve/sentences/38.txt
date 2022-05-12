@@ -16,8 +16,8 @@ ko	무슨 말씀이신지 모르겠네요 |
 nl	Ik weet niet waar je het over hebt. 
 no	Det vet jeg ikke noe om. 
 pl	Nie mam pojęcia, o czym mówisz. 
-pr-br	Não sei do que está falando. 
-pr	Não sei do que estás a falar. 
+pt-br	Não sei do que está falando. 
+pt	Não sei do que estás a falar. 
 ro	Habar n-am ce spui. 
 sv	Jag vet inte vad du pratar om. 
 tr	Neden bahsettiğini bilmiyorum. 

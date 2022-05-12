@@ -13,8 +13,8 @@ it	Non scherzo. Non saresti più mia cliente.
 nl	Ik meen het. Dan ben je geen cliënt meer van me. 
 no	Jeg tuller ikke. Jeg sier deg opp som klient. 
 pl	Nie żartuję. Rozwiążemy naszą umowę. 
-pr-br	Não estou brincando. Você não será mais minha cliente. 
-pr	Não estou a brincar. Dispenso-te como cliente. 
+pt-br	Não estou brincando. Você não será mais minha cliente. 
+pt	Não estou a brincar. Dispenso-te como cliente. 
 ro	Nu-mi arde de glume. Nu vei mai fi clienta mea. 
 sv	Jag skämtar inte. Jag släpper dig som klient. 
 th	ไม่ ผมไม่ได้ล้อเล่น | ผมจะเลิกดูแลคุณนะ | 
@@ -37,8 +37,8 @@ he	&rlm;‏לא רציתי להגיד את זה.‏ |
 it	Non avrei voluto dirlo. 
 no	Jeg ville ikke si det. 
 pl	Nie chcę tego. 
-pr-br	Eu não queria dizer isso. 
-pr	Não queria dizer isso. 
+pt-br	Eu não queria dizer isso. 
+pt	Não queria dizer isso. 
 ro	N-am vrut să zic asta. 
 sv	Jag ville inte säga det. 
 th	ไม่อยากพูดแบบนั้น | 

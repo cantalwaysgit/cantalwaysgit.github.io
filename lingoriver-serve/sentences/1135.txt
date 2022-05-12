@@ -10,8 +10,8 @@ he	&rlm;‏לא אסתכל.‏ |
 it	Non ti guardo. 
 ko	안 볼게요 | 
 no	Jeg skal ikke se. 
-pr-br	Não vou olhar. 
-pr	Eu não olho. 
+pt-br	Não vou olhar. 
+pt	Eu não olho. 
 ro	Nu mă uit. 
 th	ฉันจะไม่มองหรอก | 
 tr	Bakmam. 

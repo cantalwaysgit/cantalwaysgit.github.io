@@ -9,8 +9,8 @@ fi	Kiitos. Mukava nähdä sinua.
 fr	Super. Ravi de te voir. 
 he	&rlm;‏תודה. טוב לראות אותך.‏ | 
 it	Grazie. Piacere di vederti. 
-pr-br	Obrigado. Que bom ver você. 
-pr	Obrigado. Prazer em ver-te. 
+pt-br	Obrigado. Que bom ver você. 
+pt	Obrigado. Prazer em ver-te. 
 ro	Mersi. Mă bucur și eu să te văd. 
 sv	Tack. Kul att se dig med. 
 th	ขอบคุณ ดีใจที่เจอนะ | 

@@ -14,8 +14,8 @@ it	Sono Butt-Head.
 ko	버트헤드예요 | 
 no	Det er Butt-Head. 
 pl	Butt-Head. 
-pr-br	Aqui é o Butt-Head. 
-pr	Fala o Butt-Head. 
+pt-br	Aqui é o Butt-Head. 
+pt	Fala o Butt-Head. 
 ro	Sunt Butt-Head. 
 th	นี่บัตต์-เฮด | 
 tr	Ben Butt-Head. 
@@ -39,8 +39,8 @@ he	&rlm;‏היי, באטהד.‏ |
 it	Ciao, Butt-Head. 
 no	Hei, Butt-Head. 
 pl	Cześć, Butt-Head. 
-pr-br	Oi, Butt-Head. 
-pr	Olá, Butt-Head. 
+pt-br	Oi, Butt-Head. 
+pt	Olá, Butt-Head. 
 ro	Bună, Butt-Head! 
 sv	Hej, Butt-Head. 
 th	หวัดดีบัตต์-เฮด | 

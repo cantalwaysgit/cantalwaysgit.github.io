@@ -11,8 +11,8 @@ he	&rlm;‏אני לא יודעת.‏ |
 it	Non lo so. 
 ko	글쎄요 | 
 no	Jeg vet ikke. 
-pr-br	Não sei. 
-pr	Não sei. 
+pt-br	Não sei. 
+pt	Não sei. 
 ro	Nu știu. 
 vi	Tôi không biết. | 
 zh-long	不知道 
@@ -39,8 +39,8 @@ it	Mi sento viva soltanto quando canto.
 ko	노래를 부를 때 | 진짜 살아있는 기분이 들거든요 | 
 no	Jeg føler meg bare levende når jeg synger. 
 pl	Tylko kiedy śpiewam, czuję, że naprawdę żyję. 
-pr-br	Só me sinto viva quando estou cantando. 
-pr	Só me sinto realmente viva quando estou a cantar. 
+pt-br	Só me sinto viva quando estou cantando. 
+pt	Só me sinto realmente viva quando estou a cantar. 
 ro	Simt că trăiesc numai când cânt. 
 ru	Когда я пою, то чувствую себя живой. 
 th	แค่รู้สึกมีชีวิตชีวาตอนที่ร้องเพลง | 

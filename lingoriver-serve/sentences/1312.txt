@@ -12,8 +12,8 @@ it	Dov'è Peter? A fare fisioterapia?
 nl	Waar is Peter? Fysio aan het doen? 
 no	Hei. Hvor er Peter? I fysioterapi? 
 pl	A gdzie Peter? Na rehabilitacji? 
-pr-br	Ei, onde está o Peter? Ele está fazendo fisioterapia? 
-pr	Onde está o Peter? Está a fazer fisioterapia? 
+pt-br	Ei, onde está o Peter? Ele está fazendo fisioterapia? 
+pt	Onde está o Peter? Está a fazer fisioterapia? 
 ro	Bună! Unde e Peter? Face fizioterapie? 
 sv	Var är Peter? Har han sjukgymnastik? 
 th	เฮ่ ปีเตอร์อยู่ไหน | กำลังทำกายภาพอยู่เหรอ | 

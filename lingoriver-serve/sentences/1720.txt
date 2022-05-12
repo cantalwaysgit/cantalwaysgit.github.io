@@ -13,8 +13,8 @@ ko	- 그래서요? 나는 어쩌고요? | - 그렇게 말한 거 맞아 |
 nl	En? Ik sta zo in brand. -Hij zei het. 
 no	-Hva så? Jeg skal bli påtent! -Han sa det! Han sa det han sa. 
 pl	- Mam to gdzieś. Zaraz będę płonął! - Tak powiedział i już. 
-pr-br	-E daí? Estou prestes a pegar fogo! -Foi isso que ele disse. 
-pr	- E daí? Eu vou estar a arder! - Ele disse o que disse. 
+pt-br	-E daí? Estou prestes a pegar fogo! -Foi isso que ele disse. 
+pt	- E daí? Eu vou estar a arder! - Ele disse o que disse. 
 ro	- Și? Eu o să iau foc! - A zis! A zis ce a zis. 
 sv	-Jag bryr mig inte. Jag ska brinna! -Det är vad han sa! 
 th	- แล้วไง ผมกำลังจะโดนจุดไฟเผา | - เขาพูดอย่างนั้น เขาพูดอย่างที่พูด | 

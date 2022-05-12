@@ -14,8 +14,8 @@ it	Da questa parte, bambine. Venite con me.
 nl	Deze kant op. Kom mee. 
 no	Denne veien. Bli med meg. 
 pl	Dziewczyny, tędy. Chodźcie ze mną. 
-pr-br	Meninas, por aqui. Venham comigo. 
-pr	Meninas, por aqui. Venham comigo. 
+pt-br	Meninas, por aqui. Venham comigo. 
+pt	Meninas, por aqui. Venham comigo. 
 ro	Pe aici! Veniți cu mine! 
 sv	Den här vägen, hörni. Följ mig. 
 th	นี่หนู ทางนี้ มากับฉันทางนี้ | 

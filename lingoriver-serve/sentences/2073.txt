@@ -13,8 +13,8 @@ ko	연예계 돈벌이는 좋지만 | 그렇게 쉽지는 않아요 |
 nl	Rijkdom door showbizz is goed, maar niet echt. 
 no	Showbusiness-rikdom er bra, men det er ikke ekte. 
 pl	Prawdziwego bogactwa nie bierze się z show-biznesu. 
-pr	A riqueza do mundo do espetáculo é boa, mas não é real. 
-pr-br	A riqueza do show business é boa, mas não é real. 
+pt	A riqueza do mundo do espetáculo é boa, mas não é real. 
+pt-br	A riqueza do show business é boa, mas não é real. 
 ro	Averea din showbiz e bună, dar nu e reală. 
 ru	В шоу-бизнесе неплохие деньги, но не так уж много. 
 sv	Showbusiness-rikedom är bra, men det är inte äkta rikedom. 

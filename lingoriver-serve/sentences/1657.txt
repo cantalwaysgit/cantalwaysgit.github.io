@@ -12,8 +12,8 @@ ko	너랑 네 가족을 생각하면 | 정말 기뻐 |
 nl	Ik ben zo blij voor jou en je gezin. 
 no	Jeg er glad på vegne av deg og familien din. 
 pl	Twoja żona i dzieci też cię cieszą. 
-pr-br	Estou feliz por você, sua esposa e seus filhos. 
-pr	Estou contente por ti, pela tua esposa e pelos teus filhos. 
+pt-br	Estou feliz por você, sua esposa e seus filhos. 
+pt	Estou contente por ti, pela tua esposa e pelos teus filhos. 
 ro	Sunt așa de bucuros pentru tine, pentru soția ta și copii! 
 sv	Jag är glad för dig och din familjs skull. 
 th	ดีใจกับนาย เมียและลูกด้วย | 
@@ -40,8 +40,8 @@ ko	거기까지야 |
 nl	Meer wil ik niet. 
 no	Det er alt jeg vil. 
 pl	To wszystko. 
-pr-br	É só isso que quero. 
-pr	É só isso. 
+pt-br	É só isso que quero. 
+pt	É só isso. 
 ro	E tot ce-mi doresc. 
 sv	Det är allt jag vill. 
 th	โอเค แค่นั้นแหละ | 

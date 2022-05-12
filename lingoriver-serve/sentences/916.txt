@@ -13,8 +13,8 @@ ko	잘했다, 쫓아버렸네 |
 nl	Goed zo. Je maakte haar bang. 
 no	Flott. Du skremte henne. 
 pl	Brawo. Wystraszyłeś ją. 
-pr	Bom trabalho. Assustaste-a. 
-pr-br	Muito bem. Você a assustou. 
+pt	Bom trabalho. Assustaste-a. 
+pt-br	Muito bem. Você a assustou. 
 ro	Bravo! Ai speriat-o. 
 ru	Молодец. Ты её спугнул. 
 sv	Snyggt. Du skrämde henne. 

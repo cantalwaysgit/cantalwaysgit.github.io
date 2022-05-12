@@ -13,8 +13,8 @@ ko	마이크 던져줘 | 마이크 아래로 |
 nl	Geef de microfoon. De microfoon omlaag. 
 no	Og send mikrofonen. Ned med mikrofonen. 
 pl	Z ręki do ręki. A teraz w dół. 
-pr-br	Troque o microfone de mão. Abaixe o microfone. 
-pr	Passa o microfone. Baixa o microfone. 
+pt-br	Troque o microfone de mão. Abaixe o microfone. 
+pt	Passa o microfone. Baixa o microfone. 
 ro	Și... Pasează microfonul. Jos cu microfonul. 
 ru	Переложили. И вниз. 
 sv	Och flytta micken. Ner med micken. 

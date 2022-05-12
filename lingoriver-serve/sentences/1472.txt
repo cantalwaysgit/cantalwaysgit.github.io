@@ -4,7 +4,7 @@ ar	&rlm;‏"مطعم (دان تاناس)"‏ |
 el	ΕΣΤΙΑΤΟΡΙΟ ΝΤΑΝ ΤΑΝΑΣ 
 he	&rlm;‏‏- מסעדת | &rlm;‏דן טאנה'ס -‏ | 
 ko	“댄 타나 레스토랑” | 
-pr-br	RESTAURANTE DAN TANA'S 
+pt-br	RESTAURANTE DAN TANA'S 
 vi	NHÀ HÀNG DAN TANA'S | 
 zh-long	（丹塔娜小館） 
 zh-short	（丹塔纳餐厅） 

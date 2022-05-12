@@ -14,8 +14,8 @@ it	Ma tu sì.
 nl	Maar jij wel. 
 no	Men det kan du. 
 pl	Ty to zrobisz. 
-pr-br	Mas você consegue. 
-pr	Mas tu consegues. 
+pt-br	Mas você consegue. 
+pt	Mas tu consegues. 
 ro	Dar poți tu. 
 sv	Men du kan. 
 th	แต่นายพูดไหว | 

@@ -12,8 +12,8 @@ it	È preoccupante sapere che il tuo cuore ha dei problemi.
 nl	Eng om te weten dat je hart niet goed is. 
 no	Det er skummelt å vite at du har dårlig hjerte. 
 pl	Strasznie jest wiedzieć, że ci serce nawala. 
-pr-br	É assustador saber que o coração não está bom. 
-pr	É assustador saber que o coração não está bem. 
+pt-br	É assustador saber que o coração não está bom. 
+pt	É assustador saber que o coração não está bem. 
 ro	Te înspăimânți când auzi că ai probleme cu inima. 
 sv	Det är läskigt att veta att hjärtat är dåligt. 
 th	มันน่ากลัวที่รู้ว่าหัวใจไม่แข็งแรง | 

@@ -14,8 +14,8 @@ it	Perché non ti togli le scarpe?
 nl	Wil je je schoenen uitdoen? 
 no	Kan du ta av deg skoene? 
 pl	Zdejmij buty. 
-pr-br	Por que não tira os sapatos? 
-pr	Queres descalçar-te? 
+pt-br	Por que não tira os sapatos? 
+pt	Queres descalçar-te? 
 ro	Ce-ar fi să te descalți? 
 sv	Varför tar du inte av dig skorna? 
 th	ทำไมไม่ถอดรองเท้าออกล่ะ | 

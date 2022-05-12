@@ -14,8 +14,8 @@ ko	이쪽은 제 남자친구예요 | 이름 좀 말해줘 |
 nl	Dit is mijn nieuwe vriend. Zeg jij het. 
 no	Dette er min nye kjæreste... Si det for meg. 
 pl	To mój nowy chłopak. Przedstaw się w swoim stylu. 
-pr-br	Pessoal, este é o meu novo namorado... Diga para mim, querido. 
-pr	Este é o meu novo namorado... Diz tu, querido. 
+pt-br	Pessoal, este é o meu novo namorado... Diga para mim, querido. 
+pt	Este é o meu novo namorado... Diz tu, querido. 
 ro	El e noul meu iubit... Prezintă-te tu, scumpule. 
 sv	Det här är min nya kille. Säg det åt mig. 
 th	ทุกคน นี่แฟนใหม่ของฉัน | ช่วยพูดแทนทีสิ ที่รัก | 

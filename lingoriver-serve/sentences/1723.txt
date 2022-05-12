@@ -9,8 +9,8 @@ it	- Forza! - Vai!
 ko	- 좋아요! | - 이제 출발해! | 
 no	-Ok! -Nå! 
 pl	Jedziesz! 
-pr-br	-Beleza! -Vá! 
-pr	- Pronto! - Vai! 
+pt-br	-Beleza! -Vá! 
+pt	- Pronto! - Vai! 
 ro	- Bine! - Bine, dă-ți drumul! 
 ru	-Так! -Ну, прыгай! 
 sv	-Okej. -Kör! 

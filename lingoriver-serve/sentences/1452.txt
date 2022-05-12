@@ -14,8 +14,8 @@ ko	사진 찍고 싶은데 | 아기처럼 안아서 달래주실래요? |
 nl	Wil je me wiegen terwijl m'n broer een foto maakt? 
 no	Kan du vugge meg som en baby mens broren min tar bilde? 
 pl	Ululasz mnie do snu, a mój brat cyknie fotkę? 
-pr-br	Me embala como um bebê enquanto meu irmão tira a foto? 
-pr	Podes embalar-me como a um bebé para o meu irmão tirar uma fotografia? 
+pt-br	Me embala como um bebê enquanto meu irmão tira a foto? 
+pt	Podes embalar-me como a um bebé para o meu irmão tirar uma fotografia? 
 ro	Vrei să mă legeni în timp ce fratele meu face o poză? 
 sv	Kan du vagga mig som en bebis när brorsan tar en bild? 
 th	ช่วยอุ้มผมโยกเหมือนเด็ก | ให้น้องผมถ่ายรูปได้ไหมครับ | 

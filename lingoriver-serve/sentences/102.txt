@@ -14,8 +14,8 @@ ko	긴장되겠지 | 땀나는 게 보이네 |
 nl	Je bent nerveus. Je zweet. 
 no	Du er nervøs. Jeg ser at du svetter. 
 pl	Denerwujesz się. Widzę, że się pocisz. 
-pr-br	Você está nervoso. Vejo que está suando. 
-pr	Estás nervoso. Vejo que estás a suar. 
+pt-br	Você está nervoso. Vejo que está suando. 
+pt	Estás nervoso. Vejo que estás a suar. 
 ro	Ai emoții. Văd că transpiri. 
 th	ตื่นเต้นสินะ เห็นแล้วว่าเหงื่อแตก | 
 tr	Gerginsin. Terlediğini görebiliyorum. 

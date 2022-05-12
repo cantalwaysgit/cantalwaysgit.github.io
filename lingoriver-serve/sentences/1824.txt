@@ -14,8 +14,8 @@ he	&rlm;‏אני חושבת שהוא עובר התקף לב.‏ |
 it	Temo che sia un attacco di cuore. 
 no	Jeg tror han får hjerteinfarkt. 
 pl	Chyba ma zawał. 
-pr	Acho que ele está a ter um ataque cardíaco. 
-pr-br	Acho que ele está tendo um infarto. 
+pt	Acho que ele está a ter um ataque cardíaco. 
+pt-br	Acho que ele está tendo um infarto. 
 ro	Cred că are un atac de cord. 
 th	ฉันว่าเขากำลังหัวใจวาย | 
 tr	Kalp krizi geçiriyor galiba. 

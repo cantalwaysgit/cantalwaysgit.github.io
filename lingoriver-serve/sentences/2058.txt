@@ -14,8 +14,8 @@ ko	- 자기? 여기 뭐 묻었어 | - 그래? 고마워 |
 nl	Schat, je hebt een vlekje hier. 
 no	-Skatt? Du har noe der. -Hva? Takk. 
 pl	- Masz tu coś, kochanie. - Co? Dziękuję. 
-pr-br	-Querido? Tem  schmutz  aqui. -Quê? Obrigado. 
-pr	- Querido? Estás sujo aqui. - O quê? Obrigado. 
+pt-br	-Querido? Tem  schmutz  aqui. -Quê? Obrigado. 
+pt	- Querido? Estás sujo aqui. - O quê? Obrigado. 
 ro	- Scumpule? Ai ceva acolo. - Poftim? Mersi. 
 sv	-Älskling? Du har lite smuts där. -Vadå? Tack. 
 th	- ที่รัก คุณมีรอยเปื้อนนิดหน่อย | - อะไรนะ ขอบคุณ | 

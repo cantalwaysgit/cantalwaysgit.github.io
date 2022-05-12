@@ -14,8 +14,8 @@ it	Si chiamava Alfred.
 ko	알프레드라는 친구였어 | 
 no	Han het Alfred. 
 pl	Nazywał się Alfred. 
-pr-br	O nome dele era Alfred. 
-pr	Ele chamava-se Alfred. 
+pt-br	O nome dele era Alfred. 
+pt	Ele chamava-se Alfred. 
 ro	Îl chema Alfred. 
 sv	Han hette Alfred. 
 th	เขาชื่ออัลเฟรด | 
@@ -37,8 +37,8 @@ he	&rlm;‏אתה הומו!‏ |
 it	Sei gay! 
 no	Du er homofil! 
 pl	Jesteś gejem! 
-pr-br	Você é gay! 
-pr	És  gay! 
+pt-br	Você é gay! 
+pt	És  gay! 
 ro	Ești gay! 
 sv	Du är gay! 
 th	คุณเป็นเกย์! | 

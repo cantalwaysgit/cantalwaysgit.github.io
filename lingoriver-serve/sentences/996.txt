@@ -8,8 +8,8 @@ fi	Selvä.
 he	&rlm;‏בסדר.‏ | 
 it	Bene. 
 ko	그렇군요 | 
-pr-br	Está bem. 
-pr	Está bem. 
+pt-br	Está bem. 
+pt	Está bem. 
 ro	Bine. 
 sv	Okej. 
 tr	Peki. 

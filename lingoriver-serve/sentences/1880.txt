@@ -14,8 +14,8 @@ it	Sandy Wexler, tu hai il cuore più grande, migliore e più forte
 nl	Jij hebt het grootste, sterkste hart... 
 no	Sandy Wexler, du har det største, beste, sterkeste hjertet 
 pl	Sandy Wexlerze, masz największe, najlepsze i najmocniejsze serce 
-pr-br	Sandy Wexler, você tem o maior, melhor e mais forte coração 
-pr	Sandy Wexler, tu tens o maior, o melhor e o mais forte coração 
+pt-br	Sandy Wexler, você tem o maior, melhor e mais forte coração 
+pt	Sandy Wexler, tu tens o maior, o melhor e o mais forte coração 
 ro	Sandy Wexler, tu ai cea mai mare, mai bună și mai puternică inimă 
 sv	Du har det största, starkaste hjärtat 
 th	แซนดี้ เวกซ์เลอร์คุณมีหัวใจที่ | ใหญ่ที่สุด ดีที่สุด แข็งแรงที่สุด | 

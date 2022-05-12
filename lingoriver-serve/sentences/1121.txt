@@ -13,8 +13,8 @@ ko	죽인 건 아니죠? |
 nl	Je hebt hem toch niet gedood? 
 no	Du drepte ham vel ikke? 
 pl	Chyba go nie zabiłeś? 
-pr-br	Você não o matou, certo? 
-pr	Não o mataste, pois não? 
+pt-br	Você não o matou, certo? 
+pt	Não o mataste, pois não? 
 ro	Doar nu l-ai omorât, nu? 
 sv	Du dödade den väl inte? 
 th	คุณไม่ได้ฆ่ามันใช่ไหม | 

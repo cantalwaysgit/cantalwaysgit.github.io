@@ -12,8 +12,8 @@ it	Perché? Sono i vestiti con cui mi alleno.
 ko	왜냐고? 내 운동복이야 | 
 no	Hvorfor? Det er treningstøyet mitt. 
 pl	Ćwiczę w nich. 
-pr-br	Por quê? São as minhas roupas de treino. 
-pr	Porquê? São as minhas roupas de fazer exercício. 
+pt-br	Por quê? São as minhas roupas de treino. 
+pt	Porquê? São as minhas roupas de fazer exercício. 
 ro	De ce? E costumul meu de antrenament. 
 sv	Det är mina träningskläder. 
 th	ทำไม นี่ชุดออกกำลังกายของผม | 
