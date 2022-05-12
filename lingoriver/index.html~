@@ -1,93 +1,133 @@
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>lingoriver</title>
-    <script src="tlit/kanjidict.js" defer></script>
-    <script src="tlit/unicode-tlit-array.js" defer></script>
-    <script src="tlit/translit.js" defer></script>
-    <script src="dict-03-04.js" defer></script>
-    <script src="text-train.js" defer></script>
-    <script src="main.js" defer></script>
   </head>
   <body>
-    <div>
+    <style>
+      body {
+	  font-family: arial;
+	  font-size: 20pt;
+	  padding: 34pt;
+      }
+      select {
+	  font-size: 20pt;
+	  border: none;
+	  color: gray;
+	  background: white;
+      }
+      button {
+	  font-size: 20pt;
+	  border: none;
+	  background: none;
+      }
+
+      #container {
+	  max-width: 800px;
+      }
+
+      .tt-input-done {
+	  vertical-align: top;
+	  display: inline-block;
+	  white-space: pre;
+      }
+
+      #move-with-input {
+	  display: inline-block;
+      }
+      
+      #editspan {
+	  min-height: 20px;
+	  min-width: 100px;
+	  max-width: 600px;
+	  display: inline-block;
+      }
+      
+      #editspan:focus {
+	  outline: none;
+      }
+
+      #start-tip {
+	  color: gray;
+      }
+      
+/*      input {
+	  font-size: 20pt;
+      }
+
+      input:focus { outline: none } 
+
+      .inputcontainer {
+	  position: relative;
+	  left: -2px;
+      }
+      
+      .language-input {
+	  border: none;
+	  position: relative;
+	  top: -1px;
+      }
+
+      .flex-wrap {
+	  display:flex;
+      } */
+      
+    </style>
+        <!--    <div style="position: fixed; bottom: 0px">-->
+      <div style="color:gray">
       your language
       <select id="langB">
-	<option value="de">de</option>
-	<option value="en">en</option>
-	<option value="he">he</option> 
       </select>
       learn language
       <select id="langA">
-	<option value="de">de</option>
-	<option value="en">en</option>
-	<option value="he" selected>he</option> 
+	<option value="any">any</option>
       </select>
-      <button id="go-button">go</button>
-    </div>
-    <div id="container">
-      <style> input:focus { outline: none } 
- body {
-     font-family: arial
- }
- .inputcontainer {
-     display: block;
-     position: relative;
-     width:100%;
-     height: 36px;
-     left: -1px;
-     background-color: white;
- }
- #persistent-placeholder {
-     width:100%;
-     color: grey;
-     z-index: 0;
-     top: 0px; bottom: 0;
-     left: 0; right: 0;
-     background-color: transparent;
-     border: none;
-     font-size: 14pt;
-     line-height: 34px; /* whyever two px less than free-typing */ 
- }
- .free-typing {
-     z-index: 1;
-     width: 100%;
-     background-color: transparent;
-     position: absolute;
-     top: 0px;  bottom: 0;
-     left: 0;  right: 0;
-     border: none;
-     font-size: 14pt;
-     line-height: 36px; 
- }
-      </style>
-      <div class="a88hkc" style="float:right; margin-top: 18pt" id="tt-help">help</div>
-      <br/>
-      <div id="texttrain" style="float:left; display: inline; width: 80%; margin-top: 24px; margin-left: 24pt; padding: 24pt; background: white;">
-	<!-- <div style="font-size:8pt; color:gray; position relative; top:-60px" id="tt-help">help</div>-->
-	<!-- <span id="tt-close" style="margin-left:auto; margin-right:0" class="material-icons-outlined" >close</span> --> 
-	<div id="tt-lang-b">
-	</div>
-	<div id="tt-lang-a">
-	</div>
-
-	<div style="display:flex"> <!-- flex wrap -->
-	  <span id="tt-input-done" style="vertical-align: top; line-height: 36px; display:inline-block; white-space:pre">
-	  </span>
-	  <div class="tt-move-with-input" style="display:inline-block; flex-grow:1"> 
-	    <div class="inputcontainer">
-	      <input id="tt-input2" type="text" value="" class="free-typing"></input>
-	      <input autocomplete="off" value="" id="persistent-placeholder"/>
-	    </div> <!-- inputcontainer -->
-	    <!--<input id="tt-input" oninput="this.style.width=this.value.length+'ch'" style="border: 1px solid red; font-size:14pt" autofocus> -->
-</input>
-<div id="tt-suggestions" style="margin-left:1px; display:inline-block">
-</div>
-	  </div> <!-- move-with-input -->
-	</div> <!-- flex wrap --> 
+<!--      <button id="go-button">go</button>-->
       </div>
-    </div>
-    
-    
-</div>
-</body>
+      <br/>
+
+      <div id="container">
+
+	<!--  <div class="a88hkc" style="float:right; margin-top: 20pt" id="tt-help">help</div>-->
+	<div id="texttrain">
+	  <!-- <div style="font-size:8pt; color:gray; position relative; top:-60px" id="tt-help">help</div>-->
+	  <div id="tt-lang-b">
+	  </div>
+	  
+	  <div id="tt-lang-a">
+	  </div>
+
+
+	  <div id="move-with-input">
+	    <!-- i couldn't get a resizable <input> to work, this page suggested a editable span: https://css-tricks.com/auto-growing-inputs-textareas/ -->
+	    <span role="textbox" id="editspan" contenteditable></span><br/>
+	    <span id="suggestions"></span>
+	  </div>
+
+	  <span id="start-tip">
+	  </span>
+
+
+
+<!--	  <div class="flex-wrap"> <!-- flex wrap 
+	    <div id="tt-move-with-input" style="display:inline-block; flex-grow:1"> 
+	      <div class="inputcontainer">
+		<input id="tt-input2" type="text" value="" class="language-input"/>
+	      </div>
+	      <div id="tt-suggestions" style="margin-left:1px; display:inline-block">
+	      </div>
+	    </div>
+	  </div> <!-- flex wrap --> 
+	</div>
+      </div>
+
+      <script src="tlit/kanjidict.js"></script>
+      <script src="tlit/unicode-tlit-array.js"></script>
+      <script src="tlit/translit.js"></script>
+      <script src="dict-03-04.js"></script>
+      <script src="iso-lang-names.js"></script>
+      <script src="text-train.js"></script>
+      <script src="main.js"></script>
+
+  </body>
 </html>

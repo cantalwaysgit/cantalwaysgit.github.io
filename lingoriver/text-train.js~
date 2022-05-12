@@ -1,7 +1,9 @@
 // ui and translate kickoff, started by main.js 
 
-function TextTrain(sentences) {
+function TextTrain(sentences, onSentenceNeed) {
 
+    //    this.onSentenceNeed = null // called when sentences batch is empty
+    this.close = close
     this.pushSentence = pushSentence
 
     var trainSentenceIndex = 0
@@ -12,9 +14,9 @@ function TextTrain(sentences) {
     var suggestionsE
     var langASentenceE
     var langBSentenceE
-    var inputDoneE
+//    var inputDoneE
     var inputE
-    var placeholderE
+//    var placeholderE
 
     //    startButton.style.display = "none"
     //var doorUI = document.getElementById("ht-door")
@@ -26,51 +28,41 @@ function TextTrain(sentences) {
 //    var displayMode = 1 // 0: whole sentence printed, type in middle, 1: whole sentence as placeholder
 
     var container = document.getElementById("container")
-    container.style = "font-size:14pt; position:relative;"
-//    container.innerHTML = html
-    //    document.querySelectorAll(".WFnNle")[0].appendChild(container)
-//    document.body.appendChild(container)
 
-    inputE = document.getElementById("tt-input2")
-    placeholderE = document.getElementById("persistent-placeholder")
-    inputDoneE = document.getElementById("tt-input-done")
+    inputE = document.getElementById("editspan")
+//    placeholderE = document.getElementById("persistent-placeholder")
+//    inputDoneE = document.getElementById("tt-input-done")
+    var moveWithInputE = document.getElementById("move-with-input")
     langBSentenceE = document.getElementById("tt-lang-b")
     langASentenceE = document.getElementById("tt-lang-a")
-    suggestionsE = document.getElementById("tt-suggestions")
-    helpE = document.getElementById("tt-help")
+    suggestionsE = document.getElementById("suggestions")
+//    helpE = document.getElementById("tt-help")
     var closeButton = document.getElementById("tt-close")
 
     // ui final touches
     inputE.focus()
     startTranslateWait()
 
-    // TODO clearer error handling?
     kickOff()
-/*    if(!kickOff()) {
-//      alert("Paste text to the translate field, and click 'Start Text Train' again")
-        return
-    }  */
 
-
-
-    inputE.addEventListener("input", function() {
-        var s = inputE.value
-        // different from placeholder? hide placeholder
-        if (s != placeholderE.value.substring(0, s.length)) {
-            // remove the last character
-//          inputE.value = s.substring(0, s.length-1)
-            placeholderE.style.visibility = "hidden"
-        } else {
-            placeholderE.style.visibility = "visible"
-        }
-
+    // handle normal input
+    inputE.addEventListener("input", handleInput)
+    
+    // handleInput listens to input on inputE
+    function handleInput(event) {
+        var s = inputE.textContent
+	console.log("input: '" + s.charAt(s.length-1) + "'")
         // word break
-        if (s.charAt(s.length-1) == " ") { 
+        if (s.charAt(s.length-1).match(/\s/)) {
+	    console.log("word break")
             handleWordBreak()
         }
-    })
+    }
 
-    inputE.addEventListener("keydown", function(event) {
+    inputE.addEventListener("keydown", handleKeydown)
+    // handleKeydown listenes for keydowns on inputE
+    function handleKeydown(event) {
+	document.getElementById("start-tip").style.display = "none"
         if (event.code == "Tab") {     // skip sentence
             if(hasNextSentence()) {
                 nextSentence()
@@ -83,11 +75,22 @@ function TextTrain(sentences) {
         } else if (event.code == "Enter") { // word break
             handleWordBreak()
         }
-    })
+//	console.log(event.code)
 
-    helpE.addEventListener("click", function() {
+	if (inputBlocked) {
+	    // if backspace, reopen input
+	    if (event.code == "Backspace") {
+		inputBlocked = false
+	    } else {
+		// block input
+		event.preventDefault()
+	    }
+	}
+    }
+
+/*    helpE.addEventListener("click", function() {
         alert("Retype the second sentence. \n Keyboard shortcuts: \n tab - skip sentence \n escape - quit")
-    })
+    }) */
 
     // pushSentence lets the caller add new sentences
     function pushSentence(s) {
@@ -101,7 +104,14 @@ function TextTrain(sentences) {
 //      swd.FillWithChapterString()
 
         // hacky, maybe on file loaded etc
-        nextSentenceTranslated()
+//        nextSentenceTranslated()
+
+	document.getElementById("start-tip").textContent = "[repeat the second line]"
+
+	inputE.focus()
+	
+	updateTrainSentence()
+        updateSuggestions()
 
 /*      if (swd.SentenceN > 0) {
             //            swd.onSentenceTranslated = nextSentenceTranslated
@@ -111,6 +121,7 @@ function TextTrain(sentences) {
     }
 
     // handleWordBreak takes care of words the user enters
+    var inputBlocked = false
     function handleWordBreak() {
         if(!sentences[trainSentenceIndex]) {
             console.log("no sentence")
@@ -118,30 +129,45 @@ function TextTrain(sentences) {
         }
         var wps = sentences[trainSentenceIndex].wordPairs
         // input does not match source
-        var userIn = inputE.value.trim()
+        var userIn = inputE.textContent.trim()
         //        var check = wordTranslitForUser(wps[wordIndex].Hebrew)
         var check = wps[wordIndex].langA
-        if (userIn !== check && clearNonLetters(userIn) != clearNonLetters(check)) {
-//            console.log("input '"+userIn+"' does not match source '"+check+"'")
+        if (userIn !== check &&
+	    userIn.replaceAll(/[^a-zA-Z]/g, "") != translit(check).replaceAll(/[^a-zA-Z]/g, "")) {
+            console.log("input '"+userIn+"' does not match source '"+check+"'")
+	    inputBlocked = true
             return
         }
+	// word matches, if input blocked, unblock
+	inputBlocked = false
 
-        // input matches, continue with...
+        // continue with...
         if (wordIndex < wps.length - 1) {     // ...next word
-            inputDoneE.innerHTML +=  check + " "
+	    //            inputDoneE.innerHTML +=  translit(check) + " "
+	    //	    inputDoneE.innerHTML +=  userIn + " "
+	    // use single spans for linebreaks to work
+	    var span = document.createElement("span")
+	    span.className = "tt-input-done"
+	    span.innerHTML = userIn + " "
+	    moveWithInputE.parentNode.insertBefore(span, moveWithInputE)
+
             wordIndex++
-            inputE.value = ""
+            inputE.textContent = ""
             updateSuggestions()
-/*            if (displayMode == 1) {
-                placeholderE.value = placeholderE.value.replace(/[^ ]+ /, "")
-            } */
         }  else if (hasNextSentence()) {     // ...next sentence
             nextSentence()
             updateSuggestions()
+
+	    // ask for refill if sentences run low
+	    if (sentences.length - trainSentenceIndex <= 2) {//  && this.onSentenceNeed) {
+		console.log("has sentence need")
+		onSentenceNeed()
+	    }
         }
-        else {      // ...done
+        else {      // ...done, should be prevented through needsSentences
             close()
         }
+
     }
 
     // hasNextSentence: is there a next sentence?
@@ -151,8 +177,16 @@ function TextTrain(sentences) {
 
     // close closes the ui
     function close() {
-        // remove container
-        container.parentNode.removeChild(container)
+
+	// to get a fresh instance of textTrain, it is not enough to set textTrain = null
+	// either remove listeners, or tear down textTrain ui and load it again?
+	inputE.removeEventListener("input", handleInput)
+	inputE.removeEventListener("keydown", handleKeydown) 
+
+	// remove container
+	//        container.parentNode.removeChild(container)
+
+	
         // show start ui with start button
 //        doorUI.style.display = "inline"
 
@@ -169,7 +203,7 @@ function TextTrain(sentences) {
     // display the next sentence
     function nextSentence() {
 
-        inputE.value = ""
+        inputE.textContent = ""
         wordIndex = 0
         trainSentenceIndex ++
 
@@ -188,13 +222,21 @@ function TextTrain(sentences) {
     function updateTrainSentence() {
         var sentence = sentences[trainSentenceIndex]
 
-//      stopTranslateWait()
-        inputDoneE.innerText = ""
+	//      stopTranslateWait()
+
+	// clear input done
+	var spans = document.getElementsByClassName("tt-input-done")
+	while (spans.length > 0) {
+	    spans[0].parentNode.removeChild(spans[0])
+	}
+	//        inputDoneE.innerText = ""
+	
         // remember to hide langA and keep langB
         clearInputOnInput = true
 
         if (!sentence) {
             console.log("error no sentence")
+	    if (hasNextSentence()) { nextSentence() }
             return
         }
 
@@ -205,27 +247,31 @@ function TextTrain(sentences) {
             //            langA += wordTranslitForUser(w.Hebrew) + " "
             langA += w.Hebrew + " "
             } */
-	var langA = sentence.langA
-
-        var langB = sentence.langB
         // translit? or ist this too much?
 //      langB += "<br/>hineh yhvh boqeq ha’arets ubolqah ve‘ivah faneha veheifits yoshebeha."
 //      langB = translit(sentence.english) // maybe todo: same for langB as for langA?
 
         //      langBSentenceE.innerText = langB
-        langBSentenceE.innerHTML = langB
+
 /*        switch (displayMode) {
           case 0: */
-	langBSentenceE.innerText = langB
-        langASentenceE.innerText = langA
 
-/*        case 1:
-            placeholderE.value = langA
-        } */
+	var langA = sentence.langA
+        var langB = sentence.langB
+
+	langBSentenceE.innerHTML = translit(langB)
+        langASentenceE.innerText = translit(langA)
+
     }
 
-    // use the whole word pool
+    // generateSuggestions generates suggestions
     function generateSuggestions() {
+	
+	// leave blank
+	return ""
+
+	
+	
         if (!sentences[trainSentenceIndex]) { // not so cool, but at least avoid crash when current sentence is undefined?
             return ""
         }
@@ -258,7 +304,7 @@ function TextTrain(sentences) {
         return translit(s).replace(/\s/g, "")
     } */
 
-    // remove trailing
+    // clearNonLetters removes non letters
     function clearNonLetters(s) {
         return s.replace(/\P{Letter}/ug, "")
     }
@@ -276,15 +322,13 @@ function TextTrain(sentences) {
     }
 
     // if translation
-    function nextSentenceTranslated() {
+/*    function nextSentenceTranslated() {
 //      stopTranslateWait()
 
-        updateTrainSentence()
-        updateSuggestions()
 
         // remove listener
 //      swd.onSentenceTranslated = null
-    } 
+    }  */
 
     // in-place shuffle
     function shuffle(array) {

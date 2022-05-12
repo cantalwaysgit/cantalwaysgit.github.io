@@ -64,6 +64,7 @@ function TextTrain(sentences, onSentenceNeed) {
     function handleKeydown(event) {
 	document.getElementById("start-tip").style.display = "none"
         if (event.code == "Tab") {     // skip sentence
+	    event.preventDefault()
             if(hasNextSentence()) {
                 nextSentence()
                 inputE.focus()
@@ -106,7 +107,7 @@ function TextTrain(sentences, onSentenceNeed) {
         // hacky, maybe on file loaded etc
 //        nextSentenceTranslated()
 
-	document.getElementById("start-tip").textContent = "[repeat the second line]"
+	document.getElementById("start-tip").textContent = "[repeat the second line twice]"
 
 	inputE.focus()
 	
@@ -141,16 +142,16 @@ function TextTrain(sentences, onSentenceNeed) {
 	// word matches, if input blocked, unblock
 	inputBlocked = false
 
+	//            inputDoneE.innerHTML +=  translit(check) + " "
+	//	    inputDoneE.innerHTML +=  userIn + " "
+	// use single spans for linebreaks to work
+	var span = document.createElement("span")
+	span.className = "tt-input-done"
+	span.innerHTML = userIn + " "
+	moveWithInputE.parentNode.insertBefore(span, moveWithInputE)
+
         // continue with...
         if (wordIndex < wps.length - 1) {     // ...next word
-	    //            inputDoneE.innerHTML +=  translit(check) + " "
-	    //	    inputDoneE.innerHTML +=  userIn + " "
-	    // use single spans for linebreaks to work
-	    var span = document.createElement("span")
-	    span.className = "tt-input-done"
-	    span.innerHTML = userIn + " "
-	    moveWithInputE.parentNode.insertBefore(span, moveWithInputE)
-
             wordIndex++
             inputE.textContent = ""
             updateSuggestions()
@@ -200,12 +201,41 @@ function TextTrain(sentences, onSentenceNeed) {
 
     }
 
+/*    var secondTimeE = document.getElementById("second-time")
+
+    // quick and dirty second-time listener, no checking
+    secondTimeE.addEventListener("keydown", function (e) {
+	if (e.code == "Enter") {
+	    secondTimeE.value = ""
+	    if (hasNextSentence()) {
+		nextSentence()
+		inputE.focus()
+	    }
+	}
+    })*/
+    
+    var repeat = true // next sentence is repeat of current sentence
     // display the next sentence
     function nextSentence() {
 
         inputE.textContent = ""
         wordIndex = 0
-        trainSentenceIndex ++
+
+	 trainSentenceIndex++
+	/* if (repeat == false) {
+            trainSentenceIndex ++
+	    repeat = true
+	} else {
+	    repeat = false
+	    // type sentence a second time
+            // insert line break
+	    var brElement = document.createElement("span")
+	    brElement.className = "tt-input-done"
+//	    brElement.innerHTML = "<br/>"
+	    brElement.style.display = "block" // otherwise no line break visible
+	    moveWithInputE.parentElement.insertBefore(brElement, moveWithInputE)
+	    return
+	} */
 
         updateTrainSentence()
         // translation not yet available

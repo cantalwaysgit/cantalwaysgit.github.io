@@ -97,6 +97,11 @@ function refillTextTrain() {
 	if (langA == "any") {
 //	    console.log("here")
 	    l = languages[Math.floor(Math.random()*languages.length)]
+	    // avoid the same language for langA and langB
+	    if (l == langB) {
+		i-- // repeat this loop iteration
+		continue
+	    }
 	    nextLangAs[i] = l
 	} else {
 	    nextLangAs[i] = langA
@@ -233,6 +238,7 @@ function getSentencePair(text, langA, langB) {
 
 // displayStrip removes strings like &rlm; and | from sentence chunks that are displayed
 function displayStrip(s) {
+    s = s.replaceAll(/♪/g, "")
     s = s.replaceAll(/&.*;/g, "")
     s = s.replaceAll(/\|/g, "")
     return s
