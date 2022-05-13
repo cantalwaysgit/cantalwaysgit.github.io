@@ -107,7 +107,7 @@ function TextTrain(sentences, onSentenceNeed) {
         // hacky, maybe on file loaded etc
 //        nextSentenceTranslated()
 
-	document.getElementById("start-tip").textContent = "[repeat the second line twice]"
+	document.getElementById("start-tip").textContent = "[repeat the second line]"
 
 	inputE.focus()
 	
