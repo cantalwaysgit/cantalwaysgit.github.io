@@ -163,16 +163,20 @@ function continueAfterIdFetch() {
 
 
 		    //		console.log("text: " + text)
-		    var sentence = getSentencePair(text, _langA, langB)
-		    console.log("sentence word pairs: " + sentence.wordPairs[0].langA)
-		    if (textTrain == null) {
-			textTrain = new TextTrain([sentence], refillTextTrain)
-//			console.log("onSentenceNeed set")
-			//		    textTrain.onSentenceNeed = refillTextTrain()
-			//		    textTrain.onSentenceNeed = (function() { alert("needs sentences") } )()
-		    } else {
-			textTrain.pushSentence(sentence)
-		    }
+		var sentence = getSentencePair(text, _langA, langB)
+		if (!sentence) {
+		    return
+		}
+		
+		console.log("sentence word pairs: " + sentence.wordPairs[0].langA)
+		if (textTrain == null) {
+		    textTrain = new TextTrain([sentence], refillTextTrain)
+		    //			console.log("onSentenceNeed set")
+		    //		    textTrain.onSentenceNeed = refillTextTrain()
+		    //		    textTrain.onSentenceNeed = (function() { alert("needs sentences") } )()
+		} else {
+		    textTrain.pushSentence(sentence)
+		}
 
 	    })
 	})()
@@ -209,13 +213,17 @@ function getSentencePair(text, langA, langB) {
     }
 
     // sometimes there is no langASentence or langBSentence
-    if (!langASentence || !langBSentence) {
-	return
+    // or sentence is only a description in [] brackets removed by displayStrip
+    if (!langASentence || !langBSentence || !langBSentence.match(/\p{L}/u) || !langASentence.match(/\p{L}/u)) {
+	return null
     }
     var wp = []
-    //  /([^\p{L}\p{M}]* +[^\p{L}\p{M}]*)/gu
-//    langASentence = insertBlanksJaZh(langASentence) // for check to work
+
+    //    var sentencePrep = translit(langASentence)
+    //    var words = sentencePrep.split(/[^\p{L}\p{M}\p{N}]* +[^\p{L}\p{M}\p{N}]*/u)
+    
     var words = insertBlanksJaZh(langASentence).split(/[^\p{L}\p{M}\p{N}]* +[^\p{L}\p{M}\p{N}]*/u)
+
     console.log("words: " + words)
     for (var s of words) {
 	// skip if s has no letter
@@ -238,6 +246,9 @@ function getSentencePair(text, langA, langB) {
 
 // displayStrip removes strings like &rlm; and | from sentence chunks that are displayed
 function displayStrip(s) {
+    s = s.replaceAll(/\[.*\]/g, "") // stuff in square brackets
+    s = s.replaceAll(/\P{L}*$/gu, "") // non-letters at end
+    s = s.replaceAll(/^-/g, "")
     s = s.replaceAll(/♪/g, "")
     s = s.replaceAll(/&.*;/g, "")
     s = s.replaceAll(/\|/g, "")

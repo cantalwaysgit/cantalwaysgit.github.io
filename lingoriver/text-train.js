@@ -289,8 +289,15 @@ function TextTrain(sentences, onSentenceNeed) {
 	var langA = sentence.langA
         var langB = sentence.langB
 
+	//	langASentenceE.innerText = translit(langA)
+	// word by word, that arabic order is preserved
+	langASentenceE.innerText = ""
+	for (var wp of sentence.wordPairs) {
+	    console.log(wp.langA)
+	    langASentenceE.textContent += translit(wp.langA) + " "
+	}
 	langBSentenceE.innerHTML = translit(langB)
-        langASentenceE.innerText = translit(langA)
+
 
     }
 
