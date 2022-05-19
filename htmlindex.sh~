@@ -1,0 +1,1 @@
+ls -R | htmllinkls | my-txt2html 
